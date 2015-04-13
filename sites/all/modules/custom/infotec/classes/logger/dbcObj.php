@@ -40,14 +40,14 @@ namespace ecpi {
 				* $dir = (empty($path) ? dirname(__FILE__) : trim($path, '/'));
 				*/
 
-				$dir = (empty($path) ? dirname(__FILE__) . '/../../../../default/files/' : trim($path, '/'));
+				$dir = (empty($path) ? dirname(__FILE__) . '/../../../../../../default/files/' : trim($path, '/'));
 				$dir .= '/infotechlogs';
 
 				// the directory is always the 'logs' subdirectory
 				if(!file_exists($dir)) {
 					// create the log directory if needed
 					if( mkdir($dir, 0774, true) === false) {
-						$dir = dirname(__FILE__) . '/../../../../default/files' . '/infotechlogs';
+						$dir = dirname(__FILE__) . '/../../../../../../default/files' . '/infotechlogs';
   			/**
 				* $dir = dirname(__FILE__) . '/infotechlogs';
 				*/
