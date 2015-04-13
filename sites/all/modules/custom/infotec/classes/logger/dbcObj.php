@@ -36,7 +36,10 @@ namespace ecpi {
 			function __construct($module_name = false, $path=false) {
 				$this->module_name = (empty($module_name) ? 'debugger' : $module_name);
 				$this->module_name = str_replace(' ', '-', $this->module_name);
-				// $dir = (empty($path) ? dirname(__FILE__) : trim($path, '/'));
+				/**
+				* $dir = (empty($path) ? dirname(__FILE__) : trim($path, '/'));
+				*/
+
 				$dir = (empty($path) ? './../../../../default/files/' : trim($path, '/'));
 				$dir .= '/infotechlogs';
 
@@ -45,7 +48,9 @@ namespace ecpi {
 					// create the log directory if needed
 					if( mkdir($dir, 0774, true) === false) {
 						$dir = ./../../../../default/files . '/infotechlogs';
-//						$dir = dirname(__FILE__) . '/infotechlogs';
+  			/**
+				* $dir = dirname(__FILE__) . '/infotechlogs';
+				*/
 					}
 				}
 				$this->fn = $dir . '/' . $this->module_name . '.log';
