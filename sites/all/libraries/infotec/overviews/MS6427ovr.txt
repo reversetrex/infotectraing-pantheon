@@ -1,0 +1,1 @@
+In this 3-day instructor-led course, the students will learn to install, configure, maintain, and troubleshoot an Internet Information Services (IIS) 7.0 Web Server in Windows Server 2008.

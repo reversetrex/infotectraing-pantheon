@@ -1,0 +1,181 @@
+<h3><u>Introductory</u></h3>
+
+<p><strong>Lesson  1: Understanding Windows SharePoint Services 3.0</strong></p>
+
+<ul>
+  <li>Topic  1A: Introduction to Windows SharePoint Services</li>
+  <li>Topic  1B: The Windows SharePoint Services Team Site</li>
+</ul>
+
+<p><strong>Lesson  2: Working with Lists</strong></p>
+
+<ul>
+  <li>Topic  2A: Add List Items</li>
+  <li>Topic  2B: Modify List Items</li>
+  <li>Topic  2C: Change a List View</li>
+  <li>Topic  2D: Create a Personal View</li>
+</ul>
+
+<p><strong>Lesson  3: Working with Libraries</strong></p>
+
+<ul>
+  <li>Topic  3A: Add Documents to a Library</li>
+  <li>Topic  3B: Create Wiki Pages</li>
+  <li>Topic  3C: Open and Edit Library Files</li>
+</ul>
+
+<p><strong>Lesson  4: Communicating with Team Members</strong></p>
+
+<ul>
+  <li>Topic  4A: Participate in a Discussion Board</li>
+  <li>Topic  4B: Contribute to Blogs</li>
+  <li>Topic  4C: Collaborate via the People and Groups List</li>
+</ul>
+
+<p><strong>Lesson  5: Working Remotely with SharePoint Content</strong></p>
+
+<ul>
+  <li>Topic  5A: View SharePoint Content from Mobile  Devices</li>
+  <li>Topic  5B: Work with SharePoint Content Offline in Microsoft Office 2007</li>
+</ul>
+
+<p><strong>Lesson  6: Customizing Your SharePoint Environment</strong></p>
+
+<ul>
+  <li>Topic  6A: Customize Personal and Regional Settings</li>
+  <li>Topic  6B: Create an Alert</li>
+  <li>Topic  6C: Subscribe to an RSS Feed</li>
+  <li>Topic  6D: Create a Personal Page View with Web Parts</li>
+  <li>Topic  6E: Request Access to SharePoint Resources</li>
+</ul>
+
+<p><strong>Lesson  7: Creating a Team Site</strong></p>
+
+<ul>
+  <li>Topic  7A: Create a Site</li>
+  <li>Topic  7B: Create a Workspace</li>
+  <li>Topic  7C: Add a List</li>
+  <li>Topic  7D: Create a Public View</li>
+  <li>Topic  7E: Add a Library</li>
+  <li>Topic  7F: Create a Survey</li>
+  <li>Topic  7G: Grant Access to a SharePoint Site</li>
+</ul>
+
+<p><strong>Lesson  8: Performing Basic Site Administration</strong></p>
+
+<ul>
+  <li>Topic  8A: Manage Users and Groups</li>
+  <li>Topic  8B: Manage Site Look and Feel</li>
+  <li>Topic  8C: Perform Basic Content Management</li>
+</ul>
+
+<h3><u>Advanced</u></h3>
+
+<p><strong>Lesson 1: Creating Site Collections</strong></p>
+
+<ul>
+  <li>Topic 1A: Identify the Planning Process of a Site Collection</li>
+  <li>Topic 1B:  Create a Site Collection</li>
+</ul>
+
+<p><strong>Lesson 2: Managing Basic Site Collection Components</strong></p>
+
+<ul>
+  <li>Topic 2A: Brand a Site Collection</li>
+  <li>Topic 2B: Manage a Web  Part Gallery</li>
+</ul>
+
+<p><strong>Lesson 3: Managing Lists</strong></p>
+
+<ul>
+  <li>Topic 3A: Create an Issue Tracking List</li>
+  <li>Topic 3B: Create a Project Task List</li>
+  <li>Topic 3C: Apply Formulas and Functions to a List Column</li>
+  <li>Topic 3D: Create a Custom List</li>
+  <li>Topic 3E: Customize List Settings</li>
+  <li>Topic 3F: Work Offline  with Shared Calendars</li>
+</ul>
+
+<p><strong>Lesson 4: Managing Discussion Boards</strong></p>
+
+<ul>
+  <li>Topic 4A: Create a Discussion Board</li>
+  <li>Topic 4B: Customize  Existing Discussion Boards</li>
+</ul>
+
+<p><strong>Lesson 5: Managing Document Libraries</strong></p>
+
+<ul>
+  <li>Topic 5A: Create Library Templates</li>
+  <li>Topic 5B: Organize Documents in a Library</li>
+  <li>Topic 5C: Share Documents Across Libraries</li>
+  <li>Topic 5D: Apply  Information Rights Management to a Library</li>
+</ul>
+
+<p><strong>Lesson 6: Managing Form Libraries</strong></p>
+
+<ul>
+  <li>Topic 6A: Create a Form Library</li>
+  <li>Topic 6B: Customize Form  Templates Using InfoPath</li>
+</ul>
+
+<p><strong>Lesson 7: Managing Site Access Permission</strong></p>
+
+<ul>
+  <li>Topic 7A: Assign Group Permissions</li>
+  <li>Topic 7B: Manage User Permissions</li>
+  <li>Topic 7C: Set Site Level  Security</li>
+</ul>
+
+<p><strong>Lesson 8: Managing WSS Content</strong></p>
+
+<ul>
+  <li>Topic 8A: Create a Content Type</li>
+  <li>Topic 8B:  Apply Content Types to a List</li>
+</ul>
+
+<p><strong>Lesson 9: Managing Workflows</strong></p>
+
+<ul>
+  <li>Topic 9A: Add a Workflow</li>
+  <li>Topic 9B: Run a Workflow</li>
+</ul>
+
+<p><strong>Lesson 10: Working with Indexing and Searching</strong></p>
+
+<ul>
+  <li>Topic 10A: Index List Content</li>
+  <li>Topic 10B: Enable Search  Options</li>
+</ul>
+
+<p><strong>Lesson 11: Using Central Administration</strong></p>
+
+<ul>
+  <li>Topic 11A: Use Central Administration</li>
+  <li>Topic 11B: Add  Administrative Tasks</li>
+</ul>
+
+<p><strong>Lesson 12: Managing Security Options in WSS</strong></p>
+
+<ul>
+  <li>Topic 12A: Set Web Part Security</li>
+  <li>Topic 12B: Set Antivirus Options</li>
+  <li>Topic 12C: Manage Blocked File Types</li>
+  <li>Topic 12D: Explore  Authentication Modes</li>
+</ul>
+
+<p><strong>Lesson 13: Managing Site Usage</strong></p>
+
+<ul>
+  <li>Topic 13A: Set Site Collection Quotas and Locks</li>
+  <li>Topic 13B: Monitor Site  Usage</li>
+</ul>
+
+<p><strong>Lesson 14: Managing Site Maintenance</strong></p>
+
+<ul>
+  <li>Topic 14A: Recover Lost Information</li>
+  <li>Topic 14B: Perform a Backup</li>
+  <li>Topic 14C: Restore a Backup</li>
+</ul>
+

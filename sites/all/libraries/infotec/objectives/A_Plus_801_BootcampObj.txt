@@ -1,0 +1,9 @@
+<p>On course completion,  students will be able to:</p>
+<ul>
+  <li>Identify types and characteristics of PC and laptop  components, including motherboard, CPU, memory, and storage, input, and output  devices.</li>
+  <li>Install and configure peripheral devices and system  components.</li>
+  <li>Install and configure print devices.</li>
+  <li>Install and configure wired and wireless LAN links and  internet access devices.</li>
+  <li>Perform basic PC maintenance while working safely and  responsibly.</li>
+  <li>Communicate effectively with customers.</li>
+</ul>

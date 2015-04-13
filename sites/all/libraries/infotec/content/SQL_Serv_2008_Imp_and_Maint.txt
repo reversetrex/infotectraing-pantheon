@@ -1,0 +1,609 @@
+<h2>Session 1</h2>
+  <h3>Section A: Installation Considerations</h3>
+  <ul>
+    <li>Installation Options</li>
+    <li>Books Online</li>
+    <li>SQL Server Editions</li>
+    <li>CPU Requirements</li>
+    <li>File Locations</li>
+    <li>File Structure</li>
+    <li>Optimizing Tempdb</li>
+    <li>SQL Service Accounts</li>
+    <li>Special Considerations</li>
+  </ul>
+  <h3>Section B: Installing SQL Server</h3>
+  <ul>
+    <li>SQL Server Installation Center</li>
+    <li>Installation Features</li>
+    <li>Configuring Service Accounts</li>
+    <li>Report Service Options</li>
+  </ul>
+  <h3>Section C: Configuring SQL Server Instance</h3>
+  <ul>
+    <li>Memory Considerations</li>
+    <li>Affinity Mask</li>
+    <li>Management Studio</li>
+    <li>Instance Configuration</li>
+    <li>SP Configuration</li>
+    <li>Configuration Parameters</li>
+  </ul>
+  <h3>Section D: Configuring Services</h3>
+  <ul>
+    <li>SQL Server Browser</li>
+    <li>Configuration Manager</li>
+    <li>Service Properties</li>
+    <li>Network Configuration</li>
+    <li>Client Configuration</li>
+  </ul>
+  <h3>Section E: SQL Server Components</h3>
+  <ul>
+    <li>SQL Server Integration Services</li>
+    <li>SQL Server Analysis Services</li>
+    <li>SQL Server Reporting Services</li>
+    <li>Configure Replication</li>
+    <li>Replication Security</li>
+    <li>Reporting Services Configuration Manager</li>
+    <li>E-mail Settings for SSRS</li>
+    <li>Configuring Distribution</li>
+    <li>Distribution Settings</li>
+  </ul>
+  <h3>Section F: Configuring Database Mail</h3>
+  <ul>
+    <li>Database E-mail</li>
+    <li>Profiles and Accounts</li>
+    <li>Database Mail Setup</li>
+    <li>SMTP Server Name</li>
+    <li>Manage Profiles</li>
+    <li>Database Mail Configuration</li>
+  </ul>
+  <h3>Section G: Full-Text Indexing</h3>
+  <ul>
+    <li>Full-Text Overview</li>
+    <li>Full-Text Indexes</li>
+    <li>Enabling Indexing</li>
+    <li>Catalog Properties</li>
+    <li>Configuring Full-Text Indexes</li>
+    <li>Creating a Full-Text Index</li>
+    <li>Full-Text Indexing Homework</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: SQL Agent Operators</h3>
+  <ul>
+    <li>SQL Agent Properties</li>
+    <li>Creating an Operator</li>
+    <li>Pager Notifications</li>
+    <li>Operator Notifications</li>
+    <li>Fail-Safe Operator</li>
+  </ul>
+  <h3>Section B: SQL Agent Jobs</h3>
+  <ul>
+    <li>Creating New Job</li>
+    <li>Job Categories</li>
+    <li>Job Steps and Types</li>
+    <li>Step Advanced Options</li>
+    <li>Job Schedules</li>
+    <li>Alerts and Notifications</li>
+    <li>Target Servers</li>
+    <li>Security Roles</li>
+    <li>SQL Agent Job Security</li>
+    <li>Creating a Credential</li>
+    <li>Creating a Proxy</li>
+  </ul>
+  <h3>Section C: SQL Agent Alerts</h3>
+  <ul>
+    <li>Alert Overview</li>
+    <li>New Alert</li>
+    <li>Alert Response</li>
+    <li>Firing the Alert</li>
+    <li>Performance Alerts</li>
+    <li>WMI Alerts</li>
+    <li>Creating WMI Alert</li>
+  </ul>
+  <h3>Section D: Declarative Management Framework</h3>
+  <ul>
+    <li>Policy-Based Management</li>
+    <li>Facets</li>
+    <li>New Condition</li>
+    <li>New Policy</li>
+    <li>Evaluate Policy</li>
+    <li>Naming Condition</li>
+    <li>Naming Policy</li>
+    <li>Evaluate Naming Policy</li>
+    <li>Managing Policy Categories</li>
+  </ul>
+  <h3>Section E: Backing Up</h3>
+  <ul>
+    <li>Backup Concepts</li>
+    <li>Windows Server Backup</li>
+    <li>Backup Schedule</li>
+  </ul>
+  <h3>Section F: SQL Security Considerations</h3>
+  <ul>
+    <li>Surface Area Security</li>
+    <li>sp_configure Options</li>
+    <li>Authentication Modes</li>
+    <li>SQL Server Authentication</li>
+    <li>Trusted Security</li>
+    <li>Password Complexity</li>
+    <li>Password Expiration</li>
+  </ul>
+  <h3>Section G: Managing SQL Logins</h3>
+  <ul>
+    <li>Managing SQL Security</li>
+    <li>Creating Login in T-SQL</li>
+    <li>Working with Logins</li>
+    <li>System Login Tokens</li>
+    <li>Using LOGINPROPERTY</li>
+    <li>Fixed Server Roles</li>
+    <li>Public Server Roles</li>
+    <li>ServerPrincipal</li>
+  </ul>
+  <h3>Section H: Managing SQL Instance Permissions</h3>
+  <ul>
+    <li>Login Triggers</li>
+    <li>Login Trigger Benefits</li>
+    <li>Creating a Trigger</li>
+    <li>Testing Trigger</li>
+    <li>Ownership Chaining</li>
+    <li>Fixed Roles vs. Permissions</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Auditing SQL Instances</h3>
+  <ul>
+    <li>C2 Security</li>
+    <li>C2 Considerations</li>
+    <li>ICC for IT Security Evaluation</li>
+    <li>Common Criteria</li>
+    <li>Audit Login Failures</li>
+    <li>DDL Triggers</li>
+    <li>Using Triggers</li>
+    <li>EVENTDATA Function</li>
+    <li>Viewing Triggers</li>
+    <li>Event Notifications</li>
+    <li>Configuring Event Notifications</li>
+    <li>Event Notification Processor</li>
+    <li>Create Queue and Service</li>
+    <li>Using Server Notifications</li>
+  </ul>
+  <h3>Section B: Understanding Users and Roles</h3>
+  <ul>
+    <li>Adding Database Users</li>
+    <li>Special Users</li>
+    <li>Database Roles</li>
+    <li>Object Name Resolution</li>
+    <li>Roles</li>
+    <li>Application Roles</li>
+    <li>Using Application Roles</li>
+  </ul>
+  <h3>Section C: Managing Users and Roles</h3>
+  <ul>
+    <li>Creating New User</li>
+    <li>Create User with T-SQL</li>
+    <li>Create Role with T-SQL</li>
+  </ul>
+  <h3>Section D: Schema and Object Permissions</h3>
+  <ul>
+    <li>Schemas</li>
+    <li>Schemas Defined</li>
+    <li>Chain of Ownership</li>
+    <li>When Is Security Checked?</li>
+    <li>Scenario One</li>
+    <li>Scenario Two</li>
+    <li>Scenario Three</li>
+    <li>Configure Schema Permissions</li>
+    <li>Create Schema and Tables</li>
+    <li>Impersonation</li>
+    <li>Change User Default Schema</li>
+    <li>Impersonation Defined</li>
+    <li>Cross DB Chaining</li>
+    <li>Cross DB Chaining Problems</li>
+    <li>Extending Impersonation</li>
+    <li>Using Certificates to Impersonate</li>
+  </ul>
+  <h3>Section E: Transparent Data Encryption</h3>
+  <ul>
+    <li>Transparent Data Encryption Defined</li>
+    <li>Backups</li>
+    <li>Backing Up the Table</li>
+    <li>Enable Database Encryption</li>
+    <li>Backing Up Certificates</li>
+    <li>Restoring Encrypted Databases</li>
+  </ul>
+  <h3>Section F: Creating Databases</h3>
+  <ul>
+    <li>Understanding Databases</li>
+    <li>Transaction Log</li>
+    <li>Database Creation Options</li>
+    <li>Database Syntax</li>
+    <li>Collation</li>
+    <li>Sorting Data</li>
+    <li>Comparing Data</li>
+    <li>Automatic and Explicit Data Collation</li>
+  </ul>
+  <h3>Section G: Manage and Configure Databases</h3>
+  <ul>
+    <li>Transaction Log Rules</li>
+    <li>Recovery Considerations</li>
+    <li>Filegroup Introduction</li>
+    <li>Understanding Filegroups</li>
+    <li>New Database</li>
+    <li>Options and Filegroups</li>
+    <li>Recovery Models Defined</li>
+    <li>Create Database Using T-SQL</li>
+    <li>Adding Multiple Data Files</li>
+    <li>Adding Multiple Filegroups</li>
+    <li>Data File Location</li>
+    <li>Detach/Attach Databases</li>
+    <li>Detach Database Steps</li>
+    <li>Attach a Database</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Understanding Backups</h3>
+  <ul>
+    <li>Backup Methods</li>
+    <li>Types of Backup</li>
+    <li>Backup Permissions</li>
+    <li>Backing Up to Disk</li>
+    <li>Backing Up to Tape</li>
+    <li>Backup - How Often?</li>
+    <li>Full Backup</li>
+    <li>Full Backup - When?</li>
+    <li>Backup Options</li>
+    <li>Tape Options</li>
+  </ul>
+  <h3>Section B: Performing Full Backups</h3>
+  <ul>
+    <li>Perform Backup</li>
+    <li>Change Default Filegroup</li>
+    <li>Backing Up to Default Directory</li>
+    <li>Other Backup Types</li>
+    <li>Striped Set Backups</li>
+    <li>Same File Backups</li>
+  </ul>
+  <h3>Section C: Restore Concepts</h3>
+  <ul>
+    <li>Restore vs. Recovery</li>
+    <li>Automatic Recovery</li>
+    <li>Restore Types</li>
+    <li>Restore Process</li>
+    <li>What Is On the Media?</li>
+    <li>RESTORE VERIFYONLY</li>
+    <li>RESTORE FILELISTONLY</li>
+    <li>RESTORE LABELONLY and HEADERONLY</li>
+  </ul>
+  <h3>Section D: Restoring Full Backups</h3>
+  <ul>
+    <li>Restore Steps</li>
+    <li>Restore Command</li>
+    <li>Restore Options</li>
+    <li>Simple Restore</li>
+    <li>Manual Recovery</li>
+    <li>Restore Mirrors and Striped Sets</li>
+    <li>Restore Change Name</li>
+    <li>Restore Compressed Backup</li>
+  </ul>
+  <h3>Section E: Performing Transaction Log Backups</h3>
+  <ul>
+    <li>Transaction Log Backup</li>
+    <li>Normal Log Backup</li>
+    <li>Backup Log Options</li>
+    <li>Full Log Considerations</li>
+    <li>Running Transaction Log Backup</li>
+  </ul>
+  <h3>Section F: Restoring Transaction Log Backups</h3>
+  <ul>
+    <li>Log Restore Process</li>
+    <li>Understanding Backup NO_TRUNCATE</li>
+    <li>Restore Setup</li>
+    <li>Restore with Recovery</li>
+    <li>Restoring with NORECOVERY</li>
+  </ul>
+  <h3>Section G: Performing Differential Backups</h3>
+  <ul>
+    <li>Understanding Differential Backups</li>
+    <li>Monday Differential</li>
+    <li>Sunday Differential</li>
+    <li>Standard Scenario</li>
+    <li>Differential Backup</li>
+  </ul>
+  <h3>Section H: File and Filegroup Backups</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Restoring Files and Filegroups</li>
+    <li>Online Restore</li>
+    <li>Backing Up Files and Filegroups</li>
+    <li>File and Filegroup Backup Options</li>
+  </ul>
+  <h3>Section I: Managing Database Snapshots</h3>
+  <ul>
+    <li>Snapshots Defined</li>
+    <li>Snapshot Restrictions</li>
+    <li>Snapshot Implementation</li>
+    <li>Best Practices</li>
+    <li>Create Snapshot</li>
+    <li>Use Snapshot</li>
+    <li>Update Snapshot</li>
+    <li>DDL Changes</li>
+    <li>Restoring From Snapshot</li>
+  </ul>
+  <h3>Section J: Managing Database Integrity</h3>
+  <ul>
+    <li>Integrity</li>
+    <li>DBCC CHECKDB</li>
+    <li>Suspect Pages</li>
+    <li>Event Types</li>
+    <li>Managing Integrity</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Maintenance Plans</h3>
+  <ul>
+    <li>Understanding Database Maintenance</li>
+    <li>Maintenance Tasks</li>
+    <li>Reviewing Maintenance Plans</li>
+  </ul>
+  <h3>Section B: Import and Export Data</h3>
+  <ul>
+    <li>Relocating Data</li>
+    <li>SELECT INTO</li>
+    <li>Import/Export Wizard</li>
+    <li>Using Import/Export Wizard</li>
+    <li>Bulk Imports</li>
+    <li>Bulk Copy</li>
+    <li>BCP</li>
+    <li>BCP Syntax</li>
+    <li>Bulk Copy Demonstration</li>
+    <li>BULK INSERT</li>
+    <li>BULK INSERT Demonstration</li>
+    <li>OPENROWSET</li>
+    <li>OPENROWSET Demonstration</li>
+    <li>OPENDATASOURCE Demonstration</li>
+  </ul>
+  <h3>Section C: Manage Data Partitions</h3>
+  <ul>
+    <li>Partitioned Tables</li>
+    <li>Benefits</li>
+    <li>Partition Table Candidates</li>
+    <li>Partition Steps</li>
+    <li>Partition Function</li>
+    <li>Partition Scheme</li>
+    <li>Partition Table Creation</li>
+    <li>Alter Table Commands</li>
+    <li>Merge/Split Partition</li>
+  </ul>
+  <h3>Section D: Partitioning</h3>
+  <ul>
+    <li>Create/Fill/Partition Database</li>
+    <li>Create Partition Function</li>
+    <li>Viewing Partitions and Row Counts</li>
+    <li>Partition Range Values and Parameters</li>
+    <li>Query Results</li>
+    <li>Nonpartition Execution Plan</li>
+    <li>Row Count Lookup</li>
+    <li>Switch Partitions</li>
+  </ul>
+  <h3>Section E: Data Compression</h3>
+  <ul>
+    <li>Row and Page Compression</li>
+    <li>Data Compression Demonstration</li>
+    <li>Compressing the Data</li>
+    <li>Enabling Compression</li>
+    <li>Sparse Columns</li>
+    <li>Using Sparse Columns</li>
+    <li>Insert Using Column Set</li>
+    <li>Updating Using Special Purpose Columns</li>
+  </ul>
+  <h3>Section F: Understanding Indexes</h3>
+  <ul>
+    <li>Indexing Pros and Cons</li>
+    <li>What Indexes Affect</li>
+    <li>Seek vs. Scan</li>
+    <li>Using Table Scan</li>
+    <li>Data Access and Usefulness</li>
+    <li>Data Access without Index</li>
+    <li>Data Access with Index</li>
+  </ul>
+  <h3>Section G: Index Structures</h3>
+  <ul>
+    <li>Indexes and Data Storage</li>
+    <li>Heap Storage</li>
+    <li>Clustered Indexes</li>
+    <li>Nonclustered Indexes</li>
+    <li>Nonclustered Index Example</li>
+    <li>Nonclustered</li>
+  </ul>
+  <h3>Section H: Creating Indexes</h3>
+  <ul>
+    <li>How Indexes Are Created</li>
+    <li>Create Index Command</li>
+    <li>Creating an Index Process</li>
+    <li>Creating an Index</li>
+    <li>sort_in_tempdb Command</li>
+    <li>ignore_dup_key Command</li>
+    <li>drop_existing Command</li>
+    <li>MAXDOP and Locking Commands</li>
+    <li>INCLUDE Command</li>
+    <li>Drop Index Command</li>
+    <li>Multi-Columned Indexes</li>
+    <li>Partitioned Index</li>
+    <li>Computed Column Index</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: Index Options and Metadata</h3>
+  <ul>
+    <li>Create Index Demonstration</li>
+    <li>Ignore Duplicate Key Values</li>
+    <li>Using Covering Index</li>
+    <li>Getting Index Information</li>
+    <li>XML/Physical Statistics</li>
+    <li>Getting Locking Information</li>
+    <li>DM DB Index Usage Statistics</li>
+  </ul>
+  <h3>Section B: Index Fragmentation</h3>
+  <ul>
+    <li>Understanding Index Fragmentation</li>
+    <li>Fixing Fragmentation</li>
+    <li>Page Fullness</li>
+    <li>Empty Pages</li>
+    <li>External Fragmentation</li>
+    <li>Pages Too Full</li>
+    <li>More External Fragmentation Concerns</li>
+    <li>Logical Fragmentation</li>
+    <li>Reorganize and Rebuild Index</li>
+    <li>Online Fragmentation Operations</li>
+    <li>Create Clustered Index with Fillfactor</li>
+    <li>Prepare for Index Tuning</li>
+    <li>Tuning Recommendations and Reports</li>
+    <li>Tuning Options</li>
+    <li>Filtered Indexes</li>
+  </ul>
+  <h3>Section C: XML Indexes</h3>
+  <ul>
+    <li>XML Index Considerations</li>
+    <li>XML Index Types</li>
+    <li>Path Secondary Index</li>
+    <li>Value Secondary Index</li>
+    <li>Property Secondary Index</li>
+    <li>Creating Primary XML Index</li>
+    <li>Creating Path Secondary Index</li>
+    <li>Enable/Disable Indexes</li>
+    <li>Tesselation Covering Rule</li>
+    <li>Tesselation Cells Per Object</li>
+    <li>Tesselation Deepest Cell</li>
+    <li>The Bounding Box</li>
+    <li>Creating Spatial Index</li>
+    <li>Create Geometry Table</li>
+    <li>Using New Index GUI</li>
+  </ul>
+  <h3>Section D: SQL Server Service Problems</h3>
+  <ul>
+    <li>Browser Service</li>
+    <li>Engine Startup</li>
+    <li>Tempdb Full</li>
+    <li>SQL Server Agent</li>
+  </ul>
+  <h3>Section E: Error Logs</h3>
+  <ul>
+    <li>Windows Event Logs</li>
+    <li>SQL Server Logs</li>
+    <li>Job History Log</li>
+  </ul>
+  <h3>Section F: Concurrency Problems</h3>
+  <ul>
+    <li>Lost Updates</li>
+    <li>Dirty Read</li>
+    <li>Non-Repeatable Read</li>
+    <li>Phantoms</li>
+    <li>Benefits of Locking</li>
+    <li>Lock Types</li>
+    <li>Intent Locks</li>
+    <li>Bulk Update Lock</li>
+    <li>Isolation Levels</li>
+    <li>Monitoring Locks</li>
+    <li>Deadlock Errors</li>
+    <li>Deadlock Demonstration</li>
+    <li>Lock Escalation Demonstration</li>
+    <li>Set Lock Escalation</li>
+    <li>Begin Transaction</li>
+    <li>Set Lock Escalation Automatic</li>
+    <li>Job Execution Problems</li>
+    <li>Proxy Accounts</li>
+  </ul>
+<h2>Session 7</h2>
+  <h3>Section A: Understanding High Availability</h3>
+  <ul>
+    <li>Database Mirroring</li>
+    <li>When to Mirror</li>
+    <li>How Mirroring Works</li>
+    <li>The Mirror Process</li>
+    <li>Mirror Mode Benefits</li>
+    <li>Setup Requirements</li>
+    <li>Mirroring Steps</li>
+    <li>Failover</li>
+    <li>Creating a Mirror Database</li>
+    <li>Set Up Mirroring</li>
+    <li>Set Up Failover Partner</li>
+  </ul>
+  <h3>Section B: Clustered Instances</h3>
+  <ul>
+    <li>Failover Clustering</li>
+    <li>Active/Active Considerations</li>
+    <li>SQL Editions</li>
+    <li>Requirements</li>
+    <li>Installation</li>
+    <li>When to Use Clustering</li>
+  </ul>
+  <h3>Section C: Implementing Log Shipping</h3>
+  <ul>
+    <li>Log Shipping</li>
+    <li>Switching Roles</li>
+    <li>Log Shipping Setup Primary Server</li>
+    <li>Log Shipping Setup Secondary Server</li>
+    <li>Monitoring Transaction Log Shipping</li>
+  </ul>
+  <h3>Section D: Understanding Replication</h3>
+  <ul>
+    <li>Replication</li>
+    <li>Language of Replication</li>
+    <li>Publications and Articles</li>
+    <li>Article Definition</li>
+    <li>Publisher/Distributor/Subscriber</li>
+    <li>Replication Remote Distribution</li>
+  </ul>
+  <h3>Section E: Planning for Replication</h3>
+  <ul>
+    <li>Replication Types</li>
+    <li>Snapshot Replication</li>
+    <li>Transactional Replication</li>
+    <li>Replication of Stored Procedures</li>
+    <li>Transactional Replication Continued</li>
+    <li>Peer-to-Peer Replication</li>
+    <li>Merge Replication</li>
+    <li>New Replication Features</li>
+    <li>Replication Planning</li>
+    <li>Workload</li>
+    <li>Choosing a Solution</li>
+  </ul>
+  <h3>Section F: Implementing Replication</h3>
+  <ul>
+    <li>Distributor Setup</li>
+    <li>Publisher Setup</li>
+    <li>Subscriber Setup</li>
+    <li>Configuring Distribution</li>
+    <li>Create New Publication</li>
+    <li>Create New Subscription</li>
+    <li>Replication Monitoring</li>
+  </ul>
+  <h3>Section G: Data Collection</h3>
+  <ul>
+    <li>System Monitor</li>
+    <li>Monitoring Memory</li>
+    <li>Monitoring the Processor</li>
+    <li>Monitoring Hard Disk I/O</li>
+    <li>Baseline Monitoring</li>
+    <li>Using System Monitor</li>
+    <li>Data Collector Sets</li>
+    <li>Profiler</li>
+    <li>Running SQL Server Profiler</li>
+    <li>Creating a Trace</li>
+    <li>Selecting Events to Capture</li>
+    <li>Running a Trace</li>
+  </ul>
+  <h3>Section H: Index Tuning and DMVs</h3>
+  <ul>
+    <li>Database Engine Tuning Advisor</li>
+    <li>Running Database Tuning Advisor</li>
+    <li>Tuning Options</li>
+    <li>Advisor Recommendations</li>
+    <li>Advisor Reports</li>
+    <li>Performance Monitoring Using DMVs</li>
+  </ul>
+  <h3>Section I: The Performance Studio</h3>
+  <ul>
+    <li>Management Data Warehouse</li>
+    <li>Collection Process</li>
+    <li>Data Collector</li>
+    <li>MDW Security</li>
+    <li>MDW Security Steps</li>
+    <li>Data Collection Setup</li>
+    <li>Review SQL Agent Collection Jobs</li>
+  </ul>

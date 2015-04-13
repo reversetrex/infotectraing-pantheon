@@ -1,0 +1,83 @@
+<p><strong>Lesson 1: Cryptography and Data Security</strong></p>
+<ul>
+  <li>Topic 1A: History of Cryptography</li>
+  <li>Topic 1B: Math and Algorithms</li>
+  <li>Topic 1C: Private Key Exchange</li>
+  <li>Topic 1D: Public Key Exchange</li>
+  <li>Topic 1E: Message Authentication</li>
+</ul>
+
+<p><strong>Lesson 2: Hardening Linux Computers</strong></p>
+<ul>
+  <li>Topic 2A: Linux Filesystem and Navigation</li>
+  <li>Topic 2B: General Secure System Management</li>
+  <li>Topic 2C: User and Filesystem Security Administration</li>
+  <li>Topic 2D: Network Interface Configuration</li>
+  <li>Topic 2E: Security Scripting</li>
+  <li>Topic 2F: Useful Linux Security Tools</li>
+</ul>
+
+<p><strong>Lesson 3: Hardening Windows Server 2003</strong></p>
+<ul>
+  <li>Topic 3A: Windows 2003 Infrastructure Security</li>
+  <li>Topic 3B: Windows 2003 Authentication</li>
+  <li>Topic 3C: Windows 2003 Security Configuration Tools</li>
+  <li>Topic 3D: Windows 2003 Resource Security</li>
+  <li>Topic 3E: Windows 2003 Auditing and Logging</li>
+  <li>Topic 3F: Windows 2003 EFS</li>
+  <li>Topic 3G: Windows 2003 Network Security</li>
+</ul>
+
+<p><strong>Lesson 4: Attack Techniques</strong></p>
+<ul>
+  <li>Topic 4A: Network Reconnaissance</li>
+  <li>Topic 4B: Mapping the Network</li>
+  <li>Topic 4C: Sweeping the Network</li>
+  <li>Topic 4D: Scanning the Network</li>
+  <li>Topic 4E: Vulnerability Scanning</li>
+  <li>Topic 4F: Viruses, Worms,  and Trojan Horses</li>
+  <li>Topic 4G: Gaining Control Over the System</li>
+  <li>Topic 4H: Recording Keystrokes</li>
+  <li>Topic 4I: Cracking Encrypted Passwords</li>
+  <li>Topic 4J: Revealing Hidden Passwords</li>
+  <li>Topic 4K: Social Engineering</li>
+  <li>Topic 4L: Gaining Unauthorized Access</li>
+  <li>Topic 4M: Hiding Evidence of an Attack</li>
+  <li>Topic 4N: Performing a Denial of Service</li>
+</ul>
+
+<p><strong>Lesson 5: Security on the Internet and the WWW</strong></p>
+<ul>
+  <li>Topic 5A: Describing the Major Components of the Internet</li>
+  <li>Topic 5B: Securing DNS Services</li>
+  <li>Topic 5C: Describing Web Hacking Techniques</li>
+  <li>Topic 5D: Describing Methods Used to Attack Users</li>
+</ul>
+
+<p><strong>Lesson 6: Performing a Risk Analysis</strong></p>
+<ul>
+  <li>Topic 6A: Concepts of Risk Analysis</li>
+  <li>Topic 6B: Methods of Risk Analysis</li>
+  <li>Topic 6C: The Process of Risk Analysis</li>
+  <li>Topic 6D: Techniques to Minimize Risk</li>
+  <li>Topic 6E: Continuous Risk Assessment</li>
+</ul>
+
+<p><strong>Lesson 7: Creating a Security Policy</strong></p>
+<ul>
+  <li>Topic 7A: Concepts of Security Policies</li>
+  <li>Topic 7B: Policy Design</li>
+  <li>Topic 7C: Policy Contents</li>
+  <li>Topic 7D: An Example Policy</li>
+  <li>Topic 7E: Incident Handling and Escalation Procedures</li>
+  <li>Topic 7F: Partner Policies</li>
+</ul>
+
+<p><strong>Lesson 8: Analyzing Packet Signatures</strong></p>
+<ul>
+  <li>Topic 8A: Signature Analysis</li>
+  <li>Topic 8B: Common Vulnerabilities and Exposures (CVE)</li>
+  <li>Topic 8C: Signatures</li>
+  <li>Topic 8D: Normal Traffic Signatures</li>
+  <li>Topic 8E: Abnormal Traffic Signatures</li>
+</ul>

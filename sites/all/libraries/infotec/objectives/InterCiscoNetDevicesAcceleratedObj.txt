@@ -1,0 +1,21 @@
+<p>After you complete this course you will be able to:</p>
+<ul>
+  <li>Describe computer hardware basics, binary and hexadecimal number systems, basic networking terminology, and internetworking concepts</li>
+  <li>Identify the major components of a network system, including clients and servers, network interface cards (NICs), internetworking devices, media, and topologies</li>
+  <li>Describe the functions, operations, and primary components of local-area networks (LANs), wide-area networks (WANs), metropolitan-area networks (MANs), storage-area networks (SANs), content networks (CNs), and virtual private networks (VPNs)</li>
+  <li>Describe the major network access methods and outline the key features of each</li>
+  <li>Describe the functions and operations of switching technologies</li>
+  <li>Explain the format and significance of each of the following components to a network system: IP addressing, classes, reserved address space, and subnetting</li>
+  <li>Calculate valid subnetwork addresses and mask values so that user/network requirements are met when given an IP address scheme</li>
+  <li>Explain the purposes of networking addresses, routing protocols, and routed protocols</li>
+  <li>Describe the functions, operations, and primary components of WAN technologies</li>
+  <li>Describe the function, operation, and primary components required to provide remote access services</li>
+  <li>Use available configuration tools to establish connectivity to the appropriate network device in order to complete the initial device configuration</li>
+  <li>Build a functional configuration to support the specified network operational requirements, given a network design</li>
+  <li>Use the appropriate show commands to display network operational parameters so that anomalies  are detected</li>
+  <li>Use the appropriate debug commands to monitor network operational parameters so that anomalies are detected</li>
+  <li>Explain how bridging and switching operates</li>
+  <li>Explain the purpose and operations of the Spanning-Tree Protocol</li>
+  <li>Build a functional router configuration to support the specified network operational requirements, given a network design</li>
+  <li>Describe the features and operation of static routing</li>
+</ul>

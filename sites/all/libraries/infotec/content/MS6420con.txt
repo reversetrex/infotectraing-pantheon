@@ -1,0 +1,29 @@
+<p><strong>Module 1: Fundamentals of Network Infrastructure</strong> - This module describes the fundamentals of an enterprise networking  environment, which consists of Windows Infrastructure Services, Windows  Application Platform Services, and Active Directory.</p>
+
+<p><strong>Module 2: IT Professionals in  the Enterprise</strong> - This module describes the IT Professional roles (and their respective  responsibilities) that may exist in a typical enterprise environment.</p>
+
+<p><strong>Module 3: Configuring Basic  TCP/IPv4</strong> - This module describes the TCP/IPv4 configuration, protocols and the  tools used to validate configurations.</p>
+
+<p><strong>Module 4: Fundamentals of  Communication Technologies</strong> - This module describes static and dynamic HTTP content, how to  differentiate between the two, and the various mechanisms used by TCP/IPv4 to send and receive data traffic.</p>
+
+<p><strong>Module 5: Creating IPv4 Address  Spaces</strong> - This module explains how to define and create an IPv4 address range and  subnetting for a network.</p>
+
+<p><strong>Module 6: IPv6 Fundamentals</strong> - This module introduces IPv6, describes the differences between IPV4 and  IPv6, and explains how to configure IPv6 addresses.</p>
+
+<p><strong>Module 7: Fundamentals of  Administering Windows Server 2008</strong> - This module explains how to use the administrative tools available in  Windows 2008 server to monitor system performance, monitor system status, and  manage a server from a remote computer rather than the server console.</p>
+
+<p><strong>Module 8: Security Fundamentals</strong> - This module introduces basic industry standard security concepts for  server roles.</p>
+
+<p><strong>Module 9: Fundamentals of  Securing Network Communication</strong> - This module describes how to secure network traffic by using  certificates.</p>
+
+<p><strong>Module 10: Windows Firewall and  Caching Fundamentals</strong> - This module describes proxy and caching services; how to configure Windows Firewall by creating exceptions and modifying firewall rules; how to  configure auditing and monitoring; and how to troubleshoot Windows Firewall.</p>
+
+<p><strong>Module 11: Remote Access  Fundamentals</strong> - This module explains how to configure network policies, configure a  radius proxy, and how to troubleshoot NPS as a radius proxy.</p>
+
+<p><strong>Module 12: Routing Fundamentals</strong> - This module describes routing concepts and protocols, and explains how  quality of service can be used within a network environment.</p>
+
+<p><strong>Module 13: Network Load  Balancing Fundamentals</strong> - This module explains how to configure and test network load balancing.</p>
+
+<p><strong>Module 14: Configuring Print  Resources and Printing Pools</strong> - This module explains how to configure network print resources and  printing pools.</p>
+
+<p><strong>Module 15: Server Virtualization Overview</strong> - This  module describes the fundamental functions included with Windows Server  Virtualization (WSV).</p>

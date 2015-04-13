@@ -1,0 +1,10 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Plan a DPM deployment.</li>
+  <li>Install and configure DPM and the protection agent.</li>
+  <li>Protect enterprise applications like Microsoft  Exchange, Microsoft SQL Server, Microsoft SharePoint Services and virtual machines using DPM.</li>
+  <li>Backup and recover data from DPM servers.</li>
+  <li>Backup and restore system state of DPM servers.</li>
+  <li>Identify and resolve problems with DPM servers, protection agents, and protected data.</li>
+</ul>

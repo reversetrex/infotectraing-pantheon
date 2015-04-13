@@ -1,0 +1,168 @@
+<h2>Session 1</h2>
+  <h3>Section A: The Interface</h3>
+  <ul>
+    <li>Understand the Interface</li>
+    <li>Panel Dock</li>
+    <li>Customize the Workspace</li>
+  </ul>
+  <h3>Section B: New Document</h3>
+  <ul>
+    <li>Create a New Document</li>
+    <li>Artboard Options</li>
+    <li>Reorder Artboards</li>
+    <li>Rearrange Artboards, Display Rulers</li>
+  </ul>
+  <h3>Section C: Artwork</h3>
+  <ul>
+    <li>Navigate and View Artwork</li>
+    <li>Navigation Panel</li>
+    <li>Use of Multiple Windows and Views</li>
+    <li>View Artwork as Outlines</li>
+    <li>Pixel Preview</li>
+  </ul>
+  <h3>Section D: Drawing Objects</h3>
+  <ul>
+    <li>Drawing Basic Objects</li>
+    <li>Use of Rulers</li>
+    <li>Create Basic Shapes</li>
+    <li>Line Tools</li>
+    <li>Arc and Spiral Tools</li>
+    <li>Info Panel Features</li>
+  </ul>
+  <h3>Section E: Pencil, Pen Tool</h3>
+  <ul>
+    <li>Drawing Freeform Shapes, Pencil Tool</li>
+    <li>Smooth Tool, Path Eraser Tool</li>
+    <li>Pen Tool</li>
+    <li>Add or Delete an Anchor Point</li>
+    <li>Splitting Paths</li>
+    <li>Layers</li>
+    <li>Merge Layers. Nest Layers</li>
+    <li>Isolation Mode</li>
+    <li>Clipping Mask</li>
+  </ul>
+  <h3>Section F: Perspective</h3>
+  <ul>
+    <li>Perspective Drawing</li>
+    <li>Draw New Objects in Perspective</li>
+    <li>Adding Symbols and Text</li>
+  </ul>
+  <h3>Section G: Image Trace</h3>
+  <ul>
+    <li>Work with Image Trace Presets</li>
+    <li>Image Trace Panel Options</li>
+    <li>Modify Image Trace Settings</li>
+  </ul>
+  <h3>Section H: Symbols</h3>
+  <ul>
+    <li>Work with Symbols</li>
+    <li>Work with Symbol Instances</li>
+    <li>Use 9-Slice Scaling</li>
+    <li>Add a Sublayer to Symbols</li>
+    <li>Symbol Libraries and Tools</li>
+    <li>More Symbolism Tools</li>
+    <li>Symbolism Tool Options</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Color</h3>
+  <ul>
+    <li>Work with Color, Use Color Picker</li>
+    <li>Create and Edit Swatches</li>
+    <li>Swatch Libraries</li>
+    <li>Import Swatches from another Document</li>
+    <li>Apply a Gradient, Gradient Swatch</li>
+    <li>Gradient Stroke Options</li>
+  </ul>
+  <h3>Section B: Color Groups</h3>
+  <ul>
+    <li>Color Guide Panel</li>
+    <li>Edit Colors, Reorder Artwork Procedures</li>
+    <li>Kuler Panel, Viewing and Using Themes</li>
+    <li>Adjust Color, Print or Web Color</li>
+    <li>Change Document Color Mode</li>
+    <li>Edit Document Colors</li>
+    <li>Blend Colors</li>
+    <li>Display and Output Spot Colors with Labs</li>
+    <li>Colorize Grayscale or 1-Bit Images</li>
+    <li>PSD and TIFF Files</li>
+  </ul>
+  <h3>Section C: Paint</h3>
+  <ul>
+    <li>Paint with Fill and Stroke</li>
+    <li>Convert Strokes to Compound Paths</li>
+    <li>Blob Brush Tool</li>
+    <li>Draw Behind, Draw Inside</li>
+    <li>Apply Strokes and Fills to an Object</li>
+    <li>Live Paint Groups</li>
+    <li>Live Paint Selection Tool</li>
+    <li>Expand or Release Live Paint Groups</li>
+  </ul>
+  <h3>Section D: Brushes</h3>
+  <ul>
+    <li>Brushes and Brush Panel</li>
+    <li>Modify Brushes</li>
+    <li>Create Brushes, Remove Brush Strokes</li>
+  </ul>
+  <h3>Section E: Transparency</h3>
+  <ul>
+    <li>Transparency and Blend Modes</li>
+    <li>Transparency in Artwork</li>
+    <li>Change Blending Modes</li>
+    <li>Knockout Groups, Opacity Mask</li>
+    <li>Meshes, Setting Transparency</li>
+  </ul>
+  <h3>Section F: Patterns</h3>
+  <ul>
+    <li>Create and Use Patterns</li>
+    <li>Change Tile Edge Color</li>
+    <li>Pathfinder Tools</li>
+    <li>Shape Builder Tool</li>
+    <li>Graphs and Charts</li>
+    <li>Edit Graphs</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: How to Use Type Tools</h3>
+  <ul>
+    <li>Type Tools, Character Panel</li>
+    <li>Area Type Tool</li>
+    <li>Thread Text to Flow, Control Type Layout</li>
+    <li>Paragraph</li>
+    <li>Convert Text to Outlines</li>
+    <li>Area Type, Type on a Path Tool</li>
+    <li>Vertical Type, Area Path Tool</li>
+    <li>Linked and Embedded Images</li>
+    <li>Round-Trip Editing, Linked Images</li>
+    <li>3D Revolve, Map Art, Color</li>
+    <li>3D Extrude and Bevel</li>
+  </ul>
+  <h3>Section B: Free Transform Tools</h3>
+  <ul>
+    <li>Rotate, Scale, Shear Tool</li>
+    <li>Reflect, Reshape Tool</li>
+    <li>Distortion Tools</li>
+    <li>Blend Tool</li>
+    <li>Modify Shape with Blend Tool</li>
+  </ul>
+  <h3>Section C: Special Effects</h3>
+  <ul>
+    <li>Raster Effects</li>
+    <li>Apply Raster-Based Effects</li>
+    <li>Drop Shadow, Appearance Panel</li>
+    <li>Graphic Styles</li>
+  </ul>
+  <h3>Section D: Optimize Graphics</h3>
+  <ul>
+    <li>Rulers, Artboard, Bleed, Spot Color</li>
+    <li>Attributes Panel, Print, Web Output</li>
+    <li>Slice Tool, Save for Web</li>
+    <li>Save for Video</li>
+  </ul>
+  <h3>Section E: Common Workflow and Design Practices</h3>
+  <ul>
+    <li>Project Requirements</li>
+    <li>Copyright</li>
+    <li>Project Plan</li>
+    <li>Design Principles</li>
+    <li>File Basics</li>
+    <li>Typography</li>
+  </ul>

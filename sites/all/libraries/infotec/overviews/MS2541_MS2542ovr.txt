@@ -1,0 +1,13 @@
+<strong>2541:</strong>
+
+<br><br>
+
+This three-day instructor-led workshop provides students with the knowledge and skills to develop data-access applications by using the Microsoft .NET Framework and Microsoft Visual Studio 2005. The workshop describes how to access and update data in a database by using ADO.NET. The workshop also describes how to create, read, and write XML data.
+
+<br><br>
+
+<strong>2542:</strong>
+
+<br><br>
+
+This two-day instructor-led workshop provides students with the knowledge and skills needed to use advanced data access features and techniques in the Microsoft .NET Framework and Microsoft Visual Studio 2005. The workshop describes how to access data and how to implement database functionality by using Microsoft ADO.NET 2.0 and Microsoft SQL Server 2005. The workshop also describes how to locate, edit, and transform XML by using XPath and Extensible Style sheet Language for Transformations (XSLT).

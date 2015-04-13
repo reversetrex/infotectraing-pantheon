@@ -1,0 +1,127 @@
+<h2><em><u>MS2276</u></em></h2>
+
+<p><strong>Module 1: Reviewing the Suite of TCP/IP Protocols</strong></p>
+<ol>
+  <li>Overview  of the OSI Model</li>
+  <li>Overview  of the TCP/IP Protocol Suite</li>
+  <li>Viewing  Frames Using Network Monitor </li>
+</ol>
+
+<p><strong>Module 2: Assigning IP Addresses in a Multiple Subnet  Network</strong></p>
+<ol>
+  <li>Assigning  IP Addresses </li>
+  <li>Creating  a Subnet </li>
+  <li>Using  IP Routing Tables </li>
+  <li>Overcoming  Limitations of the IP Addressing Scheme </li>
+</ol>
+
+<p><strong>Module 3: Configuring a Client IP Address</strong></p>
+<ol>
+  <li>Configuring  a Client to Use a Static IP Address </li>
+  <li>Configuring  a Host to Obtain an IP Address Automatically sing Alternate Configuration </li>
+</ol>
+
+<p><strong>Module 4: Configuring a Client for Name Resolution</strong></p>
+<ol>
+  <li>Resolving  Client Names </li>
+  <li>Managing  the ARP Cache </li>
+  <li>Overview  of NetBIOS </li>
+  <li>Using  Static Naming Methods </li>
+  <li>Using  Dynamic Naming Methods </li>
+  <li>Summarizing the Name Resolution  Process</li>
+</ol>
+
+<p><strong>Module 5: Isolating Common Connectivity Issues</strong></p>
+<ol>
+  <li>Determining  the Causes of Connectivity Issues </li>
+  <li>Network  Utilities That You Can Use to Isolate Connectivity Issues</li>
+</ol>
+
+<h2><em><u>MS2277</u></em></h2>
+
+<p><strong>Module 1: Configuring  Routing by Using Routing and Remote Access</strong></p>
+<ol>
+  <li>Multimedia: The Role  of Routing in the Network Infrastructure </li>
+  <li>Enabling and  Configuring the Routing and Remote Access Service </li>
+  <li>Configuring Packet  Filters </li>
+</ol>
+
+<p><strong>Module 2:  Allocating IP Addressing by Using Dynamic Host Configuration Protocol (DHCP)</strong></p>
+<ol>
+  <li>Multimedia: The Role  of DHCP in the Network Infrastructure </li>
+  <li>Adding and  Authorizing a DHCP Server Service </li>
+  <li>Configuring a DHCP  Scope </li>
+  <li>Configuring a DHCP  Reservation </li>
+  <li>Configuring DHCP  Options </li>
+  <li>Configuring a DHCP  Relay Agent </li>
+</ol>
+
+<p><strong>Module 3: Managing and Monitoring  Dynamic Host Configuration Protocol (DHCP)</strong></p>
+<ol>
+  <li>Managing a DHCP  Database </li>
+  <li>Monitoring DHCP </li>
+  <li>Applying Security  Guidelines for DHCP </li>
+</ol>
+
+<p><strong>Module 4: Resolving Names</strong></p>
+<ol>
+  <li>Multimedia:  Introduction to the Name Resolution Process </li>
+  <li>Viewing Names on a  Client </li>
+  <li>Configuring Host  Name Resolution </li>
+  <li>Configuring NetBIOS  Name Resolution </li>
+</ol>
+
+<p><strong>Module 5: Resolving Host Names by  Using Domain Name System (DNS)</strong></p>
+<ol>
+  <li>Multimedia: The Role of DNS in the Network  Infrastructure </li>
+  <li>Installing the DNS Server Service </li>
+  <li>Configuring the Properties for the DNS Server Service </li>
+  <li>Configuring the DNS Zones </li>
+  <li>Configuring DNS Zone Transfers </li>
+  <li>Configuring DNS Dynamic Updates </li>
+  <li>Configuring a DNS Client </li>
+  <li>Delegating Authority for Zones </li>
+</ol>
+
+<p><strong>Module 6: Managing and Monitoring Domain Name System  (DNS)</strong></p>
+<ol>
+  <li>Configuring  the Time-to-Live Value </li>
+  <li>Configuring  Aging and Scavenging </li>
+  <li>Integrating  DNS and WINS </li>
+  <li>Testing  the DNS Server Configuration </li>
+  <li>Verifying  that a Resource Record Exists by Using Nslookup, DNSCmd, and DNSLint </li>
+  <li>Monitoring  DNS Server Performance </li>
+</ol>
+
+<p><strong>Module 7: Resolving NetBIOS Names  by Using Windows Internet Name Service (WINS)</strong></p>
+<ol>
+  <li>Multimedia:  The Role of WINS in the Network Infrastructure </li>
+  <li>Installing  and Configuring a WINS Server </li>
+  <li>Managing  Records in WINS </li>
+  <li>Configuring  WINS Replication </li>
+  <li>Managing  the WINS database </li>
+</ol>
+
+<p><strong>Module 8: Securing Network  Traffic by Using IPSec and Certificates</strong></p>
+<ol>
+  <li>Implementing  IPSec </li>
+  <li>Implementing  IPSec with Certificates </li>
+  <li>Monitoring  IPSec </li>
+</ol>
+
+<p><strong>Module 9: Configuring Network  Access</strong></p>
+<ol>
+  <li>Introduction  to a Network Access Infrastructure </li>
+  <li>Configuring  a VPN Connection </li>
+  <li>Configuring  a Dial-up Connection </li>
+  <li>Configuring  a Wireless Connection </li>
+  <li>Controlling  User Access to a Network </li>
+  <li>Centralizing  Network Access Authentication and Policy Management by Using IAS </li>
+</ol>
+
+<p><strong>Module 10: Managing and  Monitoring Network Access</strong></p>
+<ol>
+  <li>Managing  the Network Access Services </li>
+  <li>Configuring  Logging on a Network Access Server </li>
+  <li>Collecting  and Monitoring Network Access Data</li>
+</ol>

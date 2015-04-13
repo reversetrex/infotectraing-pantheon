@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Create complex illustrations.</li>
+  <li>Enhance complex illustrations.</li>
+  <li>Create a vector version of a raster graphic.</li>
+  <li>Create special effects.</li>
+  <li>Work with graphs.</li>
+  <li>Work with variables.</li>
+  <li>Prepare documents for composite and commercial  printing.</li>
+  <li>Export graphics for the web  and mobile devices.</li>
+</ul>

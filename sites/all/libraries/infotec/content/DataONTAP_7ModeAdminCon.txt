@@ -1,0 +1,151 @@
+<p><strong>Module 1 The NetApp Storage Environment</strong></p>
+<ul>
+  <li>Identify the key features and functions of NetApp storage systems</li>
+  <li>Describe the advantages that a NetApp storage system provides</li>
+  <li>Distinguish between network-attached storage (NAS) and SAN topologies</li>
+  <li>Describe NetApp Unified Storage Architecture</li>
+  <li>Access the NetApp Support site to obtain software and hardware documentation</li>
+</ul>
+<p><strong>Module 2 WAFL Simplified</strong></p>
+<ul>
+  <li>Describe how data is written to and read from WAFL (Write Anywhere File Layout) file system on a volume</li>
+  <li>Explain the WAFL file system concepts, including consistency points (CPs), RAID management, and storage levels</li>
+  <li>Describe how RAID is used to protect disk data</li>
+  <li>Explain how the WAFL file system processes write and read requests</li>
+</ul>
+<p><strong>Module 3 Basic Administration</strong></p>
+<ul>
+  <li>Connect remotely to a FAS system by using the console and a remote host</li>
+  <li>Access NetApp System Manager to administrator a storage system</li>
+  <li>Execute commands by using the console, a remote host and NetApp System Manager</li>
+  <li>Use commands to analyze a FAS system</li>
+  <li>Configure and manage the NetApp AutoSupport tool for a FAS system</li>
+</ul>
+<p><strong>Module 4 Physical Storage</strong></p>
+<ul>
+  <li>Describe Data ONTAP RAID technology</li>
+  <li>Identify a disk in a disk shelf based on its ID</li>
+  <li>Execute commands to determine a disk ID</li>
+  <li>Identify a hot-spark disk in a FAS system</li>
+  <li>Describe the effects of using multiple disk types</li>
+  <li>Create a 32-bit aggregate and a 64-bit aggregate</li>
+  <li>Execute aggregate commands in the Data ONTAP operating system</li>
+  <li>Calculate usable disk space</li>
+</ul>
+<p><strong>Module 5 Logical Storage</strong></p>
+<ul>
+  <li>Explain the concepts related to volumes in the Data ONTAP operating system</li>
+  <li>Define and create a flexible volume</li>
+  <li>Execute vol commands</li>
+  <li>Define and create qtrees</li>
+</ul>
+<p><strong>Module 6 Administration Security</strong></p>
+<ul>
+  <li>Restrict administrative access</li>
+  <li>Restrict console and NetApp System Manager access</li>
+  <li>Configure a client machine as an administration host to manage a storage system</li>
+</ul>
+<p><strong>Module 7 Networking</strong></p>
+<ul>
+  <li>Identify the configuration of network settings and components in the Data ONTAP operating system</li>
+  <li>Explain and configure name resolution services</li>
+  <li>Configure routing tables in the Data ONTAP operating system</li>
+  <li>Define and create interface groups</li>
+  <li>Discuss the operation of virtual LANs (VLANs) and how to route them</li>
+</ul>
+<p><strong>Module 8 NFS</strong></p>
+<ul>
+  <li>Explain NFS implementation in the Data ONTAP operating system</li>
+  <li>License NFS on a storage system</li>
+  <li>Explain the purpose and format of /etc/ exports</li>
+  <li>List and define the export specification options</li>
+  <li>Describe the use of the exportfs command</li>
+  <li>Mount an export on a UNIX host</li>
+</ul>
+<p><strong>Module 9 CIFS</strong></p>
+<ul>
+  <li>Describe the CIFS environment</li>
+  <li>Configure the storage system to participate in the CIFS environment</li>
+  <li>Share a resource on the storage system</li>
+  <li>Map a drive from a client to the shared resource on the storage system</li>
+</ul>
+<p><strong>Module 10 NAS Management</strong></p>
+<ul>
+  <li>List some security methods for protecting data</li>
+  <li>Explain and configure a security style setting for a volume and a qtree</li>
+  <li>Describe methods of tracking and restricting storage usage</li>
+  <li>Explain, create, and manage quotas</li>
+  <li>Explain and configure the Data ONTAP FPolicy file-screening policy</li>
+</ul>
+<p><strong>Module 11 SAN</strong></p>
+<ul>
+  <li>Explain the purpose of a SAN</li>
+  <li>Identify supported SAN configurations</li>
+  <li>Distinguish between Fibre Channel (FC), Fibre Channel over Ethernet (FCoE) and iSCSI protocols</li>
+  <li>Define a LUN and explain LUN attributes</li>
+  <li>Use the LUN setup command and NetApp System Manager to create iSCSI-attached LUNs</li>
+  <li>Access and manage a LUN from a Windows host</li>
+  <li>Define SnapDrive data management software and its feature</li>
+</ul>
+<p><strong>Module 12 Snapshot Copies</strong></p>
+<ul>
+  <li>Describe the function of Snapshot copies</li>
+  <li>Explain the benefits of Snapshot copies</li>
+  <li>Identify and execute Snapshot commands</li>
+  <li>Create and delete Snapshot copies</li>
+  <li>Configure and modify Snapshot options</li>
+  <li>Explain the importance of the .snapshot directory</li>
+  <li>Describe how Snapshot technology allocates disk space for volumes and aggregates</li>
+  <li>Schedule Snapshot copies</li>
+  <li>Configure and manage the Snapshot copy reserve</li>
+</ul>
+<p><strong>Module 13 Space Management</strong></p>
+<ul>
+  <li>List the storage efficiency techniques that are available within the Data ONTAP operating system</li>
+  <li>Identify the factors that impact space consumption in the Data ONTAP operating system</li>
+  <li>Describe how and when a volume consumes space from the aggregate that contains it</li>
+  <li>Explain how to guarantee writes for a file</li>
+  <li>Explain how the Data ONTAP operating system can provide space to a full volume</li>
+  <li>Identify the deduplication and compression techniques that are available in the Data ONTAP operating system</li>
+</ul>
+<p><strong>Module 14 High-Availability</strong></p>
+<ul>
+  <li>Describe high-availability (HA) solutions</li>
+  <li>Discuss how HA increases the reliability of storage</li>
+  <li>Define HA controller configuration</li>
+  <li>Describe the three modes of HA operation with an HA pair</li>
+  <li>Analyze how HA affects clients protocols during failover and giveback operations</li>
+</ul>
+<p><strong>Module 15 Virtualization Solutions</strong></p>
+<ul>
+  <li>Describe how to virtualize a storage controller by using MultiStore software</li>
+  <li>Configure MultiStore software</li>
+  <li>Assign client protocols on MultiStore software</li>
+</ul>
+<p><strong>Module 16 Backup and Recovery Methods</strong></p>
+<ul>
+  <li>List the methods available to back up and recover data</li>
+  <li>Use ndmpcopy to process full and incremental data transfers</li>
+  <li>Discuss dump and restore</li>
+  <li>Describe, enable, and configure Network Data Management Protocol (NDMP) on a storage system</li>
+</ul>
+<p><strong>Module 17 Data Collection Tools</strong></p>
+<ul>
+  <li>Use the sysstat, stats, and statit commands</li>
+  <li>Describe the factors that affect RAID performance</li>
+  <li>Execute commands to collect data about write and read throughputs</li>
+  <li>Execute commands to verify the operation of hardware, software, and network components</li>
+  <li>Identify commands and options that are used to obtain configuration and status</li>
+</ul>
+<p><strong>Module 18 Data ONTAP Upgrades</strong></p>
+<ul>
+  <li>Access the NetApp Support site for the following documents:
+    <ul>
+      <li>Data ONTAP Upgrade Guide</li>
+      <li>Data ONTAP Release Notes</li>
+    </ul>
+ </li>
+  <li>Use a configuration worksheet to collect data for installation</li>
+  <li>Describe how to perform Data ONTAP software upgrades and reboots</li>
+  <li>Use the setup command to configure a storage system</li>
+</ul>

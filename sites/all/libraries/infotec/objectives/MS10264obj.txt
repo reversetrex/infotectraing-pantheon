@@ -1,0 +1,18 @@
+<p><strong>After completing this course, students will  be able to</strong>:</p>
+<ul>
+  <li>Describe the underlying architecture and design  of a Web application.</li>
+  <li>Apply best practices and make appropriate  trade-offs based on business requirements when designing a Web application.</li>
+  <li>Develop MVC models.</li>
+  <li>Develop MVC controllers.</li>
+  <li>Develop MVC views.</li>
+  <li>Optimize the design of a Web application for  discoverability by search engines.</li>
+  <li>Write server-side code for Web Forms.</li>
+  <li>Optimize data management for Web Forms.</li>
+  <li>Ensure quality by debugging, unit testing, and  refactoring.</li>
+  <li>Secure a Web application.</li>
+  <li>Apply Master Pages and CSS for a consistent  application UI.</li>
+  <li>Develop client-side scripts and services for a  responsive, rich, and interactive UI.</li>
+  <li>Implement advanced AJAX in a Web application.</li>
+  <li>Deploy a Web application.</li>
+  <li>Develop  a Web application by using Silverlight.</li>
+</ul>

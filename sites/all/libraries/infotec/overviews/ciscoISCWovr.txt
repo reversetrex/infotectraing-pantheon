@@ -1,0 +1,1 @@
+Learners will be able to secure and expand the reach of their enterprise network to teleworkers and remote sites. Focus is on securing remote access and VPN client configuration.

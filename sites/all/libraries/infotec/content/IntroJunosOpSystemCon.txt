@@ -1,0 +1,51 @@
+<p><strong>Chapter 1: Course Introduction</strong></p>
+<p><strong>Chapter 2: Junos Operating System Fundamentals</strong></p>
+  <ul>
+    <li>The Junos OS</li>
+    <li>Traffic Processing</li>
+    <li>Platforms Running the Junos OS</li>
+  </ul>
+<p><strong>Chapter 3: User Interface Options</strong></p>
+  <ul>
+    <li>User Interface Options</li>
+    <li>The Junos CLI: CLI Basics</li>
+    <li>The Junos CLI: Operational Mode</li>
+    <li>The Junos CLI: Configuration Mode</li>
+    <li>Lab 1: The Junos CLI</li>
+  </ul>
+<p><strong>Chapter 4: Initial Configuration</strong></p>
+  <ul>
+    <li>Factory-Default Configuration</li>
+    <li>Initial Configuration</li>
+    <li>Interface Configuration</li>
+    <li>Lab 2: Initial System Configuration</li>
+  </ul>
+<p><strong>Chapter 5: Secondary System Configuration</strong></p>
+  <ul>
+    <li>User Configuration and Authentication</li>
+    <li>System Logging and Tracing</li>
+    <li>Network Time Protocol</li>
+    <li>Archiving Configurations</li>
+    <li>SNMP</li>
+    <li>Lab 3: Secondary System Configuration</li>
+  </ul>
+<p><strong>Chapter 6: Operational Monitoring and Maintenance</strong></p>
+  <ul>
+    <li>Monitoring Platform and Interface Operation</li>
+    <li>Network Utilities</li>
+    <li>Maintaining the Junos OS</li>
+    <li>Password Recovery</li>
+    <li>Lab 4: Operational Monitoring and Maintenance</li>
+  </ul>
+<p><strong>Appendix A: Interface Configuration Examples</strong></p>
+  <ul>
+    <li>Review of the Interface Configuration Hierarchy</li>
+    <li>Interface Configuration Examples</li>
+    <li>Using Configuration Groups</li>
+  </ul>
+<p><strong>Appendix B: The J-Web Interface</strong></p>
+  <ul>
+    <li>The J-Web GUI</li>
+    <li>Configuration</li>
+    <li>Lab 5 (Optional): The J-Web Interface</li>
+  </ul>

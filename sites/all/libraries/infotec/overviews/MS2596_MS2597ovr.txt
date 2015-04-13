@@ -1,0 +1,7 @@
+<p><strong><u>MS2596</u>:</strong></p>
+
+<p>This part of the course provides students with the knowledge and skills to manage Microsoft Systems Management Server (SMS). Students will learn how to configure SMS components and how to manage the ongoing operations of an SMS infrastructure.</p>
+
+<p><strong><u>MS2597</u>:</strong></p>
+
+<p>This part of the course provides the knowledge and skills necessary for SMS specialists to plan and deploy Microsoft Systems Management Server 2003 into large enterprise environments.</p>

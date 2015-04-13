@@ -1,0 +1,10 @@
+Upon successful completion of this course, students will be able to:
+<ul>
+  <li>get familiar with the basic principles of web development and the Expression Web environment. </li>
+  <li>design the layout of a website. </li>
+  <li>add content to a website. </li>
+  <li>format a web page using CSS. </li>
+  <li>work with links. </li>
+  <li>add interactivity to web pages. </li>
+  <li>finalize a website.</li>
+</ul>

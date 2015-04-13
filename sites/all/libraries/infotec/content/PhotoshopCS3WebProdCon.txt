@@ -1,0 +1,29 @@
+<p><strong>Lesson 1: Preparing Web Images</strong> <br />
+  Topic 1A: Change Measurement Units <br />
+  Topic 1B: Reduce File Size<br />
+  <br />
+  <strong>Lesson 2: Optimizing Images</strong> <br />
+  Topic 2A: Optimize Photographic Images <br />
+  Topic 2B: Optimize Flat Color Graphics and Illustrations <br />
+  Topic 2C: Apply Transparency Settings<br />
+  <br />
+  <strong>Lesson 3: Preparing Images for Cross-Platform Viewing</strong> <br />
+  Topic 3A: Set Up Color Management for the Web <br />
+  Topic 3B: Alter Images for Display Across Platforms <br />
+  Topic 3C: Snap to Web Safe Colors<br />
+  <br />
+  <strong>Lesson 4: Creating Web Page Layouts</strong> <br />
+  Topic 4A: Simulate a Web Page <br />
+  Topic 4B: Create Web Page Backgrounds <br />
+  Topic 4C: Draw Editable Vector Shapes <br />
+  Topic 4D: Create Effects<br />
+  <br />
+  <strong>Lesson 5: Exporting a Web Page</strong> <br />
+  Topic 5A: Prepare a Web Page for Export <br />
+  Topic 5B: Export a Web Page<br />
+  <br />
+  <strong>Lesson 6: Creating Animations for Web and Mobile Devices</strong> <br />
+  Topic 6A: Create Animations <br />
+  Topic 6B: Create Timeline Animations <br />
+  Topic 6C: Save Animations <br />
+  Topic 6D: Preview Animations on Mobile Devices</p>

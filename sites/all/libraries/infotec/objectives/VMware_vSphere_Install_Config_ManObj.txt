@@ -1,0 +1,18 @@
+<p>What You'll Learn:</p>
+<ul>
+  <li>Deploy an ESXi host</li>
+  <li>Deploy a vCenter Server instance</li>
+  <li>Deploy a vCenter Server Appliance</li>
+  <li>Manage an ESXi host using vCenter Server</li>
+  <li>Manage ESXi storage using vCenter Server</li>
+  <li>Manage ESXi networking using vCenter Server</li>
+  <li>Manage virtual machines using vCenter Server</li>
+  <li>Deploy and manage thin-provisioned virtual machines</li>
+  <li>Migrate virtual machines with VMware vSphere vMotion</li>
+  <li>Manage vSphere infrastructure with VMware vSphere Web Client</li>
+  <li>Migrate virtual machines using VMware vSphere Storage vMotion</li>
+  <li>Manage access control using vCenter Server</li>
+  <li>Monitor resource usage using vCenter Server</li>
+  <li>Manage VMware vSphere High Availability, VMware vSphere Fault Tolerance, and VMware vSphere Data Protection using vCenter Server</li>
+  <li>Apply patches using VMware vCenter Update Manager</li>
+</ul>

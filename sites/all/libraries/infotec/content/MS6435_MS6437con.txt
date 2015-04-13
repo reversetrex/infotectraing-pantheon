@@ -1,0 +1,336 @@
+<b>MS6435</b>
+
+<br><br>
+
+<p><strong>Module 1 Overview of Network Infrastructure Design</strong> - 
+This module describes the key components of network infrastructure design.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Preparing for Network Infrastructure Design</li>
+ <li>Designing the Network Topology</li>
+ <li>Designing Network Infrastructure for Virtualization</li>
+ <li>Designing a Change Management Structure for a Network</li>
+</ul>
+<p><strong>Lab: Designing Network Infrastructure in Windows Server 2008</strong></p>
+<ul>
+ <li>Exercise 1: Preparing for the Network Infrastructure Design</li>
+ <li>Exercise 2: Designing the Network Topology</li>
+ <li>Exercise 3: Designing Network Infrastructure for Virtualization</li>
+ <li>Exercise 4: Designing a Change Management plan</li>
+ <li>Exercise 5: Lab Discussion</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Describe the network infrastructure design.</li>
+ <li>Design the network topology.</li>
+ <li>Design network infrastructure for virtualization.</li>
+ <li>Design a change management structure for a network.</li>
+</ul>
+<p><strong>Module 2: Designing Network Security</strong> - 
+This module explains how design a secure network.</p>
+<p><strong>Lessons</strong></p>
+ <ul>
+ <li>Overview of Network Security Design</li>
+ <li>Creating a Security Plan</li>
+ <li>Identifying Threats to Network Security</li>
+ <li>Analyzing Security Risks</li>
+ <li>The Defense-in-Depth Model</li>
+ </ul>
+<p><strong>Lab: Designing a Network Security Plan</strong></p>
+<ul>
+ <li>Exercise 1: Designing a Team for the Security Plan</li>
+ <li>Exercise 2: Identifying Threats</li>
+ <li>Exercise 3: Analyzing Risk</li>
+ <li>Exercise 4: Discussion of Designing a Network Security Plan</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Describe the security design process.</li>
+ <li>Describe the components of a security plan.</li>
+ <li>Describe how to identify threats.</li>
+ <li>Describe how to assess risk.</li>
+ <li>Describe the defense-in-depth model.</li>
+</ul>
+<p><strong>Module 3: Designing IP Addressing</strong> - 
+This module describes how to design a plan for allocating IP addresses to workstations and servers.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Designing an IPv4 Addressing Scheme</li>
+ <li>Designing an IPv6 Addressing Scheme</li>
+ <li>Designing DHCP Implementation</li>
+ <li>Designing DHCP Configuration Options</li>
+</ul>
+<p><strong>Lab: Designing IP Addressing in Windows Server 2008</strong></p>
+<ul>
+ <li>Exercise 1: Designing an IPv4 Addressing Scheme</li>
+ <li>Exercise 2: Designing an IPv6 Addressing Scheme</li>
+ <li>Exercise 3: Designing a DHCP Implementation</li>
+ <li>Exercise 4: Discussion of IP Address Allocation</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Describe how to integrate IPv4 and IPv6.</li>
+ <li>Describe how to allocate IPv4 and IPv6 addresses.</li>
+ <li>Describe how to implement DHCP placement.</li>
+ <li>Describe how to determine DHCP options</li>
+</ul>
+<p><strong>Module 4: Designing Routing and Switching</strong> - 
+This module explains how to design a network topology.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Preparing for Designing a Network Routing Topology</li>
+ <li>Selecting Network Devices</li>
+ <li>Designing Internet Connectivity and Perimeter Networks</li>
+ <li>Designing Routing Communications</li>
+ <li>Evaluating Network Performance</li>
+</ul>
+<p><strong>Lab: Designing a Network Routing Topology</strong></p>
+<ul>
+ <li>Exercise 1: Designing the Placement of Routers</li>
+ <li>Exercise 2: Designing a Perimeter Network</li>
+ <li>Exercise 3: Evaluating Network Performance</li>
+ <li>Exercise 4: Discussion of Designing a Network Routing Topology</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Prepare for designing a network routing topology.</li>
+ <li>Design the placement of routers.</li>
+ <li>Design a perimeter network.</li>
+ <li>Design routing communications.</li>
+ <li>Evaluate network performance.</li>
+</ul>
+<p><strong>Module 5: Designing Security for Internal Networks</strong> - 
+This module explains the internal considerations for network security and how they can be addressed.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Designing Windows Firewall Implementation</li>
+ <li>Overview of IPSec</li>
+ <li>Designing IPSec Implementation</li>
+</ul>
+<p><strong>Lab: Designing a Secure Internal Network</strong></p>
+<ul>
+ <li>Exercise 1: Designing a Windows Firewall Implementation</li>
+ <li>Exercise 2: Designing an IPSec Implementation</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Describe how Windows Firewall can be used to secure networks</li>
+ <li>Describe how IPSec can be used to secure networks</li>
+</ul>
+<p><strong>Module 6: Designing Name Resolution</strong> - 
+This module explains how to design an appropriate name resolution system that incorporates DNS.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Collecting Information for a Name Resolution Design</li>
+ <li>Designing a DNS Server Strategy</li>
+ <li>Designing a DNS Namespace</li>
+ <li>Designing DNS Zone Implementation</li>
+ <li>Designing Zone Replication and Delegation</li>
+</ul>
+<p><strong>Lab: Designing a Name Resolution Strategy in Windows Server 2008</strong></p>
+<ul>
+ <li>Exercise 1: Designing a DNS server strategy</li>
+ <li>Exercise 2: Designing a DNS namespace</li>
+ <li>Exercise 3: Designing a DNS zone and replication strategy</li>
+ <li>Exercise 4: Discuss the design of name resolution</li>
+ <li>Exercise 5: Implement a DNS zone and replication strategy</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Determine the information required to plan name resolution.</li>
+ <li>Describe how to design a DNS server strategy.</li>
+ <li>Describe how to design a DNS namespace</li>
+ <li>Describe how to design a DNS zone strategy.</li>
+ <li>Describe how to design a DNS zone replication strategy.</li>
+</ul>
+<p><strong>Module 7: Designing Advanced Name Resolution</strong> - 
+This module explains an appropriate name resolution system that incorporates DNS and WINS.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Optimizing DNS Queries</li>
+ <li>Designing DNS for High Availability</li>
+ <li>Designing a WINS Name Resolution Strategy</li>
+</ul>
+<p><strong>Lab: Designing a Name Resolution Strategy in Windows Server 2008</strong></p>
+<ul>
+ <li>Exercise 1: Optimize DNS resolution</li>
+ <li>Exercise 2: Designing and Configuring WINS Name Resolution</li>
+ <li>Exercise 3: Integrating DNS and WINS Name Resolution</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Optimize DNS resolution.</li>
+ <li>Design DNS for high availability.</li>
+ <li>Design a WINS Name resolution strategy.</li>
+</ul>
+<p><strong>Module 8: Planning and Deploying the Application Virtualization Management System</strong> - 
+This module explains how to design a solution for network access.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Gathering Data for Designing Network Access Solutions</li>
+ <li>Securing and Controlling Network Access</li>
+ <li>Designing Remote Access Services</li>
+ <li>Designing RADIUS Authentication with Network Policy Services</li>
+ <li>Designing Wireless Access</li>
+</ul>
+<p><strong>Lab: Designing Network Access Solutions</strong></p>
+<ul>
+ <li>Exercise 1: Determining Network Access Requirements</li>
+ <li>Exercise 2: Designing a Remote Access Solution</li>
+ <li>Exercise 3: Designing Network Policy Services</li>
+ <li>Exercise 4: Discuss the Design of Network Access</li>
+ <li>Exercise 5: Designing a Wireless Connection Solution</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Describe how to gather data for designing network access solutions.</li>
+ <li>Describe how to secure and control network access.</li>
+ <li>Describe how to design remote access services.</li>
+ <li>Describe how to design a RADIUS solution.</li>
+ <li>Describe how to design wireless access.</li>
+</ul>
+<p><strong>Module 9: Designing Network Access Protection</strong> - 
+This module explains how to design a NAP solution.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Designing the NAP Platform Architecture</li>
+ <li>Network Policy Server Component Design</li>
+ <li>Designing NAP Enforcement Point and Client Component Requirements</li>
+ <li>IPSec Enforcement for NAP</li>
+</ul>
+<p><strong>Lab: Designing Network Access Protection</strong></p>
+<ul>
+ <li>Exercise 1: Designing the NAP Platform Architecture</li>
+ <li>Exercise 2: Designing and Implementing the Network Policy Server Components</li>
+ <li>Exercise 3: Designing and Implementing the NAP Enforcement and Client Components</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Describe how to design the NAP platform architecture.</li>
+ <li>Describe NPS design for NAP.</li>
+ <li>Describe how to design NAP enforcement point and client component requirements.</li>
+ <li>Describe IPSec based NAP.</li>
+</ul>
+<p><strong>Module 10: Designing Operating System Deployment and Maintenance</strong> - 
+This module explains how to design a solution for operating system deployment and maintenance.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Determining Operating System Deployment Requirements</li>
+ <li>Deploying an Operating System by Using WDS</li>
+ <li>Planning for the Creation and Modification of Images</li>
+ <li>Designing Multicast Transmission of Images</li>
+</ul>
+<p><strong>Lab: Designing Operating System Deployment and Maintenance</strong></p>
+<ul>
+ <li>Exercise 1: Designing an Operating System Deployment Solution</li>
+ <li>Exercise 2: Designing WDS Deployment</li>
+ <li>Exercise 3: Designing WDS Images</li>
+ <li>Exercise 4: Discussing WDS Deployment and Images Design</li>
+ <li>Exercise 5: Implementing Multicast Transmissions for Images</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Determine operating system deployment requirements</li>
+ <li>Describe operating system deployment using Windows Deployment Services.</li>
+ <li>Plan the creation and modification of images.</li>
+ <li>Design multicast transmission of images.</li>
+</ul>
+<p><strong>Module 11: Designing File Services and DFS in Windows Server 2008</strong> - 
+This module explains how to design the deployment of file services.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Designing File Services</li>
+ <li>Designing DFS</li>
+ <li>Designing the FSRM Configuration</li>
+</ul>
+<p><strong>Lab: Designing File Services and DFS in Windows Server 2008</strong></p>
+<ul>
+ <li>Exercise 1: Designing and Implementing DFS</li>
+ <li>Exercise 2: Designing and Implementing FSRM</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Describe the design of file services.</li>
+ <li>Describe the design of Distributed File System (DFS).</li>
+ <li>Describe the design of File Server Resource Manager (FSRM).</li>
+</ul>
+<p><strong>Module 12: Designing Print Services in Windows Server 2008</strong> - 
+This module explains how to design print services in Windows Server 2008.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Overview of a Print Services Design</li>
+ <li>Designing Print Services</li>
+</ul>
+<p><strong>Lab: Designing Shared Resources in Windows Server 2008</strong></p>
+<ul>
+ <li>Exercise 1: Analyzing the Components of a Print Services Design</li>
+ <li>Exercise 2: Designing a Shared Printer Deployment</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Describe the print services design.</li>
+ <li>Design print services.</li>
+</ul>
+<p><strong>Module 13: Designing High Availability in Windows Server 2008</strong> - 
+This module explains how to design high availability for applications and services.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+ <li>Overview of High Availability</li>
+ <li>Designing Network Load Balancing for High Availability</li>
+ <li>Designing Failover Clustering for High Availability</li>
+ <li>Designing Geographically Dispersed Failover Clusters</li>
+</ul>
+<p><strong>Lab: Designing High Availability in Windows Server 2008</strong></p>
+<ul>
+ <li>Exercise 1: Designing High Availability</li>
+ <li>Exercise 2: Implementing an NLB Design</li>
+ <li>Exercise 3: Implementing a Failover Cluster Design</li>
+</ul>
+<p><strong>After completing this module, students will be able to:</strong></p>
+<ul>
+ <li>Describe the need for high availability.</li>
+ <li>Describe how to design Network Load Balancing for high availability</li>
+ <li>Describe how to design Failover Clustering for high availability</li>
+ <li>Describe how to design geographically dispersed failover clustering.</li>
+</ul>
+
+<b>MS6437</b>
+
+<br><br>
+
+<p><strong>Module 1: Designing IIS Web Farms</strong></p>
+<blockquote>
+  <p>  Students will learn the process of designing IIS Web Farms with Windows  2008 and IIS 7. They will learn how to select the appropriate hardware and  software platforms. You will learn techniques to leverage Web Farm Availability  and Scalability. They will also learn how to select the proper storage.</p>
+</blockquote>
+<p><strong>Module 2: Optimizing IIS Performance and Stability</strong></p>
+<blockquote>
+  <p>  The students will learn about Optimizing IIS Performance and Stability.</p>
+</blockquote>
+<p><strong>Module 3: Designing IIS Security</strong></p>
+<blockquote>
+  <p>  In this module students will learn to establish and maintain very tight  security using Microsoft IIS 7.0.</p>
+</blockquote>
+<p><strong>Module 4: Design IIS Maintenance and UDDI</strong></p>
+<blockquote>
+  <p>  The students will learn how to plan for an IIS installation, taking  into account these new features. They will also learn how to deploy UDDI  services.</p>
+</blockquote>
+<p><strong>Module 5: Designing a Terminal Services Infrastructure</strong></p>
+<blockquote>
+  <p>  The Students will learn how to design a terminal services  infrastructure including how to design a terminal services licensing strategy  and how to design for remote access with TS Gateways, TS Session Broker,  RemoteApp programs, and TS Web Access.</p>
+</blockquote>
+<p><strong>Module 6: Designing a Terminal Services Maintenance Strategy</strong></p>
+<blockquote>
+  <p>  The students will be introduced to design and implementation planning  using WSRM policies for application resource and reporting. We will also  discuss group policy settings for terminal servers and how to design high  availability for terminal services. Finally, we will specify monitoring,  maintenance, and recovery requirements and procedures for terminal services.</p>
+</blockquote>
+<p><strong>Module 7: Design Windows Media Services Infrastructure Administration</strong></p>
+<blockquote>
+  <p>  The students will learn about designing Windows Media Services in  Windows Server 2008. They will become familiarized with live and on-demand  content delivery.</p>
+</blockquote>
+<p><strong>Module 8: Design Virtualization Infrastructure</strong></p>
+<blockquote>
+  <p>  The students will implement virtualization to consolidate servers, deploy  branch office infrastructure servers, support legacy applications, and create a  test environment.</p>
+</blockquote>
+<p><strong>Module 9: Designing Virtualization Provisioning</strong></p>
+<blockquote>
+  <p>The  students will learn how to determine virtualization appropriateness and virtual  server provisioning. Students will also learn the importance of customizing  virtual servers to standard configurations and also learn about virtual server  deployment.</p>
+</blockquote>

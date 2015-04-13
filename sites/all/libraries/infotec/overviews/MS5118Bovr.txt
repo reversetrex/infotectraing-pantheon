@@ -1,0 +1,9 @@
+<p>This course provides IT Professionals with the knowledge and skills to support the Windows Vista operating system and applications in the Enterprise. You will learn how to configure and troubleshoot the following technical areas for Windows Vista computers:</p>
+
+<ul>
+  <li> Operating system</li>
+  <li> Hardware</li>
+  <li> Networking</li>
+  <li> Security</li>
+  <li>Applications</li>
+</ul>

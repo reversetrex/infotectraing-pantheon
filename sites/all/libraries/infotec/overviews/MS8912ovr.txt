@@ -1,0 +1,35 @@
+<p>This three-day instructor-led course provides students with the tools to configure and customize Microsoft Dynamics CRM 4.0. Configuration topics include setting up business management functions such as:</p>
+
+<ul>
+  <li>Business units</li>
+  <li>Users</li>
+  <li>Teams</li>
+  <li>Security privileges and roles</li>
+  <li>System Settings</li>
+  <li>Multilingual User Interface Language Packs</li>
+  <li>Currency Exchange Rates</li>
+  <li>Multiple Organizations</li>
+</ul>
+
+<p>The course also focuses on using the Microsoft Dynamics CRM 4.0 Customization tools to customize the following system components:</p>
+
+<ul>
+  <li>Forms</li>
+  <li>Views</li>
+  <li>Entities</li>
+  <li>Attributes</li>
+  <li>Relationships</li>
+  <li>Entity Mappings</li>
+</ul>
+
+<p>The following customization topics are outside the scope of this course, but are introduced  here to provide students with insight into potential advanced customization features:</p>
+
+<ul>
+  <li>Application Event Programming</li>
+  <li>Client Extensions</li>
+  <li>Workflow</li>
+  <li>SiteMap</li>
+  <li>URL Addressable Forms</li>
+  <li>IFrames</li>
+  <li>SDK</li>
+</ul>

@@ -1,0 +1,11 @@
+<p><strong>Upon successful completion of this course, students will be able to:</strong></p>
+<ul>
+  <li>Identify enterprise security fundamentals.</li>
+  <li>Apply enterprise security technology solutions.</li>
+  <li>Identify enterprise resource technologies and the potential security implications for these resources.</li>
+  <li>Design security solutions.</li>
+  <li>Identify application security design issues such as best practices for development and testing as well as threat mitigation techniques.</li>
+  <li>Manage risk, security policies, and security procedures within an enterprise.</li>
+  <li>Integrate security solutions within an enterprise.</li>
+  <li>Conduct security research and analysis.</li>
+</ul>

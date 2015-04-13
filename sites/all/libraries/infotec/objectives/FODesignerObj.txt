@@ -1,0 +1,8 @@
+<ul>
+  <li> Demonstrate the proper cable selection in network design. </li>
+  <li> Demonstrate the proper hardware selection requirements in network design. </li>
+  <li> Demonstrate the proper structured wiring standards in network design. </li>
+  <li> Demonstrate the proper fiber count, type, and cable selection in network design. </li>
+  <li> Demonstrate the proper security video network design. </li>
+  <li> Demonstrate how to estimate the hardware bill of materials worksheet in network design. </li>
+</ul>

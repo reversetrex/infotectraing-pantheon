@@ -1,0 +1,57 @@
+<p><u><strong>MS 6234</strong></u></p>
+
+<p><strong>Module 1: Introduction to Microsoft SQL Server Analysis Services</strong></p>
+<blockquote>This module introduces common analysis scenarios and describes how Analysis Services provides a powerful platform for multidimensional OLAP solutions and data mining solutions. The module then describes the main considerations for installing Analysis Services.</blockquote>
+
+<p><strong>Module 2: Creating Multidimensional Analysis Solutions</strong></p>
+<blockquote>This module introduces the development tools you can use to create an Analysis Services multidimensional analysis solution, and describes how to create data sources, data source views, and cubes.</blockquote>
+
+<p><strong>Module 3: Working with Cubes and Dimensions</strong></p>
+<blockquote>This module describes how to edit dimensions and to configure dimensions, attributes, and hierarchies.</blockquote>
+
+<p><strong>Module 4: Working with Measures and Measure Groups</strong></p>
+<blockquote>This module explains how to edit and configure measures and measure groups.</blockquote>
+
+<p><strong>Module 5: Querying Multidimensional Analysis Solutions</strong></p>
+<blockquote>This module introduces multidimensional expressions (MDX) and describes how to implement calculated members and named sets in an Analysis Services cube.</blockquote>
+
+<p><strong>Module 6: Customizing Cube Functionality</strong></p>
+<blockquote>This module explains how to customize a cube by implementing key performance indicators (KPIs), actions, perspectives, and translations.</blockquote>
+
+<p><strong>Module 7: Deploying and Securing an Analysis Services Database</strong></p>
+<blockquote>This module describes how to deploy an Analysis Services database to a production server, and how to implement security in an Analysis Services multidimensional solution.</blockquote>
+
+<p><strong>Module 8: Maintaining a Multidimensional Solution</strong></p>
+<blockquote>This module discusses the maintenance tasks associated with an Analysis Services solution, and describes how administrators can use the Analysis Services management tools to perform them.</blockquote>
+
+<p><strong>Module 9: Introduction to Data Mining</strong></p>
+<blockquote>This module introduces data mining, and describes how to implement data mining structures and models. It then explains how to validate data model accuracy.</blockquote>
+
+<p><u><strong>MS 6235</strong></u></p>
+
+<p><strong>Module 1: Introduction to SQL Server 2008 Integration Services</strong></p>
+<blockquote>The students will be introduced to the role that Integration Services plays in extracting, transforming, and loading data. The students will also be introduced to the tools that are used to build and manage Integration Services solutions.</blockquote>
+
+<p><strong>Module 2: Developing Integration Services Solutions</strong></p>
+<blockquote>The students will be introduced to the development tasks that are involved in creating an Integration Services package.</blockquote>
+
+<p><strong>Module 3: Implementing Control Flow</strong></p>
+<blockquote>The students will be introduced to the tasks and precedence constraints that can be used to implement control flow in an Integration Services package.</blockquote>
+
+<p><strong>Module 4: Implementing Data Flow</strong></p>
+<blockquote>The students will be introduced to the data flow sources, transformations, and destinations that can be used to implement a data flow task in an Integration Services control flow. It also explains how to use data flow paths to direct valid and invalid rows through the data flow.</blockquote>
+
+<p><strong>Module 5: Implementing Logging</strong></p>
+<blockquote>The students will be introduced to how to use logging in an Integration Services package, and explained how to configure and use logging providers to generate information about a package's execution.</blockquote>
+
+<p><strong>Module 6: Debugging and Error Handling</strong></p>
+<blockquote>The students will be introduced to how to debug Integration Services packages by using the debugging tools in Business Intelligence Development Studio. It then explains how to implement error-handling logic in an Integration Services package.</blockquote>
+
+<p><strong>Module 7: Implementing Checkpoints and Transactions</strong></p>
+<blockquote>The students will be introduced to what checkpoints are and how to implement them. It then discusses transactions, and describes how to implement transactional data access logic in an Integration Services package.</blockquote>
+
+<p><strong>Module 8: Configuring and Deploying Packages</strong></p>
+<blockquote>The students will be introduced to how to create Package Configurations and how to deploy Integration Services packages to production servers.</blockquote>
+
+<p><strong>Module 9: Managing and Securing Packages</strong></p>
+<blockquote>The students will be introduced to the management tasks that relate to Integration Services packages and explained how to perform those tasks by using the Integration Services management tools. It also describes how to secure Integration Services packages.</blockquote>

@@ -1,0 +1,30 @@
+<p><strong> Unit 1: Applying Logical Markup </strong></p>
+<ul>
+  <li> Overview of HTML 4.0 Logical Markup </li>
+  <li> Phrase Elements with Style </li>
+</ul>
+<p><strong> Unit 2: Link Attributes and Techniques </strong></p>
+<ul>
+  <li> Enhancing Links </li>
+  <li> Linking Techniques </li>
+</ul>
+<p><strong> Unit 3: Advanced Forms </strong></p>
+<ul><li>Fieldsets and Legends </li>
+  <li> Form Labels and Access Keys </li>
+  <li> Option Groups and Label </li>
+</ul>
+<p><strong> Unit 4: Advanced Tables </strong></p>
+<ul>
+  <li> Table Summaries and Captions </li>
+  <li> Table structures </li>
+  <li> Table Design Techniques </li>
+</ul>
+<p><strong> Unit 5: Inline Frames </strong></p>
+<ul>
+  <li> Creating inline (Floating) Frames </li>
+</ul>
+<p><strong> Unit 6: Document Types and the Doctype &ldquo;Switch&rdquo; </strong></p>
+<ul>
+  <li> Overview of the DOCTYPE Element </li>
+  <li> Doctype Switching </li>
+</ul>

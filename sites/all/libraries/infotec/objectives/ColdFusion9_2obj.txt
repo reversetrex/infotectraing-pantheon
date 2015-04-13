@@ -1,0 +1,16 @@
+<p>Upon successful completion of this course, students will have  learned the following topics (some topics may be abbreviated):</p>
+<ul type="disc">
+  <li>Building User-Defined Functions</li>
+  <li>Creating Custom Tags</li>
+  <li>Creating Advanced ColdFusion Components</li>
+  <li>Improving Performance</li>
+  <li>Working With PDF Files</li>
+  <li>ColdFusion Image Processing</li>
+  <li>Advanced ColdFusion Powered Ajax</li>
+  <li>Creating Presentations</li>
+  <li>Using Stored Procedures</li>
+  <li>Using Regular Expressions</li>
+  <li>ColdFusion Scripting</li>
+  <li>Working with XML</li>
+  <li>Manipulating XML with XSLT and XPath</li>
+</ul>

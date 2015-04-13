@@ -1,0 +1,12 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> create running totals in a report. </li>
+  <li> build cross-tabs in your report. </li>
+  <li> add subreports to a report. </li>
+  <li> design a report that uses a drill-down. </li>
+  <li> improve processing speed in your reports. </li>
+  <li> chart single and multiple data series. </li>
+  <li> report from Excel data. </li>
+  <li> implement report prompts. </li>
+  <li> enhance report functionality. </li>
+</ul>

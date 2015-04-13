@@ -1,0 +1,431 @@
+<p><strong>Module 1: Identify and Resolve New Software Installation Issues</strong> - This module explains how to fix problems that occur during the installation of new software.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Planning New Software Deployment</li>
+  <li>Multilingual Deployment</li>
+  <li>Using Group Policy to install software</li>
+  <li>Using Software Restriction Policies</li>
+  <li>Digitally Signing Software</li>
+  <li>Using WMI</li>
+  <li>Using Applocker</li>
+  <li>Using Virtualization for Testing</li>
+  <li>Resolve Software Installation Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve New Software Installation Issues</strong></p>
+<ul>
+  <li>Create a Repair Disk and Installation Partitions</li>
+  <li>Install and Configure Windows 7</li>
+  <li>Install Programs and test Applocker</li>
+  <li>Configure Compatibility Settings</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Understand the different installation options for Windows 7</li>
+  <li>Understand the different installation options for Windows 7 applications</li>
+  <li>Resolve Windows 7 installation problems</li>
+  <li>Prevent users from running unapproved applications</li>
+</ul>
+<p><strong>Module 2: Resolve Software Configuration Issues</strong> - This module explains how to fix application install problems caused by older programs or new features and options.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Change Default Settings on the Image</li>
+  <li>Enable and Disable Features</li>
+  <li>Pointing to a Network Resource</li>
+  <li>Configuring Updates</li>
+  <li>Resolve Configuration Issues with Group Policy</li>
+  <li>Driver Updates</li>
+  <li>Problem Steps Recorder</li>
+  <li>Resolve Software Configuration Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Resolve Software Configuration Issues</strong></p>
+<ul>
+  <li>Install the Windows Automated Installation Kit</li>
+  <li>Create a Windows PE bootable image</li>
+  <li>Create a VHD disk</li>
+  <li>Install Windows 7 on a VHD</li>
+  <li>Boot Windows 7 from a VHD</li>
+  <li>Use the Problem Steps Recorder</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Create a Windows 7 VHD disk</li>
+  <li>Configure operating system features</li>
+  <li>Understand the impact of Driver Updates</li>
+  <li>Fix software configuration problems</li>
+  <li>Use the Problem Steps Recorder tool</li>
+</ul>
+<p><strong>Module 3: Resolve Software Failure</strong> - This module explains how to fix problems with applications that have problems after being installed.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Event Viewer</li>
+  <li>Event Forwarding</li>
+  <li>Application Compatibility Toolkit</li>
+  <li>Windows Troubleshooting Platform</li>
+  <li>Windows Experience Index</li>
+  <li>Testing Compatibility with Safe Mode</li>
+  <li>System Restore</li>
+  <li>Resolve Software Failure</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Resolve Software Failure</strong></p>
+<ul>
+  <li>Install applications written for older versions of Windows</li>
+  <li>Use the Program Compatibility Tool to configure settings for older applications</li>
+  <li>Use PowerShell scripts to configure Network Adapters</li>
+  <li>Use the Troubleshooter to enable the network adapter</li>
+  <li>Install Windows 7 SDK</li>
+  <li>Create a Troubleshooting Pack with the SDK</li>
+  <li>Configure Event Forwarding</li>
+  <li>Use System Restore</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Configure Event Forwarding</li>
+  <li>Use System Restore to fix desktop problems</li>
+  <li>Create a Windows 7 Troubleshooter</li>
+</ul>
+<p><strong>Module 4: Identify and Resolve Logon Issues</strong> - This module explains how to fix logon problems and configure local and   roaming logon profiles.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Authentication Process</li>
+  <li>Machine Accounts</li>
+  <li>Trust Relationships</li>
+  <li>Network Services</li>
+  <li>User Account Properties</li>
+  <li>User Profiles</li>
+  <li>Resolve Logon Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Logon Issues</strong></p>
+<ul>
+  <li>Join a computer to the domain</li>
+  <li>Install Remote Server Administration Tools (RSAT)</li>
+  <li>Test and Verify Domain User Account Properties</li>
+  <li>Create Logoff script using PowerShell</li>
+  <li>Test the use of Roaming Profiles</li>
+  <li>Test the use of Mandatory Profiles</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Create Roaming and Mandatory User Profiles</li>
+  <li>Configure Machine Accounts in Active Directory</li>
+  <li>Configure User Account Properties in Active Directory</li>
+</ul>
+<p><strong>Module 5: Identify and Resolve Network Connectivity Issues</strong> - This module explains how to troubleshoot connectivity and network problems for client computers.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Scope of the Problem</li>
+  <li>Hardware Issues</li>
+  <li>TCP/IP Configuration</li>
+  <li>Network Routing</li>
+  <li>IPSec Configuration</li>
+  <li>Network Connectivity Tools</li>
+  <li>Branch Cache</li>
+  <li>Resolve Network Connectivity Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Network Connectivity Issues</strong></p>
+<ul>
+  <li>Use command-line tools to identify and fix network connectivity problems</li>
+  <li>Fix connectivity problems caused by problem scripts</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Use command-line tools to troubleshoot connectivity problems</li>
+  <li>Use the Windows Troubleshooters to fix configuration issues</li>
+  <li>Configure Advanced TCP/IP options on a client computer</li>
+</ul>
+<p><strong>Module 6: Identify and Resolve Name Resolution Issues</strong> - This module explains how to use network services and local computer files to resolve computer names.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>DNS Name Resolution</li>
+  <li>Using a Hosts files</li>
+  <li>WINS Configuration</li>
+  <li>Using LMHOSTS files</li>
+  <li>Name Resolution Order</li>
+  <li>Manual vs DHCP Configuration</li>
+  <li>Resolve Name Resolution Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Name Resolution Issues</strong></p>
+<ul>
+  <li>Configure and Test DNS Resolution</li>
+  <li>Configure and Test Hosts File Resolution</li>
+  <li>Configure and Test NetBIOS Resolution</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Configure records on a DNS Server</li>
+  <li>Configure HOSTS records</li>
+  <li>Using command-line and scripting tools to configure TCP/IP settings</li>
+</ul>
+<p><strong>Module 7: Identify and Resolve Network Printer Issues</strong> - This module explains how to configure printer settings and security.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Connecting to a Network Printer</li>
+  <li>Managing the Print Spooler</li>
+  <li>Setting Printer Priorities</li>
+  <li>Creating Printer Pools</li>
+  <li>Configuring Drivers</li>
+  <li>Printer Schedules</li>
+  <li>Printer Permissions</li>
+  <li>Manage Printers with Group Policy Settings</li>
+  <li>Resolve Network Printer Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Network Printer Issues</strong></p>
+<ul>
+  <li>Install local and network printers</li>
+  <li>Create and use a separator page</li>
+  <li>Configure Printer Redirection and Printer Pooling</li>
+  <li>Move the Print Spooler Directory</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Optimize the performance of the Print Spooler</li>
+  <li>Redirect Print Jobs from non-functioning Printers</li>
+  <li>Manage Active Directory registration of Printers</li>
+  <li>Manage Printer Permissions</li>
+</ul>
+<p><strong>Module 8: Identify and Resolve Performance Issues</strong> - This module explains how to improve the performance of a system by monitoring and controlling the use of resources by applications.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Analyzing Event Logs</li>
+  <li>Setting Power Management</li>
+  <li>Optimize Processor Usage</li>
+  <li>Optimizing Memory Usage</li>
+  <li>Optimize Hard Drive Usage</li>
+  <li>Optimize Network Usage</li>
+  <li>Performance Tools</li>
+  <li>Resolve Performance Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Performance Issues</strong></p>
+<ul>
+  <li>Schedule and Perform a Disk Defragmentation</li>
+  <li>Using Task Manager</li>
+  <li>Using Resource Monitor</li>
+  <li>Display a message when a Service stops</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Configure automatic responses to Service failure</li>
+  <li>Manage the use of Processing resources by applications</li>
+  <li>View and control active connections to a computer</li>
+  <li>Optimize Hard-Disk performance</li>
+</ul>
+<p><strong>Module 9: Identify and Resolve Hardware Failure Issues</strong> - This module explains how to diagnose hardware problems on a computer.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Diagnosing Memory Failure Issues</li>
+  <li>Hard Drive Issues</li>
+  <li>Network Card Issues</li>
+  <li>Power Supply Issues</li>
+  <li>Windows Hardware Diagnostic Tools</li>
+  <li>Resolve Hardware Failure Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Hardware Failure Issues</strong></p>
+<ul>
+  <li>Use the Windows Memory Diagnostics Tool</li>
+  <li>Fix Hard Disk Errors</li>
+  <li>Use the Reliability Monitor</li>
+  <li>Use Event Viewer to Find Hardware Information</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Understand how to be proactive in dealing with hardware problems</li>
+  <li>Use Windows 7 hardware diagnostic tools</li>
+</ul>
+<p><strong>Module 10: Identify and Resolve Wireless Connectivity Issues</strong> - This module explains how to configure reliable and secure wireless connectivity for client computers.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Signal Strength</li>
+  <li>Wireless Security</li>
+  <li>Wireless Profiles</li>
+  <li>Management Options for Wireless Devices</li>
+  <li>Resolve Wireless Connectivity Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Wireless Connectivity Issues</strong></p>
+<ul>
+  <li>No Lab Exercises</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Understand the encryption options available for wireless networks</li>
+  <li>Use Windows 7 Wireless security options</li>
+  <li>Fix client connectivity problems</li>
+</ul>
+<p><strong>Module 11: Identify and Resolve Remote Access Issues</strong> - This module explains how to configure remote network connections for client computers.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Remote Access Methods</li>
+  <li>Dial-up Configuration</li>
+  <li>VPN Configuration</li>
+  <li>DirectAccess Configuration</li>
+  <li>Authentication Protocols</li>
+  <li>Resolve Remote Access Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Remote Access Issues</strong></p>
+<ul>
+  <li>Configure Remote Access settings for a domain user account</li>
+  <li>Create and Test a VPN Connection</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Understand the security options available when creating remote access connections</li>
+  <li>Understand the new capabilities of VPN connections that use DirectAccess</li>
+  <li>Resolve connectivity problems for VPN and Dial-Up connections</li>
+</ul>
+<p><strong>Module 12: Manage File Synchronization</strong> - This module explains how to allow end-users to work with network files that are being synchronized on their local desktops or laptops.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Configuring Offline File Access</li>
+  <li>Synchronization Settings</li>
+  <li>Transparent Caching</li>
+  <li>Roaming Profiles</li>
+  <li>Restoring Network Files</li>
+  <li>Resolve File Synchronization Problems</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Manage File Synchronization</strong></p>
+<ul>
+  <li>Configure and Test Offline Files</li>
+  <li>Restore the Previous Version of a File</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Configure Transparent Caching</li>
+  <li>Restore deleted network files</li>
+</ul>
+<p><strong>Module 13: Identify and Resolve Internet Explorer Security Issues</strong> - This module explains how to configure the security features in Internet Explorer to protect user information and privacy.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Configure Security Zone</li>
+  <li>Configure Security Levels</li>
+  <li>Configure Privacy Settings</li>
+  <li>Managing Add-ons</li>
+  <li>Configure Smart Screen Filter</li>
+  <li>Other Security Issues</li>
+  <li>Resolve Internet Explorer Security Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Internet Explorer Security Issues</strong></p>
+<ul>
+  <li>Configure Trusted Security Zone</li>
+  <li>Configure the Security and Privacy Features in IE</li>
+  <li>Configure Group Policy Settings for Internet Explorer</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>How to use new security features like Smart Screen Filtering</li>
+  <li>Manage Internet Explorer Add-ons</li>
+  <li>Use IE features to warn the user about potential security problems</li>
+</ul>
+<p><strong>Module 14: Identify and Resolve Firewall Issues</strong> - This module explains how to configure Windows Firewall to secure network   traffic and applications on a computer.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Securing Network Applications and Features</li>
+  <li>Program and Port Exceptions</li>
+  <li>Configuring Notifications and Logging</li>
+  <li>Network Security Tools</li>
+  <li>Resolve Firewall Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Firewall Issues</strong></p>
+<ul>
+  <li>Configure and Test Firewall Rules for an application</li>
+  <li>Fix Application Problems Caused by Firewall Rules</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Block applications from communicating over the network</li>
+  <li>Record and setup notifications of unapproved network communication</li>
+  <li>Fix problems caused by improper configuration of Windows Firewall</li>
+</ul>
+<p><strong>Module 15: Identify and Resolve Issues Due To Malicious Software</strong> - This module explains how to restore a computer system after an attack by   viruses or other malicious software.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Proactive Malware Protection</li>
+  <li>Protecting Internet Explorer</li>
+  <li>Windows and Anti-Virus Updates</li>
+  <li>Recovering From Malware Infection</li>
+  <li>Resolve Issues Due To Malicious Software</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Issues Due To Malicious Software</strong></p>
+<ul>
+  <li>Use the Action Center to manage UAC settings</li>
+  <li>Use Windows Defender</li>
+  <li>Use System File Checker</li>
+  <li>Use the Malicious Software Removal Tool</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Identify problems caused by viruses and other malware</li>
+  <li>How to protect Internet Explorer and E-mail applications from malware attack</li>
+  <li>How to prevent data loss and fix a computer after a malware attack</li>
+</ul>
+<p><strong>Module 16: Identify and Resolve Encryption Issues</strong> - This module explains how to fix problems caused by using encryption on a Windows computer.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Configuring a Recovery Agent</li>
+  <li>Using EFS</li>
+  <li>Using BitLocker</li>
+  <li>Encryption Tools</li>
+  <li>Resolve Encryption Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Encryption Issues</strong></p>
+<ul>
+  <li>Encrypt Files using EFS</li>
+  <li>Configure EFS Sharing</li>
+  <li>Configure a Recovery Agent</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Recover from lost encryption keys</li>
+  <li>How to encrypt individual files using EFS</li>
+  <li>Use BitLocker to protect laptops and insecure computers</li>
+</ul>
+<p><strong>Module 17: Identify and Resolve Software Update Issues</strong> - This module explains how to enable and use the software update features available in Windows 7.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Types of Windows Updates</li>
+  <li>Using Windows Update</li>
+  <li>Using Microsoft Update</li>
+  <li>Resolve Software Update Issues</li>
+  <li>Review</li>
+</ul>
+<p><strong>Lab : Identify and Resolve Software Update Issues</strong></p>
+<ul>
+  <li>Configure Windows Updates using desktop settings</li>
+  <li>Configure Windows Updates using Group Policy settings</li>
+</ul>
+<p><em>After completing this module, students will be able to:</em></p>
+<ul>
+  <li>Configure client computers to get updates from the local network instead of the Internet</li>
+  <li>Understand the different options available when updating the operating system</li>
+  <li>Understand how to configure automatic updates for Microsoft applications</li>
+</ul>

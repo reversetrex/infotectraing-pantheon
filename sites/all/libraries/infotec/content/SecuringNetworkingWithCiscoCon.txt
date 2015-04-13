@@ -1,0 +1,32 @@
+<p><strong>Lesson 1: Deploying Cisco IOS Software Network Foundation Protection</strong></p>
+<ul>
+  <li>Topic 1A: Deploying Network Foundation  Protection Controls</li>
+  <li>Topic 1B: Deploying Advanced Switched Data  Plane Security Controls</li>
+  <li>Topic 1C: Implementing Cisco Identity-Based  Network Services</li>
+  <li>Topic 1D: Deploying Basic 802.1X Features</li>
+  <li>Topic 1E: Deploying Advanced Routed Data  Plane Security Controls</li>
+  <li>Topic 1F: Deploying Advanced Control Plane  Security Controls</li>
+  <li>Topic 1G: Deploying Advanced Management Plane  Security Controls</li>
+</ul>
+<p><strong>Lesson 2: Deploying Cisco IOS Software Threat Control and Containment</strong></p>
+<ul>
+  <li>Topic 2A: Deploying Cisco IOS Software  Network Address Translation</li>
+  <li>Topic 2B: Deploying Basic Zone-Based Policy  Firewalls</li>
+  <li>Topic 2C: Deploying Advanced Zone-Based  Policy Firewalls</li>
+  <li>Topic 2D: Deploying Cisco IOS Software IPS</li>
+</ul>
+<p><strong>Lesson 3: Deploying Cisco IOS Software Site-to-Site Transmission Security</strong></p>
+<ul>
+  <li>Topic 3A: Site-to-Site VPN Architectures and  Technologies</li>
+  <li>Topic 3B: Deploying VTI-Based Site-to-Site  IPsec VPNs</li>
+  <li>Topic 3C: Deploying Scalable Authentication in  Site-to-Site IPsec VPNs</li>
+  <li>Topic 3D: Deploying DMVPNs</li>
+  <li>Topic 3E: Deploying High Availability in  Tunnel-Based IPsec VPNs</li>
+  <li>Topic 3F: Deploying GET VPN</li>
+</ul>
+<p><strong>Lesson 4: Deploying Secure Remote Access with Cisco IOS Software</strong></p>
+<ul>
+  <li>Topic 4A: Remote Access VPN Architectures and  Technologies</li>
+  <li>Topic 4B: Deploying Remote Access Solutions  Using SSL VPN</li>
+  <li>Topic 4C: Deploying Remote  Access Solutions Using Cisco Easy VPN</li>
+</ul>

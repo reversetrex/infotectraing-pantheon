@@ -1,0 +1,31 @@
+<p><strong>Three (3) Day Course - Certification Exam administered on the final day.</strong></p>
+<p><strong>Day 1</strong></p>
+<p>Morning:</p>
+<ul>
+  <li>What is ITSM? What is ISO/IEC 20000?</li>
+  <li>The Fundamentals of Service Quality Management - ISO/IEC 20000 and ITSM</li>
+  <li>Scoping and Eligibility</li>
+</ul>
+<p>Afternoon:</p>
+<ul>
+  <li>ISO/IEC 20000:1 Requirements (&ldquo;The Shalls&rdquo;)</li>
+</ul>
+<p><strong>Day 2</strong></p>
+<p>Morning:</p>
+<ul>
+  <li>ISO/IEC 20000:1 Requirements (&ldquo;The Shalls&rdquo; <em>continued</em>)</li>
+</ul>
+<p>Afternoon:</p>
+<ul>
+  <li>ISO/IEC 20000:2 Best Practices (&ldquo;The Shoulds&rdquo;)</li>
+</ul>
+<p><strong>Day 3</strong></p>
+<p>Morning:</p>
+<ul>
+  <li>ISO/IEC 20000:2 Best Practices (&ldquo;The Shoulds&rdquo; <em>continued</em>)</li>
+</ul>
+<p>Afternoon:</p>
+<ul>
+  <li>Wrap Up / Review of Sample Exam</li>
+  <li>Foundation Exam</li>
+</ul>

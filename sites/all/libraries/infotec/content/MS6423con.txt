@@ -1,0 +1,72 @@
+<p><strong>Module 1: Introduction to Clusters</strong> - This module provides an overview of cluster concepts and functionality.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Clusters</li>
+  <li>Benefits of Using Clusters</li>
+  <li>Overview of the Windows Server 2008 High Availability Solutions</li>
+</ul>
+
+<p><strong>Module 2: Introduction to Microsoft Windows Server 2008 Failover Clusters</strong> - This module describes key features and functionality of the Windows Server 2008 failover clusters.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Windows Server 2008 Failover Clusters</li>
+  <li>Key Windows Server 2008 Failover Cluster Features</li>
+  <li>Overview of the Windows Server 2008 Quorum Models</li>
+</ul>
+
+<p><strong>Module 3: Preparing to Install a Failover  Cluster</strong> - This module explains the prerequisite requirements and planning required to install a Windows failover cluster.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Requirements for Installing a Failover Cluster</li>
+  <li>Planning the Failover Cluster Implementation</li>
+  <li>Installing the Failover Cluster Feature and Validating the Cluster Configuration</li>
+  <li>Installing the Failover Cluster on Windows Server 2008 Server Core</li>
+</ul>
+
+<p><strong>Module 4: Overview of Failover Cluster  Storage Requirements</strong> - This module explains storage fundamentals and how to plan and implement storage solutions for failover clusters.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Storage Technologies</li>
+  <li>Introduction to Storage Area Networks</li>
+  <li>Planning a Storage Solution for Failover Clusters</li>
+  <li>Configuring an iSCSI Storage Connection</li>
+</ul>
+
+<p><strong>Module 5: Configuring a Failover Cluster</strong> - This module explains how to install and  manage a failover cluster.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Creating a New Failover Cluster</li>
+  <li>Managing a Failover Cluster</li>
+  <li>Verifying Failover Functionality</li>
+</ul>
+
+<p><strong>Module 6: Configuring Cluster Resources and  Server Roles</strong> - This module explains how to configure cluster resources and how to cluster common Window Server roles and  applications.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Configuring Cluster Resources</li>
+  <li>Implementing Failover Clusters for Server Roles Using Failover Cluster Management</li>
+  <li>Clustering Server Roles Using Windows Server Core</li>
+</ul>
+
+<p><strong>Module 7: Maintaining Microsoft Failover  Clusters</strong> - This module explains how to maintain and troubleshoot failover clusters.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Monitoring Failover Clusters</li>
+  <li>Backing Up and Restoring Failover    Clusters</li>
+  <li>Troubleshooting Failover Clusters</li>
+</ul>
+
+<p><strong>Module 8: Implementing Geographically  Dispersed Clusters</strong> - This module explains geographically  dispersed clusters and the challenges that they present. In addition, this  module describes how to implement a multi-subnet cluster using Windows Server  2008.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Geographically Dispersed Clusters</li>
+  <li>Implementing Geographically Dispersed Clusters Using Windows Server 2008</li>
+</ul>
+
+<p><strong>Module 9: Implementing Network Load Balanced Clusters</strong> - This module explains how to install and maintain network load balanced (NLB) clusters.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Network Load Balancing</li>
+  <li>Configuring a Network Load Balanced Cluster</li>
+  <li>Maintaining a Network Load Balanced Cluster</li>
+</ul>

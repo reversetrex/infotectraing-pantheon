@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Describe the features and functions of Group Policy</li>
+    <li>Use Group Policy management tools to manage security policies</li>
+    <li>Design a Group Policy infrastructure</li>
+    <li>Describe the Group Policy processing architecture</li>
+    <li>Back up, restore, import, and copy Group Policy Objects through the Group Policy Management Console</li>
+    <li>Use Windows PowerShell to manage Group Policy</li>
+    <li>Implement security using Group Policy</li>
+    <li>Configure the desktop environment with Group Policy</li>
+    <li>Configure roaming profiles and Folder Redirection</li>
+    <li>Assign and publish software packages</li>
+    <li>Implement AppLocker an software restriction policies</li>
+    <li>Create and deploy Administrative Templates</li>
+    <li>Configure Group Policy   preferences</li>
+</ul>

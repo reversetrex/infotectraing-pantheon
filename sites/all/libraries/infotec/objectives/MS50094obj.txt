@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Describe aspects of the multiple engine settings and the balance of information versus performance in Forefront Security for Exchange Server.</li>
+  <li>Discuss how transport scanning works in Forefront Security for Exchange Server.</li>
+  <li>Identify and understand the differences between default mode and outbreak mode protection, and understand the file, content, and keyword filtering options available with Forefront Security for Exchange Server.</li>
+  <li>Identify components and services within Forefront Security for SharePoint.</li>
+  <li>Use Forefront Security for SharePoint filters and templates to define scanning options.</li>
+  <li>Understand Forefront Security for SharePoint diagnostics, logging, and statistics gathered during maintenance and from notifications.</li>
+  <li>Understand the various alerts and reporting features available in Forefront Server Security Management Console.</li>
+  <li>Identify the eight Management Console job categories and the basic role of each classification.</li>
+</ul>

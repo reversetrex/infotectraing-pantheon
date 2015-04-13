@@ -1,0 +1,39 @@
+<h2>Session 1</h2>
+  <h3>Section A: Getting Started</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Objectives</li>
+    <li>Introduction</li>
+    <li>Supervisory Power</li>
+    <li>Case Study</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Managing Performance</h3>
+  <ul>
+    <li>Setting Expectations</li>
+    <li>Giving Feedback</li>
+    <li>Handling Problems</li>
+    <li>Staying Flexible</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Communicating Proactively</h3>
+  <ul>
+    <li>Delegating Tasks and Time</li>
+    <li>Effective Meetings</li>
+    <li>Talking to Your Boss</li>
+    <li>Case Study</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section D: Coaching for Excellence</h3>
+  <ul>
+    <li>The Good Coach</li>
+    <li>The Coaching Process</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section E: Dealing with Change</h3>
+  <ul>
+    <li>A Modern Skill</li>
+    <li>Positive Change Mgmt.</li>
+    <li>Case Study</li>
+    <li>Conclusion</li>
+  </ul>

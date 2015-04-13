@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to use the advanced features in Outlook to manage the advanced options for message, contacts, and calendar management and perform more advanced tasks such as task assignment, journaling, sharing workspaces, and backing up to data files. They will:</p>
+<ul>
+  <li>Configure advanced message options.</li>
+  <li>Perform advanced message management tasks.</li>
+  <li>Perform advanced calendar management tasks.</li>
+  <li>Perform advanced contact management tasks.</li>
+  <li>Manage activities by using tasks and journal entries.</li>
+  <li>Share Outlook workspaces with other users.</li>
+  <li>Manage Outlook data files.</li>
+</ul>

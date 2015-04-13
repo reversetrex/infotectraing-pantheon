@@ -1,0 +1,1 @@
+Learners will deploy, configure, and administer Cisco IPS sensors to protect network devices as well as efficiently manage IPS alarms.

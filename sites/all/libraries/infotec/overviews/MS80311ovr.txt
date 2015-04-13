@@ -1,0 +1,1 @@
+This two-day instructor-led course provides students with an overview of the Project management functionality in Service Industries in Microsoft Dynamics AX 2012.This course covers the most important functionality in the module, including its setup and processes. It assumes course participants have baseline knowledge of the earlier version.

@@ -1,0 +1,59 @@
+<p><strong>Module 1: Planning for Virtualization</strong></p>
+<blockquote>After completing this module students will be able to describe virtualization as it relates to server environments. Students will be able to plan for hardware requirements, storage, availability, and security.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Microsoft Virtualization</li>
+  <li>Assessment of Virtualization Candidates</li>
+  <li>Planning for Virtualization</li>
+</ul>
+<p><strong>Module 2: Implementing Server Virtualization with Hyper-V</strong></p>
+<blockquote>This module describes how to install and configure Hyper-V virtual machines, configuring virtual storage, and configuring virtual networks. Students will be able to design their Hyper-V environment and storage networks.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Implementing Hyper-V</li>
+  <li>Managing Virtual Machine Storage</li>
+  <li>Managing Virtual Networks</li>
+</ul>
+<p><strong>Module 3: Creating and Configuring Virtual Hard Disks and Virtual Machines</strong></p>
+<blockquote>After completing this module students will be able to determine and configure the most appropriate virtual hard disk(s) format to use in their environment. Students also will be able to create and configure virtual machines.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Creating and Configuring Virtual Hard Disks</li>
+  <li>Creating and Configuring Virtual Machines</li>
+  <li>Managing Virtual Machine Snapshots</li>
+  <li>Virtual Machine Import</li>
+</ul>
+<p><strong>Module 4: Configure Networking in Hyper-V</strong></p>
+<blockquote>This module describes all of the new network features available in Hyper-V. Students will be able to describe Hyper-V Network Virtualization along with the Hyper-V Extensible Switch. Students will also be able to plan how to implement the new networking features available with Windows Server 2012 Hyper-V.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Advanced features of Virtual Network Adapters</li>
+  <li>Hyper-V Network Virtualization</li>
+  <li>Hyper-V Extensible Switch</li>
+</ul>
+<p><strong>Module 5: Scale-up Virtual Machines</strong></p>
+<blockquote>This module explains how Windows Server 2012 can be used to scale-up your virtual machines. Students will learn the details around non-uniform memory access (NUMA) and the other scale-up options in Windows Server 2012. It also compares the scale-up options in Windows Server 2012 with the options that were available in previous versions of Windows Server.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Scale-up options in Windows Server 2012</li>
+  <li>Non-uniform memory access (NUMA)</li>
+  <li>Hyper-v Scale Comparison</li>
+</ul>
+<p><strong>Module 6: Hyper-V Replica and Disaster Recovery</strong></p>
+<blockquote>This module describes disaster recovery options for Hyper-V, including Hyper-V Replica and backup/restore options for Hyper-V. Students will learn how to plan and prepare for Hyper-V Replica, learn how to configure and enable replication, perform planned failovers, and how to respond to unplanned failovers. They will also learn how to backup and restore Hyper-V hosts and virtual machines.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Hyper-V Replica</li>
+  <li>Configuring Hyper-V Replica</li>
+  <li>Hyper-V Replica Failover Operations</li>
+  <li>Hyper-V Backup</li>
+</ul>
+<p><strong>Module 7: Hyper-V Migration</strong></p>
+<blockquote>This module describes the Hyper-V virtual machine (VM) mobility technologies. Students will learn changes to Live Migration that are introduced with Windows Server 2012. Students will also learn best practices for securing Live Migrations.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Live Migration Overview</li>
+  <li>Storage Migration Overview</li>
+  <li>Live Migration Security</li>
+  <li>Live Migration using SMB</li>
+</ul>

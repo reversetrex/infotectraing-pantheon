@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Learn the fundamental concepts of cloud computing.</li>
+  <li>Learn the business aspects and impact of cloud computing.</li>
+  <li>Differentiate the types of cloud solutions and the adoption measures needed for each.</li>
+  <li>Identify the technical challenges and the mitigation measures involved in cloud computing.</li>
+  <li>Identify the steps to successfully adopt cloud services.</li>
+  <li>Identify the basic concepts of ITIL and describe how the ITIL framework is useful in the implementation of cloud computing in an organization.</li>
+  <li>Identify the possible risks involved in cloud computing and the risk mitigation measures, and you will also identify the potential cost considerations for the implementation of cloud and its strategic benefits.</li>
+</ul>

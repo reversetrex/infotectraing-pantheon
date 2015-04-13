@@ -1,0 +1,97 @@
+<p><strong> Unit 1: SQL Server Overview </strong></p>
+<ul>
+  <li> What Is SQL Server </li>
+  <li>SQL Server Integration </li>
+  <li>SQL Server Databases </li>
+  <li>SQL Server Security </li>
+  <li>Working with SQL Server </li>
+</ul>
+<p><strong> Unit 2: Planning to Install SQL Server </strong></p>
+<ul>
+  <li> Hardware Installation Considerations </li>
+  <li>SQL Server 2000 Editions </li>
+  <li>Software Installation Considerations </li>
+  <li>Methods of Installing SQL Server </li>
+  <li>Verifying the Installation </li>
+  <li>Configuring SQL Server Enterprise Manager </li>
+  <li>Troubleshooting </li>
+</ul>
+<p><strong> Unit 3: Managing Database Files </strong></p>
+<ul>
+  <li> The following topics are covered in this Unit: </li>
+  <li>Introduction to Data Structures </li>
+  <li>Creating Databases </li>
+  <li>Managing Databases </li>
+  <li>Placing Database Files and Logs </li>
+  <li>Optimizing the Database Using Hardware-based RAID </li>
+  <li>Optimizing the Database Using Filegroups </li>
+  <li>Optimizing the Database Using Filegroups with Hardware-based RAID </li>
+  <li>Capacity Planning </li>
+  <li>Performance Considerations </li>
+</ul>
+<p><strong> Unit 4: Managing Security </strong></p>
+<ul>
+  <li> Implementing an Authentication Mode </li>
+  <li>Assigning Logins to Users and Roles </li>
+  <li>Assigning Permissions to Users and Roles </li>
+  <li>Managing Security Within SQL Server </li>
+  <li>Managing Application Security </li>
+  <li>Managing SQL Server Security in the Enterprise </li>
+</ul>
+<p><strong> Unit 5: Performing Administrative Tasks </strong></p>
+<ul>
+  <li> Configuration Tasks Routine SQL </li>
+  <li>Server Administrative Tasks </li>
+  <li>Automating Routine Maintenance </li>
+  <li>Tasks Creating Alerts </li>
+  <li>Troubleshooting SQL Server </li>
+  <li>Automation Automating </li>
+  <li>Multiserver Jobs </li>
+</ul>
+<p><strong> Unit 6: Backing Up Databases </strong></p>
+<ul>
+  <li> Preventing Data Loss </li>
+  <li>Setting and Changing a Database Recovery Model </li>
+  <li>SQL Server Backup </li>
+  <li>When to Back Up Databases </li>
+  <li>Performing Backups </li>
+  <li>Types of Backup Methods </li>
+  <li>Planning a Backup Strategy </li>
+  <li>Performance Considerations </li>
+</ul>
+<p><strong> Unit 7: Restoring Databases </strong></p>
+<ul>
+  <li> SQL Server Recovery Process </li>
+  <li>Preparing to Restore a Database </li>
+  <li>Restoring Backups </li>
+  <li>Restoring Databases from Different Backup Types </li>
+  <li>Restoring Damaged System Databases </li>
+</ul>
+<p><strong> Unit 8: Monitoring SQL Server for Performance </strong></p>
+<ul>
+  <li> Why to Monitor SQL Server </li>
+  <li>Performance Monitoring and Tuning </li>
+  <li>Tools for Monitoring SQL Server </li>
+  <li>Common Monitoring and Tuning Tasks </li>
+</ul>
+<p><strong> Unit 9: Transferring Data </strong></p>
+<ul>
+  <li> Introduction to Transferring Data </li>
+  <li>Tools for Importing and Exporting Data in SQL Server </li>
+  <li>Introduction to DTS </li>
+  <li>Transforming Data with DTS </li>
+</ul>
+<p><strong> Unit 10: Maintaining High Availability </strong></p>
+<ul>
+  <li> Introduction to Availability </li>
+  <li>Increasing Availability Using Failover Clustering </li>
+  <li>Standby Servers and Log Shipping </li>
+</ul>
+<p><strong> Unit 11: Introducing Replication </strong></p>
+<ul>
+  <li> Introduction to Distributed Data </li>
+  <li>Introduction to SQL Server Replication </li>
+  <li>SQL Server Replication Agents </li>
+  <li>SQL Server Replication Types </li>
+  <li>Physical Replication Models </li>
+</ul>

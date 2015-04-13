@@ -1,0 +1,122 @@
+<p>After  completing this course, students will understand the basic technology behind  SharePoint and SharePoint sites, and know how to work in SharePoint Designer  2007 to create and modify SharePoint site content. Students will know how to  work with HTML pages, Web Part pages, and ASP.NET pages, and how to create  content based on existing master pages. Students will also know how to create  SharePoint lists and display them in Web Parts or as pages.</p>
+
+<p><strong>Specifically, they will be able to:</strong></p>
+
+<ul>
+	<li>Understand SharePoint Designer.</li>
+	<li>Use SharePoint Designer to carry out common tasks.</li>
+	<li>Understand Windows SharePoint Services.</li>
+	<li>Explore a SharePoint site.</li>
+	<li>Understand the relationship between Windows SharePoint Services and SharePoint Server 2007.</li>
+	<li>Consider complications of upgrading customized SharePoint sites.</li>
+	<li>Explore the SharePoint Designer workspace.</li>
+	<li>Use toolbars.</li>
+	<li>Use task panes.</li>
+	<li>Create a SharePoint site hierarchy.</li>
+	<li>Delete a SharePoint site.</li>
+	<li>Explore a Web page.</li>
+	<li>Insert text, ScreenTips, and Hyperlinks</li>
+	<li>Insert Web components</li>
+	<li>Insert images.</li>
+	<li>Add client-side interactivity.</li>
+	<li>Create a table layout.</li>
+	<li>Change the default page for a Web site.</li>
+	<li>Reset a page to the site definitions.</li>
+	<li>Create a Basic Meeting Workspace site.</li>
+	<li>Create a Web Part page by using a browser.</li>
+	<li>Create an ASP.NET page.</li>
+	<li>Insert a Web Part zone.</li>
+	<li>Add a Web Part and modify Web Part properties.</li>
+	<li>Attach a master page.</li>
+	<li>Create a Web page from a master page.</li>
+	<li>Delete a Web page.</li>
+	<li>Create a list.</li>
+	<li>Create a List View Web Part.</li>
+	<li>Customize a List View Web Part.</li>
+	<li>Modify a built-in List View page.</li>
+	<li>Create a List View page.</li>
+	<li>Modify a built-in List Form page.</li>
+	<li>Create and customize Data Views.</li>
+	<li>Apply conditional formatting.</li>
+	<li>Format a Data View by using XSLT.</li>
+	<li>Allow insertions, deletions, and updates.</li>
+	<li>Discuss the use of CAML</li>
+	<li>Convert a List View Web Part to a Data View Web Part.</li>
+	<li>Deploy Web Parts.</li>
+	<li>Use the Data Source Library.</li>
+	<li>Work with XML data.</li>
+	<li>Connect to an RSS feed XML file.</li>
+	<li>Connect to an RSS feed server-side script.</li>
+	<li>Connect to an XML Web service.</li>
+	<li>Use linked sources.</li>
+	<li>Display the contents of a list on another site.</li>
+	<li>Connect Web Parts.</li>
+	<li>Insert and modify controls.</li>
+	<li>Use standard ASP.NET controls.</li>
+	<li>Use ASP.NET validation controls.</li>
+	<li>Use SharePoint Data View controls.</li>
+	<li>Use SharePoint Server controls.</li>
+	<li>Understand master pages.</li>
+	<li>Customize a master page.</li>
+	<li>Change the default master page.</li>
+	<li>Manage content placeholders and content regions.</li>
+	<li>Reset a master page to the site definition.</li>
+	<li>Understand CSS and color-coding options.</li>
+	<li>Identify styles in cascading style sheets.</li>
+	<li>Create, modify, and delete styles.</li>
+	<li>Use the Style Application toolbar.</li>
+	<li>Create and attach CSS files.</li>
+	<li>Understand CSS inheritance in SharePoint.</li>
+	<li>Use CSS reports.</li>
+	<li>Understand Web content management enhancements in SharePoint Server 2007.</li>
+	<li>Understand the page model.</li>
+	<li>Create and modify a page layout.</li>
+	<li>Restore an earlier version of a page layout.</li>
+	<li>Detach and reattach a page layout.</li>
+	<li>Work with workflows.</li>
+	<li>Create a workflow.</li>
+	<li>Use conditions and actions.</li>
+	<li>Verify and deploy a workflow.</li>
+	<li>Modify a workflow.</li>
+	<li>Create a multi-step workflow.</li>
+	<li>Delete a workflow.</li>
+	<li>Understand site definitions and templates.</li>
+	<li>Create a site template.</li>
+	<li>Explore a site template.</li>
+	<li>Test a site template solution.</li>
+	<li>Configure Contributor Settings.</li>
+	<li>Identify Contributor Settings.</li>
+	<li>Create reports.</li>
+	<li>Back up and restore sites.</li>
+	<li>Export and import sites.</li>
+	<li>Copy lists and libraries between sites.</li>
+	<li>Copy documents between sites.</li>
+	<li>Understand usability issues.</li>
+	<li>Choose color schemes.</li>
+	<li>Understand accessibility standards and legal issues.</li>
+	<li>Generate accessibility reports.</li>
+	<li>Generate compatibility reports.</li>
+	<li>Recognize a Web Application.</li>
+	<li>Install Windows SharePoint Services 3.0.</li>
+	<li>Create a SharePoint Blog.</li>
+	<li>Create Pages containing Web Part Connections in SharePoint.</li>
+	<li>Create Content Rendered with CSS.</li>
+	<li>Style ASP.NET Controls by Using CSS.</li>
+	<li>Understand CSS Layout.</li>
+	<li>Edit the CSS for your Layout.</li>
+	<li>Creating a CSS Layout Menu.</li>
+	<li>Insert ASP.NET Menu Control.</li>
+	<li>Set Menu Control Properties.</li>
+	<li>Modify Style Properties on an asp:menu Control.</li>
+	<li>Add a Link to a SharePoint Navigation Control.</li>
+	<li>Add Style to a SharePoint Navigation Control.</li>
+	<li>Access List Data from Other Sites.</li>
+	<li>Create a SQL Data Source.</li>
+	<li>Set a Custom Sort and Group for a Data View.</li>
+	<li>Filter a View Based on an ASP.NET Control Value.</li>
+	<li>Create Parameters inside a Data Source.</li>
+	<li>Create Parameters inside a Data View.</li>
+	<li>Display the Value of a Parameter in a Data View.</li>
+	<li>Use a Math Expression with a Parameter for Conditional Formatting.</li>
+	<li>Insert SharePoint List Values into a Word Template for Easier Reporting.</li>
+</ul>

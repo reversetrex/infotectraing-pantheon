@@ -1,0 +1,1 @@
+This two-day instructor-led course provides students with the knowledge and skills to build and configure a Windows Workflow Foundation (WF) solution.

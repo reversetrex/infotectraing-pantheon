@@ -1,0 +1,22 @@
+<p>Upon successful completion of this course, learners are able to perform the following:</p>
+<ul>
+  <li>Evaluate components of Cisco IOS Software NFP.</li>
+  <li>Choose, configure, and troubleshoot Cisco Catalyst IOS Software switched infrastructure protection controls.</li>
+  <li>Evaluate Cisco IBNS components and choose authentication protocols.</li>
+  <li>Choose, configure, and troubleshoot basic and advanced Cisco Catalyst IOS Software 802.1X authenticator and Cisco Secure ACS features.</li>
+  <li>Implement and maintain Cisco IOS Software routed data plane security controls.</li>
+  <li>Choose, configure, and troubleshoot advanced Cisco IOS Software control plane security controls.</li>
+  <li>Choose, configure, and troubleshoot advanced Cisco IOS Software management plane security controls.</li>
+  <li>Configure and troubleshoot the basic features of Cisco IOS NAT.</li>
+  <li>Configure and troubleshoot the basic and advanced features of a Cisco IOS Zone-Based Policy Firewall.</li>
+  <li>Configure and troubleshoot the features of Cisco IOS IPS.</li>
+  <li>Evaluate Cisco IOS site-to-site VPN technologies.</li>
+  <li>Configure and troubleshoot Cisco IOS VTI-based site-to-site IPsec VPNs.</li>
+  <li>Configure and troubleshoot PKI integration in Cisco IOS site-to-site IPsec VPNs.</li>
+  <li>Configure and troubleshoot a Cisco IOS DMVPN network.</li>
+  <li>Choose and configure Cisco IOS site-to-site IPsec VPN high availability features.</li>
+  <li>Configure and troubleshoot a Cisco IOS GET VPN network.</li>
+  <li>Evaluate Cisco IOS Software remote access VPN technologies.</li>
+  <li>Configure and troubleshoot a Cisco IOS Software SSL VPN gateway.</li>
+  <li>Configure and troubleshoot a Cisco IOS Software Easy VPN Remote device and gateway.</li>
+</ul>

@@ -1,0 +1,19 @@
+<h2>Session 1</h2>
+  <h3>Section A: Success for Sales</h3>
+  <ul>
+    <li>Taking Initiative</li>
+    <li>Be Prepared to Sell</li>
+    <li>Presentation Goals</li>
+  </ul>
+  <h3>Section B: Five Steps to Success</h3>
+  <ul>
+    <li>Establish Rapport</li>
+    <li>Get Attention</li>
+    <li>Establish a Need</li>
+    <li>Create Satisfaction</li>
+    <li>Motivate Action</li>
+  </ul>
+  <h3>Section C: Shine Through</h3>
+  <ul>
+    <li>Presentation Results</li>
+  </ul>

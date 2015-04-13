@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Describe the core features of SharePoint 2013</li>
+    <li>Plan and design a SharePoint 2013 environment to meet requirements for high availability and disaster recovery</li>
+    <li>Plan and implement a service application architecture for a SharePoint 2013 deployment</li>
+    <li>Configure and manage Business Connectivity Services features in a SharePoint 2013 deployment</li>
+    <li>Plan and configure social computing features</li>
+    <li>Plan and configure productivity and collaboration platforms and features</li>
+    <li>Plan and configure Business Intelligence solutions</li>
+    <li>Optimize the search experience for an enterprise environment</li>
+    <li>Plan and configure enterprise content management in a SharePoint 2013 deployment</li>
+    <li>Plan and configure a web content management infrastructure to meet business requirements</li>
+    <li>Manage solutions in a SharePoint 2013 deployment</li>
+    <li>Configure and manage apps in a SharePoint Server 2013 environment</li>
+    <li>Develop and implement a governance plan for SharePoint Server 2013</li>
+    <li>Perform an upgrade or migration to SharePoint Server 2013</li>
+</ul>

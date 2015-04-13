@@ -1,0 +1,20 @@
+<p> <strong>Unit 1: Management and planning</strong><br>
+  Topic A: Management basics<br>
+  Topic B: Management roles and skills<br>
+  Topic C: IT planning<br>
+  <strong><br>
+  Unit 2: Staffing an IT team</strong><br>
+  Topic A: IT recruitment basics<br>
+  Topic B: Interviewing candidates<br>
+  <br>
+  <strong>Unit 3: IT team leadership</strong><br>
+  Topic A: Effective leadership<br>
+Topic B: Leadership styles and tactics</p>
+<p> <strong>Unit 4: Managing a team</strong><br>
+  Topic A: Team building<br>
+Topic B: Team support</p>
+<p> <strong>Unit 5: Managing the IT department</strong><br>
+  Topic A: Networking<br>
+  Topic B: Hardware, software, and security<br>
+  Topic C: Web sites<br>
+</p>

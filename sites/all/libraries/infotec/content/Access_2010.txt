@@ -1,0 +1,323 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Database Defined</li>
+    <li>Available Database Platforms</li>
+    <li>Access Advantages and Disadvantages</li>
+  </ul>
+  <h3>Section B: Access 2010 Tour</h3>
+  <ul>
+    <li>Opening Access and Databases</li>
+    <li>Interface Overview</li>
+    <li>Quick Access Toolbar</li>
+    <li>Introduction to Backstage</li>
+    <li>Getting Help</li>
+    <li>Understanding Database Parts</li>
+  </ul>
+  <h3>Section C: Working with Tables and Forms</h3>
+  <ul>
+    <li>Navigating Tables</li>
+    <li>Sorting and Filtering Table Data</li>
+    <li>Entering and Editing Table Data</li>
+    <li>Navigating Forms</li>
+    <li>Entering and Editing Form Data</li>
+    <li>Form Types</li>
+    <li>Working with Multiple Items</li>
+  </ul>
+  <h3>Section D: Working with Queries and Reports</h3>
+  <ul>
+    <li>Running Queries</li>
+    <li>Running Reports</li>
+  </ul>
+  <h3>Section E: Database Organization Techniques</h3>
+  <ul>
+    <li>Using the Navigation Pane</li>
+    <li>Access Naming Conventions</li>
+    <li>Copying and Renaming Objects</li>
+    <li>Deleting Objects</li>
+  </ul>
+  <h3>Section F: Customizing Access</h3>
+  <ul>
+    <li>Customizing Quick Access Toolbar</li>
+    <li>Customizing the Ribbon</li>
+    <li>Backstage Customization Options</li>
+    <li>Additional Backstage Options</li>
+  </ul>
+  <h3>Section G: Understanding Relational Databases</h3>
+  <ul>
+    <li>Flat vs. Relational Databases</li>
+    <li>Relational Database Rules</li>
+  </ul>
+  <h3>Section H: Planning a Database</h3>
+  <ul>
+    <li>Defining Database Needs</li>
+    <li>Mapping Out a Database</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Building a Database</h3>
+  <ul>
+    <li>Database Options</li>
+    <li>Database from Template</li>
+    <li>Database from Scratch</li>
+  </ul>
+  <h3>Section B: Building Tables</h3>
+  <ul>
+    <li>Application Parts</li>
+    <li>Using Application Parts</li>
+    <li>Using Naming Conventions</li>
+    <li>Tables from Scratch</li>
+    <li>Create Table in Design View</li>
+  </ul>
+  <h3>Section C: Table Design Basics</h3>
+  <ul>
+    <li>Good Table Design Basics</li>
+    <li>Defining the Data Type</li>
+    <li>Yes/No Data Type</li>
+    <li>Other Data Types</li>
+    <li>Saving and Testing Tables</li>
+  </ul>
+  <h3>Section D: Adjusting Table Design</h3>
+  <ul>
+    <li>Understanding Field Properties</li>
+    <li>Database Adjustment Feedback</li>
+    <li>Edit Field Size</li>
+    <li>Removing Fields</li>
+    <li>Text vs. Numeric Field Options</li>
+    <li>Adding Descriptions</li>
+    <li>Renaming Fields</li>
+    <li>Importance of Field Consistency</li>
+    <li>Required Fields</li>
+  </ul>
+  <h3>Section E: Data Validation and Input Masks</h3>
+  <ul>
+    <li>Validation Rules</li>
+    <li>Building the Rule</li>
+    <li>Specify Validation Text</li>
+    <li>Testing Validation Rule</li>
+    <li>Input Masks</li>
+    <li>Input Mask Wizard</li>
+  </ul>
+  <h3>Section F: Lookups</h3>
+  <ul>
+    <li>Lookups Defined</li>
+    <li>Creating a Lookup</li>
+    <li>Using the Lookup Wizard</li>
+    <li>List-Based Lookups</li>
+  </ul>
+  <h3>Section G: Table Relationships</h3>
+  <ul>
+    <li>Understanding Table Relationships</li>
+    <li>Creating a Table Relationship</li>
+    <li>Referential Integrity</li>
+    <li>Determine Relationship Options</li>
+    <li>Manually Create Table Relationship</li>
+  </ul>
+  <h3>Section H: Importing Data</h3>
+  <ul>
+    <li>Importing Data into a New Table</li>
+    <li>Importing Data into an Existing Table</li>
+    <li>Troubleshooting Import Errors</li>
+    <li>Linked Tables</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Building Forms Automatically</h3>
+  <ul>
+    <li>Introduction to Forms</li>
+    <li>Creating a Standard Form</li>
+    <li>Form View Options</li>
+    <li>Creating a Split Form</li>
+    <li>Using the Form Wizard</li>
+    <li>Creating a Form/Subform</li>
+  </ul>
+  <h3>Section B: Building Forms Manually</h3>
+  <ul>
+    <li>Creation Process Defined</li>
+    <li>Creating Forms in Design View</li>
+    <li>Creating a Blank Form</li>
+    <li>Create Form using Application Parts</li>
+    <li>Manage Active Content and Security</li>
+    <li>Customizing Forms in Design View</li>
+  </ul>
+  <h3>Section C: Customizing and Personalizing Forms</h3>
+  <ul>
+    <li>Form Customization Techniques</li>
+    <li>Using and Customizing Themes</li>
+    <li>Alternating Row Color</li>
+    <li>Form Personalization Techniques</li>
+    <li>Inserting an Image</li>
+    <li>Adding Background Images</li>
+    <li>Conditional Formatting</li>
+  </ul>
+  <h3>Section D: Working with Form Layout</h3>
+  <ul>
+    <li>Form Design Options</li>
+    <li>Using the Layout View</li>
+    <li>Using Stacked Layout</li>
+    <li>Converting Layouts</li>
+    <li>Controlling Margins and Padding</li>
+    <li>Unstacking a Layout</li>
+  </ul>
+  <h3>Section E: Working with Form Design</h3>
+  <ul>
+    <li>Using the Design View</li>
+    <li>Object Property Considerations</li>
+    <li>Getting the Form Properties</li>
+    <li>Controlling Tab Order</li>
+  </ul>
+  <h3>Section F: Adding Controls to Forms</h3>
+  <ul>
+    <li>Controls Defined</li>
+    <li>Adding a Button</li>
+    <li>Adding a Combo Box</li>
+    <li>Adding a Text Box</li>
+  </ul>
+  <h3>Section G: Filtering Data with Forms</h3>
+  <ul>
+    <li>Form-Based Filtering</li>
+    <li>Right-Click Filter Options</li>
+    <li>Filtering By Selection</li>
+    <li>Filtering By Form</li>
+    <li>Using Wildcards</li>
+    <li>Filtering Across Multiple Fields</li>
+    <li>Either/Or Filters</li>
+  </ul>
+  <h3>Section H: Building Navigation Forms</h3>
+  <ul>
+    <li>Understanding Switchboards</li>
+    <li>Using the Switchboard Manager</li>
+    <li>Editing Switchboard Items</li>
+    <li>Running the Switchboard</li>
+    <li>Creating a Navigation Form</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Building a Query with a Wizard</h3>
+  <ul>
+    <li>Purpose of Queries</li>
+    <li>Building a Query</li>
+    <li>Simple Query Wizard</li>
+    <li>Query Design Window</li>
+    <li>Using Other Wizards</li>
+  </ul>
+  <h3>Section B: Building a Query from Scratch</h3>
+  <ul>
+    <li>Defining a Queried Table</li>
+    <li>Adding Fields to a Query</li>
+    <li>Testing the Query</li>
+    <li>Hiding and Rearranging Fields</li>
+    <li>Joining Tables in Queries</li>
+    <li>Inner vs. Outer Joins</li>
+    <li>Convert Inner to Outer Join</li>
+  </ul>
+  <h3>Section C: Basic Criteria</h3>
+  <ul>
+    <li>Criteria Types</li>
+    <li>Filtering Data with Criteria</li>
+    <li>Using AND and OR Criteria</li>
+    <li>Using the IN Criteria</li>
+  </ul>
+  <h3>Section D: Comparison Criteria</h3>
+  <ul>
+    <li>Building a Comparison Query</li>
+    <li>Using &lt; and &gt;</li>
+    <li>Using BETWEEN</li>
+    <li>Using NULL and NOT</li>
+    <li>Querying using Wildcards</li>
+    <li>Using Single Character Wildcards</li>
+  </ul>
+  <h3>Section E: Performing Calculations</h3>
+  <ul>
+    <li>Understanding Calculations</li>
+    <li>Building a Calculated Field</li>
+    <li>Using Expression Builder</li>
+    <li>Understanding Expression Builder</li>
+    <li>Writing and Formatting Expressions</li>
+    <li>Concatenating Fields</li>
+  </ul>
+  <h3>Section F: Working with Calculated Totals</h3>
+  <ul>
+    <li>Using the Total Row</li>
+    <li>Performing Queries Using Aggregates</li>
+    <li>Calculated Total Considerations</li>
+  </ul>
+  <h3>Section G: Advanced Select Queries</h3>
+  <ul>
+    <li>Crosstab Query Defined</li>
+    <li>Crosstab Query Example</li>
+    <li>Editing Query Properties</li>
+    <li>Parameter Query Defined</li>
+    <li>Parameter Query Example</li>
+  </ul>
+  <h3>Section H: Action Queries</h3>
+  <ul>
+    <li>Action Query Defined</li>
+    <li>Enabling Active Content</li>
+    <li>Make-Table Query Example</li>
+    <li>Running an Action Query</li>
+    <li>Append-Table Query Example</li>
+    <li>Update Query Example</li>
+    <li>Update Query Errors</li>
+    <li>Run Update Query</li>
+    <li>Delete Query Example</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Reports</h3>
+  <ul>
+    <li>Building Reports</li>
+    <li>Report Button</li>
+    <li>Report Wizard</li>
+    <li>Reports from Scratch</li>
+    <li>Viewing Options</li>
+  </ul>
+  <h3>Section B: Report Formatting</h3>
+  <ul>
+    <li>Report Themes</li>
+    <li>Modifying Report Themes</li>
+    <li>Conditional Formatting</li>
+    <li>Expression Builder</li>
+  </ul>
+  <h3>Section C: Basic Report Design</h3>
+  <ul>
+    <li>Report Design Concepts</li>
+    <li>Adding Footer Information</li>
+    <li>Arranging Report Fields</li>
+    <li>Customizing a Report Layout</li>
+    <li>Adding Hyperlinks</li>
+    <li>Adding Charts</li>
+  </ul>
+  <h3>Section D: Grouping Data on Reports</h3>
+  <ul>
+    <li>Adding Totals to Reports</li>
+    <li>Adding Calculated Fields to Reports</li>
+    <li>Building an IF Statement</li>
+  </ul>
+  <h3>Section E: Controlling Page Layout</h3>
+  <ul>
+    <li>Report Layout Considerations</li>
+    <li>Working with Page Breaks</li>
+    <li>Using Print Preview</li>
+    <li>Modifying and Resizing Fields</li>
+    <li>Changing Page Size</li>
+    <li>Controlling Margins and Page Layout</li>
+  </ul>
+  <h3>Section F: Building Specialized Reports</h3>
+  <ul>
+    <li>Parameter Reports Defined</li>
+    <li>Building a Parameter Report</li>
+    <li>Enter a Different Paramenter</li>
+    <li>Building a Mailing Labels Report</li>
+    <li>Building a Multi-Column Report</li>
+  </ul>
+  <h3>Section G: Introduction to Macros</h3>
+  <ul>
+    <li>Macros Defined</li>
+    <li>Form Data Validation Macros</li>
+    <li>Report Data Validation Macros</li>
+    <li>Table Data Validation Macros</li>
+  </ul>
+  <h3>Section H: Finalizing the Database</h3>
+  <ul>
+    <li>Exporting the Database</li>
+    <li>Saving Export Steps</li>
+    <li>Publishing the Database</li>
+    <li>Saving the Database as a Template</li>
+  </ul>

@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Explore  the various features across all the Microsoft Office suite applications.</li>
+  <li>Create professional looking documents using Microsoft Office Word 2007.</li>
+  <li>Enhance your spreadsheets using Microsoft Office Excel 2007</li>
+  <li>Create dynamic presentations using Microsoft Office PowerPoint 2007.</li>
+  <li>Familiarize yourself with the new features in Access 2007.</li>
+  <li>Familiarize yourself with the new features in Microsoft Office Outlook 2007.</li>
+  <li>Finalize files in Microsoft Office 2007.</li>
+</ul>

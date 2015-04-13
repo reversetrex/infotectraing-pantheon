@@ -1,0 +1,367 @@
+<h2>Session 1</h2>
+  <h3>Section A: Course Overview</h3>
+  <ul>
+    <li>Exam Overview</li>
+    <li>Exam Prep Tips</li>
+    <li>Knowledge Prerequisites</li>
+    <li>Course Topics</li>
+    <li>Certification Path</li>
+    <li>Exchange Editions</li>
+  </ul>
+  <h3>Section B: Preparing the Infrastructure</h3>
+  <ul>
+    <li>Windows Server Considerations</li>
+    <li>Active Directory Considerations</li>
+    <li>Common AD Database Roles</li>
+    <li>Schema Change</li>
+    <li>Domain Partition</li>
+    <li>Questioning Domain Controllers</li>
+    <li>AD Global Catalog Server Roles</li>
+    <li>Understanding Domain Functionality</li>
+    <li>Raising Domain Functional Levels</li>
+    <li>DC and GC Requirements</li>
+    <li>Previous Exchange Environments</li>
+    <li>Exchange 2003 Native Mode Considerations</li>
+  </ul>
+  <h3>Section C: Installing Exchange</h3>
+  <ul>
+    <li>Exchange Installation Prerequisites</li>
+    <li>Installing the Exchange Prerequisites</li>
+    <li>Installing using a Script</li>
+    <li>AD Exchange Preparation Commands</li>
+    <li>Preparing Active Directory</li>
+    <li>Exchange Setup.exe</li>
+    <li>License Agreement/Error Reporting</li>
+    <li>Exchange Server 2010 Setup</li>
+    <li>Public Folder Databases</li>
+  </ul>
+  <h3>Section D: Exchange Server Roles</h3>
+  <ul>
+    <li>Exchange 2010 Roles</li>
+    <li>Role Interaction</li>
+    <li>Mailbox Server Defined</li>
+    <li>Hub Transport Server Defined</li>
+    <li>Client Access Server</li>
+    <li>Unified Messaging Server</li>
+    <li>Edge Transport Server</li>
+  </ul>
+  <h3>Section E: Creating Databases</h3>
+  <ul>
+    <li>Creating Exchange Databases</li>
+    <li>Exchange Management Console Tour</li>
+    <li>Exchange Organizational Levels</li>
+    <li>Default Databases</li>
+    <li>Create New Mailbox Database</li>
+    <li>New Mailbox Database using PowerShell</li>
+    <li>Mount Database using PowerShell</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Managing Databases</h3>
+  <ul>
+    <li>Single Instancing vs. Compression</li>
+    <li>Database Version Compatibility</li>
+    <li>Database File Types</li>
+    <li>Database File Structure</li>
+    <li>Understanding Database Log Files</li>
+    <li>Database Backup Considerations</li>
+    <li>Configuring Database Properties</li>
+    <li>Database Storage Limits</li>
+    <li>Database Client Settings</li>
+    <li>Creating a Public Folder Database</li>
+    <li>Exchange Edition Considerations</li>
+  </ul>
+  <h3>Section B: Creating and Configuring Mailboxes</h3>
+  <ul>
+    <li>AD User and Groups</li>
+    <li>Create User Mailbox</li>
+    <li>Create New AD User using EMC</li>
+    <li>Configuring Mailbox Properties</li>
+  </ul>
+  <h3>Section C: Resource and Shared Mailboxes</h3>
+  <ul>
+    <li>Creating a Resource Mailbox</li>
+    <li>Resource Mailbox Properties</li>
+    <li>In/Out-of-Policy Requests</li>
+    <li>Testing the Resource Mailbox</li>
+    <li>Sharing Account Permissions</li>
+    <li>Connecting to a Shared Resource</li>
+  </ul>
+  <h3>Section D: Administering Mailboxes</h3>
+  <ul>
+    <li>Customizing EMC Views</li>
+    <li>Local vs. Remote Move Requests</li>
+    <li>Performing a Local Move Request</li>
+    <li>Viewing Move Request Status</li>
+    <li>Online vs. Offline Moves</li>
+    <li>Previous Exchange Versions</li>
+    <li>Manage Send As Permissions</li>
+    <li>Manage Mailbox Delivery Options</li>
+    <li>Manage Client Access Protocols</li>
+    <li>Manage Storage Quotas</li>
+    <li>E-Mail Proxy Addresses</li>
+    <li>Deleting Mailboxes</li>
+    <li>Reconnecting a Deleted Mailbox</li>
+    <li>Creating a Linked Mailbox</li>
+  </ul>
+  <h3>Section E: Contacts, Users, and Distribution Groups</h3>
+  <ul>
+    <li>Creating a Contact</li>
+    <li>Creating a Mail-Enabled User</li>
+    <li>Creating an AD Group</li>
+    <li>Creating an Exchange Distribution Group</li>
+    <li>Assigning Distribution Group Members</li>
+    <li>Creating a Dynamic Distribution Group</li>
+    <li>Distribution Group Configuration Options</li>
+    <li>Proxy Addresses</li>
+    <li>E-mail Address Policies</li>
+    <li>Creating a New E-mail Address Policy</li>
+  </ul>
+  <h3>Section F: Exchange Address Lists</h3>
+  <ul>
+    <li>Working with Address Lists</li>
+    <li>Creating an Address List</li>
+    <li>Offline Address Lists</li>
+    <li>Upgrading Legacy Address Lists</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Exchange Public Folders</h3>
+  <ul>
+    <li>Working with Public Folders</li>
+    <li>Creating a New Public Folder</li>
+    <li>Creating a New Public Folder using OWA</li>
+    <li>Public Folder Permissions</li>
+    <li>Managing Limits and Replication</li>
+    <li>Mail-Enabled Public Folders</li>
+  </ul>
+  <h3>Section B: Introduction to Client Access</h3>
+  <ul>
+    <li>Understanding Client Access</li>
+    <li>The Client Access Process</li>
+    <li>Multiple CAS/OWA Redirects</li>
+    <li>Multiple CAS/OWA Proxy</li>
+  </ul>
+  <h3>Section C: Outlook Web App Part I</h3>
+  <ul>
+    <li>OWA Site Properties</li>
+    <li>Configuring OWA Redirection</li>
+    <li>Configuring OWA Authentication</li>
+    <li>Configuring OWA Segmentation</li>
+    <li>Public/Private Computer Access Settings</li>
+    <li>Configuring Remote File Servers</li>
+    <li>OWA Policies</li>
+    <li>Create New OWA Mailbox Policy</li>
+    <li>Applying OWA Mailbox Policies</li>
+  </ul>
+  <h3>Section D: Outlook Web App Part II</h3>
+  <ul>
+    <li>ECP</li>
+    <li>ECP Organization Management</li>
+    <li>OWA Public Folders</li>
+    <li>2003 OWA Coexistence Scenarios</li>
+    <li>2007 OWA Coexistence Scenario</li>
+    <li>Direct File Access Considerations</li>
+  </ul>
+  <h3>Section E: POP3, IMAP, and ActiveSync</h3>
+  <ul>
+    <li>Understanding POP, IMAP, and ActiveSync</li>
+    <li>Configuring ActiveSync</li>
+    <li>User-Level ActiveSync Mailbox Policies</li>
+    <li>Create New ActiveSync Mailbox Policy</li>
+    <li>Configuring POP3 Access</li>
+    <li>Configuring IMAP4 Access</li>
+  </ul>
+  <h3>Section F: Encryption Certificate Management</h3>
+  <ul>
+    <li>Understanding Encryption Certificates</li>
+    <li>Exchange Certificate Properties</li>
+    <li>SAN</li>
+    <li>Viewing Certificates in the Browser</li>
+    <li>Create New Certificate Part I</li>
+    <li>Understanding Autodiscover</li>
+    <li>Create New Certificate Part II</li>
+    <li>Import Exchange Certificates</li>
+    <li>Assigning Services to Certificates</li>
+    <li>Enforcing SSL Encryption</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Outlook Anywhere and RPC Client Access</h3>
+  <ul>
+    <li>Understanding Network Load Balancing</li>
+    <li>Client Access Server Arrays</li>
+    <li>Create New Client Access Array</li>
+    <li>Setting the Mailbox Database</li>
+    <li>Autodiscover Service</li>
+    <li>Outlook Anywhere</li>
+    <li>Enabling Outlook Anywhere</li>
+    <li>Enable Client-Side Outlook Anywhere</li>
+    <li>Troubleshooting Outlook Anywhere</li>
+    <li>Remote Connectivity Analyzer</li>
+  </ul>
+  <h3>Section B: Federated Sharing</h3>
+  <ul>
+    <li>Federated Sharing Defined</li>
+    <li>Federated Sharing Setup</li>
+    <li>Starting the Federated Trust Process</li>
+    <li>New Organization Relationship Process</li>
+    <li>Federated Sharing Policies</li>
+  </ul>
+  <h3>Section C: Hub Transport Server</h3>
+  <ul>
+    <li>Understanding Hub Transport Servers</li>
+    <li>Multisite SMTP Message Routing</li>
+    <li>Create and Configure Transport Rules</li>
+    <li>Understanding RMS</li>
+    <li>Default Receive Connector Properties</li>
+    <li>Remote Domains</li>
+    <li>Pre-Licensing Agents</li>
+  </ul>
+  <h3>Section D: Message Routing</h3>
+  <ul>
+    <li>Send and Receive Connectors</li>
+    <li>Default Receive Connector Properties</li>
+    <li>Receive Connector Permissions Groups</li>
+    <li>Receive Connector Authentication</li>
+    <li>Client Receive Connector Propeerties</li>
+    <li>Create New Send Connector</li>
+    <li>Send Connector Properties</li>
+    <li>Smart Hosts</li>
+    <li>Accepted Domains and Relay Connectors</li>
+  </ul>
+  <h3>Section E: Securing Traffic with TLS</h3>
+  <ul>
+    <li>Understanding TLS</li>
+    <li>New Send MTLS Connector</li>
+    <li>New Receive MTLS Connector</li>
+    <li>Editing TLS Send and Receive Domain List</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Edge Transport Servers</h3>
+  <ul>
+    <li>Understanding Edge Transport Mail Flow</li>
+    <li>Edge Server FQDN Considerations</li>
+    <li>New Edge Subscription Process</li>
+    <li>EdgeSync Send Connector Properties</li>
+    <li>EdgeSync Inbound Connector Properties</li>
+    <li>Verify Edge Synchronization</li>
+    <li>Edge Transport Server Cloning</li>
+    <li>Using Routing Groups for Coexistence</li>
+  </ul>
+  <h3>Section B: Anti-Spam and Antivirus</h3>
+  <ul>
+    <li>Exchange Spam and Virus Protection</li>
+    <li>Content Filtering Agent</li>
+    <li>IP Allow and Block Lists</li>
+    <li>IP Allow and Block List Providers</li>
+    <li>Recipient and Sender Filtering</li>
+    <li>Sender ID</li>
+    <li>Sender Reputation</li>
+  </ul>
+  <h3>Section C: Database Availability Groups</h3>
+  <ul>
+    <li>DAG Defined</li>
+    <li>Log Shipping Defined</li>
+    <li>Hub Server Transport Dumpster</li>
+    <li>Sample DAG Scenario</li>
+    <li>Passive Copy Lag Defined</li>
+    <li>Creating a DAG Part I</li>
+    <li>Quorums Defined</li>
+    <li>Creating a DAG Part II</li>
+    <li>Adding Servers to the DAG</li>
+    <li>Creating a Database Copy</li>
+    <li>Activation Preference</li>
+    <li>Database Copy Status</li>
+    <li>Forcing Manual Failover</li>
+    <li>Configure DAG Properties</li>
+    <li>DAG Properties using Command Shell</li>
+    <li>Database Copy Status using Command Shell</li>
+    <li>Configuring Lag</li>
+  </ul>
+  <h3>Section D: Other High Availability Considerations</h3>
+  <ul>
+    <li>Public Folder High Availability</li>
+    <li>CAS High Availability</li>
+    <li>Affinity</li>
+    <li>Hub Transport Server High Availability</li>
+  </ul>
+  <h3>Section E: Backups and Restores</h3>
+  <ul>
+    <li>Backup Options</li>
+    <li>Restore Options</li>
+    <li>Perform Exchange Server Backup</li>
+    <li>Log File Considerations</li>
+    <li>Perform Exchange Server Restore</li>
+    <li>Enable Database Copy Restores</li>
+    <li>Perform Exchange Server Recover</li>
+    <li>Other Restore Options</li>
+    <li>Recovery Databases</li>
+    <li>Backup Server Role Considerations</li>
+    <li>Mitigating Disaster Recovery</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: Monitoring Exchange</h3>
+  <ul>
+    <li>Database Monitoring Techniques</li>
+    <li>Mail Flow Monitoring Techniques</li>
+    <li>ECP Delivery Reports</li>
+    <li>Mail Flow Queue Viewer</li>
+    <li>Submission Queue Defined</li>
+    <li>Viewing the Message</li>
+    <li>Resolving NDRs</li>
+    <li>Other Mail Flow Troubleshooting Tools</li>
+    <li>Mail Flow Troubleshooter</li>
+    <li>DNS Monitoring Tools and Techniques</li>
+    <li>BackPressure Defined</li>
+    <li>Connectivity Monitoring Techniques</li>
+    <li>Using Performance Monitor</li>
+  </ul>
+  <h3>Section B: Logging and Reporting</h3>
+  <ul>
+    <li>Enable Protocol Logging</li>
+    <li>Log File Locations</li>
+    <li>Set IMAP Protocol Logging</li>
+    <li>Set SMTP Protocol Logging</li>
+    <li>Viewing Logs</li>
+    <li>ActiveSync Logging</li>
+    <li>Anti-Spam Agent Log Reports</li>
+    <li>Sample Get-AgentLog Results</li>
+    <li>Getting Statistical Information</li>
+    <li>Getting Mailbox Statistics</li>
+    <li>Getting Public Folder Statistics</li>
+  </ul>
+  <h3>Section C: Compliance and Message Integrity</h3>
+  <ul>
+    <li>Understanding Compliance</li>
+    <li>Journaling</li>
+    <li>Create New Journal Rule</li>
+    <li>Classifications</li>
+    <li>Create New Message Classification</li>
+    <li>Classification-Based Transport Rules</li>
+    <li>MailTips</li>
+    <li>Setting Mailbox MailTips</li>
+    <li>Message Integrity Considerations</li>
+    <li>S/MIME</li>
+  </ul>
+  <h3>Section D: Records Management</h3>
+  <ul>
+    <li>Retention Policies</li>
+    <li>Archive Mailboxes</li>
+    <li>Managed Folders</li>
+    <li>Create New Retention Policy Tag</li>
+    <li>Create New Retention Policy</li>
+    <li>View Retention Policy Tags</li>
+    <li>Set User Mailbox Retention Policy</li>
+    <li>Enable User Archive Folder</li>
+    <li>Managed Folder Considerations</li>
+    <li>Legal Hold and Search</li>
+  </ul>
+  <h3>Section E: Role Based Access Control</h3>
+  <ul>
+    <li>RBAC</li>
+    <li>Viewing Exchange Management Roles</li>
+    <li>Viewing Default Role Groups</li>
+    <li>Recipient Management Role Group</li>
+    <li>Role Assignment Defined</li>
+    <li>Adding a Role Group Member</li>
+    <li>Managing Roles with ECP</li>
+    <li>Create New Role Group with ECP</li>
+  </ul>

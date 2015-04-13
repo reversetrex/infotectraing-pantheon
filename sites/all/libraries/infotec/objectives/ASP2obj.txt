@@ -1,0 +1,14 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Use the FileSystemObject and TextStream objects along with the Server.MapPath method to construct a guestbook and a simple chat application. </li>
+  <li> Use CSS with ASP to offer visitors the ability to create dynamic stylesheets. </li>
+  <li> Create a database-driven Web poll and learn how to test your ASP scripts for speed and performance. </li>
+  <li> Use the ADO Shape command and hierarchical recordsets to create a simple Quiz, and use the Session object to grade the results. </li>
+  <li> Use Sub procedures to build a discussion board application, and then add a recursive procedure to display message threading. </li>
+  <li> Use VBScript date/time functions, custom Function procedures, and the Recordset object's Filter and Bookmark properties to create a database-driven event calendar. </li>
+  <li> Decide amongst the many options for maintaining user state and how a database can be used in an ASP shopping cart application. </li>
+  <li> Display products by category or keyword searches, using GetRows, GetString, Buffer, Flush, IsClientConnected, and other techniques to improve lengthy results. </li>
+  <li> Build a shopping cart display script, using a database to track the user's contents. </li>
+  <li> Display the final order, create an order invoice for customers to print, and consider the many additional features you might want to add to this course's simple shopping cart. </li>
+  <li> Create a database-driven advertisement rotation and tracking system and add an affiliate-program to your shopping cart. </li>
+</ul>

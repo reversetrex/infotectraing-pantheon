@@ -1,0 +1,11 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Define key concepts and terminology relating to Active Directory Federation Services 2.0.</li>
+    <li>Install and configure Windows prerequisites for AD FS 2.0.</li>
+    <li>Install and configure Public Key Infrastructure (PKI) for AD FS 2.0.</li>
+    <li>Deploy AD FS 2.0 to provide claims-aware authentication in a single organization.</li>
+    <li>Configure AD FS 2.0 to provide claims-aware authentication in a business-to-business federation.</li>
+    <li>Design and deploy advanced AD FS 2.0 scenarios, including providing for high availability and SAML interoperability.</li>
+    <li>Use the AD FS 2.0 claims rule language to create custom claim rules.</li>
+    <li>Troubleshoot AD FS 2.0.</li>
+</ul>

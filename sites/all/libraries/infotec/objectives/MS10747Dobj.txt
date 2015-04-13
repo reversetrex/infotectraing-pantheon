@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+    <li>Describe the System Center 2012 R2 Configuration Manager feature set and manage and troubleshoot sites by using the Configuration Manager Console and associated toolset.</li>
+    <li>Configure boundaries and boundary groups, configure discovery methods, manage user and device collections, and implement role-based administration.</li>
+    <li>Describe the client deployment process, configure client deployment methods, configure the client agent settings, and monitor client status.</li>
+    <li>Describe the inventory collection process, configure and manage hardware and software inventory, monitor inventory data flow, and use Asset Intelligence and Software Metering.</li>
+    <li>Analyze data by creating queries and running reports.</li>
+    <li>Create, deploy, and manage software packages and programs.</li>
+    <li>Create and deploy applications by using the System Center 2012 R2 Configuration Manager application model.</li>
+    <li>Configure multiple deployment types.</li>
+    <li>Deploy and manage software updates.</li>
+    <li>Integrate and implement Endpoint Protection by using System Center 2012 R2 Configuration Manager.</li>
+    <li>Deploy operating systems by using the Configuration Manager infrastructure.</li>
+    <li>Manage configuration items, baselines, and profiles to assess and configure settings for devices.</li>
+    <li>Manage mobile devices by using System Center 2012 R2 Configuration Manager.</li>
+    <li>Configure Wake On LAN, Power Management policies, and Remote Control.</li>
+  </ul>

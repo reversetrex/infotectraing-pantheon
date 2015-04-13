@@ -1,0 +1,220 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Introduction to Photoshop</li>
+    <li>Know Your Audience</li>
+    <li>Project Plan</li>
+  </ul>
+  <h3>Section B: The Photoshop Interface</h3>
+  <ul>
+    <li>Identify and Label Photoshop Interface</li>
+    <li>Customize Workspace</li>
+    <li>Customize Menus</li>
+    <li>Workspace Switcher</li>
+    <li>Custom Shortcuts</li>
+    <li>Additional Information</li>
+  </ul>
+  <h3>Section C: Navigating Files in Photoshop</h3>
+  <ul>
+    <li>Viewing Images</li>
+    <li>The Navigator Panel and Hand Tools</li>
+    <li>Guides and Rulers, Snapping</li>
+    <li>Preferences and Performance</li>
+    <li>Tabs and N-Up View</li>
+  </ul>
+  <h3>Section D: Image Types and Resolution</h3>
+  <ul>
+    <li>Image Types</li>
+    <li>Rasterization and Aliasing</li>
+  </ul>
+  <h3>Section E: Creating a Scanned Image</h3>
+  <ul>
+    <li>Scanned Image</li>
+    <li>Additional Information</li>
+  </ul>
+  <h3>Section F: Working with Adobe Bridge</h3>
+  <ul>
+    <li>Importing Images with Bridge</li>
+    <li>Navigation in Bridge</li>
+    <li>Working with Metadata and Collections</li>
+    <li>View Modes in Bridge</li>
+    <li>Filters, Ratings, and Contact Sheets</li>
+    <li>Creating a Web Photo Gallery</li>
+    <li>Mini Bridge</li>
+    <li>Additional Information</li>
+  </ul>
+  <h3>Section G: Adobe Camera Raw</h3>
+  <ul>
+    <li>Using the Camera Raw Histogram</li>
+    <li>Exposure, Clarity, Saturation, Vibrancy</li>
+  </ul>
+  <h3>Section H: Document Properties</h3>
+  <ul>
+    <li>New Document Properties</li>
+    <li>Resolution Versus Dimensions</li>
+    <li>Resampling, Resizing, Scale Style</li>
+    <li>Canvas Size</li>
+  </ul>
+  <h3>Section I: Changing Image Composition</h3>
+  <ul>
+    <li>Cropping an Image</li>
+    <li>Straighten Tool, Flip, and Rotate</li>
+    <li>Perspective Tool</li>
+    <li>Additional Information</li>
+  </ul>
+  <h3>Section J: Understanding Color Modes in Photoshop</h3>
+  <ul>
+    <li>Color Modes and Working Spaces</li>
+    <li>Gamut, RGB, Modes, Convert to Profile</li>
+    <li>Additional Information</li>
+  </ul>
+  <h3>Section K: File Formats</h3>
+  <ul>
+    <li>File Format Overview</li>
+    <li>Working With Print</li>
+    <li>Saving for Web and Video, GIF</li>
+    <li>Optimizing and Saving Files</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Working with Type</h3>
+  <ul>
+    <li>The Type Tools</li>
+    <li>Point Type and Paragraph Type</li>
+    <li>Visual Hierarchy, Fonts, Leading</li>
+    <li>Modifying Text, Kerning, Placement</li>
+    <li>Character Formatting, Anti-Aliasing</li>
+    <li>Layer Styles</li>
+    <li>Additional File</li>
+  </ul>
+  <h3>Section B: Working with Layers</h3>
+  <ul>
+    <li>Layered and Flattened Files</li>
+    <li>Layer Types and Ordering, Filters</li>
+    <li>Linking, Grouping, and Merging Layers</li>
+    <li>Drag, Drop, Crop</li>
+    <li>Additional File</li>
+  </ul>
+  <h3>Section C: Nondestructrive and Destructive Editing</h3>
+  <ul>
+    <li>Benefits of Smart Objects</li>
+    <li>Convert to Smart Object, Smart Filters</li>
+    <li>Adjustment Layers</li>
+    <li>Layer Masks</li>
+    <li>Blending Modes, Opacity, and Fill</li>
+    <li>Additional File</li>
+  </ul>
+  <h3>Section D: The Shape, Pen, and Pencil Tools</h3>
+  <ul>
+    <li>Drawing Shapes</li>
+    <li>Line Tool and Pen Tool</li>
+    <li>Pencil Tool</li>
+    <li>Additional File</li>
+  </ul>
+  <h3>Section E: The Brush Tools</h3>
+  <ul>
+    <li>Brush Tool and Brush Tips</li>
+    <li>Brushes and Hardness</li>
+    <li>Other Brush Settings and Eraser Tool</li>
+    <li>Picking Colors, Brush Panel</li>
+    <li>Shape and Color Dynamics, Brush Presets</li>
+    <li>History Brushes and History Panel</li>
+    <li>New Brush Tips and Mixer Brush</li>
+    <li>Additional File</li>
+  </ul>
+  <h3>Section F: Color Management</h3>
+  <ul>
+    <li>Color Spaces and the Histogram</li>
+    <li>The Info Panel and Eyedropper Tool</li>
+    <li>Color Settings and Profiles</li>
+    <li>Soft Proofing and Color Spaces</li>
+    <li>Assign Profile and Convert to Profile</li>
+    <li>Color Management During Printing</li>
+    <li>Additional File</li>
+  </ul>
+  <h3>Section G: Adjusting Tone and Color</h3>
+  <ul>
+    <li>Histogram Analysis and Auto Tone</li>
+    <li>Auto Contrast, Auto Color, and Levels</li>
+    <li>Using Levels and Auto Adjustments</li>
+    <li>Curves and Vibrance</li>
+    <li>Hue, Saturation</li>
+    <li>Additional File</li>
+  </ul>
+  <h3>Section H: Advanced Adjustiments</h3>
+  <ul>
+    <li>Lens Correction Filter</li>
+    <li>Chromatic Aberration, Adjustment Layers</li>
+    <li>More Adjustment Layers</li>
+    <li>Layer Mask</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Using the Selection Tools</h3>
+  <ul>
+    <li>The Marquee Tools</li>
+    <li>Modifying Selections, Lasso Tools</li>
+    <li>Quick Selection Tool, Saved Selections</li>
+    <li>Magic Wand Tool</li>
+    <li>Truer Edge Selection</li>
+  </ul>
+  <h3>Section B: Vector-Based Shapes and Paths</h3>
+  <ul>
+    <li>Shape Tools, Editing Paths</li>
+    <li>Custom Shapes Tool, Pen Tool</li>
+    <li>Creating a Path with the Pen Tool</li>
+    <li>Work Path</li>
+  </ul>
+  <h3>Section C: Working with Selections</h3>
+  <ul>
+    <li>Transforming Selections</li>
+    <li>Polygonal and Magnetic Lasso Tools</li>
+    <li>Inverse, Feather</li>
+    <li>The Refine Edge Command</li>
+    <li>Color Range Selections, Quick Mask Mode</li>
+    <li>Skin Tones, Detect Faces</li>
+  </ul>
+  <h3>Section D: Working with Layer Masks</h3>
+  <ul>
+    <li>Creating Layer Masks</li>
+    <li>Refining Layer Masks</li>
+    <li>Color Fill Layer, Blending Modes</li>
+    <li>Vector Mask, New Group from Layers</li>
+    <li>Additional File</li>
+  </ul>
+  <h3>Section E: Photoshop Retouching Tools</h3>
+  <ul>
+    <li>Red Eye Tool</li>
+    <li>Clone Stamp Tool</li>
+    <li>Healing and Spot Healing Brush Tools</li>
+    <li>The Unsharp Mask Filter</li>
+    <li>The Sharpen and Blur Tools</li>
+    <li>Smudge Tool</li>
+    <li>The Dodge and Burn Tools</li>
+    <li>Patch Tool</li>
+  </ul>
+  <h3>Section F: Content-Aware Tools</h3>
+  <ul>
+    <li>Content-Aware Fill and Move Tools</li>
+    <li>Content-Aware Scale</li>
+  </ul>
+  <h3>Section G: Distorting and Transforming Images</h3>
+  <ul>
+    <li>Puppet Warp Tool</li>
+    <li>Filter Gallery</li>
+    <li>Vanishing Point Filter</li>
+    <li>Perspective Clone Stamp</li>
+    <li>Perspective Crop Tool</li>
+  </ul>
+  <h3>Section H: New Blur Filters in Photoshop CS6</h3>
+  <ul>
+    <li>Field Blur Filter</li>
+    <li>Iris Blur and Tilt Blur Filters</li>
+  </ul>
+  <h3>Section I: Compositing Multiple Images</h3>
+  <ul>
+    <li>Merge to HDR Pro, Align Layers</li>
+  </ul>
+  <h3>Section J: Actions, Droplets, and Batch Processing</h3>
+  <ul>
+    <li>Recording Actions</li>
+    <li>Droplets and Batch Processing</li>
+  </ul>

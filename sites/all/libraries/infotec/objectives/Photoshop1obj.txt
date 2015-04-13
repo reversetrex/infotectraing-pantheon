@@ -1,0 +1,7 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> explore Photoshop CS2. </li>
+  <li>paint and retouch images. </li>
+  <li>enhance an image. </li>
+  <li>work with layers and selections. </li>
+</ul>

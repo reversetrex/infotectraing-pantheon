@@ -1,0 +1,11 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Understand AD RMS architecture, and the role the product plays as part of a wider infrastructure.</li>
+    <li>Understand the AD RMS interaction model with other Microsoft technologies.</li>
+    <li>Install and provision AD RMS and understand installation pre requisites and best practices.</li>
+    <li>Understand how several other Microsoft technologies use AD RMS to protect documents and email messages.</li>
+    <li>Understand how to use AD RMS on server applications such as Microsoft Office SharePoint Server and Microsoft Exchange Server.</li>
+    <li>Create, manage, and distribute rights policy templates as AD RMS administrators.</li>
+    <li>Understand the different trust relationships that can extend AD RMS protection beyond your infrastructure.</li>
+    <li>Troubleshoot common issues in the core infrastructure, product installation, and product usage.</li>
+</ul>

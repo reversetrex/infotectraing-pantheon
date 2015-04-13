@@ -1,0 +1,67 @@
+<p><strong>Lesson 1: Customizing Message Options</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Modify Message Settings<br />
+    <strong>Topic 1B: </strong>Modify Delivery Options<br />
+    <strong>Topic 1C: </strong>Change the Message Format<br />
+    <strong>Topic 1D: </strong>Set the Out of the Office Notification<br />
+    <strong>Topic 1E: </strong>Create a Contact Group<br />
+    <strong>Topic 1F: </strong>Insert a Hyperlink<br />
+    <strong>Topic 1G: </strong>Create Quick Steps<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Organizing and Locating Messages</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Sort Messages Using Multiple Criteria<br />
+    <strong>Topic 2B: </strong>Find Messages Using Instant Search<br />
+    <strong>Topic 2C: </strong>Find Messages Using Multiple Criteria<br />
+    <strong>Topic 2D: </strong>Filter Messages<br />
+    <strong>Topic 2E: </strong>Organize Messages<br />
+    <strong>Topic 2F: </strong>Manage Junk Email<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Setting Calendar Options</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Set Workdays and Time<br />
+    <strong>Topic 3B: </strong>Display an Additional Time Zone<br />
+    <strong>Topic 3C: </strong>Set Availability Options<br />
+    <strong>Topic 3D: </strong>Create Calendar Groups<br />
+    <strong>Topic 3E: </strong>Manage Automatic Meeting Responses<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Tracking Activities Using the Journal</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Record a Journal Entry Automatically<br />
+    <strong>Topic 4B: </strong>Record a Journal Entry Manually<br />
+    <strong>Topic 4C: </strong>Modify a Journal Entry<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Managing Tasks</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Assign a Task<br />
+    <strong>Topic 5B: </strong>Reply to a Task Request<br />
+    <strong>Topic 5C: </strong>Send a Task Update<br />
+    <strong>Topic 5D: </strong>Track Assigned Tasks<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Sharing Folder Information</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 6A: </strong>Specify Folder Permissions<br />
+    <strong>Topic 6B: </strong>Access Another User's Folder<br />
+    <strong>Topic 6C: </strong>Send Calendar Information in an Email Message<br />
+    <strong>Topic 6D: </strong>Delegate Folder Access to Users<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 7: Customizing the Outlook Environment</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 7A: </strong>Customize the Ribbon and Quick Access Toolbar<br />
+    <strong>Topic 7B: </strong>Customize the To-Do Bar<br />
+    <strong>Topic 7C: </strong>Create a Folder Home Page<br />
+  </p>
+</blockquote>

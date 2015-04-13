@@ -1,0 +1,8 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Explain the fundamentals of Windows SharePoint Service 3.0.</li>
+  <li>Plan and install Windows SharePoint Services 3.0.</li>
+  <li>Administer and manage Windows SharePoint Services servers.</li>
+  <li>Create and administer Windows SharePoint Services sites.</li>
+  <li>Work with Windows SharePoint Services 3.0.</li>
+</ul>

@@ -1,0 +1,46 @@
+<p><strong>Module 1: Overview - This module provides a general overview of the features and benefits of using Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Powerful Solution</li>
+  <li>Agile Solution</li>
+  <li>Simple Solution</li>
+  <li>Pervasive Interoperability</li>
+  <li>Industry Focus</li>
+  <li>Functionality</li>
+</ul>
+<p><strong>Module 2: Basic Navigation - This module introduces participants to the application and the basic navigational tools in Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Rich client user interface</li>
+  <li>Alerts</li>
+  <li>View details</li>
+  <li>Help</li>
+  <li>Personalization</li>
+  <li>Workflow</li>
+  <li>Quicktips</li>
+</ul>
+<p><strong>Module 3: Enterprise Portal - This module provides a general overview of Enterprise Portal in Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Enterprise Portal users</li>
+  <li>Enterprise Portal user interface</li>
+</ul>
+<p><strong>Module 4: Reporting - This module provides a general overview of the reporting and business intelligence options in Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Reporting and Business Intelligence (BI) users</li>
+  <li>Reporting and BI tools</li>
+  <li>Microsoft Dynamics AX tools</li>
+  <li>SQL Reporting Services</li>
+  <li>SQL Analysis Services</li>
+  <li>Other tools</li>
+</ul>
+<p><strong>Module 5: System Administration - This module provides a general overview of some features which that typically are used by a System Administrator in Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Organization Structure</li>
+  <li>Basic Data Setup</li>
+  <li>Users</li>
+  <li>Data Import/Export</li>
+</ul>
+<p><strong>Module 6: Technology - This module provides a general overview of the architecture and development environment in Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>System Architecture</li>
+  <li>Development Environments</li>
+  <li>Model Driven   Architecture</li>
+</ul>

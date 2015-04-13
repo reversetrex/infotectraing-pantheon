@@ -1,0 +1,60 @@
+<p><strong>Lesson 1: Exploring Adobe Flash CS3</strong></p>
+<ul>
+  <li>Examine Rich Internet Applications</li>
+  <li>Explore the Adobe Flash CS3 Environment</li>
+  <li>Produce a Flash Application File</li>
+</ul>
+<p><strong>Lesson 2: Working with Graphics</strong></p>
+<ul>
+  <li>Import Graphics</li>
+  <li>Create Vector Graphics</li>
+  <li>Modify Vector Graphics</li>
+  <li>Organize Content with Layers</li>
+  <li>Modify Colors</li>
+  <li>Convert Graphics to Symbols</li>
+  <li>Create a Mask Effect</li>
+</ul>
+<p><strong>Lesson 3: Managing Text in a Flash Document</strong></p>
+<ul>
+  <li>Add Text to a Flash Document</li>
+  <li>Set Font Options</li>
+  <li>Add Input Text Using Flash Components</li>
+  <li>Apply a Skin to a Component</li>
+</ul>
+<p><strong>Lesson 4: Adding Animations to a Flash Document</strong></p>
+<ul>
+  <li>Create a Frame-by-Frame Animation</li>
+  <li>Create a Motion Tween Animation</li>
+  <li>Create a Complex Motion Tween</li>
+  <li>Control the Timeline with ActionScript</li>
+  <li>Create a Shape Tween Animation</li>
+  <li>Animate Using Timeline Effects</li>
+</ul>
+<p><strong>Lesson 5: Adding Interactivity to Buttons</strong></p>
+<ul>
+  <li>Create Buttons</li>
+  <li>Control Movies with Button Behaviors</li>
+  <li>Create Navigation Systems</li>
+</ul>
+<p><strong>Lesson 6: Working with Movie Clips</strong></p>
+<ul>
+  <li>Add Interactivity with Movie Clips</li>
+  <li>Create a Flash Slide Presentation</li>
+  <li>Apply Effects to Movie Clips</li>
+</ul>
+<p><strong>Lesson 7: Adding Audio to a Movie</strong></p>
+<ul>
+  <li>Import Audio</li>
+  <li>Control Sound Playback</li>
+  <li>Add Sounds with Behaviors</li>
+</ul>
+<p><strong>Lesson 8: Adding Video to a Movie</strong></p>
+<ul>
+  <li>Encode a Video Object</li>
+  <li>Create a Video Object</li>
+</ul>
+<p><strong>Lesson 9: Publishing Flash Documents</strong></p>
+<ul>
+  <li>Publish a Flash Document</li>
+  <li>Detect the Flash Player Version</li>
+</ul>

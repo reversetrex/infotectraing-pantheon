@@ -1,0 +1,101 @@
+<p><strong>Module 1: Introduction to Business Intelligence and Data Modeling</strong></p>
+<p>This module provides an introduction to Business (BI) Intelligence. It describes common BI scenarios, current trends in BI, and the typical roles that are involved in creating a BI solution. It also introduces the Microsoft BI   platform and describes the roles Microsoft SQL Server 2012 and Microsoft SharePoint 2010 play in Microsoft BI solutions.</p>
+<ul>
+  <li>Introduction to Business Intelligence</li>
+  <li>The Microsoft Business Intelligence Platform</li>
+</ul>
+<p><strong>Module 2: Implementing Reports with SQL Server Reporting Services</strong></p>
+<p>This module discusses the tools and techniques a professional business intelligence developer can use to create and publish reports with SQL Server Reporting Services.</p>
+<ul>
+  <li>Introduction to Reporting Services</li>
+  <li>Creating a Report with Report Designer</li>
+  <li>Grouping and Aggregating Data in a Report</li>
+  <li>Showing Data Graphically</li>
+  <li>Filtering Reports by Using Parameters</li>
+  <li>Publishing and Viewing a Report</li>
+</ul>
+<p><strong>Module 3: Supporting Self Service Reporting</strong></p>
+<p>This module describes Microsoft SQL Server Reporting Services features that you can use to enable self-service reporting.</p>
+<ul>
+  <li>Introduction to Self Service Reporting</li>
+  <li>Shared Data Sources and Datasets</li>
+  <li>Report Parts</li>
+</ul>
+<p><strong>Module 4: Managing Report Execution and Delivery</strong></p>
+<p>This module describes how to apply security settings and configure reports for delivery.</p>
+<ul>
+  <li>Managing Report Security</li>
+  <li>Managing Report Execution</li>
+  <li>Subscriptions and Data Alert</li>
+  <li>Troubleshooting Reporting Services</li>
+</ul>
+<p><strong>Module 5: Creating Multidimensional Databases</strong></p>
+<p>The fundamental purpose of using SQL Server Analysis Services online analytical processing (OLAP) solutions is to build cubes that you can use to perform complex queries and return the results in a reasonable time. This module provides an introduction to multidimensional databases and introduces the core components of an OLAP cube.</p>
+<ul>
+  <li>Introduction to Multidimensional Analysis</li>
+  <li>Creating Data Sources and Data Source Views</li>
+  <li>Creating a Cube</li>
+  <li>Overview of Cube Security</li>
+</ul>
+<p><strong>Module 6: Working with Dimensions</strong></p>
+<p>In SQL Server Analysis Services, dimensions are a fundamental component of cubes. This module provides an insight into the creation and configuration of dimensions and dimension hierarchies.</p>
+<ul>
+  <li>Configuring Dimensions</li>
+  <li>Defining Attribute Hierarchies</li>
+  <li>Sorting and Grouping Attributes</li>
+</ul>
+<p><strong>Module 7: Working with Measures and Measure Groups</strong></p>
+<p>A measure represents a column that contains quantifiable data, usually numeric, that you can aggregate. This module describes measures and measure groups. The module also explains how you can use measures to define fact tables   and associate dimensions.</p>
+<ul>
+  <li>Working with Measures</li>
+  <li>Working with Measure Groups</li>
+</ul>
+<p><strong>Module 8: Introduction to MDX</strong></p>
+<p>Multidimensional Expressions (MDX) is the query language that you use to work with and retrieve multidimensional data in SQL Server Analysis Services. This module describes the fundamentals of MDX. It also explains how to build   calculations, such as calculated members and named sets.</p>
+<ul>
+  <li>MDX Fundamentals</li>
+  <li>Adding Calculations to a Cube</li>
+  <li>Using MDX to Query a Cube</li>
+</ul>
+<p><strong>Module 9: Customizing Cube Functionality</strong></p>
+<p>In this module, you will learn how to customize cube functionality by using several technologies available to you in SQL Server Analysis Services. These technology customizations include: Key Performance Indicators, Actions,   Perspectives, and Translations.</p>
+<ul>
+  <li>Working with Key Performance Indicators</li>
+
+  <li>Working with Actions</li>
+  <li>Working with Perspectives</li>
+  <li>Working with Translations</li>
+</ul>
+<p><strong>Module 10: Implementing a Tabular Data Model with Microsoft PowerPivot</strong></p>
+<p>This module introduces tabular data models, explains how to install and use the PowerPivot for Excel add-in, and describes how to share a workbook to PowerPivot Gallery.</p>
+<ul>
+  <li>Introduction to Tabular Data Models and PowerPivot Technologies</li>
+  <li>Creating a Tabular Data Model by Using PowerPivot for Excel</li>
+  <li>Sharing a PowerPivot Workbook and Using PowerPivot Gallery</li>
+</ul>
+<p><strong>Module   11: Introduction to DAX</strong></p>
+<p>This module covers the fundamentals of the DAX language. It also explains how you can use DAX to create calculated columns and measures, and how you can use these in your tabular data models.</p>
+<ul>
+  <li>DAX Fundamentals</li>
+  <li>Using DAX to Create Calculated Column and Measures in a Tabular Data Model</li>
+</ul>
+<p><strong>Module 12: Implementing an Analysis Services Tabular Data Model</strong></p>
+<p>With SQL Server 2012, you can install Analysis Services in Tabular mode and create tabular data models that information workers can access by using tools such as Excel and Power View. This module describes Analysis Services tabular data models and explains how to develop a tabular data model by using the SQL Server Data Tools.</p>
+<ul>
+  <li>Introduction to Analysis Services Tabular Data Model Projects</li>
+  <li>Developing an Analysis Services Tabular Data Model in SQL Server Data Tools</li>
+</ul>
+<p><strong>Module 13: Creating Data Visualizations with Power View</strong></p>
+<p>SQL Server 2012 introduces Power View, a SharePoint-based data exploration tool that provides a way for information workers to interactively create data visualizations that help them to better understand the data that they are working with. This module introduces Power View and describes how you can use it to create a range of different types of reports quickly and easily.</p>
+<ul>
+  <li>Introduction to Power View</li>
+  <li>Visualizing Data with Power View</li>
+</ul>
+<p><strong>Module 14: Performing Predictive Analysis with Data Mining</strong></p>
+<p>SQL Server Analysis Services includes data mining tools that you can use to identify patterns in your data, helping you to determine why particular things happen and to predict what will happen in the future. This module introduces data mining, describes how to create a data mining solution, how to validate data mining models, how to use the Data Mining Add-ins for Excel, and how to incorporate data mining results into Reporting Services reports.</p>
+<ul>
+  <li>Overview of Data Mining</li>
+  <li>Creating a Data Mining Solution</li>
+  <li>Validating a Data Mining Solution</li>
+  <li>Consuming a Data Mining Solution</li>
+</ul>

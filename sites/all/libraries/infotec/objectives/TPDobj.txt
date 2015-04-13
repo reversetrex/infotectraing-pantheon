@@ -1,0 +1,9 @@
+<ul>
+  <li>Describe the core issues of building a perimeter network defense  system.</li>
+  <li>Investigate the advanced concepts of the TCP/IP protocol suite.</li>
+  <li>Secure routers through hardening techniques and configure Access Control  Lists.</li>
+  <li>Design and configure multiple firewall technologies.</li>
+  <li>Examine and implement IPSec and Virtual Private Networks.</li>
+  <li>Design and configure an Intrusion Detection System.</li>
+  <li>Secure  wireless networks through the use of encryption systems.</li>
+</ul>

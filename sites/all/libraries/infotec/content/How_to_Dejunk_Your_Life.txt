@@ -1,0 +1,33 @@
+<h2>Session 1</h2>
+  <h3>Section A: De-junking Your Life</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Meet Dawn Dwyer</li>
+    <li>De-junking Your Space</li>
+    <li>ABC Method</li>
+    <li>De-junking Your Office</li>
+    <li>De-junking Personal Space</li>
+    <li>De-junking Your Room</li>
+    <li>JAKE's Top 10</li>
+  </ul>
+  <h3>Section B: Paper and Information</h3>
+  <ul>
+    <li>De-junking Paper</li>
+    <li>RAFT</li>
+    <li>SPACNG</li>
+    <li>Clutter</li>
+    <li>Information at Home</li>
+    <li>Personal Papers</li>
+    <li>JAKE's Top 10</li>
+  </ul>
+  <h3>Section C: Priorities</h3>
+  <ul>
+    <li>Time and Priorities</li>
+    <li>Planning Tools</li>
+    <li>Tickler File</li>
+    <li>Planning Appointments</li>
+    <li>Five-Year Vision</li>
+    <li>SMART</li>
+    <li>Urgent vs. Important</li>
+    <li>JAKE's Top 10</li>
+  </ul>

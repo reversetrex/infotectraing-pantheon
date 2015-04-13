@@ -1,0 +1,142 @@
+<p><strong>Module 1: Introduction to SQL Server 2012 and its Toolset</strong></p>
+<p>This module introduces the entire SQL Server platform and its major tools. It covers editions, versions, basics of network listeners, and concepts of services and service accounts.</p>
+<ul>
+  <li>Introduction to the SQL Server Platform</li>
+  <li>Working with SQL Server Tools</li>
+  <li>Configuring SQL Server Services</li>
+</ul>
+<p><strong>Module 2: Preparing Systems for SQL Server 2012</strong></p>
+<p>This module covers planning for an installation related to SQL Server I/O requirements, 32 bit vs. 64 bit, memory configuration options and I/O subsystem pre-installation checks using SQLIOSim and SQLIO.</p>
+<ul>
+  <li>Overview of SQL Server Architecture</li>
+  <li>Planning Server Resource Requirements</li>
+  <li>Pre-installation Testing for SQL Server</li>
+</ul>
+<p><strong>Module 3: Installing and Configuring SQL Server 2012</strong></p>
+<p>This module details installing and configuring SQL Server.</p>
+<ul>
+  <li>Preparing to Install SQL Server</li>
+  <li>Installing SQL Server</li>
+  <li>Upgrading and Automating Installation</li>
+</ul>
+<p><strong>Module 4: Working with Databases</strong></p>
+<p>This module describes how data is stored in databases, how to create databases, and how to move databases either within a server or between servers.</p>
+<ul>
+  <li>Overview of SQL Server Databases</li>
+  <li>Working with Files and Filegroups</li>
+  <li>Moving Database Files</li>
+</ul>
+<p><strong>Module 5: Understanding SQL Server 2012 Recovery Models</strong></p>
+<p>This module describes the concept of the transaction log and SQL Server recovery models. It introduces the different backup strategies available with SQL Server.</p>
+<ul>
+  <li>Backup Strategies</li>
+  <li>Understanding SQL Server Transaction Logging</li>
+  <li>Planning a SQL Server Backup Strategy</li>
+</ul>
+<p><strong>Module 6: Backup of SQL Server 2012 Databases</strong></p>
+<p>This module describes SQL Server Backup and the backup types.</p>
+<ul>
+  <li>Backing up Databases and Transaction Logs</li>
+  <li>Managing Database Backups</li>
+  <li>Working with Backup Options</li>
+</ul>
+<p><strong>Module 7: Restoring SQL Server 2012 Databases</strong></p>
+<p>This module describes the restoration of databases.</p>
+<ul>
+  <li>Understanding the Restore Process</li>
+  <li>Restoring Databases</li>
+  <li>Working with Point-in-time recovery</li>
+  <li>Restoring System Databases and Individual Files</li>
+</ul>
+<p><strong>Module 8: Importing and Exporting Data</strong></p>
+<p>This module covers the use of the import/export wizards and explains how they relate to SSIS. Also introduces BCP.</p>
+<ul>
+  <li>Transferring Data To/From SQL Server</li>
+  <li>Importing &amp; Exporting Table Data</li>
+  <li>Inserting Data in Bulk</li>
+</ul>
+<p><strong>Module 9: Authenticating and Authorizing Users</strong></p>
+<p>This module covers SQL Server security models, logins and users.</p>
+<ul>
+  <li>Authenticating Connections to SQL Server</li>
+  <li>Authorizing Logins to Access Databases</li>
+  <li>Authorization Across Servers</li>
+</ul>
+<p><strong>Module 10: Assigning Server and Database Roles</strong></p>
+<p>This module covers fixed server roles, user-defined server roles, fixed database roles and user-defined database roles.</p>
+<ul>
+  <li>Working with Server Roles</li>
+  <li>Working with Fixed Database Roles</li>
+  <li>Creating User-defined Database Roles</li>
+</ul>
+<p><strong>Module 11: Authorizing Users to Access Resources</strong></p>
+<p>This module covers permissions and the assignment of permissions.</p>
+<ul>
+  <li>Authorizing User Access to Objects</li>
+  <li>Authorizing Users to Execute Code</li>
+  <li>Configuring Permissions at the Schema Level</li>
+</ul>
+<p><strong>Module 12: Auditing SQL Server Environments</strong></p>
+<p>This module covers SQL Server Audit.</p>
+<ul>
+  <li>Options for Auditing Data Access in SQL</li>
+  <li>Implementing SQL Server Audit</li>
+  <li>Managing SQL Server Audit</li>
+</ul>
+<p><strong>Module 13: Automating SQL Server 2012 Management</strong></p>
+<p>This module covers SQL Server Agent, jobs and job history.</p>
+<ul>
+  <li>Automating SQL Server Management</li>
+  <li>Working with SQL Server Agent</li>
+  <li>Managing SQL Server Agent Jobs</li>
+</ul>
+<p><strong>Module 14: Configuring Security for SQL Server Agent</strong></p>
+<p>This module covers SQL Server agent security, proxy accounts and credentials.</p>
+<ul>
+  <li>Understanding SQL Server Agent Security</li>
+  <li>Configuring Credentials</li>
+  <li>Configuring Proxy Accounts</li>
+</ul>
+<p><strong>Module 15: Monitoring SQL Server 2012 with Alerts and Notifications</strong></p>
+<p>This module covers the configuration of database mail, alerts and notifications.</p>
+<ul>
+  <li>Configuration of Database Mail</li>
+  <li>Monitoring SQL Server Errors</li>
+  <li>Configuring Operators, Alerts and Notifications</li>
+</ul>
+<p><strong>Module 16: Performing Ongoing Database Maintenance</strong></p>
+<p>This module covers database maintenance plans.</p>
+<ul>
+  <li>Ensuring Database Integrity</li>
+  <li>Maintaining Indexes</li>
+  <li>Automating Routine Database Maintenance</li>
+</ul>
+<p><strong>Module 17: Tracing Access to SQL Server 2012</strong></p>
+<p>This module covers SQL Profiler and SQL Trace stored procedures.</p>
+<ul>
+  <li>Capturing Activity using SQL Server Profiler</li>
+  <li>Improving Performance with the Database Engine Tuning Advisor</li>
+  <li>Working with Tracing Options</li>
+</ul>
+<p><strong>Module 18: Monitoring SQL Server 2012</strong></p>
+<p>This module introduces DMVs and the configuration of data collection.</p>
+<ul>
+  <li>Monitoring Activity</li>
+  <li>Capturing and Managing Performance Data</li>
+  <li>Analyzing Collected Performance Data</li>
+</ul>
+<p><strong>Module 19: Managing Multiple Servers</strong></p>
+<p>This module covers Central Management Servers and Multi-Server queries, Virtualization of SQL Server and Data-Tier Applications.</p>
+<ul>
+  <li>Working with Multiple Servers</li>
+  <li>Virtualizing SQL Server</li>
+  <li>Deploying and Upgrading Data-Tier Applications</li>
+</ul>
+<p><strong>Module 20: Troubleshooting Common SQL Server 2012 Administrative Issues</strong></p>
+<p>This module covers common issues that require troubleshooting and gives guidance on where to start looking for solutions.</p>
+<ul>
+  <li>SQL Server Troubleshooting Methodology</li>
+  <li>Resolving Service-related Issues</li>
+  <li>Resolving Concurrency Issues</li>
+  <li>Resolving Login and Connectivity Issues</li>
+</ul>

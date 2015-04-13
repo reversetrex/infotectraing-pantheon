@@ -1,0 +1,49 @@
+<p><strong> Unit 1: Application Design Concepts </strong></p>
+<ul>
+  <li> Planning an Application </li>
+  <li>Examining a Completed Application </li>
+  <li>Developing a Distributed Application Design </li>
+</ul>
+<p><strong> Unit 2: Adding Command Buttons to Guide User Navigation </strong></p>
+<ul>
+  <li> Using One Form for Two Purposes: to Add or Edit Records </li>
+</ul>
+<p><strong> Unit 3: Automating a Dialog-box Form with a Macro Group </strong></p>
+<ul>
+  <li> Creating a Macro Group </li>
+  <li>Customizing an Unbound Form to Behave Like a Dialog Box </li>
+  <li>Documenting a Macro Group </li>
+</ul>
+<p><strong> Unit 4: Creating a Switchboard Form </strong></p>
+<ul>
+  <li> Using the Switchboard Manager </li>
+  <li>Setting Database Startup Properties </li>
+</ul>
+<p><strong> Unit 5: Working with Custom Toolbars and Menus </strong></p>
+<ul>
+  <li> Using a Macro Group to Show and Hide a Toolbar </li>
+  <li>Creating a Custom Menu Bar for a Form </li>
+  <li>Startup Properties for Toolbars and Menu Bars </li>
+</ul>
+<p><strong> Unit 6: Creating a Splash Screen Form </strong></p>
+<ul>
+  <li> Creating a Form as a Splash Screen </li>
+  <li>Automating the Splash Screen Form by Using Visual Basic Code </li>
+  <li>Modifying Startup Properties to Display a Splash Screen Form </li>
+  <li>Documenting the Application </li>
+</ul>
+<p><strong> Unit 7: Using Visual Basic Procedures </strong></p>
+<ul>
+  <li> Creating a Public Function </li>
+  <li>Adding General Procedures in a Form Module </li>
+  <li>Creating Event Procedures </li>
+  <li>Viewing a Live Web Site on a Form </li>
+</ul>
+<p><strong> Unit 8: Adding Security to an Application </strong></p>
+<ul>
+  <li> Security Overview </li>
+  <li>Steps to Securing a Database by Using User-level Security </li>
+  <li>Documenting Database Security </li>
+  <li>Securing a Database with a Database Password </li>
+  <li>Distributing the Secured Application </li>
+</ul>

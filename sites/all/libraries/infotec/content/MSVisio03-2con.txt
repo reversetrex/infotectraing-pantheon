@@ -1,0 +1,34 @@
+<p><strong> Unit 1: Customizing Visio </strong></p>
+<ul>
+  <li> Topic 1A: Working with Toolbars </li>
+  <li>Topic 1B: Working with Windows </li>
+</ul>
+<p><strong> Unit 2: Using the Drawing Tools </strong></p>
+<ul>
+  <li> Topic 2A: Drawing Basics </li>
+  <li>Topic 2B: Advanced Drawing Techniques </li>
+</ul>
+<p><strong> Unit 3: Custom Shapes </strong></p>
+<ul>
+  <li> Topic 3A: Using Custom Shapes </li>
+  <li>Topic 3B: Using Custom Shapes in a Drawing </li>
+</ul>
+<p><strong> Unit 4: Advanced Stencil Techniques </strong></p>
+<ul>
+  <li> Topic 4A: Custom Stencils </li>
+  <li>Topic 4B: Customizing Stencil Masters </li>
+  <li>Topic 4C: The Document Stencil </li>
+</ul>
+<p><strong> Unit 5: Templates, Styles, and Layers </strong></p>
+<ul>
+  <li> Topic 5A: Working with Templates </li>
+  <li>Topic 5B: Formatting and Linking Shapes </li>
+  <li>Topic 5C: Layers </li>
+</ul>
+<p><strong> Unit 6: Sharing Your Work </strong></p>
+<ul>
+  <li> Topic 6A: Object Linking and Embedding </li>
+  <li>Topic 6B: Working with External Data </li>
+  <li>Topic 6C: Creating HTML Documents </li>
+  <li>Topic 6D: Printing Techniques </li>
+</ul>

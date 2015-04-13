@@ -1,0 +1,3 @@
+This three day course is designed primarily for IT Professionals who want to upgrade their technical skills from Windows 7 to Windows 8. The course focuses on the new features and functionality in Windows 8 and related tools and cloud services that pertain to installation, activation, upgrades and migration, local and remote administration including Group Policy, Windows Intune and Windows PowerShell, application solutions and compatibility, Internet Explorer, remote access, VPN and DirectAccess client configuration, storage and security, troubleshooting and recovery, Client Hyper-V, and online services.
+<br><br>
+This course also serves as preparation for Exam 70-689: Upgrading Your Skills to MCSA Windows 8.

@@ -1,0 +1,11 @@
+<p><strong>Module 1: MOF Overview</strong> - This module includes an introduction to the key elements that make up the Microsoft Operations Framework and its approach to IT Service Management.</p>
+
+<p><strong>Module 2: Manager Layer</strong> - This layer is utilized by all the phases of the lifecycle, serving as a foundation and set of building blocks for each of the lifecycle phases.</p>
+
+<p><strong>Module 3: Plan Phase</strong> - This phase focuses on the key elements and Service Management Functions (SMFs) required for successful planning of new or changed IT Services.</p>
+
+<p><strong>Module 4: Deliver Phase</strong> - This phase focuses on the key elements and Service Management Functions (SMFs) required for successful introduction of new or changed IT Services into the live environment.</p>
+
+<p><strong>Module 5: Operate Phase</strong> - This phase focuses on the key elements and Service Management Functions (SMFs) required for ongoing management of live IT Services.</p>
+
+<p><strong>Module 6: Summary</strong> - This module focuses on reviewing the key elements of the Service Management Functions (SMFs) talked about in the course.</p>

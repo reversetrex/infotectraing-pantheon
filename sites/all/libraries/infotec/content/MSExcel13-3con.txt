@@ -1,0 +1,42 @@
+<p><strong>Lesson 1: </strong>Working with Multiple Worksheets and Workbooks Simultaneously</p>
+<ul>
+  <li><strong>Topic A: </strong>Use 3-D References</li>
+  <li><strong>Topic B: </strong>Use Links and External References</li>
+  <li><strong>Topic C: </strong>Consolidate Data</li>
+</ul>
+<p><strong>Lesson 2: </strong>Sharing and Protecting Workbooks</p>
+<ul>
+  <li><strong>Topic A: </strong>Collaborate on a Workbook</li>
+  <li><strong>Topic B: </strong>Protect Worksheets and Workbooks</li>
+</ul>
+<p><strong>Lesson 3: </strong>Automating Workbook Functionality</p>
+<ul>
+  <li><strong>Topic A: </strong>Apply Data Validation</li>
+  <li><strong>Topic B: </strong>Work with Forms and Controls</li>
+  <li><strong>Topic C: </strong>Work with Macros</li>
+</ul>
+<p><strong>Lesson 4: </strong>Applying Conditional Logic</p>
+<ul>
+  <li><strong>Topic A: </strong>Use Lookup Functions</li>
+  <li><strong>Topic B: </strong>Combine Functions</li>
+  <li><strong>Topic C: </strong>Use Formulas and Functions to Apply Conditional Formatting</li>
+</ul>
+<p><strong>Lesson 5: </strong>Auditing Worksheets</p>
+<ul>
+  <li><strong>Topic A: </strong>Trace Cells</li>
+  <li><strong>Topic B: </strong>Search for Invalid Data and Formulas with Errors</li>
+  <li><strong>Topic C: </strong>Watch and Evaluate Formulas</li>
+</ul>
+<p><strong>Lesson 6: </strong>Using Automated Analysis Tools</p>
+<ul>
+  <li><strong>Topic A: </strong>Determine Potential Outcomes Using Data Tables</li>
+  <li><strong>Topic B: </strong>Determine Potential Outcomes Using Scenarios</li>
+  <li><strong>Topic C: </strong>Use the Goal Seek Feature</li>
+  <li><strong>Topic D: </strong>Activate and Use the Solver Tool</li>
+  <li><strong>Topic E: </strong>Analyze Data with Analysis ToolPak Tools</li>
+</ul>
+<p><strong>Lesson 7: </strong>Presenting Your Data Visually</p>
+<ul>
+  <li><strong>Topic A: </strong>Use Advanced Chart Features</li>
+  <li><strong>Topic B: </strong>Create Sparklines</li>
+</ul>

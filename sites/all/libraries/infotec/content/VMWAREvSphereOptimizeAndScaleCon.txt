@@ -1,0 +1,71 @@
+<p><strong>1. VMware Management Resources</strong></p>
+<ul type="disc">
+  <li>Configuring vMA.</li>
+  <li>esxcli and vicfg commands.</li>
+  <li>Configuring ESXi technical support mode and SSH access.</li>
+  <li>Important ESXi and vCenter Server log files.</li>
+</ul>
+<p><strong>2. Performance in a Virtualized Environment</strong></p>
+<ul type="disc">
+  <li>vSphere performance troubleshooting methodology.</li>
+  <li>Software and hardware virtualization techniques and their effects on performance.</li>
+  <li>Using vSphere performance monitoring tools.</li>
+</ul>
+<p><strong>3. Network Scalability</strong></p>
+<ul type="disc">
+  <li>Creating, configuring, and managing vSphere distributed switches.</li>
+  <li>Migrating virtual machines from standard switches to distributed switches.</li>
+  <li>Distributed switch features, such as PVLANs, VMware vSphere Network I/OControl, port mirroring, and NetFlow.</li>
+</ul>
+<p><strong>4. Network Optimization</strong></p>
+<ul type="disc">
+  <li>Performance features of network adapters.</li>
+  <li>Performance features of vSphere networking.</li>
+  <li>Monitoring key network performance metrics.</li>
+  <li>Using vMA to manage virtual network configuration.</li>
+  <li>Troubleshooting common network performance problems.</li>
+</ul>
+<p><strong>5. Storage Scalability</strong></p>
+<ul type="disc">
+  <li>Configuring storage multipathing.</li>
+  <li>vSphere storage APIs for array integration and storage awareness.</li>
+  <li>Profile-driven storage.</li>
+  <li>Adding a storage policy to a virtual machine storage profile.</li>
+  <li>VMware vSphere Storage Distributed Resource Scheduler (DRS) operation.</li>
+  <li>Configuring Storage DRS and VMware vSphere Storage I/O Control.</li>
+</ul>
+<p><strong>6. Storage Optimization</strong></p>
+<ul type="disc">
+  <li>Diagnosing storage access problems.</li>
+  <li>Storage protocols, VMware vSphere VMFS configuration, load balancing, and queuing affect performance.</li>
+  <li>Monitoring key storage performance metrics.</li>
+  <li>Using vMA to manage virtual storage.</li>
+  <li>Troubleshooting common storage performance problems.</li>
+</ul>
+<p><strong>7. CPU Optimization</strong></p>
+<ul type="disc">
+  <li>CPU scheduler and other features that affect CPU performance.</li>
+  <li>Monitoring key CPU performance metrics.</li>
+  <li>Troubleshooting common CPU performance problems.</li>
+</ul>
+<p><strong>8. Memory Optimization</strong></p>
+<ul type="disc">
+  <li>Memory reclamation techniques and over commitment.</li>
+  <li>Monitoring key memory performance metrics.</li>
+  <li>Troubleshooting common memory performance problems.</li>
+</ul>
+<p><strong>9. Virtual Machine and Cluster Optimization</strong></p>
+<ul type="disc">
+  <li>Performance guidelines for virtual machines, resource allocation settings, VMware vSphere DRS clusters, resource pools, and VMware vSphere High Availability admission control policies.</li>
+  <li>Troubleshooting virtual machine power-on failures.</li>
+  <li>Troubleshooting vSphere cluster problems.</li>
+</ul>
+<p><strong>10. Host and Management Scalability</strong></p>
+<ul type="disc">
+  <li>Managing multiple vCenter Server inventories with vCenter Linked Mode.</li>
+  <li>VMware vSphere Distributed Power Management.</li>
+  <li>Using Host Profiles to manage ESXi configuration compliance.</li>
+  <li>Using VMware vSphere PowerCLI to perform vSphere administrative tasks.</li>
+  <li>Using Image Builder to create an ESXi installation image.</li>
+  <li>Using vSphere Auto Deploy to provision ESXi hosts.</li>
+</ul>

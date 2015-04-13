@@ -1,0 +1,1 @@
+<p>This instructor-led course provides classroom lecture topics and the practical application of Citrix Presentation Server 4.5 through demonstrations, practices, and hands-on exercises.</p>

@@ -1,0 +1,33 @@
+<p><strong>The following topics are covered in the BCMSN course: </strong></p>
+<p> Unit 1: Course Introduction <br>
+Unit  2: Configuring VLANs and VTP <br>
+Unit 3: Implementing Spanning-Tree Protocol <br>
+Unit  4: Enhancing Spanning Tree Protocol <br>
+Unit  5: Implementing Multilayer Switching in the Network <br>
+Unit  6: Improving Availability on Multilayer Switched Networks <br>
+Unit  7: Examining Cisco AVVID Services and Applications <br>
+Unit  8: Implementing QoS in Multilayer Switched Networks <br>
+Unit  9: Optimizing and Securing Multilayer Switched Networks <br>
+Unit  10: Understanding Metro Ethernet </p>
+<p><strong>The following topics are covered in the BSCI course: </strong></p>
+<p>Unit 1: Advanced IP Addressing<br>
+Unit 2: Routing Principles<br>
+Unit 3: Configuring EIGRP<br>
+Unit 4 Configuring OSPF <br>
+Unit 5 Configuring the IS-IS Protocol <br>
+Unit 6: Manipulating Routing Updates<br>
+Unit 7 Configuring Basic BGP </p>
+<p><strong>The following topics are covered in the ISCW course: </strong> </p>
+<p>Unit 1: Describe Network Requirements<br>
+Unit 2: Connect Teleworks<br>
+Unit 3: Implement Frame Mode MPLS<br>
+Unit 4: IPsec VPNs<br>
+Unit 5: Cisco Device Hardening<br>
+Unit 6: Cisco IOS Threat Defense Features</p>
+<p><strong>The following topics are covered in the ONT course: </strong></p>
+<p> Unit 1: Describe Network Requirements<br>
+Unit 2: Describing Cisco VoIP Implementations<br>
+Unit 3: Introduction to IP QoS<br>
+Unit 4: Implementing the DiffServ QoS Model<br>
+Unit 5: Implementing AutoQoS<br>
+Unit 6: Wireless Security </p>

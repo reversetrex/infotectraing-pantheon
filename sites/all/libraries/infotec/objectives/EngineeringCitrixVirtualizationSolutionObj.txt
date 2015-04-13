@@ -1,0 +1,19 @@
+<p>On course completion, students will be able to:</p>
+<ul>
+  <li>Benefits and considerations for VM storage, including local host disk, iSCSI SAN, Fibre Channel SAN, and NFS SAN</li>
+  <li>How network considerations, including network topology, utilization requirements, and the number of interfaces, affect a virtualization host server</li>
+  <li>Configure network connectivity and storage for the XenServer host</li>
+  <li>Configure a resource pool for optimal performance</li>
+  <li>Information required in the project documentation for decision-making purposes</li>
+  <li>Create an order of execution plan that reflects the tasks required to implement the virtual solution and organizational goals</li>
+  <li>Available Provisioning Services server optimizations</li>
+  <li>Install, configure, and test a Provisioning Services configuration</li>
+  <li>Configure XenApp for optimal performance in a virtualized environment</li>
+  <li>Prepare, install, and configure a provisioned XenApp server within a Citrix virtualization solution</li>
+  <li>Components that comprise a XenDesktop virtual solution</li>
+  <li>Provision a XenDesktop pool in a virtual solution</li>
+  <li>Uses and differences of EdgeSight for Load Testing, EdgeSight for Endpoints, and EdgeSight for XenApp</li>
+  <li>Configure an EdgeSight alert to trigger a Workflow Studio workflow</li>
+  <li>Common workflows that can be automated using Workflow Studio</li>
+  <li>Perform a XenApp server upgrade using the vDisk update process</li>
+</ul>

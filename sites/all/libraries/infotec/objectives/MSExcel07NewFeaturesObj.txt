@@ -1,0 +1,7 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>Explore the new and enhanced Microsoft Office Excel 2007 environment.</li>
+  <li>Organize data in Excel worksheets using enhanced tables and table formats.</li>
+  <li>Analyze Excel data by applying enhanced conditional formatting, and generate specific information using the sort and filter options.</li>
+  <li>present Excel data using enhanced charts and illustrations, as well as work with the enhanced options of PivotTables and PivotCharts for conducting selective analysis.</li>
+</ul>

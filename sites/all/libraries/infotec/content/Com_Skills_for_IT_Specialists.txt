@@ -1,0 +1,214 @@
+<h2>Session 1</h2>
+  <h3>Section A: Importance of Communication Skills</h3>
+  <ul>
+    <li>Need for Improved Skills</li>
+    <li>Being a Powerful Communicator</li>
+    <li>Reducing Resistance</li>
+    <li>Improved Quality, Reduced Costs</li>
+    <li>Development Areas</li>
+    <li>Written Communication Skills</li>
+    <li>Communication Competency</li>
+    <li>Principles to Remember</li>
+  </ul>
+  <h3>Section B: Foundations of Effectiveness</h3>
+  <ul>
+    <li>Ideas and Theories</li>
+    <li>Relational Ability</li>
+    <li>Self-Management and Time Management</li>
+    <li>Learning Styles</li>
+    <li>Discipline</li>
+    <li>Technical Ability</li>
+  </ul>
+  <h3>Section C: Communications Theory</h3>
+  <ul>
+    <li>Communication Formulas</li>
+    <li>Communication Process</li>
+    <li>Three Perceived Elements</li>
+    <li>Tone of Voice</li>
+    <li>Body Language</li>
+    <li>Environment</li>
+    <li>Communication Roles</li>
+  </ul>
+  <h3>Section D: Assertiveness</h3>
+  <ul>
+    <li>Assertiveness Scale</li>
+    <li>Example of Behaviors</li>
+    <li>Benefits of Assertiveness</li>
+    <li>Making Assertiveness Happen</li>
+  </ul>
+  <h3>Section E: Listening Skills</h3>
+  <ul>
+    <li>Hindrances of Listening</li>
+    <li>Effective Listening</li>
+    <li>Seven Distractions</li>
+    <li>Five Listening Levels</li>
+  </ul>
+  <h3>Section F: Effective Listening Techniques</h3>
+  <ul>
+    <li>Empathy Listening</li>
+    <li>Seek Synergy</li>
+    <li>Five Steps of Listening</li>
+    <li>Asking Questions</li>
+    <li>Customer Service Principles</li>
+  </ul>
+  <h3>Section G: Personality Types</h3>
+  <ul>
+    <li>Four Motivations</li>
+    <li>Motivation Matrix</li>
+    <li>Complementing Personality Types</li>
+  </ul>
+  <h3>Section H: Conflict Resolution</h3>
+  <ul>
+    <li>Five Conflict Management Methods</li>
+    <li>Conflict Scenarios</li>
+    <li>Deciding How to Act</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Negotiation Skills</h3>
+  <ul>
+    <li>When to Negotiate</li>
+    <li>What is at Stake?</li>
+    <li>Who is Impacted?</li>
+    <li>Laws of Influence</li>
+    <li>Sources of Power</li>
+    <li>Persuasion vs. Manipulation</li>
+    <li>Before Negotiation</li>
+  </ul>
+  <h3>Section B: Negotiation Tips and Techniques</h3>
+  <ul>
+    <li>Asking &quot;&quot;What if?&quot;&quot;</li>
+    <li>Structure the Message</li>
+    <li>Offer Options</li>
+    <li>Sally's Story</li>
+    <li>Asking &quot;&quot;What would make you happy?&quot;&quot;</li>
+    <li>Carpet Story</li>
+    <li>The Seven Stages</li>
+    <li>Understanding Change</li>
+  </ul>
+  <h3>Section C: Translating Your Knowledge</h3>
+  <ul>
+    <li>Comparison Method</li>
+    <li>Contrast Method</li>
+    <li>Construction Method</li>
+    <li>Combination Method</li>
+    <li>Things to Remember</li>
+  </ul>
+  <h3>Section D: Accountability and Trust</h3>
+  <ul>
+    <li>Earning Trust and Building Rapport</li>
+    <li>Accountability Diagram</li>
+    <li>Five Steps to Trust</li>
+    <li>Trust Principles</li>
+  </ul>
+  <h3>Section E: Building Rapport</h3>
+  <ul>
+    <li>Three Rapport Elements</li>
+    <li>Use Their Names</li>
+    <li>Discover Their Interests</li>
+    <li>Let Them Talk</li>
+    <li>Pacing</li>
+    <li>Match Conversational Modalities</li>
+  </ul>
+  <h3>Section F: Repairing Damaged Relationships</h3>
+  <ul>
+    <li>R.E.L.A.T.E.</li>
+    <li>R = Reside</li>
+    <li>E = Express</li>
+    <li>L = Listen</li>
+    <li>A = Ask</li>
+    <li>T = Tell</li>
+    <li>E = Encourage</li>
+  </ul>
+  <h3>Section G: Effective Written Communications</h3>
+  <ul>
+    <li>Writing Principles</li>
+    <li>Getting Started</li>
+    <li>Main Idea</li>
+    <li>The Writing Process</li>
+  </ul>
+  <h3>Section H: Types of Writing</h3>
+  <ul>
+    <li>E-mails and Memos</li>
+    <li>Progress Reports</li>
+    <li>Feasibility Studies</li>
+    <li>Proposals</li>
+    <li>Project Charter Template</li>
+    <li>Technical Documentation</li>
+    <li>Writing Example</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Preparing the Presentation</h3>
+  <ul>
+    <li>Delivering Your Message</li>
+    <li>LIVE Studio</li>
+    <li>Six D Methodology</li>
+  </ul>
+  <h3>Section B: Delivering the Presentation</h3>
+  <ul>
+    <li>Openings and Closings</li>
+    <li>Transitions</li>
+    <li>Handling Questions</li>
+    <li>Presentation Types</li>
+  </ul>
+  <h3>Section C: Creative Communications Management</h3>
+  <ul>
+    <li>Creativity Defined</li>
+    <li>The Creative Process</li>
+    <li>Mental Blocks</li>
+    <li>Unlearn What You Know</li>
+    <li>Tips for Being Creative</li>
+    <li>Idea Evaluation</li>
+    <li>Creative Roles</li>
+  </ul>
+  <h3>Section D: Creativity Techniques</h3>
+  <ul>
+    <li>Comparative Contrasts</li>
+    <li>What If?</li>
+    <li>Ask Mother Nature</li>
+    <li>Take a Different Route</li>
+    <li>Wear a Different Hat</li>
+    <li>Renaming</li>
+    <li>Anything is Possible</li>
+    <li>Accidental Discovery</li>
+    <li>A Thousand Words</li>
+    <li>Go for a Walk</li>
+    <li>Listen to Music</li>
+    <li>Never Stop Reading</li>
+  </ul>
+  <h3>Section E: Value-Added IT</h3>
+  <ul>
+    <li>Understanding Alignment</li>
+    <li>Negative vs. Positive Alignment</li>
+    <li>Relationship Stages</li>
+    <li>Beyond Alignment Toward Synergy</li>
+  </ul>
+  <h3>Section F: Value Quantifier</h3>
+  <ul>
+    <li>Quantifier Index</li>
+    <li>Index Example</li>
+    <li>Group VQI</li>
+  </ul>
+  <h3>Section G: What Managers Buy</h3>
+  <ul>
+    <li>Managers' Needs</li>
+    <li>Financials</li>
+    <li>Benefit/Cost/Flow Chart</li>
+    <li>Importance and Urgency Matrix</li>
+    <li>Influence and Control Matrix</li>
+    <li>Forced-Choice Indicator</li>
+  </ul>
+  <h3>Section H: Selling Solutions</h3>
+  <ul>
+    <li>Sizzlemanship</li>
+    <li>Steps to the Sale</li>
+    <li>Closes</li>
+    <li>Selling Solutions with Integrity</li>
+  </ul>
+  <h3>Section I: Developing Communication Channels</h3>
+  <ul>
+    <li>Internal Channel</li>
+    <li>Partnership Channel</li>
+    <li>Consulting Channel</li>
+    <li>Appreciation Channel</li>
+    <li>Reporting Channel</li>
+  </ul>

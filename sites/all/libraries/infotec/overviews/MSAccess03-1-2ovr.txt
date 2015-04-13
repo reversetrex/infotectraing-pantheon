@@ -1,0 +1,1 @@
+In this course, you will be introduced to the concept of the relational database by using the Microsoft Office Access 2003 relational database application and its information management tools. You will also consider how to design and create a new Access database, how to customize database components, and how  to share Access data with other applications.

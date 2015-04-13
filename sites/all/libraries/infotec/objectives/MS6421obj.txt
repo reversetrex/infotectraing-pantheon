@@ -1,0 +1,17 @@
+<p>After completing this course, students will  be able to:</p>
+<ul>
+  <li>Install and configure servers.</li>
+  <li>Configure and troubleshoot DNS.</li>
+  <li>Configure and manage WINS.</li>
+  <li>Configure and troubleshoot DHCP.</li>
+  <li>Configure and troubleshoot IPv6 TCP/IP.</li>
+  <li>Configure and troubleshoot Routing and Remote Access.</li>
+  <li>Install, configure, and troubleshoot the Network Policy Server Role service.</li>
+  <li>Configure Network Access Protection.</li>
+  <li>Configure IPsec.</li>
+  <li>Monitor and troubleshoot IPsec.</li>
+  <li>Configure and manage Distributed File System.</li>
+  <li>Configure and manage storage technologies.</li>
+  <li>Configure availability of network resources and content.</li>
+  <li>Configure server security compliance. </li>
+</ul>

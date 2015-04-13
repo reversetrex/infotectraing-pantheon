@@ -1,0 +1,13 @@
+<ul>
+  <li> After completing the course, students will be able to: </li>
+  <li> Explain how XML Web services emerged as a solution to the problems with traditional approaches to designing distributed applications. </li>
+  <li> Describe the architecture of an XML Web services-based solution. </li>
+  <li> Describe the underlying technologies of XML Web services and explain how to use the Microsoft .NET Framework to implement XML Web services by using these technologies. </li>
+  <li> Implement an XML Web service consumer by using Microsoft Visual Studio .NET. </li>
+  <li> Implement a simple XML Web service by using Visual Studio .NET. </li>
+  <li> Publish and deploy an XML Web service. </li>
+  <li> Secure an XML Web service. </li>
+  <li> Implement caching in an XML Web service. </li>
+  <li> Evaluate the trade-offs and issues that are involved in designing a real-world XML Web service. </li>
+  <li> Implement nonstandard XML Web services such as Hypertext Markup Language (HTML) screen scraping and aggregating XML Web services. </li>
+</ul>

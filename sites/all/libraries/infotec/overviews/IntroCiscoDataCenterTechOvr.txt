@@ -1,0 +1,1 @@
+This course expands on what you learned in Introducing Cisco Data Center Networking (DCICN), introducing you to unified computing, unified fabric, and network services. You will learn about the Cisco Nexus, MDS and UCS product families, and how they fit into Data Center network designs. These courses prepare you for the CCNA Data Center certification.

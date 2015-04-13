@@ -1,0 +1,157 @@
+<p><strong><u>MS2596</u>:</strong></p>
+
+<p><strong>Module  1: Overview of Systems Management Server 2003</strong></p>
+<ol>
+  <li>Where  SMS Fits in the Windows Server System </li>
+  <li>Describing How SMS 2003 Features Provide Change and Configuration Management </li>
+  <li>Explaining SMS Hierarchies </li>
+  <li>Explaining SMS Site-to-Site Communication </li>
+  <li>Explaining SMS Site and Roaming Boundaries </li>
+  <li>Discussion: Overview of Systems Management Server 2003</li>
+</ol>
+
+<p><strong>Module 2: Exploring SMS  Site Architecture</strong></p>
+<ol>
+  <li>Introduction to the SMS Site Server </li>
+  <li>Exploring the SMS Administrator Console and the SMS 2003 Toolkit 1 </li>
+  <li>Explaining the Role of Active Directory in SMS 2003 </li>
+  <li>Explaining How SMS Uses Dependent Technologies </li>
+  <li>Discussion: Exploring SMS Site Architecture</li>
+</ol>
+
+<p><strong>Module 3: Preparing to  Deploy the SMS Clients</strong></p>
+<ol>
+  <li>Introduction to the SMS Clients </li>
+  <li>Discovering Resources </li>
+  <li>Deploying the Site Systems That Support Client Installation and Client/Server Communication </li>
+  <li>Discussion: Preparing to Deploy the SMS Clients</li>
+</ol>
+
+<p><strong>Module 4: Deploying SMS Clients</strong></p>
+<ol>
+  <li>Deploying the Advanced Client </li>
+  <li>Deploying the Legacy Client </li>
+  <li>Isolating Problems When Installing SMS Clients </li>
+  <li>Discussion: Deploying SMS Clients</li>
+</ol>
+
+<p><strong>Module 5: Collecting Inventory and Software Metering</strong></p>
+<ol>
+  <li>Introduction to Inventory Collection </li>
+  <li>Collecting Inventory Information </li>
+  <li>Extending Inventory Collection </li>
+  <li>Configuring Software Metering </li>
+  <li>Discussion: Collecting Inventory and Software Metering</li>
+</ol>
+
+<p><strong>Module 6: Querying and  Reporting Data</strong></p>
+<ol>
+  <li>Introduction to the Architecture of Data and Status Queries </li>
+  <li>Creating and Running Queries </li>
+  <li>Configuring and Deploying a Reporting Point </li>
+  <li>Configuring and Running Reports </li>
+  <li>Creating and Running Dashboards </li>
+  <li>Discussion: Querying and Reporting Data</li>
+</ol>
+
+<p><strong>Module 7: Preparing an SMS Site for Software Distribution</strong></p>
+<ol>
+  <li>Explaining How SMS Distributes Software </li>
+  <li>Managing Distribution Points </li>
+  <li>Configuring Software Distribution and the Advertised Programs Client Agent </li>
+  <li>Discussion: Preparing an SMS Site for Software Distribution</li>
+</ol>
+
+<p><strong>Module 8: Managing  Software Distribution</strong></p>
+<ol>
+  <li>Configuring Software Distribution Objects Using a Software Distribution Methodology </li>
+  <li>Creating and Configuring Collections </li>
+  <li>Creating and Configuring Packages </li>
+  <li>Creating and Configuring Advertisements </li>
+  <li>Managing Software Installation at the Client </li>
+  <li>Monitoring Software Distribution </li>
+  <li>Discussion: Managing Software Distribution</li>
+</ol>
+
+<p><strong>Module 9: Implementing SMS  Software Update Tools and Managing Update Deployment</strong></p>
+<ol>
+  <li>Explaining How the Software Update Process Works </li>
+  <li>Installing the Software Update Scanning Tools </li>
+  <li>Performing Software Update Inventory </li>
+  <li>Deploying and Verifying Software Updates </li>
+  <li>Discussion: Implementing SMS Software Update Tools and Managing Update Deployment</li>
+</ol>
+
+<p><strong>Module 10: Using Remote Tools for Client Support</strong></p>
+<ol>
+  <li>Introduction to Remote Tools </li>
+  <li>Configuring the Remote Tools Client Agent </li>
+  <li>Using  SMS Remote Tools in Troubleshooting </li>
+  <li>Discussion: Using SMS Remote Tools</li>
+</ol>
+
+<p><strong>Module 11: Working with SMS Hierarchies</strong></p>
+<ol>
+  <li>Introduction to the SMS Site Hierarchy </li>
+  <li>Configuring Site Communications </li>
+  <li>Installing a Secondary Site Server </li>
+  <li>Managing Roaming Clients in an SMS Hierarchy </li>
+  <li>Discussion: Working with SMS Hierarchies</li>
+</ol>
+
+<p><strong>Module 12: Performing Site Maintenance, Backup, and Recovery Tasks</strong></p>
+<ol>
+  <li>Performing Site Maintenance </li>
+  <li>Performing an SMS Site Backup </li>
+  <li>Recovering an SMS Site </li>
+  <li>Discussion:  Performing Site Maintenance, Backup, and Recovery Tasks</li>
+</ol>
+
+<p><strong><u>MS2597</u>:</strong></p>
+
+<p><strong>Module 1: Preparing for Systems Management Server 2003</strong></p>
+<ol>
+  <li>Describing the Business Case for SMS 2003 </li>
+  <li>Describing the Key Elements of the SMS Planning and Deployment Process </li>
+  <li>Analyzing Your Current Environment </li>
+  <li>Discussion: Preparing for SMS 2003</li>
+</ol>
+
+<p><strong>Module 2: Planning the SMS 2003 Hierarchy</strong></p>
+<ol>
+  <li>Designing the SMS Site Hierarchy </li>
+  <li>Planning Site Boundaries and Roaming Boundaries </li>
+  <li>Determining SMS Component Server Capacity </li>
+  <li>Planning Network and Infrastructure Security for SMS</li>
+</ol>
+
+<p><strong>Module 3: Planning for  Systems Management Server 2003 Deployment, Part 1</strong></p>
+<ol>
+  <li>Planning Client Installation </li>
+  <li>Planning Site Deployment </li>
+  <li>Planning Site Configuration </li>
+  <li>Planning Site Systems</li>
+</ol>
+
+<p><strong>Module 4: Planning for Systems Management Server 2003 Deployment, Part 2</strong></p>
+<ol>
+  <li>Planning the Configuration of the SMS Security Environment </li>
+  <li>Developing the SMS Deployment Plan </li>
+  <li>Discussion: Planning for SMS 2003 Site Deployment</li>
+</ol>
+
+<p><strong>Module 5: Deploying  Microsoft Systems Management Server 2003, Part 1</strong></p>
+<ol>
+  <li>Configuring the Environment Before Deployment </li>
+  <li>Installing the SMS Primary Site </li>
+  <li>Configuring the Site after Installation </li>
+  <li>Installing Site Systems </li>
+  <li>Deploying Clients</li>
+</ol>
+
+<p><strong>Module 6: Planning and Deploying Microsoft Systems Management Server 2003, Part 2</strong></p>
+<ol>
+  <li>Configuring the SMS Site Hierarchy </li>
+  <li>Backing Up and Recovering Data </li>
+  <li>Troubleshooting  an SMS Deployment</li>
+</ol>

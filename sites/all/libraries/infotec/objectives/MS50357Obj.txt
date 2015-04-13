@@ -1,0 +1,7 @@
+<p>New features  and the value proposition for Forefront TMG:</p>
+<ol>
+  <li>How Forefront TMG protects clients and servers from Web-based threats</li>
+  <li>How Forefront TMG enables outside systems to secure connect to internal  services and applications</li>
+  <li>How Forefront TMG integrates with Forefront Protection 2010 for Exchange and  Microsoft Exchange Server 2010 to protect an organization from mail-based threats</li>
+  <li>Design an  enterprise solution using Forefront TMG considering availability,  scalability, operations, and migration from an existing Microsoft Internet Security and Acceleration (ISA) solution</li>
+</ol>

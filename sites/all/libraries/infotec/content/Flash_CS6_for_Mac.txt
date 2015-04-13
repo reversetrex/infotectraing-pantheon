@@ -1,0 +1,178 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Collecting Initial Information</li>
+    <li>Accessibility</li>
+    <li>Producing Accessible Content</li>
+    <li>Identify Considerations</li>
+    <li>Development Decisions</li>
+    <li>Rich Media Targets</li>
+    <li>Identifying Criteria for Rich Media</li>
+    <li>Consistency Across Platforms</li>
+    <li>Project Considerations</li>
+    <li>Design Principles</li>
+  </ul>
+  <h3>Section B: The Flash Interface</h3>
+  <ul>
+    <li>Create a New Flash Document</li>
+    <li>The Properties Panel</li>
+    <li>Keyboard Shortcuts for View Options</li>
+    <li>Preset and Custom Workspace</li>
+  </ul>
+  <h3>Section C: Paths and Text</h3>
+  <ul>
+    <li>Pen Tool</li>
+    <li>Creating Readable Text</li>
+    <li>Text Tool</li>
+    <li>Text Formatting</li>
+    <li>Text Types</li>
+    <li>TLF Text</li>
+    <li>Advanced TLF Options</li>
+    <li>Paragraph Options</li>
+  </ul>
+  <h3>Section D: Drawing Tools</h3>
+  <ul>
+    <li>Line Tool</li>
+    <li>Rectangle and Oval Tools</li>
+    <li>Primitive Shape Tools</li>
+    <li>PolyStar, Pencil, and Brush Tools</li>
+    <li>Spray Brush</li>
+    <li>Deco Tool</li>
+    <li>Symmetry Brush</li>
+  </ul>
+  <h3>Section E: More Creation Tools</h3>
+  <ul>
+    <li>Object Drawing Mode, Paint Bucket</li>
+    <li>Ink Bottle and Eyedropper Tools</li>
+    <li>Eraser, Selecting, and Transforming</li>
+    <li>3D Translation Tool</li>
+    <li>Lasso Tool</li>
+    <li>Magic Wand</li>
+  </ul>
+  <h3>Section F: Working on the Stage</h3>
+  <ul>
+    <li>The Align Panel</li>
+    <li>Guides and Rulers</li>
+    <li>Color Panel</li>
+    <li>Gradients</li>
+    <li>Gradient Transform Tool</li>
+    <li>Additional Information</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Symbols</h3>
+  <ul>
+    <li>Learn Links, Convert to Symbol</li>
+    <li>Symbol-Editing Mode</li>
+    <li>More Benefits of Using Symbols</li>
+    <li>Movie Clip</li>
+    <li>Movie Clip Properties</li>
+    <li>Movie Clip in a Movie Clip</li>
+    <li>Swap Bitmap</li>
+    <li>Sharing Between Projects</li>
+  </ul>
+  <h3>Section B: Timeline</h3>
+  <ul>
+    <li>Layers Palette, Button as Movie Clip</li>
+    <li>Using Folders in Timeline</li>
+    <li>Creating a Button Symbol</li>
+    <li>Button States</li>
+    <li>Button Setup</li>
+  </ul>
+  <h3>Section C: Library</h3>
+  <ul>
+    <li>Library Panel</li>
+    <li>Library Organization</li>
+    <li>Library Conclusion</li>
+    <li>Shape Tweening</li>
+    <li>Shape Hints</li>
+  </ul>
+  <h3>Section D: Animation</h3>
+  <ul>
+    <li>Motion Tweening</li>
+    <li>Motion Tweening Text</li>
+    <li>Easing</li>
+    <li>Motion Guide</li>
+    <li>Motion Editor</li>
+    <li>Motion Presets</li>
+    <li>Text Masks</li>
+    <li>Object Masks</li>
+    <li>Text as Mask</li>
+  </ul>
+  <h3>Section E: Advanced Animation</h3>
+  <ul>
+    <li>Bone Tool</li>
+    <li>Bone Tool Animation</li>
+    <li>Creating Armature out of a Basic Shape</li>
+    <li>Bind Tool</li>
+    <li>Frame-by-Frame Animation</li>
+    <li>Onion Skinning</li>
+    <li>Additional Information</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Storyboard</h3>
+  <ul>
+    <li>Creating a Storyboard</li>
+  </ul>
+  <h3>Section B: Copyright</h3>
+  <ul>
+    <li>Understanding Copyright</li>
+    <li>Copyright Summary</li>
+    <li>Citing Internet Content</li>
+  </ul>
+  <h3>Section C: External Images</h3>
+  <ul>
+    <li>Working with External Images</li>
+    <li>File Size Considerations</li>
+    <li>Distribute to Layers, Animation Example</li>
+    <li>Working with Transparent Images</li>
+    <li>Moving Background Example</li>
+    <li>Raster to Vector Conversion</li>
+    <li>Web-Safe Colors</li>
+  </ul>
+  <h3>Section D: Video</h3>
+  <ul>
+    <li>Importing Video</li>
+    <li>Embedding Video into Timeline</li>
+    <li>Compatible Video File Types</li>
+    <li>Media Encoder</li>
+  </ul>
+  <h3>Section E: Audio</h3>
+  <ul>
+    <li>Importing Sound</li>
+    <li>Properties of Sound Clips</li>
+    <li>Assigning Sounds to Hit States</li>
+    <li>Streaming</li>
+    <li>Menus</li>
+  </ul>
+  <h3>Section F: ActionScript</h3>
+  <ul>
+    <li>Object-Oriented Programming</li>
+    <li>Interactive Website Example Intro</li>
+    <li>Creation of Buttons</li>
+    <li>Adding Labels</li>
+    <li>ActionScript Intro</li>
+    <li>ActionScript Actions</li>
+    <li>Working with Code</li>
+    <li>Adding Content</li>
+  </ul>
+  <h3>Section G: Publishing</h3>
+  <ul>
+    <li>Basic Website Creation Finish</li>
+    <li>Technical Test</li>
+    <li>Usability Test</li>
+    <li>Publishing the Website Intro</li>
+    <li>Image Compression</li>
+    <li>More about ActionScript</li>
+    <li>Adding Load Image</li>
+  </ul>
+  <h3>Section H: Publishing Settings</h3>
+  <ul>
+    <li>Flash File Types</li>
+    <li>Publish Settings</li>
+    <li>Quality Options, HTML View</li>
+    <li>Other Publishing Formats</li>
+    <li>Different Platforms</li>
+    <li>QuickTime</li>
+    <li>Output Panel</li>
+    <li>Accessibility Demo</li>
+  </ul>

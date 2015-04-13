@@ -1,0 +1,14 @@
+<p>Upon successful completion  of this course, learners are able to demonstrate the following objectives:</p>
+<ul>
+  <li>Understand how the Xen hypervisor differs from other virtualization  methods, and how the Xen open source project and XenServer commercial products differ.</li>
+  <li>Install XenServer Enterprise Edition version 4.1 and configure CPU,  network and storage resources.</li>
+  <li>Install XenCenter.</li>
+  <li>Create virtual machines and templates.</li>
+  <li>Manage virtual m achine resources and life cycle operations.</li>
+  <li>Configure local and remote storage.</li>
+  <li>Configure resource pools and move virtual machines from one server to  another.</li>
+  <li>Identify the purpose and functionality of the xe CLI.</li>
+  <li>Perform basic commands in the xe CLI.</li>
+  <li>Identify and view tools for upgrading and troubleshooting XenServer  Enterprise Edition 4.1.</li>
+  <li>Identify  sizing guidelines and best practices.</li>
+</ul>

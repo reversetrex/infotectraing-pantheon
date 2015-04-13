@@ -1,0 +1,81 @@
+<p><strong> Unit 1: Introduction to ASP </strong></p>
+<ul>
+  <li> What is ASP? </li>
+  <li>ASP Scripting Languages, Objects, and Components </li>
+</ul>
+<p><strong> Unit 2: Server-side Includes </strong></p>
+<ul>
+  <li> Using Server-side Includes </li>
+  <li>Using Dynamic Server-side Includes </li>
+</ul>
+<p><strong> Unit 3: The Response Object </strong></p>
+<ul>
+  <li> What is the Response Object? </li>
+  <li>The Write Method </li>
+  <li>The Redirect Method </li>
+  <li>Controlling Output </li>
+</ul>
+<p><strong> Unit 4: The Request Object </strong></p>
+<ul>
+  <li> What is the Request Object? </li>
+  <li>The Form Collection </li>
+  <li>The QueryString Collection </li>
+  <li>The ServerVariables Collection </li>
+</ul>
+<p><strong> Unit 5: Cookies </strong></p>
+<ul>
+  <li> What are Cookies? </li>
+  <li>The Response.Cookies Collection </li>
+  <li>The Request.Cookies Collection </li>
+</ul>
+<p><strong> Unit 6: ASP Components, Part 1 </strong></p>
+<ul>
+  <li> What are ASP Components? </li>
+  <li>The Server Object </li>
+  <li>The AdRotator Component </li>
+</ul>
+<p><strong> Unit 7: ASP Components, Part 2 </strong></p>
+<ul>
+  <li> The Browser Capabilities Component </li>
+  <li>The Content Linking Component<strong></strong></li>
+</ul>
+<p><strong> Unit 8: Applications, Sessions, and the Global.asa </strong></p>
+<ul>
+  <li>What are ASP Applications and Sessions? </li>
+  <li>What is the Global.asa? </li>
+</ul>
+<p><strong> Unit 9: </strong> The Built-in Scripting </p>
+<ul>
+  <li>Objects </li>
+  <li>The FileSystemObject Object </li>
+  <li>The TextStream Object </li>
+</ul>
+<p><strong> Unit 10: ASP and the ADO Model </strong></p>
+<ul>
+  <li> ASP, Databases, and ADO </li>
+  <li>The Database Environment </li>
+  <li>Connecting to the Database </li>
+</ul>
+<p><strong> Unit 11: Viewing Database Records </strong></p>
+<ul>
+  <li> Working with Recordsets </li>
+  <li>Creating Combo Boxes and Option Groups </li>
+  <li>Filtering Records </li>
+</ul>
+<p><strong> Unit 12: Adding, Updating, and Deleting Records </strong></p>
+<ul>
+  <li> Adding Records to a Database </li>
+  <li>Updating Records in a Database </li>
+  <li>Deleting Records from a Database </li>
+</ul>
+<p><strong> Unit 13: Stored Procedures and Parameters </strong></p>
+<ul>
+  <li> Using Stored Procedures </li>
+  <li>The Command Object </li>
+  <li>Parameter Queries </li>
+</ul>
+<p><strong> Unit 14: Advanced Recordset Techniques </strong></p>
+<ul>
+  <li> Editing Records with a Data Browser </li>
+  <li>Paging Through a Recordset </li>
+</ul>

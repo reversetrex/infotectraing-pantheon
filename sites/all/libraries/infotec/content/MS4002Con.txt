@@ -1,0 +1,31 @@
+<p><strong> Unit 1: The Risks and Benefits of Forecasting Data </strong></p>
+<ul>
+  <li> What Is Data Forecasting? </li>
+  <li> The Business Needs for Data Forecasting </li>
+  <li> Summary of the Risks and Benefits of Data Forecasting</li>
+</ul>
+<p><strong> Unit 2: Creating Formula-Based Forecasts </strong></p>
+<ul>
+  <li> Three Formula-Based Forecasting Resources </li>
+  <li> Walkthrough: Creating Forecasts from Existing Data </li>
+  <li> Demonstration: Analyzing Data by Using Goal Seek </li>
+  <li> Exercise: Establishing Targets by Using Goal Seek</li>
+</ul>
+<p><strong> Unit 3: Forecasting Using Moving Averages </strong></p>
+<ul>
+  <li> What Is a Moving Average? </li>
+  <li> What Decisions Do Moving Averages Help Me Make? </li>
+  <li> Walkthrough 1: Calculating and Charting a Moving Average </li>
+  <li> Walkthrough 2: Creating an Interactive Chart </li>
+  <li> Tips and Tricks - Refining Moving Average Analysis<strong></strong></li>
+</ul>
+<p><strong> Unit 4: Maximizing Profit Potential </strong></p>
+<ul>
+  <li> Net Present Value and Internal Rate of Return </li>
+  <li> Walkthrough 1: Calculating Net Present Value </li>
+  <li> Walkthrough 2: Calculating Internal Rate of Return </li>
+  <li> Introduction to Solver </li>
+  <li> Walkthrough 3: Determining Optimal Project Mixes </li>
+  <li> Discussion: Best Practices for Defining Problems in Solver </li>
+  <li> Summarizing Data Forecasting Benefits </li>
+</ul>

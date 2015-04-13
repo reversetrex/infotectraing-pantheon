@@ -1,0 +1,10 @@
+<p> After completing this workshop, students will be able to: </p>
+<ul>
+  <li> Implement WSE 3.0 security and policy </li>
+  <li>Implement WSE 3.0 custom policy assertions </li>
+  <li>Handle large data transfer by using WSE 3.0 </li>
+  <li>Implement WSE 3.0 SOAP messaging </li>
+  <li>Implement SOAP headers and extensions </li>
+  <li>Implement WSE 3.0 routing </li>
+  <li>Optimize and protect Microsoft Message Queuing client and server applications </li>
+</ul>

@@ -1,0 +1,1 @@
+Students will learn the benefits of using ASP technology to create dynamic, data-driven Web sites. The course introduces the ASP Object Model, several built-in ASP Components, Scripting Objects, and the ActiveX Data Objects (ADO) Model.

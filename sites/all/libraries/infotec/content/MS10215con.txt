@@ -1,0 +1,108 @@
+<p><strong>Module 1: Evaluating and Planning for Virtualization</strong></p>
+<p>Describe virtualization as it relates to server, desktop, and application environments. Students also will  learn how to plan for critical decision points related to hardware  requirements, storage, availability, and security.</p>
+<ul>
+  <li>Overview  of Microsoft Virtualization</li>
+  <li>Overview  of Microsoft Virtualization</li>
+  <li>Evaluating  the Current Environment for Virtualization</li>
+  <li>Evaluating  the Current Environment for Virtualization</li>
+</ul>
+
+<p><strong>Module 2: Installing and Configuring the Hyper-V Server Role</strong></p>
+<p>After completing this module, you  will be able to install the Hyper-V server role, and configure host and virtual network settings.</p>
+<ul>
+  <li>Installing the Hyper-V Server Role</li>
+  <li>Configuring Hyper-V Settings and Virtual Networks</li>
+</ul>
+
+<p><strong>Module 3: Creating and Configuring Virtual Hard Disks and Virtual Machines</strong></p>
+<p>After completing this module, you  will be able to determine and configure the most appropriate virtual hard  disk(s) to use in a virtual machine. Students also will be able to create and  configure virtual machines.</p>
+<ul>
+  <li>Creating and Configuring Virtual Hard Disks</li>
+  <li>Managing Virtual Machine Snapshots</li>
+  <li>Working  with the Virtual Machine Connection Application</li>
+</ul>
+
+<p><strong>Module 4: Integrating System Center Virtual Machine Manager with Microsoft Hyper-V Server 2008 R2</strong></p>
+<p>After completing this module, students will be able to plan for, and deploy, System Center Virtual Machine Manager with their Hyper-V solution.</p>
+<ul>
+  <li>Planning  for Integration of System Center Virtual Machine Manager</li>
+  <li>Installing the VMM Server and Administrator Console</li>
+  <li>Managing Hosts and Host Groups</li>
+</ul>
+
+<p><strong>Module 5: Creating and Deploying Virtual Machines Using System Center Virtual Machine Manager 2008 R2</strong></p>
+<p>After completing this module, students will be able to use VMM 2008 R2 to create and deploy virtual machines.</p>
+<ul>
+  <li>Creating  a New Virtual Machine Using VMM 2008 R2</li>
+  <li>Converting  a Physical Server to a Virtual Machine</li>
+  <li>Converting  and Migrating Virtual Machines</li>
+</ul>
+
+<p><strong>Module 6:  Managing Virtual Machines Using Virtual Machine Manager 2008</strong></p>
+<p>This module explains how to perform  various management tasks on virtual machines stored within the VMM  infrastructure.</p>
+<ul>
+  <li>Overview  of VMM Management Tasks</li>
+  <li>Creating  and Managing Checkpoints</li>
+</ul>
+
+<p><strong>Module 7:  Configuring and Managing the VMM Library</strong></p>
+<p>This module explains how to configure and manage resources in the VMM Library.</p>
+<ul>
+  <li>Overview  of the VMM Library</li>
+  <li>Managing  Profiles and Templates</li>
+  <li>Designing  Fault Tolerance for the VMM Library</li>
+</ul>
+
+<p><strong>Module 8:  Configuring User Roles and the Virtual Machine Manager Self-Service Portal</strong></p>
+<p>This  module explains how to configure and manage user roles and the Virtual Machine  Manager Self-Service Portal.</p>
+<ul>
+  <li>Configuring User  Roles</li>
+  <li>Managing  Profiles and Templates</li>
+  <li>Installing  and Configuring the VMM Self-Service Portal</li>
+</ul>
+
+<p><strong>Module 9: Implementing High Availability for Server Virtualization</strong></p>
+<p>This  module explains how to configure high availability for server virtualization.</p>
+<ul>
+  <li>Overview  of Failover Clustering</li>
+  <li>Implementing  Failover Clustering with Hyper-V</li>
+  <li>Implementing  High Availability with VMM 2008 R2</li>
+</ul>
+
+<p><strong>Module 10: Maintaining Software Updates Using the Offline Virtual Machine Servicing Tool</strong></p>
+<p>This  module explains how to maintain software updates using the Offline Virtual Machine Servicing Tool.</p>
+<ul>
+  <li>Overview  of the Offline Virtual Machine Servicing Tool</li>
+  <li>Configuring  WSUS and the Offline Virtual Machine Servicing Tool</li>
+</ul>
+
+<p><strong>Module 11: Monitoring and Reporting Virtualization</strong></p>
+<p>This module explains how to use the  monitoring tools included with VMM 2008 and integrate System Center Operations  Manager to provide extended monitoring, reporting, and troubleshooting  capabilities.</p>
+<ul>
+  <li>Monitoring  Jobs in VMM 2008 R2</li>
+  <li>Integrating  System Center Operations Manager with VMM 2008 R2</li>
+  <li>Configuring  Performance and Resource Optimization</li>
+</ul>
+
+<p><strong>Module 12:  Backup and Restore Strategies for Virtual Machines</strong></p>
+<p>This module explains how to  configure and manage resources in the VMM Library.</p>
+<ul>
+  <li>Overview  of Backup and Restore Options for Virtual Machines and the VMM Database</li>
+  <li>Implementing  Data Protection Manager for Backing Up the VMM Infrastructure</li>
+</ul>
+
+<p><strong>Module 13: Desktop Virtualization Using Remote Desktop Services</strong></p>
+<p>This  module explains how to describe and implement the core role services included  in the Remote Desktop Services server Role.</p>
+<ul>
+  <li>Overview  of Remote Desktop Services</li>
+  <li>Implementing  the Remote Desktop Session Host</li>
+  <li>Implementing  Remote Desktop Connection Broker</li>
+  <li>Implementing  the Remote Desktop Connection Virtualization Host</li>
+</ul>
+
+<p><strong>Module 14: Extending Remote Desktop Services Outside the Organization</strong></p>
+<p>This module explains how to  implement and configure the Remote Desktop Gateway and Remote Desktop Web  Access.</p>
+<ul>
+  <li>Configuring  the Remote Desktop Gateway</li>
+  <li>Configuring Remote  Desktop Web Access</li>
+</ul>

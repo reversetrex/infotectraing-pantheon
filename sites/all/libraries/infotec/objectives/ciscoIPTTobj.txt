@@ -1,0 +1,7 @@
+<p> After completing this course, the student should be able to: </p>
+<p> Apply effective troubleshooting methods to resolve issues in complex IPT networks Troubleshoot common 
+Call Manager configuration, integration, and operation problems. Troubleshoot Cisco and Microsoft AVVID components 
+using the appropriate utilities and management tools. Troubleshoot common router, switch, and gateway configuration; 
+integration; and operation issues and problems in AVVID networks. Resolve QoS issues in complex IPT networks using 
+effective and appropriate troubleshooting and implementation methods. Troubleshoot common Unity configuration, 
+integration, and operation issues and problems. Employ Cisco TAC as a troubleshooting and escalation tool. </p>

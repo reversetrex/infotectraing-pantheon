@@ -1,0 +1,2 @@
+This 5-day instructor-led course introduces SQL Server 2012 and describes logical table design, indexing and query plans. It also focuses on the creation of database objects including views, stored procedures, along with parameters, and functions. Other common aspects of procedure coding, such as transactions, concurrency, error handling, triggers, and SQL CLR are also covered in this course. Also this course helps you prepare for the Exam 70-464.
+

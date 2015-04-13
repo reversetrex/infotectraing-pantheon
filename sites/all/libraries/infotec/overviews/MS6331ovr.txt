@@ -1,0 +1,1 @@
+<p>This three-day instructor-led course teaches students how to implement a Microsoft System Center Virtual Machine Manager V2 solution in an organization. The course also discusses how to install, configure, and deploy VMM.</p>

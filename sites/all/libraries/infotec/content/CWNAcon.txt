@@ -1,0 +1,113 @@
+<strong>Introduction to 802.11 WLANs </strong>
+<ul>
+  <li> Discuss the standards organizations responsible for shaping the 802.11 Wireless LAN protocol </li>
+  <li> Learn how standards compliance is enforced for 802.11 WLAN vendors </li>
+  <li> Examine the 802.11 standard and various amendments </li>
+  <li> Discuss additional networking standards that are commonly used to enhance 802.11 WLANs </li>
+</ul>
+<p><strong> Radio Frequency Fundamentals </strong></p>
+<ul>
+  <li> Physical aspects of RF propagation </li>
+  <li> Types of losses and attenuation that affect RF communications </li>
+  <li> Types of modulation used for wireless communications </li>
+  <li> How channels and bandwidth are related to each other in wireless networks </li>
+  <li> Three types of Spread Spectrum used in wireless networking </li>
+</ul>
+<p><strong> RF Math and System Operating Margin </strong></p>
+<ul>
+  <li> RF units of measure </li>
+  <li> Basic RF mathematics </li>
+  <li> RF signal measurements </li>
+  <li> Understand link budgets </li>
+  <li> Define and calculate System Operating Margin (SOM) </li>
+</ul>
+<p><strong> 802.11 Service Sets </strong></p>
+<ul>
+  <li> Explain three types of service sets defined for use within 802.11 WLANs </li>
+  <li> R oaming within a WLAN </li>
+  <li> Load-balancing as a method to improve congestion in WLANs </li>
+</ul>
+<p><strong> RF Power Output Regulations </strong></p>
+<ul>
+  <li> Understand international, regional, and local RF spectrum management organizations </li>
+  <li> Understand RF channels in the unlicensed 2.4 GHz and 5 GHz frequency ranges </li>
+  <li> How power output limitations are enforced by the FCC for Point-to-Multipoint (PtMP) and Point-to-Point (PtP) wireless connections </li>
+</ul>
+<p><strong> Power over Ethernet </strong></p>
+<ul>
+  <li> Recognize the two types of devices used in Power over Ethernet (PoE) </li>
+  <li> Recognize the differences between the two types of Power Sourcing Equipment (PSE) </li>
+  <li> Understand the two ways in which power can be delivered using PoE </li>
+  <li> Understand the importance of planning to maximize the efficiency of Power over Ethernet </li>
+</ul>
+<p><strong> Wireless LAN Operation </strong></p>
+<ul>
+  <li> Ad Hoc networks </li>
+  <li> Infrastructure networks </li>
+  <li> Bridged networks </li>
+  <li> Repeater networks </li>
+  <li> Mesh networks </li>
+  <li> WLAN switched networks </li>
+  <li> Enterprise Wireless Gateway networks </li>
+  <li> Enterprise Encryption Gateway networks </li>
+  <li> Virtual AP networks </li>
+  <li> Evolution of WLAN architectures </li>
+  <li> WLAN Management </li>
+</ul>
+<p><strong> WLAN Security </strong></p>
+<ul>
+  <li> Security Policy and Procedures </li>
+  <li> Legacy 802.11 Security Components </li>
+  <li> 802.11i Security Components </li>
+  <li> WPA-Personal </li>
+  <li> WPA-Enterprise </li>
+  <li> WPA2-Personal </li>
+  <li> WPA2-Enterprise </li>
+  <li> Baseline Security Practices (SOHO, SMB, Enterprise) </li>
+</ul>
+<p><strong> 802.11 Analysis and Troubleshooting </strong></p>
+<ul>
+  <li> Introduction to 802.11 Protocol Analysis </li>
+  <li> 802.11 Data Frames </li>
+  <li> 802.11 Control Frames </li>
+  <li> 802.11 Management Frames </li>
+  <li> Frame Fragmentation </li>
+  <li> Power Saving operations </li>
+  <li> Transmission Rates </li>
+</ul>
+<p><strong> Coordinating 802.11 Frame Transmissions </strong></p>
+<ul>
+  <li> Differences between CSMA/CD and CSMA/CA </li>
+  <li> Distributed Coordination Function (DCF) </li>
+  <li> Quality of Service in 802.11 WLANS </li>
+</ul>
+<p><strong> Antennas </strong></p>
+<ul>
+  <li> Antenna characteristics and behaviors </li>
+  <li> Types of antennas commonly used with WLANs </li>
+  <li> Advanced antenna systems </li>
+  <li> Antenna placement and mounting </li>
+  <li> Antenna safety </li>
+  <li> Types of antenna cables, connectors, and accessories </li>
+</ul>
+<p><strong> Site Surveying </strong></p>
+<ul>
+  <li> Understanding the need for a site survey </li>
+  <li> Defining business requirements and justification </li>
+  <li> Facility analysis </li>
+  <li> Interviewing network management and users </li>
+  <li> Identifying bandwidth requirements </li>
+  <li> Determining contours of RF coverage </li>
+  <li> Documenting installation problems </li>
+  <li> Locating interference </li>
+  <li> Reporting methodology and procedures </li>
+  <li> Understanding specifics of each vertical market </li>
+  <li> Understanding the customer's network topology </li>
+  <li> Creating appropriate documentation during and after the site survey </li>
+  <li> Understanding safety hazards </li>
+  <li> Using appropriate hardware and software to perform the survey </li>
+  <li> Understanding the need for spectrum analysis </li>
+  <li> Manual RF site surveys </li>
+  <li> Predictive site surveys </li>
+  <li> Dense AP deployment </li>
+</ul>

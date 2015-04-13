@@ -1,0 +1,43 @@
+<p><strong> Unit 1: Introduction to Microsoft Outlook</strong></p>
+<ul>
+  <li> Walkthrough: Panes and Views in Outlook </li>
+  <li> Walkthrough: Configuring the Navigation Pane </li>
+  <li> Discussion: Challenges to be Addressed </li>
+</ul>
+<p><strong> Unit 2: Effective Use of E-Mail</strong></p>
+<ul>
+  <li> Two Approaches for Two Kinds of Mail </li>
+  <li> E-Mail: Process, Then Take Action </li>
+  <li> Exercise 1: Creating an Effective Filing System </li>
+  <li> Exercise 2: How to Process E-Mail </li>
+  <li> Discussion: How to Process Task-Oriented E-Mail </li>
+</ul>
+<p><strong> Unit 3: Managing Your Calendar</strong></p>
+<ul>
+  <li> Keyboard Shortcuts in the Outlook Calendar </li>
+  <li> Walkthrough 1: Creating an Effective Appointment </li>
+  <li> Exercise 1: Cleaning Up Your Calendar </li>
+  <li> Walkthrough 2: Creating Appointments from E-Mail </li>
+  <li> Exercise 2: Using Labels and Customizing Labels </li>
+  <li> Discussion: A Well-Organized Calendar </li>
+</ul>
+<p><strong> Unit 4: Effective Use of Tasks</strong></p>
+<ul>
+  <li> How to Use Tasks </li>
+  <li> Walkthrough 1: Creating a Custom View </li>
+  <li> Exercise: Creating and Applying Categories </li>
+  <li> Dated vs. Undated Tasks </li>
+  <li> Walkthrough 2: Creating Tasks </li>
+  <li> Discussion: The Role of Tasks </li>
+</ul>
+<p><strong> Unit 5: Setting Up the Outlook Dashboard</strong></p>
+<p> Topics and Activities</p>
+<ul>
+  <li> Introduction to the Dashboard </li>
+  <li> Walkthrough: Creating the Dashboard </li>
+  <li> Exercise 1: Using the TaskPad </li>
+  <li> Exercise 2: Configuring the TaskPad </li>
+  <li> Discussion: Outlook as a Time Management Tool </li>
+</ul>
+<br>
+<p>&nbsp; </p>

@@ -1,0 +1,102 @@
+<p><strong>Module 1: Overview of the Windows 8.1 Platform and Windows Store Apps</strong></p>
+<blockquote>This module introduces you to the Windows 8.1 user experience and features, Windows Store apps, and the new user interface. Understanding how Windows Store apps look and operate is the key to understanding the principles that you will use to develop your own Windows Store apps. This will help you to develop apps that are more intuitive, compelling, and useful.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to the Windows 8.1 Platform</li>
+  <li>Windows 8 UI Principles</li>
+  <li>WinRT and Language Projections</li>
+</ul>
+<p><strong>Module 2: Single-Page Apps and the MVVM Design Pattern</strong></p>
+<blockquote>In this module, you will learn about the Model-View-ViewModel (MVVM) design pattern and the Single- Page Application (SPA) development concept. By using MVVM and SPA, you can create a great user experience in a maintainable and extensible app.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Single-Page Applications</li>
+  <li>The MVVM Design Pattern</li>
+</ul>
+<p><strong>Module 3: Using WinJS</strong></p>
+<blockquote>In this module, you will explore the WinJS library and some commonly used WinJS APIs. In particular, you will learn about the WinJS.Promise object and how to use it, the WinJS.Application namespace and the functionality it contains, and the WinJS.Utilities functions. Becoming familiar with all those APIs will help you to create reusable and robust apps for the Windows platform.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>The WinJS Library</li>
+  <li>WinJS APIs</li>
+</ul>
+<p><strong>Module 4: Implementing Layout Using Windows 8.1 Controls</strong></p>
+<blockquote>This module explains how to lay out content and controls on the screen, while remaining responsive to screen changes, such as orientation and size changes. The module introduces concepts such as WinJS templates and controls such as AppBar, Flyout, and Rating.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Windows 8.1 Layout Controls</li>
+  <li>Implementing WinJS Controls and Templates</li>
+  <li>The AppBar Control</li>
+  <li>Windowing Modes</li>
+</ul>
+<p><strong>Module 5: Presenting Data</strong></p>
+<blockquote>This module explains how to ensure that your app supports various devices and screen orientations.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Working with Data Presentation Controls</li>
+  <li>The ListView Control</li>
+</ul>
+<p><strong>Module 6: Implementing Tiles and User Notifications</strong></p>
+<blockquote>There is a variety of tile formats you can use to convey information, including pictures, text, and combination of both. You can also use badges to display numeric information or status glyphs on your tiles and update these badges by using notifications. Notifications are also covered in this module.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Implementing Tiles, Live Tiles, Secondary Tiles, and Badge Notifications</li>
+  <li>Implementing Toast Notifications</li>
+</ul>
+<p><strong>Module 7: Handling Files in Windows Store Apps</strong></p>
+<blockquote>In this module, you will learn how to use files, streams, and pickers so that the user can store and retrieve information managed by your app.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Handling Files and Streams in Windows Store Apps</li>
+  <li>Working with File User Interface Components</li>
+</ul>
+<p><strong>Module 8: Windows Store App Process Lifetime Management</strong></p>
+<blockquote>This module covers the app life cycle, app state management, and various app activation states. Understanding PLM is important for properly persisting data across suspensions, recovering from termination, and sharing settings between app installations on multiple devices.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Process Lifetime Management</li>
+  <li>Windows Store App Activation and Background Tasks</li>
+  <li>Implementing a State Management Strategy</li>
+</ul>
+<p><strong>Module 9: Designing and Implementing Navigation in a Windows StoreApp</strong></p>
+<blockquote>This module explores how to build richer and more interactive apps, and it does this by addressing the following questions:
+	<ul>
+    	<li>How do you implement navigation in Windows Store apps?</li>
+        <li>How can you give the user a set of rich pages that they can use in a way that captures the essence of fast and fluid?</li>
+    </ul>
+Page navigation is a fundamental part of many apps. This module explains how to implement basic navigation, how to pass parameters between pages, and how to handle navigation events. The module also describes the navigation stack.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Handling Navigation in Windows Store Apps</li>
+  <li>Semantic Zoom</li>
+</ul>
+<p><strong>Module 10: Implementing Windows 8.1 Contracts</strong></p>
+<blockquote>This module introduces contracts and charms. These are two powerful new Windows 8.1 features that help create a consistent and unified experience across Windows Store apps. By using contracts, you make it easier for users to search your app’s content, to discover and change common settings, and to share data with other apps.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Designing for Charms and Contracts</li>
+  <li>The Search Contract</li>
+  <li>The Share Contract</li>
+  <li>Managing App Settings and Preferences</li>
+</ul>
+<p><strong>Module 11: Designing and Implementing a Data Access Strategy</strong></p>
+<blockquote>This module describes the various data access strategies that you can use in app development, and it specifically focuses on the best practices for remote storage.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Evaluating Data Access Strategies</li>
+  <li>Working with Remote Data</li>
+</ul>
+<p><strong>Module 12: Responding to Mouse and Touch</strong></p>
+<blockquote>Windows Store apps must support mouse, keyboard, and most important of all, touch interactions. In this module, you will learn how to successfully include all three interaction types in your Windows Store apps.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Working with Mouse Events</li>
+  <li>Working with Gesture Events</li>
+</ul>
+<p><strong>Module 13: Planning for Windows Store App Deployment</strong></p>
+<blockquote>In this module you will learn what is involved in the process of preparing and submitting the app. This includes changes to the app manifest, passing app certification, meeting Windows Store app certification requirements, and by using Windows Store-related tools in Visual Studio 2013. Finally, you will learn how to submit apps to the Windows Store and a private enterprise store.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>The Windows Store App Manifest</li>
+  <li>Windows Store App Certification</li>
+</ul>

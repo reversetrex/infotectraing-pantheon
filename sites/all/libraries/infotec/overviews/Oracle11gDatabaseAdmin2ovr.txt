@@ -1,0 +1,12 @@
+<ul>
+  <li>Automatic database management, monitoring and tuning facilities. Included is automatic management of storage space and memory  resources within the database.</li>
+  <li>Using Oracle flashback technology to recover from user errors and from  database failures, including flashback data archive and flashback transaction backout along with the Total Recall capability.</li>
+  <li>Controlling resource utilization on database servers whose resource demand exceeds its capacity.</li>
+  <li>Automating launching routine maintenance tasks and even application functions  using the database Scheduler.</li>
+  <li>Handling database corruption.</li>
+  <li>Utilizing diagnostic sources in troubleshooting database problems and employing the Fault Diagnosability Infrastructure to capture fault data.</li>
+  <li>Automatic resumption of database operations even in the face of failures and errors.</li>
+  <li>User-managed and automatically managed backup strategies and database recovery operations.</li>
+  <li>Use advanced Enterprise Manager wizards and tools, including the integrated  LogMiner, Flasback Transaction Backout wizard, database Recovery Wizard, and others.</li>
+  <li>Automatic Storage Management (ASM) of some or all database files, providing a database-centric and optimized storage subsystem and volume manager.</li>
+</ul>

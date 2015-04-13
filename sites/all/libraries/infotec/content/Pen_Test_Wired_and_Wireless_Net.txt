@@ -1,0 +1,111 @@
+<h2>Session 1</h2>
+  <h3>Section A: Sniffers</h3>
+  <ul>
+    <li>Packet Sniffing</li>
+    <li>Wireshark</li>
+    <li>Following the TCP Stream</li>
+    <li>Additional Wireshark Features</li>
+    <li>Packetyzer</li>
+    <li>Command Line Protocol Analyzers</li>
+    <li>The OmniPeek Series</li>
+    <li>Cain &amp; Abel</li>
+    <li>Active Sniffing Methods</li>
+  </ul>
+  <h3>Section B: ARP Poisoning and Sniffing</h3>
+  <ul>
+    <li>Switch Table Flooding</li>
+    <li>ARP Cache Poisoning</li>
+    <li>ARP Normal Operation</li>
+    <li>Countermeasures</li>
+    <li>Cache Posioning Via Cain &amp; Abel</li>
+    <li>Ettercap</li>
+    <li>Dsniff Suite</li>
+  </ul>
+  <h3>Section C: DNS Spoofing and Breaking SSL</h3>
+  <ul>
+    <li>DNS Spoofing</li>
+    <li>Session Hijacking</li>
+    <li>Breaking SSL Traffic</li>
+    <li>Cain &amp; Abel Demo</li>
+    <li>Testing on Hotmail</li>
+    <li>Testing on Gmail</li>
+    <li>Testing on Salesforce</li>
+    <li>Testing on Mile2 Site</li>
+    <li>Ettercap in BackTrack</li>
+  </ul>
+  <h3>Section D: Evading Firewalls and IDS/IPS</h3>
+  <ul>
+    <li>Voice over IP</li>
+    <li>Intercepting VoIP</li>
+    <li>Intercepting RDP</li>
+    <li>Cracking RDP Encryption</li>
+    <li>Countermeasures for Sniffing</li>
+    <li>Evasive Techniques</li>
+    <li>Evasive Techniques Example</li>
+    <li>Evading With Encrypted Tunnel</li>
+    <li>Newer Firewall Capabilities</li>
+    <li>New Age Protection</li>
+    <li>Bastion Host</li>
+    <li>SpySnare</li>
+    <li>Intrusion Prevention</li>
+  </ul>
+  <h3>Section E: Wireless Technologies</h3>
+  <ul>
+    <li>Wireless Standards Comparison</li>
+    <li>Service Set Identifier</li>
+    <li>Wired Equivalent Privacy</li>
+    <li>Weak IV Packets</li>
+    <li>XOR Basics</li>
+    <li>WEP Weaknesses</li>
+    <li>WPA Improvements</li>
+    <li>TKIP</li>
+    <li>MIC Vulnerability</li>
+    <li>802.11i - WPA2</li>
+    <li>Connecting to a Wireless Network</li>
+    <li>LEAP</li>
+  </ul>
+  <h3>Section F: War Driving and Auditing Tools</h3>
+  <ul>
+    <li>NetStumbler</li>
+    <li>War Driving with KNSGEM</li>
+    <li>Vistumbler</li>
+    <li>Network Stumbler</li>
+    <li>Separate by SSID</li>
+    <li>Deriving Global Positioning</li>
+    <li>Generating Reports in Google Earth</li>
+    <li>Viewing Reports in Google Earth</li>
+    <li>Stockholm_C</li>
+    <li>Vistumbler Demo</li>
+    <li>Kismet</li>
+    <li>OmniPeek Personal</li>
+    <li>OmniPeek Personal Demo</li>
+  </ul>
+  <h3>Section G: Breaking WEP and WPA</h3>
+  <ul>
+    <li>Aircrack-ng Suite</li>
+    <li>Aireplay</li>
+    <li>Disassociate Attacks</li>
+    <li>Aircrack</li>
+    <li>Attacking WEP</li>
+    <li>Attacking WPA</li>
+    <li>coWPAtty</li>
+    <li>Exploiting Cisco LEAP</li>
+  </ul>
+  <h3>Section H: Tools in Action</h3>
+  <ul>
+    <li>Tool Examples</li>
+    <li>Aircrack-ng GUI</li>
+    <li>BackTrack</li>
+    <li>Kismet-Konsole</li>
+  </ul>
+  <h3>Section I: Other Tools and New Age Protection</h3>
+  <ul>
+    <li>WifiZoo</li>
+    <li>wesside-ng</li>
+    <li>Wirelessdefence.org</li>
+    <li>Aruba</li>
+    <li>Detection and Prevention</li>
+    <li>EAP</li>
+    <li>EAP-TLS Deployment</li>
+    <li>Wireless Intrusion Detection Systems</li>
+  </ul>

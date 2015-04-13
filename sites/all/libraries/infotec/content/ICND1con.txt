@@ -1,0 +1,6 @@
+<p><strong>Module 1</strong>      - Building a Simple Network </p>
+<p><strong>Module 2</strong>      - Ethernet Local Area Networks </p>
+<p><strong>Module 3</strong>      - Wireless Local Area Networks </p>
+<p><strong>Module 4</strong>      - Exploring the Functions of Routing </p>
+<p><strong>Module 5</strong>      - Wide Area Networks </p>
+<p><strong>Module 6</strong>      - Network Environment Management</p>

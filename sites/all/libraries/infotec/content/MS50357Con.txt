@@ -1,0 +1,65 @@
+<p><strong>Forefront Threat Management Gateway (TMG) 2010 Overview</strong></p>
+<ul>
+  <li>Introduction to Forefront TMG</li>
+  <li>Installation and Initial Setup</li>
+  <li>Basic Configuration Concepts</li>
+</ul>
+<p><strong>Secure Web Gateway</strong></p>
+<ul>
+  <li>Secure Web  Gateway Overview</li>
+  <li>HTTPS  Inspection</li>
+  <li>URL Filtering</li>
+  <li>Malware Protection</li>
+  <li>Intrusion Prevention</li>
+</ul>
+<p><strong>Remote Access Gateway</strong></p>
+<ul>
+  <li>Remote Access Gateway Overview</li>
+  <li>Non-HTTP Server Publishing</li>
+  <li>Web Publishing</li>
+  <li>Virtual Private Networking (VPN) Connectivity</li>
+</ul>
+<p><strong>Secure Mail Relay</strong></p>
+<ul>
+  <li>Secure Mail Relay Overview</li>
+  <li>Solution Components</li>
+  <li>Configuring SMTP Protection</li>
+</ul>
+<p><strong>Forefront TMG 2010 Design and Deployment Considerations</strong></p>
+<ul>
+  <li>Logical Design Considerations</li>
+  <li>Scalability and Availability</li>
+  <li>Client Configuration</li>
+  <li>Migration Options</li>
+</ul>
+<p><strong>Labs</strong></p>
+<ul>
+  <li>Lab 1: Installing Forefront Threat Management Gateway 2010
+    <ul>
+      <li>Install Forefront TMG on a Windows Server 2008 R2 server</li>
+      <li>Perform an initial configuration of Forefront TMG using the Getting</li>
+      <li>Started wizards</li>
+    </ul>
+  </li>
+  <li>Lab 2: Secure Web Gateway
+    <ul>
+      <li>Create web access policies for Contoso users, including inspection of HTTPS sessions</li>
+      <li>Modify web access policy to include protection from malware</li>
+      <li>Investigate the Network Inspection System (NIS)</li>
+    </ul>
+  </li>
+  <li>Lab 3: Remote Access Gateway
+    <ul>
+      <li>Use Web Publishing to publish Exchange Web Services</li>
+    </ul>
+  </li>
+  <li>Lab 4: Secure Mail Relay
+    <ul>
+      <li>Install Active Directory LDS and Exchange Edge Server</li>
+      <li>Install Forefront Protection 2010 for Exchange Server</li>
+      <li>Install Forefront Threat Management Gateway</li>
+      <li>Configure Exchange EdgeSync</li>
+      <li>Define an E-mail Policy</li>
+    </ul>
+  </li>
+</ul>

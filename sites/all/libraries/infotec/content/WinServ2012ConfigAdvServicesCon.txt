@@ -1,0 +1,265 @@
+  <h2>Session 1</h2>
+    <h3>Section A: Windows Server 412</h3>
+    <ul>
+      <li>70-412 Project</li>
+      <li>Network Load Balancing</li>
+      <li>Prerequisites for NLB</li>
+      <li>Install NLB</li>
+      <li>Cluster Configuration</li>
+      <li>Unicast vs. Multicast vs. IGMP</li>
+      <li>Multicast</li>
+      <li>Port Rules and Affinity</li>
+      <li>Cluster Operation Mode</li>
+      <li>Upgrade an NLB Cluster</li>
+    </ul>
+    <h3>Section B: Failover Clustering</h3>
+    <ul>
+      <li>Configure Failover Clustering</li>
+      <li>First Steps</li>
+      <li>iSCSI Target</li>
+      <li>iSCSI Virtual Disk Wizard</li>
+      <li>Add Initiator</li>
+      <li>Assign iSCSI</li>
+      <li>iSCSI Initiator</li>
+      <li>Virtual Disks Online</li>
+      <li>Configure Quorum</li>
+      <li>Cluster Networking</li>
+      <li>Cluster Configuration</li>
+      <li>Create Cluster</li>
+      <li>Single Node</li>
+      <li>Cluster Quorum</li>
+      <li>Configure Cluster Networks</li>
+      <li>More Failover Cluster Configuration</li>
+      <li>Cluster-Aware Updating</li>
+      <li>Upgrade a Cluster</li>
+      <li>Clustered Shared Volumes</li>
+      <li>Cluster without Network Names</li>
+      <li>Storage Spaces</li>
+    </ul>
+    <h3>Section C: Failover Clustering Roles</h3>
+    <ul>
+      <li>Manage Failover Clustering Roles</li>
+      <li>High Availability File Sharing</li>
+      <li>Add File Share to Role</li>
+      <li>Virtual Machine Monitoring</li>
+      <li>Failover and Preference Settings</li>
+      <li>Guest Clustering</li>
+    </ul>
+    <h3>Section D: Virtual Machine Movement</h3>
+    <ul>
+      <li>Manage VM Movement</li>
+      <li>Prerequisites for Handling VM Movement</li>
+      <li>Migration Types</li>
+      <li>Copy, Import, Export</li>
+      <li>Migrate from other Platforms</li>
+      <li>Pass-Through Disk</li>
+      <li>VM Network Health Protection</li>
+      <li>Drain on Shutdown</li>
+    </ul>
+  <h2>Session 2</h2>
+    <h3>Section A: Advanced File Services</h3>
+    <ul>
+      <li>File and Storage Solutions</li>
+      <li>NFS Data Storage</li>
+      <li>BranchCache</li>
+      <li>Group Policy Update</li>
+      <li>FCI Using FSRM</li>
+      <li>Run Classification Report</li>
+      <li>File Access Auditing</li>
+      <li>GP Results</li>
+    </ul>
+    <h3>Section B: Dynamic Access Control</h3>
+    <ul>
+      <li>Implement DAC</li>
+      <li>Set Up Attributes</li>
+      <li>Create and Use Claim Type</li>
+      <li>Create Device Claim Type</li>
+      <li>Resource Properties, List</li>
+      <li>File Classification</li>
+      <li>Classification Rule</li>
+      <li>Check File Classification</li>
+      <li>Central Access Rules</li>
+      <li>Central Access Policies</li>
+      <li>Apply Central Access Policies</li>
+      <li>Actual Steps for DAC</li>
+      <li>Perform Access- Denied Remediation</li>
+      <li>Implement Policy Changes</li>
+    </ul>
+    <h3>Section C: Optimize Storage</h3>
+    <ul>
+      <li>Configure and Optimize Storage</li>
+      <li>Internet Storage Name Server</li>
+      <li>Thin Provisioning</li>
+      <li>Features and Demand</li>
+      <li>Tiered Storage</li>
+      <li>Configure and Manage Backups</li>
+      <li>Windows Server Backup</li>
+      <li>Windows Online Backup</li>
+      <li>Role Specific Backup</li>
+      <li>Backup Once Wizard</li>
+      <li>VSS Settings Using a VSS Administration</li>
+      <li>Recover Server</li>
+      <li>Types of Recoveries</li>
+      <li>Restore from Backup</li>
+      <li>Boot into Recovery Environment</li>
+      <li>Boot Configuration</li>
+    </ul>
+    <h3>Section D: Site Level Fault Tolerance</h3>
+    <ul>
+      <li>Configure Site Level Fault Tolerance</li>
+      <li>Hyper-V Replica Including Broker and VM</li>
+      <li>Multi-Site Clustering</li>
+      <li>Hyper-V Replica Extended Replication</li>
+      <li>Global Update Manager</li>
+      <li>Multi-Site Failover Cluster</li>
+    </ul>
+  <h2>Session 3</h2>
+    <h3>Section A: Dynamic Host Configuration Protocol</h3>
+    <ul>
+      <li>Advanced DHCP Solution</li>
+      <li>DHCP Scopes</li>
+      <li>Create Superscope</li>
+      <li>Create Multicast Scope</li>
+      <li>Create a Split Scope</li>
+      <li>High Availability DHCP Failover</li>
+      <li>High Availability Split Scope</li>
+      <li>DHCP v6</li>
+      <li>Name Protection</li>
+      <li>DNS Registration</li>
+    </ul>
+    <h3>Section B: Advanced DNS Solution</h3>
+    <ul>
+      <li>Implement an Advanced DNS Solution</li>
+      <li>DNS Security</li>
+      <li>DNSSEC, Socket Pool, Cache Lock</li>
+      <li>Turn on DNS Security</li>
+      <li>Size of Socket Pool, Server Cache</li>
+      <li>DNS Log Files</li>
+      <li>Event Planner</li>
+      <li>Delegated Administration</li>
+      <li>Recursion and Netmask Ordering</li>
+      <li>Apply, Disable Recursion, Netmask</li>
+      <li>GlobalNames Zone</li>
+      <li>Set Up a GlobalNames Zone</li>
+      <li>Analyze Zone Level Statistics</li>
+    </ul>
+    <h3>Section C: Deploy and Manage IPAM</h3>
+    <ul>
+      <li>What is IPAM?</li>
+      <li>Provision IPAM Server, Group Policy</li>
+      <li>Invoke IPAM GPO Provisioning</li>
+      <li>Server Discovery</li>
+      <li>Security Group</li>
+      <li>Security Filtering</li>
+      <li>Start Server Discovery</li>
+      <li>IP Address Blocks</li>
+      <li>IP Address Range</li>
+      <li>Utilization of IP Address Space</li>
+      <li>Migrate to IPAM</li>
+      <li>IPAM Administration</li>
+      <li>IPAM Collections</li>
+      <li>IPAM Database Storage</li>
+    </ul>
+  <h2>Session 4</h2>
+    <h3>Section A: Forest or Domain</h3>
+    <ul>
+      <li>Configure a Domain and a Forest</li>
+      <li>New Domain Structure</li>
+      <li>Child Domain to an Existing Forest</li>
+      <li>Tree Domain to an Existing Forest</li>
+      <li>Create a New Forest</li>
+      <li>Add a New Forest</li>
+      <li>Upgrading Domains and Forests</li>
+      <li>Upgrade AD from 2008 to 2012</li>
+      <li>User Principal Name Suffixes</li>
+    </ul>
+    <h3>Section B: Trusts</h3>
+    <ul>
+      <li>Configure Trusts</li>
+      <li>Types of Trusts</li>
+      <li>Trust Directions</li>
+      <li>Stub Zone</li>
+      <li>Create Forest Trusts</li>
+      <li>Trust Authentication</li>
+      <li>Outgoing Trust</li>
+      <li>Joint Marketing Group</li>
+      <li>Forest-Wide to Selective</li>
+      <li>SID Filtering</li>
+      <li>Name Suffix Routing</li>
+    </ul>
+    <h3>Section C: Sites</h3>
+    <ul>
+      <li>Configure Sites</li>
+      <li>What is a Site?</li>
+      <li>Create Sites</li>
+      <li>Create Subnets</li>
+      <li>Review Sites</li>
+      <li>Site Links</li>
+      <li>Create Site Links</li>
+      <li>Site Coverage</li>
+      <li>Move Domain Controllers between Sites</li>
+      <li>Registration of SRV Records</li>
+    </ul>
+    <h3>Section D: Active Recovery</h3>
+    <ul>
+      <li>Manage AD and SYSVOL Replication</li>
+      <li>How Does Replication Happen?</li>
+      <li>Replication to RODCs</li>
+      <li>Password Replication Policies for RODCs</li>
+      <li>Prepopulate Passwords</li>
+      <li>Monitor and Manage Replication</li>
+      <li>Upgrading SYSVOL Replication</li>
+    </ul>
+  <h2>Session 5</h2>
+    <h3>Section A: AD FS</h3>
+    <ul>
+      <li>Implement AD FS</li>
+      <li>What is AD FS?</li>
+      <li>Install AD FS</li>
+      <li>Implement Claims-Based Authentication</li>
+      <li>Configure Claims Provider Trust Rules</li>
+      <li>Attribute Stores Including AD LDS</li>
+      <li>Attribute Editor</li>
+      <li>Manage AD FS Certificates</li>
+      <li>Configure AD FS Proxy</li>
+      <li>Integrate with Cloud Services</li>
+      <li>Authentication Policies</li>
+      <li>Workplace Join</li>
+      <li>Multi-Factor Authentication</li>
+    </ul>
+    <h3>Section B: AD CS</h3>
+    <ul>
+      <li>Active Directory Certificate Services</li>
+      <li>Install Enterprise Certificate Authority</li>
+      <li>CRL</li>
+      <li>AD CS Configuration</li>
+      <li>CRL Distribution Points</li>
+      <li>Certificate Templates</li>
+      <li>Install Online Responder</li>
+      <li>Configure Online Responder</li>
+      <li>Administrative Role Separation</li>
+      <li>CA Backup and Recovery</li>
+      <li>Issue Recovery Services</li>
+    </ul>
+    <h3>Section C: Certificates</h3>
+    <ul>
+      <li>Manage Certificates</li>
+      <li>Certificate Templates</li>
+      <li>Certificate Deployment,Validation, Renew</li>
+      <li>Enrollment, Renewal Using Group Policies</li>
+      <li>Key Archival and Recovery</li>
+    </ul>
+    <h3>Section D: Rights Management Services</h3>
+    <ul>
+      <li>Install and Configure AD RMS</li>
+      <li>AD RMS</li>
+      <li>Install Licensing or Certificate Server</li>
+      <li>AD RMS Connection Point</li>
+      <li>AD RMS Client Deployment</li>
+      <li>Trusted User Domains</li>
+      <li>Trusted Publishing Domains</li>
+      <li>Federated Identity Support</li>
+      <li>RMS Templates</li>
+      <li>Exclusion Policies</li>
+      <li>Back Up and Restore AD RMS</li>
+    </ul>

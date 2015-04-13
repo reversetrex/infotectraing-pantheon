@@ -1,0 +1,78 @@
+<p><strong> Unit 1: Designing a Business Network Solution </strong></p>
+<ul>
+  <li> This Unit describes the requirements for designing a network solution for a small or medium-sized business </li>
+  <li>Overview of a Windows Small Business Server Network </li>
+  <li>Performing a Needs Assessment </li>
+  <li>Selecting a Network Solution </li>
+  <li>Developing an Implementation Plan </li>
+</ul>
+<p><strong> Unit 2: Installing and Upgrading to Windows Small Business Server 2003 </strong></p>
+<ul>
+  <li> This Unit provides you with the knowledge and skills necessary to install and upgrade to Windows Small Business Server 2003. </li>
+  <li>Installing Windows Small Business Server 2003 </li>
+  <li>Upgrading to Windows Small Business Server 2003 </li>
+  <li>Securing Windows Small Business Server 2003 </li>
+</ul>
+<p><strong> Unit 3: Configuring Small Business Server 2003 </strong></p>
+<ul>
+  <li> Connecting to the Internet </li>
+  <li>Configuring Remote Access </li>
+  <li>Activating Your Server and Adding Client Licenses </li>
+  <li>Adding a Printer and Configuring a Fax </li>
+  <li>Adding Users and Computers </li>
+</ul>
+<p><strong> Unit 4: Managing Messaging and Collaboration in Small Business Server 2003 </strong></p>
+<ul>
+  <li> This Unit discusses how to access internal and external e-mail messages. </li>
+  <li>This Unit also discusses how to collaborate with other users by using </li>
+  <li>Microsoft Windows SharePoint Units </li>
+  <li>Managing Messaging in Windows Small Business Server 2003 </li>
+  <li>Configuring Outlook Web Access </li>
+  <li>Configuring Windows SharePoint Services </li>
+</ul>
+<p><strong> Unit 5: Managing and Monitoring Windows Small Business Server 2003 </strong></p>
+<ul>
+  <li> This Unit discusses how to manage, monitor, and troubleshoot a Windows </li>
+  <li>Small Business Server network. </li>
+  <li>Managing Client Computers </li>
+  <li>Managing Users and Groups </li>
+  <li>Managing Remote Web Workplace </li>
+  <li>Configuring Monitoring and Alerts </li>
+  <li>Protecting Against Data Loss </li>
+  <li>Identifying Troubleshooting Tools </li>
+</ul>
+<p><strong> Unit 6: Installing or Upgrading to Windows Server 2003 </strong></p>
+<ul>
+  <li> This Unit explains the procedures for installing Windows Server 2003, </li>
+  <li>Standard Edition, completing the installation process by performing initial configuration tasks, and upgrading from Microsoft Windows 2000 to </li>
+  <li>Windows Server 2003, Standard Edition. </li>
+  <li>Installing Windows Server 2003, Standard Edition </li>
+  <li>Upgrading to Windows Server 2003, Standard Edition </li>
+</ul>
+<p><strong> Unit 7: Configuring Windows Server 2003 </strong></p>
+<ul>
+  <li> This Unit discusses how Windows Server 2003, Standard Edition, provides options that you can use to customize the Windows 2003 environment and ensure that the server operates correctly. Understanding the available options and how to configure them will help you configure a Windows Server 2003 environment that meets the requirements of your organization. </li>
+  <li>Configuring File and Print Servers </li>
+  <li>Promoting a Windows Server 2003, Standard Edition to a Domain Controller </li>
+  <li>Creating and Configuring User Accounts, Groups, and Computer </li>
+</ul>
+<p><strong> Unit 8: Securing a Windows Server 2003 </strong></p>
+<ul>
+  <li> This Unit explains how to secure Windows Server 2003, Standard Edition, by configuring and securing the server for Internet access; securing file, folder, and printer objects; and helping secure the server from viruses. </li>
+  <li>Configuring Internet Access by Using NAT </li>
+  <li>Multimedia: Overview of Remote Access </li>
+  <li>Configuring a VPN Connection </li>
+  <li>Securing Internet Access </li>
+  <li>Multimedia: Overview of IPSec </li>
+  <li>Issues to Consider When Securing File, Folder, and Printer Objects </li>
+  <li>Providing Virus Protection </li>
+</ul>
+<p><strong> Unit 9: Managing Windows Server 2003 </strong></p>
+<ul>
+  <li>This Unit explains how to manage Windows Server 2003, Standard Edition, by delegating administration, managing user environments with GPOs, monitoring server and client computer performance, performing management tasks from a remote location, protecting against data loss, and identifying troubleshooting tools that can assist you in resolving potential problems. </li>
+  <li>Delegating Administration </li>
+  <li>Managing User Environments with Group Policy Objects </li>
+  <li>Monitoring Server and Client Computer Performance </li>
+  <li>Managing Windows Server 2003, Standard Edition from a Remote Location </li>
+  <li>Protecting Against Data Loss </li>
+</ul>

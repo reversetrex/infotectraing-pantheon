@@ -1,0 +1,8 @@
+<p>Upon completing this course, you will be able to meet these overall objectives:</p>
+<ul>
+  <li>Describe the Cisco Unified Fabric products in a Cisco Data Center network architecture</li>
+  <li>Select and configure the distinctive Cisco Nexus Series Switch features to meet the implementation requirements and expectations in the Cisco Data Center Architecture</li>
+  <li>Configure advanced features such as OTV, MPLS, LISP, security, and Quality of Service (QoS)</li>
+  <li>Identify which management tools are available for the Cisco Nexus Switches and how to configure the relevant management tool to support the given design</li>
+  <li>Understand the Fibre Channel protocol, the FCoE protocol, and the Data Center Bridging (DCB) enhancements, as well as how to configure FCoE on the Cisco Nexus 5000, 5500, 7000 and MDS Switches</li>
+</ul>

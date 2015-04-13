@@ -1,0 +1,6 @@
+<p><strong> Unit 1: Security Enhancements</strong></p>
+<p> This Unit provides an overview of security features in Windows Vista. Many of the changes in Windows Vista have been made to prevent user-initiated security problems and unknown future attacks. The focus of this Unit is new security features. </p>
+<p><strong> Unit 2: User Productivity Enhancements in Windows Vista</strong></p>
+<p> Windows Vista provides a number of new features that make Windows easier to use and that increase productivity. The Unit provides an overview of the new features in Windows Vista that are seen and configured by users. IT Professionals must be aware of these features to help and to educate their users. </p>
+<p><strong> Unit 3: Monitoring and Managing Windows Vista</strong></p>
+<p>For most organizations, the cost of software management is far greater than software acquisition. Windows Vista includes new monitoring and management features to reduce the total cost of ownership for computers. This Unit provides an overview of the monitoring and management features of Windows Vista.<strong></strong></p>

@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Examine the concepts and technology behind Flash 8. You will also save and manage workspace layouts, work with panels, and set initial movie characteristics using the Property Inspector.</li>
+  <li>Use Flash 8’s basic drawing and painting tools, modify the outline and fill properties of objects, and create custom color swatches, gradients, and line styles.</li>
+  <li>Select objects using the selection tools. You will experiment with line and shape interaction, and use the options in Flash 8 to transform and group objects. You will also import a bitmap image into a Flash 8 document and convert it to a vector image.</li>
+  <li>Create text blocks and convert them into shapes.</li>
+  <li>Work with Flash 8 movies that contain multiple layers. You will edit and manipulate the movies and create a visual effect using mask layers. You will also work with the Align panel to quickly arrange objects on multiple layers.</li>
+  <li>Work with different types of animations. You will create frame-by-frame, shape-tween, and motion-tween animations. You will also add a motion guide layer to improve the look of motion-tween animations.</li>
+  <li>Prepare a Flash 8 movie for publishing on the web.</li>
+</ul>

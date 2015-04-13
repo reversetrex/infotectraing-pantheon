@@ -1,0 +1,41 @@
+<p>After  completing this course, students will be able to:</p>
+<ul>
+	<li>Describe server, desktop, and application virtualization.</li>
+    <li>Describe how you use Microsoft System Center is to manage the virtual infrastructure.</li>
+    <li>Evaluate a network environment for server virtualization.</li>
+    <li>Plan for the implementation of the Hyper-V server role.</li>
+    <li>Install the Hyper-V Server Role.</li>
+    <li>Manage Hyper-V settings and virtual networks.</li>
+    <li>Create and configure virtual machines.</li>
+    <li>Manage virtual machine snapshots.</li>
+    <li>Managing and maintaining the Virtual Machine Connection Tool.</li>
+    <li>Create and configure virtual machines.</li>
+    <li>Manage virtual machine snapshots.</li>
+    <li>Managing and maintaining the Virtual Machine Connection Tool.</li>
+    <li>Create a new virtual machine using SCVMM 2008 R2.</li>
+    <li>Convert a physical server to a  virtual machine.</li>
+    <li>Convert and migrate virtual machines.</li>
+    <li>Clone virtual  machines.</li>
+    <li>Describe common management tasks and  property configuration settings for virtual machines managed by VMM 2008.</li>
+    <li>Describe when and how to use virtual  machine checkpoints.</li>
+    <li>Manage profiles and templates.</li>
+    <li>Design fault tolerance for the VMM library.</li>
+    <li>Configure VMM user roles.</li>
+    <li>Install and configure the VMM Self-Service Portal.</li>
+    <li>Describe the Windows Server 2008 R2 Failover Cluster feature.</li>
+    <li>Implement failover clustering with  Hyper-V and VMM 2008 R2.</li>
+    <li>Describe how to use the Offline Virtual Machine Servicing Tool to maintain updates for virtual machines.</li>
+    <li>Configure Windows Server Update Services (WSUS) and the Offline Virtual  Machine Servicing Tool.</li>
+    <li>Monitor and manage jobs in VMM 2008  R2s.</li>
+    <li>Configure System Center Operations Manager integration.</li>
+    <li>Configure Performance and Resource Optimization (PRO).</li>
+    <li>Describe backup and restore options for virtual machines and the VMM database.</li>
+    <li>Implement Data Protection Manager for backing up the VMM infrastructure.</li>
+    <li>Understand the use and role of  Remote Desktop Services (RDS).</li>
+    <li>Implement the Remote Desktop Session Host.</li>
+    <li>Implement the Remote Desktop Connection Broker.</li>
+    <li>Implement the Remote Desktop Virtualization Host.</li>
+    <li>Configure the Remote Desktop Gateway.</li>
+    <li>Configure Remote Desktop Web Access.</li>
+    <li>Configure Remote  Desktop Licensing.</li>
+</ul>

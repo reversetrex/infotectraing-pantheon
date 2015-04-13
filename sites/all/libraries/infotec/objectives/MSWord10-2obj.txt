@@ -1,0 +1,13 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Manage lists.</li>
+  <li>Customize tables and charts.</li>
+  <li>Customize the formatting of a document using styles and themes.</li>
+  <li>Modify pictures in a document.</li>
+  <li>Create customized graphic elements.</li>
+  <li>Insert content using Quick Parts.</li>
+  <li>Control text flow.</li>
+  <li>Use templates to automate document creation.</li>
+  <li>Use the mail merge function.</li>
+  <li>Use macros to automate  common tasks.</li>
+</ul>

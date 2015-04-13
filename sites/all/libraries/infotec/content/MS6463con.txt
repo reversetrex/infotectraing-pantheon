@@ -1,0 +1,107 @@
+<strong>Module 1: Getting Started  with ASP.NET 3.5</strong>
+<p>This module explains how to  build and configure a simple ASP.NET application.</p>
+<ol>
+  <li>Building Dynamic Web Pages with ASP.NET 3.5</li>
+  <li>ASP.NET 3.5 Features</li>
+  <li>Configuring ASP.NET Applications</li>
+</ol>
+<strong>Lab: Creating and  Configuring an ASP.NET 3.5 Application</strong>
+<ol>
+  <li>Creating an ASP.NET Application</li>
+  <li>Configuring Session State</li>
+  <li>Configuring Caching</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Explain how to create dynamic Web pages by using ASP.NET.</li>
+  <li>Manage state, handle requests, and improve accessibility by using the features of ASP.NET.</li>
+  <li>Configure an ASP.NET application by using .config files</li>
+</ol>
+
+<strong>Module 2: Implementing a  User Interface with ASP.NET Server Controls</strong>
+<p>This module explains how to  implement a dynamic user interface by using ASP.NET controls.</p>
+<ol>
+  <li>Consuming Controls to Interact with Users</li>
+  <li>Creating Custom Controls</li>
+</ol>
+<strong>Lab: Consuming and Creating  ASP.NET Server Controls</strong>
+<ol>
+  <li>Creating a User Interface by Using Web Server Controls in an ASP.NET Form</li>
+  <li>Creating User Controls and Custom Server Controls</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Create a user interface on an ASP.NET page by using standard Web server controls.</li>
+  <li>Create a user control and a custom server control and add them to an ASP.NET page.</li>
+</ol>
+
+<strong>Module 3: Displaying and  Manipulating Data in ASP.NET 3.5</strong>
+<p>This module explains how to  display and manipulate data from any source in an ASP.NET application.</p>
+<ol>
+  <li>Accessing Data by Using ADO.NET 3.5</li>
+  <li>Accessing Data from Services</li>
+  <li>Rendering Data in Web Controls</li>
+</ol>
+<strong>Lab: Displaying and  Manipulating Data in ASP.NET 3.5</strong>
+<ol>
+  <li>Accessing Data from an XML File as a Data Source</li>
+  <li>Consuming Data from a Web Service</li>
+  <li>Displaying and Updating Data by Using Data-Bound Controls</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Access and manipulate data from different sources by using ADO.NET 3.5.</li>
+  <li>Access and manipulate data from Windows Communication Foundation services or Web services.</li>
+  <li>Present data to the user by placing data-bound controls on an ASP.NET page.</li>
+</ol>
+
+<strong>Module 4: Creating  Responsive Pages by Using Client-Side Technologies</strong>
+<p>This module explains how to  create pages that respond rapidly to user requests.</p>
+<ol>
+  <li>Creating Partial Page Updates by Using AJAX</li>
+  <li>Scripting Actions on the Web Client</li>
+</ol>
+<strong>Lab: Creating Responsive  Pages by Using Client-Side Technologies</strong>
+<ol>
+  <li>Implementing Partial Page Updates by Using AJAX Controls</li>
+  <li>Accessing a Web Service by Using a Client-Side Script</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Improve page responsiveness by using the ASP.NET AJAX controls.</li>
+  <li>Interact with the user, access services, and access the AJAX client-side library by using client scripts.</li>
+</ol>
+
+<strong>Module 5: Debugging and  Deploying ASP.NET Applications</strong>
+<p>This module explains how to  deploy a reliable, robust Web application to a Web server.</p>
+<ol>
+  <li>Troubleshooting and Debugging ASP.NET Applications</li>
+  <li>Deploying Completed ASP.NET Applications</li>
+</ol>
+<strong>Lab: Debugging and  Deploying ASP.NET Applications</strong>
+<ol>
+  <li>Debugging an ASP.NET Application</li>
+  <li>Deloying an ASP.NET Application</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Find and eliminate bugs in an ASP.NET application.</li>
+  <li>Deploy an ASP.NET application to a production Web server.</li>
+</ol>
+
+<strong>Module 6: Writing ASP.NET Applications for Mobile Devices</strong>
+<p>This module explains how to  ensure that mobile device users can access all the functionality of a Web site.</p>
+<ol>
+  <li>Rendering Pages According to Device Capabilities</li>
+  <li>Creating Pages with Mobile Web Controls</li>
+</ol>
+<strong>Lab: Adding Support for  Mobile Devices</strong>
+<ol>
+  <li>Adding a Mobile Web Form to Your Application</li>
+  <li>Displaying Data by Using Mobile Web Controls</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Write pages that adapt to the capabilities of mobile devices.</li>
+  <li>Utilize controls that adapt to the capabilities of mobile devices.</li>
+</ol>

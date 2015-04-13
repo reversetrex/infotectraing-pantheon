@@ -1,0 +1,13 @@
+<p><strong>After completing this course, students will be  able to:</strong></p>
+<ul>
+  <li>Evaluate benefits of implementing virtualization technologies</li>
+  <li>Understand how virtualization technology can be used to create more flexible and dynamic data center and desktop infrastructures</li>
+  <li>Understand the selection process for local desktop or central VDI environments</li>
+  <li>Design virtualization solutions for datacenter and desktop infrastructures</li>
+  <li>Plan virtualization services such as Hyper-V, RDS, MED-V, and APP-V</li>
+  <li>Integrate System Center Suite into a virtualization infrastructure to provide an end-to-end management strategy</li>
+  <li>Understand and plan virtual machine conversion and deployment options</li>
+  <li>Plan enterprise storage solutions to support virtualization infrastructures</li>
+  <li>Design high-availability virtualization solutions</li>
+  <li>Plan an enterprise backup  and recovery strategy</li>
+</ul>

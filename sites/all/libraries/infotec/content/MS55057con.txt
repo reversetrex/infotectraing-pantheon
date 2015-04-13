@@ -1,0 +1,72 @@
+<p><strong>Module 1: Overview</strong></p>
+<blockquote>This module explains how the class will be structured and introduces course materials and additional administrative information.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Introduction</li>
+  <li>Course Materials</li>
+  <li>Facilities</li>
+  <li>Prerequisites</li>
+  <li>What We'll Be Discussing</li>
+</ul>
+<p><strong>Module 2: The Business Intelligence Stack</strong></p>
+<blockquote>In this module we will first look at the three different ways in which business intelligence can be viewed. Then, we’re going to look at the services SQL 2012 provides us and how they apply to business intelligence. We will then move to SharePoint 2013 and look at the SharePoint services to examine their relevance and how we can use them in business intelligence to surface data. In this section we will also cover the new business intelligence features available within the SharePoint 2013 release. Finally, we will take a brief look at PowerPivot, examining the new features and their significance. PowerPivot is covered in more detail in a later module.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Business Intelligence in Three Ways</li>
+  <li>SQL 2012 Business Intelligence</li>
+  <li>New 2013 SharePoint Business Intelligence Features</li>
+  <li>New 2013 PowerPivot in Excel Features</li>
+</ul>
+<p><strong>Module 3: SharePoint 2013 Business Intelligence Center</strong></p>
+<blockquote>In this module, we will explore the new and improved 2013 SharePoint Central Administration site. We are going to cover specifically the new 2013 Business Intelligence Center template within SharePoint. We are also going to cover some things that generically apply to SharePoint that you can use within business intelligence. Permissions and Roles will be illuminated and the included Document Library and List apps will be explained.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>New 2013 SharePoint Central Administration</li>
+  <li>New 2013 Business Intelligence Center</li>
+  <li>Permissions and Roles</li>
+  <li>Included Document Library and List Apps</li>
+</ul>
+<p><strong>Module 4: PerformancePoint 2013</strong></p>
+<blockquote>In this module, we will cover in-depth 2013 PerformancePoint Services features. Dashboard Designer is explored along with many of the objects and connections available within.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>New 2013 Overview of PerformancePoint Services</li>
+  <li>Dashboard Designer</li>
+  <li>Data Sources</li>
+  <li>Indicators</li>
+  <li>KPIs</li>
+  <li>Visual Reports</li>
+  <li>Filters</li>
+  <li>Scorecards</li>
+  <li>Dashboards</li>
+</ul>
+<p><strong>Module 5: PowerPivot</strong></p>
+<blockquote>PowerPivot is not a feature of SharePoint business intelligence, however, an Excel workbook with PowerPivot can be saved to a SharePoint site and then used in a business intelligence scenario. This module is intended as an overview of the product only and covers all the new features available in the 2013 release of the add-in.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>New 2013 PowerPivot Features</li>
+  <li>PowerPivot and Excel</li>
+  <li>PowerPivot and SharePoint</li>
+  <li>Enterprise Business Intelligence and PowerPivot</li>
+  <li>Importing Data</li>
+  <li>Enriching Data</li>
+  <li>SharePoint Sharing</li>
+</ul>
+<p><strong>Module 6: Dashboards</strong></p>
+<blockquote>This module borrows from the three-day Microsoft course on Dashboards number 50596A. Monitoring, analyzing, and managing dashboards are discussed along with details on how to use them most effectively. This module does not cover Dashboard Designer as it is covered in more detail in the PerformancePoint Services module. Coverage of the Microsoft Report Builder 3.0 tool is brief as this course focuses on the SharePoint space.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Dashboard Migration</li>
+  <li>Three Types of Dashboards</li>
+  <li>Successful Dashboards</li>
+  <li>Tables or Graphs</li>
+  <li>Types of Graphs</li>
+  <li>Choosing a Chart Type</li>
+  <li>Key Performance Indicators</li>
+  <li>Pitfalls In Dashboard Design</li>
+  <li>Microsoft Report Builder 3.0</li>
+  <li>Plan Your Reports</li>
+  <li>Datasets</li>
+  <li>New 2013 SharePoint Designer Features</li>
+  <li>SharePoint Web Apps</li>
+</ul>

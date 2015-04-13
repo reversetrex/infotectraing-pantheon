@@ -1,0 +1,19 @@
+<p><strong>Building User-Defined Functions</strong>: Introduces the &lt;cffunction&gt; tag and explains how it can (and should) be used to extend the CFML language.</p>
+
+<p><strong>Creating Custom Tags</strong>: Teaches students how to write their own tags to  extend the CFML language&mdash;tags written in CFML itself.</p>
+
+<p><strong>Building Reusable Components</strong>: ColdFusion Components are the most important application building block in ColdFusion and this section teaches the basics of  ColdFusion Component development.</p>
+
+<p><strong>Creating Advanced ColdFusion Components</strong>: Continues exploring ColdFusion Components by introducing advanced topics, including persistence, encapsulation, and inheritance.</p>
+
+<p><strong>Improving the User Experience</strong>: Helps students create applications that really get used. Students will learn important user interface concepts, how to build sophisticated browser screens, and much more.</p>
+
+<p><strong>Improving Performance</strong>: Developers are always looking for ways to tweak  their code, squeezing a bit more performance wherever possible. This section provides tips, tricks, and  techniques you can use to create applications that will always be snappy and  responsive.</p>
+
+<p><strong>Working With PDF Files</strong>: Adobe PDF files are the standard for high-fidelity document distribution and online form processing, and ColdFusion features extensive PDF integration as explained in this section.</p>
+
+<p><strong>ColdFusion Image Processing</strong>: Teaches you how to read, write, and manipulate image files using ColdFusion tags and functions.</p>
+
+<p><strong>Advanced ColdFusion Powered Ajax</strong>: Explores Ajax user interface controls and concepts.</p>
+
+<p><strong>Generating Non-HTML Content</strong>: Although ColdFusion is primarily used to generate Web content, it can also be used to generate non-HTML content.  In this section, students will learn how to use &lt;cfcontent&gt; to generate content for popular applications (such as Microsoft Word and Microsoft Excel), along with other output options.</p>

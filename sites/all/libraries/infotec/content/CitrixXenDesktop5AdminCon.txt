@@ -1,0 +1,269 @@
+<p><strong>1. Introducing XenDesktop</strong></p>
+<ul type="disc">
+  <li>Five Core Strengths of XenDesktop</li>
+  <li>Desktop Virtualization</li>
+  <li>XenDesktop Product Family</li>
+  <li>Test Your Knowledge: XenDesktop Product Family</li>
+  <li>FlexCast</li>
+  <li>Use Cases</li>
+  <li>Virtual Desktop Models</li>
+  <li>Test Your Knowledge: Virtual Desktop Models</li>
+  <li>HDX Technologies</li>
+  <li>Hosted Desktop Delivery</li>
+  <li>Quick Deploy</li>
+  <li>Quick Deploy System Requirements</li>
+  <li>Run Quick Deploy</li>
+</ul>
+<p><strong>2. Configuring the Hypervisor for Desktop Delivery</strong></p>
+<ul type="disc">
+  <li>Virtualization</li>
+  <li>Virtualization Components</li>
+  <li>Hypervisors</li>
+  <li>Hypervisor Role in Desktop Delivery</li>
+  <li>Test Your Knowledge: The Hypervisor Role in Desktop Delivery</li>
+  <li>Windows Virtual Machine Architecture</li>
+  <li>Installation from an ISO</li>
+  <li>Create an ISO Library</li>
+  <li>Windows Virtual Machine Device Support</li>
+  <li>Windows Virtual Machine Creation</li>
+  <li>XenServer Tools</li>
+  <li>Test Your Knowledge: Create an ISO Library</li>
+  <li>Test Your Knowledge: Windows Virtual Machine Creation</li>
+  <li>Templates and Life-Cycle Operations</li>
+  <li>Virtual Machine Templates</li>
+  <li>Provision a New Virtual Machine Using a Template</li>
+  <li>Virtual Machine Export and Import</li>
+  <li>Virtual Machine Duplication</li>
+  <li>Test Your Knowledge: Export, Import, and Copy Virtual Machines</li>
+  <li>Snapshots</li>
+  <li>Virtual Machine Operations</li>
+  <li>XenConvert</li>
+  <li>Convert a Server or Desktop to a Virtual Machine</li>
+  <li>Virtual Machine Resource Management</li>
+  <li>Events and Alerts</li>
+  <li>Resource Pools</li>
+  <li>Virtual Machine Movement</li>
+  <li>Network Components and Architecture</li>
+  <li>External Networks</li>
+  <li>Internal-Only Network</li>
+  <li>NIC Bonds</li>
+  <li>Create a NIC Bond in XenCenter</li>
+  <li>VLANs</li>
+  <li>Storage</li>
+  <li>Storage Repositories</li>
+  <li>Remote Storage</li>
+  <li>Storage Capability Comparison</li>
+  <li>Test Your Knowledge: Storage Components</li>
+  <li>Troubleshooting Hypervisor Issues</li>
+</ul>
+<p><strong>3. Installing and Configuring XenDesktop</strong></p>
+<ul type="disc">
+  <li>XenDesktop Architecture</li>
+  <li>Production Site Configuration</li>
+  <li>License File Management</li>
+  <li>Obtaining License Files</li>
+  <li>Security Considerations</li>
+  <li>Active Directory Considerations</li>
+  <li>Supported Active Directory Environments</li>
+  <li>Active Directory-Based Controller Discovery</li>
+  <li>Active Directory Objects</li>
+  <li>Test Your Knowledge: Active Directory Considerations</li>
+  <li>Configuring a XenDesktop Site</li>
+  <li>Web Interface</li>
+  <li>Web Interface Considerations</li>
+  <li>Desktop Delivery Communication Process</li>
+  <li>Access Gateway</li>
+  <li>ICA Proxy Mode</li>
+  <li>Access Gateway Deployment Scenarios</li>
+  <li>Access Gateway Communications</li>
+  <li>Access Gateway Authentication</li>
+  <li>Single Sign-On to Web Interface</li>
+  <li>SmartAccess</li>
+</ul>
+<p><strong>4. Managing Desktop Catalogs and Groups</strong></p>
+<ul type="disc">
+  <li>Administration Roles</li>
+  <li>Add an Administrator Account</li>
+  <li>Preparing a Virtual Desktop for Delivery</li>
+  <li>Virtual Desktop Agent Installation</li>
+  <li>Virtual Desktop Agent Wizard Settings</li>
+  <li>Manual Firewall Configuration</li>
+  <li>Machine Creation Services</li>
+  <li>Machine Creation Services Host and Storage Requirements</li>
+  <li>Desktop Catalogs</li>
+  <li>Machine Types</li>
+  <li>Pooled Machine Type</li>
+  <li>Dedicated Machine Type</li>
+  <li>Existing Machine Type</li>
+  <li>Physical Machine Type</li>
+  <li>Streamed Machine Type</li>
+  <li>Virtual Desktop Updates</li>
+  <li>Modify the Master Virtual Machine</li>
+  <li>Revert to the Previous Master Virtual Machine</li>
+  <li>Desktop Groups</li>
+  <li>Desktop Group Types</li>
+  <li>Desktop Group Examples</li>
+  <li>Create a Desktop Group</li>
+  <li>Power Management</li>
+  <li>Pools and Buffers</li>
+  <li>Configure Power Management</li>
+  <li>Troubleshooting Desktop Catalog and Group Issues</li>
+</ul>
+<p><strong>5. Customizing the User Experience</strong></p>
+<ul type="disc">
+  <li>User Device Types</li>
+  <li>Display Modes</li>
+  <li>Citrix Receiver</li>
+  <li>Citrix Receiver for Windows</li>
+  <li>Citrix Receiver for Windows System Requirements</li>
+  <li>Citrix Receiver for Macintosh</li>
+  <li>Citrix Merchandising Server</li>
+  <li>Citrix Merchandising Server Architecture</li>
+  <li>Profile Management</li>
+  <li>User Profiles</li>
+  <li>User Profile Types</li>
+  <li>Redirecting User Data</li>
+  <li>Managing User Profiles</li>
+  <li>Profile Management Logon Process</li>
+  <li>Enable Profile Management</li>
+  <li>FlexCast for Apps</li>
+  <li>Application Delivery Method</li>
+  <li>Test Your Knowledge: Application Delivery Method</li>
+  <li>XenDesktop Policies</li>
+  <li>Policy Creation</li>
+  <li>Create a Policy</li>
+  <li>Policy Settings</li>
+  <li>Policy Setting Best Practices</li>
+  <li>Policy Prioritization</li>
+  <li>Test Your Knowledge: Policies, Printers, and Client Drive Mapping</li>
+  <li>Troubleshooting Customization Issues</li>
+</ul>
+<p><strong>6. Monitoring XenDesktop Sites</strong></p>
+<ul type="disc">
+  <li>Desktop Director</li>
+  <li>Installing Desktop Director</li>
+  <li>Accessing Desktop Director</li>
+  <li>Desktop Director Pages</li>
+  <li>Filters</li>
+  <li>Searching for a User or Machine</li>
+  <li>User and Machine Management</li>
+  <li>Managing Machines</li>
+  <li>Managing End Users</li>
+  <li>User Shadowing</li>
+  <li>To Shadow a User</li>
+  <li>Troubleshooting Site Monitoring Issues</li>
+</ul>
+<p><strong>7. Streaming Desktops to Virtual and Physical Machines</strong></p>
+<ul type="disc">
+  <li>Streamed VHDs and Catalogs</li>
+  <li>Provisioning Services</li>
+  <li>Citrix Provisioning Services Infrastructure</li>
+  <li>Citrix Provisioning Services Components</li>
+  <li>Key Services</li>
+  <li>Provisioning Services Administration</li>
+  <li>Installation Planning</li>
+  <li>Network Boot Services</li>
+  <li>Boot Process</li>
+  <li>DHCP Deployment Options</li>
+  <li>DHCP Configuration</li>
+  <li>Provisioning Services Farm Design</li>
+  <li>Farms</li>
+  <li>SQL Database Server</li>
+  <li>Service Account Permissions</li>
+  <li>Sites</li>
+  <li>Stores</li>
+  <li>Write Caches</li>
+  <li>Storage Requirements</li>
+  <li>Sample vDisk Storage Requirements</li>
+  <li>Provisioning Services Installation</li>
+  <li>Install Provisioning Services</li>
+  <li>Provisioning Services Configuration</li>
+  <li>Configure a Provisioning Services Farm</li>
+  <li>Store Configuration</li>
+  <li>Troubleshooting Provisioning Services Installation and Configuration</li>
+</ul>
+<p><strong>8. Creating a Shared vDisk</strong></p>
+<ul type="disc">
+  <li>vDisk Image Modes</li>
+  <li>Standard Image Mode</li>
+  <li>Difference Disk Image Mode</li>
+  <li>Private Image Mode</li>
+  <li>Write-Cache Types</li>
+  <li>Cache on Server Disk</li>
+  <li>Cache on Server Disk: Local Storage</li>
+  <li>Cache on Server Disk: Shared Storage</li>
+  <li>Cache on Device's Hard Drive</li>
+  <li>Cache on Device's Hard Drive: Local Storage</li>
+  <li>Cache on Device's Hard Drive: Shared Storage</li>
+  <li>Target Device-Based RAM Cache</li>
+  <li>Target Device RAM</li>
+  <li>To Create a vDisk</li>
+  <li>Imaging Wizard</li>
+  <li>vDisk File Creation</li>
+  <li>VHD Format</li>
+  <li>vDisk Mounting</li>
+  <li>Formatting a vDisk</li>
+  <li>Master Target Device</li>
+  <li>Boot Order</li>
+  <li>Master Target Device Software</li>
+  <li>Create a Windows Master Target Device using the Imaging Wizard</li>
+  <li>XenConvert Overview</li>
+  <li>Image Windows Target Devices with XenConvert</li>
+  <li>Troubleshooting vDisk Creation Issues</li>
+</ul>
+<p><strong>9. Administering Provisioning Services Components</strong></p>
+<ul type="disc">
+  <li>Provisioning Services Hosts in the Console</li>
+  <li>Target Device Connections</li>
+  <li>Provisioning Services Host Properties</li>
+  <li>Target Device Management</li>
+  <li>Target Device Collection</li>
+  <li>Target Device Views</li>
+  <li>Target Device Properties</li>
+  <li>Active Directory Integration</li>
+  <li>Domain Password Management Process</li>
+  <li>Automatic Password Renegotiation</li>
+  <li>To Integrate Active Directory</li>
+  <li>Test Your Knowledge: Active Directory Login Issue</li>
+  <li>vDisk Management</li>
+  <li>vDisk Properties</li>
+  <li>Create a vDisk File</li>
+  <li>Unassign vDisks from Target Devices</li>
+  <li>Delete a vDisk</li>
+  <li>vDisk Locks</li>
+  <li>vDisk Backup</li>
+  <li>Streamed Desktop Catalogs</li>
+  <li>Create a Streamed Desktop Catalog</li>
+  <li>vDisk Updates</li>
+  <li>Automatic Update</li>
+  <li>Incremental Update</li>
+  <li>Autoupdate Tool</li>
+  <li>Incremental Update Rollback</li>
+  <li>Scheduled vDisk Updates</li>
+  <li>vDisk Update Strategies</li>
+  <li>Troubleshooting Provisioning Services Issues</li>
+</ul>
+<p><strong>10. Delivering Local VM Desktops</strong></p>
+<ul type="disc">
+  <li>Local VM Desktops with XenClient</li>
+  <li>XenClient Architecture</li>
+  <li>Synchronizer for XenClient</li>
+  <li>Test Your Knowledge: XenClient Components</li>
+  <li>XenClient Installation</li>
+  <li>Install XenClient</li>
+  <li>XenClient Configuration</li>
+  <li>Receiver for XenClient</li>
+  <li>Create a Virtual Machine</li>
+  <li>XenClient Tools</li>
+  <li>Synchronizer Installation and Configuration</li>
+  <li>Image Management</li>
+  <li>Upload a Virtual Machine to the Synchronizer</li>
+  <li>Assign Desktops to End Users</li>
+  <li>User Management</li>
+  <li>Create a Local User or Group</li>
+  <li>Link an Existing AD User or Group</li>
+  <li>Device Management</li>
+  <li>XenClient User Experience</li>
+  <li>Secure Application Sharing</li>
+  <li>Troubleshooting Local VM Desktop Issues</li>
+</ul>

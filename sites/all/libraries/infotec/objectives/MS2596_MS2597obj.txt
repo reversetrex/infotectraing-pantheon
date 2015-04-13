@@ -1,0 +1,31 @@
+<p><strong><u>MS2596</u>:</strong></p>
+
+<p>After completing this part of the course, students will be able to:</p>
+<ul>
+  <li>Describe the features and infrastructure of Systems Management Server 2003 (SMS). </li>
+  <li>Configure a site system. </li>
+  <li>Deploy SMS clients. </li>
+  <li>Discover SMS resources. </li>
+  <li>Collect inventory and monitor software usage. </li>
+  <li>Query and report data. </li>
+  <li>Distribute software. </li>
+  <li>Implement Software Update Tools. </li>
+  <li>Use SMS Remote Tools for client support. </li>
+  <li>Perform  site maintenance, backup, and recovery tasks.</li>
+</ul>
+
+<p><strong><u>MS2597</u>:</strong></p>
+
+<p>After completing this part of the course, students will be able to:</p>
+<ul>
+  <li>Analyze business requirements for SMS. </li>
+  <li>Create and evaluate an SMS deployment plan. </li>
+  <li>Plan an SMS site hierarchy. </li>
+  <li>Install the Site hierarchy. </li>
+  <li>Configure a site system. </li>
+  <li>Discover SMS resources. </li>
+  <li>Install SMS clients. </li>
+  <li>Configure SMS site hierarchies. </li>
+  <li>Secure an SMS site. </li>
+  <li>Create a management and operations plan.</li>
+</ul>

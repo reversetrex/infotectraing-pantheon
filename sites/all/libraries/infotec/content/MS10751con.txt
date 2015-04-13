@@ -1,0 +1,111 @@
+<p><strong>Module 1: Planning for the Private Cloud</strong></p>
+<p>This module describes the core components of a private cloud and the prerequisites for deploying a private cloud.</p>
+<ul>
+  <li>Understanding the Private Cloud</li>
+  <li>Requirements for Deploying a Private Cloud</li>
+  <li>Designing the Private Cloud Infrastructure Components</li>
+  <li>Overview of System Center 2012 Components</li>
+  <li>Deploying Hyper-V Clustering with Virtual Machine Manager (VMM)</li>
+</ul>
+
+<p><strong>Module 2: Private Cloud Configuration and Deployment with System Center Virtual Machine Manager</strong></p>
+<p>This module describes how to configure infrastructure components by using System Center 2012-Virtual Machine Manager.</p>
+<ul>
+  <li>VMM Architecture and Components Overview</li>
+  <li>Installing and Upgrading VMM</li>
+  <li>Configuring VMM Security and Roles</li>
+  <li>Understanding Host Groups</li>
+</ul>
+
+<p><strong>Module 3: Extending and Maintaining the Private Cloud Infrastructure</strong></p>
+<p>This module describes how to integrate features provided by Windows Deployment Services (WDS) and Windows Server Update Services (WSUS) to help extend and manage the VMM private cloud infrastructure resources.</p>
+<ul>
+  <li>Overview of the PXE and Update Server Roles</li>
+  <li>Deploying Bare-Metal Hyper-V Host Servers</li>
+  <li>Configuring the Update Server Role</li>
+  <li>Creating and Remediating an Update Baseline</li>
+</ul>
+
+<p><strong>Module 4: Configuring Virtual Application Delivery</strong></p>
+<p>This module explains how to use the Microsoft Web Deployment Tool and Microsoft Server Application Virtualization (Server App-V) to dynamically deploy applications in the private cloud.</p>
+<ul>
+  <li>Dynamic Application Deployment Overview</li>
+  <li>Web Deployment Packages</li>
+  <li>Server Application Virtualization Overview</li>
+  <li>Configuring Server App-V Components</li>
+  <li>Sequencing and Deploying Virtual Applications</li>
+</ul>
+
+<p><strong>Module 5: Creating the Private Cloud Building Blocks</strong></p>
+<p>This module explains how to prepare and deploy the underlying infrastructure components that are used as building blocks for delivering private cloud services.</p>
+<ul>
+  <li>Configuring Guest Operating System Profiles</li>
+  <li>Configuring Hardware Profiles</li>
+  <li>Configuring SQL Server Using SQL Server Profiles</li>
+  <li>Configuring Application Profiles</li>
+  <li>Configuring Virtual Machine Templates</li>
+  <li>Configuring Self-Service Portal Users</li>
+</ul>
+
+<p><strong>Module 6: Deploying and Accessing the First Business Unit Private Cloud</strong></p>
+<p>This module explains private clouds, System Center 2012 - App Controller, and private cloud services.</p>
+<ul>
+  <li>Understanding Private Cloud Computing</li>
+  <li>Installing and Configuring App Controller</li>
+  <li>Creating and Managing Services and Service Templates</li>
+</ul>
+
+<p><strong>Module 7: Monitoring the Private Cloud Infrastructure</strong></p>
+<p>This module explains how to monitor the private cloud infrastructure by using System Center 2012 - Operations Manager.</p>
+<ul>
+  <li>Operations Manager Architecture and Security</li>
+  <li>Upgrading Operations Manager 2007 R2</li>
+  <li>Configuring Notifications</li>
+  <li>Configuring Management Packs</li>
+  <li>Configuring Integration with System Center 2012</li>
+</ul>
+
+<p><strong>Module 8: Extending and Customizing Monitoring of the Private Cloud Infrastructure</strong></p>
+<p>This module explains how to use Operations Manager templates to monitor various applications and implement distributed application monitoring.</p>
+<ul>
+  <li>Configuring the SharePoint Portal</li>
+  <li>Monitoring Templates</li>
+  <li>Distributed Application Monitoring</li>
+</ul>
+
+<p><strong>Module 9: Implementing Service Management for the Private Cloud</strong></p>
+<p>This module explains how to setup, configure, and integrate the core components of System Center 2012 - Service Manager into the private cloud infrastructure.</p>
+<ul>
+  <li>Service Manager Architecture Overview</li>
+  <li>Upgrading to System Center 2012 - Service Manager</li>
+  <li>Understanding Service Manager Work Items</li>
+  <li>Configuring Service Manager Connectors</li>
+  <li>Configuring Service Manager Notifications</li>
+</ul>
+
+<p><strong>Module 10: Configuring a Private Cloud Service Catalog</strong></p>
+<p>This module explains how to configure a service catalog and publish the service catalog to the self-service portal.</p>
+<ul>
+  <li>Implementing a Private Cloud Service Catalog</li>
+  <li>Service Level Management</li>
+</ul>
+
+<p><strong>Module 11: Protecting the Private Cloud Infrastructure</strong></p>
+<p>This module describes how to deploy and configure Data Protection Manager in a private cloud.</p>
+<ul>
+  <li>Planning DPM Deployment</li>
+  <li>DPM Architecture and Components</li>
+  <li>Upgrading DPM</li>
+  <li>Configuring DPM for the Private Cloud</li>
+  <li>Configuring Application Protection for the Private Cloud</li>
+  <li>Restoring Applications to the Private Cloud</li>
+</ul>
+
+<p><strong>Module 12: Automating and Standardizing the Private Cloud</strong></p>
+<p>This module explains how to deploy and configure System Center Orchestrator in a private cloud and integrate it with other System Center 2012 components.</p>
+<ul>
+  <li>Orchestrator Architecture and Components Overview</li>
+  <li>Deploying and Configuring Core Orchestrator Components</li>
+  <li>Managing Runbooks</li>
+  <li>Configuring Integration Packs</li>
+</ul>

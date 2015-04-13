@@ -1,0 +1,100 @@
+<p> <strong>Unit 1: Basic networking concepts</strong><br>
+  Networking fundamentals<br>
+Types of servers<br>
+Topologies<br>
+Planning in network design</p>
+<p><strong>Unit 2: The OSI Model</strong><br>
+Introduction to the OSI model</p>
+<p><strong>Unit 3: Network adapters</strong><br>
+Network adapter configuration<br>
+Troubleshooting network adapter problems</p>
+<p><strong>Unit 4: Introducing protocols</strong><br>
+Introduction to protocols<br>
+Channel access methods<br>
+Transport protocols<br>
+Remote access protocols<br>
+Security protocols</p>
+<p><strong>Unit 5: Network cabling and devices</strong><br>
+Network communication methods<br>
+Cables and connectors<br>
+Coaxial and fiber optic cables<br>
+Ethernet and Token Ring devices</p>
+<p><strong>Unit 6: Internetworking components</strong><br>
+Introduction to internetworking<br>
+Introducing bridges, routers and switches</p>
+<p><strong>Unit 7: Remote and WAN connectivity</strong><br>
+Introduction to remote connectivity<br>
+Installing and configuring a modem<br>
+Remote Access Service (RAS) and remote access clients<br>
+WAN connectivity</p>
+<p><strong>Unit 8: Troubleshooting hardware components</strong><br>
+Introduction to troubleshooting<br>
+Introduction to common network tools<br>
+The science of troubleshooting</p>
+<p><strong>Unit 9: TCP/IP fundamentals</strong><br>
+Evolution of TCP/IP<br>
+TCP/IP fundamentals</p>
+<p><strong>Unit 10: TCP/IP addressing and subnetting</strong><br>
+IP addressing<br>
+Subnetting and special addressing<br>
+TCP/IP installation and configuration</p>
+<p><strong>Unit 11: Name resolution</strong><br>
+The HOSTS file and Domain Name System<br>
+NetBIOS name resolution</p>
+<p><strong>Unit 12: Firewalls and proxies</strong><br>
+Firewalls<br>
+Proxy servers</p>
+<p><strong>Unit 13: Troubleshooting network connectivity</strong><br>
+TCP/IP troubleshooting tools<br>
+Telnet<br>
+File Transfer Protocol<br>
+Troubleshooting examples</p>
+<p><strong>Unit 14: Identifying network operating system features</strong><br>
+Microsoft Windows<br>
+Novell NetWare<br>
+UNIX, Linux, and Mac OS X Server<br>
+AppleShare IP </p>
+<p><strong>Unit 15: Network clients</strong><br>
+Network client review<br>
+<br>
+<strong>Unit 16: Directory services</strong><br>
+  Windows networking concepts<br>
+  Directory services planning and implementation<br>
+  Introduction to Active Directory<br>
+  New Active Directory features in Windows Server 2003<br>
+  Windows NT domains<br>
+  Novell Directory Services/eDirectory<br>
+  <br>
+  <strong>Unit 17: Accessing and managing resources in a Windows network</strong><br>
+  Creating and managing Active Directory user accounts<br>
+  Introduction to group accounts<br>
+  The NTFS file system and permissions<br>
+  Working with shared folders<br>
+  Introduction to printing concepts<br>
+  <br>
+  <strong>Unit 18: Monitoring and troubleshooting a Windows server</strong><br>
+  Introduction to server monitoring<br>
+  Troubleshooting with Event Viewer<br>
+  Working with the Performance console<br>
+  <br>
+  <strong>Unit 19: Managing and troubleshooting resources in a NetWare network</strong><br>
+  User and group management<br>
+  Rights and trustee assignments<br>
+  User account restrictions<br>
+  NDS/eDirectory context<br>
+  NetWare log files<br>
+  Using monitoring and management tools<br>
+  <br>
+  <strong>Unit 20: Fault tolerance and disaster recovery</strong><br>
+  System fault tolerance<br>
+  Replication<br>
+  Backup and UPS<br>
+  <br>
+  <strong>Unit 21: Routine maintenance</strong><br>
+  Keeping NOS software up to date<br>
+  Virus protection<br>
+  <br>
+  <strong>Unit 22: Troubleshooting</strong><br>
+  Assessing and responding to problems<br>
+  Troubleshooting procedures<br>
+Troubleshooting scenarios </p>

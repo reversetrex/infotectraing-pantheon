@@ -1,0 +1,10 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Install and configure Microsoft Office Groove 2007.</li>
+  <li>Install and configure the Groove 2007 Relay  Server.</li>
+  <li>Install and configure the Groove 2007  Management Server.</li>
+  <li>Install and configure the Groove 2007 Date  Bridge Server.</li>
+  <li>Create and configure a template in Groove  Server 2007.</li>
+  <li>Configure Active Directory integration within Groove Server 2007.</li>
+</ul>

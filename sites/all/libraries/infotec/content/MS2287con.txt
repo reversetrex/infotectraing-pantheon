@@ -1,0 +1,16 @@
+<p> <strong>Unit 1: Introduction to MOM 2005 </strong><br>
+This Unit explains how to plan for business requirements, determine the appropriate number of MOM servers, and determine the server locations. </p>
+<p> <strong>Unit 2: Installing MOM 2005 </strong><br class="style1">
+This Unit describes the tasks that you should perform before installing MOM. </p>
+<p> <strong>Unit 3: Configuring the MOM Management Group</strong> <br>
+This Unit explains how to plan, create and configure a MOM management group. </p>
+<p> <strong>Unit 4: Monitoring Managed Services </strong><br>
+This Unit explains monitoring events, performance, and alerts using the MOM Operator console. </p>
+<p> <strong>Unit 5: Administering Managed Computers</strong> <br>
+This Unit explains how an administrator can use MOM to administer the managed computers within an enterprise. </p>
+<p> <strong>Unit 6: Using Predefined Reports </strong><br>
+This Unit explains how to manage collected data by using the reporting console, predefined reports, and the web console. </p>
+<p> <strong>Unit 7: Implementing a Complex MOM 2005 Infrastructure </strong><br>
+This Unit explains how to configure multiple management servers to scale your management solution across the organization. </p>
+<p> <strong>Unit 8: Planning a MOM 2005 Infrastructure </strong><br>
+This Unit explains how to create a plan to implement MOM 2005 in a reliable and scalable manner. </p>

@@ -1,0 +1,13 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Configuring Storage for Windows Server 2008 and Windows Server 2008 R2 Applications</li>
+    <li>Configuring High Availability for Windows Server 2008 and Windows Server 2008 R2 Applications</li>
+    <li>RDS in the Single-Server Configuration</li>
+    <li>RDS in the Multiple-Server Configuration</li>
+    <li>Securely Delivering RDS Applications to the Internet</li>
+    <li>IIS Web Applications</li>
+    <li>IIS FTP and SMTP Services</li>
+    <li>IIS Server and SSL Management</li>
+    <li>Microsoft SharePoint Foundation</li>
+    <li>Windows Streaming Media Services</li>
+</ul>

@@ -1,0 +1,238 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>The 70-685 Exam</li>
+    <li>Problem Resolution</li>
+    <li>The Troubleshooting Process</li>
+    <li>New Windows 7 Tools</li>
+  </ul>
+  <h3>Section B: Planning Deployment</h3>
+  <ul>
+    <li>Software Licensing</li>
+    <li>Reviewing an Office License</li>
+    <li>Reviewing a GNU Public License</li>
+    <li>Digital Signing</li>
+    <li>Certificate Verification Tools</li>
+    <li>Application Digital Signatures</li>
+    <li>signtool.exe</li>
+  </ul>
+  <h3>Section C: Application Compatibility</h3>
+  <ul>
+    <li>ACT</li>
+    <li>Installing ACT</li>
+    <li>Launching ACT</li>
+    <li>Configuring ACT</li>
+    <li>Viewing the ACT Database</li>
+    <li>Log File Location/Processing</li>
+    <li>Using ACT</li>
+    <li>Standard User Analyzer</li>
+    <li>Downloading Application Verifier</li>
+    <li>Launching Application Verifier</li>
+    <li>Compatibility Manager</li>
+    <li>Creating Fixes (Shims)</li>
+  </ul>
+  <h3>Section D: Troubleshooting Deployment</h3>
+  <ul>
+    <li>Installation Permissions</li>
+    <li>Permission Levels/Credentials</li>
+    <li>GUI Permissions Management</li>
+    <li>Command Line Permissions Management</li>
+    <li>Local Administrator</li>
+    <li>Managing Local Administrators</li>
+  </ul>
+  <h3>Section E: Software Configuration Settings</h3>
+  <ul>
+    <li>Enabling Programs and Features</li>
+    <li>Microsoft Office Diagnostics</li>
+    <li>Add/Remove Office Features</li>
+    <li>Advanced Application Settings</li>
+    <li>Mapping Network Drives</li>
+    <li>Network Shares in Local Libraries</li>
+  </ul>
+  <h3>Section F: Application Imaging</h3>
+  <ul>
+    <li>Application Image Process</li>
+    <li>Custom Application Installs</li>
+    <li>Pre-Scan Before Snapshot</li>
+    <li>Turbo Navigator Setup Wizard</li>
+    <li>Post-Scan After Snapshot</li>
+    <li>Scan Comparison/Creating the MSI Package</li>
+    <li>Verifying the MSI Package</li>
+    <li>Installing with the MSI package</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Troubleshooting Application Problems</h3>
+  <ul>
+    <li>Application Troubleshooting</li>
+    <li>Problem Steps Recorder</li>
+    <li>Event Logs</li>
+  </ul>
+  <h3>Section B: Repairing Network Applications</h3>
+  <ul>
+    <li>Reliability Monitor</li>
+    <li>Programs and Features Tool</li>
+    <li>Repair Options</li>
+    <li>System Restore Feature</li>
+    <li>Configuring System Restore</li>
+    <li>Verification of Snapshot</li>
+  </ul>
+  <h3>Section C: Basic Network Troubleshooting</h3>
+  <ul>
+    <li>A Basic Network Diagram</li>
+    <li>Testing Network Hardware</li>
+    <li>Verifying IP Settings</li>
+    <li>IP Verification via Command Line</li>
+    <li>Link Lights</li>
+    <li>Proxy Settings</li>
+  </ul>
+  <h3>Section D: Advanced Network Troubleshooting</h3>
+  <ul>
+    <li>Problem Scope</li>
+    <li>Computer vs. Network Problems</li>
+    <li>Traceroute</li>
+    <li>Pathping</li>
+    <li>netsh</li>
+    <li>Network and Sharing Center</li>
+  </ul>
+  <h3>Section E: Logon Problems</h3>
+  <ul>
+    <li>Authentication Components</li>
+    <li>Kerberos Message Exchanges</li>
+    <li>Switching Users/Domains</li>
+    <li>Local Account Properties</li>
+    <li>Domain Account Properties</li>
+    <li>Logon Group Policies</li>
+  </ul>
+  <h3>Section F: Device Name Resolution</h3>
+  <ul>
+    <li>Name Resolution</li>
+    <li>Nslookup</li>
+    <li>Primary DNS Suffix</li>
+    <li>DNS Cache</li>
+    <li>DNS Registration</li>
+  </ul>
+  <h3>Section G: Network Printer</h3>
+  <ul>
+    <li>Windows 7 Printers</li>
+    <li>Printer Problems</li>
+    <li>Installing a Network Printer</li>
+    <li>Gathering Device Information</li>
+    <li>Print Spooler Service</li>
+    <li>Group Policy Preferences</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: System Performance</h3>
+  <ul>
+    <li>Performance Principles</li>
+    <li>First Principle</li>
+    <li>Second Principle</li>
+    <li>Third Principle</li>
+    <li>Tuning Process</li>
+    <li>Tuning Tools</li>
+    <li>Performance Gains</li>
+    <li>Performance Tips</li>
+  </ul>
+  <h3>Section B: Performance Analysis Tools</h3>
+  <ul>
+    <li>Log Analysis</li>
+    <li>Creating a Custom View</li>
+    <li>Disabling Unnecessary Services</li>
+    <li>Disk Cleanup</li>
+    <li>Virtual Memory</li>
+    <li>Visual Effects Tab</li>
+    <li>Windows Experience Index</li>
+    <li>Power Management</li>
+  </ul>
+  <h3>Section C: Data Collector Sets</h3>
+  <ul>
+    <li>Performance Monitor</li>
+    <li>System Data Collector Sets</li>
+    <li>View DCS Report</li>
+    <li>Creating a DCS</li>
+    <li>Configuring a DCS</li>
+    <li>Event Traces</li>
+    <li>DCS Storage Location</li>
+  </ul>
+  <h3>Section D: Hardware Troubleshooting Tools</h3>
+  <ul>
+    <li>chkdsk</li>
+    <li>chkfnts</li>
+    <li>chkdsk via GUI</li>
+    <li>Viewing Reports</li>
+    <li>Device Manager</li>
+    <li>Disk Defragmenter</li>
+  </ul>
+  <h3>Section E: Memory and BIOS Errors</h3>
+  <ul>
+    <li>Memory Failures</li>
+    <li>Memory Diagnostics</li>
+    <li>BIOS Issues</li>
+    <li>Determining the BIOS Version</li>
+    <li>BIOS Downloads</li>
+  </ul>
+  <h3>Section F: Wireless Fundamentals</h3>
+  <ul>
+    <li>Wireless Standards</li>
+    <li>Wireless Security</li>
+    <li>Wireless Infrastructure</li>
+    <li>Configuring Wi-Fi Clients</li>
+    <li>Public Hotspots</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Troubleshooting Wireless Connections</h3>
+  <ul>
+    <li>Wireless Connections</li>
+    <li>Creating Wireless Profiles</li>
+    <li>Managing Wireless Profiles</li>
+  </ul>
+  <h3>Section B: Troubleshooting Remote Access</h3>
+  <ul>
+    <li>DirectAccess</li>
+    <li>Virtual Private Connections</li>
+    <li>Dial-Up Connections</li>
+    <li>Remote Access Settings</li>
+  </ul>
+  <h3>Section C: Supporting Remote Users</h3>
+  <ul>
+    <li>Configuring a VPN Connection</li>
+    <li>Enabling Remote Desktop</li>
+    <li>Connection to a Remote Desktop</li>
+    <li>Dial-In User Settings</li>
+  </ul>
+  <h3>Section D: Windows 7 Security</h3>
+  <ul>
+    <li>User Account Control</li>
+    <li>BitLocker</li>
+    <li>Configuring User Account Controls</li>
+    <li>UAC Group Policies</li>
+    <li>Detecting Malicious Programs</li>
+    <li>Checking Services for Malware</li>
+    <li>Viewing the Tasklist</li>
+    <li>Process Explorer</li>
+  </ul>
+  <h3>Section E: IE Security Settings</h3>
+  <ul>
+    <li>Certificates</li>
+    <li>Adding Trusted Sites</li>
+    <li>InPrivate Filtering</li>
+    <li>InPrivate Browsing</li>
+    <li>SmartScreen Filter</li>
+    <li>Add-Ons/Plug-Ins</li>
+    <li>IE Security via Group Policies</li>
+  </ul>
+  <h3>Section F: Encryption Solutions</h3>
+  <ul>
+    <li>Encryption</li>
+    <li>Key Encryption Factors</li>
+    <li>BitLocker To Go</li>
+    <li>Encrypting File System</li>
+    <li>Exporting EFS Certificates</li>
+  </ul>
+  <h3>Section G: Windows Updates</h3>
+  <ul>
+    <li>Automatic Updates</li>
+    <li>Manually Check/Install Updates</li>
+    <li>Update History</li>
+    <li>Removing Updates</li>
+    <li>Hiding/Unhiding Updates</li>
+  </ul>

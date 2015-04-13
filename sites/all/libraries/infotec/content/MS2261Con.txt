@@ -1,0 +1,54 @@
+<p><strong> Unit 1: Introduction to Supporting Users </strong></p>
+<ul>
+  <li> The Desktop Support Technician </li>
+  <li> The Windows Desktop Operating Systems </li>
+  <li> Tools for Troubleshooting Windows Desktop Operating Systems </li>
+</ul>
+<p><strong> Unit 2: Resolving Installation Issues </strong></p>
+<ul>
+  <li> Preparing for Installation </li>
+  <li> Preparing the Hard Disk for Installation </li>
+  <li> How the Installation Process Works </li>
+  <li> Troubleshooting an Attended Installation </li>
+  <li> Troubleshooting an Upgrade </li>
+  <li> Troubleshooting an Unattended Installation </li>
+  <li> Troubleshooting the Boot Process </li>
+</ul>
+<p><strong> Unit 3: Resolving Desktop Management Issues </strong></p>
+<ul>
+  <li> Troubleshooting Logon </li>
+  <li> Troubleshooting User Configuration </li>
+  <li> Troubleshooting Multilingual Configuration </li>
+  <li> Troubleshooting Security and Local Policy Settings </li>
+  <li> Troubleshooting System Performance </li>
+  <li> Resolving Desktop Management Issues </li>
+</ul>
+<p><strong> Unit 4: Resolving File and Folder Issues </strong></p>
+<ul>
+  <li> Managing Files and Folders </li>
+  <li> Troubleshooting Access to Files and Folders </li>
+  <li> Troubleshooting Access to Shared Files and Folders </li>
+  <li> Troubleshooting Access to Offline Files </li>
+</ul>
+<p><strong> Unit 5: Resolving Hardware Issues </strong></p>
+<ul>
+  <li> Managing Drivers </li>
+  <li> Troubleshooting Storage Devices </li>
+  <li> Troubleshooting Display Devices </li>
+  <li> Troubleshooting Import and Output (I/O) Devices </li>
+  <li> Troubleshooting Advanced Configuration and Power Interface (ACPI) </li>
+</ul>
+<p><strong> Unit 6: Resolving Print Issues </strong></p>
+<ul>
+  <li> Installing Local and Network Printers </li>
+  <li> Troubleshooting Printer Drivers </li>
+  <li> Troubleshooting Printers and Print Jobs </li>
+  <li> Auditing Printers </li>
+</ul>
+<p><strong> Unit 7: Resolving Network Connectivity Issues </strong></p>
+<ul>
+  <li> Applying the OSI Model </li>
+  <li> Managing Computer Addressing </li>
+  <li> Managing Name Resolution </li>
+  <li>Troubleshooting Remote Connection Issues</li>
+</ul>

@@ -1,0 +1,8 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe how the Windows SharePoint Services 3.0 platform helps address collaboration challenges.</li>
+  <li>Plan the Windows SharePoint Services 3.0 environment.</li>
+  <li>Install Windows SharePoint Services 3.0.</li>
+  <li>Identify the most appropriate method to upgrade Windows SharePoint Services from 2.0 to 3.0 in a given scenario.</li>
+  <li>Manage  Windows SharePoint Services 3.0.</li>
+</ul>

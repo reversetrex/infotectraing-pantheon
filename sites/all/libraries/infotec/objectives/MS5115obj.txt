@@ -1,0 +1,10 @@
+<ul>
+  <li> Install Windows Vista. </li>
+  <li>Upgrade to Windows Vista Ultimate Edition. </li>
+  <li>Configure post-installation system settings. </li>
+  <li>Configure basic networking. </li>
+  <li>Configure advanced networking. </li>
+  <li>Configure user account security. </li>
+  <li>Configure network security. </li>
+  <li>Configure Internet Explorer 7.0. </li>
+</ul>

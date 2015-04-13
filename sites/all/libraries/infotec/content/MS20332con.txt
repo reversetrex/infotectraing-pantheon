@@ -1,0 +1,160 @@
+<p><strong>Module 1: Understanding Architecture in SharePoint Server 2013</strong></p>
+<p>This module introduces the architectural features that underpin SharePoint Server 2013, both for on-premise and online deployments. This includes an examination of the features that are new in this version, as well as those that have been removed. This module reviews the basic structural elements of a farm   deployment, and the different deployment options that are available in SharePoint 2013.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Core Components of the SharePoint 2013 Architecture</li>
+  <li>New Features in SharePoint Server 2013</li>
+  <li>SharePoint Server 2013 and SharePoint Online Editions</li>
+</ul>
+
+<p><strong>Module 2: Designing for Business Continuity Management</strong></p>
+<p>This module examine high availability and disaster recovery in SharePoint 2013. When designing high availability and disaster recovery strategies for a SharePoint farm, it is important to understand the different approaches required by each logical tier in the farm. High availability for the database tier   requires understanding of how SQL Server provides high availability and the associated requirements. High availability for the application tier can be straightforward for some service applications, while other applications, such as Search, require additional planning and configuration for high availability. The web front end tier will also require additional planning and configuration for high availability, and architects should consider the new SharePoint 2013 request management feature. SharePoint farm disaster recovery has always required considerable planning and understanding of the necessary components and backup tools available. In this regard SharePoint 2013 is no different, and farm administrators should create a disaster recovery plan that states how content and configurations are backed up, how data can be restored, and what backup schedules are required.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Designing Database Topologies for High Availability and Disaster Recovery</li>
+  <li>Designing SharePoint Infrastructure for High Availability</li>
+  <li>Planning for Disaster Recovery</li>
+</ul>
+
+<p><strong>Module 3: Test the Backup and Restore Process</strong>
+<p>Service applications were introduced in SharePoint 2010, replacing the Shared Service Provider architecture of Microsoft Office SharePoint Server 2007. Service applications provide a flexible design for delivering services, such as Managed Metadata or PerformancePoint, to users who need them. There are several   deployment topologies available to you when you plan your service application implementation. These range from a simple, single-farm, single-instance service application model to more complex, cross-farm, multiple-instance designs. What remains most important is that you create a design that matches the needs of   your organization's users in terms of performance, functionality, and security.</p>
+
+<p>This module reviews the service application architecture, how to map business requirements to design, and the options for enterprise scale, federated service application architectures.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning Service Applications</li>
+  <li>Designing and Configuring a Service Application Topology</li>
+  <li>Configuring Service Application Federation</li>
+</ul>
+
+<p><strong>Module 4: Configuring and Managing Business Connectivity Services</strong></p>
+<p>Most organizations store information in a variety of disparate systems. In many cases, these organizations want to be able to view and interact with information from these disparate systems from a single interface. This reduces the need for information workers to constantly switch between systems and creates opportunities for power users or analysts to aggregate data from multiple sources.</p>
+
+<p>In SharePoint 2013, Business Connectivity Services (BCS) is a collection of technologies that enable you to query, view, and interact with data from external systems. In this module, you will learn how to plan and configure various components of BCS.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning and Configuring Business Connectivity Services</li>
+  <li>Configuring the Secure Store Service</li>
+  <li>Managing Business Data Connectivity Models</li>
+</ul>
+
+<p><strong>Module 5: Connecting People</strong></p>
+<p>When we talk about connecting people in SharePoint 2013 we are really talking about taking people out of their isolated workspaces and giving them the ability and tools to collaborate with other people in the organization such as their work colleagues, peers and executives. It is about finding people with expertise and identifying shared interests and about creating networks of people that share common goals.</p>
+
+<p>In this module, you will learn about the concepts and ways of connecting people in SharePoint 2013. We will examine user profiles and user profile synchronization, social interaction features and capabilities, and communities and community sites in SharePoint 2013.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Managing User Profiles</li>
+  <li>Enabling Social Interaction</li>
+  <li>Building Communities</li>
+</ul>
+
+<p><strong>Module 6: Enabling Productivity and Collaboration</strong></p>
+<p>This module examines how SharePoint 2013 extends the ability of users to work collaboratively and increase productivity through seamless integration with external software platforms, additional SharePoint collaboration features, and the provision of flexible tools, with which users can develop their own   solutions to business problems.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Aggregating Tasks</li>
+  <li>Planning and Configuring Collaboration Features</li>
+  <li>Planning and Configuring Composites</li>
+</ul>
+
+<p><strong>Module 7: Planning and Configuring Business intelligence</strong></p>
+<p>Business Intelligence (BI) continues to be an important area for large enterprise organizations. The key to successful BI is the ability to integrate the components that deliver the right information, to the right people, at the right time. SharePoint Server 2013 Enterprise Edition provides a range of integrated solutions that enable both users and administrators across an organization to develop BI solutions to fit their business requirements. These BI tools extend beyond SharePoint to provide consistent information management   from personal data analysis environments, which use Office Excel, through to departmental or organizational data repositories, which use SQL Server Reporting Services (SSRS) and SQL Server Analysis Services (SSAS).</p>
+
+<p>In this module you will see how SharePoint 2013 can deliver BI solutions for your business.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning for Business Intelligence</li>
+  <li>Planning, Deploying and Managing Business Intelligence Services</li>
+  <li>Planning and Configuring Advanced Analysis Tools</li>
+</ul>
+
+<p><strong>Module 8: Planning and Configuring Enterprise Search</strong></p>
+<p>The Search service remains a cornerstone of the SharePoint platform's success. In SharePoint 2013 there have been major changes to the components that make up the service, to increase performance and configurability.</p>
+
+<p>The configuration options in SharePoint Search now enable you to provide greater search result effectiveness by fine-tuning the service in various ways. The introduction of new functionality, such as result types and the increased move towards search-driven navigation mean that the role of the Search   administrator has become even more important for business success. Search now enables you to delegate more of this management to site collection administrator and site owner levels, improving Search flexibility without increasing the administrative burden on a few Search service application administrators.</p>
+
+<p>To help you in your management of a Search environment, SharePoint 2013 now incorporates Search analytics and reporting into the Search service, rather than in a separate service application, as was the case in SharePoint Server 2010. The reports available will help you to monitor the service and optimize its   configuration.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Configuring Search for an Enterprise   Environment</li>
+  <li>Configuring the Search   Experience</li>
+  <li>Optimizing   Search</li>
+</ul>
+
+<p><strong>Module 9: Planning and Configuring Enterprise Content Management</strong></p>
+<p>Enterprise content management (ECM) is a set of technologies and features that administrators use to provide some control over sites and content. This could include control over how information is stored, how long information is kept, how information is visible to users while in use, and how information growth is kept under control.</p>
+
+<p>Planning support for your ECM requirements requires a clear understanding of content requirements and how that content supports the organization. This means that, as a best practice, many different organizational roles should have input into the ECM strategy and supporting features.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning Content Management</li>
+  <li>Planning and Configuring eDiscovery</li>
+  <li>Planning Records Management</li>
+</ul>
+
+<p><strong>Module 10: Planning and Configuring Web Content Management</strong></p>
+<p>The web content management capabilities in SharePoint Server 2013 can help an organization to communicate   and integrate more effectively with employees, partners, and customers. SharePoint Server 2013 provides easy-to-use functionality to create, approve, and publish web content. This enables you to get information out quickly to intranet, extranet, and Internet sites and give your content a consistent look and feel. You can use these web content management capabilities to create, publish, manage, and control a large and dynamic collection of content. As part of ECM in SharePoint Server 2013, web content management can help to streamline your process for creating and publishing web sites.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning and Implementing a Web Content Management Infrastructure</li>
+  <li>Configuring Managed Navigation and Catalog Sites</li>
+  <li>Supporting Multiple Languages and Locales</li>
+  <li>Enabling Design and Customization</li>
+  <li>Supporting Mobile Users</li>
+</ul>
+
+<p><strong>Module 11: Managing Solutions in SharePoint Server 2013</strong></p>
+<p>As a SharePoint administrator, it is important to understand the features that are available in SharePoint 2013. However, there are often specific functional requirements that may be part of SharePoint’s feature set but are not included in certain site templates. There may also be sites that require repeatable customization of lists or libraries, or custom code deployments that are necessary to add capabilities that are not available out-of-the-box. Developers use features and solutions to add and control these functionality requirements. Administrators, on the other hand, must understand how features and solutions are deployed and managed in order to meet user needs in a SharePoint farm.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Understanding the SharePoint Solution Architecture</li>
+  <li>Managing Sandbox Solutions</li>
+</ul>
+
+<p><strong>Module 12: Managing Apps for SharePoint Server 2013</strong></p>
+<p>SharePoint apps are new to SharePoint 2013 and provide an additional capability to provide application functionality within the context of SharePoint. SharePoint apps supplement the capabilities of farm solutions and sandbox solutions, while providing a user experience that offers a measure of self-service customization capabilities without putting the stability or security of the farm at risk.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Understanding the SharePoint App Architecture</li>
+  <li>Provisioning and Managing Apps and App Catalogs</li>
+</ul>
+
+<p><strong>Module 13: Developing a Governance Plan</strong></p>
+<p>Governance as it relates to SharePoint can be described as a way of controlling a SharePoint environment through the application of people, policies, and processes. Governance is necessary for all IT systems as a whole, and in particular for SharePoint deployments, which often introduce significant change in business processes, available functionality, and day-to-day working practices.</p>
+
+<p>It is important to understand that governance must reflect the needs of the organization and how it should best use SharePoint. Therefore, the IT department cannot be the only body governing SharePoint; input must come from corporate sponsorship across the organization. The IT department must still act as the technical authority for SharePoint; however, this is just a single part of how SharePoint governance must be brought together from different parts of the organization.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introduction to Governance Planning</li>
+  <li>Key Elements of a Governance Plan</li>
+  <li>Planning for Governance in SharePoint Server 2013</li>
+  <li>Implementing Governance in SharePoint 2013</li>
+</ul>
+
+<p><strong>Module 14: Upgrading and Migrating to SharePoint Server 2013</strong></p>
+<p>Upgrading your SharePoint Server 2010 farm(s) to SharePoint 2013 is a major undertaking, so it is important that you carefully plan the upgrade activities. You need to ensure that your upgrade path—moving from version to version—is supported, that you have reviewed the business impact of your upgrade, and that   you test your upgrade strategy to ensure business continuity. As with all such activities, preparation is crucial.</p>
+
+<p>In contrast with earlier version of SharePoint, SharePoint 2013 supports only database-attach upgrades for content, but now supports upgrades for some of the databases associated with service applications. You need to plan for these and ensure that you are prepared for any troubleshooting that may be required.</p>
+
+<p>Another change in SharePoint 2013 is the approach to upgrading site collections. These are upgraded separately from the data and service applications. You can also delegate the upgrade tasks to site collection administrators.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Preparing Upgrade or Migration Environment</li>
+  <li>Performing the Upgrade Process</li>
+  <li>Managing Site Collection Upgrade</li>
+</ul>

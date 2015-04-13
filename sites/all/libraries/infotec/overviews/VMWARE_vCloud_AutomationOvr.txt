@@ -1,0 +1,1 @@
+In this course, you will learn how to configure and use of VMware vCloud Automation Center platform, including self-service provisioning and the creation of multivendor cloud services.

@@ -1,0 +1,78 @@
+<p><strong> Unit 1: Building and Consuming a Simple XML Web Service <br>
+</strong>This unit describes how you can create a simple Web service and client application by using the .NET Framework. It also explains how you can configure client proxies, and debug and deploy Web services. </p>
+<p> Units</p>
+<ul>
+  <li> Technical Context of Web Services </li>
+  <li>Components of Web Service Technology </li>
+</ul>
+<p><strong> Unit 2: Configuring and Customizing a Web Service <br>
+</strong>This unit introduces a number of important configuration and customization options for Web services. It describes how to control the way in which complex parameters to Web methods are serialized. This unit also shows how to use configuration files to control the way in which a Web service operates. </p>
+<p> Units</p>
+<ul>
+  <li> XML Serialization </li>
+  <li>How to Use Complex Data Types in Web Services </li>
+  <li>How to Use Attributes to Control Serialization </li>
+  <li>How to Use Service Configuration Attributes </li>
+  <li>Configuration Files </li>
+</ul>
+<p><strong> Unit 3: Calling Web Methods Asynchronously<br>
+</strong>This unit explains how to call a Web method asynchronously. It describes how to improve the responsiveness of client applications by avoiding the need to wait for Web methods to complete execution before continuing processing. This unit covers the different options available for calling Web methods asynchronously and it describes how to create one-way methods. </p>
+<p> Units</p>
+<ul>
+  <li> The Need for Asynchronous Calls </li>
+  <li>Options for Making Asynchronous Calls </li>
+  <li>One-Way Methods </li>
+</ul>
+<p><strong> Unit 4: Building a Remoting Client and Server<br>
+</strong>This unit describes key remoting concepts, and shows how to create a remoting server and client. This unit describes how to use remoting to call methods in remote objects, and how to pass data across remoting boundaries. This unit also shows how to configure and deploy remoting applications. </p>
+<p> Units</p>
+<ul>
+  <li> Technical Context of Remoting </li>
+  <li>Remoting Servers and Clients </li>
+  <li>Important Components of Remoting </li>
+</ul>
+<p><strong> Unit 5: Creating and Serializing Remotable Types<br>
+</strong>This unit describes how to transfer complex data values across remoting boundaries, and the issues involved in doing so. It compares and contrasts the marshal by value and marshal by reference mechanisms for accessing remote data. This unit also covers version compatibility issues between clients and servers using different versions of a class, and the special requirements for remoting generic classes. </p>
+<p> Units</p>
+<ul>
+  <li> Marshal by Value </li>
+  <li> Marshal by Reference </li>
+  <li> Version Compatibility for Remotable Types </li>
+  <li> Generic Classes </li>
+</ul>
+<p><strong> Unit 6: Performing Remoting Operations Asynchronously<br>
+</strong>This unit describes how to call a method asynchronously in the remoting environment. It covers the different techniques you can use and it explains how to raise events in a remoting server and handle them in a client. </p>
+<p> Units</p>
+<ul>
+  <li> Asynchronous Methods </li>
+  <li>Calling Remote Methods Asynchronously </li>
+  <li>One-Way Methods </li>
+  <li>Using Events in Remoting Applications </li>
+</ul>
+<p><strong> Unit 7: Managing the Lifetime of Remote Objects<br>
+</strong>This unit describes the lifetime of remote objects and how you can control them. This unit introduces the concepts of remote object leases and sponsors. This unit shows how to initialize a remote object's lease to a specific period, and how to renew an object's lease when it expires by using a sponsor. </p>
+<p> Units</p>
+<ul>
+  <li> Life Cycle of Remote Objects </li>
+  <li>Lifetime Sponsors </li>
+  <li>Lease Properties </li>
+  <li>Leases and Exception Handling </li>
+</ul>
+<p><strong> Unit 8: Sending and Receiving Messages by Using Message Queuing<br>
+</strong>This unit describes how to use Microsoft Message Queuing to build distributed applications. It covers the essential aspects of building client and server applications that use message queues, how to create queues, how to send and receive messages, and how to handle replies to messages. This unit also describes how to access message queues across the Internet. </p>
+<p> Units</p>
+<ul>
+  <li> Understanding Message Queuing </li>
+  <li>Creating a Message Queue and Sending a Message </li>
+  <li>Receiving a Message and Posting a Response </li>
+  <li>Using IIS with Message Queuing </li>
+</ul>
+<p><strong> Unit 9: Creating and Consuming Serviced Components<br>
+</strong>This unit explains how to build and access serviced components in a .NET Framework application. This unit describes the relationship between .NET Framework serviced components and COM+. It shows how to use the .NET Framework to implement a serviced component that you can register as a COM+ application and how you can write applications that use serviced components. </p>
+<p> Units</p>
+<ul>
+  <li> COM+ Services </li>
+  <li>Implementing a Serviced Component </li>
+  <li>Registering a Serviced Component </li>
+  <li>Instantiating a Serviced Component </li>
+</ul>

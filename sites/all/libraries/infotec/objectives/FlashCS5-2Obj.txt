@@ -1,0 +1,12 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Plan a Flash project.</li>
+  <li>Design a project.</li>
+  <li>Manage symbols.</li>
+  <li>Lay out text in a Flash document.</li>
+  <li>Create advanced animations.</li>
+  <li>Add audio to a movie.</li>
+  <li>Work with ActionScript 3.0.</li>
+  <li>Publish a movie in different file formats.</li>
+  <li>Extend Flash.</li>
+</ul>

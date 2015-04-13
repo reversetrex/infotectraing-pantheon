@@ -1,0 +1,107 @@
+<p>The course consists of two volumes, with a study volume, containing  indexed notes and review questions, and a companion volume, containing exam  objectives mapping, exam information, practical labs, answers to review  questions, and a comprehensive glossary. The course also comes with two online  practice exams.</p>
+
+<p><strong><u>Module 1: Supporting Windows</u></strong></p>
+
+<p><strong>Monitoring and Performance Tools</strong></p>
+
+<ul>
+  <li>Command Prompt and Text Editors</li>
+  <li>System Information and Monitoring</li>
+  <li>Performance Options</li>
+  <li>Remote Utilities</li>
+</ul>
+
+<p><strong>Disk and File Management Tools</strong></p>
+
+<ul>
+  <li>Disk and Volume Management</li>
+  <li>Navigating Directories at the Command Prompt</li>
+  <li>File Management using a Command Prompt</li>
+</ul>
+
+<p><strong>Troubleshooting Windows</strong></p>
+
+<ul>
+  <li>Windows Troubleshooting</li>
+  <li>Troubleshooting Applications</li>
+  <li>Windows Printer Troubleshooting</li>
+</ul>
+
+<p><strong>Viruses and Malware</strong></p>
+
+<ul>
+  <li>Malware Symptoms</li>
+  <li>Anti-virus Software</li>
+</ul>
+
+<p><strong><u>Module 2: Supporting Networks</u></strong></p>
+
+<p><strong>Installing a SOHO  Network</strong></p>
+
+<ul>
+  <li>Implementing a LAN</li>
+  <li>Configuring Network Properties</li>
+  <li>Implementing Wireless Networks</li>
+  <li>Configuring Client Options</li>
+  <li>Configuring Internet  Connections</li>
+  <li>Voice-over-IP</li>
+</ul>
+
+<p><strong>Network Security</strong></p>
+
+<ul>
+  <li>User and Group  Accounts</li>
+  <li>Setting Share Permissions</li>
+  <li>NTFS Folder and File Permissions</li>
+  <li>Troubleshooting File System Security</li>
+  <li>Implementing Other Security Mechanisms</li>
+</ul>
+
+<p><strong>Troubleshooting Networks</strong></p>
+
+<ul>
+  <li>Troubleshooting Networks</li>
+  <li>Testing TCP/IP</li>
+  <li>Troubleshooting Client Connectivity</li>
+  <li>Electronic Mail (Email)</li>
+</ul>
+
+<p><strong><u>Module 3: Supporting PC Hardware</u></strong></p>
+
+<p><strong>Maintaining PCs</strong></p>
+
+<ul>
+  <li>Maintenance Toolkit</li>
+  <li>Preventive Maintenance</li>
+</ul>
+
+<p><strong><u>Upgrading and Troubleshooting PCs</u></strong></p>
+
+<ul>
+  <li>General Installation and Upgrade Advice</li>
+  <li>Upgrading and Optimizing Hardware</li>
+  <li>Disassembling a PC</li>
+  <li>Installing Components on the Motherboard</li>
+  <li>CMOS Setup</li>
+  <li>Troubleshooting Motherboard Components</li>
+</ul>
+
+
+<p><strong>Upgrading and Troubleshooting Peripherals and Notebooks</strong></p>
+
+<ul>
+  <li>Storage Devices</li>
+  <li>Adding and Removing Peripheral Devices</li>
+  <li>Upgrading and Troubleshooting Notebooks</li>
+</ul>
+
+<p><strong>Maintaining and Troubleshooting Printers</strong></p>
+
+<ul>
+  <li>Dot Matrix Printers</li>
+  <li>Inkjet Printers</li>
+  <li>Laser Printers</li>
+  <li>Other Printer Types</li>
+  <li>Maintaining and Upgrading Printers</li>
+  <li>Printer Troubleshooting</li>
+</ul>

@@ -1,0 +1,9 @@
+<p>After completing this course, the learner will be able to meet these overall objectives:</p>
+<ul>
+  <li>Describe VoIP, components of a VoIP network, VoIP protocols, special requirements for VoIP calls, and Codecs.</li>
+  <li>Configure gateway interconnections to support VoIP and PSTN calls.</li>
+  <li>Describe the basic signaling protocols used on voice gateways and configure a gateway to support calls using the various signaling protocols.</li>
+  <li>Define a dial plan, describing the purpose of each dial plan component, and implement a dial plan on a voice gateway..</li>
+  <li>Describe gatekeeper functions, protocols, and operation and implement an H.323 gatekeeper to provide dial plan resolution and call admission control.</li>
+  <li>Implement a Cisco Unified Border Element gateway to connect to an Internet Telephony Service Provider.</li>
+</ul>

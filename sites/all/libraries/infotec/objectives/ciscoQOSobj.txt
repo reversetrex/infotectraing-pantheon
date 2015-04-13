@@ -1,0 +1,10 @@
+<p> After completing this course, the student should be able to: </p>
+<p> Given a converged network, explain the need to implement Quality of Service (QoS) 
+and explain methods for implementing and managing QoS Given a converged network, 
+identify and describe different models used for ensuring QoS in a network and explain key IP 
+QoS mechanisms used to implement the models Given a converged network, explain the use of MQC 
+and AutoQoS to implement QoS on the network Given a converged network and a policy defining QoS 
+requirements, successfully classify and mark network traffic to implement the policy Given a congested
+network, use Cisco QoS queuing mechanisms to manage network congestion Given a converged network, 
+use Cisco QoS congestion avoidance mechanisms to reduce the effects of congestion on the network 
+Given a network, use Cisco QoS traffic policing and traffic shaping mechanisms to effectively limit the rate of network traffic </p>

@@ -1,0 +1,130 @@
+<p><strong>Module 1: Introduction to Microsoft Project</strong> - This module provides an overview of how the features of Project relate to the job of the project manager. The module also teaches the student how to access different features by navigating through the ribbon.</p>
+<p>Lessons</p>
+<ul>
+  <li>Describe how Project relates to the discipline of Project management.</li>
+  <li>Learn what the new features are in Project 2013.</li>
+  <li>Navigate to the primary views available using the Ribbon.</li>
+  <li>Choose Views that display task, resource, or assignment information.</li>
+  <li>Select table within views to change the information that is available to see and edit.</li>
+  <li>Relate the features of Project to the 5 steps for building a plan in Project.</li>
+</ul>
+<p><strong>Module 2: A Quick and Easy Overview of Managing with Project</strong> - This module demonstrates the required steps to create and use Microsoft Project 2013 through the life cycle of a project.</p>
+<p>Lessons</p>
+<ul>
+  <li>Create a new project and prepare it for data entry.</li>
+  <li>Enter project tasks.</li>
+  <li>Sequence the tasks.</li>
+  <li>Define resources.</li>
+  <li>Estimate Task duration and assign resources.</li>
+  <li>Baseline the project.</li>
+  <li>Track project progress.</li>
+</ul>
+<p><strong>Module 3: Setting Up a Project</strong> - This module explains how to create a new project and establish the basic constraints that Microsoft Project 2013 will use for its calculations.</p>
+<p>Lessons</p>
+<ul>
+  <li>Use multiple methods to create a new project from an Excel file and a SharePoint Tasks list.</li>
+  <li>Establish one or more calendars to constrain resource availability.</li>
+  <li>Configure Project to calculate the schedule from the Start Date forward, or from the Finish Date backward.</li>
+</ul>
+<p><strong>Module 4: Manually Schedule vs. Auto Schedule</strong> - This module explains how to how to manually schedule project tasks and how to leverage the auto schedule feature.</p>
+<p>Lessons</p>
+<ul>
+  <li>Students practice switching tasks between Manually Schedule and Auto Schedule modes. By switching modes, students learn the impact made on the project schedule and the individual tasks.</li>
+</ul>
+<p><strong>Module 5: Creating a Work Breakdown Structure</strong> - This module explains how to create a useful work breakdown structure and enter it into Microsoft Project.</p>
+<p>Lessons</p>
+<ul>
+  <li>Build and use summary and subordinate tasks.</li>
+  <li>Understand and use milestones.</li>
+  <li>Develop WBS Outlines.</li>
+  <li>Assign completion criteria.</li>
+  <li>Evaluate the WBS.</li>
+  <li>Understand and use WBS templates.</li>
+</ul>
+<p><strong>Module 6: Identifying Task Relationships</strong> - This module explains the rules for establishing dependency links between tasks and how to use Project to display these dependencies.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understand the different types of task relationships.</li>
+  <li>Understand and use various methods to create relationships.</li>
+  <li>Determine and display task sequence.</li>
+  <li>Understand and use lag, lead, and delay.</li>
+  <li>Understand the new feature of Task Paths.</li>
+</ul>
+<p><strong>Module 7: Defining Resources within Project</strong> - This module explains how to enter resources and specific resource information in Microsoft Project and assign resources to specific tasks.</p>
+<p>Lessons</p>
+<ul>
+  <li>Define resource types.</li>
+  <li>Define individual resources that will be used on the project.</li>
+  <li>Record the cost(s) of using each type of resource.</li>
+  <li>Record the limit of availability for each type of resource by establishing a resource calendar and defining the maximum units of that resource.</li>
+</ul>
+<p><strong>Module 8: Making Work Package Estimates</strong> - This module explains how Microsoft Project calculates task duration, task work (effort) and task resources.  Students will be able to choose among three task types as they enter task estimates and they will know which task type is appropriate for the type of estimate they are making.</p>
+<p>Lessons</p>
+<ul>
+  <li>Enter estimates for duration and costs for each task.</li>
+  <li>Distinguish between task types and describe when each is appropriate.</li>
+  <li>Describe the relationship between work, units, and duration.</li>
+  <li>Describe the way Effort Driven scheduling is affected by work, units, and duration.</li>
+  <li>Assign tasks to resources using the Team Planner view.</li>
+</ul>
+<p><strong>Module 9: Creating an Initial Schedule</strong> - This module explains how Project calculates a schedule based on task relationships and task duration. Students will understand the purpose of identifying critical path tasks and will be able to identify schedule float within the project.</p>
+<p>Lessons</p>
+<ul>
+  <li>Calculate float and identify a project’s critical path.</li>
+  <li>Understand and identify task constraints.</li>
+  <li>Create milestones.</li>
+  <li>Use the Task Inspector to troubleshoot the initial schedule.</li>
+</ul>
+<p><strong>Module 10: Create a Resource Leveled Schedule</strong> - This module explains how over-allocated resources create unrealistic schedules and shows methods for rescheduling in order to create a realistic schedule based on resource availability.</p>
+<p>Lessons</p>
+<ul>
+  <li>Adjust a project schedule to account for limited people and other resources.</li>
+  <li>View the overall cost and schedule of a project.</li>
+  <li>Identify resources that have been overallocated for a project schedule.</li>
+  <li>Use multiple ways to adjust tasks and assignments to remove over allocation for any resource.</li>
+</ul>
+<p><strong>Module 11: Managing the Project</strong> - This module explains how to use Microsoft Project to control a project.  Students will save their plan to a baseline and see how entering actual task performance data enables them to view differences between planned and actual performance.</p>
+<p>Lessons</p>
+<ul>
+  <li>Learn how to set a baseline.</li>
+  <li>Lean how to enter and track project performance data.</li>
+  <li>Learn how to apply different tracking methods.</li>
+  <li>Learn how to perform a variance analysis on a project.</li>
+</ul>
+<p><strong>Module 12: Formatting Output and Printing Reports</strong> - Participants will be able to control project output by creating and using Custom Fields, Sorting, Filtering, and Grouping of the project data.</p>
+<p>Lessons</p>
+<ul>
+  <li>Print</li>
+  <li>Views</li>
+  <li>Formats</li>
+  <li>Sorting</li>
+  <li>Filtering</li>
+  <li>Grouping</li>
+  <li>Custom Fields</li>
+  <li>Reporting</li>
+  <li>Other File Formats</li>
+</ul>
+<p><strong>Module 13: Managing Multiple Projects</strong> - This module explains how to view many projects as parts of one very large project in order to gain new views on resource availability and task relationships among projects.</p>
+<p>Lessons</p>
+<ul>
+  <li>Learn how to use common resources among multiple projects.</li>
+  <li>Learn how to link tasks between multiple projects.</li>
+  <li>Learn how to create a consolidated view of multiple projects.</li>
+</ul>
+<p><strong>Module 14: Advanced Topics</strong> - This module explains how to leverage some of the advanced features of Microsoft Project.</p>
+<p>Lessons</p>
+<ul>
+  <li>Learn how to customize the Ribbon and the Quick Access Toolbar.</li>
+  <li>Learn how to customize WBS numbering.</li>
+  <li>Learn the concepts of Formulas and Graphical indicators.</li>
+  <li>Learn the purpose of the Global template and Organizer.</li>
+  <li>Learn how to use Task Deadlines.</li>
+  <li>Learn how to use Task Deadlines.</li>
+</ul>
+<p><strong>Module 15: Summary</strong> - This module provides an overview of the topics presented in the course and how to prepare for Microsoft’s exam 74-343 Microsoft Project 2013, Managing Projects with Project 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Learn how to access the Office App Store.</li>
+  <li>Learn what 74-343 Microsoft Project 2013, Managing Projects with Project 2013 exam will cover and what is in the objective domain.</li>
+  <li>A sample study guide to help students prepare for the Microsoft Project 2013 exam.</li>
+</ul>

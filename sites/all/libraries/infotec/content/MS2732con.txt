@@ -1,0 +1,126 @@
+<p><strong> Unit 1: Overview of an EPM Solution </strong></p>
+<ul>
+  <li> Introduction to Project Server 2003 </li>
+  <li> Practice: Identifying Project Terms </li>
+  <li> Deploying Project Server 2003 </li>
+  <li> Practice: Identifying Processes and Components </li>
+</ul>
+<p><strong> Unit 2: Planning the Project Server 2003 Infrastructure </strong></p>
+<ul>
+  <li> Introduction to the Logical Architecture of Project Server 2003 </li>
+  <li> Practice: Identifying Project Server 2003 Components </li>
+  <li> Analyzing Current Infrastructure </li>
+  <li> Planning for High Availability and Scalability </li>
+  <li> Practice: Creating a High Availability and Scalability Plan </li>
+  <li> Planning the Physical Architecture for Project Server 2003 </li>
+  <li> Practice: Creating a Physical Architecture Plan </li>
+  <li> Planning Security for System Servers </li>
+  <li> Practice: Creating a Security Plan for System Servers </li>
+</ul>
+<p><strong> Unit 3: Installing and Configuring Project System Servers </strong></p>
+<ul>
+  <li> Creating Service Accounts </li>
+  <li> Practice: Creating and Configuring Project System Service Accounts </li>
+  <li> Installing and Configuring IIS 6.0 Servers </li>
+  <li> Practice: Configuring IIS 6.0 Server </li>
+  <li> Configuring SQL Server for Project Server 2003 Installation </li>
+  <li> Practice: Configuring SQL Server for Project Server 2003 Installation </li>
+  <li> Configuring Windows SharePoint Services </li>
+  <li> Practice: Installing and Configuring Windows SharePoint Services </li>
+</ul>
+<p><strong> Unit 4: Implementing Project Server </strong></p>
+<ul>
+  <li> Installing Project Server 2003 </li>
+  <li> Practice: Installing and Configuring Project Server 2003 </li>
+  <li> Migrating Analysis Services Repository </li>
+  <li> Practice: Migrating the Analysis Services Repository </li>
+</ul>
+<p><strong> Unit 5: Planning the Deployment of Project Server 2003 Clients </strong></p>
+<ul>
+  <li> Selecting Client Software </li>
+  <li> Practice: Creating a Client Software Plan </li>
+  <li> Planning Client Software Deployment </li>
+  <li> Practice: Creating a Client Software Deployment Plan </li>
+</ul>
+<p><strong> Unit 6: Deploying Project 2003 Clients </strong></p>
+<ul>
+  <li> Deploying Project Professional 2003 </li>
+  <li> Creating a Custom Installation of Project Professional 2003 </li>
+  <li> Connecting Project Professional 2003 to Project Server 2003 </li>
+  <li> Practice: Connecting Project Professional 2003 to Project Server 2003 </li>
+  <li> Configuring Project Web Access Client Computers </li>
+  <li> Practice: Configuring Project Web Access Client Computers </li>
+  <li> Configuring Microsoft Outlook&reg; Integration for Project Server 2003 Clients </li>
+  <li> Practice: Configuring Outlook Integration for Project Server 2003 Clients </li>
+</ul>
+<p><strong> Unit 7: Planning Project Server 2003 Operations </strong></p>
+<ul>
+  <li> Planning the Project Server 2003 Security Structure </li>
+  <li> Practice: Creating a Project Server 2003 Security Structure Plan </li>
+  <li> Planning to Integrate Project Server 2003 with Active Directory </li>
+  <li> Practice: Creating an Active Directory Integration Plan </li>
+  <li> Planning to Import Existing Data </li>
+  <li> Practice: Creating a Plan to Import Data </li>
+  <li> Planning Project Data Migration </li>
+  <li> Practice: Creating a Project Data Assessment Plan </li>
+  <li> Planning Disaster Recovery </li>
+  <li> Practice: Creating a Disaster Recovery Plan </li>
+</ul>
+<p><strong> Unit 8: Configuring and Managing Resource and Project Data </strong></p>
+<ul>
+  <li> Configuring Enterprise Custom Fields </li>
+  <li> Practice: Configuring Enterprise Custom Fields </li>
+  <li> Configuring Enterprise Outline Codes </li>
+  <li> Practice: Configuring Enterprise Outline Codes </li>
+  <li> Creating Enterprise Calendars </li>
+  <li> Practice: Creating Enterprise Calendars </li>
+  <li> Importing Projects and Resource Data into the Enterprise </li>
+  <li> Practice: Importing Projects and Resources into the Enterprise </li>
+  <li> Creating Generic Resources </li>
+  <li> Practice: Creating Generic Resources </li>
+  <li> Associating Resources with the Enterprise Custom Fields and Outline Codes </li>
+  <li> Practice: Associating Resources with the Enterprise Custom Fields and Outline Codes </li>
+  <li> Editing Resource Calendars </li>
+  <li> Practice: Creating Resource Calendars </li>
+</ul>
+<p><strong> Unit 9: Configuring and Managing Views and Security </strong></p>
+<ul>
+  <li> Configuring Enterprise Features </li>
+  <li> Practice: Configuring Enterprise Features </li>
+  <li> Creating and Configuring OLAP Cubes </li>
+  <li> Practice: Creating and Configuring OLAP Cubes </li>
+  <li> Creating Portfolio Analyzer Views </li>
+  <li> Practice: Creating Portfolio Analyzer Views </li>
+  <li> Creating Project, Resource, and Assignment Views </li>
+  <li> Practice: Creating Project, Project Center, and Resource Views </li>
+  <li> Configuring Project Server Security </li>
+  <li> Practice: Configuring Project Server Security </li>
+</ul>
+<p><strong> Unit 10: Administering an EPM Solution </strong></p>
+<ul>
+  <li> Managing Windows SharePoint Services </li>
+  <li> Practice: Managing Windows SharePoint Services </li>
+  <li> Configuring Project Server Features </li>
+  <li> Practice: Configuring Project Server Features </li>
+  <li> Configuring Tracking Settings </li>
+  <li> Practice: Configuring Tracking Settings </li>
+</ul>
+<p><strong> Unit 11: Migrating Project Data </strong></p>
+<ul>
+  <li> Migrating Project Data from Previous Versions of Project </li>
+  <li> Practice: Migrating Project Data from Previous Versions of Project </li>
+  <li> Migrating SharePoint Team Services Data </li>
+</ul>
+<p><strong> Unit 12: Planning for Testing </strong></p>
+<ul>
+  <li> Monitoring Role-Based Performance </li>
+  <li> Practice: Creating a Role-Based Response Metrics Worksheet </li>
+  <li> Creating a Test Plan for Project Server 2003 </li>
+  <li> Practice: Creating a Test Plan for Project Server 2003 </li>
+</ul>
+<p><strong> Unit 13: Troubleshooting Project Server 2003 </strong></p>
+<ul>
+  <li> Project Server Data Flow Paths </li>
+  <li> Project Server 2003 Troubleshooting Tools </li>
+  <li> Troubleshooting Project Server </li>
+</ul>

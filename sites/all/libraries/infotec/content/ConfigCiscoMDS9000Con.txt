@@ -1,0 +1,46 @@
+<p><strong>Module 1: Cisco MDS 9000 Series Switch Platform</strong></p>
+<ul>
+  <li>1.1: Introducing the Cisco MDS 9000 Series Switch Platform</li>
+  <li>1.2: Implementing Integrated Management</li>
+</ul>
+<p><strong>Module 2: System Installation and Initial Configuration</strong></p>
+<ul>
+  <li>2.1: Performing the Initial Switch Configuration</li>
+  <li>2.2: Installing and Licensing Cisco NX-OS Software</li>
+</ul>
+<p><strong>Module 3: Building a SAN Fabric</strong></p>
+<ul>
+  <li>3.1: Using FLOGI and FCNS Databases</li>
+  <li>3.2: Configuring Interfaces</li>
+  <li>3.3: Configuring Port Channels</li>
+  <li>3.4: Configuring Cisco NPV and NPIV</li>
+  <li>3.5: Configuring VSANs</li>
+  <li>3.6: Managing Domains</li>
+  <li>3.7: Configuring Distributed Device Aliases</li>
+  <li>3.8: Implementing Zoning</li>
+</ul>
+<p><strong>Module 4: Intelligent SAN Fabric Services</strong></p>
+<ul>
+  <li>4.1: Implementing Cisco MDS Data MobilityManager</li>
+  <li>4.2: Monitoring Traffic Flow</li>
+</ul>
+<p><strong>Module 5: Fibre Channel over Ethernet Implementation</strong></p>
+<ul>
+  <li>5.1: Describing FCoE</li>
+  <li>5.2: Configuring FCoE on the MDS 9500 and 9700 Series Multilayer Devices</li>
+</ul>
+<p><strong>Module 6: Security Implementation</strong></p>
+<ul>
+  <li>6.1: Improving Management Security</li>
+  <li>6.2: Configuring AAA Services</li>
+  <li>6.3: Implementing Port and Fabric Security</li>
+  <li>6.4: Configuring FC-SP</li>
+  <li>6.5: Implementing Link Encryption</li>
+</ul>
+<p><strong>Module 7: Implementing FCIP</strong></p>
+<ul>
+  <li>7.1: Creating an FCIP Tunnel</li>
+  <li>7.2: Configuring FCIP High Availability</li>
+  <li>7.3: Implementing IVR for SAN Extension</li>
+  <li>7.4: Tuning FCIP Performance</li>
+</ul>

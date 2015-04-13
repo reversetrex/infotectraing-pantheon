@@ -1,0 +1,14 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Manage Sites and Site Collections</li>
+  <li>Add users and groups and manage site, list, folder and item  security</li>
+  <li>Add and configure web parts</li>
+  <li>Configure sites, include themes, title, description and icon</li>
+  <li>Configure site navigation</li>
+  <li>View site activity reports</li>
+  <li>Customize lists and libraries</li>
+  <li>Work with Site Columns and Site Content Types</li>
+  <li>Create Forms libraries</li>
+  <li>Configure Check out/in, Content Approval and Versioning</li>
+  <li>Create  and modify pages and web part pages</li>
+</ul>

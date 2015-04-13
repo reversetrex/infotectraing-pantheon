@@ -1,0 +1,6 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Build a PivotTable.</li>
+  <li>Analyze data using PivotTables.</li>
+  <li>Present PivotTable data visually.</li>
+</ul>

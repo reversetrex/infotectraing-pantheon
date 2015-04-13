@@ -1,0 +1,11 @@
+<p>What You'll Learn:</p>
+<ul>
+  <li>Deploy vCloud Director</li>
+  <li>Manage vCloud Director to satisfy small private cloud business needs</li>
+  <li>Configure VMware vSphere storage to enable multiple tiers in provider virtual data centers</li>
+  <li>Create and manage vCloud Director organizations and vApps to satisfy business needs</li>
+  <li>Create and manage vCloud Director catalogs</li>
+  <li>Configure networking for organizations and VMware vSphere vApps</li>
+  <li>Interface vCloud Director to Microsoft Active Directory servers</li>
+  <li>Interactions between VMware vSphere Distributed Resource Scheduler (DRS) clusters and vCloud Director</li>
+</ul>

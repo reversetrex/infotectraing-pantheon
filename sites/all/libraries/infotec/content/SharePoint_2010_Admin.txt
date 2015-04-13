@@ -1,0 +1,341 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>SharePoint</li>
+    <li>Uses of SharePoint 2010</li>
+    <li>SharePoint History</li>
+    <li>The MCITP Exam 70-668</li>
+    <li>Knowledge Domains</li>
+    <li>Supporting Knowledge</li>
+    <li>Exam Preparation</li>
+  </ul>
+  <h3>Section B: Enterprise Features</h3>
+  <ul>
+    <li>SharePoint 2010 Editions</li>
+    <li>SharePoint Editions Comparison</li>
+    <li>Core Features</li>
+    <li>Collaboration Enhancements</li>
+    <li>Search Enhancements</li>
+    <li>Content Management Enhancements</li>
+  </ul>
+  <h3>Section C: Designing the Physical Architecture</h3>
+  <ul>
+    <li>Hardware Requirements</li>
+    <li>Software Requirements</li>
+    <li>Virtualizing SharePoint</li>
+    <li>Database Servers</li>
+    <li>Storage Planning</li>
+    <li>Information Architecture</li>
+    <li>Capacity Analysis</li>
+    <li>SharePoint Scaling</li>
+    <li>Example Farm Diagrams</li>
+  </ul>
+  <h3>Section D: Planning Supporting Services</h3>
+  <ul>
+    <li>Installing DNS Services Role</li>
+    <li>Adding DNS Zones</li>
+    <li>Host Records</li>
+    <li>Creating a DNS Host Record</li>
+    <li>Installing AD Services Role</li>
+    <li>Verify AD Services Installation</li>
+    <li>AD/DNS Integration</li>
+    <li>External DNS Name Resolution</li>
+    <li>Additional Supporting Services</li>
+  </ul>
+  <h3>Section E: Integrating with the Network</h3>
+  <ul>
+    <li>Networking Basics</li>
+    <li>OSI Model</li>
+    <li>Networking Protocols</li>
+    <li>Farm Communications</li>
+    <li>Network Perimeter</li>
+  </ul>
+  <h3>Section F: Designing Logical Taxonomy</h3>
+  <ul>
+    <li>Information Architecture</li>
+    <li>SharePoint Logical Layers</li>
+    <li>Site Hierarchy Planning</li>
+    <li>Collaboration Sites</li>
+    <li>My Site Sites</li>
+    <li>Web Applications</li>
+    <li>SharePoint Zones</li>
+    <li>Service Applications</li>
+    <li>Content Databases</li>
+    <li>Sites and Sub-Sites</li>
+    <li>Lists and Libraries</li>
+    <li>Security Boundaries</li>
+    <li>Content Deployment Paths</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Planning the Farm</h3>
+  <ul>
+    <li>Sequential Deployment</li>
+    <li>Standalone Deployments</li>
+    <li>Single-Server Farm</li>
+    <li>Multi-Server Deployments</li>
+    <li>Virtual Farm Deployments</li>
+    <li>Determining Server Needs</li>
+  </ul>
+  <h3>Section B: Database Backend</h3>
+  <ul>
+    <li>SQL Server and SharePoint</li>
+    <li>SharePoint Supported Databases</li>
+    <li>Installing SQL Server</li>
+    <li>Setup Support Rules</li>
+    <li>Feature Selection</li>
+    <li>Instance Configuration</li>
+    <li>Service Account Configuration</li>
+    <li>Database Engine Configuration</li>
+    <li>Post-Installation Validation Steps</li>
+  </ul>
+  <h3>Section C: Providing High Availability</h3>
+  <ul>
+    <li>High Availability</li>
+    <li>Availability Terminology</li>
+    <li>HA for Server Roles</li>
+    <li>Database High Availability</li>
+    <li>RAID Defined</li>
+    <li>RAID 0</li>
+    <li>RAID 1</li>
+    <li>RAID 5</li>
+    <li>Complex RAID Arrays</li>
+  </ul>
+  <h3>Section D: Installing the Server Farm</h3>
+  <ul>
+    <li>Installation Prerequisites</li>
+    <li>Installing SharePoint Server</li>
+    <li>Verify SharePoint Installation</li>
+  </ul>
+  <h3>Section E: Configuring the SharePoint Farm</h3>
+  <ul>
+    <li>The Configuration Wizard</li>
+    <li>Configuration Options</li>
+    <li>Central Administration Configuration</li>
+    <li>Verify Configuration</li>
+    <li>Initial Farm Configuration Wizard</li>
+    <li>The Initial Site Collection</li>
+  </ul>
+  <h3>Section F: Upgrading Previous Versions</h3>
+  <ul>
+    <li>SharePoint Upgrade Cycle</li>
+    <li>Hardware Upgrades</li>
+    <li>Operating System Upgrades</li>
+    <li>In-Place Upgrades</li>
+    <li>Database Attach Upgrade</li>
+    <li>Hybrid Upgrade</li>
+    <li>Upgrade Scenarios</li>
+    <li>SQL Server Upgrades</li>
+  </ul>
+  <h3>Section G: Migrating Sites and Databases</h3>
+  <ul>
+    <li>Migrating Non-SharePoint Sources</li>
+    <li>Migrating Old Databases</li>
+    <li>Configuration Database Migrations</li>
+    <li>Content Database Migrations</li>
+    <li>Read-Only and Detached Databases</li>
+    <li>Convert Database to Read-Only Mode</li>
+    <li>Content Moves</li>
+    <li>Custom Feature Migration</li>
+    <li>Migration Plans</li>
+    <li>Planning for Rollback</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Understanding Service Applications</h3>
+  <ul>
+    <li>Service Application Architecture</li>
+    <li>SA Terminology</li>
+    <li>SAs in SharePoint Foundation</li>
+    <li>Standard Edition SAs</li>
+    <li>Enterprise Edition SAs</li>
+    <li>SA Security</li>
+    <li>SA Benefits</li>
+    <li>SA Communication Process</li>
+  </ul>
+  <h3>Section B: Planning Service Applications</h3>
+  <ul>
+    <li>Microsoft Excel Services</li>
+    <li>Microsoft Access Services</li>
+    <li>Business Connectivity Services</li>
+    <li>InfoPath Forms Services</li>
+    <li>Visio Graphics Services</li>
+    <li>Business Intelligence Solutions</li>
+    <li>Managing Service Applications</li>
+  </ul>
+  <h3>Section C: Planning SharePoint Components</h3>
+  <ul>
+    <li>Microsoft Silverlight</li>
+    <li>Microsoft .NET</li>
+    <li>SharePoint Workflows</li>
+    <li>Master Pages</li>
+    <li>Layout Files</li>
+    <li>E-Mail Integration</li>
+    <li>Language Packs</li>
+    <li>Web Parts</li>
+    <li>Features and Solutions</li>
+  </ul>
+  <h3>Section D: Deploying and Managing Components</h3>
+  <ul>
+    <li>Adding and Removing Web Parts</li>
+    <li>RSS Web Part Properties</li>
+    <li>Adding a Chart Web Part</li>
+    <li>Customizing the Chart Web Part</li>
+    <li>Activating Site Features</li>
+    <li>Feature Locations</li>
+  </ul>
+  <h3>Section E: Planning for Sandbox Solutions</h3>
+  <ul>
+    <li>Sandbox Solutions</li>
+    <li>Recommended Uses</li>
+    <li>Removed Capabilities</li>
+    <li>Questions to Ask</li>
+    <li>Enabling Sandbox Solutions</li>
+  </ul>
+  <h3>Section F: Site Templates</h3>
+  <ul>
+    <li>Create New Site using a Template</li>
+    <li>Create a Meeting Workspace</li>
+    <li>Site Settings</li>
+    <li>Custom Templates in SharePoint Designer</li>
+    <li>Working with Master Pages</li>
+    <li>Customizing Page Layout</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Managing Web Applications</h3>
+  <ul>
+    <li>Managing Applications using IIS Manager</li>
+    <li>Creating an Application Pool</li>
+    <li>Editing Application Pool Settings</li>
+    <li>Managing Web Applications using CA</li>
+    <li>Creating a Web Application Using CA</li>
+    <li>Creating a New Site Collection using CA</li>
+    <li>Web Application General Settings</li>
+  </ul>
+  <h3>Section B: SharePoint Security Overview</h3>
+  <ul>
+    <li>Security Terminology</li>
+    <li>Security Incidents</li>
+    <li>AAA</li>
+    <li>CIA</li>
+    <li>Web Site Attacks</li>
+    <li>Web Site Defenses</li>
+  </ul>
+  <h3>Section C: Planning Authentication</h3>
+  <ul>
+    <li>Authentication Concepts</li>
+    <li>Authentication Methods</li>
+    <li>CBA Terminology</li>
+    <li>CBA Architecture</li>
+    <li>Selecting Authentication Methods</li>
+    <li>Planning Authentication for Zones</li>
+  </ul>
+  <h3>Section D: Designing Security Architectures</h3>
+  <ul>
+    <li>Least Privilege</li>
+    <li>SharePoint Security Architecture</li>
+    <li>Service Accounts</li>
+    <li>Permission Levels</li>
+    <li>Site Permissions</li>
+    <li>Planning Permissions</li>
+    <li>Checking Permissions</li>
+    <li>Custom Permission Levels</li>
+    <li>Granting Permissions</li>
+    <li>List Permissions</li>
+  </ul>
+  <h3>Section E: Managing Authentication Providers</h3>
+  <ul>
+    <li>Managing Authentication Provider with CA</li>
+    <li>Edit Authentication Settings</li>
+    <li>Manage Authentication Settings with IIS</li>
+    <li>Classic vs. Claims-Based Authentication</li>
+  </ul>
+  <h3>Section F: Planning Account Management</h3>
+  <ul>
+    <li>Create New User Account using ADUC</li>
+    <li>Create New Group with ADUC</li>
+    <li>Active Directory Administrative Center</li>
+    <li>Account Management using CA</li>
+    <li>Configuring Managed Accounts using CA</li>
+  </ul>
+  <h3>Section G: Provisioning Strategies and Methods</h3>
+  <ul>
+    <li>Self-Service Site Collection Settings</li>
+    <li>Managing the Farm Administrators Group</li>
+    <li>Managing Site Collection Administrators</li>
+    <li>Control Site Templates</li>
+    <li>Managing Database Quotas</li>
+    <li>Manage Web Application Security Policies</li>
+    <li>Managing Permissions</li>
+    <li>Managing Anonymous Access Policy</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: SharePoint Maintenance</h3>
+  <ul>
+    <li>Maintenance and Monitoring</li>
+    <li>Change Management Policy</li>
+    <li>Automated Maintenance</li>
+    <li>Diagnostic Logging</li>
+    <li>Additional Logs</li>
+    <li>Patching the Servers</li>
+    <li>Planning Patches</li>
+    <li>SharePoint with Performance Monitor</li>
+    <li>Create a DB Maintenance Plan</li>
+  </ul>
+  <h3>Section B: Planning SharePoint Search</h3>
+  <ul>
+    <li>SharePoint Search Licensing</li>
+    <li>Search Product Comparison Documentation</li>
+    <li>SharePoint Search Terminology</li>
+    <li>Types of Data</li>
+    <li>Search Distribution</li>
+    <li>Federated Search</li>
+  </ul>
+  <h3>Section C: Enterprise Search</h3>
+  <ul>
+    <li>Planning a Search Topology</li>
+    <li>Planning a Search Strategy</li>
+    <li>Configuring Search Settings using CA</li>
+    <li>Adding a Content Source</li>
+    <li>Select Federated Locations</li>
+    <li>Default Search Interface</li>
+    <li>Creating a Search Center</li>
+    <li>Editing Results Pages</li>
+  </ul>
+  <h3>Section D: Enterprise Content Management</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Records Management</li>
+    <li>Web Content Management</li>
+    <li>Document Management</li>
+    <li>Business Process Management</li>
+    <li>Information Management Policies</li>
+    <li>Metadata Planning</li>
+    <li>Information Rights Management</li>
+  </ul>
+  <h3>Section E: Business Intelligence</h3>
+  <ul>
+    <li>SharePoint BI Components</li>
+    <li>Create a New Site Collection</li>
+    <li>The Business Intelligence Center</li>
+    <li>Customizing a Site Collection</li>
+  </ul>
+  <h3>Section F: Social Computing and Collaboration</h3>
+  <ul>
+    <li>Managing a User Profile</li>
+    <li>Creating a User Profile</li>
+    <li>Managing Organization Profiles</li>
+    <li>Managing Audiences</li>
+    <li>My Site Settings</li>
+    <li>Create a New Blog</li>
+    <li>Install an Enterprise Wiki</li>
+  </ul>
+  <h3>Section G: SharePoint Backup and Restore</h3>
+  <ul>
+    <li>Backup Plan</li>
+    <li>SharePoint Backup Granularity</li>
+    <li>Non-Database Backups</li>
+    <li>Performing a Full Farm Backup</li>
+    <li>Exporting Sites or Lists</li>
+    <li>Using SSMS for Backup</li>
+    <li>Restoration Tools</li>
+    <li>Restoration Planning</li>
+  </ul>

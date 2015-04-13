@@ -1,0 +1,219 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Prerequisites</li>
+    <li>Microsoft Certification Paths</li>
+    <li>Server Administration Benefits</li>
+    <li>Server Administration Topics</li>
+  </ul>
+  <h3>Section B: Installing Windows Server</h3>
+  <ul>
+    <li>Windows Server Editions</li>
+    <li>Installation Types</li>
+    <li>Upgrade vs. Clean Install</li>
+    <li>Interactive Installs</li>
+    <li>Unattended Installs</li>
+    <li>WDS Installs</li>
+    <li>Post Installation Tasks</li>
+    <li>Installing Device Drivers</li>
+  </ul>
+  <h3>Section C: Server Types</h3>
+  <ul>
+    <li>Network Layer Servers</li>
+    <li>Access Servers</li>
+    <li>Network Service Servers</li>
+    <li>User Service Servers</li>
+    <li>Application Server Models</li>
+    <li>Virtualized Services</li>
+    <li>Proper Startup and Shutdown</li>
+  </ul>
+  <h3>Section D: Windows Server Roles</h3>
+  <ul>
+    <li>Application Servers</li>
+    <li>Remote Access</li>
+    <li>Enable Remote Access</li>
+    <li>Remote Desktop Client</li>
+    <li>Add Web Server Role</li>
+    <li>Managing IIS</li>
+    <li>Add New Web Site</li>
+    <li>Configuring Web Site Options</li>
+    <li>SSL Options</li>
+    <li>Application Pools</li>
+  </ul>
+  <h3>Section E: File and Print Servers</h3>
+  <ul>
+    <li>Installing a Printer</li>
+    <li>Printer Sharing</li>
+    <li>Driver Deployment</li>
+    <li>Share Level vs. NTFS Level Shares</li>
+    <li>User Rights vs. User Permissions</li>
+    <li>Object Auditing</li>
+  </ul>
+  <h3>Section F: Active Directory</h3>
+  <ul>
+    <li>Active Directory Defined</li>
+    <li>Active Directory Components</li>
+    <li>Operation Masters</li>
+    <li>Understanding Replication</li>
+    <li>Domain Functional Levels</li>
+    <li>Forest Functional Levels</li>
+    <li>Trusts and Namespaces</li>
+  </ul>
+  <h3>Section G: Managing Active Directory</h3>
+  <ul>
+    <li>Understanding Group Policies</li>
+    <li>Computer Config vs. User Config Policies</li>
+    <li>Policy Categories</li>
+    <li>Review Group Policy Results</li>
+    <li>Local Group Policy Editor</li>
+    <li>User Accounts</li>
+    <li>User Account Properties</li>
+    <li>Creating Groups</li>
+    <li>Group Properties</li>
+    <li>Active Directory Containers</li>
+    <li>Delegation</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Internal Server Storage</h3>
+  <ul>
+    <li>SCSI Overview</li>
+    <li>SCSI-1</li>
+    <li>SCSI-2</li>
+    <li>SCSI-3</li>
+    <li>Newer SCSI Standards</li>
+    <li>LVD and HVD</li>
+    <li>Multimode and Single-Ended</li>
+    <li>Connecting SCSI Devices</li>
+    <li>IDE Systems</li>
+    <li>ATA Implementations</li>
+    <li>SATA Implementations</li>
+    <li>Serial Attached SCSI</li>
+    <li>Storage Considerations</li>
+  </ul>
+  <h3>Section B: External Server Storage</h3>
+  <ul>
+    <li>Fibre Channel Overview</li>
+    <li>Fibre Channel Interfaces</li>
+    <li>Fibre Channel Arrays</li>
+    <li>SMF vs. MMF</li>
+    <li>Fibre Channel Connectors</li>
+    <li>Fibre Channel Speeds</li>
+    <li>Fibre Channel Architectures</li>
+    <li>iSCSI</li>
+    <li>FCIP</li>
+    <li>SATA</li>
+    <li>NAS vs. SAN</li>
+    <li>Backup Storage</li>
+  </ul>
+  <h3>Section C: Understanding RAID</h3>
+  <ul>
+    <li>RAID Benefits</li>
+    <li>RAID 0</li>
+    <li>RAID 1</li>
+    <li>RAID-5</li>
+    <li>Complex RAID Arrays</li>
+    <li>RAID Technologies</li>
+  </ul>
+  <h3>Section D: Configuring RAID</h3>
+  <ul>
+    <li>Standard RAID Levels</li>
+    <li>Nested RAID Levels</li>
+    <li>Software-Based RAID</li>
+    <li>Initializing Disks</li>
+    <li>New Striped Volume</li>
+    <li>Verify Striped Volume</li>
+    <li>Mirrored Volume</li>
+    <li>RAID-5 Volume</li>
+    <li>Failed Redundancy</li>
+  </ul>
+  <h3>Section E: Server Virtualization</h3>
+  <ul>
+    <li>Virtualization Methods</li>
+    <li>Benefits of Virtualization</li>
+    <li>VM Components</li>
+    <li>VM Management</li>
+    <li>Hyper-V</li>
+  </ul>
+  <h3>Section F: Basic Server Administration</h3>
+  <ul>
+    <li>Hardware Compatibility</li>
+    <li>Microsoft Hardware Compatibility Catalog</li>
+    <li>Patch Management</li>
+    <li>Server Monitoring</li>
+    <li>Basic Administration Tips</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Server Maintenance</h3>
+  <ul>
+    <li>Working with Disk Management</li>
+    <li>Create New Simple Volume</li>
+    <li>Advanced Disk Features</li>
+    <li>Business Continuity</li>
+    <li>Understanding ITIL</li>
+    <li>Windows Update Options</li>
+    <li>Review Update History</li>
+  </ul>
+  <h3>Section B: Processors and Memory</h3>
+  <ul>
+    <li>Multiprocessing</li>
+    <li>Multi vs. Dual Processors</li>
+    <li>Processes, Threads, and Fibers</li>
+    <li>64-Bit Processors</li>
+    <li>WOW32 and WOW64</li>
+    <li>64-Bit Operating Systems</li>
+    <li>Processor Features</li>
+    <li>Server Memory</li>
+    <li>Advanced Memory Features</li>
+    <li>Memory Redundancy</li>
+    <li>Selecting Memory</li>
+  </ul>
+  <h3>Section C: Performance Baselines</h3>
+  <ul>
+    <li>Performance Analysis</li>
+    <li>Creating a Baseline</li>
+    <li>Viewing Performance Reports</li>
+    <li>Processor Bottlenecks</li>
+    <li>I/O Bottlenecks</li>
+    <li>Disk Bottlenecks</li>
+    <li>Performance Counters</li>
+    <li>Trend Analysis</li>
+  </ul>
+  <h3>Section D: Troubleshooting Server Problems</h3>
+  <ul>
+    <li>Troubleshooting</li>
+    <li>Identifying the Problem</li>
+    <li>Theorize</li>
+    <li>Test the Theory</li>
+    <li>Establish and Enact the Plan</li>
+    <li>Post-Repair Testing</li>
+    <li>Root Cause Analysis</li>
+    <li>Documentation</li>
+  </ul>
+  <h3>Section E: Booting the Server</h3>
+  <ul>
+    <li>Boot Process</li>
+    <li>Advanced Boot Options</li>
+    <li>Managing Services</li>
+    <li>Service Status and Startup Type</li>
+    <li>Configuring Service Accounts</li>
+    <li>Service Recovery Options</li>
+    <li>Managing Services via Command Prompt</li>
+  </ul>
+  <h3>Section F: Using Event Viewer</h3>
+  <ul>
+    <li>Event Viewer</li>
+    <li>Viewing Events</li>
+    <li>Filtering Events</li>
+    <li>Custom Views</li>
+    <li>Assigning Tasks to Events</li>
+    <li>Event Subscription</li>
+    <li>Event Log Settings</li>
+  </ul>
+  <h3>Section G: Disaster Recovery</h3>
+  <ul>
+    <li>Disaster Recovery Plan</li>
+    <li>Handling a Disaster</li>
+    <li>Redundancy</li>
+    <li>Data Retention</li>
+    <li>Data Destruction</li>
+  </ul>

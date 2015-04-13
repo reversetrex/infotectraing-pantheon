@@ -1,0 +1,11 @@
+<p> At the end of the course, students will be able to: </p>
+<ul>
+  <li> Plan a TCP/IP physical and logical network. </li>
+  <li> Plan and troubleshoot a routing strategy. </li>
+  <li> Plan a Dynamic Host Configuration Protocol (DHCP) strategy. </li>
+  <li> Optimize and troubleshoot DHCP. </li>
+  <li> Plan a Domain Name System (DNS) strategy. </li>
+  <li> Optimize and troubleshoot DNS. </li>
+  <li> Plan and optimize Windows Internet Naming Service (WINS). </li>
+  <li>Plan, optimize, and troubleshoot</li>
+</ul>

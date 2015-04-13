@@ -1,0 +1,11 @@
+<p>Unit 1: Electronic Commerce Foundations</p>
+<p>Unit 2: Law and the Internet</p>
+<p>Unit 3: Web Marketing Goals</p>
+<p>Unit 4: Online Product Promotion</p>
+<p>Unit 5: Site Usability and Customer Relationship Management (CRM)</p>
+<p>Unit 6: Business-to-Business Frameworks</p>
+<p>Unit 7: Electronic Commerce Site Creation Packages-Outsourcing</p>
+<p>Unit 8: Electronic Commerce Site Creation/Development Software</p>
+<p>Unit 9: Configuring and Using Payment Gateways</p>
+<p>Unit 10: Transaction Security</p>
+<p>Unit 11: Website Management and Performance Testing</p>

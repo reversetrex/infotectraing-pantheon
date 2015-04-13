@@ -1,0 +1,12 @@
+<p>Upon completing this course, students will be  able to meet these objectives: </p>
+<ul>
+  <li>Describe fundamental network management concepts.</li>
+  <li>Describe the CiscoWorks applications in the LMS bundle.</li>
+  <li>Prepare the various CiscoWorks repositories, databases, and applications for use.</li>
+  <li>Maintain an asset inventory using CiscoWorks tools for documenting the network and generating reports.</li>
+  <li>Manage network connections using CiscoWorks tools to view and troubleshoot network device, end user, host, and IP Phone connections.</li>
+  <li>Manage the configurations of network devices using CiscoWorks tools that help archive, modify, and detect changes.</li>
+  <li>Monitor the network using CiscoWorks tools that measure response time and device performance.</li>
+  <li>Manage the network faults, using CiscoWorks tools which help detect and isolate problems so they can be addressed before causing further network service degradation.</li>
+  <li>Describe various CiscoWorks system administration tasks.</li>
+</ul>

@@ -1,0 +1,95 @@
+<p><strong>Module 1: Implementing Advanced Network Services</strong></p>
+<p>In this module students will be able to configure advanced features for Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS), and configure IP Address Management (IPAM).</p>
+<ul>
+  <li>Configuring Advanced DHCP Features</li>
+  <li>Configuring Advanced DNS Settings</li>
+  <li>Implementing IPAM</li>
+  <li>Managing IP Address Spaces with IPAM</li>
+</ul>
+<p><strong>Module 2: Implementing Advanced File Services</strong></p>
+<p>In this module students will be able to configure file services to meet advanced business requirements</p>
+<ul>
+  <li>Configuring iSCSI Storage</li>
+  <li>Configuring BranchCache</li>
+  <li>Optimizing Storage Usage</li>
+</ul>
+<p><strong>Module 3: Implementing Dynamic Access Control</strong></p>
+<p>In this module students will be able to configure Dynamic Access Control (DAC) to manage and audit access to shared files.</p>
+<ul>
+  <li>Overview of DAC</li>
+  <li>Implementing DAC Components</li>
+  <li>Implementing DAC for Access Control</li>
+  <li>Implementing Access Denied Assistance</li>
+  <li>Implementing and Managing Work Folders</li>
+</ul>
+<p><strong>Module 4: Implementing Distributed Active Directory Domain Services Deployments</strong></p>
+<p>In this module students will be able to plan and implement an Active Directory Domain Services (AD DS) deployment that includes multiple domains and forests.</p>
+<ul>
+  <li>Overview of Distributed AD DS Deployments</li>
+  <li>Deploying a Distributed AD DS Environment</li>
+  <li>Configuring AD DS Trusts</li>
+</ul>
+<p><strong>Module 5: Implementing Active Directory Domain Services Sites and Replication</strong></p>
+<p>In this module students will be able to plan and implement an AD DS deployment that includes multiple locations.</p>
+<ul>
+  <li>AD DS Replication Overview</li>
+  <li>Configuring AD DS Sites</li>
+  <li>Configuring and Monitoring AD DS Replication</li>
+</ul>
+<p><strong>Module 6: Implementing AD CS</strong></p>
+<p>In this module students will be able to implement an Active Directory Certificate Services (AD CS) deployment.</p>
+<ul>
+  <li>Using Certificates in a Business Environment</li>
+  <li>PKI Overview</li>
+  <li>Deploying CAs</li>
+  <li>Deploying and Managing Certificate Templates</li>
+  <li>Implementing Certificate Distribution and Revocation</li>
+  <li>Managing Certificate Recovery</li>
+</ul>
+<p><strong>Module 7: Implementing Active Directory Rights Management Services</strong></p>
+<p>In this module students will be able to implement an AD RMS deployment.</p>
+<ul>
+  <li>AD RMS Overview</li>
+  <li>Deploying and Managing an AD RMS Infrastructure</li>
+  <li>Configuring AD RMS Content Protection</li>
+  <li>Configuring External Access to AD RMS</li>
+</ul>
+<p><strong>Module 8: Implementing and Administering AD FS</strong></p>
+<p>In this module students will be able to implement an Active Directory Federation Services (AD FS) deployment.</p>
+<ul>
+  <li>Overview of AD FS</li>
+  <li>Deploying AD FS</li>
+  <li>Implementing AD FS for a Single Organization</li>
+  <li>Deploying AD FS in a Business-to-Business Federation Scenario</li>
+  <li>Extending AD FS to External Clients</li>
+</ul>
+<p><strong>Module 9: Implementing Network Load Balancing</strong></p>
+<p>In this module students will be able to provide high availability and load balancing for web-based applications by implementing Network Load Balancing (NLB).</p>
+<ul>
+  <li>Overview of NLB</li>
+  <li>Configuring an NLB Cluster</li>
+  <li>Planning an NLB Implementation</li>
+</ul>
+<p><strong>Module 10: Implementing Failover Clustering</strong></p>
+<p>In this module students will be able to provide high availability for network services and applications by implementing failover clustering.</p>
+<ul>
+  <li>Overview of Failover Clustering</li>
+  <li>Implementing a Failover Cluster</li>
+  <li>Configuring Highly Available Applications and Services on a Failover Cluster</li>
+  <li>Maintaining a Failover Cluster</li>
+  <li>Implementing a Multi-Site Failover Cluster</li>
+</ul>
+<p><strong>Module 11: Implementing Failover Clustering with Hyper-V</strong></p>
+<p>In this module students will be able to deploy and manage Hyper-V virtual machines in a failover cluster.</p>
+<ul>
+  <li>Overview of Integrating Hyper-V with Failover Clustering</li>
+  <li>Implementing Hyper-V Virtual Machines on Failover Clusters</li>
+  <li>Implementing Hyper-V Virtual Machine Movement</li>
+</ul>
+<p><strong>Module 12: Implementing Business Continuity and Disaster Recovery</strong></p>
+<p>In this module students will be able to implement a backup and disaster recovery solution based on business and technical requirements.</p>
+<ul>
+  <li>Data Protection Overview</li>
+  <li>Implementing Windows Server Backup</li>
+  <li>Implementing Server and Data Recovery</li>
+</ul>

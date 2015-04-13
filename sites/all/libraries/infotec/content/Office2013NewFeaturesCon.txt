@@ -1,0 +1,111 @@
+<p><strong>Unit 1 : Using the Ribbon</strong></p>
+<ul>
+  <li><strong>Topic A: Office interface elements</strong>
+<ul>
+      <li>A-1: Using the ribbon</li>
+      <li>A-2: Using Live Preview</li>
+      <li>A-3: Using the Dialog Box Launcher</li>
+      <li>A-4: Adding a command to the Quick Access Toolbar</li>
+      <li>A-5: Using the status bar</li>
+    </ul>
+  </li>
+  <li><strong>Topic B: Customizing the ribbon</strong>
+<ul>
+      <li>B-1: Hiding and showing the ribbon</li>
+      <li>B-2: Rearranging ribbon tabs and groups</li>
+      <li>B-3: Hiding and removing tabs and groups</li>
+      <li>B-4: Creating a ribbon tab</li>
+      <li>B-5: Switching to Touch Mode</li>
+      <li>B-6: Resetting the ribbon</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Unit 2 : Files and online services</strong></p>
+<ul>
+  <li><strong>Topic A: Microsoft Office Backstage view</strong>
+<ul>
+      <li>A-1: Viewing and editing document properties</li>
+      <li>A-2: Specifying print settings</li>
+      <li>A-3: Recovering a draft of a previously saved file</li>
+      <li>A-4: Finishing a document</li>
+    </ul>
+  </li>
+  <li><strong>Topic B: Online and cloud functions</strong>
+<ul>
+      <li>B-1: Inserting online content</li>
+      <li>B-2: Using online services (instructor demo)</li>
+      <li>B-3: Presenting a file online (instructor demo)</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Unit 3 : New Word features</strong></p>
+<ul>
+  <li><strong>Topic A: Viewing documents</strong>
+<ul>
+      <li>A-1: Navigating a document</li>
+      <li>A-2: Exploring Read Mode</li>
+      <li>A-3: Using new review features</li>
+    </ul>
+  </li>
+  <li><strong>Topic B: Document design</strong>
+<ul>
+      <li>B-1: Customizing document appearance</li>
+      <li>B-2: Arranging graphics</li>
+      <li>B-3: Adding table rows and columns</li>
+      <li>B-4: Changing table borders</li>
+    </ul>
+  </li>
+  <li><strong>  Topic C: Editing PDFs in Word</strong>
+<ul>
+      <li>C-1: Converting a PDF file to a Word document</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Unit 4 : New Excel features</strong></p>
+<ul>
+  <li><strong>Topic A: Context-sensitive automation</strong>
+<ul>
+      <li>A-1: Using Flash Fill</li>
+      <li>A-2: Formatting with Quick Analysis</li>
+    </ul>
+  </li>
+  <li><strong>Topic B: Organizing and presenting data</strong>
+<ul>
+      <li>B-1: PivotTable recommendations</li>
+      <li>B-2: Inserting a recommended chart</li>
+      <li>B-3: Formatting a chart</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Unit 5 : New PowerPoint features</strong></p>
+<ul>
+  <li><strong>Topic A: New visual enhancements</strong>
+<ul>
+      <li>A-1: Applying theme variants</li>
+      <li>A-2: Matching colors with the Eyedropper</li>
+    </ul>
+  </li>
+  <li><strong>Topic B: Arranging presentation elements</strong>
+<ul>
+      <li>B-1: Using alignment guides</li>
+      <li>B-2: Combining shapes</li>
+      <li>B-3: Viewing motion paths</li>
+    </ul>
+  </li>
+  <li><strong>Topic C: Presenter view</strong>
+<ul>
+      <li>C-1: Exploring Presenter view</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Unit 6 : New Outlook features</strong></p>
+<ul>
+  <li><strong>Topic A: Navigating Outlook</strong>
+<ul>
+      <li>A-1: Examining the Folder pane</li>
+      <li>A-2: Using People View</li>
+      <li>A-3: Customizing the Weather bar</li>
+    </ul>
+  </li>
+  <li><strong>Topic B: Working with messages</strong></li>
+</ul>

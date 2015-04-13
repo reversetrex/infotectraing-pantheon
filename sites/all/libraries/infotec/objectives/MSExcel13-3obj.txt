@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, you will be able to perform advanced data analysis, collaborate on workbooks with other users, and automate workbook functionality. You will:</p>
+<ul>
+  <li>Work with multiple worksheets and workbooks simultaneously.</li>
+  <li>Share and protect workbooks.</li>
+  <li>Automate workbook functionality.</li>
+  <li>Apply conditional logic.</li>
+  <li>Audit worksheets.</li>
+  <li>Use automated analysis tools.</li>
+  <li>Present your data visually.</li>
+</ul>

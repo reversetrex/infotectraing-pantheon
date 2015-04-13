@@ -1,0 +1,67 @@
+<p><strong> PL/SQL Basics </strong></p>
+   <ul>
+     <li> PL/SQL Blocks</li>
+     <li> Declarations </li>
+     <li> Using SQL Statements in PL/SQL </li>
+     <li> Assignments </li>
+     <li> Conditional Statements </li>
+     <li> Looping Statements </li>
+   </ul>
+   <p><strong> Exception Handling </strong></p>
+   <ul>
+     <li> Pre-defined Exceptions </li>
+     <li> User Defined Exceptions </li>
+     <li> The OTHERS Exception </li>
+     <li> Using RAISE_APPLICATION_ERROR </li>
+     <li> Nested Blocks </li>
+   </ul>
+   <p><strong> Using Cursors </strong></p>
+   <ul>
+     <li> Declare, Open, Fetch, and Close a Cursor </li>
+     <li> Cursor Attributes </li>
+     <li> Using a Record for a Cursor </li>
+     <li> Cursor FOR Loops </li>
+     <li> Using Parameters with Cursors </li>
+   </ul>
+   <p><strong> Stored Procedures and Functions </strong></p>
+   <ul>
+     <li> Shared SQL </li>
+     <li> Stored Procedures </li>
+     <li> Stored Functions </li>
+     <li> Object Dependencies </li>
+     <li> Managing Source Code </li>
+     <li> Security for Procedures and Functions </li>
+     <li> Invoker Rights </li>
+   </ul>
+   <p><strong> Database DML Triggers </strong></p>
+   <ul>
+     <li> Defining Triggers </li>
+     <li> Trigger Restrictions </li>
+     <li> Trigger Predicates </li>
+   </ul>
+   <p><strong> Packages </strong></p>
+   <ul>
+     <li> Creating Packages </li>
+     <li> Advantages of Packages </li>
+     <li> Referencing Package Elements </li>
+     <li> Using Global Variables in a Package </li>
+     <li> Autonomous Transactions </li>
+     <li> Forward Declarations </li>
+   </ul>
+   <p><strong> PL/SQL Tables and Records </strong></p>
+   <ul>
+     <li> Composite Data Types: PL/SQL Tables </li>
+     <li> Referencing PL/SQL Tables </li>
+     <li> Composite Datatypes: Programmer-Defined Records </li>
+   </ul>
+   <p><strong> Subprograms </strong><br>
+   Using BOOLEAN Values Improving Performance Using Bulk Collect PL/SQL Built-In Packages </p>
+   <ul><li> DBMS_SHARED_POOL </li>
+     <li> DBMS_SCHEDULER </li>
+     <li> DBMS_METADATA </li>
+     <li> DBMS_PIPE </li>
+     <li> DBMS_LOB </li>
+     <li> DBMS_UTILITY </li>
+     <li> UTL_MAIL </li>
+     <li> UTL_COMPRESS </li>
+   </ul>

@@ -1,0 +1,10 @@
+<p>Upon completion of this course, learners are able to:</p>
+<ul>
+  <li>Install Access Gateway Advanced Edition</li>
+  <li>Configure resources using the Access Management Console</li>
+  <li>Create continuous and endpoint analysis scans</li>
+  <li>Create filters and policies</li>
+  <li>Create logon points</li>
+  <li>Configure an Access Gateway appliance for use with Advanced Access Control software</li>
+  <li>Access resources through Access Gateway Advanced Edition</li>
+</ul>

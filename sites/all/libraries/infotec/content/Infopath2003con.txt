@@ -1,0 +1,43 @@
+<p><strong>Lesson 1: Using InfoPath</strong> <br />
+  Complete a Form<br />
+  Save a Form<br />
+  Export Form Data to Excel<br />
+  Export Form Data to the Web<br />
+  Edit Posted Data <br />
+  Share Forms Through Outlook </p>
+<p><strong>Lesson 2: Creating Forms</strong> <br />
+  Draft a Form<br />
+  Add a Validation Rule<br />
+  Test a Form<br />
+  Create Forms from Templates<br />
+  Delete Forms or Templates</p>
+<p><strong>Lesson 3: Distributing Forms</strong> <br />
+  Publish a Form Template<br />
+  Troubleshoot Publishing Problems</p>
+<p><strong>Lesson 4: Customizing Form Layout</strong> <br />
+  Format a Form<br />
+  Insert Pictures<br />
+  Customize Tables<br />
+  Create Optional or Repeating Sections <br />
+  Merge Forms </p>
+<p><strong>Lesson 5: Managing Controls</strong> <br />
+  Customize Controls <br />
+  Populate Controls from a Data Source<br />
+  Bind Controls</p>
+<p><strong>Lesson 6: Managing Views</strong> <br />
+  Create Custom Views<br />
+  Set the Default View <br />
+  Modify a View <br />
+  Create a Print View </p>
+<p><strong>Lesson 7: Applying Security</strong> <br />
+  Protect InfoPath Forms<br />
+  Set Security Zones</p>
+<p><strong>Lesson 8: Working With a Database</strong> <br />
+  Develop a Form From a Database<br />
+  Use InfoPath Forms to Add Records to a Database<br />
+  Use InfoPath Forms to Query a Database</p>
+<p><strong>Lesson 9: Installing InfoPath</strong> <br />
+  Repair InfoPath Installation <br />
+  Check the Computer for Minimum Requirements <br />
+  Install InfoPath <br />
+  Uninstall InfoPath </p>

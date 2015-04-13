@@ -1,0 +1,33 @@
+<h2>Session 1</h2>
+  <h3>Section A: Leadership</h3>
+  <ul>
+    <li>Supervision and Leadership</li>
+    <li>Five Action Steps</li>
+    <li>Power Points</li>
+    <li>Delegation</li>
+    <li>Building Blocks</li>
+    <li>The PDCA Cycle</li>
+    <li>Value - Added</li>
+    <li>Review</li>
+  </ul>
+  <h3>Section B: Managing Your Time</h3>
+  <ul>
+    <li>Take Control</li>
+    <li>Time Management</li>
+    <li>Stress Management</li>
+    <li>Handling New Employees</li>
+    <li>Training Employees</li>
+    <li>Recognition</li>
+    <li>Review</li>
+  </ul>
+  <h3>Section C: Supervisory Success</h3>
+  <ul>
+    <li>PDCA - Management Tool</li>
+    <li>Promotions</li>
+    <li>Problem Employees</li>
+    <li>EEO / AAR</li>
+    <li>Communication</li>
+    <li>Meetings</li>
+    <li>Presentations</li>
+    <li>Review</li>
+  </ul>

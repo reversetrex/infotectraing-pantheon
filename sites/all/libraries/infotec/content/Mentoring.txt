@@ -1,0 +1,29 @@
+<h2>Session 1</h2>
+  <h3>Section A: Mentoring</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+    <li>The Story of Mentor</li>
+    <li>What is Mentoring?</li>
+    <li>Helping Agents</li>
+    <li>Mentoring Relationships</li>
+  </ul>
+  <h3>Section B: Mentoring Skills</h3>
+  <ul>
+    <li>Communication Skills</li>
+    <li>Shifting Context</li>
+    <li>Listening</li>
+    <li>Feelings and Feedback</li>
+    <li>Productive Confrontation</li>
+    <li>Providing Information</li>
+    <li>Authority and Permission</li>
+    <li>Exploring Options</li>
+  </ul>
+  <h3>Section C: Mentoring for Results</h3>
+  <ul>
+    <li>Negative Behaviors</li>
+    <li>Mentoring Challenges</li>
+    <li>Enjoy the Rewards</li>
+    <li>Case Studies</li>
+    <li>Conclusion</li>
+  </ul>

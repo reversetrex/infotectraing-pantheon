@@ -1,0 +1,43 @@
+<p><strong>Unit 1: Structuring Existing Data</strong></p>
+<ul>
+  <li>Topic 1A: Analyze Tables</li>
+  <li>Topic 1B: Create a Junction Table</li>
+  <li>Topic 1C: Improve the Table Structure</li>
+</ul>
+<p><strong>Unit 2: Writing Advanced Queries</strong></p>
+<ul>
+  <li>Topic 2A: Create Subqueries</li>
+  <li>Topic 2B: Create Unmatched and Duplicate Queries</li>
+  <li>Topic 2C: Group and Summarize Records Using Criteria</li>
+  <li>Topic 2D: Summarize Data Using a Crosstab Query</li>
+  <li>Topic 2E: Create a PivotTable and a PivotChart</li>
+</ul>
+<p><strong>Unit 3: Simplifying Tasks with Macros</strong></p>
+<ul>
+  <li>Topic 3A: Create a Macro</li>
+  <li>Topic 3B: Attach a Macro</li>
+  <li>Topic 3C: Restrict Records Using a Condition</li>
+  <li>Topic 3D: Validate Data Using a Macro</li>
+  <li>Topic 3E: Automate Data Entry Using a Macro</li>
+</ul>
+<p><strong>Unit 4: Making Effective Use of Forms</strong></p>
+<ul>
+  <li>Topic 4A: Display a Calendar on a Form</li>
+  <li>Topic 4B: Organize Information with Tab Pages</li>
+  <li>Topic 4C: Display a Summary of Data in a Form</li>
+</ul>
+<p><strong>Unit 5: Making Reports More Effective</strong></p>
+<ul>
+  <li>Topic 5A: Include a Chart in a Report</li>
+  <li>Topic 5B: Print Data in Columns</li>
+  <li>Topic 5C: Cancel Printing of a Blank Report</li>
+  <li>Topic 5D: Create a Report Snapshot</li>
+</ul>
+<p><strong>Unit 6: Maintaining an Access Database</strong></p>
+<ul>
+  <li>Topic 6A: Link Tables to External Data Sources</li>
+  <li>Topic 6B: Manage a Database</li>
+  <li>Topic 6C: Determine Object Dependency</li>
+  <li>Topic 6D: Document a Database</li>
+  <li>Topic 6E: Analyze the Performance of a Database </li>
+</ul>

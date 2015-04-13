@@ -1,0 +1,95 @@
+<p><strong> Unit 1: Overview of Systems Management Server 2003 </strong></p>
+<ul>
+  <li> Where SMS Fits in the Windows Server System </li>
+  <li> Describing How SMS 2003 Features Provide Change and Configuration Management </li>
+  <li> Explaining SMS Hierarchies </li>
+  <li> Explaining SMS Site-to-Site Communication </li>
+  <li> Explaining SMS Site and Roaming Boundaries </li>
+  <li> Discussion: Overview of Systems Management Server&nbsp;2003 </li>
+</ul>
+<p><strong> Unit 2: Exploring SMS Site Architecture </strong></p>
+<ul>
+  <li> Introduction to the SMS Site Server </li>
+  <li> Exploring the SMS Administrator Console and the SMS 2003 Toolkit 1 </li>
+  <li> Explaining the Role of Active Directory in SMS&nbsp;2003 </li>
+  <li> Explaining How SMS Uses Dependent Technologies </li>
+  <li> Discussion: Exploring SMS Site Architecture </li>
+</ul>
+<p><strong> Unit 3: Preparing to Deploy the SMS Clients </strong></p>
+<ul>
+  <li> Introduction to the SMS Clients </li>
+  <li> Discovering Resources </li>
+  <li> Deploying the Site Systems That Support Client Installation and Client/Server Communication </li>
+  <li> Discussion: Preparing to Deploy the SMS Clients </li>
+</ul>
+<p><strong> Unit 4: Deploying SMS Clients </strong></p>
+<ul>
+  <li> Deploying the Advanced Client </li>
+  <li> Deploying the Legacy Client </li>
+  <li> Isolating Problems When Installing SMS Clients </li>
+  <li> Discussion: Deploying SMS Clients </li>
+</ul>
+<p><strong> Unit 5: Collecting Inventory and Software Metering </strong></p>
+<ul>
+  <li> Introduction to Inventory Collection </li>
+  <li> Collecting Inventory Information </li>
+  <li> Extending Inventory Collection </li>
+  <li> Configuring Software Metering </li>
+  <li> Discussion: Collecting Inventory and Software Metering </li>
+</ul>
+<p><strong> Unit 6: Querying and Reporting Data </strong></p>
+<ul>
+  <li> Introduction to the Architecture of Data and Status Queries </li>
+  <li> Creating and Running Queries </li>
+  <li> Configuring and Deploying a Reporting Point </li>
+  <li> Configuring and Running Reports </li>
+  <li> Creating and Running Dashboards </li>
+  <li> Discussion: Querying and Reporting Data </li>
+</ul>
+<p><strong> Unit 7: Preparing an SMS Site for Software Distribution </strong></p>
+<ul>
+  <li> Explaining How SMS Distributes Software </li>
+  <li> Managing Distribution Points </li>
+  <li> Configuring Software Distribution and the Advertised Programs Client Agent </li>
+  <li> Discussion: Preparing an SMS Site for Software Distribution </li>
+</ul>
+<p><strong> Unit 8: Managing Software Distribution </strong></p>
+<ul>
+  <li> Configuring Software Distribution Objects Using a Software Distribution Methodology </li>
+  <li> Creating and Configuring Collections </li>
+  <li> Creating and Configuring Packages </li>
+  <li> Creating and Configuring Advertisements </li>
+  <li> Managing Software Installation at the Client </li>
+  <li> Monitoring Software Distribution </li>
+  <li> Discussion: Managing Software Distribution </li>
+</ul>
+<p><strong> Unit 9: Implementing SMS Software Update Tools and Managing Update Deployment </strong></p>
+<ul>
+  <li> Explaining How the Software Update Process Works </li>
+  <li> Installing the Software Update Scanning Tools </li>
+  <li> Performing Software Update Inventory </li>
+  <li> Deploying and Verifying Software Updates </li>
+  <li> Discussion: Implementing SMS Software Update Tools and Managing Update Deployment </li>
+</ul>
+<p><strong> Unit 10: Using Remote Tools for Client Support </strong></p>
+<ul>
+  <li> Introduction to Remote Tools </li>
+  <li> Configuring the Remote Tools Client Agent </li>
+  <li> Using SMS Remote Tools in Troubleshooting </li>
+  <li> Discussion: Using SMS Remote Tools </li>
+</ul>
+<p><strong> Unit 11: Working with SMS Hierarchies </strong></p>
+<ul>
+  <li> Introduction to the SMS Site Hierarchy </li>
+  <li> Configuring Site Communications </li>
+  <li> Installing a Secondary Site Server </li>
+  <li> Managing Roaming Clients in an SMS Hierarchy </li>
+  <li> Discussion: Working with SMS Hierarchies </li>
+</ul>
+<p><strong> Unit 12: Performing Site Maintenance, Backup, and Recovery Tasks </strong></p>
+<ul>
+  <li> Performing Site Maintenance </li>
+  <li> Performing an SMS Site Backup </li>
+  <li> Recovering an SMS Site </li>
+  <li> Discussion: Performing Site Maintenance, Backup, and Recovery Tasks </li>
+</ul>

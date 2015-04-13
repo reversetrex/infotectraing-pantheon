@@ -1,0 +1,297 @@
+<p><strong>MS 20410</strong></p>
+<p><strong>Module 1: Deploying and Managing Windows Server 2012</strong></p>
+<p>This module introduces the new Windows Server 2012 administrative interface. This module covers the different roles and features that are available with the Windows Server 2012 operating system. It also discusses the various installation and configuration options you can use when deploying and configuring Windows Server 2012.</p>
+<ul>
+  <li>Windows Server 2012 Overview</li>
+  <li>Overview of Windows Server 2012 Management</li>
+  <li>Installing Windows Server 2012</li>
+  <li>Post-Installation Configuration of Windows Server 2012</li>
+  <li>Introduction to Windows PowerShell</li>
+</ul>
+<p><strong>Module 2: Introduction to Active Directory Domain Services</strong></p>
+<p>This module introduces Active Directory Domain Services (AD DS) in Windows Server 2012. It covers general AD DS infrastructure including forests, trees, schema, Global Catalog, Operations Masters. It also covers installing and configuring domain controllers.</p>
+<ul>
+  <li>Overview of AD DS</li>
+  <li>Overview of Domain Controllers  </li>
+  <li>Installing a Domain Controller</li>
+</ul>
+<p><strong>Module 3: Managing Active Directory Domain Services Objects</strong></p>
+<p>This module covers configuring Active Directory Objects such as users, groups and computers. The functionality of AD DS Administrative Tools is addressed, in addition to the configuration of user profiles and the process of delegating permissions to perform AD DS administration.</p>
+<ul>
+  <li>Managing User Accounts</li>
+  <li>Managing Group Accounts</li>
+  <li>Managing Computer Accounts</li>
+  <li>Delegating Administration</li>
+</ul>
+<p><strong>Module 4: Automating Active Directory Domain Services Administration</strong></p>
+<p>This module covers using command-line tools to configure and administer AD DS. It introduces using Windows PowerShell cmdlets for AD DS administration, and using Windows PowerShell to perform bulk AD DS administrative operations.</p>
+<ul>
+  <li>Using Command-line Tools for Administration</li>
+  <li>Using Windows PowerShell for Administration</li>
+  <li>Performing Bulk Operations with Windows PowerShell</li>
+</ul>
+<p><strong>Module 5: Implementing IPv4</strong></p>
+<p>This module covers Internet Protocol Version 4 (IPv4) addressing. It details the various IPv4 components, covers subnetting and supernetting, and discusses configuring and general troubleshooting of IPv4 addresses.</p>
+<ul>
+  <li>Overview of TCP/IP</li>
+  <li>Understanding IPv4 Addressing</li>
+  <li>Subnetting and Supernetting</li>
+  <li>Configuring and Troubleshooting IPv4</li>
+</ul>
+<p><strong>Module 6: Implementing DHCP</strong></p>
+<p>This module covers the installation and configuration of DHCP as well as managing a DHCP database. It also covers security and monitoring of DHCP, including auditing and logging.</p>
+<ul>
+  <li>Installing a DHCP Server Role</li>
+  <li>Configuring DHCP Scopes</li>
+  <li>Managing a DHCP Database</li>
+  <li>Securing and Monitoring DHCP</li>
+</ul>
+<p><strong>Module 7: Implementing DNS</strong></p>
+<p>This module covers name resolution for Windows Server and clients. It details the installation of a DNS server and configuring Active Directory Integrated DNS zones.</p>
+<ul>
+  <li>Name Resolution for Windows Client and Servers</li>
+  <li>Installing and Managing a DNS Server</li>
+  <li>Managing DNS Zones</li>
+</ul>
+<p><strong>Module 8: Implementing IPv6</strong></p>
+<p>This module covers understanding and implementing IPv6 addressing. It covers configuration and troubleshooting as well as co-existence with IPv4 using transition technologies.</p>
+<ul>
+  <li>Overview of IPv6</li>
+  <li>IPv6 Addressing</li>
+  <li>Coexistence with IPv6</li>
+  <li>IPv6 Transition Technologies</li>
+</ul>
+<p><strong>Module 9: Implementing Local Storage</strong></p>
+<p>This module covers the storage configuration options for Windows Server 2012, including managing disks and volumes and implementing file systems. It also covers creating and managing storage pools.</p>
+<ul>
+  <li>Overview of Storage</li>
+  <li>Managing Disks and Volumes</li>
+  <li>Implementing Storage Spaces</li>
+</ul>
+<p><strong>Module 10: Implementing File and Print Services</strong></p>
+<p>This module covers securing files, folders and network file shares, in addition to using shadow copies to   protect network file shares. It also covers configuring network printing and creating a printer pool.</p>
+<ul>
+  <li>Securing Files and Folders</li>
+  <li>Protecting Shared Files and Folders Using Shadow Copies</li>
+  <li>Configuring Network Printing</li>
+</ul>
+<p><strong>Module 11: Implementing Group Policy</strong></p>
+<p>This module covers using Group Policy to centrally manage and apply configuration settings.</p>
+<ul>
+  <li>Overview of Group Policy</li>
+  <li>Group Policy Processing</li>
+  <li>Implementing a Central Store for Administrative Templates</li>
+</ul>
+<p><strong>Module 12: Securing Windows Servers Using Group Policy Objects</strong></p>
+<p>Increase security in a Windows Server 2012 infrastructure by using Group Policy Objects, AppLocker, and Windows   Firewall.</p>
+<ul>
+  <li>Windows Security Overview</li>
+  <li>Configuring Security Settings</li>
+  <li>Restricting Software</li>
+  <li>Configuring Windows Firewall with Advanced Security</li>
+</ul>
+<p><strong>Module 13: Implementing Server Virtualization with Hyper-V</strong></p>
+<p>This module describes Microsoft Virtualization technologies. It covers installing and configuring Hyper-V virtual machines, configuring virtual storage, and configuring virtual networks.</p>
+<ul>
+  <li>Overview of Virtualization Technologies</li>
+  <li>Implementing Hyper-V</li>
+  <li>Managing Virtual Machine Storage</li>
+  <li>Managing Virtual Networks</li>
+</ul>
+<p><strong>MS 20411</strong></p>
+<p><strong>Module 1: Implementing a Group Policy Infrastructure</strong></p>
+<p>This module covers how to implement a Group Policy infrastructure and then how to configure and manage that infrastructure. It also covers how to scope Group Policy objects (GPOs) using links, security groups, WMI filters, loopback processing, and preference targeting as well as covering troubleshooting policy application.</p>
+<ul>
+  <li>Introducing Group Policy</li>
+  <li>Implementing and Administering GPOs</li>
+  <li>Managing Group Policy Scope</li>
+  <li>Group Policy Processing</li>
+  <li>Troubleshooting the Application of GPOs</li>
+</ul>
+<p><strong>Module 2: Managing User Desktops with Group Policy</strong></p>
+<p>This module covers implementing administrative templates, how to configure GPO preferences and folder redirection as well as managing software with Group Policy.</p>
+<ul>
+  <li>Implementing Administrative Templates</li>
+  <li>Configuring Folder Redirection and Scripts</li>
+  <li>Configuring Group Policy Preferences</li>
+  <li>Managing Software with Group Policy</li>
+</ul>
+<p><strong>Module 3: Managing User and Service Accounts</strong></p>
+<p>This module covers how to create and administer user accounts as well as configure user object attributes. It also covers automating user account creation and configuring Managed Service Accounts.</p>
+<ul>
+  <li>Automating User Account Creation</li>
+  <li>Configuring Password Policy and Account Lockout Settings</li>
+  <li>Creating and Administering User Accounts</li>
+  <li>Configuring User Object Attributes</li>
+  <li>Configuring Managed Service Accounts</li>
+</ul>
+<p><strong>Module 4: Maintaining Active Directory Domain Services</strong></p>
+<p>This module covers how to implement Virtualized and Read Only Domain Controllers as well as how to perform common AD DS administrative tasks. The module will also cover how to manage the AD DS database.</p>
+<ul>
+  <li>Implementing Virtualized Domain Controllers</li>
+  <li>Implementing Read Only Domain Controllers</li>
+  <li>Administering AD DS</li>
+  <li>Managing the AD DS Database</li>
+</ul>
+<p><strong>Module 5: Configuring and Troubleshooting DNS</strong></p>
+<p>This module covers installing and configuring the DNS server role as well as creating and configuring DNS zones   and zone transfers. It will also cover managing and troubleshooting DNS.</p>
+<ul>
+  <li>Installing the DNS Server Role</li>
+  <li>Configuring the DNS Server Role</li>
+  <li>Configuring DNS Zones</li>
+  <li>Configuring DNS Zone Transfers</li>
+  <li>Managing and Troubleshooting DNS</li>
+</ul>
+<p><strong>Module 6: Configuring and Troubleshooting Remote Access</strong></p>
+<p>This module covers configuring network access, creating and configuring virtual private networks (VPNs) and   Network Policies as well as troubleshooting routing and remote access. It will also cover configuration of DirectAccess.</p>
+<ul>
+  <li>Configuring Network Access</li>
+  <li>Configuring VPN Access</li>
+  <li>Overview of Network Policies</li>
+  <li>Troubleshooting Routing and Remote Access</li>
+  <li>Configuring DirectAccess</li>
+</ul>
+<p><strong>Module 7: Installing, Configuring, and Troubleshooting the Network Policy Server Role</strong></p>
+<p>This module covers installing and configuring Network Policy Server (NPS) RADIUS, as well as clients and servers. It will also deal with NPS authentication methods and monitoring and troubleshooting a NPS.</p>
+<ul>
+  <li>Installing and Configuring a Network Policy Server</li>
+  <li>Configuring RADIUS Clients and Servers</li>
+  <li>NPS Authentication Methods</li>
+  <li>Monitoring and Troubleshooting a Network Policy Server</li>
+</ul>
+<p><strong>Module 8: Implementing Network Access Protection</strong></p>
+<p>This module will provide an overview of Network Access Protection (NAP), detailing the functionality and infrastructure requirements. It will also cover configuration, monitoring and troubleshooting NAP.</p>
+<ul>
+  <li>Overview of Network Access Protection</li>
+  <li>Overview of NAP Enforcement Processes</li>
+  <li>Configuring NAP</li>
+  <li>Monitoring and Troubleshooting NAP</li>
+</ul>
+<p><strong>Module 9: Optimizing File Services</strong></p>
+<p>This module covers File Server Resource Manager (FSRM) and how to use it to implement Quotas, file screens and Storage Reports. It will also outline how to implement Classification Management and File Management Tasks as well as covering how to implement DFS, DFS Namespaces and configuring and troubleshooting DFS Replication.</p>
+<ul>
+  <li>Overview of FSRM</li>
+  <li>Using FSRM to Manage Quotas, File Screens, and Storage Reports</li>
+  <li>Implementing Classification Management and File Management Tasks</li>
+  <li>DFS Overview</li>
+  <li>Configuring DFS Namespaces</li>
+  <li>Configuring and Troubleshooting DFS Replication</li>
+</ul>
+<p><strong>Module 10: Configuring Encryption and Advanced Auditing</strong></p>
+<p>This module covers how to increase file system security by configuring file encryption with Encrypting File System (EFS) as well as how to enable and implement advanced auditing features.</p>
+<ul>
+  <li>Encrypting Network Files with EFS</li>
+  <li>Configuring Advanced Auditing</li>
+</ul>
+<p><strong>Module 11: Deploying and Maintaining Server Images</strong></p>
+<p>This module covers the functionality of Windows Deployment Services (WDS), and explains how to use Windows Deployment Services tools to perform lite-touch deployments.</p>
+<ul>
+  <li>Overview of Windows Deployment Services</li>
+  <li>Implementing Deployment with WDS</li>
+  <li>Administering WDS</li>
+</ul>
+<p><strong>Module 12: Deploying and Maintaining Server Images</strong></p>
+<p>This module covers the features and functionality of Windows Server Update Services (WSUS)as well as detailing how to provision updates with WSUS.</p>
+<ul>
+  <li>Overview of WSUS</li>
+  <li>Deploying Updates with WSUS</li>
+</ul>
+<p><strong>Module 13: Monitoring Windows Server 2012</strong></p>
+<p>This module covers monitoring tools available in Windows Server 2012. It will cover the use of Performance Monitor, as well as how to monitor and successfully utilize Event logs.</p>
+<ul>
+  <li>Monitoring Tools</li>
+  <li>Using Performance Monitor</li>
+  <li>Monitoring Event Logs</li>
+</ul>
+<p><strong>MS 20412</strong></p>
+<p><strong>Module 1: Implementing Advanced Network Services</strong></p>
+<p>This module describes how to configure advanced features in the Domain Name System (DNS) and Dynamic Host Configuration Protocol (DHCP) with Windows Server 2012, and it covers IP Address Management (IPAM).</p>
+<ul>
+  <li>Configuring Advanced DHCP Features</li>
+  <li>Configuring Advanced DNS Settings</li>
+  <li>Implementing IP Address Management</li>
+</ul>
+<p><strong>Module 2: Implementing Advanced File Services</strong></p>
+<p>This module describes how to configure and manage iSCSI and BranchCache, and how to implement Windows 2012 features that optimize storage utilization, such as File Server Resource Manager, file classification, and data duplication.</p>
+<ul>
+  <li>Configuring iSCSI Storage</li>
+  <li>Configuring BranchCache</li>
+  <li>Optimizing Storage Usage</li>
+</ul>
+<p><strong>Module 3: Implementing Dynamic Access Control</strong></p>
+<p>This module describes how to plan and implement Dynamic Access Control.</p>
+<ul>
+  <li>Overview of Dynamic Access Control</li>
+  <li>Planning for Dynamic Access Control</li>
+  <li>Deploying Dynamic Access Control</li>
+</ul>
+<p><strong>Module 4: Implementing Network Load Balancing</strong></p>
+<p>This module describes how to plan and implement NLB. It will cover managing and configuring an NLB cluster and validating high availability for an NLB cluster.</p>
+<ul>
+  <li>Overview of NLB</li>
+  <li>Configuring an NLB Cluster</li>
+  <li>Planning an NLB Implementation</li>
+</ul>
+<p><strong>Module 5: Implementing Failover Clustering</strong></p>
+<p>This module describes the failover clustering features in Windows Server 2012. It explains how to implement a failover cluster, configure highly available applications and services on a failover cluster, maintain a failover cluster, and use new maintenance features such as Cluster Aware Updating (CAU). It will also cover how to implement multisite failover clustering.</p>
+<ul>
+  <li>Overview of Failover Clustering</li>
+  <li>Implementing a Failover Cluster</li>
+  <li>Configuring Highly Available Applications and Services on a Failover Cluster</li>
+  <li>Maintaining a Failover Cluster</li>
+  <li>Implementing a Multi-Site Failover Cluster</li>
+</ul>
+<p><strong>Module 6: Implementing Failover Clustering with Hyper-V</strong></p>
+<p>This module describes the options for making virtual machines highly available. It explains how to implement virtual machines in a failover cluster that was deployed on a host and how you can move a virtual machine or its storage. In addition, it provides a high-level overview of System Center Virtual Machine Manager (SCVMM) 2012.</p>
+<ul>
+  <li>Overview of Integrating Hyper-V with Failover Clustering</li>
+  <li>Implementing Hyper-V Virtual Machines on Failover Clusters</li>
+  <li>Implementing Hyper-V Virtual Machine Movement</li>
+  <li>Managing Hyper-V Virtual Environments by Using VMM</li>
+</ul>
+<p><strong>Module 7: Implementing Disaster Recovery</strong></p>
+<p>This module describes considerations for implementing a disaster recovery solution, and how to plan and implement a backup solution for Windows Server 2012. In addition, it explains how to plan and implement server and data recovery using Windows Server backup and Microsoft Online backup.</p>
+<ul>
+  <li>Overview of Disaster Recovery</li>
+  <li>Implementing Windows Server Backup</li>
+  <li>Implementing Server and Data Recovery</li>
+</ul>
+<p><strong>Module 8: Implementing Distributed Active Directory Domain Services Deployments</strong></p>
+<p>This module describes the components of a highly complex AD DS deployment, which includes implementing a distributed AD DS deployment and configuring AD DS forest trusts.</p>
+<ul>
+  <li>Overview of Distributed AD DS Deployments</li>
+  <li>Implementing a Distributed AD DS Environment</li>
+  <li>Configuring AD DS Trusts</li>
+</ul>
+<p><strong>Module 9: Implementing Active Directory Domain Services Sites and Replication</strong></p>
+<p>This module describes how replication works in a Windows Server 2012 AD DS environment, including how to configure AD DS sites so that you can optimize AD DS network traffic and how to configure and monitor AD DS replication.</p>
+<ul>
+  <li>Overview of AD DS Replication</li>
+  <li>Configuring AD DS Sites</li>
+  <li>Configuring and Monitoring AD DS Replication</li>
+</ul>
+<p><strong>Module 10: Implementing Active Directory Certificate Services</strong></p>
+<p>This module describes the Public Key Infrastructure (PKI) components and concepts. It covers implementing a certification authority infrastructure, planning and implementing a certificate template deployment using an AD CS certification authority, and planning and implementing certificate distribution and revocation.</p>
+<ul>
+  <li>PKI Overview</li>
+  <li>Deploying CAs</li>
+  <li>Deploying and Managing Certificate Templates</li>
+  <li>Implementing Certificate Distribution and Revocation</li>
+  <li>Managing Certificate Recovery</li>
+</ul>
+<p><strong>Module 11: Implementing Active Directory Rights Management Services</strong></p>
+<p>This module describes the AD RMS features and functionality. It explains how to use AD RMS to configure content protection, and deploy and manage an AD RMS infrastructure.</p>
+<ul>
+  <li>AD RMS Overview</li>
+  <li>Deploying and Managing an AD RMS Infrastructure</li>
+  <li>Configuring AD RMS Content Protection</li>
+  <li>Configuring External Access to AD RMS</li>
+</ul>
+<p><strong>Module 12: Implementing Active Directory Federation Services</strong></p>
+<p>This module provides identity federation business scenarios, and it describes how to use AD FS to address such scenarios. It explains how to configure AD FS prerequisites, deploy AD FS services, enable single sign-on (SSO) for an organization, and enable SSO between federated business partners.</p>
+<ul>
+  <li>Overview of AD FS</li>
+  <li>Deploying AD FS</li>
+  <li>Implementing AD FS for a Single Organization</li>
+  <li>Deploying AD FS in a B2B Federation Scenario</li>
+</ul>

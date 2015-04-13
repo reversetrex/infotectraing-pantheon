@@ -1,0 +1,7 @@
+<ul>
+  <li>Learn to work with all of the SharePoint out-of-the box sites.</li>
+  <li>Use each of the built-in list types.</li>
+  <li>Learn to manage permissions on sites,lists and items.</li>
+  <li>Explore Office 2007 integration points.</li>
+  <li>Learn basic site administration and customization.</li>
+</ul>

@@ -1,0 +1,16 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> List the major elements of the .NET Framework and explain how they fit into the .NET platform. </li>
+  <li> Explain the main concepts behind the common language runtime and use the features of the .NET Framework to create a simple application. </li>
+  <li> Create and use components in Microsoft Windows&reg; Forms-based and ASP.NET-based applications. </li>
+  <li> Use the deployment and versioning features of the .NET runtime to deploy multiple versions of a component. </li>
+  <li> Create, use, and extend types by understanding the common type system architecture. </li>
+  <li> Create classes and interfaces that are functionally efficient and appropriate for given programming scenarios. </li>
+  <li> Use the .NET Framework class library to efficiently create and manage strings, arrays, collections, and enumerators. </li>
+  <li> Use delegates and events to make an event sender signal the occurrence of an action to an event receiver. </li>
+  <li> Describe and control how memory and other resources are managed in the .NET Framework. </li>
+  <li> Read from and write to data streams and files. </li>
+  <li> Use the basic request/response model to send and receive data over the Internet. </li>
+  <li> Serialize and deserialize an object graph. </li>
+  <li> Create distributed applications using XML Web services and object remoting. </li>
+</ul>

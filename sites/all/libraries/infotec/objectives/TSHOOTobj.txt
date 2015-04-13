@@ -1,0 +1,10 @@
+<p>Upon completing this course, the student will be able to meet these overall objectives:</p>
+<ul>
+  <li>Plan and document the most commonly performed maintenance functions in complex enterprise networks.</li>
+  <li>Develop a troubleshooting process to identify and resolve problems in complex enterprise networks.</li>
+  <li>Select tools that best support specific troubleshooting and maintenance processes in large, complex enterprise networks.</li>
+  <li>Practice maintenance procedures and fault resolution in switching-based environments.</li>
+  <li>Practice maintenance procedures and fault resolution in routing-based environments.</li>
+  <li>Practice maintenance procedures and fault resolution in a secure infrastructure.</li>
+  <li>Troubleshoot and maintain integrated, complex enterprise networks.</li>
+</ul>

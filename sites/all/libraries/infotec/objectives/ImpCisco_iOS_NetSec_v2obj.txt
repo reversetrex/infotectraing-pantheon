@@ -1,0 +1,7 @@
+<p><strong>Upon completing this course, you will be able to meet these objectives:</strong></p>
+<ul>
+ <li>Describe the components of a comprehensive network security policy that can be used to counter threats against IT systems, within the context of a security policy life cycle</li>
+ <li>Develop and implement security countermeasures that are aimed at protecting network elements as part of the network infrastructure</li>
+ <li>Deploy and maintain threat control and containment technologies for perimeter security in small and midsize networks</li>
+ <li>Describe secure connectivity strategies and technologies using VPNs, as well as configure site-to-site and remote-access VPNs using Cisco IOS features</li>
+</ul>

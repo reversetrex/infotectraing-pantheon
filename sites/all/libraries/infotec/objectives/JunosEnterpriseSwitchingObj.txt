@@ -1,0 +1,31 @@
+<p>After successfully completing this course, you should be able to:</p>
+<ul>
+  <li>List the benefits of implementing switched LANs.</li>
+  <li>Describe transparent bridging concepts and operations.</li>
+  <li>Describe terms and design considerations for switched LANs.</li>
+  <li>List enterprise platforms that support Layer 2 switching.</li>
+  <li>Configure interfaces for Layer 2 switching operations.</li>
+  <li>Display and interpret the Ethernet switching table.</li>
+  <li>Explain the concept of a VLAN.</li>
+  <li>Describe access and trunk port modes.</li>
+  <li>Configure and monitor VLANs.</li>
+  <li>Describe voice VLAN and native VLAN concepts.</li>
+  <li>Explain inter-VLAN routing operations.</li>
+  <li>Configure and monitor inter-VLAN routing.</li>
+  <li>Explain when a spanning tree is required.</li>
+  <li>Describe STP and Rapid Spanning Tree Protocol (RSTP) operations.</li>
+  <li>List some advantages of using RSTP over STP.</li>
+  <li>Configure and monitor RSTP.</li>
+  <li>Describe the bridge protocol data unit (BPDU), Loop, and Root protection features.</li>
+  <li>Configure and monitor the BPDU, Loop, and Root protection features.</li>
+  <li>List and describe various port security features.</li>
+  <li>Configure and monitor port security features.</li>
+  <li>Describe the storm control feature.</li>
+  <li>Configure and monitor storm control.</li>
+  <li>Describe firewall filter support for EX Series Ethernet Switches.</li>
+  <li>Implement and monitor the effects of a firewall filter.</li>
+  <li>Describe the basic concepts and operational details of a virtual chassis.</li>
+  <li>Implement a virtual chassis with multiple EX4200 switches.</li>
+  <li>List and describe some features that promote high availability.</li>
+  <li>Configure and monitor high availability features.</li>
+</ul>

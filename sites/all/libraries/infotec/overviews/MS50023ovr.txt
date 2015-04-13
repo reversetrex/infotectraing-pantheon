@@ -1,0 +1,1 @@
+<p>This five-day instructor-led course provides students with the knowledge and skills to protect and recover data using System Center Data Protection Manager 2007 (DPM).</p>

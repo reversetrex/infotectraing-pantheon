@@ -1,0 +1,12 @@
+<p>At the end of  the course, you should gain an understanding of the functionality in VMware vSphere 4 and be able to:</p>
+<ul>
+  <li>Install and configure ESX or ESXi.</li>
+  <li>Install and configure vCenter Server components.</li>
+  <li>Configure and manage ESX/ESXi networking and storage using vCenter Server.</li>
+  <li>Deploy, manage, and migrate virtual machines.</li>
+  <li>Manage user access to the VMware infrastructure.</li>
+  <li>Use vCenter Server to monitor resource usage.</li>
+  <li>Use vCenter Server to increase scalability.</li>
+  <li>Use VMware vCenter Update Manager to apply ESX/ESXi patches.</li>
+  <li>Use vCenter Server to manage higher availability and data protection.</li>
+</ul>

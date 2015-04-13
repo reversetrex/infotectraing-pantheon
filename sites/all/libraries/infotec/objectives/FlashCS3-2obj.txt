@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Use basic ActionScript code.</li>
+  <li>Manipulate components with ActionScript.</li>
+  <li>Work with movie clips.</li>
+  <li>Add data to your application using built-in classes.</li>
+  <li>Reuse code with functions.</li>
+  <li>Connect to external data.</li>
+  <li>Build a navigation system.</li>
+  <li>Manage user data with forms.</li>
+</ul>

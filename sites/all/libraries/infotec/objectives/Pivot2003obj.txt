@@ -1,0 +1,5 @@
+<ul>
+  <li>Create, add fields to, and delete fields from a pivot table.</li>
+  <li> Change and reorganize pivot table data, alter pivot table field information, and refresh pivot table data.</li>
+  <li> Discuss grouping pivot table data.</li>
+</ul>

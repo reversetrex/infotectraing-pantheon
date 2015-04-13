@@ -1,0 +1,9 @@
+<p>By the end of this course you should be able to:</p>
+<ul>
+  <li>Explain features of the Data ONTAP operating system</li>
+  <li>Use the CLI and OnCommand System Manager to identify storage components</li>
+  <li>Configure storage systems and storage virtual machines (SVMs) for NAS and SAN client access</li>
+  <li>Create FlexVol volumes, qtrees, and LUNs</li>
+  <li>Manage Snapshot copies and FlexClone software</li>
+  <li>Manage volume move and storage efficiency</li>
+</ul>

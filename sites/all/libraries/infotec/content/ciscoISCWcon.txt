@@ -1,0 +1,8 @@
+<ul>
+  <li> Describe Network Requirements </li>
+  <li>Connect Teleworks </li>
+  <li>Implement Frame Mode MPLS </li>
+  <li>IPsec VPNs </li>
+  <li>Cisco Device Hardening </li>
+  <li>Cisco IOS Threat Defense Features</li>
+</ul>

@@ -1,0 +1,12 @@
+<h2>Session 1</h2>
+  <h3>Section A: Telephone Courtesy</h3>
+  <ul>
+    <li>Telephone Techniques</li>
+    <li>Answering Calls</li>
+    <li>Holding Calls</li>
+    <li>Leaving Messages</li>
+    <li>Taking Responsibility</li>
+    <li>Transferring Calls</li>
+    <li>Voice Messaging</li>
+    <li>Handling Problems</li>
+  </ul>

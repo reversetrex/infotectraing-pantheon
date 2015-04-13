@@ -1,0 +1,8 @@
+<strong>Upon successful completion of this course, students will be able to:</strong>
+<ul>
+  <li>Familiarize yourself with PHP.</li>
+  <li>Work with common PHP script elements.</li>
+  <li>Work with forms.</li>
+  <li>Address the stateless nature of HTTP.</li>
+  <li>Access and manipulate data with PHP.</li>
+</ul>

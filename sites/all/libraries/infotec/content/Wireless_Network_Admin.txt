@@ -1,0 +1,425 @@
+<h2>Session 1</h2>
+  <h3>Section A: Wireless Network Administration</h3>
+  <ul>
+    <li>Prerequisites</li>
+    <li>CWNP Certifications</li>
+    <li>CWNA Certification Benefits</li>
+    <li>Certification Prep</li>
+    <li>Wireless Industry Evolution</li>
+  </ul>
+  <h3>Section B: Wireless Network Types</h3>
+  <ul>
+    <li>WLAN</li>
+    <li>WMAN</li>
+    <li>WWAN</li>
+    <li>WPAN</li>
+  </ul>
+  <h3>Section C: WLAN Applications</h3>
+  <ul>
+    <li>Corporate WLAN</li>
+    <li>ISP Utilization</li>
+    <li>Government Utilization</li>
+    <li>Hotspots</li>
+  </ul>
+  <h3>Section D: Industry Organizations</h3>
+  <ul>
+    <li>IEEE</li>
+    <li>Wi-Fi Alliance</li>
+    <li>Regulatory Domains</li>
+  </ul>
+  <h3>Section E: RF Fundamentals</h3>
+  <ul>
+    <li>Waves</li>
+    <li>Wave Characteristics</li>
+    <li>Gain and Amplification</li>
+    <li>Loss and Attenuation</li>
+    <li>VSWR and Return Loss</li>
+  </ul>
+  <h3>Section F: RF Behavior</h3>
+  <ul>
+    <li>Reflection</li>
+    <li>Refraction</li>
+    <li>Diffraction</li>
+    <li>Scatter</li>
+    <li>Absorption</li>
+    <li>Delay Spread</li>
+  </ul>
+  <h3>Section G: RF Mathematics</h3>
+  <ul>
+    <li>Watt and Milliwatt</li>
+    <li>Decibel (dB)</li>
+    <li>Gain Rules</li>
+    <li>dBm</li>
+    <li>dBi</li>
+    <li>dBd</li>
+  </ul>
+  <h3>Section H: RF Measurements</h3>
+  <ul>
+    <li>Isotropic Radiator</li>
+    <li>Intentional Radiator</li>
+    <li>EIRP</li>
+    <li>SNR and RSSI</li>
+    <li>Link Budget</li>
+    <li>SOM</li>
+    <li>Fade Margin</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: RF Signal Concepts</h3>
+  <ul>
+    <li>Visual Line of Sight</li>
+    <li>RF LOS</li>
+    <li>Fresnel Zones</li>
+    <li>Earth Bulge</li>
+  </ul>
+  <h3>Section B: RF Antenna Basics</h3>
+  <ul>
+    <li>Passive Gain</li>
+    <li>Beamwidth</li>
+    <li>Azimuth and Elevation Charts</li>
+    <li>Antenna Diversity</li>
+    <li>MIMO Diversity</li>
+    <li>Spatial Multiplexing</li>
+    <li>Transmit Beam Forming</li>
+    <li>Maximal Ratio Combining</li>
+  </ul>
+  <h3>Section C: RF Antenna Types</h3>
+  <ul>
+    <li>Omni-Directional Antennas</li>
+    <li>Semi-Directional Antennas</li>
+    <li>Highly Directional Antennas</li>
+    <li>Sectorized Antennas</li>
+  </ul>
+  <h3>Section D: Antenna Installation</h3>
+  <ul>
+    <li>Pole/Mast Mount</li>
+    <li>Ceiling Mount</li>
+    <li>Wall Mount</li>
+    <li>Mounting Systems</li>
+    <li>Towers</li>
+    <li>Safety Equipment and Concerns</li>
+  </ul>
+  <h3>Section E: RF Accessories</h3>
+  <ul>
+    <li>RF Cables</li>
+    <li>RF Connectors</li>
+    <li>RF Splitters</li>
+    <li>Amplifiers and Attenuators</li>
+    <li>Lightning Arrestors</li>
+    <li>Grounding Equipment</li>
+  </ul>
+  <h3>Section F: Spread Spectrum Tech</h3>
+  <ul>
+    <li>Bandwidth</li>
+    <li>Coding</li>
+    <li>HR/DSSS Coding</li>
+    <li>OFDM Coding</li>
+    <li>Modulation</li>
+    <li>Communications Resilience</li>
+  </ul>
+  <h3>Section G: IEEE 802.11 Overview</h3>
+  <ul>
+    <li>Original Standard</li>
+    <li>802.11b and 802.11a</li>
+    <li>802.11g</li>
+    <li>802.11n</li>
+    <li>802.11i</li>
+    <li>802.11e</li>
+  </ul>
+  <h3>Section H: Important Standards</h3>
+  <ul>
+    <li>IEEE 802.3</li>
+    <li>IEEE 802.2</li>
+    <li>IEEE 802.1X</li>
+    <li>IEEE 802.1D and 802.1Q</li>
+    <li>RFC 3748 and 2865</li>
+    <li>OSI and 802.11</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Terminology Review</h3>
+  <ul>
+    <li>MAC and PHY</li>
+    <li>Bits and Bytes</li>
+    <li>Frames and Packets</li>
+    <li>SDUs and PDUs</li>
+  </ul>
+  <h3>Section B: IEEE 802.11-2007 Physical Layers</h3>
+  <ul>
+    <li>License-Free Bands</li>
+    <li>Output Power Limits</li>
+    <li>More Output Power Limits</li>
+    <li>U-NII Output Power Limits</li>
+    <li>Infrared and FHSS PHYs</li>
+    <li>Direct Sequence PHYs</li>
+    <li>OFDM-Based PHYs</li>
+    <li>High Throughput PHY</li>
+  </ul>
+  <h3>Section C: Understanding CSMA/CA</h3>
+  <ul>
+    <li>CSMA/CD</li>
+    <li>CSMA/CA</li>
+    <li>Carrier Sense</li>
+    <li>Interframe Spacing</li>
+    <li>DCF, HCF, and EDCA</li>
+  </ul>
+  <h3>Section D: Channel Access Methods</h3>
+  <ul>
+    <li>RTS/CTS</li>
+    <li>CTS-to-Self</li>
+    <li>HT Dual-CTS Protection</li>
+    <li>HT L-Sig Protection</li>
+    <li>Fragmentation</li>
+    <li>HT Channel Width and Operation</li>
+  </ul>
+  <h3>Section E: IEEE 802.11 Frames</h3>
+  <ul>
+    <li>802.3 Frame Format</li>
+    <li>802.11 Frame Format</li>
+    <li>802.11 Frame Types</li>
+    <li>Acknowledgement Frames</li>
+    <li>Network Layer Support</li>
+    <li>Jumbo Frames</li>
+    <li>MTU Functionality</li>
+    <li>Guard Intervals</li>
+  </ul>
+  <h3>Section F: IEEE 802.11 State Machine</h3>
+  <ul>
+    <li>802.11 State Machine</li>
+    <li>Authentication</li>
+    <li>Association</li>
+    <li>Reassociation</li>
+    <li>Disassociation</li>
+  </ul>
+  <h3>Section G: WLAN Service Sets</h3>
+  <ul>
+    <li>Stations Defined</li>
+    <li>Basic Service Set</li>
+    <li>Ad-Hoc WLANs</li>
+    <li>Infrastructure WLANs</li>
+    <li>Starting a BSS</li>
+    <li>BSSID vs. SSID</li>
+    <li>Distribution System</li>
+    <li>Roaming</li>
+  </ul>
+  <h3>Section H: Locating WLANs</h3>
+  <ul>
+    <li>Active Scanning</li>
+    <li>Passive Scanning</li>
+    <li>Dynamic Rate Switching</li>
+    <li>Preauthentication</li>
+  </ul>
+  <h3>Section I: Power Management</h3>
+  <ul>
+    <li>Active and Power Save Modes</li>
+    <li>Indication Maps</li>
+    <li>WMM-PS and U-APSD</li>
+    <li>PSMP</li>
+    <li>SMPS</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Access Points</h3>
+  <ul>
+    <li>Autonomous Access Points</li>
+    <li>Access Point Modes</li>
+    <li>Common AP Features</li>
+    <li>SOHO AP Features</li>
+    <li>Enterprise AP Features</li>
+    <li>Lightweight APs</li>
+    <li>Mesh APs/Routers</li>
+    <li>Installation and Management</li>
+  </ul>
+  <h3>Section B: Infrastructure Hardware</h3>
+  <ul>
+    <li>Enterprise WLAN Controllers/Switches</li>
+    <li>Configuring Controllers</li>
+    <li>WLAN Controller Examples</li>
+    <li>Remote Office Controllers</li>
+    <li>WLAN Bridges</li>
+    <li>WLAN Gateways</li>
+    <li>Enterprise Encryption Gateways</li>
+  </ul>
+  <h3>Section C: Power over Ethernet</h3>
+  <ul>
+    <li>IEEE 802.3-2005 Clause 33</li>
+    <li>PoE Injectors and Switches</li>
+    <li>Standard Terminology</li>
+    <li>PoE Installation</li>
+    <li>Powering HT Devices</li>
+  </ul>
+  <h3>Section D: WLAN Client Hardware</h3>
+  <ul>
+    <li>PC Cards</li>
+    <li>USB Devices</li>
+    <li>Compact Flash and SD</li>
+    <li>PCI</li>
+    <li>Workgroup Bridges</li>
+    <li>Wireless Presentation Gateways</li>
+    <li>Wireless NAS</li>
+  </ul>
+  <h3>Section E: Centralized Design Model</h3>
+  <ul>
+    <li>Design Models</li>
+    <li>Centralized WLAN Controller</li>
+    <li>Multiple BSSIDs per Radio</li>
+    <li>Station Handoffs</li>
+    <li>Configuring Infrastructure</li>
+    <li>Tunneling, QoS, and VLANs</li>
+  </ul>
+  <h3>Section F: Wireless Network Management Systems</h3>
+  <ul>
+    <li>Common Features</li>
+    <li>Network Connectivity</li>
+    <li>Configuration and Management</li>
+  </ul>
+  <h3>Section G: Multi and Single Channel Architectures</h3>
+  <ul>
+    <li>MCA and SCA Defined</li>
+    <li>BSSID and SSID Configuration</li>
+    <li>Site Surveying Tips</li>
+    <li>Channel Interference</li>
+    <li>Cell Sizing</li>
+    <li>SCA Specifics</li>
+  </ul>
+  <h3>Section H: Alternate WLAN Architectures</h3>
+  <ul>
+    <li>WLAN Arrays</li>
+    <li>Cooperative Control Model</li>
+    <li>Mesh Network Model</li>
+  </ul>
+  <h3>Section I: Site Surveying Toolkit</h3>
+  <ul>
+    <li>Spectrum Analyzers</li>
+    <li>Protocol Analyzers</li>
+    <li>Active and Passive Tools</li>
+    <li>Manufacturer Utilities</li>
+    <li>Other Equipment</li>
+    <li>Outdoor Equipment</li>
+    <li>Complete Kits</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Information Gathering</h3>
+  <ul>
+    <li>Three Site Survey Phases</li>
+    <li>Business Requirements</li>
+    <li>Functional Requirements</li>
+    <li>Site-Specific Documentation</li>
+    <li>Indoor/Outdoor Specifics</li>
+    <li>Infrastructure Connectivity</li>
+    <li>Coverage and Capacity</li>
+    <li>Antenna Use Considerations</li>
+    <li>Tracking and WIPS Considerations</li>
+  </ul>
+  <h3>Section B: Performing the Survey</h3>
+  <ul>
+    <li>RF Interference Sources</li>
+    <li>AP and Antenna Types</li>
+    <li>AP Output Power Levels</li>
+    <li>Co-Channel/Adjacent Channel Interference</li>
+    <li>Testing Applications</li>
+  </ul>
+  <h3>Section C: Documenting the Survey</h3>
+  <ul>
+    <li>Reporting Methodologies</li>
+    <li>Hardware Requirements</li>
+    <li>Application Analysis</li>
+    <li>Resulting Documents</li>
+  </ul>
+  <h3>Section D: Advanced Site Surveys</h3>
+  <ul>
+    <li>Predictive Surveys</li>
+    <li>Automated RF Management</li>
+    <li>Verification Tools</li>
+  </ul>
+  <h3>Section E: WLAN Vulnerabilities</h3>
+  <ul>
+    <li>Eavesdropping</li>
+    <li>Rogue APs</li>
+    <li>Encryption Cracking</li>
+    <li>Denial of Service</li>
+    <li>HIjacking</li>
+    <li>Use of Legacy Security</li>
+  </ul>
+  <h3>Section F: Current WLAN Security Solutions</h3>
+  <ul>
+    <li>WPA/WPA2</li>
+    <li>WPS</li>
+    <li>TKIP and CCMP</li>
+    <li>802.1X</li>
+    <li>EAP Framework</li>
+    <li>Preshared Keys/Passphrases</li>
+    <li>Secure Management</li>
+    <li>Role-Based Access Control</li>
+    <li>Security Analyisis</li>
+  </ul>
+  <h3>Section G: Security Policies</h3>
+  <ul>
+    <li>General Policies</li>
+    <li>Functional Policies</li>
+    <li>Policy Assesment</li>
+  </ul>
+  <h3>Section H: Troubleshooting WLANs</h3>
+  <ul>
+    <li>System Throughput</li>
+    <li>Multipath</li>
+    <li>Troubleshooting Multipath</li>
+    <li>Hidden Nodes</li>
+    <li>Near/Far Problem</li>
+    <li>Channel Interference</li>
+    <li>RF Noise and Interference</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: 802.11n</h3>
+  <ul>
+    <li>802.11n Goals</li>
+    <li>802.11n Features</li>
+    <li>Cisco 802.11n Router</li>
+    <li>NETGEAR 802.11n Router</li>
+  </ul>
+  <h3>Section B: Physical Layer Changes</h3>
+  <ul>
+    <li>Antennas in 802.11n</li>
+    <li>Spatial Multiplexing</li>
+    <li>Transmit Beamforming</li>
+    <li>Space-Time Block Coding</li>
+    <li>HT Channels</li>
+  </ul>
+  <h3>Section C: MAC Layer Changes</h3>
+  <ul>
+    <li>Frame Types</li>
+    <li>Aggregation</li>
+    <li>802.11n Interframe Spacing</li>
+    <li>Protection Mechanisms</li>
+    <li>Operation Modes</li>
+  </ul>
+  <h3>Section D: 802.11n Spectrum Analysis</h3>
+  <ul>
+    <li>Required Hardware</li>
+    <li>Channelyzer</li>
+    <li>Saving Spectral Data</li>
+    <li>AirMagnet Spectrum XT</li>
+    <li>Find Devices</li>
+  </ul>
+  <h3>Section E: 802.11n Protocol Analysis</h3>
+  <ul>
+    <li>802.11n Requirements</li>
+    <li>OmniPeek Wireless Analysis</li>
+    <li>Wireshark</li>
+    <li>Capture Analysis</li>
+    <li>Viewing Frames</li>
+    <li>Statistics</li>
+    <li>AirMagnet Web Site</li>
+    <li>AirMagnet Protocol Analyzer</li>
+  </ul>
+  <h3>Section F: 802.11n Site Surveys</h3>
+  <ul>
+    <li>Site Survey Considerations</li>
+    <li>Site Survey Equipment</li>
+    <li>Site Survey Process</li>
+    <li>Site Survey Results</li>
+  </ul>
+  <h3>Section G: Implementing 802.11n Networks</h3>
+  <ul>
+    <li>PoE and 802.11n</li>
+    <li>Implementation Types</li>
+    <li>Implementation Process</li>
+    <li>Common 802.11n Problems</li>
+  </ul>

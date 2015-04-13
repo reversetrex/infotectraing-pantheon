@@ -1,0 +1,24 @@
+<p> At the end of the course, students will be able to:</p>
+<ul>
+  <li> Describe the relevance and usages for sharePoint Portal Server 2003 </li>
+  <li> Define information work and its challenges </li>
+  <li> Describe the major features of SharePoint Portal Server 2003 </li>
+  <li> List the key product concepts and terms </li>
+  <li> Describe the core technologies </li>
+  <li> Distinguish between Windows SharePoint Services and SharePoint Portal Server </li>
+  <li> Describe the architecture of Microsoft SharePoint Products and Technologies </li>
+  <li> Describe the development model for SharePoint Portal Server </li>
+  <li> Describe the requirements for deploying SharePoint Products and Technologies </li>
+  <li> Install SharePoint Products and Technologies </li>
+  <li> Describe how security is implemented in SharePoint Products and Technologies </li>
+  <li> Manage permissions for SharePoint Products and Technologies </li>
+  <li> Describe the content types available in SharePoint Portal Server </li>
+  <li> Describe how SharePoint Portal Server integrates with Office 2003 </li>
+  <li> Plan a single server deployment </li>
+  <li> Connect enterprise applications </li>
+  <li> Configure single sign-on </li>
+  <li> Upgrade from previous versions of SharePoint </li>
+  <li> Describe areas and navigation </li>
+  <li> Manage areas and navigation </li>
+  <li> Deploy a SharePoint Portal Server Web Farm </li>
+</ul>

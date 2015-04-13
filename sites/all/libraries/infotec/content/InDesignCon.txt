@@ -1,0 +1,113 @@
+<p><strong> Unit 1: Managing the InDesign Environment </strong></p>
+<ul>
+  <li> Topic 1A: Introduction to InDesign </li>
+  <li>Topic 1B: Customize Your Workspace </li>
+  <li>Topic 1C: Set General Preferences </li>
+  <li>Topic 1D: Manage Document Presets </li>
+</ul>
+<p><strong> Unit 2: Designing Documents </strong></p>
+<ul>
+  <li> Topic 2A: Create a New Document </li>
+  <li>Topic 2B: Alter a Document's Layout </li>
+  <li>Topic 2C: Create the Structure of a Document </li>
+  <li>Topic 2D: Develop Master Pages </li>
+  <li>Topic 2E: Manage Text and Graphic Placement </li>
+  <li>Topic 2F: Develop Layers </li>
+</ul>
+<p><strong> Unit 3: Managing Text </strong></p>
+<ul>
+  <li> Topic 3A: Add Text </li>
+  <li>Topic 3B: Edit Text </li>
+  <li>Topic 3C: Spell Check Text </li>
+  <li>Topic 3D: Thread Text </li>
+  <li>Topic 3E: Change Text Threads </li>
+  <li>Topic 3F: Format Characters </li>
+  <li>Topic 3G: Format Paragraphs </li>
+  <li>Topic 3H: Manage Styles </li>
+</ul>
+<p><strong> Unit 4: Utilizing Colors, Swatches, and Gradients </strong></p>
+<ul>
+  <li> Topic 4A: Utilize Color </li>
+  <li>Topic 4B: Utilize Swatches </li>
+  <li>Topic 4C: Apply Fills, Gradients, and Strokes </li>
+</ul>
+<p><strong> Unit 5: Managing Transparency </strong></p>
+<ul>
+  <li> Topic 5A: Apply Transparency </li>
+  <li>Topic 5B: Apply Transparency Flattener Presets </li>
+</ul>
+<p><strong> Unit 6: Utilizing Tables </strong></p>
+<ul>
+  <li> Topic 6A: Create a Table </li>
+  <li>Topic 6B: Modify a Table </li>
+  <li>Topic 6C: Format a Table </li>
+</ul>
+<p><strong> Unit 7: Preparing for Handoff to a Service Provider </strong></p>
+<ul>
+  <li> Topic 7A: Check Documents for Problems </li>
+  <li>Topic 7B: Print a Document </li>
+  <li>Topic 7C: Package Files </li>
+  <li>Topic 7D: Preview Output </li>
+</ul>
+<p><strong> Unit 8: Creating Acrobat PDF Files </strong></p>
+<ul>
+  <li> Topic 8A: Prepare PDF Files for Web Distribution </li>
+  <li>Topic 8B: Manage PDF Presets </li>
+  <li>Topic 8C: Export PDF Files for Printing </li>
+</ul>
+<p><strong> Indesign CS 2: Level 2</strong></p>
+<p><strong> Unit 1: Administering Advanced Styles </strong></p>
+<ul>
+  <li> Topic 1A: Manage Style Overrides </li>
+  <li>Topic 1B: Base One Style on Another </li>
+  <li>Topic 1C: Import and Redefine Styles </li>
+</ul>
+<p><strong> Unit 2: Controlling Text </strong></p>
+<ul>
+  <li> Topic 2A: Create and Use Anchored Objects </li>
+  <li>Topic 2B: Flow Text and Inline Graphics </li>
+  <li>Topic 2C: Handle Text Layout </li>
+  <li>Topic 2D: Merge Data </li>
+</ul>
+<p><strong> Unit 3: Handling Page Elements and Graphics </strong></p>
+<ul>
+  <li> Topic 3A: Duplicate Items </li>
+  <li>Topic 3B: Locate Assets Using Adobe Bridge </li>
+  <li>Topic 3C: Place Items from Other Applications </li>
+  <li>Topic 3D: Align, Size, and Transform Images </li>
+  <li>Topic 3E: Manage Libraries </li>
+</ul>
+<p><strong> Unit 4: Developing B&eacute;zier Paths </strong></p>
+<ul>
+  <li> Topic 4A: Draw and Edit B&eacute;zier Paths </li>
+  <li>Topic 4B: Create Compound Paths </li>
+  <li>Topic 4C: Create Clipping Paths </li>
+  <li>Topic 4D: Create Type Outlines </li>
+</ul>
+<p><strong> Unit 5: Managing Long Documents </strong></p>
+<ul>
+  <li> Topic 5A: Create Document Sections </li>
+  <li>Topic 5B: Create a Table of Contents </li>
+  <li>Topic 5C: Generate an Index </li>
+  <li>Topic 5D: Insert and Format Footnotes </li>
+  <li>Topic 5E: Add and Edit Hyperlinks </li>
+  <li>Topic 5F: Create a Book </li>
+</ul>
+<p><strong> Unit 6: Importing and Exporting Files </strong></p>
+<ul>
+  <li> Topic 6A: Import Layered Files </li>
+  <li>Topic 6B: Export PDF Files </li>
+</ul>
+<p><strong> Unit 7: Adjusting Print Settings </strong></p>
+<ul>
+  <li> Topic 7A: Create Print Presets </li>
+  <li>Topic 7B: Preview Print Output </li>
+</ul>
+<p><strong> Unit 8: Working with XML </strong></p>
+<ul>
+  <li> Topic 8A: Integrate XML into a Document </li>
+  <li>Topic 8B: Import XML </li>
+  <li>Topic 8C: Export XML </li>
+  <li>Topic 8D: Integrate XML with Tables </li>
+  <li>Topic 8E: Create and Use a Snippet</li>
+</ul>

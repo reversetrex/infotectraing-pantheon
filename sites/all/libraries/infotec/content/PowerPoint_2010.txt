@@ -1,0 +1,279 @@
+<h2>Session 1</h2>
+  <h3>Section A: Building Effective Presentations</h3>
+  <ul>
+    <li>Preparation and Organization</li>
+    <li>AIM</li>
+    <li>Audience</li>
+    <li>Intent</li>
+    <li>Message</li>
+    <li>Sensory Levels</li>
+    <li>Presentation Structure</li>
+    <li>Using Visuals</li>
+    <li>Vocal Emphasis</li>
+    <li>Attire</li>
+    <li>Filler Words</li>
+    <li>Body Language and Eye Contact</li>
+    <li>Presentation Tips</li>
+  </ul>
+  <h3>Section B: PowerPoint 2010 Overview</h3>
+  <ul>
+    <li>Launching PowerPoint</li>
+    <li>Interface Layout</li>
+    <li>Understanding the Ribbon</li>
+    <li>Customizing the Quick Access Toolbar</li>
+  </ul>
+  <h3>Section C: Creating Presentations</h3>
+  <ul>
+    <li>New Presentations</li>
+    <li>Using Templates</li>
+    <li>Keyboard Speed Keys</li>
+    <li>Slide vs. Outline View</li>
+    <li>Changing Views</li>
+    <li>Slide Sorter View</li>
+    <li>Reading and Presentation Views</li>
+    <li>Navigation Tips</li>
+    <li>Saving a Presentation</li>
+    <li>File Extensions</li>
+    <li>Slide Design Process</li>
+  </ul>
+  <h3>Section D: Creating Initial Content</h3>
+  <ul>
+    <li>Understanding Layouts</li>
+    <li>Adding Slide Content</li>
+    <li>Changing Case Keyboard Shortcut</li>
+    <li>Selecting Text Tip</li>
+    <li>Increasing and Decreasing Font Size</li>
+    <li>Adding Slides</li>
+    <li>Arranging Slides</li>
+    <li>Copying and Pasting</li>
+    <li>Copying and Pasting Windows Rule</li>
+    <li>Using Paste Special</li>
+  </ul>
+  <h3>Section E: Design Themes</h3>
+  <ul>
+    <li>Theme Sets</li>
+    <li>Customizing Themes</li>
+    <li>Theme Colors</li>
+    <li>Editing Themes</li>
+    <li>Theme Fonts</li>
+    <li>Theme Effects</li>
+    <li>Saving Themes</li>
+  </ul>
+  <h3>Section F: Slide Masters</h3>
+  <ul>
+    <li>Using Masters</li>
+    <li>Slide Layout Masters</li>
+    <li>Duplicate Default Masters</li>
+    <li>Preserve Master Option</li>
+    <li>Creating New Layouts</li>
+    <li>Headers and Footers</li>
+    <li>Save As Template</li>
+  </ul>
+  <h3>Section G: Working with Text</h3>
+  <ul>
+    <li>Mini Toolbar</li>
+    <li>Paragraph Formatting</li>
+    <li>Font Formatting</li>
+    <li>Editing the Slide Master</li>
+    <li>Synonyms and Thesaurus</li>
+    <li>Inserting and Formatting Text Boxes</li>
+  </ul>
+  <h3>Section H: Working with Lists</h3>
+  <ul>
+    <li>Default Bullet Styles</li>
+    <li>Applying Bullets Based on Themes</li>
+    <li>Bullets and Numbering Options</li>
+    <li>Modifying Bullets</li>
+    <li>Numbered Bullet Options</li>
+    <li>Customizing Bullets</li>
+    <li>Using Pictures as Bullets</li>
+    <li>Using the Ruler</li>
+    <li>Setting and Removing Tabs</li>
+    <li>Applying Indents</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Using Existing Content</h3>
+  <ul>
+    <li>Outlines</li>
+    <li>Working In Outline View</li>
+    <li>Rearranging Slides</li>
+    <li>Slides from Word Document</li>
+    <li>Preparing Text for Import</li>
+    <li>Slides from Notepad Document</li>
+    <li>Saving as RTF</li>
+    <li>Reusing Slides</li>
+    <li>Publish to Slide Library</li>
+  </ul>
+  <h3>Section B: Embedded Charts</h3>
+  <ul>
+    <li>Inserting Charts</li>
+    <li>Defining Chart Data</li>
+    <li>Understanding Chart Types</li>
+    <li>Quick Layouts</li>
+    <li>Chart Styles</li>
+    <li>Editing Chart Data</li>
+    <li>Layout and Formatting Options</li>
+    <li>Save As Template</li>
+  </ul>
+  <h3>Section C: Excel Charts</h3>
+  <ul>
+    <li>Using Excel Charts</li>
+    <li>Importing into PowerPoint</li>
+    <li>Using Paste Special</li>
+    <li>Updating Linked Data</li>
+    <li>Capturing Excel Data as an Image</li>
+  </ul>
+  <h3>Section D: Working with Tables</h3>
+  <ul>
+    <li>Inserting Tables</li>
+    <li>Table Style Options</li>
+    <li>Table Styles Gallery</li>
+    <li>Customizing Theme Colors and Options</li>
+    <li>Table Effects</li>
+    <li>Merging Cells</li>
+    <li>Entering Text</li>
+    <li>Add, Delete, Resize Columns and Rows</li>
+    <li>Adjusting Table Alignment</li>
+  </ul>
+  <h3>Section E: Shapes and Effects</h3>
+  <ul>
+    <li>Drawing Techniques</li>
+    <li>Shape Types</li>
+    <li>Formatting Shapes</li>
+    <li>Shape Fill Options</li>
+    <li>Text Fills, Effects, and Styles</li>
+    <li>More Fill Options</li>
+  </ul>
+  <h3>Section F: Clip Art and Images</h3>
+  <ul>
+    <li>Working with Clip Art</li>
+    <li>Editing Clip Art</li>
+    <li>Working with Images</li>
+    <li>Manipulating Images</li>
+    <li>Picture Quick Styles</li>
+    <li>Picture Effects and SmartArt</li>
+    <li>3-D Rotation</li>
+    <li>3-D Emboss Effect</li>
+  </ul>
+  <h3>Section G: Moving, Arranging, and Distributing</h3>
+  <ul>
+    <li>Object Moving Techniques</li>
+    <li>Duplicating Objects</li>
+    <li>Rotating Objects</li>
+    <li>Arranging Objects</li>
+    <li>Using the Selection Pane</li>
+  </ul>
+  <h3>Section H: SmartArt Diagrams</h3>
+  <ul>
+    <li>Converting Bulleted Lists</li>
+    <li>Rearranging Bullet Order</li>
+    <li>Recoloring SmartArt Objects</li>
+    <li>SmartArt Styles</li>
+    <li>Resetting Graphics</li>
+    <li>Formatting SmartArt</li>
+    <li>More SmartArt Categories</li>
+    <li>Adding SmartArt Shapes</li>
+  </ul>
+  <h3>Section I: Backgrounds, Watermarks, and Photo Album</h3>
+  <ul>
+    <li>Creating Photo Albums</li>
+    <li>Customizing Album Options</li>
+    <li>Preview the Photo Album</li>
+    <li>Edit Photo Album</li>
+    <li>Inserting Screenshots</li>
+    <li>Compressing Pictures</li>
+    <li>Inserting Backgrounds</li>
+    <li>Hiding Background Objects</li>
+    <li>Creating Watermarks</li>
+    <li>Save as Picture</li>
+    <li>Using Watermarks as Backgrounds</li>
+    <li>Silk Screen Effect</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Multimedia</h3>
+  <ul>
+    <li>Supported File Types</li>
+    <li>Inserting Audio</li>
+    <li>Fade In/Out</li>
+    <li>Trim Audio</li>
+    <li>Additional Copy/Insert Options</li>
+    <li>Inserting Video</li>
+    <li>Poster Frame/Video Trim</li>
+  </ul>
+  <h3>Section B: Animations</h3>
+  <ul>
+    <li>Adding Animations</li>
+    <li>Entrance Effects</li>
+    <li>Emphasis Effects</li>
+    <li>Exit Effects</li>
+    <li>Animating Text</li>
+    <li>Animation Pane</li>
+    <li>Effect Options</li>
+    <li>Rolling Marquee Effect</li>
+    <li>Re-Order Animations</li>
+    <li>Animating Images</li>
+    <li>Motion Paths</li>
+    <li>Animating Charts</li>
+  </ul>
+  <h3>Section C: Customizing Slide Shows</h3>
+  <ul>
+    <li>Slide Shows</li>
+    <li>Applying Transitions</li>
+    <li>Individual Transitions</li>
+    <li>Transition Effect Options</li>
+    <li>Hiding Slides</li>
+    <li>Action Settings</li>
+    <li>Hyperlinks</li>
+    <li>Actions</li>
+    <li>Creating Custom Shows</li>
+    <li>Defining Custom Shows</li>
+    <li>Previewing Custom Shows</li>
+  </ul>
+  <h3>Section D: Delivery Formats</h3>
+  <ul>
+    <li>Printing</li>
+    <li>Media Compression</li>
+    <li>Version Control</li>
+    <li>PowerPoint Show</li>
+    <li>PDF/XPS</li>
+    <li>Recording Presentations</li>
+    <li>Packaging for CD</li>
+    <li>Creating a Video</li>
+    <li>Publishing to the Web</li>
+  </ul>
+  <h3>Section E: Proofing and Reviewing</h3>
+  <ul>
+    <li>Visual Check</li>
+    <li>Spell Check</li>
+    <li>Research Options</li>
+    <li>Adding Comments</li>
+  </ul>
+  <h3>Section F: Prepare and Protect</h3>
+  <ul>
+    <li>Compatibility Mode</li>
+    <li>Document Properties</li>
+    <li>Document Inspector</li>
+    <li>On-Slide/Off-Slide Content</li>
+    <li>Presentation Notes</li>
+    <li>Encryption and Passwords</li>
+    <li>Information Rights Management</li>
+    <li>IRM Document Protection</li>
+    <li>Digital Signatures</li>
+    <li>Mark as Final</li>
+  </ul>
+  <h3>Section G: Delivering the Presentation</h3>
+  <ul>
+    <li>Printing Tips</li>
+    <li>Optimization</li>
+    <li>Show Setup</li>
+    <li>Downsizing File Size</li>
+    <li>Presenting a Show</li>
+    <li>Pointer to Pen</li>
+    <li>Slide Show Help</li>
+    <li>Pointer Options</li>
+    <li>Navigation Techniques</li>
+    <li>Speaker's Notes</li>
+    <li>Slide Show Setup</li>
+    <li>Rehearse Slide Show Timing</li>
+    <li>Using Presenters View</li>
+  </ul>

@@ -1,0 +1,413 @@
+<h2><em>Project 2007</em></h2>
+<h2>Session 1</h2>
+<h3>Section A: Course Overview</h3>
+<ul>
+  <li>Nature of Project Management</li>
+  <li>Expected Course Outcomes</li>
+  <li>Project in Action</li>
+  </ul>
+<h3>Section B: Project 2007</h3>
+<ul>
+  <li>Solutions</li>
+  <li>Versions</li>
+  <li>New or Improved Features</li>
+  </ul>
+<h3>Section C: Project Management 101</h3>
+<ul>
+  <li>Operations vs. Projects</li>
+  <li>Project Definition</li>
+  <li>Project Knowledge Areas</li>
+  <li>Five Project Phases</li>
+  <li>Phase Interactions</li>
+  </ul>
+<h3>Section D: Project 2007 Software</h3>
+<ul>
+  <li>Discovering Project</li>
+  <li>Project Views</li>
+  <li>Tables</li>
+  <li>Interface Navigation</li>
+  <li>Output Options</li>
+  </ul>
+<h3>Section E: Getting Started</h3>
+<ul>
+  <li>Creating and Defining Projects</li>
+  <li>Setting Up a Project</li>
+  <li>Office Online Templates</li>
+  <li>Blank Project Setup</li>
+  <li>Custom Fields</li>
+  <li>Project Preferences</li>
+  <li>View and Desktop Preferences</li>
+  <li>Security Preferences</li>
+  <li>Calendar Preferences</li>
+  </ul>
+<h3>Section F: Managing Calendars</h3>
+<ul>
+  <li>Calendar Configuration</li>
+  <li>Calendar Options</li>
+  <li>Create Project Calendar</li>
+  <li>Calendar Setup</li>
+  <li>Modify Calendar</li>
+  <li>Special Calendars</li>
+  <li>Save Project</li>
+  </ul>
+<h3>Section G: Create and Organize Tasks</h3>
+<ul>
+  <li>Task Definition</li>
+  <li>Recurring Tasks</li>
+  <li>Enter Task List</li>
+  <li>Organize Task Order</li>
+  <li>Create Recurring Task</li>
+  </ul>
+<h3>Section H: Task Durations</h3>
+<ul>
+  <li>Entering Durations</li>
+  <li>Calculating Task Durations</li>
+  <li>Calculating Time</li>
+  <li>Weighted Average Technique</li>
+  <li>PERT Analysis Toolbar</li>
+  <li>Apply PERT Analysis</li>
+  <li>Milestones</li>
+  </ul>
+<h3>Section I: Documentation</h3>
+<ul>
+  <li>Project Notes</li>
+  <li>Add Notes</li>
+  <li>Add Hyperlinks</li>
+  <li>Printing Notes</li>
+  </ul>
+  <h2>Session 2 </h2>
+<h3>Section A: Import/Export Data</h3>
+<ul>
+  <li>What Can Be Imported?</li>
+  <li>Importing Excel Data</li>
+  <li>Import Wizard</li>
+  <li>Task Mapping</li>
+  <li>Importing Outlook Data</li>
+  </ul>
+<h3>Section B: Managing Task Structure</h3>
+<ul>
+  <li>Outline Task Lists</li>
+  <li>Summary Tasks</li>
+  <li>Working with Tasks</li>
+  <li>Project Summary Task</li>
+  <li>Create WBS</li>
+  <li>Display WBS</li>
+  <li>Defining WBS Code</li>
+  <li>Applying WBS Code</li>
+  </ul>
+<h3>Section C: Task Relationships</h3>
+<ul>
+  <li>Task Dependencies</li>
+  <li>Types of Dependencies</li>
+  <li>Linking Tasks</li>
+  <li>Planning Wizard</li>
+  <li>Linking Multiple Tasks</li>
+  <li>Add Predecessors</li>
+  <li>Working with Task Relationships</li>
+  <li>Manipulate Time Scale</li>
+  </ul>
+<h3>Section D: Scheduling Tasks</h3>
+<ul>
+  <li>Lead and Lag Time</li>
+  <li>Constraints and Deadlines</li>
+  <li>Inflexible Constraints</li>
+  <li>Slack and Deadlines</li>
+  <li>Task Drivers</li>
+  <li>Task Conflicts</li>
+  <li>Working with Constraints</li>
+  <li>Create Deadline</li>
+  <li>View Task Drivers</li>
+</ul>
+<h3>Section E: Critical Path Tasks</h3>
+<ul>
+  <li>Understanding Critical Path</li>
+  <li>View Network Diagram</li>
+  <li>View Gantt Options</li>
+  <li>Format Gantt Chart</li>
+</ul>
+<h3>Section F: Working with Resources</h3>
+<ul>
+  <li>Resource Management</li>
+  <li>Understanding Resources</li>
+  <li>Resource Calendars</li>
+  <li>Adding Resources</li>
+  <li>Rate Variables</li>
+  <li>Calendar Assignment</li>
+  <li>Contracted Work Resource</li>
+</ul>
+<h3>Section G: Adjusting Resources</h3>
+<ul>
+  <li>Modifying Availability</li>
+  <li>Rate Tables</li>
+  <li>Cost Rate Tables</li>
+</ul>
+<h3>Section H: Resource Assignments</h3>
+<ul>
+  <li>Assigning a Resource</li>
+  <li>Modify Resources</li>
+  <li>Change Resource Type</li>
+  <li>Resource Usage View</li>
+  <li>Apply Budget Cost</li>
+  <li>View Project Statistics</li>
+</ul>
+<h2>Session 3</h2>
+<h3>Section A: Working with Baselines</h3>
+<ul>
+  <li>Understanding Baselines</li>
+  <li>Setting a Baseline</li>
+  <li>Viewing the Baseline</li>
+  <li>Working with Project Reports</li>
+  <li>Creating a Project Template</li>
+</ul>
+<h3>Section B: Monitoring Project Progress</h3>
+<ul>
+  <li>Tracking the Project</li>
+  <li>Tracking Environment</li>
+  <li>How Tracking Works</li>
+  <li>Entering Overtime</li>
+  <li>Updating the Project</li>
+  <li>Viewing the Tracking Gantt</li>
+  <li>Using the Tracking Table</li>
+  <li>Tracking Toolbar</li>
+  <li>Splitting Tasks</li>
+  <li>Task Usage View</li>
+  <li>Checking the Status Date</li>
+</ul>
+<h3>Section C: Optimizing Performance</h3>
+<ul>
+  <li>Resource Allocation</li>
+  <li>Project Leveling</li>
+  <li>Manipulating the Schedule</li>
+  <li>Analyzing Variance</li>
+  <li>Viewing Overallocation</li>
+  <li>Correcting Overallocation</li>
+  <li>Adding Lead Time</li>
+</ul>
+<h3>Section D: Working with Views</h3>
+<ul>
+  <li>Sorting</li>
+  <li>Filtering</li>
+  <li>AutoFilter</li>
+  <li>Custom Filters</li>
+  <li>Formatting Views</li>
+  <li>Creating Custom Fields</li>
+  <li>Creating Custom Views</li>
+</ul>
+<h3>Section E: Using Reports</h3>
+<ul>
+  <li>Predefined Reports</li>
+  <li>Headers and Footers</li>
+  <li>Creating Custom Reports</li>
+  <li>Creating Visual Reports</li>
+</ul>
+<h3>Section F: Exchanging Project Data</h3>
+<ul>
+  <li>Exporting Data</li>
+  <li>Saving Data</li>
+  <li>Creating a Project Picture</li>
+  <li>Export Wizard</li>
+  <li>Using the Office Wizard</li>
+  <li>Sharing Project Objects</li>
+</ul>
+<h3>Section G: Sharing Resources</h3>
+<ul>
+  <li>Overview</li>
+  <li>Resource Pools</li>
+  <li>Stop Sharing Resources</li>
+  <li>Creating a Resource Pool</li>
+</ul>
+<h3>Section H: Managing Multiple Projects</h3>
+<ul>
+  <li>Master Projects</li>
+  <li>Deleting Linked Projects</li>
+  <li>Creating a Master Project</li>
+</ul>
+<h2><em>Project Server 2007</em></h2>
+<h2>Session 1</h2>
+<h3>Section A: Project Server Overview</h3>
+<ul>
+  <li>Course Introduction</li>
+  <li>Prerequisities</li>
+  <li>Expected Course Outcomes</li>
+  <li>EPM Solution</li>
+  <li>Server Infrastructure</li>
+  <li>Interoperability Issues</li>
+  <li>Project Standard vs. Professional</li>
+</ul>
+<h3>Section B: Accessing Project Server</h3>
+<ul>
+  <li>Connection Strategy</li>
+  <li>Connection Process</li>
+  <li>Project Proposals</li>
+  <li>Proposal Limitations</li>
+  <li>Activity Plans vs. Proposals</li>
+  <li>Creating Proposals</li>
+  <li>Project Web Access</li>
+  <li>Creating New Proposals</li>
+  <li>Work Details View</li>
+  <li>Linking Tasks</li>
+  <li>Using Project Professional</li>
+</ul>
+<h3>Section C: New Enterprise Project</h3>
+<ul>
+  <li>Enterprise Template</li>
+  <li>Global Template</li>
+  <li>Saving to the Server</li>
+  <li>Convert Proposals to Projects</li>
+  <li>Converting Proposals</li>
+  <li>Configure Global Template</li>
+  <li>Publishing to Project Server</li>
+</ul>
+<h3>Section D: Users and Groups</h3>
+<ul>
+  <li>Adding Users</li>
+  <li>User Authentication</li>
+  <li>Security Groups and Categories</li>
+  <li>Global Permissions</li>
+  <li>Managing Groups and Categories</li>
+</ul>
+<h3>Section E: Customizing Calendars</h3>
+<ul>
+  <li>Enterprise Calendars</li>
+  <li>Calendar Hierarchy</li>
+  <li>Modifying Enterprise Calendars</li>
+  <li>Multiple Calendars</li>
+</ul>
+<h3>Section F: Custom Fields</h3>
+<ul>
+  <li>Project Fields</li>
+  <li>Understanding Custom Fields</li>
+  <li>Using Lookup Tables</li>
+  <li>Custom Field Definition</li>
+  <li>Creating Lookup Tables</li>
+  <li>Creating Custom Fields</li>
+  <li>Custom Fields in Project 2007</li>
+</ul>
+<h3>Section G: Resource Breakdown Structure</h3>
+<ul>
+  <li>Understanding RBS</li>
+  <li>RBS Example</li>
+  <li>Create RBS Lookup</li>
+  <li>Modify RBS Lookup</li>
+</ul>
+<h2>Session 2</h2>
+<h3>Section A: Working with Enterprise Resources</h3>
+<ul>
+  <li>Managing Resources</li>
+  <li>Creating New Resources</li>
+  <li>Creating Enterprise Resources</li>
+  <li>Generic Resources</li>
+</ul>
+<h3>Section B: Assigning Enterprise Resources</h3>
+<ul>
+  <li>Resource Concepts</li>
+  <li>Substitution Wizard</li>
+  <li>Substitution Types</li>
+  <li>Wizard vs. Build Team Dialog</li>
+  <li>Adding Local Resources</li>
+  <li>Building Teams in PWA</li>
+  <li>Building Teams in Project Pro</li>
+  <li>Resource Substitution Wizard</li>
+  <li>Review Resource Assignments</li>
+  <li>Substitution Resources</li>
+</ul>
+<h3>Section C: Publishing the Project</h3>
+<ul>
+  <li>Project Publishing</li>
+  <li>Communication</li>
+  <li>Baselines</li>
+  <li>Manage Project Information</li>
+  <li>Using Publish Fields</li>
+  <li>Publish Projects</li>
+  <li>Set Baseline</li>
+</ul>
+<h3>Section D: Project-Related Information</h3>
+<ul>
+  <li>Assigning Managers</li>
+  <li>Status Reports</li>
+  <li>Project Documents</li>
+  <li>Changing Project Managers</li>
+  <li>Requesting Status Reports</li>
+  <li>Responding to Status Reports</li>
+  <li>Document Libraries</li>
+  <li>Uploading Documents</li>
+</ul>
+<h3>Section E: Updating Projects</h3>
+<ul>
+  <li>Time Tracking</li>
+  <li>Server Settings</li>
+  <li>Requesting Reports</li>
+  <li>Reviewing Reports</li>
+  <li>Updating Process</li>
+  <li>Responding to Requests</li>
+  <li>Manual Project Updates</li>
+  <li>Change Status Date</li>
+  <li>Set Interim Plan</li>
+  <li>Display Tracking Fields</li>
+</ul>
+<h2> Session 3</h2>
+<h3>Section A: Earned Value Analysis</h3>
+<ul>
+  <li>Understanding Earned Value</li>
+  <li>EVMS</li>
+  <li>Earned Value Fields</li>
+  <li>Variance Table</li>
+  <li>Earned Value Table</li>
+</ul>
+<h3>Section B: Managing Risks and Issues</h3>
+<ul>
+  <li>Issues</li>
+  <li>Mitigating Risks</li>
+  <li>Comparing Project Versions</li>
+  <li>Manage Project Workspace</li>
+  <li>Adding Issues</li>
+  <li>Adding Risks</li>
+  <li>Comparing Projects</li>
+</ul>
+<h3>Section C: Personal Settings</h3>
+<ul>
+  <li>Changing E-mail Notification</li>
+  <li>Managing the Queue</li>
+  <li>Outlook Synch</li>
+  <li>My Alerts and Reminders</li>
+  <li>Resource Alerts and Reminders</li>
+  <li>Queued Jobs</li>
+  <li>Set Up Outlook Synch</li>
+</ul>
+<h3>Section D: PWA Views</h3>
+<ul>
+  <li>Project Center Views</li>
+  <li>Customizing PWA Views</li>
+  <li>Using Custom Filters</li>
+  <li>Searching for Task Information</li>
+  <li>Exporting Project Data</li>
+</ul>
+<h3>Section E: Reporting Project Status</h3>
+<ul>
+  <li>Reporting Concepts</li>
+  <li>Reporting Redefined</li>
+  <li>Customizable PWA Views</li>
+  <li>Project Professional Reports</li>
+  <li>Viewing Reports</li>
+  <li>Visual Reports</li>
+  <li>Understanding OLAP Cubes</li>
+  <li>OLAP Terminology</li>
+</ul>
+<h3>Section F: Finalizing the Project</h3>
+<ul>
+  <li>Closing Projects</li>
+  <li>The Closing Process</li>
+  <li>Archiving Process</li>
+  <li>Enterprise Project Closure</li>
+  <li>Archiving the Project</li>
+  <li>Backing Up</li>
+</ul>
+<h3>Section G: EPM Review</h3>
+<ul>
+  <li>EPM Network Infrastructure</li>
+  <li>EPM Highlights</li>
+  <li>SharePoint Integration</li>
+  <li>EPM Workflow</li>
+  <li>Project Management Lifecycle</li>
+  <li>EPM Limitations</li>
+</ul>

@@ -1,0 +1,12 @@
+<p> After completing this workshop, students will be able to: </p>
+<ul>
+  <li> Create a simple Windows Forms application. </li>
+  <li>Configure standard controls. </li>
+  <li>Build menus. </li>
+  <li>Display and edit data by using data-bound controls. </li>
+  <li>Provide user assistance and enhance usability. </li>
+  <li>Create consistent applications by using dialogs and forms inheritance. </li>
+  <li>Add print and report functionality to a Windows Forms application. </li>
+  <li>Perform asynchronous tasks by using the BackgroundWorker component. </li>
+  <li>Deploy a Windows Forms application by using ClickOnce. </li>
+</ul>

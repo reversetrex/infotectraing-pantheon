@@ -1,0 +1,65 @@
+<p><strong>Chapter 1 - Installation &amp; Configuration</strong></p>
+
+<ul>
+  <li>Installation, initial configuration, server administration tools, and troubleshooting installation issues</li>
+</ul>
+
+<p><strong>Chapter 2 - Providing DNS Service</strong></p>
+
+<ul>
+  <li>Configuring Mac OS X Server to provide basic DNS service</li>
+</ul>
+
+<p><strong>Chapter 3 - Authentication, Authorization, and Access Control</strong></p>
+
+<ul>
+  <li>Creating and administering accounts, controlling access (ACLs), and troubleshooting</li>
+</ul>
+
+<p><strong>Chapter 4 - Open Directory</strong></p>
+
+<ul>
+  <li>Configuring Open Directory, single sign-on, backing up directory data, troubleshooting Open Directory, and an introduction to Kerberos</li>
+</ul>
+
+<p><strong>Chapter 5 - File Services</strong></p>
+
+<ul>
+  <li>Configuring and troubleshooting Apple File Service, share points for Windows users, NFS, network mounts, and FTP; case sensitivity issues</li>
+</ul>
+
+<p><strong>Chapter 6 - Mail Service</strong></p>
+
+<ul>
+  <li>Configuring, maintaining and troubleshooting email service</li>
+</ul>
+
+<p><strong>Chapter 7 - Web Service</strong></p>
+
+<ul>
+  <li>Hosting multiple web sites on a single server, providing WebDAV access to files</li>
+</ul>
+
+<p><strong>Chapter 8 - Collaborative Services</strong></p>
+
+<ul>
+  <li>Setting up and configuring wikis and blogs, and the iChat and iCal services to assist people working together</li>
+</ul>
+
+<p><strong>Chapter 9 - Deployment Solutions</strong></p>
+
+<ul>
+  <li>Configuring and troubleshooting NetBoot/Network Install to deploy Mac OS X</li>
+</ul>
+
+<p><strong>Chapter 10 - Managing Accounts</strong></p>
+
+<ul>
+  <li>Managed accounts, preference management, managed network browsing, mobile accounts, troubleshooting account management</li>
+</ul>
+
+<p><strong>Chapter 11 - Challenge</strong></p>
+
+<ul>
+  <li>A hands-on exercise to verify what students have learned</li>
+</ul>

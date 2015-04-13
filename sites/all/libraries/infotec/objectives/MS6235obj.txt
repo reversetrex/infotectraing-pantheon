@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to: </p>
+<ul>
+  <li>Describe SQL Server Integration Services and its tools.</li>
+  <li>Create an Integration Services package.</li>
+  <li>Implement control flow in an Integration  Services package.</li>
+  <li>Implement data flow in an Integration Services  package.</li>
+  <li>Implement logging in an Integration Services  package.</li>
+  <li>Debug and implement error handling in an  Integration Services package.</li>
+  <li>Implement checkpoints and transactions in an  Integration Services package.</li>
+  <li>Deploy an Integration Services package.</li>
+  <li>Manage and secure an  Integration Services package.</li>
+</ul>

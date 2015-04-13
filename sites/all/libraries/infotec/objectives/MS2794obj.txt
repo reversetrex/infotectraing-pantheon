@@ -1,0 +1,8 @@
+<p>After  completing this course, students will be able to:</p>
+<ul>
+  <li>Capture the business and technical requirements for a Business Intelligence solution architecture.</li>
+  <li>Describe the major stages and requirements of a Business Intelligence project lifecycle.</li>
+  <li>Determine Business Intelligence development requirements and implement a Business Intelligence development project.</li>
+  <li>Assess and design a Business Intelligence infrastructure.</li>
+  <li>Describe and plan Business Intelligence operations and their management.</li>
+</ul>

@@ -1,0 +1,10 @@
+<p>Upon completing this  course, the learner will be able to meet these overall objectives:</p>
+<ul>
+  <li>Identify key enterprise WLAN implementation challenges.</li>
+  <li>Select and properly install the Cisco Unified Wireless Network (CUWN)  hardware appropriate to site and use requirements.</li>
+  <li>Use the CUWN interfaces to administer WLAN, VLANs, 802.11 security  policies, and QOS appropriately to optimize performance on and protect the  network.</li>
+  <li>Configure and implement the key Unified Wireless security features to  mitigate WLAN threats.</li>
+  <li>Utilize the recommended troubleshooting methodology and the various  tools available to gather and assess system data and isolate equipment failures  and security threats.</li>
+  <li>Administer, update, backup, restore, and use the Cisco Wireless Control System (WCS) as required to monitor CUWN equipment performance.</li>
+  <li>Configure and use the WCS location tracking features and the Cisco Location Server as appropriate to locate users within a CUWN environment.</li>
+</ul>

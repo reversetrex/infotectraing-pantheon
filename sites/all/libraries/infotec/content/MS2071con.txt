@@ -1,0 +1,77 @@
+<p><strong> Unit 1: Introduction to Transact-SQL </strong></p>
+<ul>
+  <li> The Transact-SQL Programming Language </li>
+  <li>Types of Transact-SQL Statements </li>
+  <li>Transact-SQL Syntax Elements </li>
+  <li>Using SQL Server Books Online </li>
+</ul>
+<p><strong>Unit 2: Using Transact-SQL Querying Tools </strong></p>
+<ul>
+  <li>SQL Query Analyzer </li>
+  <li>Using the Object Browser Tool in SQL Query Analyzer </li>
+  <li>Using the osql Utility </li>
+  <li>Executing Transact-SQL Statements </li>
+  <li>Creating and Executing Transact-SQL Scripts </li>
+</ul>
+<p><strong> Unit 3: Retrieving Data </strong></p>
+<ul>
+  <li> Retrieving Data by Using the SELECT Statement </li>
+  <li>Filtering Data </li>
+  <li>Formatting Result Sets </li>
+  <li>How Queries Are Processed </li>
+  <li>Performance Considerations </li>
+  <li>Retrieving Data and Manipulating Result Sets </li>
+</ul>
+<p><strong> Unit 4: Grouping and Summarizing Data </strong></p>
+<ul>
+  <li> Listing the TOP n Values </li>
+  <li>Using Aggregate Functions </li>
+  <li>GROUP BY Fundamentals </li>
+  <li>Generating Aggregate Values Within Result Sets </li>
+  <li>Using the COMPUTE and COMPUTE BY Clauses </li>
+  <li>Grouping and Summarizing Data </li>
+</ul>
+<p><strong> Unit 5: Joining Multiple Tables </strong></p>
+<ul>
+  <li> Using Aliases for Table Names </li>
+  <li>Combining Data from Multiple Tables </li>
+  <li>Combining Multiple Result Sets </li>
+  <li>Querying Multiple Tables </li>
+</ul>
+<p><strong> Unit 6: Working with Subqueries </strong></p>
+<ul>
+  <li> Introduction to Subqueries </li>
+  <li>Using a Subquery as a Derived Table </li>
+  <li>Using a Subquery as an Expression </li>
+  <li>Using a Subquery to Correlate Data </li>
+  <li>Using the EXISTS and NOT EXISTS Clauses </li>
+  <li>Working with Subqueries </li>
+</ul>
+<p><strong> Unit 7: Modifying Data </strong></p>
+<ul>
+  <li> Using Transactions </li>
+  <li>Inserting Data </li>
+  <li>Deleting Data </li>
+  <li>Updating Data </li>
+  <li>Performance Considerations </li>
+  <li>Modifying Data </li>
+</ul>
+<p><strong> Unit 8: Querying Full-Text Indexes </strong></p>
+<ul>
+  <li> Introduction to Microsoft Search Service </li>
+  <li>Microsoft Search Service Components </li>
+  <li>Getting Information About Full-Text Indexes </li>
+  <li>Writing Full-Text Queries </li>
+  <li>Querying Full-Text Indexes </li>
+</ul>
+<p><strong> Unit 9: Introduction to Programming Objects </strong></p>
+<ul>
+  <li> Displaying the text of a programming object </li>
+  <li>Introduction to Views </li>
+  <li>Advantages of Views </li>
+  <li>Creating Views </li>
+  <li>Introduction to Stored Procedures </li>
+  <li>Introduction to Triggers </li>
+  <li>Introduction to User-defined Functions </li>
+  <li>Working with Views </li>
+</ul>

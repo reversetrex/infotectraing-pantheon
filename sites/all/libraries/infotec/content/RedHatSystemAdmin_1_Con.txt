@@ -1,0 +1,64 @@
+<p><strong>Access the command line</strong></p>
+<ul>
+  <li> Log in to a Linux system and run simple commands using the shell.</li>
+</ul>
+<p><strong>Manage files from the command line</strong></p>
+<ul>
+  <li>Copy, move, create, delete, and organize files from the bash shell prompt.</li>
+</ul>
+<p><strong>Getting help in Red Hat Enterprise Linux</strong></p> 
+<ul>
+  <li>Resolve problems by using online help systems and Red Hat support utilities.</li>
+</ul>
+<p><strong>Create, view, and edit text files</strong></p>
+<ul>
+  <li>Create, view, and edit text files from command output or in an editor.</li>
+</ul>
+<p><strong>Manage local Linux users and groups</strong></p>
+<ul>
+  <li>Manage local Linux users and groups, and administer local password policies.</li>
+</ul>
+<p><strong>Control access to files with Linux file system permissions</strong></p>
+<ul>
+  <li> Set Linux file system permissions on files and interpret the security effects of different permission settings.</li>
+</ul>
+<p><strong>Monitor and manage Linux processes</strong></p>
+<ul>
+  <li>Obtain information about the system, and control processes running on it.</li>
+</ul>
+<p><strong>Control services and daemons</strong></p>
+<ul>
+  <li>Control and monitor network services and system daemons using system.</li>
+</ul>
+<p><strong>Configure and secure OpenSSH service</strong></p>
+<ul>
+  <li> Access and provide access to the command line on remote systems securely using OpenSSH.</li>
+</ul>
+<p><strong>Analyze and store logs</strong></p>
+<ul>
+  <li> Locate and accurately interpret relevant system log files for troubleshooting purposes.</li>
+</ul>
+<p><strong>Manage Red Hat Enterprise Linux networking</strong></p>
+<ul>
+  <li> Configure basic IPv4 networking on Red Hat Enterprise Linux systems.</li>
+</ul>
+<p><strong>Archive and copy files between systems</strong></p>
+<ul>
+  <li> Archive files and copy them from one system to another.</li>
+</ul>
+<p><strong>Install and update software packages</strong></p>
+<ul>
+  <li> Download, install, update, and manage software packages from Red Hat and yum package repositories.</li>
+</ul>
+<p><strong>Access Linux file systems</strong></p>
+<ul>
+  <li> Access and inspect existing file systems on a Red Hat Enterprise Linux system.</li>
+</ul>
+<p><strong>Use virtualized systems</strong></p>
+<ul>
+  <li> Create and use Red Hat Enterprise Linux virtual machines with KVM and libvirt.</li>
+</ul>
+<p><strong>Comprehensive review</strong></p>
+<ul>
+  <li> Practice and demonstrate the knowledge and skills learned in this course.</li>
+</ul>

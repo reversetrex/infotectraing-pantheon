@@ -1,0 +1,15 @@
+<h2>Session 1</h2>
+  <h3>Section A: Team Building</h3>
+  <ul>
+    <li>Working Together</li>
+  </ul>
+  <h3>Section B: The Team Approach</h3>
+  <ul>
+    <li>When and Why to Build a Team</li>
+    <li>How to Assemble a Successful Team</li>
+    <li>Managing Stages of Team Development</li>
+    <li>Uncertainty</li>
+    <li>Role Definition</li>
+    <li>Working Team</li>
+    <li>Understanding High Performance Teams</li>
+  </ul>

@@ -1,0 +1,13 @@
+<p><strong>Module 1</strong> - Applying Troubleshooting Methods<br />
+  <br />
+  <strong>Module 2</strong> - Troubleshooting CallManager, Network, Signaling, and Dial Plans Troubleshooting the CallManager Signaling Architecture <br />
+  <br />
+  <strong>Module 3</strong> - Troubleshooting AVVID Components <br />
+  <br />
+  <strong>Module 4</strong> - Troubleshooting Network Infrastructure <br />
+  <br />
+  <strong>Module 5</strong> - Applying Quality of Service in VoIP Networks <br />
+  <br />
+  <strong>Module 6</strong> - Troubleshooting Unity Voice Mail Systems <br />
+  <br />
+  <strong>Module 7</strong> - Escalating Trouble Tickets to TAC</p>

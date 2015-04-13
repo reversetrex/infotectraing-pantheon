@@ -1,0 +1,15 @@
+<ul>
+ <li>Introduction</li>
+ <li>MDM and MAM Overview</li>
+ <li>Overview of all major components (AppController, Device Manager, NetScaler, ShareFile)</li>
+ <li>Design an end-to-end mobile solution</li>
+ <li>Citrix XenMobile Device Manager</li>
+ <li>Installation and Configuration</li>
+ <li>Citrix XenMobile App Controller Installation and Configuration</li>
+ <li>Citrix Sharefile</li>
+ <li>NetScaler as it relates to XenMobile</li>
+ <li>Device Management and Reportin</li>
+ <li>Troubleshooting</li>
+ <li>Using Support</li>
+ <li>Hands on labs</li>
+</ul>

@@ -1,0 +1,31 @@
+<p><strong> For A+ Core Hardware: </strong></p>
+<ul>
+  <li> <strong>Domain 1.0 Installation, Configuration, and Upgrading </strong><br>
+  This domain requires the knowledge and skills to identify, install, configure, and upgrade microcomputer modules and peripherals, following established basic procedures for system assembly and disassembly of field replaceable modules. Elements included are listed below with each test objective. <br>
+  </li>
+  <li><strong> Domain 2.0 Diagnosing and Troubleshooting </strong><br>
+  This domain requires the ability to apply knowledge relating to diagnosing and troubleshooting common module problems and system malfunctions. This includes knowledge of the symptoms relating to common problems. <br>
+  </li>
+  <li> <strong>Domain 3.0 Preventive Maintenance </strong><br>
+  This domain requires the knowledge of safety and preventive maintenance. With regard to safety, it includes the potential hazards to personnel and equipment when working with lasers, high voltage equipment, ESD, and items that require special disposal procedures that comply with environmental guidelines. With regard to preventive maintenance, this includes knowledge of preventive maintenance products, procedures, environmental hazards, and precautions when working on microcomputer systems. <br>
+  </li>
+  <li><strong> Domain 4.0 Motherboard/Processors/Memory </strong><br>
+  This domain requires knowledge of specific terminology, facts, ways and means of dealing with classifications, categories and principles of motherboards, processors, and memory in microcomputer systems. <br>
+  </li>
+  <li> <strong>Domain 5.0 Printers </strong><br>
+    This domain requires knowledge of basic types of printers, basic concepts, and printer components, how they work, how they print onto a page, paper path, care and service techniques, and common problems. </li>
+</ul>
+<p> <strong>For A+ OS Technologies: </strong></p>
+<ul>
+  <li> <strong>Domain 1.0 Operating System Fundamentals </strong><br>
+    This domain requires knowledge of underlying DOS (Command prompt functions) in Windows 9x, Windows 2000, Operating systems in terms of its functions and structure, for managing files and directories, and running programs. It also includes navigating through the operating system from command line prompts and Windows procedures for accessing and retrieving information. <br>
+  </li>
+  <li> <strong>Domain 2.0 Installation, Configuration and Upgrading </strong><br>
+    This domain requires knowledge of installing, configuring and upgrading Windows 9x, and Windows 2000. This includes knowledge of system boot sequences and minimum hardware requirements.<strong><br>
+    </strong></li>
+  <li> <strong>Domain 3.0 Diagnosing and Troubleshooting </strong><br>
+  This domain requires the ability to apply knowledge to diagnose and troubleshoot common problems relating to Windows 9x and Windows 2000. This includes understanding normal operation and symptoms relating to common problems. <br>
+  </li>
+  <li> <strong>Domain 4.0 Networks</strong> <br>
+    This domain requires knowledge of network capabilities of Windows and how to connect to networks on the client side, including what the Internet is about, its capabilities, basic concepts relating to Internet access and generic procedures for system setup. The scope of this topic is only what is needed on the desktop side to connect to a network. </li>
+</ul>

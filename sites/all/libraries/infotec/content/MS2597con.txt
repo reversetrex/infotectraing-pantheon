@@ -1,0 +1,41 @@
+<p><strong> Unit 1: Preparing for Systems Management Server 2003 </strong></p>
+<ul>
+  <li> Describing the Business Case for SMS&nbsp;2003 </li>
+  <li> Describing the Key Elements of the SMS Planning and Deployment Process </li>
+  <li> Analyzing Your Current Environment </li>
+  <li> Discussion: Preparing for SMS&nbsp;2003 </li>
+</ul>
+<p><strong> Unit 2: Planning the SMS&nbsp;2003 Hierarchy </strong></p>
+<ul>
+  <li> Designing the SMS Site Hierarchy </li>
+  <li> Planning Site Boundaries and Roaming Boundaries </li>
+  <li> Determining SMS Component Server Capacity </li>
+  <li> Planning Network and Infrastructure Security for SMS </li>
+</ul>
+<p><strong> Unit 3: Planning for Systems Management Server 2003 Deployment, Part 1 </strong></p>
+<ul>
+  <li> Planning Client Installation </li>
+  <li> Planning Site Deployment </li>
+  <li> Planning Site Configuration </li>
+  <li> Planning Site Systems </li>
+</ul>
+<p><strong> Unit 4: Planning for Systems Management Server 2003 Deployment, Part 2 </strong></p>
+<ul>
+  <li> Planning the Configuration of the SMS Security Environment </li>
+  <li> Developing the SMS Deployment Plan </li>
+  <li> Discussion: Planning for SMS 2003 Site Deployment </li>
+</ul>
+<p><strong> Unit 5: Deploying Microsoft Systems Management Server&nbsp;2003, Part 1 </strong></p>
+<ul>
+  <li> Configuring the Environment Before Deployment </li>
+  <li> Installing the SMS Primary Site </li>
+  <li> Configuring the Site after Installation </li>
+  <li> Installing Site Systems </li>
+  <li> Deploying Clients </li>
+</ul>
+<p><strong> Unit 6: Planning and Deploying Microsoft Systems Management Server 2003, Part 2 </strong></p>
+<ul>
+  <li> Configuring the SMS Site Hierarchy </li>
+  <li> Backing Up and Recovering Data </li>
+  <li> Troubleshooting an SMS Deployment </li>
+</ul>

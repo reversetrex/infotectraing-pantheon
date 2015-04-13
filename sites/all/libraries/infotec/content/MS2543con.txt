@@ -1,0 +1,72 @@
+<p><strong> Unit 1: Creating a Web Application </strong></p>
+<p> Units </p>
+<ul>
+  <li> Web Configuration Files </li>
+  <li> Default Event Handling in Web Applications </li>
+  <li> Visual Studio Web Site Types </li>
+</ul>
+<p><strong> Unit 2: Programming a Web Application </strong></p>
+<p> Units </p>
+<ul>
+  <li> Event Handling in Web Applications </li>
+  <li> Browser Capability Detection </li>
+  <li> Page Header Retrieval </li>
+  <li> Page-Level and Application-Level Error Handling </li>
+</ul>
+<p><strong> Unit 3: Adding and Configuring Server Controls</strong></p>
+<p> Units </p>
+<ul>
+  <li> HTML Controls and Web Server Controls </li>
+  <li>Types of Web Server Controls </li>
+  <li>Working with Web Server Controls </li>
+  <li>The ASP.NET 2.0 Page Postback Model </li>
+</ul>
+<p><strong> Unit 4: Creating a Common Layout by Using Master Pages </strong></p>
+<p> Units </p>
+<ul>
+  <li> What Are Master Pages? </li>
+  <li> What Are Content Pages? </li>
+  <li> Nested Master Pages </li>
+</ul>
+<p><strong> Unit 5: Managing State for a Web Application </strong></p>
+<p> Units </p>
+<ul>
+  <li> ViewState Properties and ControlState Data </li>
+  <li> Application and Session Objects </li>
+  <li> Strategies for Managing Session State Data </li>
+  <li> The Cache Object </li>
+</ul>
+<p><strong> Unit 6: Accessing and Displaying Data</strong></p>
+<p> Units </p>
+<ul>
+  <li> Database Connections and the Web.Config File </li>
+  <li> Relational Data and Data Source Controls </li>
+  <li> XML Data and Data Source Controls </li>
+  <li> Object Data and Data Source Controls </li>
+</ul>
+<p><strong> Unit 7: Controlling Access to a Web Application </strong></p>
+<p> Units </p>
+<ul>
+  <li> Authentication for Web Applications </li>
+  <li> Authorization for Web Applications </li>
+  <li> Site Membership Systems Using the Membership Class </li>
+  <li> Web Site Security Administration Using the Roles Class </li>
+</ul>
+<p><strong> Unit 8: Deploying a Web Application </strong></p>
+<ul>
+  <li> redistributable application with full setup logic </li>
+</ul>
+<p> Units </p>
+<ul>
+  <li> The Copy Web Site Utility </li>
+  <li> The Publish Web Site Utility </li>
+  <li> Windows Installer Setup Packages </li>
+</ul>
+<p><strong> Unit 9: Making Web Applications Available to Mobile Devices </strong></p>
+<p> Units </p>
+<ul>
+  <li> Device Emulators for Mobile Web Forms </li>
+  <li> Mobile Device Detection and Redirection </li>
+  <li> Mobile Web Forms </li>
+  <li> Device-Specific Features in Mobile Web Forms </li>
+</ul>

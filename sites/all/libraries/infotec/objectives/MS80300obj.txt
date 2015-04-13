@@ -1,0 +1,45 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Understand that Microsoft Dynamics AX provides a <b>powerful</b> solution.</li>
+    <li>Understand that Microsoft Dynamics AX provides an <b>agile </b>solution.</li>
+    <li>Understand that Microsoft Dynamics AX provides a <b>simple </b>solution.</li>
+    <li>Understand that Microsoft Dynamics AX provides a <b>unified solution from Microsoft</b>.</li>
+    <li>Understand the industry focus for Microsoft Dynamics AX2012.</li>
+    <li>Understand the broad functionality provided in Microsoft Dynamics AX2012.</li>
+    <li>Describe the components of the rich client user interface.</li>
+    <li>Navigate the Microsoft Dynamics AX menu structure.</li>
+    <li>Find a customer in the customer list page.</li>
+    <li>Create a sales order.</li>
+    <li>Create an alert rule.</li>
+    <li>Update a sales order to shipped.</li>
+    <li>View details of a selected field.</li>
+    <li>Invoice a sales order.</li>
+    <li>Use the Help.</li>
+    <li>Personalize a form.</li>
+    <li>Post a customer payment.</li>
+    <li>Use workflows.</li>
+    <li>Submit a workflow.</li>
+    <li>Describe quick navigation tips.</li>
+    <li>Describe the types of end-users who use Enterprise Portal.</li>
+    <li>Describe the functionality available to users on Enterprise Portal.</li>
+    <li>Describe the components of Enterprise Portal user interface.</li>
+    <li>Describe the Reporting and BI needs of different types of users.</li>
+    <li>Describe the tools available to view and analyze data in Microsoft Dynamics AX.</li>
+    <li>Create an advanced filter.</li>
+    <li>Save a filter as a cue on the role center.</li>
+    <li>Build a report in Microsoft Excel.</li>
+    <li>Create and use a template in Microsoft Word.</li>
+    <li>View a standard report.</li>
+    <li>Schedule a report to be emailed periodically.</li>
+    <li>Modify and add KPIs to a role center.</li>
+    <li>Create a pivot table using OLAP cubes.</li>
+    <li>Describe other reporting options available with Microsoft Dynamics AX.</li>
+    <li>Describe the organizational structure in Microsoft Dynamics AX.</li>
+    <li>Describe basic data setup and configuration.</li>
+    <li>Setup a new user in Microsoft Dynamics AX.</li>
+    <li>Create a definition group.</li>
+    <li>Import data using Microsoft Excel.</li>
+    <li>Describe the components of the System Architecture of Microsoft Dynamics AX 2012.</li>
+    <li>Describe the options for making development changes in Microsoft Dynamics AX 2012.</li>
+    <li>Describe the theory of Model Driven Architecture in Microsoft Dynamics AX 2012.</li>
+</ul>

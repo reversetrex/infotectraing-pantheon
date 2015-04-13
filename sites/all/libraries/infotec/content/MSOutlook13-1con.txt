@@ -1,0 +1,48 @@
+<p><strong>Lesson 1: </strong>Getting Started With Outlook 2013</p>
+<ul>
+  <li><strong>Topic A: </strong>Navigate the Outlook Interface</li>
+  <li><strong>Topic B: </strong>Perform Basic Email Functions</li>
+  <li><strong>Topic C: </strong>Use Outlook Help</li>
+</ul>
+<p><strong>Lesson 2: </strong>Composing Messages</p>
+<ul>
+  <li><strong>Topic A: </strong>Create an Email Message</li>
+  <li><strong>Topic B: </strong>Check Spelling and Grammar</li>
+  <li><strong>Topic C: </strong>Format Message Content</li>
+  <li><strong>Topic D: </strong>Attach Files and Items</li>
+  <li><strong>Topic E: </strong>Enhance an Email Message</li>
+  <li><strong>Topic F: </strong>Manage Automatic Message Content</li>
+</ul>
+<p><strong>Lesson 3: </strong>Reading and Responding to Messages</p>
+<ul>
+  <li><strong>Topic A: </strong>Customize Reading Options</li>
+  <li><strong>Topic B: </strong>Work with Attachments</li>
+  <li><strong>Topic C: </strong>Manage Your Message Responses</li>
+</ul>
+<p><strong>Lesson 4: </strong>Managing Your Messages</p>
+<ul>
+  <li><strong>Topic A: </strong>Manage Messages Using Tags, Flags, and Commands</li>
+  <li><strong>Topic B: </strong>Organize Messages Using Folders</li>
+</ul>
+<p><strong>Lesson 5: </strong>Managing Your Calendar</p>
+<ul>
+  <li><strong>Topic A: </strong>View the Calendar</li>
+  <li><strong>Topic B: </strong>Manage Appointments</li>
+  <li><strong>Topic C: </strong>Manage Meetings</li>
+  <li><strong>Topic D: </strong>Print Your Calendar</li>
+</ul>
+<p><strong>Lesson 6: </strong>Managing Your Contacts</p>
+<ul>
+  <li><strong>Topic A: </strong>Create and Update Contacts</li>
+  <li><strong>Topic B: </strong>View and Organize Contacts</li>
+</ul>
+<p><strong>Lesson 7: </strong>Working With Tasks and Notes</p>
+<ul>
+  <li><strong>Topic A: </strong>Manage Tasks</li>
+  <li><strong>Topic B: </strong>Manage Notes</li>
+</ul>
+<p><strong>Lesson 8: </strong>Customizing the Outlook Environment</p>
+<ul>
+  <li><strong>Topic A: </strong>Customize the Outlook Interface</li>
+  <li><strong>Topic B: </strong>Create and Manage Quick Steps</li>
+</ul>

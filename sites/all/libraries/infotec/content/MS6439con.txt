@@ -1,0 +1,79 @@
+<p><strong>Module 1: Configuring Storage for Windows Server 2008 Applications</strong></p>
+<p>This module covers the storage options most commonly associated with Windows Server 2008 and Windows Server 2008 R2 instances today. It introduces storage architectures, mediums, and protocols, guides students through the configuration steps for connecting iSCSI storage, and introduces the concept of VHDs as storage and boot devices.</p>
+<ul>
+  <li>Lesson 1: Storage Concepts in Windows Server 2008</li>
+  <li>Lesson 2: Configuring iSCSI Storage for Windows Server</li>
+  <li>Lesson 3: Working with Virtual Hard Disks</li>
+</ul>
+
+<p><strong>Module 2: Configuring High Availability for Windows Server 2008 Applications</strong></p>
+<p>This module covers Windows Server 2008 and Windows Server 2008 R2's built-in platforms that facility high availability for business applications. These general-purpose platforms include Network Load Balancing and Windows Failover Clustering in both single-site and multiple-site configurations.</p>
+<ul>
+  <li>Lesson 1: Network Load Balancing Fundamentals</li>
+  <li>Lesson 2: Implementing a Network Load Balancing Cluster</li>
+  <li>Lesson 3: Windows Failover Cluster Fundamentals</li>
+  <li>Lesson 4: Preparing for Failover Clustering</li>
+  <li>Lesson 5: Implementing a Windows Failover Cluster</li>
+</ul>
+
+<p><strong>Module 3: Configuring Remote Desktop Services</strong></p>
+<p>This module covers the introductory steps required to bring a single Remote Desktop Services Host server online and prepare it for remote application delivery to users. Students in this module will complete all aspects of the single-server configuration while preparing the environment for adding potential future servers.</p>
+<ul>
+  <li>Lesson 1: Remote Desktop Services Overview</li>
+  <li>Lesson 2: Configuring a Remote Desktop Services Host Server</li>
+  <li>Lesson 3: Configuring the Remote Desktop User Experience</li>
+  <li>Lesson 4: Deploying and Connecting to Remote App programs</li>
+  <li>Lesson 5: Connecting Users to Applications with RD Web Access and RADC</li>
+  <li>Lesson 6: Configuring Licensing for Remote Desktop Services</li>
+</ul>
+
+<p><strong>Module 4: RDS in the Multiple-Server Configuration</strong></p>
+<p>This module covers the extra activities and knowledge required to expand a single-RDSH server environment to one with multiple RDSH servers in a farm configuration.</p>
+<ul>
+  <li>Lesson 1: Building an RDS Server Farm</li>
+  <li>Lesson 2: Monitoring the RDS Environment</li>
+</ul>
+
+<p><strong>Module 5: Securely Delivering RDS Applications to the Internet</strong></p>
+<p>This module covers the additional activities that are necessary to build and secure a Remote Desktop Gateway server for the purposes of protecting RDS communication as it passes through untrusted networks such as the Internet.</p>
+<ul>
+  <li>Lesson 1: Remote Desktop Gateway Fundamentals</li>
+  <li>Lesson 2: Installing and Managing the RDG</li>
+</ul>
+
+<p><strong>Module 6: IIS Web Applications</strong></p>
+<p>This module covers the primary use of IIS as a Web application platform. Students will learn to set up and maintain a   Web site and application configuration based upon business and developer requirements. Although ASP.NET Web sites are commonly maintained by developers, IT professionals are typically called upon to configure the platform and assist with maintenance. This module will cover IIS 7.5 and IIS 7.0 and outline distinctions between them but will focus on IIS 7.5 as in Windows Server 2008 R2.</p>
+<ul>
+  <li>Lesson 1: IIS Functional Overview</li>
+  <li>Lesson 2: Creating IIS Web Sites and Applications</li>
+  <li>Lesson 3: Managing IIS Web Sites and Applications</li>
+</ul>
+
+<p><strong>Module 7: IIS FTP and SMTP Services</strong></p>
+<p>This module covers IIS' other major feature areas such as file transfer and email functionality. These features are commonly used to support Web sites, and this module will discuss how to properly configure these features in accordance with best practices and based upon business requirements.</p>
+<ul>
+  <li>Lesson 1: Implementing and Configuring IIS FTP Sites</li>
+  <li>Lesson 2: Implementing and Configuring IIS SMTP Sites</li>
+</ul>
+
+<p><strong>Module 8: IIS Server and SSL Management</strong></p>
+<p>This module focuses on IIS' security-related features, including SSL, logging, delegated permissions, remote   administration, and other features. Students will practice a variety of scenarios that reflect common real-world business requirements.</p>
+<ul>
+  <li>Lesson 1: Monitoring and Logging IIS</li>
+  <li>Lesson 2: Managing IIS and SSL Security</li>
+  <li>Lesson 3: Managing IIS Administrative Delegation and Remote Administration</li>
+</ul>
+
+<p><strong>Module 9: Microsoft SharePoint Foundation</strong></p>
+<p>This module covers the installation and configuration of this evolution of Windows SharePoint Services. Students will learn to set up and configure a basic document-sharing site that meets many common organizational and project   requirements. It will focus on SharePoint Foundation 2010 as implemented in Windows Server 2008 and Windows Server 2008 R2.</p>
+<ul>
+  <li>Lesson 1: Installing and Configuring SharePoint Foundation</li>
+  <li>Lesson 2: SharePoint Foundation Integration</li>
+</ul>
+
+<p><strong>Module 10: Windows Streaming Media Services</strong></p>
+<p>This module looks at the Media Services features of the Windows Server 2008 and Windows Server 2008 R2 platform, and introduces students to key concepts such as Real-Time Streaming Protocol, authentication, authorization, and more. Students will learn to install and configure Media Services to support use of the system features.</p>
+<ul>
+  <li>Lesson 1: Installing and Configuring Streaming Media Services</li>
+  <li>Lesson 2: Securing Streaming Media</li>
+</ul>

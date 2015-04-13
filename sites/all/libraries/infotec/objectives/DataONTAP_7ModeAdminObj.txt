@@ -1,0 +1,11 @@
+<p>By the end of this course you should be able to:</p>
+<ul>
+  <li>Identify the various components of a NetApp storage environment</li>
+  <li>Install and perform the setup configuration of Data ONTAP</li>
+  <li>Perform basic administration on a storage system</li>
+  <li>Explain and configure physical and logical storage</li>
+  <li>Identify and configure client protocols</li>
+  <li>State virtualization techniques available in Data ONTAP</li>
+  <li>Describe Snapshot copies and space consumption in Data ONTAP</li>
+  <li>Discuss backup methods available in Data ONTAP</li>
+</ul>

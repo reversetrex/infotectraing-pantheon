@@ -1,0 +1,190 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Role of CS6 Applications</li>
+    <li>New InDesign Features</li>
+    <li>Adobe Creative Cloud</li>
+  </ul>
+  <h3>Section B: Understanding the InDesign Interface</h3>
+  <ul>
+    <li>InDesign Interface</li>
+    <li>InDesign Panels</li>
+    <li>Customizing Workspace, New Workspace</li>
+    <li>Multiple Documents, Arrange Documents</li>
+  </ul>
+  <h3>Section C: Navigating Your Documents</h3>
+  <ul>
+    <li>Navigating Documents</li>
+    <li>Zoom Tools and Shortcuts</li>
+    <li>Spread Rotation</li>
+    <li>Preview Mode</li>
+  </ul>
+  <h3>Section D: Setting Up a Document</h3>
+  <ul>
+    <li>Units and Increments</li>
+    <li>Document Properties and Presets</li>
+    <li>Margin Guides</li>
+    <li>Create a Magazine</li>
+    <li>Editing Presets</li>
+  </ul>
+  <h3>Section E: Drawing Objects</h3>
+  <ul>
+    <li>Shape Tools</li>
+    <li>Moving Shapes</li>
+    <li>Pen Tool</li>
+    <li>Object Grid, Duplicating Objects</li>
+    <li>Effects Panel</li>
+  </ul>
+  <h3>Section F: Transforming Objects</h3>
+  <ul>
+    <li>Transformations, Rotate Tool</li>
+    <li>Scale Tool and Free Transform Tool</li>
+    <li>Transform Again</li>
+    <li>Mathematical Transform</li>
+    <li>Group Objects</li>
+    <li>Snippets</li>
+    <li>Horizontal Transform</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Working with Color</h3>
+  <ul>
+    <li>Working with Swatches</li>
+    <li>Create a Swatch Manually</li>
+    <li>Load Swatches, Tint Swatch</li>
+    <li>Applying Colors</li>
+    <li>Create a Gradient Swatch</li>
+    <li>Adobe Kuler</li>
+  </ul>
+  <h3>Section B: Working with Spot Color</h3>
+  <ul>
+    <li>Spot Color Intro, PANTONE</li>
+    <li>Apply PANTONE, Mixed Ink</li>
+    <li>Separations Preview, Ink Manager</li>
+  </ul>
+  <h3>Section C: Working with Type</h3>
+  <ul>
+    <li>Text Frame, Formatting Text</li>
+    <li>Kerning</li>
+    <li>Text Path</li>
+    <li>Tracking, Text on a Shape</li>
+    <li>Alignment</li>
+    <li>Distribute Objects</li>
+  </ul>
+  <h3>Section D: Document Layout</h3>
+  <ul>
+    <li>Setting Up a Document</li>
+    <li>Create Text Frames</li>
+    <li>Multiple Master, Primary Text Frame</li>
+    <li>Placing Text, Smart Text</li>
+    <li>Spell Check, Detach from Master</li>
+    <li>Story Editor, Info Panel</li>
+  </ul>
+  <h3>Section E: Working with Graphics</h3>
+  <ul>
+    <li>Graphics Info, Placeholder Frame</li>
+    <li>Content Grabber, Crop</li>
+    <li>Place an Image, Graphic Shortcuts</li>
+    <li>Frame Fitting Options</li>
+    <li>Adobe Bridge</li>
+    <li>Scale Images</li>
+    <li>Photoshop Path, Text Wrap</li>
+    <li>Mini Bridge</li>
+    <li>Frame Fitting Options from Menu</li>
+    <li>Managing Graphics, Links Panel</li>
+    <li>Corner Effects</li>
+  </ul>
+  <h3>Section F: Styles</h3>
+  <ul>
+    <li>Character and Paragraph Styles</li>
+    <li>Paragraph Formatting</li>
+    <li>Font Options</li>
+    <li>Paragraph Indent</li>
+    <li>Span Columns</li>
+    <li>Adding Captions</li>
+    <li>Nested Style</li>
+    <li>PostScript, OpenType, TrueType</li>
+  </ul>
+  <h3>Section G: Alternate Layouts</h3>
+  <ul>
+    <li>Liquid Layout</li>
+    <li>Liquid Page Rules</li>
+    <li>Alternate Layout</li>
+    <li>Links Panel</li>
+    <li>Place Graphics</li>
+    <li>Content Collector, Content Placer</li>
+    <li>Split Layout</li>
+  </ul>
+  <h3>Section H: Creating a Book</h3>
+  <ul>
+    <li>Introduction, Selecting Template</li>
+    <li>GREP Search</li>
+    <li>Chapter Numbers</li>
+    <li>Book Panel</li>
+    <li>Synchronize Options</li>
+    <li>Table of Contents</li>
+    <li>Setting Up Styles</li>
+    <li>Insert Table of Contents</li>
+    <li>Conclusion</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Layers</h3>
+  <ul>
+    <li>Working with Layers</li>
+    <li>Pathfinder, Rearrange</li>
+    <li>Arrange Layers</li>
+    <li>Placing Layers</li>
+    <li>Stacking Order</li>
+    <li>Layers Panel, Merge Layers</li>
+  </ul>
+  <h3>Section B: Effects and Transparency</h3>
+  <ul>
+    <li>Transparency</li>
+    <li>Drop Shadow, Object Styles</li>
+    <li>Text Wrap</li>
+    <li>Transparency Flattening</li>
+    <li>Print, Export to PDF</li>
+  </ul>
+  <h3>Section C: Tables</h3>
+  <ul>
+    <li>Working with Tables, Create Table</li>
+    <li>Modify Tables, Import Tables</li>
+    <li>Format a Table</li>
+    <li>Table Styles</li>
+    <li>Cell Styles</li>
+    <li>Header and Footer, Edit Table</li>
+  </ul>
+  <h3>Section D: Advanced Type</h3>
+  <ul>
+    <li>Text Variables</li>
+    <li>Insert Variable, Footer</li>
+    <li>Baseline Grid, Edit Body Style</li>
+    <li>Hyphenation</li>
+  </ul>
+  <h3>Section E: Data Merge</h3>
+  <ul>
+    <li>Placeholders</li>
+    <li>Single Data Merge</li>
+    <li>Multiple Data Merge</li>
+  </ul>
+  <h3>Section F: Interactive Documents</h3>
+  <ul>
+    <li>Working with Interactive Documents</li>
+    <li>SWF</li>
+    <li>Export to PDF</li>
+    <li>Hyperlinks</li>
+    <li>Clipping Path</li>
+    <li>Movie Files</li>
+  </ul>
+  <h3>Section G: Preparing for Print</h3>
+  <ul>
+    <li>Preflight</li>
+    <li>Define Profiles, Customize</li>
+    <li>Package Options</li>
+    <li>Export to PDF</li>
+    <li>Print Document</li>
+  </ul>
+  <h3>Section H: EPUB</h3>
+  <ul>
+    <li>E-Book</li>
+    <li>Export Tags</li>
+  </ul>

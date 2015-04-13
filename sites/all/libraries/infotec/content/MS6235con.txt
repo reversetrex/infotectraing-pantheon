@@ -1,0 +1,17 @@
+<p><strong>Module 1: Introduction  to SQL Server 2008 Integration Services</strong> - The students will be introduced to the role that Integration Services  plays in extracting, transforming, and loading data. The students will also be  introduced to the tools that are used to build and manage Integration Services  solutions.</p>
+
+<p><strong>Module 2: Developing  Integration Services Solutions </strong> - The students will be introduced to the development tasks that are  involved in creating an Integration Services package.</p>
+
+<p><strong>Module 3: Implementing Control Flow </strong> - The students will be introduced to the tasks and precedence  constraints that can be used to implement control flow in an Integration  Services package.</p>
+
+<p><strong>Module 4: Implementing  Data Flow </strong> - The students will be introduced to the data flow sources,  transformations, and destinations that can be used to implement a data flow  task in an Integration Services control flow. It also explains how to use data  flow paths to direct valid and invalid rows through the data flow.</p>
+
+<p><strong>Module 5: Implementing  Logging </strong> - The students will be introduced to how to use logging in an  Integration Services package, and explained how to configure and use logging  providers to generate information about a package's execution.</p>
+
+<p><strong>Module 6: Debugging and  Error Handling </strong> - The students will be introduced to how to debug Integration Services  packages by using the debugging tools in Business Intelligence Development  Studio. It then explains how to implement error-handling logic in an  Integration Services package.</p>
+
+<p><strong>Module 7: Implementing  Checkpoints and Transactions </strong> - The students will be introduced to what checkpoints are and how to  implement them. It then discusses transactions, and describes how to implement  transactional data access logic in an Integration Services package.</p>
+
+<p><strong>Module 8: Configuring  and Deploying Packages </strong> - The students will be introduced to how to create Package  Configurations and how to deploy Integration Services packages to production  servers.</p>
+
+<p><strong>Module 9: Managing and  Securing Packages </strong> - The students will be  introduced to the management tasks that relate to Integration Services packages  and explained how to perform those tasks by using the Integration Services  management tools. It also describes how to secure Integration Services  packages.</p>

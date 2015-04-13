@@ -1,0 +1,18 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan a Windows Server 2008 deployment.</li>
+  <li>Plan and implement server commissioning and decommissioning for Windows Server 2008.</li>
+  <li>Plan the installation of server roles for Windows Server 2008.</li>
+  <li>Create a configuration change plan for Windows Server 2008.</li>
+  <li>Plan and implement Windows Server 2008 security.</li>
+  <li>Manage application versioning in Windows Server 2008.</li>
+  <li>Plan for a high-availability Windows Server 2008 deployment.</li>
+  <li>Plan a server update maintenance schedule for Windows Server 2008.</li>
+  <li>Maintain a Distributed File System (DFS) in Windows Server 2008.</li>
+  <li>Define server backup requirements and policies for Windows Server Backup.</li>
+  <li>Plan and implement a Windows Server 2008 restore.</li>
+  <li>Plan Windows Server 2008 monitoring.</li>
+  <li>Troubleshoot hardware issues.</li>
+  <li>Troubleshoot software issues.</li>
+  <li>Troubleshoot network issues.</li>
+</ul>

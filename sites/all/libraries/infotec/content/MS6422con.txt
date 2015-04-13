@@ -1,0 +1,103 @@
+<p><strong>Module 1: Introduction to Windows  Server 2008 Hyper-V</strong></p>
+
+<p>This module introduces the concepts related to and the history of server virtualization. Through this module, the student will understand the business need for virtualization and how virtualization fits into their existing environment. Selecting the required hardware and basic installation and configuration are also covered.</p>
+
+<p><strong>Lessons</strong></p>
+
+<ul>
+  <li>Introducing Windows Server 2008 Hyper-V</li>
+  <li>Hyper-V Requirements</li>
+  <li>Installing the Hyper-V Server Role</li>
+  <li>Configure Hyper-V to Be Highly Available</li>
+</ul>
+
+<p><strong>Module 2: Configure Hyper-V Settings  and Virtual Networks</strong></p>
+
+<p>This module provides information on the configuration options available on the Hyper-V server and the Hyper-V Virtual Networks.</p>
+
+<p><strong>Lessons</strong></p>
+
+<ul>
+  <li>Configuring Hyper-V Options</li>
+  <li>Configuring the Virtual Network</li>
+</ul>
+
+<p><strong>Module 3: Hyper-V Remote  Administration</strong></p>
+
+<p>This module explores the requirements for remote management of the Hyper-V Server and the tools available for remote management.</p>
+
+<p><strong>Lessons</strong></p>
+
+<ul>
+  <li>Configuring Hyper-V Remote Administration</li>
+  <li>Connecting to Hyper-V Remotely</li>
+</ul>
+
+<p><strong>Module 4: Creation of Virtual  Hard Drives and Virtual Machines</strong></p>
+
+<p>This module explores the creation of the Hyper-V Virtual  Machines and their associated Virtual Hard Drives. The options available for the Virtual Machines and the types of Virtual Hard Drives will be covered. This  module also covers the importance of Hyper-V Integration Services and  Hypervisor.</p>
+
+<p><strong>Lessons</strong></p>
+
+<ul>
+  <li>Creating Virtual Hard Drives</li>
+  <li>Creating Virtual Machines</li>
+</ul>
+
+<p><strong>Module 5: Virtual Machine Settings, Snapshots, and High Availability</strong></p>
+
+<p>This module explores the settings available on each Virtual Machines hosted on the Hyper-V server and how to use and manage Virtual Machine snapshots. The module will also cover configuring Hyper-V for high availability and performance monitoring on the Hyper-V server.</p>
+
+<p><strong>Lessons</strong></p>
+
+<ul>
+  <li>Managing Virtual Machine Settings</li>
+  <li>Using Virtual Machine Snapshots</li>
+  <li>Configuring Hyper-V for High Availability</li>
+  <li>Monitoring Hyper-V Performance</li>
+</ul>
+
+<p><strong>Module 6: Migration of Virtual Machines to Hyper-V</strong></p>
+
+<p>This module provides instruction on how to migrate virtual machines hosted on earlier virtualization technologies to the Hyper-V server.</p>
+
+<p><strong>Lessons</strong></p>
+
+<ul>
+  <li>Migrating Legacy Virtual Machines</li>
+  <li>Understanding the Impact of Migrated VMs</li>
+</ul>
+
+<p><strong>Module 7: Introduction to System  Center Virtual Machine Manager</strong></p>
+
+<p>This module introduces System Center Virtual Machine Manager and shows how it can be used to manage Hyper-V servers throughout an enterprise.</p>
+
+<p><strong>Lessons</strong></p>
+
+<ul>
+  <li>Introducing System Center Virtual Machine Manager</li>
+  <li>Managing Virtual Machines with VMM</li>
+</ul>
+
+<p><strong>Module 8: Managing the VMM  Virtual Machine Image Library and Checkpoints</strong></p>
+
+<p>This module explores the Virtual Machine image library and checkpoints available in System Center Virtual Machine Manager.</p>
+
+<strong>Lessons</strong></p>
+
+<ul>
+  <li>Using the VMM Library</li>
+  <li>Managing the Image Library in VMM</li>
+  <li>Managing Checkpoints</li>
+</ul>
+
+<p><strong>Module 9: Windows PowerShell and Disaster Recovery</strong></p>
+
+<p>This module explores how to use PowerShell to manage the Hyper-V server. This module also explores how to backup Virtual Machines in  Hyper-V.</p>
+
+<p><strong>Lessons</strong></p>
+
+<ul>
+  <li>Using PowerShell to Manage Hyper-V</li>
+  <li>Virtual Machine Backup and Recovery</li>
+</ul>

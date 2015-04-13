@@ -1,0 +1,15 @@
+<p><strong>During this course, you will learn:</strong></p>
+    <ul>
+      <li>Introduction to the command line</li>
+      <li>Managing physical storage</li>
+      <li>Learning how to install and configure software components and services</li>
+      <li>Establishing network connections and firewall access</li>
+      <li>Monitoring and managing processes</li>
+      <li>Managing and securing files</li>
+      <li>Administrating users and groups</li>
+      <li>Accessing Linux file systems</li>
+      <li>Installing and using virtualized systems</li>
+      <li>Reviewing the system log files and journal</li>
+    </ul>
+</body>
+</html>

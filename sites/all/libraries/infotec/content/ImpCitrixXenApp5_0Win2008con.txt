@@ -1,0 +1,16 @@
+<ul>
+	<li>Introducing XenApp 5.0</li>
+	<li>Installing XenApp</li>
+	<li>Installing and Configuring Citrix XenApp Plugins</li>
+	<li>Installing and Configuring Web Interface</li>
+	<li>Delivering Applications and Content</li>
+	<li>Streaming Applications</li>
+	<li>Configuring Load Management</li>
+	<li>Configuring Policies in XenApp</li>
+	<li>Configuring Printing</li>
+	<li>Administrative Configuration</li>
+	<li>Display and SpeedScreen Configuration</li>
+	<li>XenApp Security</li>
+	<li>Installing Applications, Service Packs and Hotfixes</li>
+	<li>Platinum Edition Additional Components</li>
+</ul>

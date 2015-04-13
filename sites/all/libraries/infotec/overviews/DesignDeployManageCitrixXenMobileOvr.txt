@@ -1,0 +1,1 @@
+This course is recommended for partners designing and deploying Citrix XenMobile Enterprise, and managing devices, apps and data for consumer organizations.

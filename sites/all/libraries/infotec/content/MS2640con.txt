@@ -1,0 +1,20 @@
+<p><strong> Unit 1: Introduction to Microsoft ASP.NET Web Application Development<br>
+</strong>This Unit describes the ASP.NET architecture and how it relates to the Microsoft .NET Framework.</p>
+<p><strong> Unit 2: Developing a Microsoft ASP.NET Web Application User Interface<br>
+</strong>This Unit explains how to create an ASP.NET Web application UI by using Web Forms, ASP.NET server controls, and event handlers. Students will also learn how to validate user input by using validation controls and how the page postback process works.</p>
+<p><strong> Unit 3: Debugging Microsoft ASP.NET Web Applications<br>
+</strong>This Unit explains how to analyze the cause of logic errors in ASP.NET Web applications by using the ASP.NET trace functionality and the Visual Studio .NET debugger.</p>
+<p><strong> Unit 4: Accessing Data Using Microsoft ADO.NET<br>
+</strong>This Unit explains how to use ADO.NET to access data from a database.</p>
+<p><strong> Unit 5: Managing State in a Microsoft ASP.NET Web Application<br>
+</strong>This Unit explains how state management has evolved in ASP.NET.</p>
+<p><strong> Unit 6: Authenticating Users<br>
+</strong>This Unit explains the different types of authentication methods that are supported by ASP.NET and how to implement Microsoft Windows -based and Forms-based authentication in an ASP.NET Web application.</p>
+<p><strong> Unit 7: Creating and Consuming XML Web Services<br>
+</strong>This Unit explains how to create and consume XML Web services.</p>
+<p><strong> Unit 8: Calling COM Component<br>
+</strong>This Unit explains how to access existing COM components by using .NET COM interop.</p>
+<p><strong> Unit 9: Migrating ASP Web Applications to Microsoft ASP.NET<br>
+</strong>This Unit explains how to examine an existing ASP Web application and apply strategies for migrating it to ASP.NET.</p>
+<p><strong> Unit 10: Deploying Microsoft ASP.NET Web Applications<br>
+</strong>This Unit explains how to prepare an ASP.NET Web application for deployment.</p>

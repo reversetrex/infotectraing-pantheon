@@ -1,0 +1,53 @@
+<p><strong>Lesson 1: Customizing the Windows Vista Environment</strong></p>
+
+<ul>
+	<li>Apply a Theme or Color Scheme</li>
+	<li>Implement Windows Aero</li>
+	<li>Modify the Display Settings</li> 
+	<li>Modify Device Settings</li>
+</ul>
+
+<p><strong>Lesson 2: Working with Windows Vista Applications</strong></p>
+
+<ul>
+	<li>Manage Contact Information Using Windows Contacts</li>
+	<li>Manage Appointments and Tasks Using Windows Calendar</li>
+	<li>Schedule Applications</li> 
+	<li>Use the Snipping Tool to Capture Screens</li> 
+	<li>Manage Pictures Using Windows Photo Gallery</li>
+</ul>
+
+<p><strong>Lesson 3: Working with Internet Explorer 7.0</strong></p>
+
+<ul>
+	<li>Manage Web Pages Using Internet Explorer 7.0</li>
+	<li>Manage RSS Feeds</li>
+	<li>Search the Web</li> 
+	<li>Configure the Basic Internet Explorer Privacy Settings</li>
+</ul>
+
+<p><strong>Lesson 4: Managing Network Communications and Sharing</strong></p>
+
+<ul>
+	<li>An Overview of Networks</li>
+	<li>Access Network Resources</li>
+	<li>Share Files and Folders</li> 
+	<li>Access Offline Files</li> 
+	<li>Synchronize Data Using Sync Center</li> 
+	<li>Collaborate Using Windows Meeting Space</li>
+</ul>
+
+<p><strong>Lesson 5: Backing Up and Restoring Data</strong></p>
+
+<ul>
+	<li>Back Up Your Data</li>
+	<li>Restore Data</li>
+</ul>
+
+<p><strong>Lesson 6: Enhancing System Performance</strong></p>
+
+<ul>
+	<li>View System Information</li>
+	<li>Optimize Power Consumption</li> 
+	<li>Improve the System Performance with ReadyBoost</li>
+</ul>

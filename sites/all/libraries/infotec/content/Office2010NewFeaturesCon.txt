@@ -1,0 +1,42 @@
+<p><strong>Unit  1: The Office 2010 interface</strong></p>
+<ul>
+  <li> Topic A: Office interface elements</li>
+  <li> Topic B: New Ribbon features</li>
+  <li> Topic C: Microsoft Office Backstage view</li>
+</ul>
+<p><strong>  Unit 2: New Word features</strong></p>
+<ul>
+  <li> Topic A: Formatting options</li>
+  <li> Topic B: The Navigation pane</li>
+</ul>
+<p><strong>  Unit 3: New Excel features</strong></p>
+<ul>
+  <li> Topic A: Sparklines</li>
+  <li> Topic B: PivotTables and slicers</li>
+  <li> Topic C: PivotCharts</li>
+</ul>
+<p><strong>  Unit 4: New PowerPoint features</strong></p>
+<ul>
+  <li> Topic A: Reading view</li>
+  <li> Topic B: Sections</li>
+  <li> Topic C: Media clips</li>
+  <li> Topic D: Animations</li>
+  <li> Topic E: Broadcasting a slide show online</li>
+</ul>
+<p><strong>  Unit 5: New Outlook features</strong></p>
+<ul>
+  <li> Topic A: The Outlook interface</li>
+  <li> Topic B: Conversation management</li>
+  <li> Topic C: Quick Steps</li>
+  <li> Topic D: The People Pane</li>
+</ul>
+<p><strong>  Unit 6: New Access features</strong></p>
+<ul>
+  <li> Topic A: The Access 2010 environment</li>
+  <li> Topic B: Data features</li>
+</ul>
+<p><strong>  Appendix A: Collaboration in Outlook 2010</strong></p>
+<ul>
+  <li> Topic A: Connecting with colleagues via Outlook Social Connectors</li>
+  <li> Topic B: Staying informed with RSS</li>
+</ul>

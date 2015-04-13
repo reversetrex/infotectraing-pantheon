@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Configure advanced features for Dynamic Host Configuration Protocol (DHCP), Domain Name System (DNS), and configure IP Address Management (IPAM) with Windows Server 2012.</li>
+  <li>Configure and manage iSCSI, BranchCache and FSRM.</li>
+  <li>Configure DAC to manage and audit access to shared files.</li>
+  <li>Plan and implement an AD DS deployment that includes multiple domains and forests.</li>
+  <li>Plan and implement an AD DS deployment that includes locations.</li>
+  <li>Implement and configure an Active Directory Certificate Services (AD CS) deployment.</li>
+  <li>Implement an AD RMS deployment.</li>
+  <li>Implement an AD FS deployment.</li>
+  <li>Provide high availability and load balancing for web-based applications by implementing Network Load Balancing (NLB).</li>
+  <li>Implement and validate high availability and load balancing for web-based applications by implementing NLB.</li>
+  <li>Provide high availability for network services and applications by implementing failover clustering.</li>
+  <li>Implement a failover cluster, and configure and validate a highly available network service.</li>
+  <li>Deploy and manage Hyper-V virtual machines in a failover cluster.</li>
+  <li>Implement a backup and disaster recovery solution based on business and technical requirements.</li>
+</ul>

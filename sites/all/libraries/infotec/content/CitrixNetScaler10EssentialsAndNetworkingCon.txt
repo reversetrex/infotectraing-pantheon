@@ -1,0 +1,207 @@
+<h3>Getting Started</h3>
+<ul>
+  <li>Introduction to the NetScaler System</li>
+  <li>NetScaler Functionality</li>
+  <li>NetScaler Overview</li>
+  <li>Product Features</li>
+  <li>NetScaler Operating System Overview</li>
+  <li>Hardware Platforms</li>
+  <li>Hardware Components</li>
+  <li>nCore Configuration Architecture</li>
+  <li>Deployment Scenarios</li>
+  <li>Logging in to the NetScaler System</li>
+  <li>NetScaler Licenses</li>
+  <li>Performing an Upgrade</li>
+</ul>
+<h3>Basic Networking</h3>
+<ul>
+  <li>OSI Networking Model</li>
+  <li>NetScaler Architecture Overview</li>
+  <li>NetScaler-Owned IP Addresses</li>
+  <li>Network Topology</li>
+  <li>NetScaler Network Interfaces</li>
+  <li>Virtual Local Area Networks (VLANs)</li>
+  <li>IP Routing</li>
+  <li>Determining the Source IP Address</li>
+  <li>Packet Forwarding</li>
+  <li>Use Source IP Mode</li>
+  <li>Client-IP HTTP Header Insertion</li>
+  <li>Path MTU Discovery</li>
+  <li>Link Aggregation</li>
+  <li>Network Address Translation (NAT)</li>
+</ul>
+<h3>High Availability</h3>
+<ul>
+  <li>High Availability Functionality</li>
+  <li>High Availability Node Configuration</li>
+  <li>Propagation and Synchronization</li>
+  <li>High Availability Management</li>
+</ul>
+<h3>Securing NetScaler</h3>
+<h3>NetScaler System Communication</h3>
+<ul>
+  <li>Access Control Lists</li>
+  <li>Access Control List Configuration</li>
+  <li>Detailed Access Control List Configuration</li>
+  <li>Users, Groups, and Command Policies</li>
+  <li>External Authentication for System Users</li>
+  <li>Authentication, Authorization, and Auditing (AAA) Issues</li>
+  <li>Authentication Troubleshooting</li>
+</ul>
+<h3>Basic Load Balancing</h3>
+<ul>
+  <li>Load Balancing Basics</li>
+  <li>Entity Management</li>
+  <li>Server Creation</li>
+  <li>Services Configuration Overview</li>
+  <li>Virtual Server Creation</li>
+  <li>Binding Virtual Servers to Services or a Service Group</li>
+  <li>Traffic Types</li>
+  <li>Service Monitoring</li>
+  <li>Persistence and Persistence Connections</li>
+  <li>Load-Balancing Configuration Protection</li>
+  <li>Advanced Services Options</li>
+  <li>Maintaining of Client Connection for Multiple Client Requests</li>
+  <li>Specified Source IP Addresses for Back-end Communication Using Network Profiles</li>
+  <li>Disabling Services</li>
+  <li>Graceful Shutdown of Services</li>
+  <li>Removing Services</li>
+  <li>Configuration Verification</li>
+  <li>The Load-Balancing Visualizer</li>
+  <li>Configuring Load Balancing for DataStream</li>
+  <li>Link Load Balancing</li>
+  <li>Configuration of Sessionless Load-Balancing Virtual Servers</li>
+  <li>Load-Balancing Issues</li>
+  <li>Use of Telnet or Monitors to Check Ports</li>
+</ul>
+<h3>SSL Offload</h3>
+<ul>
+  <li>SSL</li>
+  <li>SSL Session Process</li>
+  <li>Feature and Benefits</li>
+  <li>Offload Performance</li>
+  <li>Digital Certificates</li>
+  <li>SSL Administration</li>
+  <li>SSL Offload Overview</li>
+  <li>Deployment Scenarios</li>
+  <li>Citrix Recommendations for SSL</li>
+  <li>SSL Renegotiation Attack</li>
+  <li>SSL Troubleshooting</li>
+  <li>Intermediate Certificate Not Linked</li>
+</ul>
+<h3>Global Server Load Balancing</h3>
+<ul>
+  <li>GSLB Deployment Methods</li>
+  <li>GSLB Concepts</li>
+  <li>GSLB Entities</li>
+  <li>GSLB DNS Methods</li>
+  <li>Metric Exchange Protocol</li>
+  <li>Implementing GSLB</li>
+  <li>Viewing and Configuring GSLB with the Visualizer</li>
+  <li>Configuring Site-to-Site Communication</li>
+  <li>RPC Node Password</li>
+  <li>Encryption of Site Metrics Exchange</li>
+  <li>Source IP Address for an RPC Node</li>
+  <li>GSLB Site Communication Example</li>
+  <li>Customizing the GSLB Configuration</li>
+  <li>Changing the GSLB Method</li>
+  <li>GSLB Persistence</li>
+  <li>Using Dynamic Weights for Services</li>
+  <li>Monitoring GSLB Services</li>
+  <li>Binding Monitors to a GSLB Service</li>
+  <li>Monitoring GSLB Sites</li>
+  <li>Protecting the GSLB Setup Against Failure</li>
+  <li>Responding with an Empty Address Record When DOWN</li>
+  <li>Backup IP Address Configuration for a GSLB Domain</li>
+  <li>Implementing GSLB Failover for Disaster Recovery</li>
+</ul>
+<h3>AppExpert Classic Policy Engine</h3>
+<ul>
+  <li>Policies Overview</li>
+  <li>Expression Structures</li>
+  <li>Content Filtering</li>
+  <li>Content Filtering Actions</li>
+  <li>Content Filtering Rules</li>
+</ul>
+<h3>  AppExpert Default Policy Engine</h3>
+<ul>
+  <li>Understanding Packet-Processing Flow</li>
+  <li>Understanding Policies</li>
+  <li>Policy Process Evaluation Flow</li>
+  <li>Identifying Default Policy Expressions</li>
+  <li>Actions</li>
+  <li>Understanding Bind Points</li>
+  <li>Understanding Policy Labels</li>
+  <li>Pattern Sets</li>
+  <li>Typecasting</li>
+  <li>Rewrite, Responder, and URL Transformation</li>
+</ul>
+<h3>Rewrite, Responder, and URL Transform</h3>
+<ul>
+  <li>Configuring Rewrite Policies and Actions</li>
+  <li>Responder Actions</li>
+  <li>Respondwith</li>
+  <li>Responder Action for Timeouts</li>
+  <li>Responder Policies</li>
+  <li>Responder HTML Page Imports</li>
+  <li>Binding Policies</li>
+  <li>URL Transformation</li>
+  <li>URL Transformation Actions</li>
+  <li>Binding of URL Transformations</li>
+</ul>
+<h3>Content Switching</h3>
+<ul>
+  <li>Introduction to Content Switching</li>
+  <li>Understanding Content Switching</li>
+  <li>Content Switching Based on Network Characteristics</li>
+  <li>Content-Switching Virtual Servers and Load-Balancing Virtual Servers</li>
+  <li>Configuring Content-Switching Virtual Servers</li>
+  <li>Configure a Load-Balancing Setup for Content Switching</li>
+  <li>Content-Switching Policies</li>
+  <li>Binding Content-Switching Policies</li>
+  <li>Content-Switching Rule Precedence Without Priority Specified</li>
+  <li>Content-Switching Rule Precedence With Priority Specified</li>
+  <li>Configuring Content Switching for DataStream</li>
+</ul>
+<h3>Optimizing Traffic</h3>
+<ul>
+  <li>Introduction to Compression</li>
+  <li>Action Analytics</li>
+  <li>AppExpert Templates</li>
+  <li>Terminiology</li>
+  <li>Deploying NetScaler for an Application</li>
+  <li>Application Example</li>
+  <li>AppExpert Template Deployment</li>
+</ul>
+<h3>Clustering</h3>
+<ul>
+  <li>How Clustering Works</li>
+  <li>Cluster Synchronization</li>
+  <li>Cluster Connections</li>
+  <li>Cluster Communication Interfaces</li>
+  <li>Striped and Spotted IP Addresses</li>
+  <li>Traffic Distribution</li>
+  <li>Cluster and Node States</li>
+  <li>NetScaler Cluster Set up</li>
+  <li>NetScaler Cluster Traffic Distribution Mechanisms</li>
+  <li>To Configure a Cluster Link Aggregation Group Statically</li>
+  <li>Dynamic Configuration for a Cluster Link Aggregation Group</li>
+  <li>NetScaler Cluster Management</li>
+  <li>NetScaler Cluster Troubleshooting</li>
+</ul>
+<h3>Monitoring and Management</h3>
+<ul>
+  <li>Monitoring Needs</li>
+  <li>NetScaler Log Management</li>
+  <li>Simple Network Management Protocol</li>
+  <li>To Configure SMNPv1 and SMNPv2</li>
+  <li>AppFlow on the NetScaler System</li>
+  <li>AppFlow Collectors and EdgeSight Monitoring</li>
+  <li>AppFlow Actions and EdgeSight Monitoring Responder Policies</li>
+  <li>Third-Party Collectors</li>
+  <li>Network Traffic Capture using NSTRACE</li>
+  <li>Troubleshooting with Filter Expressions</li>
+  <li>Decoding SSL Traffic with Wireshark</li>
+  <li>Display NetScaler System Information</li>
+</ul>
+<h3>Addendum: Citrix NetScaler 10.1 Essentials for SDX Appliances</h3>

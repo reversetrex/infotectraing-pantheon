@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Use Word with other programs.</li>
+  <li>Collaborate on documents.</li>
+  <li>Add reference marks and notes to a document.</li>
+  <li>Make long documents easier to use.</li>
+  <li>Secure documents and document information.</li>
+  <li>Create Web pages.</li>
+  <li>Create a form.</li>
+  <li>Use XML in Word.</li>
+</ul>

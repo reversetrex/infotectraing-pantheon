@@ -1,0 +1,9 @@
+<p>In this course you will learn to perform the following tasks:</p>
+<ul>
+  <li>Customize the Acrobat XI Pro workspace.</li>
+  <li>Create PDFs from technical documents.</li>
+  <li>Enhance PDF documents.</li>
+  <li>Secure PDF Documents.</li>
+  <li>Create interactive PDF forms.</li>
+  <li>Finalize PDF files for commercial printing.</li>
+</ul>

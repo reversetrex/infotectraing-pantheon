@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Create a basic Word document.</li>
+  <li>Edit a document.</li>
+  <li>Format text.</li>
+  <li>Format paragraphs.</li>
+  <li>Insert a table.</li>
+  <li>Insert special characters and graphical  objects.</li>
+  <li>Control the page setup and appearance of a  Word document.</li>
+  <li>Proofread documents for  accuracy.</li>
+</ul>

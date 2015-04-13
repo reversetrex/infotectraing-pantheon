@@ -1,0 +1,63 @@
+<p><strong> Unit 1: Creating a Simple Windows Forms Application<br>
+</strong>This unit introduces the fundamental skills required to create a simple Windows Forms application. It explains how to configure form properties and how to add controls to a form. It also deals with events and explains how to create event handlers at design time and run time. </p>
+<p> Units</p>
+<ul>
+  <li> Components of a Windows Forms User Interface </li>
+  <li>Event Handling in a Windows Forms Application </li>
+</ul>
+<p><strong> Unit 2: Configuring Standard Controls<br>
+</strong>This unit introduces many of the controls from the Visual Studio Toolbox. It teaches how to add and configure these controls and explains how to group them into different categories by function. </p>
+<p> Unit</p>
+<ul>
+  <li> Windows Forms Controls by Function </li>
+</ul>
+<p><strong> Unit 3: Building Menus<br>
+</strong>This unit introduces the MenuStrip control and the ContextMenuStrip component. It explains how to create and configure form menus and context menus in an application. It also deals with the ToolStripItems that can be added to the container of a MenuStrip or ContextMenuStrip. </p>
+<p> Unit</p>
+<ul>
+  <li> Menus in Windows Forms </li>
+</ul>
+<p><strong> Unit 4: Displaying and Editing Data by Using Data-Bound Controls<br>
+</strong>This unit introduces the controls that can be used to display data from a data source. It shows how to use Visual Studio 2005 to create data sources and add data-bound controls to a form. It also demonstrates how to use the DataGridView control to display and update data retrieved by using a data source. </p>
+<p> Units</p>
+<ul>
+  <li> Binding Data to a Control </li>
+  <li>DataGridView Control </li>
+</ul>
+<p><strong> Unit 5: Providing User Assistance and Enhancing Usability<br>
+</strong>This unit introduces many of the controls and techniques that can be used to create an application that is flexible and intuitive and that provides timely feedback to the user. It shows how to add and configure the available user assistance controls to provide ToolTips, Help, and information about errors. It also describes the accessibility features of Windows Forms and explains how to implement globalization and localization in an application. </p>
+<p> Units</p>
+<ul>
+  <li> Providing User Assistance </li>
+  <li>Implementing Accessibility Features </li>
+  <li>Implementing Globalization and Localization </li>
+</ul>
+<p><strong> Unit 6: Creating Consistent Applications by Using Dialog Boxes and Forms Inheritance<br>
+</strong>This unit introduces the built-in dialog boxes that can be used to prompt users when they are performing common tasks and to provide users with a familiar interface. It explains how to add and configure dialog boxes that enable users to open and save files and to set font and color properties. This unit also explains how to create and use a custom dialog box. In addition, this unit explains the concept of forms inheritance and describes how to create a consistent interface for Windows Forms applications. </p>
+<p> Units</p>
+<ul>
+  <li> Dialog Boxes in a Windows Forms Application </li>
+  <li>Windows Forms Inheritance </li>
+</ul>
+<p><strong> Unit 7: Printing Content and Creating Reports<br>
+</strong>This unit provides an introduction to the components that can be used to preview and print reports from a Windows Forms application. This unit covers the predefined dialog boxes that simplify the processes involved, and it explains how to use these dialog boxes to retrieve print settings and page setup options from the user. </p>
+<p> In addition, this unit explains how to display a report in a Windows Forms application by using the CrystalReportViewer component </p>
+<p> Units</p>
+<ul>
+  <li> Printing in a Windows Forms Application </li>
+  <li>Reporting in a Windows Forms Application </li>
+</ul>
+<p><strong>Unit 8: Performing Asynchronous Tasks by Using the BackgroundWorker Component<br>
+</strong>This unit introduces the main concepts of asynchronous programming and then focuses on the BackgroundWorker component. It explains how to work with the methods and events of the</p>
+<p>BackgroundWorker component to add asynchronous functionality to a Windows Forms application.</p>
+<p>Unit</p>
+<ul>
+  <li>Asynchronous Tasks in Windows Forms Applications</li>
+</ul>
+<p><strong>Unit 9: Deploying Applications by Using ClickOnce<br>
+</strong>This unit explains how to deploy a Windows Forms application by using ClickOnce. It covers the steps required to prepare, publish, install, and test an application. Finally, this unit explains how to update an application and how to use the automatic update feature of ClickOnce.</p>
+<p>Units</p>
+<ul>
+  <li>Windows Forms Application Deployment Options</li>
+  <li>ClickOnce Technology Overview</li>
+</ul>

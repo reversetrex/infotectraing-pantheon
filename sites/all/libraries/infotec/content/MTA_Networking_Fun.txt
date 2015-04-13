@@ -1,0 +1,200 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Microsoft Certification Paths</li>
+    <li>Taking the Exam</li>
+    <li>Exam Prerequisites</li>
+    <li>Exam Preparation Tips</li>
+    <li>Define a Virtual Lab</li>
+    <li>Fundamentals of Networking</li>
+    <li>Knowledge Domains</li>
+    <li>History of Networking</li>
+    <li>Network Defined</li>
+    <li>Networking Benefits</li>
+    <li>Important Network Components</li>
+    <li>Simple Computer Network Diagram</li>
+  </ul>
+  <h3>Section B: Internet, Intranet, and Extranet</h3>
+  <ul>
+    <li>Internet Defined</li>
+    <li>Intranet Defined</li>
+    <li>Extranet Defined</li>
+    <li>Securing Network Connectivity</li>
+    <li>Virtual Private Networks Defined</li>
+    <li>VPN Connection Process</li>
+    <li>Network Security Zone</li>
+    <li>Firewalls Defined</li>
+  </ul>
+  <h3>Section C: Understanding LANs</h3>
+  <ul>
+    <li>Local Area Network Defined</li>
+    <li>Perimeter Network</li>
+    <li>Addresses</li>
+    <li>Viewing Windows IP Addresses</li>
+    <li>Reserved Private IP Addresses</li>
+    <li>Internet Assigned Numbers Authority</li>
+    <li>Internet Connection Sharing</li>
+  </ul>
+  <h3>Section D: Wired vs. Wireless LANs</h3>
+  <ul>
+    <li>Wired LANs</li>
+    <li>Wired LAN Advantages</li>
+    <li>Wired LAN Disadvantages</li>
+    <li>Wireless LANs</li>
+    <li>Wireless LAN Advantages</li>
+    <li>Wireless LAN Disadvantages</li>
+    <li>Wireless LAN Types</li>
+    <li>Wireless LAN Diagram</li>
+  </ul>
+  <h3>Section E: Understanding WANs</h3>
+  <ul>
+    <li>Dial-up Connections</li>
+    <li>Integrated Services Digital Network</li>
+    <li>Virtual Private Networks</li>
+    <li>Wide Area Network Defined</li>
+    <li>T1 Defined</li>
+    <li>T3 Defined</li>
+    <li>E1 Defined</li>
+    <li>DSL Defined</li>
+    <li>Cable Internet</li>
+  </ul>
+  <h3>Section F: Understanding Wireless Networking</h3>
+  <ul>
+    <li>Introduction to the OSI Model</li>
+    <li>OSI Model In-Depth</li>
+    <li>Wireless Telecommunications Review</li>
+    <li>Wireless Defined</li>
+    <li>Wireless Modulation</li>
+    <li>IEEE</li>
+    <li>IEEE Protocols</li>
+    <li>802.11b/g Drawbacks</li>
+    <li>Wireless Security Standards</li>
+    <li>Wireless Bridging/Switching</li>
+  </ul>
+  <h3>Section G: Networking Topologies and Access Methods</h3>
+  <ul>
+    <li>Network Topologies Defined</li>
+    <li>Star Topology</li>
+    <li>Mesh Topology</li>
+    <li>Ring Topology</li>
+    <li>Bus Topology</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Understanding Switches</h3>
+  <ul>
+    <li>Ethernet</li>
+    <li>Transmission Speeds</li>
+    <li>Straight-through Cables</li>
+    <li>Crossover Cables</li>
+    <li>MAC Addresses</li>
+    <li>Hubs 101</li>
+    <li>Switches 101</li>
+    <li>Managed vs. Unmanaged Switches</li>
+    <li>Managed Switches</li>
+    <li>Unmanaged Switches</li>
+    <li>Broadcast vs. Collision Domains</li>
+    <li>Virtual LANs</li>
+  </ul>
+  <h3>Section B: Switches in Depth</h3>
+  <ul>
+    <li>Layer 2 Switches</li>
+    <li>Layer 3 Switches</li>
+    <li>Switch Link Redundancy</li>
+    <li>MAC Tables</li>
+    <li>Circuit Switching</li>
+    <li>Packet Switching</li>
+    <li>Cell Switching</li>
+  </ul>
+  <h3>Section C: Understanding Routers</h3>
+  <ul>
+    <li>Routers Defined</li>
+    <li>tracert</li>
+    <li>Routing Defined</li>
+    <li>Dynamic Routing</li>
+    <li>Routing Tables</li>
+    <li>IP Addresses</li>
+    <li>Routing with Windows</li>
+  </ul>
+  <h3>Section D: Network Cabling Part I</h3>
+  <ul>
+    <li>Common Network Media</li>
+    <li>Twisted Pair</li>
+    <li>Coaxial</li>
+    <li>Fiberoptic</li>
+    <li>Wireless</li>
+    <li>Interference Considerations</li>
+    <li>Electromagnetic Interference</li>
+    <li>Electronic Interception</li>
+  </ul>
+  <h3>Section E: Network Cabling Part II</h3>
+  <ul>
+    <li>Unshielded Twisted Pair Cable</li>
+    <li>Types of UTP Cable</li>
+    <li>Shielded Twisted Pair Cable</li>
+    <li>Coaxial Cable</li>
+    <li>Wireless Cable Considerations</li>
+    <li>Network Cable Matrix</li>
+    <li>EIA Network Wiring Standards</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Understanding the OSI Model Part I</h3>
+  <ul>
+    <li>Internetwork</li>
+    <li>Terminology</li>
+    <li>OSI Reference Model Review</li>
+    <li>OSI Communication Process</li>
+    <li>Encapsulation</li>
+    <li>Protocols Defined</li>
+  </ul>
+  <h3>Section B: Understanding the OSI Model Part II</h3>
+  <ul>
+    <li>Layer 2: Frames</li>
+    <li>Layer 3: Packets</li>
+    <li>Layer 4: Segments</li>
+    <li>OSI Communication Process Review</li>
+    <li>TCP In-Depth</li>
+    <li>The DOD Model</li>
+    <li>Common TCP Ports</li>
+    <li>UDP In-Depth</li>
+    <li>TCP vs. UDP Comparison</li>
+  </ul>
+  <h3>Section C: IP Addressing Part I</h3>
+  <ul>
+    <li>IPv4 Addressing</li>
+    <li>Static IP Addressing</li>
+    <li>Dynamic IP Addressing</li>
+    <li>APIPA Addresses</li>
+    <li>Classful IP Addressing Concept</li>
+    <li>Classful IP Addressing Diagram</li>
+    <li>Network Address Breakdown</li>
+    <li>Local Loopback Addressing</li>
+    <li>IP Configuration Dialog Box</li>
+  </ul>
+  <h3>Section D: IP Addressing Part II</h3>
+  <ul>
+    <li>IPv6 Addressing</li>
+    <li>IPv6 Dual Stack</li>
+    <li>Teredo: IPv4 to IPv6 Tunneling</li>
+  </ul>
+  <h3>Section E: Introduction to Name Resolution</h3>
+  <ul>
+    <li>Name Resolution Defined</li>
+    <li>Name Resolution Process</li>
+    <li>DNS Diagram</li>
+  </ul>
+  <h3>Section F: Networking Services and Tools</h3>
+  <ul>
+    <li>Allocating IP Addresses</li>
+    <li>Dynamic Host Configuration Protocol</li>
+    <li>DHCP Configuration Process</li>
+    <li>Understanding IPSec</li>
+    <li>TCP/IP Components</li>
+    <li>TCP Port Review</li>
+    <li>Using the PING Command</li>
+    <li>Using the ARP Command</li>
+    <li>Using the NETSTAT Command</li>
+    <li>Using the TRACERT Command</li>
+    <li>Using the IPCONFIG Command</li>
+    <li>Using the PATHPING Command</li>
+    <li>The Telnet Command Defined</li>
+  </ul>

@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Navigate Windows SharePoint Services 3.0 team sites.</li>
+  <li>Work with lists.</li>
+  <li>Work with libraries.</li>
+  <li>Communicate with team members.</li>
+  <li>Work remotely with SharePoint content.</li>
+  <li>Customize your SharePoint environment.</li>
+</ul>

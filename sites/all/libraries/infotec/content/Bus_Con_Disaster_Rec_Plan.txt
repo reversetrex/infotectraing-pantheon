@@ -1,0 +1,49 @@
+<h2>Session 1</h2>
+  <h3>Section A: BCP Project Scope</h3>
+  <ul>
+    <li>Industry and Professional Standards</li>
+    <li>Legislative Compliance</li>
+    <li>Overview</li>
+    <li>Organization Analysis</li>
+    <li>Planning Team</li>
+    <li>Resource Requirements</li>
+    <li>Legal Requirements</li>
+  </ul>
+  <h3>Section B: Business Impact Analysis</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Interruption</li>
+    <li>Resource Prioritization</li>
+    <li>Continuity Strategy</li>
+    <li>BCP Approval</li>
+  </ul>
+  <h3>Section C: DRP Planning and Recovery</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Identification</li>
+    <li>Crisis Management</li>
+    <li>Recovery</li>
+    <li>Data Center Alternatives</li>
+    <li>More Alternatives</li>
+    <li>Processing Agreement</li>
+  </ul>
+  <h3>Section D: Recovery Plan</h3>
+  <ul>
+    <li>Emergency Response</li>
+    <li>Data Backup</li>
+    <li>Backup Types</li>
+    <li>Off-site Storage</li>
+    <li>Utilities</li>
+    <li>Logistics</li>
+    <li>Emergency Services</li>
+  </ul>
+  <h3>Section E: Recovery Plan Implementation</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Training</li>
+    <li>Checklist Test</li>
+    <li>Structured Walk-through</li>
+    <li>Simulation Test</li>
+    <li>Parallel Test</li>
+    <li>Full-interruption Test</li>
+  </ul>

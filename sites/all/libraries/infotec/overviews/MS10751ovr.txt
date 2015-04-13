@@ -1,0 +1,7 @@
+This course teaches students how to design, install and configure a private cloud, including how to configure and deploy the application infrastructure as well as the key components of System Center 2012 that are necessary for delivering services on the private cloud infrastructure.<br /><br />
+
+
+This course provides direction on producing a high-level design that accounts for requirements for the private cloud environment. Students will learn how to configure and deploy the application infrastructure, how to configure a preboot execution environment (PXE) server, an update server, and a software update baseline. Students will learn how to sequence and deploy an application virtually, and how to build the core components that are necessary for delivering services in the infrastructure. They will also allocate resources and grant access to the private cloud.<br /><br />
+
+
+Additionally, students will learn how to monitor the private cloud, and setup, configure, and integrate the core System Center 2012 - Service Manager components into the private cloud infrastructure. Students will learn how to configure a service catalog and publish this catalog to the self-service portal. They will also gain the knowledge required to deploy and configure System Center 2012 - Data Protection Manager (DPM) and Orchestrator in a private cloud, and integrate these products with other System Center 2012 components.

@@ -1,0 +1,15 @@
+<p><strong>Module 1: Configuring the Organizational Structure</strong>- This  module examines how to set up and manage business units.</p>
+
+<p><strong>Module 2: Configuring Security</strong>- This module examines the Microsoft Dynamics CRM Security model, the components that  make up the model, and how to manage them.</p>
+
+<p><strong>Module 3: Configuring Users and Teams</strong>- This  module examines user management functionality in Microsoft Dynamics CRM.</p>
+
+<p><strong>Module 4: Configuring System Settings</strong>- This module examines the series of configuration settings that are found within the  Microsoft Dynamics CRM application.</p>
+
+<p><strong>Module 5: Change Management</strong>- This module examines best practices related to planning, executing, and testing changes in an implementation of Microsoft Dynamics CRM.</p>
+
+<p><strong>Module 6: Report Customizations</strong>- This module examines options available for reporting in Microsoft Dynamics CRM and  basic report customization capabilities.</p>
+
+<p><strong>Module 7: Performance and Maintenance</strong>- 
+This  module examines basic system performance and maintenance items related to  improving the speed and user experience of Microsoft Dynamics CRM.</p>
+<p><strong>Module 8: Advanced Find </strong>- This module examines the query capability of Microsoft Dynamics CRM Advanced Find functionality.</p>

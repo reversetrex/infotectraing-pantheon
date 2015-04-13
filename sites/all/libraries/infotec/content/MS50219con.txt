@@ -1,0 +1,1 @@
+<p><strong>Module 1: Introduction to Windows 7</strong> - This module explains how to use the various new features of Windows 7, how to prepare for the OS roadmap  with regard to OS versions, bitness and editions, how to design  backwards-compatible applications for Windows 7 and how to expand your  knowledge of individual features.</p>

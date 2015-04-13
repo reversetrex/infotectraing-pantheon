@@ -1,0 +1,18 @@
+<p>Upon completing this course, you will be able to meet these objectives:</p>
+<ul>
+  <li>Explain how Cisco Unified Computing System addresses key management challenges in data center server environments.</li>
+  <li>Describe the Cisco UCS B-Series and C-Series system architectures, hardware components, and field-installable options.</li>
+  <li>Explain how to connect to and manage Cisco Unified Computing System components.</li>
+  <li>Configure Cisco UCS B-Series blade servers with Cisco UCS Manager.</li>
+  <li>Configure Cisco UCS C-Series blade servers with Cisco Integrated Management Controller.</li>
+  <li>Explain the connectivity requirements for the Cisco UCS platform.</li>
+  <li>Configure server profiles to allocate physical resources.</li>
+  <li>Configure maintenance tasks.</li>
+  <li>Configure high availability at the LAN, SAN, and server NIC level.</li>
+  <li>Identify common deployment scenarios for Cisco UCS.</li>
+  <li>Troubleshoot common LAN and SAN connectivity issues.</li>
+  <li>Troubleshoot service profile issues.</li>
+  <li>Configure Cisco Nexus 1000V in a VMware vSphere 4.1 environment.</li>
+  <li>Configure Cisco UCS Manager to support VMware PTS.</li>
+  <li>Configure Cisco UCS Manager to support VMware DirectPath I/O.</li>
+</ul>

@@ -1,0 +1,10 @@
+<h2>Session 1</h2>
+<h3> Section A: Understanding Verbal Abuse</h3>
+<ul>
+  <li>Introduction</li>
+  <li>Verbal Abuse in Relationships</li>
+  <li>Avoiding Abusive Relationships</li>
+  <li>Verbal Abuse at School</li>
+  <li>Verbal Abuse at Home</li>
+  <li>Help for Verbal Abuse</li>
+</ul>

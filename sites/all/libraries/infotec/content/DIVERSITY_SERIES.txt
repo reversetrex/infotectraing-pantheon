@@ -1,0 +1,132 @@
+<h2>Diversity Dynamics</h2>
+<h3>Section A: Dynamics of Diversity</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>What Diversity Is</li>
+    <li>Diversity Management</li>
+  </ul>
+<h3>Section B: Transformation Process</h3>
+  <ul>
+    <li>Diversity Visioning</li>
+    <li>The Vision Statement</li>
+    <li>The Cultural Audit</li>
+    <li>Task Force</li>
+    <li>Final Tasks</li>
+  </ul>
+  <h2>Men and Women Working Together</h2>
+  <h3>Section A: Men and Women at Work</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>The New Workplace</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: Culture</h3>
+  <ul>
+    <li>Two Cultures</li>
+    <li>Sexual Harassment</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Communication</h3>
+  <ul>
+    <li>Personalities</li>
+    <li>Cultural Biases</li>
+    <li>Progressive Organizations</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Collaboration</h3>
+  <ul>
+    <li>Helping Each Other</li>
+    <li>Conclusion</li>
+  </ul>
+  <h2>Leadership Skills for Women</h2>
+  <h3>Section A: Characteristics of Effective Leaders</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Breaking Stereotypes</li>
+    <li>Changing Workplace</li>
+    <li>Leadership Skills</li>
+  </ul>
+  <h3>Section B: Leading Your Team</h3>
+  <ul>
+    <li>Stereotypes</li>
+    <li>Do's and Don'ts</li>
+    <li>Team Building Basics</li>
+  </ul>
+  <h3>Section C: Getting Organized</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Time Management</li>
+  </ul>
+  <h3>Section D: Solving Problems</h3>
+  <ul>
+    <li>Resolving Conflict</li>
+    <li>Managing Difficult People</li>
+    <li>Gaining Personal Power</li>
+    <li>Conclusion</li>
+  </ul>
+  <h2>Effective Performance Appraisals</h2>
+  <h3>Section A: Effective Performance Appraisals</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Managing Performance</li>
+    <li>Making a Difference</li>
+  </ul>
+  <h3>Section B: Preparation</h3>
+  <ul>
+    <li>Plan</li>
+    <li>Goals &amp; Standards</li>
+    <li>Expectations</li>
+  </ul>
+  <h3>Section C: Conducting the Appraisal</h3>
+  <ul>
+    <li>Appraisal Discussion</li>
+    <li>Talking vs. Listening</li>
+    <li>Asking Questions</li>
+    <li>Giving Criticism</li>
+    <li>Future Development</li>
+  </ul>
+  <h3>Section D: Following Up</h3>
+  <ul>
+    <li>Management</li>
+    <li>Written Records</li>
+    <li>New Expectations</li>
+    <li>Empowerment</li>
+  </ul>
+  <h2>Delivering Effective Training Sessions</h2>
+  <h3>Section A: Delivering Effective Training</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Training</li>
+    <li>Key Fact</li>
+  </ul>
+<h3>Section B: Today's Learner</h3>
+  <ul>
+    <li>Old vs. New</li>
+    <li>Learning Cycle</li>
+    <li>Key Fact</li>
+  </ul>
+<h3>Section C: Getting It Together</h3>
+  <ul>
+    <li>The Five Steps</li>
+    <li>Evaluate Your Audience</li>
+    <li>Focus</li>
+    <li>Determine Methods</li>
+    <li>Develop Content</li>
+    <li>Design Your Graphics</li>
+  </ul>
+<h3>Section D: Training Techniques That Work</h3>
+  <ul>
+    <li>The Room</li>
+    <li>The Warm Up</li>
+    <li>The Orientation</li>
+    <li>The Introduction</li>
+  </ul>
+<h3>Section E: Training Methods</h3>
+  <ul>
+    <li>The Icebreaker</li>
+    <li>The Discussion</li>
+    <li>Case Studies and Role Plays</li>
+    <li>Games</li>
+    <li>Effective Training</li>
+    <li>Conclusion</li>
+  </ul>

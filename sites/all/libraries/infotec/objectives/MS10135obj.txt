@@ -1,0 +1,18 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Install and deploy Exchange Server 2010.</li>
+  <li>Configure Mailbox servers and mailbox server components.</li>
+  <li>Manage recipient objects.</li>
+  <li>Configure the Client Access server role.</li>
+  <li>Manage message transport.</li>
+  <li>Configure the secure flow of messages between the Exchange Server organization and the Internet.</li>
+  <li>Implement a high availability solution for Mailbox servers and other server roles.</li>
+  <li>Plan and implement backup and restore for the server roles.</li>
+  <li>Plan and configure messaging policy and compliance.</li>
+  <li>Configure Exchange Server permissions and  security for internal and external access.</li>
+  <li>Monitor and maintain the messaging system.</li>
+  <li>Transition an Exchange Server 2003 or Exchange Server 2007 organization to Exchange Server 2010.</li>
+  <li>Configure the Unified Messaging Server role and Unified Messaging components.</li>
+  <li>Implement high availability across multiple sites and implement Federated Sharing.</li>
+</ul>

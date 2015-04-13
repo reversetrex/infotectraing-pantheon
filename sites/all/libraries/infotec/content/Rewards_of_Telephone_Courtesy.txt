@@ -1,0 +1,10 @@
+<h2>Session 1</h2>
+  <h3>Section A: Telephone Courtesy Pays</h3>
+  <ul>
+    <li>Become an Expert</li>
+    <li>Handling Calls</li>
+    <li>Answering Calls</li>
+    <li>Handling Problems</li>
+    <li>Handling Calls for Others</li>
+    <li>Review</li>
+  </ul>

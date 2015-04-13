@@ -1,0 +1,8 @@
+In this series learn to effectively take care of the client machine, and 
+get the software where you need it throughout your enterprise and on your 
+timeline. Evaluate basic and advanced functions of working with Vista 
+Clients. Our experts will take you step by step through exactly what it 
+takes to deploy applications and solutions from server to clients. Upon 
+completion of this series you will be able to understand and use the power 
+of deployment and maintenance features built into the Windows Server 2008 
+and Vista Client enterprise solution.

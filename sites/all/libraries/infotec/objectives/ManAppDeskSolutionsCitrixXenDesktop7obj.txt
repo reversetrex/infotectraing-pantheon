@@ -1,0 +1,12 @@
+<p>Upon successful completion of this course, learners are able to:</p>
+<ul>
+  <li>Understand the XenApp and XenDesktop 7.6 architecture, components, and communication.</li>
+  <li>Delegate administration and manage licenses.</li>
+  <li>Manage the XenApp and XenDesktop infrastructure.</li>
+  <li>Create and manage machine catalogs and Delivery Groups.</li>
+  <li>Manage StoreFront.</li>
+  <li>Create and manage policies and end-user profiles.</li>
+  <li>Manage sessions, sites, and end users with Director.</li>
+  <li>Manage printing.</li>
+  <li>Manage Provisioning Services.</li>
+</ul>

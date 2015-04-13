@@ -1,0 +1,114 @@
+<h2>Session 1</h2>
+  <h3>Section A: What's New</h3>
+  <ul>
+    <li>Changing Expectations</li>
+    <li>Office 2007 Requirements and Versions</li>
+    <li>Office 2007</li>
+    <li>Command Tab</li>
+    <li>Contextual Tools</li>
+    <li>Dialog Launchers</li>
+    <li>Gallery</li>
+    <li>Live Previews</li>
+    <li>File Menus</li>
+    <li>Quick Access Toolbar</li>
+    <li>Status Bar</li>
+    <li>Task Panes</li>
+  </ul>
+  <h3>Section B: Formatting Text</h3>
+  <ul>
+    <li>Selecting Text</li>
+    <li>Character</li>
+    <li>Highlighter</li>
+    <li>Font Dialog Box</li>
+    <li>Paragraph Formatting</li>
+    <li>Paragraph Alignment</li>
+    <li>Line Spacing</li>
+    <li>Paragraph Indents</li>
+  </ul>
+  <h3>Section C: Bulleted/Numbered Lists</h3>
+  <ul>
+    <li>Creating Lists</li>
+    <li>Indenting/Outdenting</li>
+    <li>Modifying Bullets</li>
+    <li>Numbered Lists</li>
+  </ul>
+  <h3>Section D: Tabs</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Entering Text</li>
+    <li>Viewing the Ruler</li>
+    <li>Setting Tabs</li>
+    <li>Tabs Dialog Box</li>
+    <li>Leaders</li>
+  </ul>
+  <h3>Section E: AutoCorrect/AutoFormat</h3>
+  <ul>
+    <li>AutoCorrect</li>
+    <li>Fractions/Ordinals</li>
+    <li>Symbols</li>
+    <li>Arrows/Lines</li>
+    <li>Add Dividing Lines</li>
+    <li>Smart Tags</li>
+    <li>Hyperlinks</li>
+    <li>AutoCorrect Options</li>
+    <li>Add AutoCorrect Entries</li>
+  </ul>
+  <h3>Section F: Web Features</h3>
+  <ul>
+    <li>Insert Hyperlink</li>
+    <li>E-mail Address</li>
+    <li>Web Page</li>
+    <li>Bookmarks</li>
+    <li>ScreenTips</li>
+    <li>Save As Web Page</li>
+    <li>Web Layout View</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Proofing</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Research Pane</li>
+    <li>Research Options</li>
+    <li>Thesaurus</li>
+    <li>Spelling Settings</li>
+    <li>Grammar Settings</li>
+    <li>Run Spell Check</li>
+    <li>Inline Errors</li>
+    <li>Find and Replace</li>
+    <li>Replace with Formatting</li>
+  </ul>
+  <h3>Section B: Cut, Copy, and Paste</h3>
+  <ul>
+    <li>Cut and Paste</li>
+    <li>Drag-and-Drop Paste</li>
+    <li>Undo Changes</li>
+    <li>Clipboard</li>
+    <li>Copy Multiple Items</li>
+    <li>Paste Special</li>
+  </ul>
+  <h3>Section C: Backgrounds and Graphics</h3>
+  <ul>
+    <li>Backgrounds</li>
+    <li>Themes</li>
+    <li>Fill Effects</li>
+    <li>Pictures</li>
+    <li>Picture Styles</li>
+    <li>WordArt</li>
+  </ul>
+  <h3>Section D: Collaboration Tools</h3>
+  <ul>
+    <li>Freeze Panes</li>
+    <li>Split/Arrange Windows</li>
+    <li>Review</li>
+    <li>Accept/Reject Changes</li>
+    <li>Compare/Merge</li>
+  </ul>
+  <h3>Section E: Finish Commands</h3>
+  <ul>
+    <li>Save vs. Save As</li>
+    <li>Printing</li>
+    <li>Prepare</li>
+    <li>Send</li>
+    <li>Publishing/Close</li>
+    <li>Update Software</li>
+  </ul>

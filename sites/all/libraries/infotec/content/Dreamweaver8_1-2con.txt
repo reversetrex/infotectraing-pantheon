@@ -1,0 +1,101 @@
+<p><strong> Unit 1: Accessing the Internet and Identifying HTML Codes</strong></p>
+<ul>
+  <li> Topic 1A: Design a Website </li>
+  <li>Topic 1B: Explore the Dreamweaver Environment </li>
+  <li>Topic 1C: View and Manage HTML Codes </li>
+</ul>
+<p><strong> Unit 2: Creating a Website</strong></p>
+<ul>
+  <li> Topic 2A: Define a Website </li>
+  <li>Topic 2B: Create Basic Web Pages </li>
+  <li>Topic 2C: Save a Web Page </li>
+</ul>
+<p><strong> Unit 3: Building a Website</strong></p>
+<ul>
+  <li> Topic 3A: Organize Files and Folders </li>
+  <li>Topic 3B: Create Templates </li>
+</ul>
+<p><strong> Unit 4: Adding Content to Web Pages</strong></p>
+<ul>
+  <li> Topic 4A: Format a List </li>
+  <li>Topic 4B: Insert Images </li>
+  <li>Topic 4C: Manage Tables </li>
+  <li>Topic 4D: Create Repeating Region Templates </li>
+</ul>
+<p><strong> Unit 5: Working with Links</strong></p>
+<ul>
+  <li> Topic 5A: Link Within a Site </li>
+</ul>
+<p><strong> Unit 6: Enhancing the Navigation of a Site</strong></p>
+<ul>
+  <li> Topic 6A: Create Framesets </li>
+</ul>
+<p><strong> Unit 7: Uploading a Website</strong></p>
+<ul>
+  <li> Topic 7A: Ensure Accessibility </li>
+  <li>Topic 7B: Upload Files onto a Site </li>
+</ul>
+<p><strong> Course content: Level 2 </strong></p>
+<p><strong> Unit 1: Creating an Effective User-Navigation Interface</strong></p>
+<ul>
+  <li> Topic 1A: Create Rollovers </li>
+  <li>Topic 1B: Create a Navigation Bar Using Behaviors </li>
+  <li>Topic 1C: Create a Navigation Bar Using the Insert Navigation Bar Tool </li>
+  <li>Topic 1D: Add Flash Buttons and Text to a Page </li>
+</ul>
+<p><strong> Unit 2: Managing Libraries and Snippets</strong></p>
+<ul>
+  <li> Topic 2A: Add Library Items from Site Pages </li>
+  <li>Topic 2B: Place Library Items onto Site Pages </li>
+  <li>Topic 2C: Modify Library Items </li>
+  <li>Topic 2D: Use Snippets </li>
+</ul>
+<p><strong> Unit 3: Managing Head Elements and Keyboard Shortcuts</strong></p>
+<ul>
+  <li> Topic 3A: Define Head Elements </li>
+  <li>Topic 3B: Edit Meta Tags </li>
+  <li>Topic 3C: Customize Keyboard Shortcuts </li>
+</ul>
+<p><strong> Unit 4: Working with Style Sheets</strong></p>
+<ul>
+  <li> Topic 4A: Define Style Sheets </li>
+  <li>Topic 4B: Apply External Styles to Multiple Pages </li>
+  <li>Topic 4C: Redefine Style Sheets </li>
+</ul>
+<p><strong> Unit 5: Working with Layers</strong></p>
+<ul>
+  <li> Topic 5A: Create Layers </li>
+  <li>Topic 5B: Use the Layers Panel </li>
+  <li>Topic 5C: Define Layers with Styles </li>
+  <li>Topic 5D: Combine Layers with Behaviors </li>
+  <li>Topic 5E: Insert Rich Media Objects <strong>&nbsp;</strong></li>
+</ul>
+<p><strong> Unit 6: Working with the History Panel</strong></p>
+<ul>
+  <li> Topic 6A: Use the History Panel </li>
+  <li>Topic 6B: Record Steps </li>
+  <li>Topic 6C: Save Steps </li>
+</ul>
+<p><strong>Unit 7: Targeting Websites to Specific Versions of Browsers</strong></p>
+<ul>
+  <li> Topic 7A: Test Browser Compatibility </li>
+  <li>Topic 7B: Convert Pages to Earlier Versions </li>
+  <li>Topic 7C: Add a Behavior to Check the Browser Version </li>
+</ul>
+<p><strong> Unit 8: Working with Code</strong></p>
+<ul>
+  <li> Topic 8A: Examine Coding Tools </li>
+  <li>Topic 8B: Use the Find And Replace Command </li>
+</ul>
+<p><strong> Unit 9: Authoring with XML Data</strong></p>
+<ul>
+  <li> Topic 9A: Integrate XML-Based Data </li>
+  <li>Topic 9B: Use Design Notes and Comments </li>
+  <li>Topic 9C: Transform XML with XSLT </li>
+</ul>
+<p><strong> Unit 10: Creating Forms</strong></p>
+<ul>
+  <li> Topic 10A: Set Up Forms </li>
+  <li>Topic 10B: Add Form Elements </li>
+  <li>Topic 10C: Validate Forms </li>
+</ul>

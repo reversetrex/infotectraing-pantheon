@@ -1,0 +1,1 @@
+This course will prepare students for the current CompTIA Convergence+ certification exam, which addresses the intersection of telephone, broadcast media, cable, and Internet networks. Students will learn about the Public Switched Telephone Network, networking fundamentals, merging IP and voice, converged applications, systems management, and security.

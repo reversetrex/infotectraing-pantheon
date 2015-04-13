@@ -1,0 +1,23 @@
+<p>The LPT course consists of 20 modules which covers structured penetration testing steps and processes.</p>
+<ul>
+  <li>Module 1: Penetration Testing Methodologies</li>
+  <li>Module 2: Customers and Legal Agreements</li>
+  <li>Module 3: Penetration Testing Planning and Scheduling</li>
+  <li>Module 4: Information Gathering</li>
+  <li>Module 5: Vulnerability Analysis</li>
+  <li>Module 6: External Penetration Testing</li>
+  <li>Module 7: Internal Network Penetration Testing</li>
+  <li>Module 8: Routers Penetration Testing</li>
+  <li>Module 9: Firewalls Penetration Testing</li>
+  <li>Module 10: Intrusion Detection System Penetration Testing</li>
+  <li>Module 11: Wireless Networks Penetration Testing</li>
+  <li>Module 12: Denial of Service Penetration Testing</li>
+  <li>Module 13: Password Cracking Penetration Testing</li>
+  <li>Module 14: Social Engineering Penetration Testing</li>
+  <li>Module 15: Stolen Laptop, PDAs and Cellphones Penetration Testing</li>
+  <li>Module 16: Application Penetration Testing</li>
+  <li>Module 17: Physical Security Penetration Testing</li>
+  <li>Module 18: Penetration Testing Report Analysis</li>
+  <li>Module 19: Penetration Testing Report and Documentation Writing</li>
+  <li>Module 20: Penetration Testing Deliverables and Conclusion</li>
+</ul>

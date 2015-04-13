@@ -1,0 +1,11 @@
+This course provides students hands-on experience with Windows 8.  It provides guidance on installing, upgrading, and licensing for Windows 8. Students will learn how to manage storage by creating simple, spanned, and striped volumes, and how to optimize file-system performance. Additionally, they will learn how to manage available disk space by using quotas. Students will work with Windows tools and services to determine the source of performance and reliability issues, and to troubleshoot these issues.<br /><br />
+
+This course describes how to configure networking to include IPv4, IPv6, connect to wireless networks, and use the networking features included in Windows 8 to troubleshoot networking issues. Students will also learn preventive measures and tools that work together to protect their computers from security threats.<br /><br />
+
+The course then covers the features related to file and folder management, which include setting permissions, file/folder compression, and configuring shared folders. Students will also learn about installing and managing printers. Additionally, the course provides an overview of the SkyDrive functionality, and describes the procedures to install and configure applications, including Windows Store apps.<br /><br />
+
+The course also examines the fundamentals of working with virtual machines in the Client Hyper-V environment in Windows 8.<br /><br />
+
+Students will learn about features such as Virtual Private Networks (VPNs) and DirectAccess, which provide mobile users access to internal resources when the users are out of the office.<br /><br />
+
+Throughout the course, students will use Windows PowerShell 3.0, and its graphical user interface (GUI) to configure and manage the system. Students will also use the scripting editor to create and examine PowerShell scripts used to manage the system.<br /><br />

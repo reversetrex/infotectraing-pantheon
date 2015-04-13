@@ -1,0 +1,18 @@
+<p>Upon successful completion of this course, you will be able to support mobile cellular and  wireless devices. You will:</p>
+<ul>
+  <li>Configure over-the-air technologies.</li>
+  <li>Apply RF principles.</li>
+  <li>Implement a wireless network infrastructure.</li>
+  <li>Implement network infrastructure devices and services.</li>
+  <li>Implement mobile solutions.</li>
+  <li>Prepare the enterprise for a mobile network.</li>
+  <li>Deploy mobile devices.</li>
+  <li>Implement mobile device operations.</li>
+  <li>Maintain mobile device operations.</li>
+  <li>Deploy mobile applications and related technologies.</li>
+  <li>Implement mobile app protocols and services.</li>
+  <li>Implement mobile security.</li>
+  <li>Mitigate mobile network risk.</li>
+  <li>Implement incident response.</li>
+  <li>Troubleshoot mobile devices and networks.</li>
+</ul>

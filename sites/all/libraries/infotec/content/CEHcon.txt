@@ -1,0 +1,649 @@
+<p> Unit 1: Ethics and Legality </p>
+<ul>
+  <li> Why Security? </li>
+  <li> The Security, functionality and ease of use Triangle </li>
+  <li> Can Hacking be Ethical? </li>
+  <li> Essential Terminology. </li>
+  <li> Elements of Security. </li>
+  <li> What does a Malicious Hacker do? </li>
+  <li> Difference between Penetration Testing and Ethical Hacking. </li>
+  <li> Hacker Classes. </li>
+  <li> What do Ethical Hackers do? </li>
+  <li> Skill Profile of an Ethical Hacker. </li>
+  <li> Modes of Ethical Hacking. </li>
+  <li> Security Testing. </li>
+  <li> Deliverables. </li>
+  <li> Computer Crimes and Implications. </li>
+  <li> Legal Perspective (US Federal Laws). </li>
+</ul>
+<p> &nbsp;Unit 2: Footprinting </p>
+<ul>
+  <li> Defining Footprinting. </li>
+  <li> Information Gathering Methodology. </li>
+  <li> Locate the Network Range. </li>
+  <li> Hacking Tools:<strong></strong></li>
+</ul>
+<p><strong> &nbsp;</strong> Unit 3: Scanning </p>
+<ul>
+  <li> Definition of Scanning. </li>
+  <li> Types of scanning </li>
+  <li> Objectives of Scanning </li>
+  <li> Scanning Methodology </li>
+  <li> Classification of Scanning </li>
+  <li> Hacking Tools </li>
+  <li> War Dialer </li>
+  <li> Hacking Tools </li>
+  <li> OS Fingerprinting </li>
+  <li> Active Stack fingerprinting </li>
+  <li> Tool for Active Stack fingerprinting </li>
+  <li> Passive Fingerprinting </li>
+  <li> Proxy Servers </li>
+  <li> Hacking Tools </li>
+  <li> Countermeasures </li>
+</ul>
+<p> Unit 4: Enumeration </p>
+<ul>
+  <li> What is Enumeration? </li>
+  <li> NetBios Null Sessions </li>
+  <li> Hacking Tools </li>
+  <li> Null Session Countermeasures </li>
+  <li> NetBIOS Enumeration </li>
+  <li> Hacking Tool :NBTScan </li>
+  <li> Simple Network Management </li>
+  <li> Protocol (SNMP) Enumeration </li>
+  <li> Hacking Tools </li>
+  <li> SNMP Enumeration Countermeasures </li>
+  <li> Management Information Base (MIB) </li>
+  <li> Windows 2000 DNS Zone Transfer </li>
+  <li> Blocking Win 2k DNS Zone Transfer </li>
+  <li> Enumerating User Accounts </li>
+  <li> Hacking Tools </li>
+  <li> Active Directory Enumeration and Countermeasures </li>
+</ul>
+<p> Unit 5: System Hacking </p>
+<ul>
+  <li> Administrator Password Guessing </li>
+  <li> Manual Password Cracking Algorithm </li>
+  <li> Automated Password Cracking </li>
+  <li> Password Types </li>
+  <li> Types of Password Attacks </li>
+  <li> Hacking Tool </li>
+  <li> Performing Automated Password Guessi</li>
+  <li> Hacking Tool </li>
+  <li> Legion </li>
+  <li>Password Sniffing </li>
+  <li> Hacking Tools</li>
+  <li> NetBIOS DoS Attack </li>
+  <li> Hacking Tools </li>
+  <li> LAN Manager Hash </li>
+  <li> Password Cracking Countermeasures </li>
+  <li> Syskey Utility </li>
+  <li> Cracking NT/2000 Passwords </li>
+  <li> Hacking Tool </li>
+  <li> SMB Logon </li>
+  <li> Hacking Tool: SMBRelay </li>
+  <li> SMBRelay Man-in-the-Middle Scenario </li>
+  <li>Hacking Tool : SMBRelay2 </li>
+  <li>SMBRelay Weaknesses and Countermeasures</li>
+  <li> Hacking Tools </li>
+  <li> Privilege Escalation </li>
+  <li> Hacking Tools </li>
+  <li> Keystroke Loggers </li>
+  <li> Hacking Tools </li>
+  <li> Hiding Files </li>
+  <li> Creating Alternate Data Streams </li>
+  <li> ADS creation and detection </li>
+  <li> Hacking Tools </li>
+  <li> NTFS Streams Countermeasures </li>
+  <li> Stealing Files Using Word Documents </li>
+  <li> Field Code Countermeasures </li>
+  <li> Steganography </li>
+  <li> Spyware Tool - Desktop Spy </li>
+  <li> Hacking Tools </li>
+  <li> Steganography Detection </li>
+  <li> Hacking Tool </li>
+</ul>
+<ul>
+  <ul>
+    <ul>
+      <li> diskprobe.exe </li>
+      <li> Covering Tracks </li>
+      <li> Disabling Auditing and clearing Event Logs </li>
+      <li> Hacking Tool</li>
+    </ul>
+  </ul>
+</ul>
+<p> Unit 6: Trojans and Backdoors </p>
+<ul>
+  <li> Effect on Business </li>
+  <li> What is a Trojan? </li>
+  <li> Overt and Covert Channels </li>
+  <li> Working of Trojans </li>
+  <li> Different Types of Trojans </li>
+  <li> What Trojan Creators look for? </li>
+  <li> Different ways a Trojan can get into a system </li>
+  <li> Indications of a Trojan Attack </li>
+  <li> Some famous Trojans and ports used by them </li>
+  <li> How to determine which ports are &ldquo;Listening&rdquo;? </li>
+  <li> Different Trojans found in the Wild </li>
+  <li> BoSniffer </li>
+  <li> Wrappers </li>
+  <li> Packaging Tool : Wordpad </li>
+  <li> Hard Disk Killer (HDKP 4.0) </li>
+  <li> ICMP Tunneling </li>
+  <li> Hacking Tool: Loki </li>
+  <li> Loki Countermeasures </li>
+  <li> Reverse WWW Shell &ndash; Covert Channels using HTTP </li>
+  <li> Hacking Tools </li>
+  <li> Tripwire </li>
+  <li> Process Viewer </li>
+  <li> Inzider-Tracks Processes and Ports </li>
+  <li> System File Verification </li>
+  <li> Trojan horse Construction Kit </li>
+  <li> Anti-Trojan </li>
+  <li> Evading Anti-Trojan/Anti-Virus using Stealth Tools v 2.0 </li>
+  <li> Reverse Engineering Trojans </li>
+  <li> Backdoor Countermeasures </li>
+</ul>
+<p> Unit 7: Sniffers </p>
+<ul>
+  <li> Definition of sniffing </li>
+  <li> How a Sniffer works? </li>
+  <li> Passive Sniffing </li>
+  <li> Active Sniffing </li>
+  <li> Hacking Tool: EtherFlood </li>
+  <li> Man-in-the-Midle Attacks </li>
+  <li> Spoofing and Sniffing Attacks </li>
+  <li> ARP Poisoning and countermeasures </li>
+  <li> Hacking Tools </li>
+  <li> Sniffing Countermeasures </li>
+</ul>
+<p> Unit 8: Denial of Service </p>
+<ul>
+  <li> What is Denial of Service? </li>
+  <li> Goal of DoS(Denial of Service) </li>
+  <li> Impact and Modes of Attack </li>
+  <li> DoS Attack Classification </li>
+  <li> Hacking Tools </li>
+  <li> Distributed DOS Attacks and Characteristics </li>
+  <li> Agent Handler Model </li>
+  <li> IRC-Based DDoS Attack Model </li>
+  <li> DDoS Attack taxonomy </li>
+  <li> DDoS Tools </li>
+  <li> Reflected DOS Attacks </li>
+  <li> Reflection of the Exploit </li>
+  <li> Countermeasures for Reflected DoS </li>
+  <li> Tools for Detecting DDOS Attacks </li>
+  <li> DDoS Countermeasures </li>
+  <li> Defensive Tool: Zombie Zapper </li>
+  <li> Worms : Slammer and MyDoom.B </li>
+</ul>
+<p> Unit 9: Social Engineering </p>
+<ul>
+  <li> What is Social Engineering? </li>
+  <li> Art of Manipulation </li>
+  <li> Human Weakness </li>
+  <li> Common Types of Social Engineering </li>
+  <li> Human Based Impersonation </li>
+  <li> Example of social engineering </li>
+  <li> Computer Based Social Engineering </li>
+  <li> Reverse Social Engineering </li>
+  <li> Policies and procedures </li>
+  <li> Security Policies-checklist </li>
+</ul>
+<p> Unit10: Session Hijacking </p>
+<ul>
+  <li> Understanding Session Hijacking </li>
+  <li> Spoofing vs Hijacking </li>
+  <li> Steps in Session Hijacking </li>
+  <li> Types of Session Hijacking </li>
+  <li> TCP Concepts 3 Way Handshake </li>
+  <li> Sequence numbers </li>
+  <li> Hacking Tools </li>
+  <li> Dangers Posed by Session Hijacking </li>
+  <li> Protection against Session Hijacking </li>
+  <li> Countermeasures: IP Security </li>
+</ul>
+<p> Unit 11: Hacking Web Servers </p>
+<ul>
+  <li> How Web Servers Work? </li>
+  <li> How are Web Servers Compromised? </li>
+  <li> Popular Web Servers and Common Security Threats</li>
+  <li> Apache Vulnerability </li>
+  <li> Attack against IIS </li>
+  <li> IIS Components </li>
+  <li>Sample Buffer Overflow Vulnerabilities </li>
+  <li> Hacking Tool: IISHack.exe </li>
+  <li> ISAPI.DLL Exploit </li>
+  <li> Code Red and ISAPI.DLL Exploit </li>
+  <li> Unicode </li>
+</ul>
+<ul>
+  <ul>
+    <ul>
+      <li> Unicode Directory Traversal Vulnerability </li>
+    </ul>
+  </ul>
+</ul>
+<ul>
+  <li> Hacking Tools </li>
+  <li> Msw 3prt IPP Vulnerability </li>
+  <li> Hacking Tool: Jill.c </li>
+  <ul>
+    <ul>
+      <li> IPP Buffer Overflow Countermeasures </li>
+      <li> Unspecified Executed Path Vulnerability </li>
+      <li> File System Traversal Countermeasures</li>
+    </ul>
+  </ul>
+</ul>
+<ul>
+  <li> WebDAV/ ntdll.dll Vulnerability </li>
+</ul>
+<ul>
+  <ul>
+    <ul>
+      <li> Real World instance of WebDAV Exploit</li>
+    </ul>
+  </ul>
+</ul>
+<ul>
+  <li> Hacking Tool: &ldquo;KaHT&rdquo; </li>
+  <li> RPCDCOM Vulnerability </li>
+  <li> ASN Exploits </li>
+  <li> IIS Logs </li>
+  <li> Network Tool: Log Analyzer </li>
+  <li> Hacking Tool: Clean IISLog </li>
+  <li> Escalating Privileges on IIS </li>
+  <li> Hacking Tools </li>
+  <li> Hot Fixes and Patches </li>
+  <li> Solution: UpdateEXPERT </li>
+  <li> cacls.exe Utility </li>
+  <li> Vulnerability Scanners </li>
+  <li> Network Tools </li>
+  <li> Countermeasures </li>
+  <li> Increasing Web Server Security </li>
+</ul>
+<p> Unit 12: Web Application Vulnerabilities </p>
+<ul>
+  <li> Web Application Set-up </li>
+  <li> Web Application Hacking </li>
+  <li> Anatomy of an Attack </li>
+  <li> Web Application Threats </li>
+  <li> Cross Site Scripting/XSS Flaws </li>
+  <li> An Example of XSS </li>
+  <li> Countermeasures </li>
+  <li> SQL Injection </li>
+  <li> Command Injection Flaws </li>
+  <li> Countermeasures </li>
+  <li> Cookie/Session Poisoning </li>
+  <li> Countermeasures </li>
+  <li> Parameter/Form Tampering </li>
+  <li> Buffer Overflow </li>
+  <li> Countermeasures </li>
+  <li> Directory Traversal/Forceful Browsing </li>
+  <li> Countermeasures </li>
+  <li> Cryptographic Interception </li>
+  <li> Authentication Hijacking </li>
+  <li> Countermeasures </li>
+  <li> Log Tampering </li>
+  <li> Error Message Interception </li>
+  <li> Attack Obfuscation </li>
+  <li> Platform Exploits </li>
+  <li> Internet Explorer Exploits </li>
+  <li> DMZ Protocol Attacks </li>
+  <li> DMZ </li>
+  <li> Countermeasures </li>
+</ul>
+<p>Security Management Exploits
+</p>
+<ul>
+  <li> Web Services Attacks </li>
+  <li> Zero Day Attacks </li>
+  <li> Network Access Attacks </li>
+  <li> TCP Fragmentation </li>
+  <li> Hacking Tools </li>
+</ul>
+<p> Unit 13: Web Based Password Cracking Techniques </p>
+<ul>
+  <li> Authentication- Definition </li>
+  <li> Authentication Mechanisms </li>
+  <li> HTTP Authentication </li>
+  <li> Basic Authentication </li>
+  <li> Digest Authentication </li>
+  <li> Integrated Windows (NTLM) Authentication </li>
+  <li> Negotiate Authentication </li>
+  <li> Certificate-based Authentication </li>
+  <li> Forms-based Authentication </li>
+  <li> Microsoft Passport Authentication </li>
+  <li> What is a Password Cracker? </li>
+  <li> Modus Operandi of an Attacker using Password Cracker </li>
+  <li> How does a Password Cracker work? </li>
+<li> Attacks- Classification </li>
+  <li> Password Guessing </li>
+  <li> Query String </li>
+  <li> Cookies </li>
+  <li> Dictionary Maker </li>
+  <li> Password Crackers Available </li>
+  <li> Hacking Tools: </li>
+  <li> &ldquo;Mary had a Little Lamb&rdquo; Formula </li>
+  <li> Countermeasures </li>
+</ul>
+<p> Unit 14: SQL Injection </p>
+<ul>
+  <li> Attacking SQL Servers </li>
+  <li> SQL Server Resolution Service (SSRS)</li>
+  <li> Osql-L Probing </li>
+  <li> Port Scanning </li>
+      <li> Sniffing, Brute Forcing and finding Application Configuration Files </li>
+      <li> Tools for SQL Server Penetration Testing</li>
+  <li> OLE DB Errors </li>
+  <li> Input Validation Attack </li>
+  <li> Login Guessing &amp; Insertion </li>
+  <li> Shutting Down SQL Server </li>
+  <li> Extended Stored Procedures </li>
+  <li> SQL Server Talks </li>
+  <li> Preventive Measures </li>
+</ul>
+<p> Unit 15: Hacking Wireless Networks </p>
+<ul>
+  <li> Introduction to Wireless Networking </li>
+  <li> Business and Wireless Attacks </li>
+  <li> Wireless Basics </li>
+  <li> Components of Wireless Network </li>
+  <li> Types of Wireless Network </li>
+  <li> Setting up WLAN </li>
+  <li> Detecting a Wireless Network </li>
+  <li> How to access a WLAN </li>
+  <li> Advantages and Disadvantages of Wireless Network</li>
+  <li> Antennas </li>
+  <li> SSIDs </li>
+  <li> Access Point Positioning </li>
+  <li> Rogue Access Points </li>
+  <li> Tools to Generate Rogue Access Points </li>
+  <li> What is Wireless Equivalent Privacy (W </li>
+  <li> WEP Tool </li>
+  <li> Related Technology and Carrier Networks </li>
+  <li> MAC Sniffing and AP Spoofing </li>
+  <li> Tool to detect MAC Address Spoofing: </li>
+  <li> Terminology </li>
+  <li> Denial of Service Attacks </li>
+  <li> DoS Attack Tool: FATAjack </li>
+  <li> Man-in-the-Middle Attack (MITM) </li>
+  <li> Scanning Tools </li>
+  <li> Sniffing Tools: </li>
+  <li> Multi Use Tool: THC-RUT </li>
+  <li> Tool: WinPcap </li>
+  <li> Auditing Tool: bsd-airtools </li>
+  <li> WIDZ- Wireless Detection Intrusion System </li>
+  <li> Securing Wireless Networks </li>
+  <li> Out of the box Security </li>
+  <li> Radius: Used as Additional layer in security </li>
+  <li> Maximum Security: Add VPN to Wireless LAN</li>
+</ul>
+<p>Unit 16 : Virus and Worms
+</p>
+<ul>
+  <li> Virus Characteristics </li>
+  <li> Symptoms of &lsquo;virus-like&rsquo; attack </li>
+  <li> What is a Virus Hoax? </li>
+  <li> Terminologies </li>
+  <li> How is a worm different from virus? </li>
+  <li> Indications of a Virus Attack </li>
+  <li> Virus History </li>
+  <li> Virus damage </li>
+  <li> Effect of Virus on Business </li>
+  <li> Access Methods of a Virus </li>
+  <li> Mode of Virus Infection </li>
+  <li> Life Cycle of a virus </li>
+  <li> What Virus Infect? </li>
+  <li> How virus infect? </li>
+  <li> Virus/worm found in the wild: </li>
+  <li> Writing a simple virus program. </li>
+  <li> Writing DDOS Zombie Virus </li>
+  <li> Virus Construction Kits </li>
+  <li> Virus Creation Scripts </li>
+  <li> Virus Detection Methods </li>
+  <li> Virus Incident Response </li>
+  <li> What is Sheep Dip? </li>
+  <li> Prevention is better than Cure </li>
+  <li> Anti-Virus Software </li>
+  <li> Popular Anti-Virus packages </li>
+  <li> New Virus found in 2004 </li>
+  <li> Virus Checkers </li>
+  <li> Blaster &ndash; Virus Analysis </li>
+  <li> Nimda &ndash; Virus Analysis </li>
+  <li> Sasser Worm &ndash; Virus Analysis </li>
+  <li> Klez &ndash; Virus Analysis </li>
+  <li> IDAPro </li>
+  <li> Virus Analyzers </li>
+</ul>
+<p> Unit 17: Physical Security </p>
+<ul>
+  <li> Security statistics </li>
+  <li> Physical Security breach incidents </li>
+  <li> Understanding Physical Security </li>
+  <ul>
+    <ul>
+            <li> What is the need of Physical Security? </li>
+            <li> Who is Accountable for Physical Security? </li>
+    </ul>
+  </ul>
+  <li> Factors affecting Physical Security </li>
+  <li> Physical Security checklist </li>
+  <li> Lock Picking Techniques </li>
+  <li> Spying Technologies </li>
+</ul>
+<p> Unit 18: Linux Hacking </p>
+<ul>
+  <li> Why Linux? </li>
+  <li> Linux basics </li>
+  <li> Chrooting </li>
+  <li> Why is Linux Hacked? </li>
+  <li> Linux Vulnerabilities in 2003 </li>
+  <ul>
+    <ul>
+            <li> How to apply patches to vulnerable programs </li>
+    </ul>
+  </ul>
+  <li> Scanning Networks </li>
+  <li> Scanning Tool: Nessus </li>
+  <li> Cheops </li>
+  <li> Port Scan detection tools: </li>
+  <li> Password cracking in Linux. </li>
+  <li> Password cracking tools: </li>
+  <li> IPChains </li>
+  <li> IPTables </li>
+  <li> ipchains vs. ipfwadm </li>
+  <li> How to Organize Firewall Rules </li>
+  <li> Security Auditor&rsquo;s Research Assistant (SARA) </li>
+  <li> Hacking Tool: </li>
+  <li> Linux Loadable Kernel Units </li>
+  <li> Linux Rootkits: </li>
+  <li> Rootkit countermeasures: </li>
+  <li>&nbsp;Linux Security Tools: </li>
+  <li> Advanced Intrusion Detection System </li>
+  <li> Linux Security testing tools </li>
+  <ul>
+    <ul>
+            <li>&nbsp;Linux Encryption Tools: </li>
+    </ul>
+  </ul>
+  <li> Linux tools: Log and traffic monitors: </li>
+  <li> Linux Security Auditing Tool (LSAT) </li>
+  <li> Linux Security countermeasures </li>
+</ul>
+<p> Unit 19:&nbsp; Evading Firewalls, IDS and Honeypots </p>
+<ul>
+  <li> Intrusion Detection Systems </li>
+  <li> Ways to Detect Intrusion </li>
+  <li> Types of Intrusion Detection System </li>
+  <li> Intrusion Detection Tools </li>
+  <li> Steps to perform after an IDS detects an intrusion </li>
+  <li> Evading IDS systems </li>
+  <li> Tools to Evade IDS</li>
+  <li>Packet Generators </li>
+  <li> Introduction to Firewalls </li>
+  <li> Firewall Identification </li>
+  <li> Firewalking </li>
+  <li> Banner Grabbing </li>
+  <li> Breaching Firewalls </li>
+  <li> Placing Backdoors through Firewalls </li>
+  <li> Hiding Behind Covert Channel: Loki </li>
+  <li> ACK tunneling </li>
+  <li> Tools to Breach Firewall </li>
+  <li> Tools for testing IDS and Firewalls </li>
+  <li> Introduction to Honeypots </li>
+  <li> Honeypot Project </li>
+  <li> Types of Honeypots </li>
+  <li> Honeypot: Specter </li>
+  <li> Honeypot: Honeyd </li>
+  <li> Honeypot: KFSensor </li>
+  <li> Hacking Tool: Sebek </li>
+  <li> Tools to Detect Honeypot </li>
+</ul>
+<p> Unit 20 : Buffer Overflows </p>
+<ul>
+  <li> Significance of Buffer Overflow Vulnerability </li>
+  <li> Why are Programs/Applications Vulnerable? </li>
+  <li> Buffer Overflows </li>
+  <li> Reasons for Buffer Overflow Attacks </li>
+  <li> Knowledge required writing Buffer Overflow Exploits </li>
+  <li> How a Buffer Overflow occurs? </li>
+  <li> Understanding Stacks </li>
+  <li> Stack Implementation </li>
+  <li> Stack based buffer overflow </li>
+  <li> Shellcode </li>
+  <li> Heap Based buffer overflow </li>
+  <li> How to detect Buffer Overflows in a Program? </li>
+  <li> Attacking a real program </li>
+  <li> NOPS </li>
+  <li> How to mutate a Buffer Overflow Exploit? featuring ADMutate </li>
+  <li> Countermeasures </li>
+  <li> Return Address Defender (RAD) </li>
+  <li> StackGuard </li>
+  <li> Immunix System </li>
+  <li> Vulnerability Search - ICAT </li>
+</ul>
+<p> Unit 21 : Cryptography </p>
+<ul>
+  <li> Public-key Cryptography </li>
+  <li> Working of Encryption </li>
+  <li> Digital Signature </li>
+  <li> Digital Certificate </li>
+  <li> RSA (Rivest Shamir Adleman) </li>
+  <li> RSA Attacks </li>
+  <li> MD5 </li>
+  <li> SHA (Secure Hash Algorithm) </li>
+  <li> SSL (Secure Socket Layer) </li>
+  <li> RC5 </li>
+  <li> What is SSH? </li>
+  <li> Government Access to Keys (GAK) </li>
+  <li> RSA Challenge </li>
+  <li> distributed.net </li>
+  <li> PGP (Pretty Good Privacy) </li>
+  <li> Code Breaking Methodologies </li>
+  <li> Cryptography Attacks </li>
+  <li> Disk Encryption </li>
+  <li> PGPCrack </li>
+  <li> Magic Lantern </li>
+  <li> WEPCrack </li>
+  <li> Cracking S/MIME Encryption using idle CPU Time </li>
+  <li> CypherCalc </li>
+  <li> Command Line Scriptor </li>
+  <li> CryptoHeaven </li>
+</ul>
+<p> Unit 22 : Penetration Testing </p>
+<ul>
+  <li> Need for a Methodology </li>
+  <li> Penetration Test vs. Vulnerability Test </li>
+  <li> Reliance on Checklists and Templates </li>
+  <li> Phases of Penetration Testing </li>
+  <li> Passive Reconnaissance </li>
+  <li> Best Practices </li>
+  <li> Results that can be expected </li>
+  <li> Indicative passive reconnaissance steps include (but are not limited to) </li>
+  <li> Introduction to Penetration Testing </li>
+  <li> Type of Penetration Testing Methodologies </li>
+  <li> Open Source Vs Proprietary Methodologies </li>
+  <li> Security Assessment Vs Security Auditing </li>
+  <li> Risk Analysis </li>
+  <li> Types of Penetration Testing </li>
+  <li> Types Ethical Hacking </li>
+  <li> Vulnerability Assessment Vs Penetration Testing </li>
+  <li> Do-it Yourself Testing </li>
+  <li> Firms Offering Penetration Testing Services </li>
+  <li> Penetration Testing Insurance </li>
+  <li> Explication of Terms of Engagement </li>
+  <li> Pen-Test Service Level Agreements </li>
+  <li> Offer of Compensation </li>
+  <li> Starting Point and Ending Points of Testing </li>
+  <li> Penetration Testing Locations </li>
+  <li> Black Box Testing </li>
+  <li> White Box Testing </li>
+  <li> Grey Box Testing </li>
+  <li> Manual Penetration Testing </li>
+  <li> Automated Penetration Testing </li>
+  <li> Selecting the Right Tools </li>
+  <li> Pen Test Using Appscan </li>
+  <li> HackerShield </li>
+  <li> Pen-Test Using Cerberus Internet Scanner </li>
+  <li> Pen-Test Using CyberCop Scanner </li>
+  <li> Pen-Test Using Foundscan </li>
+  <li> Pen-Test&nbsp; Using Nessus </li>
+  <li> Pen-Test Using NetRecon </li>
+  <li> Pen-Test Using Retina </li>
+  <li> Pen-Test Using SAINT </li>
+  <li> Pen-Test Using SecureNET </li>
+  <li> Pen-Test Using SecureScan </li>
+  <li> Pen-Test Using SATAN, SARA and Security Analyzer </li>
+  <li> Pen-Test Using STAT Analyzer </li>
+  <li> Pen-Test Using Twwscan </li>
+  <li> VigilEnt </li>
+  <li> WebInspect </li>
+  <li> Evaluating Different Types of Pen-Test Tools </li>
+  <li> Platform on Which Tools Will be Used </li>
+  <li> Asset Audit </li>
+  <li> Fault Tree and Attack Trees </li>
+  <li> GAP Analysis </li>
+  <li> Device Inventory </li>
+  <li> Perimeter Firewall Inventory </li>
+  <li> Web Server Inventory </li>
+  <li> Load Balancer Inventory </li>
+  <li> Local Area Network Inventory </li>
+</ul>
+<p>Demilitarized Zone</p>
+<ul>
+  <li> Internal Switch Network Sniffer </li>
+  <li> Application Server Inventory </li>
+  <li> Database Server Inventory </li>
+  <li> Name Controller and Domain Name Server </li>
+  <li> Physical Security </li>
+  <li> ISP Routers </li>
+  <li> Legitimate Network Traffic Threat </li>
+  <li> Unauthorized Network Traffic Threat </li>
+  <li> Unauthorized Running Process Threat </li>
+  <li> Loss of Confidential Information </li>
+  <li> Business Impact of Threat </li>
+  <li> Pre-testing Dependencies </li>
+  <li> Post-testing Dependencies </li>
+  <li> Failure Management </li>
+  <li> Test Documentation Processes </li>
+  <li> Penetration Testing Tools </li>
+  <li> SANS Institute TOP 20 Security Vulnerabilities </li>
+  <li> Penetration Testing Deliverable Templates </li>
+  <li> Active Reconnaissance </li>
+  <li> Attack Phase </li>
+  <li> Activity: Perimeter Testing </li>
+  <li> Activity: Web Application Testing &ndash; I </li>
+  <li> Activity: Web Application Testing &ndash; II </li>
+  <li> Activity: Wireless Testing </li>
+  <li> Activity: Acquiring Target </li>
+  <li> Activity: Escalating Privileges </li>
+  <li> Activity: Execute, Implant &amp; Retract </li>
+  <li> Post Attack Phase &amp; Activities </li>
+  <li> Automated Penetration Testing Tool - CORE Impact </li>
+</ul>
+<br>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

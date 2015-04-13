@@ -1,0 +1,8 @@
+<p>In this course, you will manage, revise, and distribute documents. You will:</p>
+<ul>
+  <li>Collaborate on documents.</li>
+  <li>Add reference marks and notes.</li>
+  <li>Simplify and manage long documents.</li>
+  <li>Secure a document.</li>
+  <li>Create forms.</li>
+</ul>

@@ -1,0 +1,7 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Create and set up the Project management and accounting module in Microsoft Dynamics AX.</li>
+    <li>Set up invoicing.</li>
+    <li>Understand project types.</li>
+    <li>Create and enter project timesheets.</li>
+</ul>

@@ -1,0 +1,79 @@
+<p><strong>Module 1: Virtualization Overview</strong></p>
+<ul>
+  <li>Virtualization Vision</li>
+  <li>Virtualization Options</li>
+  <li>Advantages of Microsoft’s Solutions</li>
+</ul>
+<p><strong>Module 2: Differentiating Microsoft and VMware</strong></p>
+<ul>
+  <li>Technology and Terminology Differences</li>
+  <li>Hyper-V Editions and Comparisons</li>
+  <li>Feature Differentiation</li>
+  <li>Independent Studies and Resources</li>
+</ul>
+<p><strong>Module 3: Hyper-V Deployment Options and Architecture</strong></p>
+<ul>
+  <li>Virtualization and Datacenter Planning</li>
+  <li>Introduction to Hyper-V</li>
+  <li>Hyper-V Management</li>
+  <li>Hyper-V Networking and Storage</li>
+  <li>Other Hyper-V Features</li>
+</ul>
+<p><strong>Module 4: High Availability and Clustering</strong></p>
+<ul>
+  <li>High-Availability Overview</li>
+  <li>Software and Hardware Requirements</li>
+  <li>Cluster Deployment</li>
+  <li>Hyper-V High-Availability</li>
+  <li>Disaster Recovery</li>
+</ul>
+<p><strong>Module 5: System Center 2012 Suite Overview with Focus on DPM</strong></p>
+<ul>
+  <li>System Center Suite Overview</li>
+  <li>System Center Operations Manager</li>
+  <li>System Center Configuration Manager</li>
+  <li>System Center Data Protection Manager</li>
+</ul>
+<p><strong>Module 6: Automation with System Center Opalis and PowerShell</strong></p>
+<ul>
+  <li>System Center Service Manager</li>
+  <li>PowerShell</li>
+  <li>System Center Opalis</li>
+</ul>
+<p><strong>Module 7: Virtualization Machine Manager 2012</strong></p>
+<ul>
+  <li>Introduction to VMM 2012</li>
+  <li>The Fabric</li>
+  <li>The Library</li>
+  <li>Services and service templates</li>
+</ul>
+<p><strong>Module 8: Private Cloud Solutions, Architecture and VMM SSP 2.0</strong></p>
+<ul>
+  <li>Private Cloud Fundamentals</li>
+  <li>SCVMM 2012 Private Cloud</li>
+  <li>SCVMM Self-Service Portal 2.0</li>
+</ul>
+<p><strong>Module 9: Virtual Desktop Infrastructure (VDI) Architecture | Part 1</strong></p>
+<ul>
+  <li>Understanding VDI Architecture</li>
+  <li>Understanding your options</li>
+  <li>Planning</li>
+</ul>
+<p><strong>Module 10: Virtual Desktop Infrastructure (VDI) Architecture | Part 2</strong></p>
+<ul>
+  <li>Understanding VDI Architecture</li>
+  <li>Understanding your options</li>
+  <li>Planning</li>
+</ul>
+<p><strong>Module 11: v-Alliance Solution Overview</strong></p>
+<ul>
+  <li>Microsoft and Citrix Partnership</li>
+  <li>User State and Application Virtualization</li>
+  <li>Server Hosted Session Desktops</li>
+</ul>
+<p><strong>Module 12: Application Delivery for VDI</strong></p>
+<ul>
+  <li>Application Virtualization</li>
+  <li>Microsoft User State Virtualization</li>
+  <li>Choosing your delivery strategy</li>
+</ul>

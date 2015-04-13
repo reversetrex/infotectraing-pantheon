@@ -1,0 +1,1 @@
+<p>This three-day instructor-led course provides students with the knowledge and skills to develop Microsoft Silverlight 2.0 web applications. The course focuses on user interfaces, program structure, language syntax, and implementation details.</p>

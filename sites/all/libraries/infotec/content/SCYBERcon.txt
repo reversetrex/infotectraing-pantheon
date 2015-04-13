@@ -1,0 +1,14 @@
+<p>The course outline is as follows:</p>
+<ul>
+  <li>Module 1: Course Introduction: Overview of Network Security and Operations</li>
+  <li>Module 2: Network and Security Operations Data Analysis</li>
+  <li>Module 3: Packet Analysis</li>
+  <li>Module 4: Network Log Analysis</li>
+  <li>Module 5: Baseline Network Operations</li>
+  <li>Module 6: Preparing for Security Incidents</li>
+  <li>Module 7: Detecting Security Incidents</li>
+  <li>Module 8: Investigating Security Incidents</li>
+  <li>Module 9: Reacting to an Incident</li>
+  <li>Module 10: Communicating Incidents Effectively</li>
+  <li>Module 11: Postevent Activity</li>
+</ul>

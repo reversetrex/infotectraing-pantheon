@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Restructure data into appropriate tables to ensure data dependency and minimize redundancy.</li>
+  <li>Write advanced queries to analyze and summarize data.</li>
+  <li>Create and revise Access macros.</li>
+  <li>Display data more effectively in a form.</li>
+  <li>Customize reports by using various Access features, thus making them more effective.</li>
+  <li>Maintain your database using tools provided by Access. </li>
+</ul>

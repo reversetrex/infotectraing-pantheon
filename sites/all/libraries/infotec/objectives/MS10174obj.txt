@@ -1,0 +1,17 @@
+<p>After completing this course, students  will be able to:</p>
+<ul>
+  <li>Prepare for and install SharePoint 2010</li>
+  <li>Configure the fundamental service and logical components of  a SharePoint implementation</li>
+  <li>Administer SharePoint using the user interface, the command  line, and Windows PowerShell</li>
+  <li>Manage content in Lists and Libraries</li>
+  <li>Administer identities and authentication</li>
+  <li>Secure content in SharePoint sites</li>
+  <li>Manage customizations to a SharePoint implementation</li>
+  <li>Configure SharePoint services and applications</li>
+  <li>Configure SharePoint social networking features</li>
+  <li>Manage SharePoint search</li>
+  <li>Configure farms, servers, service applications, and web  applications</li>
+  <li>Install, upgrade, configure, and operate a SharePoint farm </li>
+  <li>Configure high availability and recoverability</li>
+  <li>Monitor and optimize SharePoint performance</li>
+</ul>

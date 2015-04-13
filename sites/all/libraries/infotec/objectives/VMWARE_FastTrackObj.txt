@@ -1,0 +1,17 @@
+<p>Upon successful completion of this course, students will be able  to:</p>
+<ul>
+  <li>Configure  and manage ESXi networking and storage.</li>
+  <li>Create, configure, migrate, manage, and monitor virtual machines  and virtual appliances.</li>
+  <li>Use VMware vCenter Converter Standalone.</li>
+  <li>Manage user access to the VMware virtual infrastructure.</li>
+  <li>Use vCenter Server to monitor resource usage.</li>
+  <li>Implement VMware vSphere High Availability and VMware vSphere Fault Tolerance.</li>
+  <li>Use Host Profiles to manage ESXi configuration compliance.</li>
+  <li>Use vSphere distributed switches to scale networking.</li>
+  <li>Use profile-driven storage and Storage DRS to scale storage.</li>
+  <li>Use VMware vCenter Update Manager to apply ESXi patches.</li>
+  <li>Use VMware vSphere Management Assistant to manage vSphere.</li>
+  <li>Deploy ESXi, vCenter Server, and vCenter Server Appliance.</li>
+  <li>Use Image Builder to create an ESXi image.</li>
+  <li>Use VMware vSphere Auto Deploy to provision ESXi hosts.</li>
+</ul>

@@ -1,0 +1,27 @@
+<p><strong>Module 1: Deploying Microsoft Exchange Server 2010</strong> - This module describes  how to prepare for, and perform, an Exchange Server 2010 installation. It  also provides details on the Exchange Server 2010 deployment.</p>
+
+<p><strong>Module 2: Configuring Mailbox Servers</strong> - This module describes the management tools that you can use to manage Exchange Server 2010. It also describes the Mailbox server role, some of  the new Exchange Server 2010 features, the most common Mailbox server role  post-installation tasks, and public folders.</p>
+
+<p><strong>Module 3: Managing Recipient Objects</strong> - This module describes how you can manage recipient objects,  address policies, and address lists in Exchange Server 2010. It also describes procedures for performing bulk management tasks in Exchange Management Shell.</p>
+
+<p><strong>Module 4: Managing Client Access</strong> - This module provides details on how to implement the Client Access server role in Exchange Server 2010.</p>
+
+<p><strong>Module 5: Managing Message Transport</strong> - This module details how to manage message transport in Exchange Server 2010. It also describes how to deploy and configure the  Hub Transport server.</p>
+
+<p><strong>Module 6: Implementing Messaging Security</strong> - This module describes how to plan for and deploy the Edge Transport server role and the security issues related to the deployment. It also describes how to configure secure SMTP messaging as well as Domain  Security.</p>
+
+<p><strong>Module 7: Implementing High Availability</strong> - This module describes the high-availability technology built into  Exchange Server 2010 and some of the outside factors that affect highly  available solutions.</p>
+
+<p><strong>Module 8: Implementing Backup and Recovery</strong> - This modules describes the backup and restore features built into Exchange Server 2010 and considerations for creating a  suitable backup plan.</p>
+
+<p><strong>Module 9: Configuring Messaging Policy and Compliance</strong> - This  module describes how to configure the Exchange Server 2010 messaging  policy and compliance features.</p>
+
+<p><strong>Module 10: Securing Microsoft Exchange Server 2010</strong> - This module  describes how to configure administrative permissions with Role-Based Access Control and how to secure the Exchange Server configuration.</p>
+
+<p><strong>Module 11: Maintaining Microsoft Exchange Server 2010</strong> - This  module describes how to monitor and maintain Exchange Server 2010. It also describes how to troubleshoot Exchange Server when problems arise.</p>
+
+<p><strong>Module 12: Transitioning from Exchange Server 2003 or Exchange Server 2007 to Exchange Server 2010</strong> - This module describes how to transition an  existing Exchange Server 2003 or Exchange Server 2007 organization to an  Exchange Server 2010 organization. It also describes the various considerations for implementing coexistence between the two messaging systems after an Exchange Server 2010 deployment.</p>
+
+<p><strong>Module 13: Implementing Unified Messaging</strong> - This appendix describes how Unified Messaging  integrates Exchange Server with telephony networks. It also describes how to  configure Unified Messaging.</p>
+
+<p><strong>Module 14: Advanced Topics in Exchange Server 2010</strong> - This appendix provides an overview of how to implement a highly  available Exchange Server 2010 deployment across multiple data centers. It also describes how to deploy Federated Sharing.</p>

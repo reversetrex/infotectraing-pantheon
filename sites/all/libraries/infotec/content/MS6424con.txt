@@ -1,0 +1,75 @@
+<p><strong>Module 1: Exploring Windows Server 2008 Active Directory Roles</strong> - This module provides an overview of the Active Directory (AD) server roles.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Active Directory Domain Services (AD DS)</li>
+  <li>Overview of Active Directory Lightweight Directory Services (AD LDS)</li>
+  <li>Overview of Active Directory Digital Certificates (AD CS)</li>
+  <li>Overview of Active Directory Rights Management Solution (AD RMS)</li>
+  <li>Overview of Active Directory Federation Solution (AD FS)</li>
+</ul>
+
+<p><strong>Module 2: Introduction to Active Directory Domain Services</strong> - This module explains the reasons for deploying AD DS and describes the AD DS components.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Active Directory Domain Services</li>
+  <li>Overview of AD DS Logical Components</li>
+  <li>Overview of AD DS Physical Components</li>
+</ul>
+
+<p><strong>Module 3: Introduction to Active Directory Lightweight Directory  Services</strong> - This module explains how AD LDS works and how to configure AD LDS components.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>AD LDS Overview</li>
+  <li>Implementing and Administering AD LDS</li>
+  <li>Implementing AD LDS Replication</li>
+  <li>Comparing AD DS and AD LDS</li>
+</ul>
+
+<p><strong>Module 4: Introduction to Active Directory Certificate Services</strong> - This module explains how AD CS works and how to implement AD CS certificate enrollment.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>AD CS Overview</li>
+  <li>Understanding AD CS Certificates</li>
+  <li>Implementing Certificate Enrollment and Revocation</li>
+</ul>
+
+<p><strong>Module 5: Introduction to Active Directory Rights Management Services</strong> - This module explains how AD RMS works and how to configure AD RMS settings.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>AD RMS Overview</li>
+  <li>Understanding AD RMS</li>
+  <li>Managing AD RMS</li>
+</ul>
+
+<p><strong>Module 6: Introduction to Active Directory Federation Services</strong> - This module explains how AD FS works and how to configure AD FS components.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>AD FS Overview</li>
+  <li>AD FS Deployment Scenarios</li>
+  <li>Configuring AD FS Components</li>
+</ul>
+
+<p><strong>Module 7: Creating AD Domain Services User and Computer Objects</strong> - This module explains how to configure AD DS user and computer accounts.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Managing User Accounts</li>
+  <li>Creating Computer Accounts</li>
+  <li>Using Queries to Locate Objects in Active Directory</li>
+</ul>
+
+<p><strong>Module 8: Creating Active Directory Domain Services Groups and  Organizational Units</strong> - This module explains how to configure AD DS group accounts and organizational units (OU).</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introduction to AD DS Groups</li>
+  <li>Managing Group Accounts</li>
+  <li>Creating Organizational Units</li>
+</ul>
+
+<p><strong>Module 9: Managing Access to Resources</strong> - This module explains how to manage access to shared resources in an AD DS environment.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Managing Access Overview</li>
+  <li>Assigning Permissions to Shared Resources</li>
+  <li>Managing NTFS File and Folder Permissions</li>
+  <li>Determining Effective Permission</li>
+</ul>

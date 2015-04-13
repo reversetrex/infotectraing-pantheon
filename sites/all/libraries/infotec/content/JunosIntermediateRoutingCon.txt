@@ -1,0 +1,76 @@
+<p><strong>Day 1</strong></p>
+<p><strong>Chapter 1: Course Introduction</strong></p>
+<p><strong>Chapter 2: Protocol-Independent Routing</strong></p>
+<ul>
+  <li>Static Routes</li>
+  <li>Aggregated Routes</li>
+  <li>Generated Routes</li>
+  <li>Martian Addresses</li>
+  <li>Routing Instances</li>
+  <li>Lab 1: Protocol-Independent Routing</li>
+</ul>
+<p><strong>Chapter 3: Load Balancing and Filter-Based Forwarding</strong></p>
+<ul>
+  <li>Overview of Load Balancing</li>
+  <li>Configuring and Monitoring Load Balancing</li>
+  <li>Overview of Filter-Based Forwarding</li>
+  <li>Configuring and Monitoring Filter-Based Forwarding</li>
+  <li>Lab 2: Load Balancing and Filter-Based Forwarding</li>
+</ul>
+<p><strong>Chapter 4: Open Shortest Path First</strong></p>
+<ul>
+  <li>Overview of OSPF</li>
+  <li>Adjacency Formation and the Designated Router Election</li>
+  <li>OSPF Scalability</li>
+  <li>Configuring and Monitoring OSPF</li>
+  <li>Basic OSPF Troubleshooting</li>
+  <li>Lab 3: Open Shortest Path First</li>
+</ul>
+<p><strong>Day 2</strong></p>
+<p><strong>Chapter 5: Border Gateway Protocol</strong></p>
+<ul>
+  <li>Overview of BGP</li>
+  <li>BGP Attributes</li>
+  <li>IBGP Versus EBGP</li>
+  <li>Configuring and Monitoring BGP</li>
+  <li>Lab 4: Border Gateway Protocol</li>
+</ul>
+<p><strong>Chapter 6: IP Tunneling</strong></p>
+<ul>
+  <li>Overview of IP Tunneling</li>
+  <li>GRE and IP-IP Tunnels</li>
+  <li>Implementing GRE and IP-IP Tunnels</li>
+  <li>Lab 5: IP Tunneling</li>
+</ul>
+<p><strong>Chapter 7: High Availability</strong></p>
+<ul>
+  <li>Overview of High Availability Networks</li>
+  <li>GR</li>
+  <li>Graceful RE Switchover</li>
+  <li>Nonstop Active Routing</li>
+  <li>BFD</li>
+  <li>VRRP</li>
+  <li>Lab 6: High Availability</li>
+</ul>
+<p><strong>Appendix A: IPv6</strong></p>
+<ul>
+  <li>Introduction to IPv6</li>
+  <li>Routing Protocol Configuration Examples</li>
+  <li>Tunneling IPv6 over IPv4</li>
+  <li>Lab 7 (Optional): IPv6</li>
+</ul>
+<p><strong>Appendix B: IS-IS</strong></p>
+<ul>
+  <li>Overview of IS-IS</li>
+  <li>Overview of IS-IS PDUs</li>
+  <li>Adjacency Formation and DIS Election</li>
+  <li>Configuring and Monitoring IS-IS</li>
+  <li>Basic IS-IS Troubleshooting</li>
+  <li>Lab 8 (Optional): IS-IS</li>
+</ul>
+<p><strong>Appendix C: Routing Information Protocol</strong></p>
+<ul>
+  <li>Introduction to RIP</li>
+  <li>RIP Configuration Examples</li>
+  <li>Monitoring and Troubleshooting RIP</li>
+</ul>

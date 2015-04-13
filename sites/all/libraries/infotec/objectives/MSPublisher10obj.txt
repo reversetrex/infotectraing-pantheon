@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Get familiar with the Publisher 2010 environment and start working on a publication.</li>
+  <li>Modify the layout and structure of a publication.</li>
+  <li>Format text in a publication.</li>
+  <li>Edit the contents in a publication.</li>
+  <li>Format graphics in a publication.</li>
+  <li>Prepare a publication for distribution.</li>
+</ul>

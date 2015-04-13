@@ -1,0 +1,983 @@
+<h2>Word 2013 Session 1</h2>
+  <h3>Section A: Tour of the Interface</h3>
+  <ul>
+    <li>Quick Access Toolbar</li>
+    <li>Title Bar, Learn the Ribbon</li>
+    <li>Show/Hide Paragraph</li>
+    <li>Modify Font, Paragraph</li>
+    <li>Modify Styles</li>
+    <li>Status Bar, Views, Create Document</li>
+    <li>Save Documents</li>
+    <li>Navigation Pane, Search Text</li>
+  </ul>
+  <h3>Section B: Navigation and Views</h3>
+  <ul>
+    <li>Navigation Tools and Tabs</li>
+    <li>Cut, Copy, Paste</li>
+    <li>Change Document Views</li>
+    <li>Outline View</li>
+    <li>Save Down</li>
+    <li>Compatibility Mode</li>
+  </ul>
+  <h3>Section C: Create a New Document</h3>
+  <ul>
+    <li>Create a New Document with a Template</li>
+    <li>Insert a Hyperlink</li>
+    <li>Insert a Quick Table</li>
+    <li>Insert Live Feeds</li>
+    <li>Open a PDF</li>
+    <li>Insert Pictures</li>
+    <li>Open Non-Native Files, Use Go To</li>
+    <li>Import Excel Table</li>
+    <li>Adjust Document</li>
+  </ul>
+  <h3>Section D: Modify a Document</h3>
+  <ul>
+    <li>Heading Styles, SmartArt</li>
+    <li>Insert Watermarks</li>
+    <li>Portrait vs. Landscape</li>
+    <li>Insert Headers, Footers</li>
+    <li>Insert Page Numbers</li>
+  </ul>
+  <h3>Section E: Table of Contents</h3>
+  <ul>
+    <li>Insert Table of Contents</li>
+    <li>Split the Window</li>
+    <li>Record Simple Macro</li>
+    <li>Macro Security</li>
+    <li>Show/Hide, Document Properties</li>
+  </ul>
+  <h3>Section F: Print</h3>
+  <ul>
+    <li>Configure to Print</li>
+    <li>Print Scale</li>
+    <li>Protect Documents with Password</li>
+  </ul>
+<h2>Word 2013 Session 2</h2>
+  <h3>Section A: Advanced Formatting Options</h3>
+  <ul>
+    <li>Use Format Painter</li>
+    <li>Copy and Paste Text</li>
+    <li>Find and Replace Text</li>
+    <li>Insert Text, AutoCorrect</li>
+    <li>Insert Building Blocks</li>
+    <li>Insert Text Boxes</li>
+    <li>Insert Line Spacing</li>
+    <li>Clear Format</li>
+    <li>WordArt</li>
+    <li>Insert Paragraph Indentations</li>
+    <li>Insert Tabs, Signature Line</li>
+    <li>Insert Quick Parts</li>
+    <li>Insert Section Breaks</li>
+    <li>Create Multiple Columns with Sections</li>
+    <li>Prevent Paragraph Orphans</li>
+    <li>Add Titles to Sections</li>
+  </ul>
+  <h3>Section B: Create and Modify a Table</h3>
+  <ul>
+    <li>Create a Table</li>
+    <li>Convert Tables to Text</li>
+    <li>Define Table Dimensions</li>
+    <li>Set AutoFit Options</li>
+    <li>Modify a Table</li>
+    <li>Apply Styles to Tables</li>
+    <li>Sort Table Data</li>
+    <li>Merge Cells in Table</li>
+    <li>Create a Quick Table</li>
+    <li>Apply a Formula</li>
+  </ul>
+  <h3>Section C: Lists</h3>
+  <ul>
+    <li>Create and Modify Lists</li>
+    <li>Create a Numbered List</li>
+    <li>Modify Numbers</li>
+  </ul>
+<h2>Word 2013 Session 3</h2>
+  <h3>Section A: Reference Tools</h3>
+  <ul>
+    <li>Footnotes</li>
+    <li>Insert Endnotes</li>
+    <li>Configure Endnote Formats</li>
+    <li>Insert Citation, Placeholders</li>
+    <li>Insert Bibliography</li>
+  </ul>
+  <h3>Section B: Captions</h3>
+  <ul>
+    <li>Add Captions, Change Format</li>
+    <li>Exclude Labels from Captions</li>
+  </ul>
+  <h3>Section C: Shapes and Images</h3>
+  <ul>
+    <li>Insert and Format a Shape</li>
+    <li>Position and Align Shapes</li>
+    <li>Insert an Image</li>
+    <li>Apply Artistic Effects</li>
+    <li>Remove the Background</li>
+    <li>Wrap Text around Images</li>
+    <li>Add Quick Styles to Images</li>
+  </ul>
+  <h3>Section D: Resumes</h3>
+  <ul>
+    <li>Views, Table Tools</li>
+    <li>Header, Footer, Indentation</li>
+    <li>Insert, Add Styles to Text</li>
+    <li>Format</li>
+  </ul>
+  <h3>Section E: Cover Pages and Thank You Letters</h3>
+  <ul>
+    <li>Cover Page</li>
+    <li>Bulleted Text</li>
+    <li>Date, Save, Compatibility Mode</li>
+    <li>Share Files Online</li>
+    <li>Thank You Letter</li>
+    <li>Themes</li>
+    <li>Print Options</li>
+  </ul>
+  <h3>Section F: Research Papers</h3>
+  <ul>
+    <li>Date, Time</li>
+    <li>Insert Citations</li>
+    <li>Chart Tools, Bibliography, Endnotes</li>
+    <li>Export as a PDF</li>
+  </ul>
+<h2>Access 2013 Session 1</h2>
+  <h3>Section A: Databases</h3>
+  <ul>
+    <li>What Is a Database?</li>
+    <li>Access Databases</li>
+    <li>Queries</li>
+    <li>Forms</li>
+    <li>Parts of Access Database</li>
+    <li>Tour of the Backstage View</li>
+    <li>Backstage View Recap</li>
+    <li>Get Help</li>
+    <li>Customize Quick Access Toolbar</li>
+  </ul>
+  <h3>Section B: Existing Data</h3>
+  <ul>
+    <li>Work with Existing Data</li>
+    <li>Adding Records to Labels</li>
+    <li>Updating Records</li>
+    <li>Deleting Records</li>
+    <li>Find Data</li>
+    <li>Replace Data</li>
+    <li>Sort Data</li>
+    <li>Filter Fields</li>
+    <li>Filter Multiple Fields</li>
+    <li>Filter Options</li>
+    <li>Add Row Totals</li>
+    <li>Change View</li>
+    <li>Run Queries</li>
+    <li>Forms</li>
+    <li>Reports</li>
+    <li>Navigation Options</li>
+  </ul>
+  <h3>Section C: Relational Databases</h3>
+  <ul>
+    <li>Flat vs. Relational Databases</li>
+    <li>Flat File</li>
+    <li>Relational Database</li>
+    <li>Rule 1</li>
+    <li>Rule 2</li>
+    <li>Rule 3</li>
+    <li>Rule 4</li>
+    <li>Rule 5</li>
+    <li>Identify Entities and Attributes</li>
+    <li>Planning a Database</li>
+    <li>Database Diagram</li>
+  </ul>
+<h2>Access 2013 Session 2</h2>
+  <h3>Section A: Create a Database</h3>
+  <ul>
+    <li>Create Database with Template</li>
+    <li>Create Database with Wizard</li>
+    <li>Create Database in Old Format</li>
+    <li>Create a New Database</li>
+  </ul>
+  <h3>Section B: Create Tables</h3>
+  <ul>
+    <li>Create Tables in Datasheet View</li>
+    <li>Tables from Templates, Application Parts</li>
+    <li>Import Tables from Other Databases</li>
+    <li>Import External Data into Tables</li>
+    <li>Create Linked Tables from Other Sources</li>
+    <li>Create Tables in Design View</li>
+    <li>Format Tables, Hide Fields in Tables</li>
+    <li>Add Table Descriptions</li>
+    <li>Rename Tables</li>
+  </ul>
+  <h3>Section C: Create and Modify Fields</h3>
+  <ul>
+    <li>Table Views</li>
+    <li>Unique Values</li>
+    <li>Test Fields</li>
+    <li>Set Primary Key Fields, Auto Increment</li>
+    <li>Change Field Captions</li>
+    <li>Change Field Sizes</li>
+    <li>Change Field Data Types</li>
+    <li>Change Data Formats</li>
+    <li>Set Default Values</li>
+    <li>Require Value in Fields</li>
+    <li>Use of Input Masks</li>
+    <li>Validation Rules</li>
+    <li>Delete Fields</li>
+  </ul>
+  <h3>Section D: Manage Table Relationships</h3>
+  <ul>
+    <li>Create Field Lookups</li>
+    <li>Lookup Tips</li>
+    <li>Edit Reference between Tables</li>
+    <li>View Relationships</li>
+    <li>Create Relationships</li>
+    <li>Relationship Types</li>
+    <li>Edit Relationships</li>
+    <li>Enforce Referential Integrity</li>
+    <li>Modify Relationships</li>
+  </ul>
+<h2>Access 2013 Session 3</h2>
+  <h3>Section A: Create Forms</h3>
+  <ul>
+    <li>Introduction to Creating Forms</li>
+    <li>Creating a Form</li>
+    <li>Create Form with Wizard</li>
+    <li>Split Forms and Blank Forms</li>
+    <li>Create Forms with Application Parts</li>
+    <li>Modify Forms</li>
+    <li>Layout View vs. Design View</li>
+    <li>Prebuilt Form Layouts</li>
+    <li>Manage Labels</li>
+    <li>Move Form Controls</li>
+    <li>Make Multiple Selections</li>
+    <li>Arrange Items in Forms</li>
+    <li>Work with Form Layouts</li>
+  </ul>
+  <h3>Section B: Enhance Forms</h3>
+  <ul>
+    <li>Insert Headers and Footers</li>
+    <li>Add Form Controls</li>
+    <li>Add a Button</li>
+    <li>Set Form Control Properties</li>
+    <li>Remove Form Controls</li>
+  </ul>
+  <h3>Section C: Organize Forms</h3>
+  <ul>
+    <li>Organizing a Form</li>
+    <li>Modify Tab Order in Forms</li>
+    <li>Modify Data Sources</li>
+    <li>Add Subforms</li>
+  </ul>
+  <h3>Section D: Format Forms</h3>
+  <ul>
+    <li>Format Forms, Apply Themes</li>
+    <li>Insert Backgrounds</li>
+    <li>Insert Images</li>
+    <li>Sort Records</li>
+    <li>Format Printing Layouts, Change Margins</li>
+  </ul>
+  <h3>Section E: Navigation Forms</h3>
+  <ul>
+    <li>Work with and Create Navigation Forms</li>
+    <li>Format Navigation Forms</li>
+  </ul>
+<h2>Access 2013 Session 4</h2>
+  <h3>Section A: Queries</h3>
+  <ul>
+    <li>Purpose of Queries</li>
+    <li>Create Queries</li>
+    <li>Add Fields and Save Queries</li>
+  </ul>
+  <h3>Section B: Modify Queries</h3>
+  <ul>
+    <li>Hide and Remove Fields</li>
+    <li>Rename and Delete Queries</li>
+    <li>Modify and Sort Queries</li>
+    <li>Format Fields in Queries</li>
+  </ul>
+  <h3>Section C: Multitable Queries</h3>
+  <ul>
+    <li>Create Multitable Queries</li>
+    <li>Inner and Outer Joins</li>
+  </ul>
+  <h3>Section D: Criteria in Queries</h3>
+  <ul>
+    <li>Types of Criteria in Queries</li>
+    <li>Use Criteria in Queries</li>
+    <li>Use AND and OR in Queries</li>
+    <li>Use IN in Queries</li>
+    <li>Use NOT and BETWEEN in Queries</li>
+    <li>Use NULL in Queries</li>
+    <li>Use Wildcards in Queries</li>
+    <li>Use Parameters in Queries</li>
+  </ul>
+  <h3>Section E: Calculations in Queries</h3>
+  <ul>
+    <li>Calculated Fields</li>
+    <li>Expression Builder</li>
+    <li>Text Calculation</li>
+    <li>Numeric Calculation</li>
+    <li>Group and Summarize Data</li>
+    <li>Crosstab Queries</li>
+    <li>Return Top Result</li>
+  </ul>
+  <h3>Section F: Action Queries</h3>
+  <ul>
+    <li>Use Action Queries</li>
+    <li>Make Table Query</li>
+    <li>Append Query</li>
+    <li>Update Query</li>
+    <li>Delete Query</li>
+    <li>Recap Action Queries</li>
+  </ul>
+<h2>Access 2013 Session 5</h2>
+  <h3>Section A: Create Reports</h3>
+  <ul>
+    <li>Build Reports</li>
+    <li>Create New Reports</li>
+    <li>Group Reports</li>
+    <li>Create Reports with Application Parts</li>
+  </ul>
+  <h3>Section B: Modify Reports</h3>
+  <ul>
+    <li>Modify Existing Reports</li>
+    <li>Manage Labels</li>
+    <li>Add Report Controls</li>
+    <li>Add Calculated Fields</li>
+    <li>Group Data by Fields</li>
+    <li>Sort Data</li>
+    <li>Change Sort Order</li>
+    <li>Modify Data Sources</li>
+  </ul>
+  <h3>Section C: Reports</h3>
+  <ul>
+    <li>Format Reports</li>
+    <li>Apply Themes and Add Backgrounds</li>
+    <li>Insert Images</li>
+    <li>Insert Headers and Footers</li>
+    <li>Insert Page Numbers</li>
+    <li>Format Reports into Multiple Columns</li>
+  </ul>
+  <h3>Section D: Print and Distribute Reports</h3>
+  <ul>
+    <li>Print and Distribute</li>
+    <li>Change Report Orientation</li>
+    <li>Set Margins</li>
+    <li>Print Reports</li>
+    <li>Export Data to Alternate Formats</li>
+    <li>Save and Run Export</li>
+    <li>Delete Reports</li>
+  </ul>
+  <h3>Section E: Finalize</h3>
+  <ul>
+    <li>Finalize Database</li>
+    <li>Setting a Form as a Startup Option</li>
+    <li>Saving Databases as Templates</li>
+    <li>Saving Databases to External Locations</li>
+    <li>Maintain Backward Compatibility</li>
+  </ul>
+  <h3>Section F: Protection</h3>
+  <ul>
+    <li>Protect a Database</li>
+    <li>Split Databases</li>
+    <li>Merge Databases</li>
+    <li>Encrypt Databases</li>
+  </ul>
+  <h3>Section G: Database Maintenance</h3>
+  <ul>
+    <li>Maintain a Database</li>
+    <li>Backup Database</li>
+    <li>Recover Data from Backups</li>
+    <li>Compact and Repair Database</li>
+  </ul>
+  <h3>Section H: Tips</h3>
+  <ul>
+    <li>Test Taking Tips</li>
+  </ul>
+<h2>Excel 2013 Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Introduction to Excel</li>
+    <li>Excel Interface</li>
+    <li>Templates, Workspace, Quick Access</li>
+    <li>More Commands, Popular Commands</li>
+    <li>Camera Button, Remove Button</li>
+    <li>Ribbon</li>
+    <li>Customize Ribbon</li>
+    <li>Add, Remove, Custom Buttons</li>
+  </ul>
+  <h3>Section B: Navigating Excel</h3>
+  <ul>
+    <li>Touch Screen, Document Window</li>
+    <li>Basic Navigation</li>
+  </ul>
+  <h3>Section C: Shortcuts</h3>
+  <ul>
+    <li>Esc Key, Undo, Right-Click</li>
+    <li>Three Windows Shortcuts</li>
+    <li>Function Key Shortcuts</li>
+    <li>Ctrl Key Shortcuts</li>
+    <li>Copy, Paste, Print, Select All</li>
+    <li>Select Data Range, Save</li>
+    <li>New Document</li>
+    <li>Alt Key Shortcuts</li>
+    <li>Insert Column, Row, Worksheet</li>
+    <li>Visible Keys</li>
+    <li>Drop-Down, Ribbon</li>
+  </ul>
+  <h3>Section D: Creating and Manipulating Data</h3>
+  <ul>
+    <li>Entering Data</li>
+    <li>Auto Fill</li>
+    <li>Expand Data</li>
+    <li>Working with Auto Fill</li>
+    <li>Custom Lists</li>
+    <li>Creating Custom Lists</li>
+    <li>Text Strings</li>
+    <li>Active Cells</li>
+    <li>Grouping Worksheets</li>
+    <li>Ungrouping Worksheets</li>
+    <li>Flash Fill</li>
+    <li>Flash Fill Numbers</li>
+    <li>Column Headings</li>
+  </ul>
+  <h3>Section E: Managing Worksheets</h3>
+  <ul>
+    <li>Managing Worksheet, Copy and Move</li>
+    <li>Copy and Move Workbook</li>
+    <li>Rename, Inserting, Deleting Worksheets</li>
+  </ul>
+  <h3>Section F: Paste Special</h3>
+  <ul>
+    <li>Windows Copy and Paste Rule</li>
+    <li>Four Steps of Paste Special</li>
+    <li>Quick Multiplication</li>
+    <li>Benefits of Paste Special</li>
+    <li>Format Painter</li>
+    <li>Removing Duplicates</li>
+  </ul>
+  <h3>Section G: Changing Views</h3>
+  <ul>
+    <li>Changing Views, Zoom</li>
+    <li>Changing Workbook View</li>
+    <li>Mirror Images</li>
+    <li>Freeze Panes</li>
+    <li>Split the Window</li>
+    <li>Page Layout</li>
+    <li>Custom View</li>
+    <li>View Show</li>
+  </ul>
+<h2>Excel 2013 Session 2</h2>
+  <h3>Section A: Formatting Data</h3>
+  <ul>
+    <li>Formatting Data, Color, Size</li>
+    <li>Change Sheet, Tab Color, Office Workbook</li>
+    <li>Change Office Themes</li>
+    <li>Backgrounds</li>
+    <li>Watermarks</li>
+  </ul>
+  <h3>Section B: Modify Cells</h3>
+  <ul>
+    <li>Modify Cell Alignment, Wrap Text</li>
+    <li>Indentation</li>
+    <li>Merge Cells</li>
+    <li>Apply Number Formats, Special Formats</li>
+    <li>Custom Format</li>
+    <li>Text to WordArt</li>
+    <li>Existing Text to WordArt</li>
+  </ul>
+  <h3>Section C: Tables</h3>
+  <ul>
+    <li>Find and Replace</li>
+    <li>Asterisk, Question Mark</li>
+    <li>Sorting</li>
+    <li>Filtering</li>
+    <li>Create Tables</li>
+    <li>Modify Tables</li>
+    <li>Total Rows</li>
+    <li>Define Titles, Go To</li>
+    <li>Remove Duplicates</li>
+  </ul>
+  <h3>Section D: Text Formulas</h3>
+  <ul>
+    <li>CONCATENATE</li>
+    <li>Working with CONCATENATE</li>
+    <li>Edit Formula</li>
+    <li>Correct Columns</li>
+    <li>Split Cell Contents Apart</li>
+    <li>Convert Formulas to Text</li>
+    <li>Delimiters</li>
+    <li>UPPER, LOWER, PROPER</li>
+    <li>LEFT</li>
+    <li>RIGHT, MID</li>
+    <li>TRIM</li>
+  </ul>
+  <h3>Section E: Operations</h3>
+  <ul>
+    <li>Define Order of Operations</li>
+    <li>Four Most Popular Operators</li>
+    <li>More Operators, CONCATENATE</li>
+    <li>SUM</li>
+    <li>AVERAGE, MIN, MAX</li>
+    <li>COUNT, COUNTA</li>
+    <li>AutoCalculate</li>
+    <li>Formula Auditing</li>
+    <li>Relative, Absolute Cell References</li>
+    <li>Mixed Cell References</li>
+  </ul>
+<h2>Excel 2013 Session 3</h2>
+  <h3>Section A: Totals and Sparklines</h3>
+  <ul>
+    <li>Totaling Multiple Sheets</li>
+    <li>Working with Totaling Sheets</li>
+    <li>Quick Analysis, Grand Totals</li>
+    <li>Sparkline Graphics</li>
+    <li>Sparkline Tools</li>
+    <li>Incorrect Data</li>
+    <li>Consolidation</li>
+    <li>Hierarchical Outline</li>
+  </ul>
+  <h3>Section B: Subtotals</h3>
+  <ul>
+    <li>Using Subtotals, Subtotal Options</li>
+    <li>Selecting Visible Data</li>
+  </ul>
+  <h3>Section C: VLOOKUP</h3>
+  <ul>
+    <li>What Is VLOOKUP?</li>
+    <li>VLOOKUP Specifications</li>
+    <li>Name the Range</li>
+    <li>Column Index Number</li>
+    <li>VLOOKUP with Optional Argument</li>
+  </ul>
+  <h3>Section D: Nested Formulas</h3>
+  <ul>
+    <li>Using Nested Formulas</li>
+    <li>Absolute Value Formula</li>
+    <li>Nesting a Formula</li>
+    <li>Nested Formula Logic</li>
+    <li>FIND Formula</li>
+    <li>LEFT Formula</li>
+    <li>ROW, COLUMN Formula</li>
+  </ul>
+  <h3>Section E: Conditional Logic</h3>
+  <ul>
+    <li>Using Conditional Logic</li>
+    <li>IF Formula</li>
+    <li>Nested IF</li>
+    <li>Maintain Backward Compatibility</li>
+    <li>Text Wrap within Cells</li>
+    <li>Formula Wizard, AND</li>
+    <li>OR</li>
+    <li>NOT</li>
+    <li>IFERROR</li>
+    <li>SUMIF</li>
+    <li>COUNTIF</li>
+    <li>AVERAGEIF</li>
+    <li>SUMIFS</li>
+    <li>AVERAGEIFS</li>
+    <li>COUNTIFS</li>
+  </ul>
+<h2>Excel 2013 Session 4</h2>
+  <h3>Section A: Excel Financial Formulas</h3>
+  <ul>
+    <li>Working with Financial Formulas</li>
+    <li>Finding the PMT Formula</li>
+    <li>PMT Function Arguments</li>
+    <li>Goal Seek</li>
+    <li>Solver</li>
+    <li>Solver Reports, Solver.com</li>
+  </ul>
+  <h3>Section B: What-If Scenarios</h3>
+  <ul>
+    <li>Scenario Manager</li>
+    <li>Scenario Reports</li>
+    <li>Introduction to Data Table</li>
+    <li>Quick Analysis Tool</li>
+    <li>Data Table Continued</li>
+  </ul>
+  <h3>Section C: Charts and Graphs</h3>
+  <ul>
+    <li>Definitions of Chart Types</li>
+    <li>Intro to Charts, Instant Charts</li>
+    <li>Adding Data to a Chart</li>
+    <li>Modifying and Customizing Charts</li>
+    <li>Graphical Charts</li>
+    <li>Working with Disproportionate Figures</li>
+    <li>Making a Combination Chart</li>
+    <li>Quick Analysis Charts, Move Chart</li>
+    <li>Switch Rows and Columns</li>
+    <li>Add Legend, Quick Layout, Change Colors</li>
+    <li>Resize a Chart</li>
+    <li>Saving a Chart as a Template</li>
+  </ul>
+<h2>Excel 2013 Session 5</h2>
+  <h3>Section A: Advanced Operations</h3>
+  <ul>
+    <li>Working with Cells</li>
+    <li>Hiding Cells</li>
+    <li>Hiding Worksheets</li>
+    <li>PivotTables</li>
+    <li>PivotTable Layouts</li>
+    <li>Filter Options</li>
+    <li>Updating and Modifying Data</li>
+    <li>Grand Totals</li>
+    <li>Filter Data</li>
+    <li>Slicers</li>
+    <li>Timelines</li>
+    <li>Calculated Fields</li>
+    <li>Calculated Items</li>
+  </ul>
+  <h3>Section B: Conditional Formatting</h3>
+  <ul>
+    <li>Conditional Formatting Options</li>
+    <li>Manage Rules</li>
+    <li>Wildcard Characters</li>
+    <li>Top/Bottom Rules</li>
+    <li>Data Bars</li>
+    <li>Color Scales and Icon Sets</li>
+    <li>Alternate Row Shading via Formulas</li>
+  </ul>
+  <h3>Section C: Data Protection</h3>
+  <ul>
+    <li>Data Validation and Lists</li>
+    <li>Input Messages and Error Alerts</li>
+    <li>Data Validation Settings</li>
+  </ul>
+  <h3>Section D: Add Graphics</h3>
+  <ul>
+    <li>Add Graphics and Insert Comments</li>
+    <li>Insert Text Boxes</li>
+    <li>Insert Images</li>
+    <li>Remove Background</li>
+    <li>Position Objects</li>
+    <li>Insert SmartArt</li>
+  </ul>
+  <h3>Section E: Excel and the Web</h3>
+  <ul>
+    <li>Insert a Hyperlink</li>
+    <li>Open Non-Native Files</li>
+    <li>Import Files</li>
+    <li>Open Text File</li>
+  </ul>
+  <h3>Section F: Saving and Printing</h3>
+  <ul>
+    <li>Saving Worksheets</li>
+    <li>Document Inspector</li>
+    <li>Save Files to Remote Locations</li>
+    <li>Save Alternate File Formats</li>
+    <li>Print Worksheets</li>
+    <li>Headers and Footers</li>
+    <li>Repeat Headers</li>
+    <li>Set Print Scaling</li>
+    <li>Printing Options</li>
+  </ul>
+  <h3>Section G: Macros</h3>
+  <ul>
+    <li>Macro Capabilities</li>
+    <li>Macro Security</li>
+    <li>Options for Recording Macros</li>
+    <li>Shortcuts</li>
+    <li>Network</li>
+    <li>Recording a Macro</li>
+    <li>Test the Macro</li>
+    <li>Assigning a Button to a Macro</li>
+    <li>Shapes and Macros</li>
+    <li>Edit Macros</li>
+    <li>Macro Comment</li>
+    <li>Macro Statements</li>
+    <li>Run the Macro</li>
+  </ul>
+<h2>Outlook 2013 Session 1</h2>
+  <h3>Section A: Outlook</h3>
+  <ul>
+    <li>Interface Tour, Navigation Options</li>
+    <li>Outlook Ribbon</li>
+    <li>Quick Steps</li>
+    <li>Search Mail</li>
+  </ul>
+  <h3>Section B: Outlook Settings</h3>
+  <ul>
+    <li>Customize Outlook Settings</li>
+    <li>Configure View</li>
+    <li>Sort Mail Messages</li>
+    <li>Task Pane</li>
+    <li>Status Bar</li>
+    <li>Manage Multiple Accounts</li>
+    <li>Add or Delete Email Accounts</li>
+  </ul>
+  <h3>Section C: New Messages</h3>
+  <ul>
+    <li>Create a Message</li>
+    <li>Add Cc and Bcc</li>
+    <li>Add another Email Address</li>
+    <li>Subject Field and Spelling Checker</li>
+    <li>Language Settings</li>
+    <li>Font Size</li>
+    <li>Format Text</li>
+  </ul>
+  <h3>Section D: Manage Messages</h3>
+  <ul>
+    <li>Reply to an Email</li>
+    <li>Reply to All</li>
+    <li>Forward Message</li>
+    <li>Include Original Message</li>
+    <li>Delete Emails</li>
+    <li>Create Automatic Replies</li>
+    <li>Message Options</li>
+    <li>Apply Quick Steps</li>
+    <li>Create and Manage Rules</li>
+    <li>Create and Assign Signatures</li>
+    <li>Conditional Formatting</li>
+    <li>Prioritize Messages</li>
+    <li>Add or Remove Attachments</li>
+    <li>Delegate Access</li>
+  </ul>
+  <h3>Section E: Format a Message</h3>
+  <ul>
+    <li>Insert Hyperlinks</li>
+    <li>Apply Themes and Styles</li>
+    <li>Insert Images</li>
+    <li>Add a Specific Signature</li>
+    <li>Format a Signature</li>
+    <li>Create and Use Quick Parts</li>
+    <li>Modify a Style</li>
+  </ul>
+<h2>Outlook 2013 Session 2</h2>
+  <h3>Section A: Messages</h3>
+  <ul>
+    <li>Add New Local Folders</li>
+    <li>Move Messages into Folders</li>
+    <li>Flag Messages</li>
+    <li>Apply Categories</li>
+    <li>Sort Messages</li>
+    <li>Configure Junk Email Settings</li>
+    <li>Ignore Messages</li>
+    <li>Clean Up Messages</li>
+    <li>Mark as Read or Unread</li>
+    <li>Attachment Reminder Options</li>
+    <li>Search for Messages</li>
+    <li>Print Messages</li>
+  </ul>
+  <h3>Section B: Save and Back Up Messages</h3>
+  <ul>
+    <li>Save Messages</li>
+    <li>Text Only</li>
+    <li>Create Data Files</li>
+  </ul>
+  <h3>Section C: New Contacts</h3>
+  <ul>
+    <li>Create New Contacts</li>
+    <li>Edit Contact Info</li>
+    <li>Add New Contact</li>
+    <li>Import Contacts</li>
+    <li>Sharing Files</li>
+    <li>Manage Contact Lists</li>
+  </ul>
+  <h3>Section D: Groups</h3>
+  <ul>
+    <li>New Contact Group</li>
+    <li>Delete Members and Groups</li>
+    <li>Update Contacts within Groups</li>
+    <li>Search for Contacts</li>
+    <li>Print Contacts</li>
+    <li>New Search Folder</li>
+    <li>Keywords</li>
+  </ul>
+<h2>Outlook 2013 Session 3</h2>
+  <h3>Section A: Calendars</h3>
+  <ul>
+    <li>Create, Manage Calendars</li>
+    <li>Schedule View</li>
+    <li>Go To</li>
+    <li>Calendar Navigation Options</li>
+    <li>Modify Time Zones</li>
+    <li>Delete Calendars</li>
+    <li>Create Multiple Calendars</li>
+    <li>Manage Calendar Groups</li>
+    <li>Share Calendars</li>
+    <li>Share Calendar Options</li>
+  </ul>
+  <h3>Section B: Calendar Items</h3>
+  <ul>
+    <li>Create Calendar Options</li>
+    <li>Calendar Options</li>
+    <li>Recurrence</li>
+    <li>Drag and Drop Appointments</li>
+    <li>Attachments for Appointments</li>
+    <li>Cancel Calendar Items</li>
+    <li>Categorize Calendar Items</li>
+    <li>Scheduling Assistant</li>
+    <li>Forward Calendar Items</li>
+    <li>Respond to Invitations</li>
+    <li>Share Meeting Notes</li>
+    <li>Search Calendar</li>
+    <li>Print Calendar</li>
+  </ul>
+  <h3>Section C: Tasks</h3>
+  <ul>
+    <li>Quick Speed Keys</li>
+    <li>Create and Manage Tasks</li>
+    <li>Update Tasks Status</li>
+    <li>Search for Tasks</li>
+    <li>Print Tasks</li>
+    <li>Create and Manage Notes</li>
+    <li>Attach Notes to Contacts</li>
+    <li>Create Journal Entries</li>
+  </ul>
+<h2>PowerPoint 2013 Session 1</h2>
+  <h3>Section A: Tour of the Interface</h3>
+  <ul>
+    <li>Interface Tour, Templates</li>
+    <li>The Ribbon</li>
+    <li>Status Bar</li>
+    <li>Backstage View</li>
+    <li>Reuse Slides</li>
+    <li>Project Plan</li>
+  </ul>
+  <h3>Section B: Organize Your Presentation</h3>
+  <ul>
+    <li>Creating a Presentation</li>
+    <li>Changing Presentation Themes</li>
+    <li>Modify Slide Backgrounds</li>
+    <li>Adding and Modifying Slides</li>
+    <li>Duplicate, Hide Slides</li>
+    <li>Apply Styles to Slides</li>
+    <li>Change Slide Layout</li>
+  </ul>
+  <h3>Section C: Inserting and Formatting Shapes</h3>
+  <ul>
+    <li>Inserting Slide Content</li>
+    <li>Inserting Shapes, Resizing Shapes</li>
+    <li>Apply Borders to Shapes</li>
+    <li>Modify Shape Backgrounds</li>
+    <li>Apply Styles to Shapes</li>
+    <li>Align and Group Shapes</li>
+    <li>Order Shapes</li>
+    <li>Modify Slide Order</li>
+    <li>Merge and Ungroup Shapes</li>
+  </ul>
+  <h3>Section D: Inserting and Formatting Text</h3>
+  <ul>
+    <li>Formatting and Text Styles</li>
+    <li>Change Text to WordArt</li>
+  </ul>
+<h2>PowerPoint 2013 Session 2</h2>
+  <h3>Section A: Customize a Blank Document</h3>
+  <ul>
+    <li>Create Bulleted Lists</li>
+    <li>Create Multiple Columns</li>
+    <li>Numbered Lists</li>
+    <li>Insert Hyperlinks</li>
+    <li>Hyperlinks Insert Menu</li>
+    <li>Hyperlinks Action</li>
+    <li>Email Hyperlinks</li>
+    <li>Link to Slide Content</li>
+  </ul>
+  <h3>Section B: Insert and Format Tables</h3>
+  <ul>
+    <li>Insert and Create Tables</li>
+    <li>Apply Table Styles</li>
+    <li>Import Tables</li>
+    <li>Insert Excel Table</li>
+    <li>Modify Tables</li>
+  </ul>
+  <h3>Section C: Create and Modify Charts</h3>
+  <ul>
+    <li>Create Chart</li>
+    <li>Modify Chart Type</li>
+    <li>Modify Chart Style</li>
+    <li>Insert and Import Chart</li>
+    <li>Add and Modify a Legend</li>
+  </ul>
+  <h3>Section D: SmartArt</h3>
+  <ul>
+    <li>Create SmartArt</li>
+    <li>Change Color, Change Text</li>
+    <li>Move Text, Reverse Direction</li>
+    <li>Insert Images</li>
+    <li>Resize Images</li>
+    <li>Apply Effects</li>
+    <li>Create Screenshot</li>
+    <li>Create Photo Album</li>
+  </ul>
+  <h3>Section E: Insert Media</h3>
+  <ul>
+    <li>Working with Media</li>
+    <li>Trimming Media</li>
+    <li>Set Start and Stop Times</li>
+    <li>Link to External Media</li>
+    <li>Insert Audio</li>
+    <li>Inspect Presentation</li>
+  </ul>
+  <h3>Section F: Adding Animations and Transitions</h3>
+  <ul>
+    <li>Adding Transitions</li>
+    <li>Working with Transitions</li>
+    <li>Animate Slide Content, Animation Pane</li>
+    <li>Animation Duration</li>
+    <li>Add Animation to Text</li>
+    <li>Add Animation to Shapes</li>
+    <li>Paths to Animations</li>
+    <li>Animation on Charts</li>
+    <li>Animate a Picture</li>
+    <li>Entrance Animations</li>
+    <li>SmartArt Animations</li>
+    <li>Reorder Animations</li>
+  </ul>
+<h2>PowerPoint 2013 Session 3</h2>
+  <h3>Section A: Slide Masters</h3>
+  <ul>
+    <li>Customizing Slides, Slide Master</li>
+    <li>Insert Master Layout</li>
+    <li>Master Layout Backgrounds</li>
+    <li>Name Master Layout</li>
+    <li>New Slide Master</li>
+    <li>Add and Change Background</li>
+  </ul>
+  <h3>Section B: Creating Custom Layouts</h3>
+  <ul>
+    <li>Add a Picture to Master</li>
+    <li>Apply Master Layout</li>
+    <li>Add Header and Footer</li>
+    <li>Add Notes and Handouts</li>
+    <li>Modifying Presentation Options</li>
+    <li>Setup Options</li>
+  </ul>
+  <h3>Section C: Presentation Properties</h3>
+  <ul>
+    <li>Modify Presentation Properties</li>
+    <li>Create Custom Slide Show</li>
+    <li>Rehearse Timings and Configuration</li>
+    <li>Configuring Slide Show Options</li>
+    <li>Altering Presentation Views</li>
+    <li>Section Headers</li>
+  </ul>
+  <h3>Section D: Printing Presentations</h3>
+  <ul>
+    <li>Printer Selection and Color Options</li>
+    <li>Printer Settings</li>
+    <li>Print Selections</li>
+  </ul>
+  <h3>Section E: Saving Presentations</h3>
+  <ul>
+    <li>Saving the Presentation</li>
+    <li>Sharing the Presentation</li>
+    <li>Present Online</li>
+    <li>Export and Compatibility Checker</li>
+  </ul>
+  <h3>Section F: Navigating and Annotating</h3>
+  <ul>
+    <li>Presenting the Presentation</li>
+    <li>Presenter View</li>
+    <li>Configure Slide Show Resolution</li>
+    <li>Adding Password Protection</li>
+    <li>Restrict Permissions</li>
+    <li>Proof Presentations</li>
+    <li>Merge Multiple Presentations</li>
+  </ul>
+  <h3>Section G: Checking the Presentation</h3>
+  <ul>
+    <li>Inspect Document</li>
+    <li>Compress Media</li>
+    <li>Compatibility and Accessibility</li>
+    <li>Embed Fonts</li>
+  </ul>

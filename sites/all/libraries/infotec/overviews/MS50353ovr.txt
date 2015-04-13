@@ -1,0 +1,1 @@
+This 3-day instructor-led course explores the new architectural changes made to SharePoint 2010 and how to upgrade your 2007 environment to 2010.

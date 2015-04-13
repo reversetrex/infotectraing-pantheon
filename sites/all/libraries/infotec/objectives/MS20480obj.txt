@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Explain how to use Visual Studio 2012 to create and run a Web application.</li>
+    <li>Describe the new features of HTML5, and create and style HTML5 pages.</li>
+    <li>Add interactivity to an HTML5 page by using JavaScript.</li>
+    <li>Create HTML5 forms by using different input types, and validate user input by using HTML5 attributes and JavaScript code.</li>
+    <li>Send and receive data to and from a remote data source by using XMLHTTPRequest objects and jQuery AJAX operations.</li>
+    <li>Style HTML5 pages by using CSS3.</li>
+    <li>Create well-structured and easily-maintainable JavaScript code.</li>
+    <li>Use common HTML5 APIs in interactive Web applications.</li>
+    <li>Create Web applications that support offline operations.</li>
+    <li>Create HTML5 Web pages that can adapt to different devices and form factors.</li>
+    <li>Add advanced graphics to an HTML5 page by using Canvas elements, and by using and Scalable Vector Graphics.</li>
+    <li>Enhance the user experience by adding animations to an HTML5 page.</li>
+    <li>Use Web Sockets to send and receive data between a Web application and a server.</li>
+    <li>Improve the responsiveness of a Web application that performs long-running operations by using Web Worker   processes.</li>
+</ul>

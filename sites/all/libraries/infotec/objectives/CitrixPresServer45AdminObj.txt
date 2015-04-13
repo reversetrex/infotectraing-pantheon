@@ -1,0 +1,16 @@
+<p>Upon successful completion of this course, learners are able to perform the following:</p>
+<ul>
+  <li>Install Presentation Server 4.5 in a Windows Server 2003 environment</li>
+  <li>Install and configure Presentation Server Clients</li>
+  <li>Publish applications, resources and content</li>
+  <li>Configure and manage policies for Presentation Server</li>
+  <li>Configure ICA connection and session settings</li>
+  <li>Configure and manage server and server farm settings</li>
+  <li>Configure load evaluators and monitor load using Load Manager</li>
+  <li>Deploy applications using Installation Manager</li>
+  <li>Deploy applications into an isolation environment</li>
+  <li>Configure and manage network and session printing</li>
+  <li>Install and configure Web Interface</li>
+  <li>Configure streaming profiles, install the Streaming Client and configure Presentation Server to stream applications</li>
+  <li>Secure access to published resources through ICA encryption, Citrix SSL Relay and Secure Gateway</li>
+</ul>

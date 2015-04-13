@@ -1,0 +1,44 @@
+<p><strong>Lesson 1: </strong>Configure Advanced Message Options</p>
+<ul>
+  <li><strong>Topic A: </strong>Insert Advanced Characters and Objects</li>
+  <li><strong>Topic B: </strong>Modify Message Settings, Properties, and Options</li>
+  <li><strong>Topic C: </strong>Use Automatic Replies</li>
+</ul>
+<p><strong>Lesson 2: </strong>Advanced Message Management</p>
+<ul>
+  <li><strong>Topic A: </strong>Sort Messages</li>
+  <li><strong>Topic B: </strong>Filter Messages</li>
+  <li><strong>Topic C: </strong>Organize Messages</li>
+  <li><strong>Topic D: </strong>Search Messages</li>
+  <li><strong>Topic E: </strong>Manage Junk Mail</li>
+  <li><strong>Topic F: </strong>Manage Your Mailbox</li>
+</ul>
+<p><strong>Lesson 3: </strong>Advanced Calendar Management</p>
+<ul>
+  <li><strong>Topic A: </strong>Manage Advanced Calendar Options</li>
+  <li><strong>Topic B: </strong>Manage Additional Calendars</li>
+  <li><strong>Topic C: </strong>Manage Meeting Responses</li>
+</ul>
+<p><strong>Lesson 4: </strong>Advanced Contact Management</p>
+<ul>
+  <li><strong>Topic A: </strong>Edit an Electronic Business Card</li>
+  <li><strong>Topic B: </strong>Manage Advanced Contacts Options</li>
+  <li><strong>Topic C: </strong>Forward Contacts</li>
+  <li><strong>Topic D: </strong>Export Contacts</li>
+</ul>
+<p><strong>Lesson 5: </strong>Managing Activities by Using Tasks and Journal Entries</p>
+<ul>
+  <li><strong>Topic A: </strong>Assign and Manage Tasks</li>
+  <li><strong>Topic B: </strong>Record and Modify Journal Entries</li>
+</ul>
+<p><strong>Lesson 6: </strong>Sharing Workspaces with Others</p>
+<ul>
+  <li><strong>Topic A: </strong>Delegate Access to Mail Folders</li>
+  <li><strong>Topic B: </strong>Share Your Calendar</li>
+  <li><strong>Topic C: </strong>Share Your Contacts</li>
+</ul>
+<p><strong>Lesson 7: </strong>Managing Outlook Data Files</p>
+<ul>
+  <li><strong>Topic A: </strong>Back Up Outlook Items</li>
+  <li><strong>Topic B: </strong>Change Data File Settings</li>
+</ul>

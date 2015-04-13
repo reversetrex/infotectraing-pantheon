@@ -1,0 +1,12 @@
+<p>Upon completing this course, the student will be able to meet these overall objectives:</p>
+<ul>
+ <li>Analyze campus network designs</li>
+ <li>Implement VLANs in a network campus</li>
+ <li>Implement spanning tree</li>
+ <li>Implement inter-VLAN routing in a campus network</li>
+ <li>Implement a highly available network</li>
+ <li>Implement high-availability technologies and techniques using multilayer switches</li>
+ <li>Implement security features in a switched network</li>
+ <li>Integrate WLANs into a campus network</li>
+ <li>Accommodate voice and video in campus networks</li>
+</ul>

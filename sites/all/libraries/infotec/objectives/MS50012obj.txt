@@ -1,0 +1,32 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Describe the Microsoft IT life cycle and its frameworks.</li>
+  <li>Explain the changing quadrant, its mission of service, service management functions, and operations management review.</li>
+  <li>Recognize the need in an IT environment for using a controlled approach to change.</li>
+  <li>Describe the change management process.</li>
+  <li>Explain how and why changes are classified by priority and category.</li>
+  <li>Describe the roles and responsibilities of the change advisory board (CAB) and the IT executive committee (ITEC).</li>
+  <li>Describe the authorization process for standard, minor, significant, and major changes.</li>
+  <li>Explain change development and describe how it is integrated into the release management process.</li>
+  <li>Recognize the need in an IT environment for applying standard and minor change processes.</li>
+  <li>Use a configuration management system.</li>
+  <li>Describe the processes for preparing changes for release into the production environment.</li>
+  <li>Describe the tasks for release design and  building.</li>
+  <li>Describe the tasks in acceptance testing.</li>
+  <li>Explain the role the release readiness review plays in the release management process.</li>
+  <li>Recognize the need in an IT environment for implementing configuration management.</li>
+  <li>Design effective rollback plans.</li>
+  <li>Describe the tasks involved in preparing a release.</li>
+  <li>Describe the tasks needed to deploy a change into a production environment.</li>
+  <li>Describe the activities involved in setting up configuration management.</li>
+  <li>Describe the sequence of tasks involved in establishing configuration items.</li>
+  <li>Describe the tasks involved in accessing configuration items.</li>
+  <li>Describe the tasks involved in changing configuration items.</li>
+  <li>Describe the tasks involved in reviewing configuration items.</li>
+  <li>Recognize the need in an IT environment for managing emergency changes.</li>
+  <li>Apply a release planning process.</li>
+  <li>Describe how change process activities are expedited for emergency changes.</li>
+  <li>Describe the roles and responsibilities of the CAB emergency committee.</li>
+  <li>Manage change in an IT environment by using change management, release  management, and configuration management processes.</li>
+</ul>

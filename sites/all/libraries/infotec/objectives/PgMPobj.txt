@@ -1,0 +1,22 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+
+<ul>
+  <li>Describe the organizational management processes.</li>
+  <li>Identify the program management framework.</li>
+  <li>Describe the basic program management themes.</li>
+  <li>Describe the program management life cycle phases.</li>
+  <li>Identify various program management processes.</li>
+  <li>Describe the initiate program process.</li>
+  <li>Describe the tools involved in planning  program processes.</li>
+  <li>Identify the program infrastructure.</li>
+  <li>Describe how to plan program governance, stakeholder management, and communications.</li>
+  <li>Identify methods to plan and analyze risk management.</li>
+  <li>Describe the plan program cost and budget processes.</li>
+  <li>Describe the plan program procurement and contracts processes.</li>
+  <li>Describe the plan program quality and audits process.</li>
+  <li>Describe the processes involved in executing a program.</li>
+  <li>Describe the processes involved in monitoring and controlling program integration, scope, time, and cost.</li>
+  <li>Describe the control of program quality and communications.</li>
+  <li>Identify the steps involved in monitoring and controlling program performance, risks, and contracts.</li>
+  <li>Describe the program closure processes.</li>
+</ul>

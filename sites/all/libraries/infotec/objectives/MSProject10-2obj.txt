@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Exchange project plan data with other applications.</li>
+  <li>Update a project plan.</li>
+  <li>Manage project costs.</li>
+  <li>Report project data visually.</li>
+  <li>Reuse project plan information.</li>
+</ul>

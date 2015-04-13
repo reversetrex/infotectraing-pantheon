@@ -1,0 +1,33 @@
+<p><strong> Unit 1: Creating Images for the Web </strong></p>
+<ul>
+  <li> Topic 1A: Optimize Images for the Web </li>
+  <li>Topic 1B: Slice Images </li>
+  <li>Topic 1C: Create an Animation in Photoshop</li>
+</ul>
+<p><strong> Unit 2: Preparing for Cross-Platform Viewing of Images </strong></p>
+<ul>
+  <li> Topic 2A: Explore Web Color Management </li>
+  <li>Topic 2B: Compensate for Display Differences Across Platforms</li>
+</ul>
+<p><strong> Unit 3: Managing Color </strong></p>
+<ul>
+  <li> Topic 3A: Apply Color Management Settings </li>
+  <li>Topic 3B: Configure Color Settings </li>
+  <li>Topic 3C: Apply a Color Handling Method </li>
+  <li>Topic 3D: Correct Image Color</li>
+</ul>
+<p><strong> Unit 4: Using Advanced Image and Video Support </strong></p>
+<ul>
+  <li> Topic 4A: Create High Dynamic Range Images </li>
+  <li>Topic 4B: Use the Camera Raw Format </li>
+  <li>Topic 4C: Preview an Image on a Video Monitor</li>
+</ul>
+<p><strong> Unit 5: Automating Photoshop Tasks </strong></p>
+<ul>
+  <li> Topic 5A: Automate Photoshop Tasks </li>
+  <li>Topic 5B: Using Scripts in Photoshop</li>
+</ul>
+<p><strong> Unit 6: Integrating Variables with Photoshop </strong></p>
+<ul>
+  <li> Topic 6A: Create Data Sets Using Variables </li>
+</ul>

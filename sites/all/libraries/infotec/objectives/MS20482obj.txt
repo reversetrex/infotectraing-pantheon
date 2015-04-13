@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Add animations and transitions in a Windows Store app to improve the user experience.</li>
+    <li>Localize the Windows Store app UI.</li>
+    <li>Brand the Windows Store app and improve the loading experience with a splash screen.</li>
+    <li>Use various storage mechanisms, choose a suitable caching strategy for their Windows Store app, and use advanced file access methods.</li>
+    <li>Create custom controls, extend templated controls, and create and consume WinMD components.</li>
+    <li>Implement the Print and Settings contracts and the Play To API.</li>
+    <li>Work with the Push Notification Service (WNS).</li>
+    <li>Capture media with the camera and microphone.</li>
+    <li>Create and consume background tasks.</li>
+    <li>Discover device capabilities, interact with devices, and act upon sensor data.</li>
+    <li>Implement Windows Store trial licensing and in-app purchasing and advertising.</li>
+    <li>Understand how to manage Windows authentication and web authentication in Windows Store apps.</li>
+    <li>Diagnose problems and monitor application behavior using tracing and profiling tools and APIs.</li>
+</ul>

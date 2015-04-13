@@ -1,0 +1,80 @@
+<p><strong>Module 1: Preparing to Deploy Microsoft  Office 2007</strong></p>
+<p>In this module, students learn the  benefits of and system requirements needed to deploy Microsoft Office 2007.  Students are also introduced to a number of resources and tools that will  assist in the deployment of the 2007 Microsoft Office system client products.</p>
+<ol>
+  <li>Introduction to Microsoft Office 2007</li>
+  <li>Identifying Office 2007 Deployment Resources</li>
+  <li>Microsoft Office Deployment Guidelines and Technologies</li>
+</ol>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Describe the products and benefits of the 2007 Microsoft Office system.</li>
+  <li>Describe the various resources available to assist in the deployment of the 2007 Microsoft Office system client.</li>
+  <li>Identify technologies and apply guidelines for planning, testing, and deploying the 2007 Microsoft Office system client.</li>
+</ol>
+
+<p><strong>Module 2: Planning for a Microsoft Office 2007 Deployment</strong></p>
+<p>In this module, students learn the  benefits and deployment considerations of the Office 2007 Open XML file format. The Microsoft Office Migration Planning Manager is also introduced, which helps organizations analyze and identify potential file conversion or compatibility issues.</p>
+<ol>
+  <li>Planning for the Office 2007 Open XML File Format</li>
+  <li>Assessing the Network Environment for Office 2007</li>
+</ol>
+<p><strong>Lab: Planning for a Microsoft Office 2007 Deployment</strong></p>
+<p>After completing this module, students  will be able to:</p>
+<ol>
+  <li>Describe and plan for the Office 2007 open XML format.</li>
+  <li>Assess the network environment to identify interoperability issues with the deployment of the 2007 Microsoft Office system client.</li>
+  <li>Use the Microsoft Office Migration Planning Manager to analyze and identify file compatibility issues.</li>
+  <li>Use the Microsoft Office File Conversion Tool to convert files to the new Microsoft Office Open XML format.</li>
+</ol>
+
+<p><strong>Module 3: Understanding the Office 2007 Setup  Architecture</strong></p>
+<p>In this module, students learn the  benefits and considerations for using and deploying the local installation  source, and the general setup sequence of events for Office 2007.</p>
+<ol>
+  <li>Understanding the Use of the Local Installation Source</li>
+  <li>Setup Sequence of Events in the 2007 Office System</li>
+</ol>
+<p><strong>Lab: Installing Microsoft Office 2007</strong></p>
+<p>After completing this module, students  will be able to:</p>
+<ol>
+  <li>Describe how the local installation source benefits an Office 2007 installation.</li>
+  <li>Explain the Office 2007 setup sequence of events.</li>
+  <li>Install Microsoft Office 2007 on a network client.</li>
+</ol>
+
+<p><strong>Module 4: Customizing the Office 2007  Installation</strong></p>
+<p>In this module, students learn how to  customize an installation and deployment using Office 2007 customization tools.</p>
+<ol>
+  <li>Configuring the Installation</li>
+  <li>Customizing the User Environment Using Group Policy</li>
+</ol>
+<p><strong>Lab: Customizing the Office 2007 Installation</strong></p>
+<p>After completing this module, students  will be able to:</p>
+<ol>
+  <li>Customize an Office 2007 installation.</li>
+  <li>Use Group Policy to control an Office 2007 user environment.</li>
+</ol>
+
+<p><strong>Module 5: Selecting an Office 2007 Deployment Method</strong></p>
+<p>In this module, students are introduced  to a number of deployment methods based upon various management techniques.  Students then focus upon how to deploy Office 2007 using the Active Directory Group Policy method.</p>
+<ol>
+  <li>Understanding Infrastructure Management Techniques</li>
+  <li>Using Group Policy to Deploy Office 2007</li>
+</ol>
+<p><strong>Lab: Deploying Office 2007 Using Group Policy</strong></p>
+<p>After completing this module, students  will be able to:</p>
+<ol>
+  <li>Select an appropriate deployment method based upon an organization's infrastructure management process.</li>
+  <li>Use Group Policy to deploy Office 2007.</li>
+</ol>
+
+<p><strong>Module 6: Office 2007 Multilingual  Architecture</strong></p>
+<p>In this module, students learn how Office 2007 addresses a multilingual environment.</p>
+<ol>
+  <li>Overview of Multilingual Architecture in Office 2007</li>
+  <li>Deploying Multiple Languages in Office 2007</li>
+</ol>
+<p><strong>Lab: Deploying Multiple Language Versions of Office 2007</strong></p>
+<p>After completing this module, students  will be able to:</p>
+<ul>
+  <li>Describe how Office 2007 addresses multiple languages within a network environment.</li>
+</ul>

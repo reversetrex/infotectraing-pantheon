@@ -1,0 +1,219 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Exploring the New Layout</li>
+    <li>Understanding Backstage View</li>
+    <li>Understanding Application Layout</li>
+    <li>Insert Tab</li>
+    <li>Page Layout Tab</li>
+    <li>References Tab</li>
+    <li>Mailings Tab</li>
+    <li>Review Tab</li>
+    <li>View Tab</li>
+    <li>Hiding the Ribbon</li>
+    <li>Status Bar</li>
+    <li>Version Comparison</li>
+  </ul>
+  <h3>Section B: Navigating Documents</h3>
+  <ul>
+    <li>Show/Hide Paragraph Marks</li>
+    <li>Using CTRL+END/HOME</li>
+    <li>Word-by-Word Navigation</li>
+    <li>Paragraph Navigation</li>
+    <li>Page Navigation</li>
+    <li>Selecting Text</li>
+    <li>Views Defined</li>
+    <li>Print Layout/Full Screen Reading Views</li>
+    <li>Customizing View Options</li>
+    <li>Web Layout and Outline Views</li>
+    <li>Contextual Tabs</li>
+    <li>Working in Outline View</li>
+    <li>Draft View</li>
+    <li>Customizing the Status Bar</li>
+  </ul>
+  <h3>Section C: Using Backstage</h3>
+  <ul>
+    <li>Document Information</li>
+    <li>Document Permissions</li>
+    <li>Manage Versions</li>
+    <li>Recent, New, and Print Options</li>
+    <li>Save &amp; Send Options</li>
+    <li>Change File Type on Save</li>
+    <li>Compatibility Check</li>
+    <li>Using Help</li>
+    <li>ALT Keyboard Shortcuts</li>
+    <li>File Management</li>
+    <li>File Sorting</li>
+  </ul>
+  <h3>Section D: Managing Document Design</h3>
+  <ul>
+    <li>Using Built-In Themes</li>
+    <li>Customizing Themes</li>
+    <li>Saving Themes</li>
+    <li>Using Quick Parts</li>
+    <li>Creating and Inserting AutoText</li>
+    <li>Document Property</li>
+    <li>Field Quick Parts</li>
+    <li>Building Blocks Organizer</li>
+  </ul>
+  <h3>Section E: Preparing Documents for Printing</h3>
+  <ul>
+    <li>Spelling and Grammar Checking</li>
+    <li>Adding Words to Dictionary</li>
+    <li>Using the Thesaurus</li>
+    <li>Proofing Options</li>
+    <li>AutoCorrect Options</li>
+    <li>Using AutoCorrect</li>
+    <li>Readability Statistics</li>
+    <li>Using Find</li>
+    <li>Replacing Text</li>
+    <li>Find Options</li>
+    <li>Creating Comments</li>
+    <li>Navigating Comments</li>
+  </ul>
+  <h3>Section F: Printing</h3>
+  <ul>
+    <li>Print Preview in Backstage</li>
+    <li>Print Options</li>
+    <li>Help Options</li>
+    <li>Office.com Help</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Working with Templates</h3>
+  <ul>
+    <li>Built-in Templates</li>
+    <li>New from Template</li>
+    <li>Creating a Template</li>
+    <li>Office.com Templates</li>
+  </ul>
+  <h3>Section B: Formatting Text</h3>
+  <ul>
+    <li>Font Formatting Shortcuts</li>
+    <li>Mini Formatting Toolbar</li>
+    <li>Set Font Defaults</li>
+    <li>Format Text Effects</li>
+    <li>Working with Text Effects</li>
+    <li>Formatting Tools</li>
+    <li>Using Format Painter</li>
+  </ul>
+  <h3>Section C: Formatting Paragraphs</h3>
+  <ul>
+    <li>Paragraph Formatting Shortcuts</li>
+    <li>Paragraph and Page Defaults</li>
+    <li>Indentation</li>
+    <li>First Line Indents</li>
+    <li>Tab Stop Types</li>
+    <li>Creating Tab Stops</li>
+    <li>Dot Leader</li>
+    <li>Justification</li>
+    <li>Reset Paragraph Formatting</li>
+  </ul>
+  <h3>Section D: Organizing Data</h3>
+  <ul>
+    <li>Tables Defined</li>
+    <li>Creating Tables</li>
+    <li>Drawing Tables</li>
+    <li>Inserting Quick Tables</li>
+    <li>Nested Tables</li>
+    <li>Adjusting Table Layout</li>
+    <li>Converting Text to Tables</li>
+    <li>Adjusting Table Alignment</li>
+    <li>Inserting Formulas in Tables</li>
+  </ul>
+  <h3>Section E: Bulleted and Numbered Lists</h3>
+  <ul>
+    <li>Using Bulleted Lists</li>
+    <li>Using Numbered Lists</li>
+    <li>Multilevel Lists</li>
+  </ul>
+  <h3>Section F: Manipulating Page Layout</h3>
+  <ul>
+    <li>Using Sections</li>
+    <li>Inserting a Cover Page</li>
+    <li>Inserting a Blank Page</li>
+    <li>Inserting Breaks</li>
+    <li>Column Breaks</li>
+    <li>Inserting Column Breaks</li>
+    <li>Column Width</li>
+    <li>Page Size</li>
+  </ul>
+  <h3>Section G: Manipulating Page Backgrounds</h3>
+  <ul>
+    <li>Page Color</li>
+    <li>Page Borders</li>
+    <li>Watermarks</li>
+    <li>Customized Watermark</li>
+    <li>Manipulating Background Colors</li>
+  </ul>
+  <h3>Section H: Headers and Footers</h3>
+  <ul>
+    <li>Inserting and Removing Headers</li>
+    <li>Inserting Footers</li>
+    <li>Navigating Headers and Footers</li>
+    <li>Header and Footer Options</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Working with Visual Content</h3>
+  <ul>
+    <li>Inserting Pictures</li>
+    <li>Formatting Pictures</li>
+    <li>Cropping Images</li>
+    <li>Inserting Clip Art</li>
+    <li>Image Text Wrapping</li>
+    <li>Adjust Wrapping</li>
+    <li>Working with Quick Styles</li>
+  </ul>
+  <h3>Section B: Shapes, SmartArt, and Charts</h3>
+  <ul>
+    <li>Inserting Shapes</li>
+    <li>Shape Styles</li>
+    <li>Shadow Effects</li>
+    <li>3-D Effects</li>
+    <li>Adding Text to Shapes</li>
+    <li>Inserting SmartArt</li>
+    <li>Customizing SmartArt</li>
+    <li>SmartArt Tools</li>
+    <li>Inserting Charts</li>
+    <li>Chart Quick Layout</li>
+    <li>Inserting Screenshots</li>
+    <li>Inserting Text Boxes</li>
+    <li>Customizing Text Boxes</li>
+    <li>Selection Pane</li>
+    <li>Saving Text Boxes</li>
+  </ul>
+  <h3>Section C: Customizing Document Styles</h3>
+  <ul>
+    <li>Applying Styles</li>
+    <li>Creating and Saving Styles</li>
+    <li>Table of Contents</li>
+    <li>Hyperlinks</li>
+    <li>Links within a Document</li>
+    <li>E-mail Links</li>
+  </ul>
+  <h3>Section D: Citing References</h3>
+  <ul>
+    <li>Adding Captions</li>
+    <li>Table of Figures</li>
+    <li>Inserting Footnotes</li>
+    <li>Bibliography Style</li>
+    <li>Inserting a Bibliography</li>
+    <li>Creating an Index</li>
+    <li>Table of Authorities</li>
+  </ul>
+  <h3>Section E: Mail Merge</h3>
+  <ul>
+    <li>Mail Merge Process</li>
+    <li>Step by Step Wizard</li>
+    <li>Add or Filter Recipients</li>
+    <li>Writing Your Letter</li>
+    <li>Completing the Merge</li>
+  </ul>
+  <h3>Section F: Document Collaboration</h3>
+  <ul>
+    <li>Track Changes</li>
+    <li>Send for Review</li>
+    <li>Compare Documents</li>
+    <li>Document Protection</li>
+    <li>AutoSave Options</li>
+    <li>Managing Versions</li>
+  </ul>

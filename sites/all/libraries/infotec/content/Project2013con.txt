@@ -1,0 +1,180 @@
+  <h2>Session 1</h2>
+    <h3>Section A: Project 2013 Introduction</h3>
+    <ul>
+      <li>Overview Project 2013</li>
+      <li>Launch Project 2013</li>
+      <li>Quick Access Toolbar and Ribbon</li>
+      <li>Timeline, Table, and Charts</li>
+      <li>Task Bar, Zoom Bar</li>
+      <li>Views</li>
+      <li>Gantt Chart, Resource Sheet</li>
+      <li>Task Usage View, Resource Usage View</li>
+      <li>Backstage View</li>
+      <li>New Project, Save Project, Open Project</li>
+      <li>Print, Share, or Export Project</li>
+      <li>Account and Project Options</li>
+      <li>Schedule, Proofing, and Calendar Options</li>
+      <li>Customize Ribbon</li>
+      <li>Trust Center and Add-Ins</li>
+    </ul>
+    <h3>Section B: Understand Projects</h3>
+    <ul>
+      <li>What is a Project?</li>
+      <li>Project Uniqueness</li>
+      <li>Project Management</li>
+      <li>Role of Project Manager</li>
+      <li>Project Management Body of Knowledge</li>
+      <li>PMBOK® Processes</li>
+      <li>Organizational Process Assets</li>
+      <li>Enterprise Environmental Factors</li>
+      <li>Stakeholders</li>
+      <li>The Project Team</li>
+      <li>The Project Life Cycle</li>
+      <li>Manage Project Constraints</li>
+      <li>Project Management Process Groups</li>
+      <li>Project Information</li>
+      <li>Project Management Information System</li>
+      <li>Project Charter Purpose</li>
+      <li>Project Charter Contents</li>
+    </ul>
+    <h3>Section C: Start a Project</h3>
+    <ul>
+      <li>Start Project from Scratch</li>
+      <li>Project Information</li>
+      <li>Summary Tasks</li>
+      <li>Create and Maintain Calendar</li>
+      <li>Work Breakdown Structure</li>
+      <li>WBS Samples</li>
+      <li>Create Manually Scheduled Tasks</li>
+      <li>Top-Down Scheduling</li>
+      <li>Task Entry</li>
+      <li>Subtasks</li>
+      <li>Auto Schedule</li>
+      <li>Insert Task</li>
+    </ul>
+    <h3>Section D: Manage Tasks</h3>
+    <ul>
+      <li>Build a Schedule</li>
+      <li>Task Order</li>
+      <li>Dependencies and Task Type</li>
+      <li>Unlink and Link Task</li>
+      <li>Change Dependency Type</li>
+      <li>View Schedule, Hide Column, Add Column</li>
+      <li>Task Mode, Set Date Constraints</li>
+      <li>Duration Change Reasons</li>
+      <li>Definition of Work</li>
+      <li>Task Type</li>
+    </ul>
+    <h3>Section E: Deadline Constraints and Recurring Tasks</h3>
+    <ul>
+      <li>Create Deadlines</li>
+      <li>Missed Deadline Indicators</li>
+      <li>Define Constraint Types</li>
+      <li>Resolve Constraint Conflicts</li>
+      <li>Recurring Tasks</li>
+      <li>Modify Outline Level</li>
+      <li>Milestone Tasks</li>
+      <li>Lags</li>
+      <li>Leads</li>
+    </ul>
+  <h2>Session 2</h2>
+    <h3>Section A: Project Resources</h3>
+    <ul>
+      <li>Resource Types</li>
+      <li>Add Resource Types</li>
+      <li>Manage Resource Types</li>
+      <li>Effort-Driven Task</li>
+      <li>Enter and Edit Max Units</li>
+      <li>Cost per Use</li>
+      <li>Resource Group</li>
+      <li>Create Generic Resources</li>
+    </ul>
+    <h3>Section B: Manage Assignments</h3>
+    <ul>
+      <li>Manage and Assign Resources</li>
+      <li>Assign Multiple Resources</li>
+      <li>Manage Resources with Durations</li>
+      <li>Resolve Overallocated Resources</li>
+      <li>Use Resource on Multiple Projects</li>
+      <li>Create Dependency between Projects</li>
+      <li>Assign Resource-Based Costs</li>
+      <li>Accrual Method and Rate Table</li>
+      <li>View Task Usage</li>
+      <li>Resource Usage View</li>
+      <li>Resource Form and Graph</li>
+      <li>Resource Allocation View</li>
+      <li>Team Planner and Level Resources</li>
+      <li>Remove a Resource</li>
+    </ul>
+    <h3>Section C: Track and Analyze a Project</h3>
+    <ul>
+      <li>Critical Path and Slack</li>
+      <li>View Critical Path</li>
+      <li>Apply a Table</li>
+      <li>Baselines</li>
+      <li>Create a Baseline</li>
+      <li>Tracking Gantt View</li>
+    </ul>
+    <h3>Section D: Update Task Progress</h3>
+    <ul>
+      <li>Update Actual Progress</li>
+      <li>Reschedule Uncompleted Work</li>
+      <li>Update Task Menu</li>
+      <li>Gantt Details View</li>
+      <li>Manage Uncompleted Work</li>
+      <li>Cancel and Split Tasks</li>
+      <li>Add Resources</li>
+      <li>Earned Value Calculations</li>
+    </ul>
+    <h3>Section E: Compare Progress and Baseline</h3>
+    <ul>
+      <li>Date, Work, and Cost Variations</li>
+      <li>View Baseline Value Comparisons</li>
+      <li>Cost, Schedule, and Variance Tables</li>
+      <li>Progress Lines</li>
+      <li>Manage Multiple Baselines</li>
+      <li>Task Inspector</li>
+      <li>Task Path</li>
+    </ul>
+  <h2>Session 3</h2>
+    <h3>Section A: Custom Fields, Views, and Tables</h3>
+    <ul>
+      <li>Apply Views</li>
+      <li>Create Custom Views</li>
+      <li>Create Custom Fields</li>
+      <li>Local Custom Fields</li>
+      <li>Create Resource Custom Field</li>
+      <li>Calendar View, Team Planner</li>
+      <li>Global Template</li>
+      <li>Create and Manage Tables</li>
+    </ul>
+    <h3>Section B: Manipulate Data</h3>
+    <ul>
+      <li>Sort Data</li>
+      <li>Filter Data</li>
+      <li>Highlight Data</li>
+      <li>Group Data</li>
+    </ul>
+    <h3>Section C: Communicate Project Information</h3>
+    <ul>
+      <li>Communication Methods</li>
+      <li>Reports</li>
+      <li>Printing Options</li>
+      <li>Sync to SharePoint</li>
+      <li>Timeline Feature, Format Timeline</li>
+      <li>Visual Report</li>
+      <li>Custom Reports</li>
+      <li>Saving and Sharing</li>
+    </ul>
+    <h3>Section D: Collaborate Project Information</h3>
+    <ul>
+      <li>Project Collaboration Options</li>
+      <li>Create Master Project</li>
+      <li>Create a Shared Resource Pool</li>
+      <li>Project Template</li>
+      <li>Existing Template, Online Template</li>
+      <li>Exchange Date with Excel</li>
+      <li>Create New Project from SharePoint</li>
+      <li>Save Project</li>
+      <li>Visual Basic Applications</li>
+    </ul>

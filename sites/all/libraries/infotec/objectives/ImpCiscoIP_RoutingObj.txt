@@ -1,0 +1,9 @@
+<p>Upon completing this course, the student will be able to meet these overall objectives:</p>
+<ul>
+ <li>Plan and document the configuration and verification of routing protocols and their optimization in enterprise networks.</li>
+ <li>Identify the technologies, components, and metrics of EIGRP used to implement and verify EIGRP routing in diverse, large-scale internetworks based on requirements.</li>
+ <li>Identify, analyze, and match OSPF multi-area routing functions and benefits for routing efficiencies in network operations in order to implement and verify OSPF routing in a complex enterprise network.</li>
+ <li>Implement and verify a redistribution solution in a multi-protocol network that uses Cisco IOS features to control path selection and provides a loop-free topology according to a given network design and requirements.</li>
+ <li>Evaluate common network performance issues and identify the tools needed to provide Layer 3 path control that uses Cisco IOS features to control the path.</li>
+ <li>Implement and verify a Layer 3 solution using BGP to connect an enterprise network to a service provider.</li>
+</ul>

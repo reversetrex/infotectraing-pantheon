@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Design IIS 7 Web Farms.</li>
+  <li>Optimize IIS 7 for Performance and Stability.</li>
+  <li>Design IIS 7 for Security.</li>
+  <li>Design IIS 7 for reliability, recovery, and monitoring.</li>
+  <li>Design and prepare a Terminal Services infrastructure.</li>
+  <li>Design a terminal services maintenance strategy.</li>
+  <li>Design a Windows Media Services installation for live and on-demand delivery.</li>
+  <li>Implement virtualization to consolidate servers, support legacy applications, and create a test environment.</li>
+  <li>Determine virtualization appropriateness and virtual server provisioning.</li>
+</ul>

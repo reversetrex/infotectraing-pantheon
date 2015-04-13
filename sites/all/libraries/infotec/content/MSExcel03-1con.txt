@@ -1,0 +1,62 @@
+<p><strong>Lesson 1: Getting Started with Excel</strong></p>
+<ul>
+  <li>An Overview of Excel</li>
+  <li>Navigate in Excel</li>
+  <li>Select Data</li>
+  <li>Enter Data</li>
+  <li>Save a Workbook</li>
+  <li>Obtain Help</li>
+</ul>
+<p><strong>Lesson 2: Modifying a Worksheet</strong></p>
+<ul>
+  <li>Move and Copy Data Between Cells</li>
+  <li>Fill Cells with Series of Data</li>
+  <li>Edit Cell Data</li>
+  <li>Insert and Delete Cells, Columns, and Rows</li>
+  <li>Find, Replace, and Go To Cell Data</li>
+  <li>Spell Check a Worksheet</li>
+</ul>
+<p><strong>Lesson 3: Performing Calculations</strong></p>
+<ul>
+  <li>Create Basic Formulas</li>
+  <li>Calculate with Functions</li>
+  <li>Copy Formulas and Functions</li>
+  <li>Create an Absolute Reference</li>
+</ul>
+<p><strong>Lesson 4: Formatting a Worksheet</strong></p>
+<ul>
+  <li>Change Font Size and Type</li>
+  <li>Add Borders and Color to Cells</li>
+  <li>Change Column Width and Row Height</li>
+  <li>Merge Cells</li>
+  <li>Apply Number Formats</li>
+  <li>Create a Custom Number Format</li>
+  <li>Align Cell Contents</li>
+  <li>Find and Replace Formats</li>
+  <li>Apply an AutoFormat</li>
+  <li>Apply Styles</li>
+</ul>
+<p><strong>Lesson 5: Developing a Workbook</strong></p>
+<ul>
+  <li>Format Worksheet Tabs</li>
+  <li>Reposition Worksheets in a Workbook</li>
+  <li>Insert and Delete Worksheets</li>
+  <li>Copy and Paste Worksheets</li>
+  <li>Copy a Workbook</li>
+</ul>
+<p><strong>Lesson 6: Printing Workbook Contents</strong></p>
+<ul>
+  <li>Set a Print Title</li>
+  <li>Create a Header and a Footer</li>
+  <li>Set Page Margins</li>
+  <li>Change Page Orientation</li>
+  <li>Insert and Remove Page Breaks</li>
+  <li>Print a Range</li>
+</ul>
+<p><strong>Lesson 7: Customizing Layout</strong></p>
+<ul>
+  <li>Split a Worksheet</li>
+  <li>Arrange Worksheets</li>
+  <li>Freeze and Unfreeze Rows and Columns</li>
+  <li>Hide and Unhide Worksheets</li>
+</ul>

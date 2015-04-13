@@ -1,0 +1,581 @@
+<p><strong>Module 01: Introduction to Incident Response and Handling</strong></p>
+<ul>
+  <li>Cyber Incident Statistics</li>
+  <li>Computer Security Incident</li>
+  <li>Information as Business Asset</li>
+  <li>Data Classification</li>
+  <li>Common Terminologies</li>
+  <li>Information Warfare</li>
+  <li>Key Concepts of Information Security</li>
+  <li>Vulnerability, Threat, and Attack</li>
+  <li>Types of Computer Security Incidents</li>
+  <li>Examples of Computer Security Incidents</li>
+  <li>Verizon Data Breach Investigations Report – 2008</li>
+  <li>Incidents That Required the Execution of Disaster Recovery Plans</li>
+  <li>Signs of an Incident</li>
+  <li>Incident Categories
+    <ul>
+    <li>Incident Categories: Low Level</li>
+    <li>Incident Categories: Middle Level</li>
+    <li>Incident Categories: High Level</li>
+    </ul>
+  </li>
+  <li>Incident Prioritization</li>
+  <li>Incident Response</li>
+  <li>Incident Handling</li>
+  <li>Use of Disaster Recovery Technologies</li>
+  <li>Impact of Virtualization on Incident Response and Handling</li>
+  <li>Estimating Cost of an Incident</li>
+  <li>Key Findings of Symantec Global Disaster Recovery Survey - 2009</li>
+  <li>Incident Reporting</li>
+  <li>Incident Reporting Organizations</li>
+  <li>Vulnerability Resources</li>
+</ul>
+<p><strong>Module 02: Risk Assessment</strong></p>
+<ul>
+  <li>Risk</li>
+  <li>Risk Policy</li>
+  <li>Risk Assessment</li>
+  <li>NIST's Risk Assessment Methodology
+    <ul>
+      <li>Step 1: System Characterization</li>
+      <li>Step 2: Threats Identification</li>
+      <li>Step 3: Identify Vulnerabilities</li>
+      <li>Step 4: Control Analysis</li>
+      <li>Step 5: Likelihood Determination</li>
+      <li>Step 6: Impact Analysis</li>
+      <li>Step 7: Risk Determination</li>
+      <li>Step 8: Control Recommendations</li>
+      <li>Step 9: Results Documentation</li>
+    </ul>
+  </li>
+  <li>Steps to Assess Risks at Work Place
+    <ul>
+      <li>Step 1: Identify Hazard</li>
+      <li>Step 2: Determine Who Will be Harmed and How</li>
+      <li>Step 3: Analyze Risks and Check for Precautions</li>
+      <li>Step 4: Implement Results of Risk Assessment</li>
+      <li>Step 5: Review Risk Assessment</li>
+    </ul>
+  </li>
+  <li>Risk Analysis
+    <ul>
+      <li>Need for Risk Analysis</li>
+      <li>Risk Analysis: Approach</li>
+    </ul>
+  </li>
+  <li>Risk Mitigation
+    <ul>
+      <li>Risk Mitigation Strategies</li>
+    </ul>
+  </li>
+  <li>Cost/Benefit Analysis</li>
+  <li>NIST Approach for Control Implementation</li>
+  <li>Residual Risk</li>
+  <li>Risk Management Tools
+    <ul>
+      <li>CRAMM</li>
+      <li>Acuity STREAM</li>
+      <li>Callio Secura 17799</li>
+      <li>EAR / Pilar</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Module 03: Incident Response and Handling Steps</strong></p>
+<ul>
+  <li>How to Identify an Incident</li>
+  <li>Handling Incidents</li>
+  <li>Need for Incident Response</li>
+  <li>Goals of Incident Response</li>
+  <li>Incident Response Plan
+    <ul>
+      <li>Purpose of Incident Response Plan</li>
+      <li>Requirements of Incident Response Plan</li>
+      <li>Preparation</li>
+    </ul>
+  </li>
+  <li>Incident Response and Handling Steps
+    <ul>
+      <li>Step 1: Identification</li>
+      <li>Step 2: Incident Recording</li>
+      <li>Step 3: Initial Response</li>
+      <li>Step 4: Communicating the Incident</li>
+      <li>Step 5: Containment</li>
+      <li>Step 6: Formulating a Response Strategy</li>
+      <li>Step 7: Incident Classification</li>
+      <li>Step 8: Incident Investigation</li>
+      <li>Step 9: Data Collection</li>
+      <li>Step 10: Forensic Analysis</li>
+      <li>Step 11: Evidence Protection</li>
+      <li>Step 12: Notify External Agencies</li>
+      <li>Step 13: Eradication</li>
+      <li>Step 14: Systems Recovery</li>
+      <li>Step 15: Incident Documentation</li>
+      <li>Step 16: Incident Damage and Cost Assessment</li>
+      <li>Step 17: Review and Update the Response Policies</li>
+    </ul>
+  </li>
+  <li>Training and Awareness</li>
+  <li>Security Awareness and Training Checklist</li>
+  <li>Incident Management
+    <ul>
+      <li>Purpose of Incident Management</li>
+      <li>Incident Management Process</li>
+      <li>Incident Management Team</li>
+    </ul>
+  </li>
+  <li>Incident Response Team
+    <ul>
+      <li>Incident Response Team Members</li>
+      <li>Incident Response Team Members Roles and Responsibilities</li>
+      <li>Developing Skills in Incident Response Personnel</li>
+      <li>Incident Response Team Structure</li>
+      <li>Incident Response Team Dependencies</li>
+      <li>Incident Response Team Services</li>
+    </ul>
+  </li>
+  <li>Defining the Relationship between Incident Response, Incident Handling, and Incident Management</li>
+  <li>Incident Response Best Practices</li>
+  <li>Incident Response Policy</li>
+  <li>Incident Response Plan Checklist</li>
+  <li>Incident Handling System: RTIR</li>
+  <li>RPIER 1st Responder Framework</li>
+</ul>
+<p><strong>Module 04: CSIRT</strong></p>
+<ul>
+  <li>What is CSIRT?</li>
+  <li>What is the Need of an Incident Response Team (IRT)</li>
+  <li>CSIRT Goals and Strategy</li>
+  <li>CSIRT Vision</li>
+  <li>Common Names of CSIRT</li>
+  <li>CSIRT Mission Statement</li>
+  <li>CSIRT Constituency</li>
+  <li>CSIRT Place in the Organization</li>
+  <li>CSIRT Relationship with Peers</li>
+  <li>Types of CSIRT Environments</li>
+  <li>Best Practices for creating a CSIR
+    <ul>
+      <li>Step 1: Obtain Management Support and Buy-in</li>
+      <li>Step 2: Determine the CSIRT Development Strategic Plan</li>
+      <li>Step 3: Gather Relevant Information</li>
+      <li>Step 4: Design your CSIRT Vision</li>
+      <li>Step 5: Communicate the CSIRT Vision</li>
+      <li>Step 6: Begin CSIRT Implementation</li>
+      <li>Step 7: Announce the CSIRT</li>
+      <li>Step 8: Evaluate CSIRT Effectiveness</li>
+    </ul>
+  </li>
+  <li>Role of CSIRTs</li>
+  <li>Roles in an Incident Response Team</li>
+  <li>CSIRT Services
+    <ul>
+      <li>Reactive Services</li>
+      <li>Proactive Services</li>
+      <li>Security Quality Management Services</li>
+    </ul>
+  </li>
+  <li>CSIRT Policies and Procedures
+    <ul>
+      <li>Attributes</li>
+      <li>Content</li>
+      <li>Validity</li>
+      <li>Implementation, Maintenance, and Enforcement</li>
+    </ul>
+  </li>
+  <li>How CSIRT Handles a Case</li>
+  <li>CSIRT Incident Report Form</li>
+  <li>Incident Tracking and Reporting Systems
+    <ul>
+      <li>Application for Incident Response Teams (AIRT)</li>
+      <li>BMC Remedy Action Request System</li>
+      <li>PGP Desktop Email</li>
+      <li>The GNU Privacy Guard (GnuPG)</li>
+      <li>Listserv</li>
+    </ul>
+  </li>
+  <li>CERT</li>
+  <li>CERT-CC</li>
+  <li>CERT(R) Coordination Center: Incident Reporting Form</li>
+  <li>CERT:OCTAVE
+    <ul>
+      <li>OCTAVE Method</li>
+      <li>OCTAVE-S</li>
+      <li>OCTAVE Allegro</li>
+    </ul>
+  </li>
+  <li>World CERTs
+    <ul>
+      <li>Australia CERT (AUSCERT)</li>
+      <li>Hong Kong CERT (HKCERT/CC)</li>
+      <li>Indonesian CSIRT (ID-CERT)</li>
+      <li>Japan CERT-CC (JPCERT/CC)</li>
+      <li>Malaysian CERT (MyCERT)</li>
+      <li>Pakistan CERT (PakCERT)</li>
+      <li>Singapore CERT (SingCERT)</li>
+      <li>Taiwan CERT (TWCERT)</li>
+      <li>China CERT (CNCERT/CC)</li>
+      <li>US-CERT</li>
+      <li>Government Forum of Incident Response and Security Teams (GFIRST)</li>
+      <li>Canadian CERT</li>
+      <li>Forum of Incident Response and Security Teams</li>
+      <li>CAIS/RNP</li>
+      <li>NIC BR Security Office Brazilian CERT</li>
+      <li>EuroCERT</li>
+      <li>FUNET CERT</li>
+      <li>SURFnet-CERT</li>
+      <li>DFN-CERT</li>
+      <li>JANET-CERT</li>
+      <li>CERT POLSKA</li>
+      <li>Swiss Academic and Research Network CERT</li>
+    </ul>
+  </li>
+  <li>http://www.first.org/about/organization/teams/</li>
+  <li>http://www.apcert.org/about/structure/members.html</li>
+  <li>IRTs Around the World</li>
+</ul>
+<p><strong>Module 05: Handling Network Security Incidents</strong></p>
+<ul>
+  <li>Denial-of-Service Incidents</li>
+  <li>Distributed Denial-of-Service Attack</li>
+  <li>Detecting DoS Attack</li>
+  <li>Incident Handling Preparation for DoS
+    <ul>
+      <li>DoS Response Strategies</li>
+      <li>Preventing a DoS Incident</li>
+      <li>Following the Containment Strategy to Stop DoS</li>
+    </ul>
+  </li>
+  <li>Unauthorized Access Incident
+    <ul>
+      <li>Detecting Unauthorized Access Incident</li>
+      <li>Incident Handling Preparation</li>
+      <li>Incident Prevention</li>
+      <li>Following the Containment Strategy to Stop Unauthorized Access</li>
+      <li>Eradication and Recovery</li>
+      <li>Recommendations</li>
+    </ul>
+  </li>
+  <li>Inappropriate Usage Incidents
+    <ul>
+      <li>Detecting the Inappropriate Usage Incidents</li>
+      <li>Incident Handling Preparation</li>
+      <li>Incident Prevention</li>
+      <li>Recommendations</li>
+    </ul>
+  </li>
+  <li>Multiple Component Incidents
+    <ul>
+      <li>Preparation for Multiple Component Incidents</li>
+      <li>Following the Containment Strategy to Stop Multiple Component Incidents</li>
+      <li>Recommendations</li>
+    </ul>
+  </li>
+  <li>Network Traffic Monitoring Tools
+    <ul>
+      <li>Ntop</li>
+      <li>EtherApe</li>
+      <li>Ngrep</li>
+      <li>SolarWinds: Orion NetFlow Traffic Analyzer</li>
+      <li>Nagios: op5 Monitor</li>
+      <li>CyberCop Scanner</li>
+    </ul>
+  </li>
+  <li>Network Auditing Tools
+    <ul>
+      <li>Nessus</li>
+      <li>Security Administrator's Integrated Network Tool (SAINT)</li>
+      <li>Security Auditor's Research Assistant (SARA)</li>
+      <li>Nmap</li>
+      <li>Netcat</li>
+      <li>Wireshark</li>
+      <li>Argus - Audit Record Generation and Utilization System</li>
+      <li>Snort</li>
+    </ul>
+  </li>
+  <li>Network Protection Tools
+    <ul>
+      <li>Iptables</li>
+      <li>Proventia Network Intrusion Prevention System (IPS)</li>
+      <li>NetDetector</li>
+      <li>TigerGuard</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Module 06: Handling Malicious Code Incidents</strong></p>
+<ul>
+  <li>Count of Malware Samples</li>
+  <li>Virus</li>
+  <li>Worms</li>
+  <li>Trojans and Spywares</li>
+  <li>Incident Handling Preparation</li>
+  <li>Incident Prevention</li>
+  <li>Detection of Malicious Code</li>
+  <li>Containment Strategy</li>
+  <li>Evidence Gathering and Handling</li>
+  <li>Eradication and Recovery</li>
+  <li>Recommendations</li>
+  <li>Antivirus Systems
+    <ul>
+      <li>Symantec: Norton AntiVirus 2009</li>
+      <li>Kaspersky Anti-Virus 2010</li>
+      <li>AVG Anti-Virus</li>
+      <li>McAfee VirusScan Plus</li>
+      <li>BitDefender Antivirus 2009</li>
+      <li>F-Secure Anti-Virus 2009</li>
+      <li>Trend Micro AntiVirus plus AntiSpyware 2009</li>
+      <li>HijackThis</li>
+      <li>Tripwire Enterprise</li>
+      <li>Stinger</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Module 07: Handling Insider Threats</strong></p>
+<ul>
+  <li>Insider Threats</li>
+  <li>Anatomy of an Insider Attack</li>
+  <li>Insider Risk Matrix</li>
+  <li>Insider Threats Detection</li>
+  <li>Insider Threats Response</li>
+  <li>Insider's Incident Response Plan</li>
+  <li>Guidelines for Detecting and Preventing Insider Threats
+    <ul>
+      <li>Human Resources</li>
+      <li>Network Security</li>
+      <li>Access Controls</li>
+      <li>Security Awareness Program</li>
+      <li>Administrators and Privileged Users</li>
+      <li>Backups</li>
+      <li>Audit Trails and Log Monitoring</li>
+    </ul>
+  </li>
+  <li>Employee Monitoring Tools
+    <ul>
+      <li>Activity Monitor</li>
+      <li>Net Spy Pro</li>
+      <li>Spector Pro</li>
+      <li>SpyAgent</li>
+      <li>Handy Keylogger</li>
+      <li>Anti Keylogger</li>
+      <li>Actual Spy</li>
+      <li>IamBigBrother</li>
+      <li>007 Spy Software</li>
+      <li>SpyBuddy</li>
+      <li>SoftActivity Keylogger</li>
+      <li>Elite Keylogger</li>
+      <li>Spy Sweeper</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Module 08: Forensic Analysis and Incident Response</strong></p>
+<ul>
+  <li>Computer Forensics</li>
+  <li>Objectives of Forensics Analysis</li>
+  <li>Role of Forensics Analysis in Incident Response</li>
+  <li>Forensic Readiness</li>
+  <li>Forensic Readiness And Business Continuity</li>
+  <li>Types of Computer Forensics</li>
+  <li>Computer Forensic Investigator</li>
+  <li>People Involved in Computer Forensics</li>
+  <li>Computer Forensics Process</li>
+  <li>Digital Evidence</li>
+  <li>Characteristics of Digital Evidence</li>
+  <li>Collecting Electronic Evidence</li>
+  <li>Challenging Aspects of Digital Evidence</li>
+  <li>Forensic Policy</li>
+  <li>Forensics in the Information System Life Cycle</li>
+  <li>Forensic Analysis Guidelines</li>
+  <li>Forensics Analysis Tools
+    <ul>
+      <li>Helix
+        <ul>
+          <li>Tools Present in Helix CD for Windows Forensics</li>
+        </ul>
+      </li>
+      <li>Windows Forensic Toolchest</li>
+      <li>Knoppix Linux</li>
+      <li>The Coroner's Toolkit (TCT)</li>
+      <li>EnCase Forensic</li>
+      <li>THE FARMER'S BOOT CD (FBCD)</li>
+      <li>DumpReg</li>
+      <li>DumpSec</li>
+      <li>DumpEvt</li>
+      <li>Foundstone Forensic ToolKit</li>
+      <li>Sysinternals Suite</li>
+      <li>NSLOOKUP</li>
+      <li>dig – DNS Lookup Utility</li>
+      <li>Whois</li>
+      <li>VisualRoute</li>
+      <li>Netstat Command</li>
+      <li>Linux: DD Command</li>
+      <li>Linux: Find Command</li>
+      <li>Linux: Arp Command</li>
+      <li>Linux: ps, ls, lsof, and ifconfig Commands</li>
+      <li>Linux: Top Command</li>
+      <li>Linux: Grep Command</li>
+      <li>Linux: Strings Command</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Module 09: Incident Reporting</strong></p>
+<ul>
+  <li>Incident Reporting</li>
+  <li>Why to Report an Incident</li>
+  <li>Why Organizations do not Report Computer Crimes</li>
+  <li>Whom to Report an Incident</li>
+  <li>How to Report an Incident</li>
+  <li>Details to be Reported</li>
+  <li>Preliminary Information Security Incident Reporting Form</li>
+  <li>CERT Incident Reference Numbers</li>
+  <li>Contact Information
+    <ul>
+      <li>Sample Report Showing Contact Information</li>
+    </ul>
+  </li>
+  <li>Summary of Hosts Involved
+    <ul>
+      <li>Sample Report Showing Summary of Hosts Involved</li>
+    </ul>
+  </li>
+  <li>Description of the Activity
+    <ul>
+      <li>Sample Report Showing Description of the Activity</li>
+    </ul>
+  </li>
+  <li>Log Extracts Showing the Activity
+    <ul>
+      <li>Example Showing the Log Extracts of an Activity</li>
+    </ul>
+  </li>
+  <li>Time Zone</li>
+  <li>Federal Agency Incident Categories</li>
+  <li>Organizations to Report Computer Incident
+    <ul>
+      <li>United State Internet Crime Task Force</li>
+      <li>Internet Crime Complaint Center (IC3)</li>
+      <li>Computer Crime &amp; Intellectual Property Section</li>
+      <li>Internet Watch Foundation (IWF)</li>
+    </ul>
+  </li>
+  <li>Incident Reporting Guidelines</li>
+  <li>Sample Incident Reporting Form</li>
+  <li>Sample Post Incident Report Form</li>
+</ul>
+<p><strong>Module 10: Incident Recovery</strong></p>
+<ul>
+  <li>Incident Recovery</li>
+  <li>Principles of Incident Recovery</li>
+  <li>Incident Recovery Steps</li>
+  <li>Contingency/Continuity of Operations Planning</li>
+  <li>Business Continuity Planning</li>
+  <li>Incident Recovery Plan</li>
+  <li>Incident Recovery Planning Process
+    <ul>
+      <li>Incident Recovery Planning Team</li>
+      <li>Business Impact Analysis</li>
+      <li>Incident Recovery Plan Implementation</li>
+      <li>Incident Recovery Training</li>
+      <li>Incident Recovery Testing</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Module 11: Security Policies and Laws</strong></p>
+<ul>
+  <li>Security Policy</li>
+  <li>Key Elements of Security Policy</li>
+  <li>Goals of a Security Policy</li>
+  <li>Characteristics of a Security Policy</li>
+  <li>Design of Security Policy</li>
+  <li>Implementing Security Policies</li>
+  <li>Acceptable Use Policy (AUP)</li>
+  <li>Access Control Policy
+    <ul>
+      <li>Sample Access Control Policy</li>
+      <li>Importance of Access Control Policies</li>
+    </ul>
+  </li>
+  <li>Asset Control Policy</li>
+  <li>Audit Trail Policy
+    <ul>
+      <li>Sample Audit Trail Policy 1</li>
+      <li>Importance of Audit Trail Policy</li>
+    </ul>
+  </li>
+  <li>Logging Policy
+    <ul>
+      <li>Importance of Logging Policies</li>
+    </ul>
+  </li>
+  <li>Documentation Policy</li>
+  <li>Evidence Collection Policy</li>
+  <li>Evidence Preservation Policy</li>
+  <li>Information Security Policy
+    <ul>
+      <li>Information Security Policy: University of California</li>
+      <li>Information Security Policy: Pearce &amp; Pearce, Inc.</li>
+      <li>Importance of Information Security Policy</li>
+    </ul>
+  </li>
+  <li>National Information Assurance Certification &amp; Accreditation Process (NIACAP) Policy
+    <ul>
+      <li>Importance of NIACAP Policy</li>
+    </ul>
+  </li>
+  <li>Physical Security Policy
+    <ul>
+      <li>Sample Physical Security Policy 1</li>
+      <li>Sample Physical Security Policy 2</li>
+      <li>Importance of Physical Security Policies</li>
+    </ul>
+  </li>
+  <li>Physical Security Guidelines</li>
+  <li>Personnel Security Policies &amp; Guidance</li>
+  <li>Law and Incident Handling
+    <ul>
+      <li>Role of Law in Incident Handling</li>
+      <li>Legal Issues When Dealing With an Incident</li>
+      <li>Law Enforcement Agencies</li>
+    </ul>
+  </li>
+  <li>Laws and Acts
+    <ul>
+      <li>Searching and Seizing Computers without a Warrant
+        <ul>
+          <li>&#167; A: Fourth Amendment's &quot;Reasonable Expectation of Privacy&quot; in Cases Involving Computers: General Principles</li>
+          <li>&#167; A.4: Private Searches</li>
+        </ul>
+      </li>
+      <li>The Privacy Protection Act</li>
+      <li>Federal Information Security Management Act (FISMA)</li>
+      <li>Mexico</li>
+      <li>Brazilian Laws</li>
+      <li>Canadian Laws</li>
+      <li>United Kingdom's Laws</li>
+      <li>Belgium Laws</li>
+      <li>German Laws</li>
+      <li>Italian Laws</li>
+      <li>Cybercrime Act 2001</li>
+      <li>Information Technology Act</li>
+      <li>Singapore Laws</li>
+      <li>Sarbanes-Oxley Act</li>
+      <li>Social Security Act</li>
+      <li>Gramm-Leach-Bliley Act</li>
+      <li>Health Insurance Portability and Accountability Act (HIPAA)</li>
+    </ul>
+  </li>
+  <li>Intellectual Property Laws
+    <ul>
+      <li>Intellectual Property</li>
+      <li>US Laws for Trademarks and Copyright</li>
+      <li>Australia Laws For Trademarks and Copyright</li>
+      <li>UK Laws for Trademarks and Copyright</li>
+      <li>China Laws for Trademarks and Copyright</li>
+      <li>Indian Laws for Trademarks and Copyright</li>
+      <li>Japanese Laws for Trademarks and Copyright</li>
+      <li>Canada Laws for Trademarks and Copyright</li>
+      <li>South African Laws for Trademarks and Copyright</li>
+      <li>South Korean Laws for Trademarks and Copyright</li>
+      <li>Belgium Laws for Trademarks and Copyright</li>
+      <li>Hong Kong Laws for Intellectual Property  </li>
+    </ul>
+  </li>
+</ul>

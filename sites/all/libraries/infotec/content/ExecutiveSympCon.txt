@@ -1,0 +1,21 @@
+<p> Unit 1: Introduction to Active Directory Infrastructure </p>
+<p> Unit 2: Implementing an Active Directory Forest and Domain Structure </p>
+<p> Unit 3: Implementing an Organizational Unit Structure </p>
+<p> Unit 4: Implementing User, Group and Computer Accounts </p>
+<p> Unit 5: Implementing Group Policy </p>
+<p> Unit 6: Managing Access to Resources </p>
+<p> Unit 7: Managing and Maintaining a Server Environment </p>
+<p> Unit 8: Managing an Application Server Environment </p>
+<p> Unit 9: Managing Disaster Recovery </p>
+<p> Unit 10: Maintaining Software by Using Software Update Services </p>
+<p> Unit 11: Planning a PKI and an IPSec Deployment </p>
+<p>&nbsp;</p>
+<p> Unit 1: Securing Exchange Server 2003 </p>
+<p> Unit 2: Managing Routing </p>
+<p> Unit 3: Managing Mobile Devices with Exchange 2003 </p>
+<p> Unit 4: Planning for and Recovering from Disasters </p>
+<p> Unit 5: Overview of Microsoft ISA Server </p>
+<p> Unit 6: Configuring ISA Server as a Firewall </p>
+<p> Unit 7: Integrating ISA Server 2004 and Microsoft Exchange Server </p>
+<p> Unit 8: Advanced Application and Web Filtering </p>
+<p> Unit 9: Configuring Virtual Private Network Access for Remote Clients and Networks </p>

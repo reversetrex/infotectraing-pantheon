@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Plan and implement local and remote management methods</li>
+    <li>Plan and implement Windows 8 installation methods</li>
+    <li>Manage user authentication and intranet connectivity</li>
+    <li>Implement encryption and maintain endpoint security</li>
+    <li>Manage user settings, profiles, file resources and print resources</li>
+    <li>Manage and maintain remote access and extranet connectivity</li>
+    <li>Manage and maintain Windows Store apps and desktop apps</li>
+    <li>Configure cloud services and manage Windows 8 clients with Windows Intune</li>
+    <li>Plan and implement Windows 8 recovery solutions</li>
+</ul>

@@ -1,0 +1,1 @@
+This course enables a network administrator to deploy a WLAN Enterprise solution through the identification and successful implementation of site-appropriate hardware and software features in a Cisco Unified Wireless Network.

@@ -1,0 +1,10 @@
+<ul>
+  <li>Properly assemble a patch cord using anaerobic epoxy that meets or exceeds TIA/EIA-568-B.3 loss requirements for a mated pair. (0.75 dB)</li>
+  <li>Properly assemble a patch cord using oven-cured epoxy that meets or exceeds TIA/EIA-568-B.3 loss requirements for a mated pair. (0.75 dB)</li>
+  <li>Properly assemble a mechanical splice that meets or exceeds TIA/EIA-568-B.3 attenuation requirement. (0.3 dB)</li>
+  <li>Properly assemble a fusion splice.</li>
+  <li>Measure bi-directional loss in a splice with a light source and power meter.</li>
+  <li>Measure bi-directional loss in a fiber optic link with a light source and power meter using one of the TIA/EIA-526-14A methods.</li>
+  <li>Measure the bi-directional loss in a mated pair with a light source and power meter.</li>
+  <li>Properly evaluate a connector endface as defined by TIA/EIA-455-57B.</li>
+</ul>

@@ -1,0 +1,13 @@
+<p>Topics covered in this course include:</p>
+<ul>
+  <li>Troubleshooting the XenApp environment</li>
+  <li>Scaling the XenApp environment</li>
+  <li>Creating farm redundancy</li>
+  <li>Maintaining the XenApp environment</li>
+  <li>Optimizing the XenApp environment</li>
+  <li>Optimizing the user environment</li>
+  <li>Optimizing printing</li>
+  <li>Securing XenApp</li>
+  <li>Monitoring XenApp with standard utilities</li>
+  <li>Monitoring XenApp with EdgeSight</li>
+</ul>

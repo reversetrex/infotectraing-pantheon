@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p> 
+<ul>
+  <li>Control color and typography.</li>
+  <li> Create style sheets that cascade according to established guidelines.</li>
+  <li> Design content sections using box properties.</li>
+  <li> Control page layouts with CSS positioning.</li>
+  <li> Enhance an existing design.</li>
+  <li> Create alternate style sheets and link pages to them to enhance the accessibility and functionality of Web sites.</li>
+</ul>

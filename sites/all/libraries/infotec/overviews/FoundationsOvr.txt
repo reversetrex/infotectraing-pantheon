@@ -1,0 +1,9 @@
+<strong>CIW Internet Business Foundations</strong> prepares you to be effective in an online business environment. Topics include Internet connection methods, protocols, the Domain Name System (DNS), web browsers, cookies, plug-ins and file management. Security, search engines, e-mail client configuration, instant messages and news groups are also covered.
+
+<br><br>
+
+<strong>CIW Site Development Foundations</strong> covers essential Web page development skills, including HTML, XHTML, hyperlinks, images, tables, forms, frames. Code validation, database connectivity, Web site project management, marketing and design concepts are also presented.
+
+<br><br>
+
+<strong>CIW Network Technology Foundations</strong> teaches essential networking technologies and skills, including TCP/IP, stable network creation, wireless networking and network troubleshooting. The book also covers essential network security concepts, including authentication, encryption and firewalls.

@@ -1,0 +1,35 @@
+<p><strong>Day 1:</strong></p>
+<ul>
+  <li> Theory:  Configuration Management</li>
+  <li> Case Study</li>
+  <li> Practical Assignment</li>
+  <li> Presentation of assignment results</li>
+</ul>
+<p><strong> Day 2:</strong></p>
+<ul>
+  <li> Theory:  Change Management</li>
+  <li>Practical Assignment</li>
+  <li> Presentation of assignment results</li>
+  <li> Feedback + evaluation of assignment results</li>
+</ul>
+<p><strong> Day 3:</strong></p>
+<ul>
+  <li> Theory:  Release Management</li>
+  <li> Practical Assignment</li>
+  <li> Presentation of assignment results</li>
+  <li> Feedback + evaluation of assignment results</li>
+</ul>
+<p><strong> Day 4:</strong></p>
+<ul>
+  <li> Theory:  Process Relationships</li>
+  <li> Practical Assignment</li>
+  <li> Presentation of assignment results</li>
+  <li> Feedback + evaluation of assignment results</li>
+</ul>
+<p><strong> Day 5:</strong></p>
+<ul>
+  <li> Theory:  Review Session</li>
+  <li> Sample Exam</li>
+  <li> Exam Prep</li>
+  <li> Evaluation of the course</li>
+</ul>

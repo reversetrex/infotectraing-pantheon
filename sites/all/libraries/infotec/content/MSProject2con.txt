@@ -1,0 +1,28 @@
+<p><strong> Unit 1: Exchanging Project Plan Data with Other Applications</strong></p>
+<p> Topic 1A: Import a Task List from an Excel File into a New Project Plan <br>
+Topic 1B: Create a Custom Import Map <br>
+Topic 1C: Export Project Plan Cost Data into Excel <br>
+Topic 1D: Copy a Picture into a Word Document <br>
+Topic 1E: Save Project Plan Information as a Web Page </p>
+<p><strong> Unit 2: Updating a Project Plan</strong></p>
+<p> Topic 2A: Enter Task Progress Information <br>
+Topic 2B: View Task Progress <br>
+Topic 2C: Split a Task <br>
+Topic 2D: Reschedule a Task <br>
+Topic 2E: Filter Tasks in a Project Plan <br>
+Topic 2F: Save an Interim Project Plan <br>
+Topic 2G: Create a Custom Table <br>
+Topic 2H: Add Custom Columns to a Table <br>
+Topic 2I: Hyperlink Documents to Tasks</p>
+<p><strong> Unit 3: Creating Custom Reports</strong></p>
+<p> Topic 3A: Create a Custom Report <br>
+Topic 3B: Modify a Custom Report's Header and Footer <br>
+Topic 3C: Add a Picture to a Report <br>
+Topic 3D: Modify a Custom Report's Margins <br>
+Topic 3E: Print a Custom Report</p>
+<p><strong> Unit 4: Re-using Project Plan Information</strong></p>
+<p> Topic 4A: Create a Project Plan Template <br>
+Topic 4B: Create a Custom Combination View <br>
+Topic 4C: Make Custom Views Available to Other Project Plans <br>
+Topic 4D: Share Resources <br>
+Topic 4E: Create a Master Project Plan </p>

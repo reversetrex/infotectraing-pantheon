@@ -1,0 +1,1 @@
+Implementing Cisco Unified CallManager Part 2 (CIPT2) v5.0 is designed to provide learners with the necessary knowledge and skills to enable video calls and to secure, monitor, and manage a Cisco Unified Communications solution based on Cisco Unified CallManager, the call-routing and signaling component of the Cisco Unified Communications solution.

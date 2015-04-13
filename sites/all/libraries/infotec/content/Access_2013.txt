@@ -1,0 +1,252 @@
+<h2>Session 1</h2>
+  <h3>Section A: Databases</h3>
+  <ul>
+    <li>What Is a Database?</li>
+    <li>Access Databases</li>
+    <li>Queries</li>
+    <li>Forms</li>
+    <li>Parts of Access Database</li>
+    <li>Tour of the Backstage View</li>
+    <li>Backstage View Recap</li>
+    <li>Get Help</li>
+    <li>Customize Quick Access Toolbar</li>
+  </ul>
+  <h3>Section B: Existing Data</h3>
+  <ul>
+    <li>Work with Existing Data</li>
+    <li>Adding Records to Labels</li>
+    <li>Updating Records</li>
+    <li>Deleting Records</li>
+    <li>Find Data</li>
+    <li>Replace Data</li>
+    <li>Sort Data</li>
+    <li>Filter Fields</li>
+    <li>Filter Multiple Fields</li>
+    <li>Filter Options</li>
+    <li>Add Row Totals</li>
+    <li>Change View</li>
+    <li>Run Queries</li>
+    <li>Forms</li>
+    <li>Reports</li>
+    <li>Navigation Options</li>
+  </ul>
+  <h3>Section C: Relational Databases</h3>
+  <ul>
+    <li>Flat vs. Relational Databases</li>
+    <li>Flat File</li>
+    <li>Relational Database</li>
+    <li>Rule 1</li>
+    <li>Rule 2</li>
+    <li>Rule 3</li>
+    <li>Rule 4</li>
+    <li>Rule 5</li>
+    <li>Identify Entities and Attributes</li>
+    <li>Planning a Database</li>
+    <li>Database Diagram</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Create a Database</h3>
+  <ul>
+    <li>Create Database with Template</li>
+    <li>Create Database with Wizard</li>
+    <li>Create Database in Old Format</li>
+    <li>Create a New Database</li>
+  </ul>
+  <h3>Section B: Create Tables</h3>
+  <ul>
+    <li>Create Tables in Datasheet View</li>
+    <li>Tables from Templates, Application Parts</li>
+    <li>Import Tables from Other Databases</li>
+    <li>Import External Data into Tables</li>
+    <li>Create Linked Tables from Other Sources</li>
+    <li>Create Tables in Design View</li>
+    <li>Format Tables, Hide Fields in Tables</li>
+    <li>Add Table Descriptions</li>
+    <li>Rename Tables</li>
+  </ul>
+  <h3>Section C: Create and Modify Fields</h3>
+  <ul>
+    <li>Table Views</li>
+    <li>Unique Values</li>
+    <li>Test Fields</li>
+    <li>Set Primary Key Fields, Auto Increment</li>
+    <li>Change Field Captions</li>
+    <li>Change Field Sizes</li>
+    <li>Change Field Data Types</li>
+    <li>Change Data Formats</li>
+    <li>Set Default Values</li>
+    <li>Require Value in Fields</li>
+    <li>Use of Input Masks</li>
+    <li>Validation Rules</li>
+    <li>Delete Fields</li>
+  </ul>
+  <h3>Section D: Manage Table Relationships</h3>
+  <ul>
+    <li>Create Field Lookups</li>
+    <li>Lookup Tips</li>
+    <li>Edit Reference between Tables</li>
+    <li>View Relationships</li>
+    <li>Create Relationships</li>
+    <li>Relationship Types</li>
+    <li>Edit Relationships</li>
+    <li>Enforce Referential Integrity</li>
+    <li>Modify Relationships</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Create Forms</h3>
+  <ul>
+    <li>Introduction to Creating Forms</li>
+    <li>Creating a Form</li>
+    <li>Create Form with Wizard</li>
+    <li>Split Forms and Blank Forms</li>
+    <li>Create Forms with Application Parts</li>
+    <li>Modify Forms</li>
+    <li>Layout View vs. Design View</li>
+    <li>Prebuilt Form Layouts</li>
+    <li>Manage Labels</li>
+    <li>Move Form Controls</li>
+    <li>Make Multiple Selections</li>
+    <li>Arrange Items in Forms</li>
+    <li>Work with Form Layouts</li>
+  </ul>
+  <h3>Section B: Enhance Forms</h3>
+  <ul>
+    <li>Insert Headers and Footers</li>
+    <li>Add Form Controls</li>
+    <li>Add a Button</li>
+    <li>Set Form Control Properties</li>
+    <li>Remove Form Controls</li>
+  </ul>
+  <h3>Section C: Organize Forms</h3>
+  <ul>
+    <li>Organizing a Form</li>
+    <li>Modify Tab Order in Forms</li>
+    <li>Modify Data Sources</li>
+    <li>Add Subforms</li>
+  </ul>
+  <h3>Section D: Format Forms</h3>
+  <ul>
+    <li>Format Forms, Apply Themes</li>
+    <li>Insert Backgrounds</li>
+    <li>Insert Images</li>
+    <li>Sort Records</li>
+    <li>Format Printing Layouts, Change Margins</li>
+  </ul>
+  <h3>Section E: Navigation Forms</h3>
+  <ul>
+    <li>Work with and Create Navigation Forms</li>
+    <li>Format Navigation Forms</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Queries</h3>
+  <ul>
+    <li>Purpose of Queries</li>
+    <li>Create Queries</li>
+    <li>Add Fields and Save Queries</li>
+  </ul>
+  <h3>Section B: Modify Queries</h3>
+  <ul>
+    <li>Hide and Remove Fields</li>
+    <li>Rename and Delete Queries</li>
+    <li>Modify and Sort Queries</li>
+    <li>Format Fields in Queries</li>
+  </ul>
+  <h3>Section C: Multitable Queries</h3>
+  <ul>
+    <li>Create Multitable Queries</li>
+    <li>Inner and Outer Joins</li>
+  </ul>
+  <h3>Section D: Criteria in Queries</h3>
+  <ul>
+    <li>Types of Criteria in Queries</li>
+    <li>Use Criteria in Queries</li>
+    <li>Use AND and OR in Queries</li>
+    <li>Use IN in Queries</li>
+    <li>Use NOT and BETWEEN in Queries</li>
+    <li>Use NULL in Queries</li>
+    <li>Use Wildcards in Queries</li>
+    <li>Use Parameters in Queries</li>
+  </ul>
+  <h3>Section E: Calculations in Queries</h3>
+  <ul>
+    <li>Calculated Fields</li>
+    <li>Expression Builder</li>
+    <li>Text Calculation</li>
+    <li>Numeric Calculation</li>
+    <li>Group and Summarize Data</li>
+    <li>Crosstab Queries</li>
+    <li>Return Top Result</li>
+  </ul>
+  <h3>Section F: Action Queries</h3>
+  <ul>
+    <li>Use Action Queries</li>
+    <li>Make Table Query</li>
+    <li>Append Query</li>
+    <li>Update Query</li>
+    <li>Delete Query</li>
+    <li>Recap Action Queries</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Create Reports</h3>
+  <ul>
+    <li>Build Reports</li>
+    <li>Create New Reports</li>
+    <li>Group Reports</li>
+    <li>Create Reports with Application Parts</li>
+  </ul>
+  <h3>Section B: Modify Reports</h3>
+  <ul>
+    <li>Modify Existing Reports</li>
+    <li>Manage Labels</li>
+    <li>Add Report Controls</li>
+    <li>Add Calculated Fields</li>
+    <li>Group Data by Fields</li>
+    <li>Sort Data</li>
+    <li>Change Sort Order</li>
+    <li>Modify Data Sources</li>
+  </ul>
+  <h3>Section C: Reports</h3>
+  <ul>
+    <li>Format Reports</li>
+    <li>Apply Themes and Add Backgrounds</li>
+    <li>Insert Images</li>
+    <li>Insert Headers and Footers</li>
+    <li>Insert Page Numbers</li>
+    <li>Format Reports into Multiple Columns</li>
+  </ul>
+  <h3>Section D: Print and Distribute Reports</h3>
+  <ul>
+    <li>Print and Distribute</li>
+    <li>Change Report Orientation</li>
+    <li>Set Margins</li>
+    <li>Print Reports</li>
+    <li>Export Data to Alternate Formats</li>
+    <li>Save and Run Export</li>
+    <li>Delete Reports</li>
+  </ul>
+  <h3>Section E: Finalize</h3>
+  <ul>
+    <li>Finalize Database</li>
+    <li>Setting a Form as a Startup Option</li>
+    <li>Saving Databases as Templates</li>
+    <li>Saving Databases to External Locations</li>
+    <li>Maintain Backward Compatibility</li>
+  </ul>
+  <h3>Section F: Protection</h3>
+  <ul>
+    <li>Protect a Database</li>
+    <li>Split Databases</li>
+    <li>Merge Databases</li>
+    <li>Encrypt Databases</li>
+  </ul>
+  <h3>Section G: Database Maintenance</h3>
+  <ul>
+    <li>Maintain a Database</li>
+    <li>Backup Database</li>
+    <li>Recover Data from Backups</li>
+    <li>Compact and Repair Database</li>
+  </ul>
+  <h3>Section H: Tips</h3>
+  <ul>
+    <li>Test Taking Tips</li>
+  </ul>

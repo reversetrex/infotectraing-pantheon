@@ -1,0 +1,15 @@
+<p><strong>Module 1: Installing, Upgrading, and Migrating to Windows 7</strong> - This module explains how to install, upgrade and migrate to Windows 7. It also describes the key features, editions, and hardware requirements of Windows 7.</p>
+
+<p><strong>Module 2: Configuring Disks and Device Drivers</strong> - This module examines how to configure disks, partitions, volumes, and device drivers to enable Windows 7 to function as desired.</p>
+
+<p><strong>Module 3: Configuring File Access and Printers on Windows 7 Client Computers</strong> - This module explains how to manage access to shared folders and printers on a computer running Windows 7. Specifically, it describes how to share and secure folders, configure folder compression, and  how to install, configure, and administer printing.</p>
+
+<p><strong>Module 4: Configuring Network Connectivity</strong> - This module explains both IPv4 and IPv6 network connectivity. It also describes how to implement automatic IP Address  Allocation and troubleshoot network connectivity.</p>
+
+<p><strong>Module 5: Configuring Wireless Network Connections</strong> - This module describes key wireless network technologies and how to configure wireless network components and the Windows 7 elements that are necessary to access wireless networks.</p>
+
+<p><strong>Module 6: Securing Windows 7 Desktops</strong> - This module describes how to make a Windows 7 computer more secure while ensuring usability is not sacrificed in the process. Specifically, it describes Windows Firewall, User Account Control, Windows Defender, and Security in Internet Explorer 8.</p>
+
+<p><strong>Module 7: Optimizing and Maintaining Windows 7 Client Computers</strong> - This module describes how to use the monitoring and configuration tools to obtain information about Windows 7 performance and how to troubleshoot performance and reliability problems.</p>
+
+<p><strong>Module 8: Configuring Mobile Computing and Remote Access in Windows 7</strong> - This module explains how to configure mobile devices and remote access. It also discusses DirectAccess and BranchCache which are new for Windows 7.</p>

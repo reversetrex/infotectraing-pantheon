@@ -1,0 +1,15 @@
+<ul>
+  <li> Open and manipulate toolbars and stencil windows in the work area. </li>
+  <li> Change background settings to enhance specific drawings. </li>
+  <li> Use the drawing tools and Operation command features to create new custom shapes. </li>
+  <li> Integrate both simple and complex custom shapes in a drawing. </li>
+  <li> Create new masters in a stencil and edit masters. </li>
+  <li> Use the Document stencil to quickly take inventory of all the shapes used in a drawing. </li>
+  <li> Create a new custom template and use it to quickly create a drawing. </li>
+  <li> Create and use styles to quickly format multiple shapes in a drawing. </li>
+  <li> Use layers to organize and control shapes in a drawing. </li>
+  <li> Link a Visio drawing within a Microsoft Word document and update any changes. </li>
+  <li> Link shapes in a drawing to information contained in an external database. </li>
+  <li> Convert a drawing to a Web page. </li>
+  <li> Use several techniques for preparing a drawing for printing. </li>
+</ul>

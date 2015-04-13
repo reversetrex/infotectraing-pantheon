@@ -1,0 +1,11 @@
+<p>On completion of the Microsoft M10748 course, delegates will be able to:</p>
+<ul>
+  <li>Describe the Configuration Manager 2012 infrastructure and describe typical deployment scenarios</li>
+  <li>Plan and deploy a single primary site</li>
+  <li>Plan and configure administrative roles</li>
+  <li>Plan and deploy a multiple-site hierarchy including primary sites, CAS and secondary sites</li>
+  <li>Describe replication and data types, and monitor the replication of data throughout the hierarchy</li>
+  <li>Use various methods to plan and deploy Configuration Manager 2012 clients.</li>
+  <li>Perform maintenance tasks and monitor site systems</li>
+  <li>Perform migration of objects from Configuration Manager 2007 to Configuration Manager 2012</li>
+</ul>

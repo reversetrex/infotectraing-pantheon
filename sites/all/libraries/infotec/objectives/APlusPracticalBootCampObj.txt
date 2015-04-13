@@ -1,0 +1,17 @@
+<p>On course completion, students will be able to:</p>
+
+<ul>
+  <li>Manage and optimize Windows using command  line tools, administrative consoles, and Remote</li>
+  <li>Desktop.</li>
+  <li>Manage and optimize disks and volumes  using command line tools and administrative consoles.</li>
+  <li>Diagnose and resolve Windows  troubleshooting scenarios.</li>
+  <li>Use anti-virus tools to prevent and  recover from malware infections.</li>
+  <li>Configure and troubleshoot local network  and wireless connections and client applications.</li>
+  <li>Configure and manage users, groups, and  shared resources.</li>
+  <li>Configure and troubleshoot access control  measures, such as BIOS security, authentication, encryption, and firewalls.</li>
+  <li>Perform preventive maintenance using  approved tools and products.</li>
+  <li>Assemble, disassemble, and upgrade PC and  notebook components.</li>
+  <li>Configure and update BIOS/CMOS.</li>
+  <li>Troubleshoot, optimize, and upgrade  hardware.</li>
+  <li>Troubleshoot and maintain printers.</li>
+</ul>

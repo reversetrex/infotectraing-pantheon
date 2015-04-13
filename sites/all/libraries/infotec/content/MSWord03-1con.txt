@@ -1,0 +1,69 @@
+<p><strong>Lesson 1: Creating a Basic Document</strong></p>
+<ul>
+  <li>The Word Environment</li>
+  <li>Get Help Using Word</li>
+  <li>Enter Text</li>
+  <li>Save a New Document</li>
+  <li>Preview a Document</li>
+  <li>Print a Document</li>
+</ul>
+<p><strong>Lesson 2: Editing a Document</strong></p>
+<ul>
+  <li>Navigate in a Document</li>
+  <li>Insert Text</li>
+  <li>Select Text</li>
+  <li>Create an AutoText Entry</li>
+  <li>Move and Copy Text</li>
+  <li>Delete Blocks of Text</li>
+  <li>Undo Changes</li>
+  <li>Find and Replace Text</li>
+</ul>
+<p><strong>Lesson 3: Formatting Text</strong></p>
+<ul>
+  <li>Change Font and Size</li>
+  <li>Apply Font Styles and Effects</li>
+  <li>Change Text Color</li>
+  <li>Highlight Text</li>
+  <li>Copy Formats</li>
+  <li>Clear Formatting</li>
+  <li>Find and Replace Text Formatting</li>
+</ul>
+<p><strong>Lesson 4: Formatting Paragraphs</strong></p>
+<ul>
+  <li>Set Tabs</li>
+  <li>Change Paragraph Alignment</li>
+  <li>Indent Paragraphs</li>
+  <li>Add Borders and Shading</li>
+  <li>Apply Styles</li>
+  <li>Create Lists</li>
+  <li>Change Spacing Between Paragraphs and Lines</li>
+</ul>
+<p><strong>Lesson 5: Proofing a Document</strong></p>
+<ul>
+  <li>Use the Thesaurus</li>
+  <li>Check Spelling and Grammar</li>
+  <li>Create a New Default Dictionary</li>
+  <li>Check Word Count</li>
+  <li>Modify a Document in Print Preview</li>
+</ul>
+<p><strong>Lesson 6: Adding Tables</strong></p>
+<ul>
+  <li>Create a Table</li>
+  <li>Enter Data in a Table</li>
+  <li>AutoFormat a Table</li>
+  <li>Convert Text into a Table</li>
+</ul>
+<p><strong>Lesson 7: Inserting Graphic Elements</strong></p>
+<ul>
+  <li>Insert Symbols and Special Characters</li>
+  <li>Insert a Clip Art Picture</li>
+  <li>Add a Watermark</li>
+</ul>
+<p><strong>Lesson 8: Controlling Page Appearance</strong></p>
+<ul>
+  <li>Set Page Orientation</li>
+  <li>Change Page Margins</li>
+  <li>Apply a Page Border</li>
+  <li>Add Headers and Footers</li>
+  <li>Insert a Page Break</li>
+</ul>

@@ -1,0 +1,20 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Plan a framework for network security. </li>
+  <li> Identify threats to network security. </li>
+  <li> Analyze security risks. </li>
+  <li> Design security for physical resources. </li>
+  <li> Design security for computers. </li>
+  <li> Design security for accounts. </li>
+  <li> Design security for authentication. </li>
+  <li> Design security for data. </li>
+  <li> Design security for data transmission. </li>
+  <li> Design security for network perimeters. </li>
+  <li> Design an incident response procedure. </li>
+  </ul>
+<p> In addition, this course contains three teachable appendices that cover: </p>
+<ul>
+  <li> Designing an acceptable use policy. </li>
+  <li> Designing policies for managing networks. </li>
+  <li>Designing an operations framework for managing security.</li>
+</ul>

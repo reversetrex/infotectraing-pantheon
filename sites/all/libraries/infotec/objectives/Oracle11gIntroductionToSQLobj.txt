@@ -1,0 +1,15 @@
+<ul>
+  <li>Use the SELECT statement to retrieve row and column data from tables.</li>
+  <li>Use SQL function calls to generate and retrieve customized data.</li>
+  <li>Write SELECT statements that include subqueries.</li>
+  <li>Display data from multiple tables using the ANSI SQL 99 JOIN syntax.</li>
+  <li>Create reports of aggregated data.</li>
+  <li>Run data manipulation statements (DML) to update data in the Database.</li>
+  <li>Create reports of sorted and restricted data.</li>
+  <li>Create tables to store data.</li>
+  <li>Utilize views to display and retrieve data.</li>
+  <li>Control database access to objects.</li>
+  <li>Manage schema objects with data dictionary views.</li>
+  <li>Write multiple-column sub-queries.</li>
+  <li>Use scalar and correlated sub-queries.</li>
+</ul>

@@ -1,0 +1,11 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> explore the PowerPoint environment. </li>
+  <li> create a presentation. You will also add text and themes to a presentation. </li>
+  <li> format text on slides. </li>
+  <li> add graphical objects to a presentation. </li>
+  <li> modify objects on slides. </li>
+  <li> add tables to a presentation. </li>
+  <li> add charts to a presentation. </li>
+  <li> prepare to deliver a presentation. </li>
+</ul>

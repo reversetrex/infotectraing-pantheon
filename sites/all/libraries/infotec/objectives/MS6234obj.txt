@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe how SQL Server Analysis Services can be used to implement analytical solutions.</li>
+  <li>Create multidimensional analysis solutions with SQL Server Analysis Services.</li>
+  <li>Implement dimensions and cubes in an Analysis Services solution.</li>
+  <li>Implement measures and measure groups in an Analysis Services solution.</li>
+  <li>Query a multidimensional Analysis Services solution.</li>
+  <li>Customize an Analysis Services cube.</li>
+  <li>Deploy and secure an Analysis Services database.</li>
+  <li>Maintain a multidimensional Analysis Services solution.</li>
+  <li>Implement a Data Mining solution.</li>
+</ul>

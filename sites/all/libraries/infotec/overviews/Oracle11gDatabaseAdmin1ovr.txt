@@ -1,0 +1,13 @@
+<ul>
+  <li>Software installation and the creation of new  databases.</li>
+  <li>An in-depth exploration of the database architecture, including memory, process and data structures, and the management of those structures.</li>
+  <li>Management of database files.</li>
+  <li>Specialized facilities intended to maximize performance of enterprise-scale transactional applications, such as the shared SQL and PL/SQL cache, the result cache, the database buffer cache, and other similar components.</li>
+  <li>Management of security policies and procedures, including administration of user accounts, roles, privileges and profiles.</li>
+  <li>Utilization of advanced self-tuning and self-management capabilities, including the use of Oracle-Managed Files, database Advisors and other components of the Management Framework.</li>
+  <li>Performance monitoring, problem troubleshooting, and resolving lock and conflict issues.</li>
+  <li>Using the Oracle Enterprise Manager and SQL interfaces for administration tasks.</li>
+  <li>Control over database support services, including the Database Control, Oracle Net and others.</li>
+  <li>A primer on backup and recovery structures and strategies.</li>
+  <li>Operating system-specific considerations for various platforms, especially Linux and MS Windows Server.</li>
+</ul>

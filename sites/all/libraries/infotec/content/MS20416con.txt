@@ -1,0 +1,83 @@
+<p><strong>Module 1: Designing an Application Distribution Strategy</strong></p>
+<p>This module discusses the high-level aspects of designing an application distribution strategy. The topics covered can help students identify the aspects in an environment that influence application distribution and identify the most common distribution methods used in the Windows environment.</p>
+<ul>
+  <li>Developing an Application Lifecycle Strategy</li>
+  <li>Determining Business Requirements for Application Distribution</li>
+  <li>Overview of Application Distribution Strategies</li>
+</ul>
+<p><strong>Module 2: Diagnosing and Remediating Application Compatibility</strong></p>
+<p>This module describes the process for addressing common application compatibility issues experienced during a new operating system deployment. The module also explains how to use Microsoft Application Compatibility Toolkit (ACT) to help inventory, analyze, and mitigate application compatibility issues.</p>
+<ul>
+  <li>Diagnosing Application Compatibility Issues</li>
+  <li>Evaluating and Implementing Remediation Solutions</li>
+  <li>Resolving Compatibility Issues by Using ACT</li>
+</ul>
+<p><strong>Module 3: Deploying Software by Using Group Policy and Windows Intune</strong></p>
+<p>This module discusses using Group Policy and Windows Intune to deploy software as part of a software deployment strategy. It also covers sideloading, which is the specialized software deployment method specific to Windows Store apps.</p>
+<ul>
+  <li>Deploying Software by Using Group Policy</li>
+  <li>Sideloading Windows Store Apps</li>
+  <li>Deploying Software by Using Windows Intune</li>
+</ul>
+<p><strong>Module 4: Deploying Applications by Using Microsoft System Center 2012 Configuration Manager SP1</strong></p>
+<p>This module describes how to use System Center 2012 Configuration Manager SP1 to manage the software deployment and management lifecycle, including deploying software, targeting a group of user or computers, validating the success of software deployment, and removing software from computers when that software is no longer required.</p>
+<ul>
+  <li>Understanding Software Deployment by Using System Center 2012 Configuration Manager SP1</li>
+  <li>Deploying Software by Using System Center 2012 Configuration Manager SP1</li>
+</ul>
+<p><strong>Module 5: Configuring Self-Service Application Deployment</strong></p>
+<p>This module describes planning, configuring and using self-service application deployment. It describes configuring self-service application deployment for Windows Intune clients and for Microsoft System Center 2012 Configuration Manager clients, in addition to using Microsoft System Center 2012 - Service Manager and Microsoft System Center 2012 - Orchestrator to improve the self-service application deployment process.</p>
+<ul>
+  <li>Understanding Self-Service Application Deployment</li>
+  <li>Configuring Self-Service with Windows Intune</li>
+  <li>Self-Service Deployment by Using System Center 2012 Configuration Manager SP1</li>
+  <li>Self-Service Deployment with Service Manager and Orchestrator</li>
+</ul>
+<p><strong>Module 6: Designing and Implementing Presentation Virtualization Infrastructure</strong></p>
+<p>This module introduces you to presentation virtualization concepts and to the components that are used for presentation virtualization in computers running Windows so that you can plan the deployment of apps using presentation virtualization in your environment.</p>
+<ul>
+  <li>Assessing Presentation Virtualization Requirements</li>
+  <li>Planning Presentation Virtualization Infrastructure</li>
+  <li>Deploying Presentation Virtualization Infrastructure</li>
+  <li>Extending the Presentation Virtualization Infrastructure</li>
+</ul>
+<p><strong>Module 7: Preparing, Configuring, and Deploying Presentation Virtualization Applications</strong></p>
+<p>This module discusses presentation virtualization strategies and which strategy to use in a given situation. It also discusses how to deploy applications to Remote Desktop Session Host servers as traditional, RemoteApp, and Remote Desktop Web Access applications.</p>
+<ul>
+  <li>Determining Presentation Virtualization Application Strategies</li>
+  <li>Planning and Deploying Remote Desktop, RemoteApp, and Remote Desktop Web Access</li>
+</ul>
+<p><strong>Module 8: Designing and Deploying an Application Virtualization Environment</strong></p>
+<p>This module discusses how to determine which application virtualization infrastructure model best suits an organization's needs. Additionally, this module covers how to determine which Windows Server 2012 roles and features are needed to support the model you have selected, and which Group Policy settings should be configured.</p>
+<ul>
+  <li>Overview of Application Virtualization Models</li>
+  <li>Deploying Application Virtualization Infrastructure Components</li>
+  <li>Configuring Application Virtualization Client Support</li>
+</ul>
+<p><strong>Module 9: Preparing, Sequencing, and Deploying Virtual Applications</strong></p>
+<p>This module describes sequencing applications by using the Microsoft Application Virtualization (App-V) Sequencer. It also describes how to stream sequenced applications and how to locally install sequenced applications.</p>
+<ul>
+  <li>Sequencing Applications with App-V </li>
+  <li>Deploying App-V Applications</li>
+</ul>
+<p><strong>Module 10: Planning and Implementing Application Updates and Security</strong></p>
+<p>This module discusses how to configure the appropriate infrastructure to streamline the deployment of software updates to applications. It also covers how to plan and configure application security.</p>
+<ul>
+  <li>Planning Application Updates</li>
+  <li>Deploying Updates by Using WSUS</li>
+  <li>Deploying Application Updates by Using System Center 2012 Configuration Manager SP1</li>
+  <li>Implementing Application Security</li>
+</ul>
+<p><strong>Module 11: Planning and Implementing Application Upgrades</strong></p>
+<p>This module covers planning and implementing application upgrades and supersedence, including how to deploy multiple versions of an application, how to uninstall applications, how to retire applications, and how to manage user settings.  It also covers planning application concurrency and implementing it by using App-V, Client Hyper-V, RemoteApp, VDI, and Remote Desktop Services.</p>
+<ul>
+  <li>Overview of Application Upgrades</li>
+  <li>Overview of Application Concurrency</li>
+</ul>
+<p><strong>Module 12: Monitoring Application Deployment, Use, and Performance</strong></p>
+<p>This module describes using application monitoring as an essential part of managing applications in an enterprise environment. It also covers planning software inventory and metering, and monitoring application resource use.</p>
+<ul>
+  <li>Planning Application Monitoring</li>
+  <li>Planning Software Inventory and Metering</li>
+  <li>Monitoring Application Resource Utilization</li>
+</ul>

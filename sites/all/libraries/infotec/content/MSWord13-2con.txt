@@ -1,0 +1,57 @@
+<p><strong>Lesson 1: </strong>Working with Tables and Charts</p>
+<ul>
+  <li><strong>Topic A: </strong>Sort Table Data</li>
+  <li><strong>Topic B: </strong>Control Cell Layout</li>
+  <li><strong>Topic C: </strong>Perform Calculations in a Table</li>
+  <li><strong>Topic D: </strong>Create a Chart</li>
+</ul>
+<p><strong>Lesson 2: </strong>Customizing Formats Using Styles and Themes</p>
+<ul>
+  <li><strong>Topic A: </strong>Create and Modify Text Styles</li>
+  <li><strong>Topic B: </strong>Create Custom List or Table Styles</li>
+  <li><strong>Topic C: </strong>Apply Document Themes</li>
+</ul>
+<p><strong>Lesson 3: </strong>Using Images in a Document</p>
+<ul>
+  <li><strong>Topic A: </strong>Resize an Image</li>
+  <li><strong>Topic B: </strong>Adjust Image Appearance</li>
+  <li><strong>Topic C: </strong>Integrate Pictures and Text</li>
+  <li><strong>Topic D: </strong>Insert and Format Screenshots</li>
+  <li><strong>Topic E: </strong>Insert Video</li>
+</ul>
+<p><strong>Lesson 4: </strong> Creating Custom Graphic Elements</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Text Boxes and Pull Quotes</li>
+  <li><strong>Topic B: </strong>Draw Shapes</li>
+  <li><strong>Topic C: </strong>Add WordArt and Other Text Effects</li>
+  <li><strong>Topic D: </strong>Create Complex Illustrations with SmartArt</li>
+</ul>
+<p><strong>Lesson 5: </strong>Inserting Content Using Quick Parts</p>
+<ul>
+  <li><strong>Topic A: </strong>Insert Building Blocks</li>
+  <li><strong>Topic B: </strong>Create and Modify Building Blocks</li>
+  <li><strong>Topic C: </strong>Insert Fields Using Quick Parts</li>
+</ul>
+<p><strong>Lesson 6: </strong>Controlling Text Flow</p>
+<ul>
+  <li><strong>Topic A: </strong>Control Paragraph Flow</li>
+  <li><strong>Topic B: </strong>Insert Section Breaks</li>
+  <li><strong>Topic C: </strong>Insert Columns</li>
+  <li><strong>Topic D: </strong>Link Text Boxes to Control Text Flow</li>
+</ul>
+<p><strong>Lesson 7: </strong>Using Templates</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a Document Using a Template</li>
+  <li><strong>Topic B: </strong>Create a Template</li>
+</ul>
+<p><strong>Lesson 8: </strong>Using Mail Merge</p>
+<ul>
+  <li><strong>Topic A: </strong>The Mail Merge Features</li>
+  <li><strong>Topic B: </strong>Merge Envelopes and Labels</li>
+  <li><strong>Topic C: </strong>Create a Data Source Using Word</li>
+</ul>
+<p><strong>Lesson 9: </strong>Using Macros</p>
+<ul>
+  <li><strong>Topic A: </strong>Automate Tasks Using Macros</li>
+  <li><strong>Topic B: </strong>Create a Macro</li>
+</ul>

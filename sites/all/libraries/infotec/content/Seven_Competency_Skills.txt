@@ -1,0 +1,14 @@
+<h2>Session 1</h2>
+  <h3>Section A: Competency Skills</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Communication</li>
+    <li>Leadership</li>
+    <li>Computer Literacy</li>
+    <li>Adaptability</li>
+    <li>Multitasking</li>
+    <li>Problem Solving</li>
+    <li>Negotiation</li>
+    <li>Conclusion</li>
+    <li>Credits</li>
+  </ul>

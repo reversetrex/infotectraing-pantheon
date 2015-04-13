@@ -1,0 +1,1 @@
+This course will provide you with the knowledge and skills to configure and manage a Microsoft Exchange Server 2013 messaging environment. This course will teach you how to configure Exchange Server 2013, and it will provide guidelines, best practices, and considerations that will help you optimize your Exchange Server deployment.

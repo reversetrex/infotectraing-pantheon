@@ -1,0 +1,20 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Configure and troubleshoot applications. </li>
+  <li> Set application compatibility settings. </li>
+  <li> Troubleshoot application installation problems. </li>
+  <li> Configure and troubleshoot e-mail account configurations. </li>
+  <li> Configure and troubleshoot Internet Explorer. </li>
+  <li> Configure and troubleshoot Outlook Express. </li>
+  <li> Configure the operating system to support applications. </li>
+  <li> Configure and troubleshoot file system access and file permission problems on multi-boot computers. </li>
+  <li> Resolve issues related to usability of applications. </li>
+  <li> Manage Microsoft Outlook&reg; data, including configuring, importing, and exporting data, and fixing corrupted data. </li>
+  <li> Resolve issues related to customizing Internet Explorer. </li>
+  <li> Resolve issues related to customizing Outlook Express. </li>
+  <li> Resolve issues related to customizing the operating system. </li>
+  <li> Configure and troubleshooting connectivity for applications. </li>
+  <li> Configure application security. </li>
+  <li> Identify and troubleshoot problems related to security permissions. </li>
+  <li> Answer end user questions related to application security settings. </li>
+</ul>

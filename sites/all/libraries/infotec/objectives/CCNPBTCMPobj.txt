@@ -1,0 +1,41 @@
+<p> <strong>Building Converged Cisco Multilayer Switched Networks (BCMSN):</strong><br>
+After completing this course, students will be able to:</p>
+<ul>
+  <li> Deploy the required Cisco products and services that enable connectivity and traffic transport, given a network design that includes multilayer switching over various Ethernet technologies </li>
+  <li> Implement the necessary services at each layer of the network to all users to obtain services in a working multilayer switched network </li>
+  <li> Control network traffic by implementing network policies, given, a working multilayer switched network </li>
+  <li> Restore proper network operations through the use of Cisco devices and external management tools, when presented with an incorrectly working multilayer switched network </li>
+  <li> Explain how service providers implement transparent LAN services and Ethernet over Multiprotocol Label Switching (MPLS) technology to deliver connectivity to the enterprise site </li>
+
+  </ul>
+<p><strong>Building Scalable Cisco Inter-Networks (BSCI):</strong><br>
+After completing this course the student should be able to: </p>
+<ul>
+  <li>Describe advanced IP addressing to include variable-length subnet mask, route summarization, classless interdomain routing (CIDR), basic IP version 6, and using Network Address Translation (NAT) with route maps </li>
+  <li> Identify advanced IP routing principles, including static and dynamic routing characteristics and the concepts of classless routing and network boundary summarization </li>
+  <li> Configure Enhanced Interior Gateway Routing Protocol (EIGRP) for a scalable network </li>
+  <li> Configure Open Shortest Path First (OSPF) for a scalable multiarea network </li>
+  <li> Configure Intermediate System-to-Intermediate System (IS-IS) for a scalable multiarea network </li>
+  <li> Manipulate routing updates and packet flow using redistribution, distribution lists, administrative distance, route maps, and policy-based routing </li>
+  <li> Configure basic Border Gateway Protocol (BGP) for internal and external Border Gateway Protocol connections </li>
+</ul>
+<p> <strong>Implementing Secured Converged Wide Area Networks (ISCW):</strong><br>After completing this course the student should be able to: </p>
+<ul>
+  <li> Explain the Cisco hierarchical network model as it pertains to the WAN Describe and implement teleworker configuration and access </li>
+  <li> Implement and verify frame mode MPLS </li>
+  <li> Describe and configure a site-to-site IPSEC VPN </li>
+  <li> Describe and configure Cisco EZVPN </li>
+  <li> Explain the strategies used to mitigate network attacks </li>
+  <li> Describe and configure Cisco device hardening </li>
+  <li> Describe and configure IOS firewall features </li>
+</ul>
+<p> <strong>Optimizing Converged Cisco Networks (ONT):</strong><br>
+After completing this course the student should be able to: </p>
+<ul>
+  <li> Explain the Cisco hierarchical network model as it pertains to an end-to-end enterprise network </li>
+  <li>Describe specific requirements for implementing a VOIP network </li>
+  <li>Describe the need to implement QoS and the methods for implementing QoS on a converged network using Cisco's routers and Catalyst Switches </li>
+  <li>Explain the key IP QoS mechanisms used to implement the DiffServ QoS model </li>
+  <li>Configure Auto QoS for Enterprise </li>
+  <li>Describe and configure wireless security and basic wireless management </li>
+</ul>

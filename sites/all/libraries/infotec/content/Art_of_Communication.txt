@@ -1,0 +1,47 @@
+<h2>Session 1</h2>
+  <h3>Section A: Communicate</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Introduction</li>
+  </ul>
+  <h3>Section B: Four Basics of Communication</h3>
+  <ul>
+    <li>Objectives</li>
+    <li>Audience</li>
+    <li>Technique</li>
+    <li>Summary and Call to Action</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Communicating Better: Writing</h3>
+  <ul>
+    <li>Reader's Point of View and the Main Idea</li>
+    <li>Brainstorming</li>
+    <li>Outlining and Aerobic Writing</li>
+    <li>Organizing the Document</li>
+    <li>Revising</li>
+    <li>Visual Clarity and Headlines</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section D: Speaking Better: Presenting</h3>
+  <ul>
+    <li>Outlines and First Impressions</li>
+    <li>BEST Recipe and Signpost Phrases</li>
+    <li>Plan Your Conclusion</li>
+    <li>Delivery</li>
+    <li>Visual Aids and Room Choreography</li>
+    <li>Curing Fear and Self-Consciousness</li>
+    <li>Answering Questions: Q-BEST-Q Recipe</li>
+    <li>Asking Questions</li>
+    <li>Use Mistakes to Build Credibility</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section E: Interacting Better: Meetings</h3>
+  <ul>
+    <li>Meetings are Costly Investments</li>
+    <li>Think Purposes, Not Meetings</li>
+    <li>Forecast Your Meetings</li>
+    <li>Leading Meetings</li>
+    <li>Public Minutes</li>
+    <li>Ending and Last Words</li>
+    <li>Assessment</li>
+  </ul>

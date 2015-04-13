@@ -1,0 +1,1 @@
+Advanced Security Implementation examines and explains the technologies required to build a trusted network. The course includes a detailed discussion of the strategy and components of a trusted network.

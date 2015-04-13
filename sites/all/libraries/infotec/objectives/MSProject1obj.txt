@@ -1,0 +1,7 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> create a project plan file and enter task information. </li>
+  <li>create a work breakdown structure by organizing tasks and setting task relationships. </li>
+  <li>assign project resources. </li>
+  <li>finalize the project plan file. </li>
+</ul>

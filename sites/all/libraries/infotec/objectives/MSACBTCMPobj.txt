@@ -1,0 +1,17 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon completion of this course, students will be able to:</p>
+<ul>
+  <li>Create and enhance forms and reports</li>
+  <li>Design custom dialog boxes and buttons</li>
+  <li>Develop custom menus for the Ribbon</li>
+  <li>Use SQL queries with VBA</li>
+  <li>Create table macros</li>
+  <li>Use Office object models to interact with other Microsoft applications</li>
+  <li>Create and manipulate charts and graphs</li>
+  <li>Work with external databases</li>
+  <li>Add functionality to your programs with API calls</li>
+  <li>Animate objects in Access</li>
+  <li>Enhance database security</li>
+  <li>Create audit trails</li>
+  <li>Handle large text files</li>
+  <li>Transfer data via FTP</li>
+</ul>

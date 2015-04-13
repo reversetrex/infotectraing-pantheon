@@ -1,0 +1,201 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Security Is Important</li>
+    <li>Attacks Are Common</li>
+    <li>CCNA Concentrations</li>
+    <li>CCNA Security Benefits</li>
+    <li>Prerequisites</li>
+    <li>Exam 640-554 Knowledge Domains</li>
+    <li>Exam Preparation Tips</li>
+  </ul>
+  <h3>Section B: Security Fundamentals</h3>
+  <ul>
+    <li>Steps to a Breach</li>
+    <li>CIA</li>
+    <li>AAA</li>
+    <li>Security Controls</li>
+    <li>Control Classes</li>
+    <li>Endpoint Security</li>
+    <li>Data Classification</li>
+    <li>Best Practices</li>
+  </ul>
+  <h3>Section C: Threats and Attack Methods</h3>
+  <ul>
+    <li>Internal Threats</li>
+    <li>External Threats</li>
+    <li>Types of Attackers</li>
+    <li>Types of Attacks</li>
+    <li>Denial of Service</li>
+    <li>Malware</li>
+    <li>Password Attacks</li>
+  </ul>
+  <h3>Section D: Key Security Principles</h3>
+  <ul>
+    <li>Least Privilege</li>
+    <li>Attack Surface</li>
+    <li>Defense-in-Depth</li>
+    <li>Perimeter Network</li>
+    <li>Threats and Risks</li>
+  </ul>
+  <h3>Section E: Network Foundation Protection</h3>
+  <ul>
+    <li>NFP Introduction</li>
+    <li>Networking Planes Defined</li>
+    <li>Networking Planes and Security</li>
+    <li>Security Toolkit</li>
+    <li>NFP Features</li>
+  </ul>
+  <h3>Section F: Basic Router Security</h3>
+  <ul>
+    <li>Routers in Review</li>
+    <li>Routing Example</li>
+    <li>Security Concerns</li>
+    <li>Basic Security Settings</li>
+    <li>Basic Configuration</li>
+    <li>DHCP</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Basic Switch Security</h3>
+  <ul>
+    <li>Layer 2 Security</li>
+    <li>VLANs and Security</li>
+    <li>Switchport Commands</li>
+    <li>Logging Configuration</li>
+    <li>Set the Host Name</li>
+    <li>Configure Console</li>
+    <li>Configure VTY Lines</li>
+    <li>VLAN1 Address Configuration</li>
+    <li>Configure Banner</li>
+  </ul>
+  <h3>Section B: AAA Solutions</h3>
+  <ul>
+    <li>AAA Defined</li>
+    <li>Authentication</li>
+    <li>Credential Types</li>
+    <li>Weak Authentication Methods</li>
+    <li>Strong Authentication Methods</li>
+    <li>RADIUS Servers</li>
+    <li>User Directories</li>
+    <li>TACACS+</li>
+    <li>AAA Implementation</li>
+    <li>AAA Authentication</li>
+  </ul>
+  <h3>Section C: IP and Security</h3>
+  <ul>
+    <li>The New IP</li>
+    <li>IPv6 Addressing</li>
+    <li>IPv4 Compatibility</li>
+    <li>Request for Comment Documents</li>
+    <li>Terminology</li>
+    <li>IPv6 Header</li>
+    <li>Packet Size Issues</li>
+    <li>RFC 3513</li>
+    <li>Text Representation of Addresses</li>
+    <li>Address Type Identification</li>
+  </ul>
+  <h3>Section D: Access Control Lists</h3>
+  <ul>
+    <li>ACLs Defined</li>
+    <li>ACL Types</li>
+    <li>ACL Tips</li>
+    <li>Deny Access Lists</li>
+    <li>Access Control List Editor</li>
+    <li>ACL Clone Rule</li>
+    <li>ACL Interface Application</li>
+    <li>ACL Filter for VLAN</li>
+  </ul>
+  <h3>Section E: Secure Network</h3>
+  <ul>
+    <li>Components of Secure Management</li>
+    <li>Importance of Policies</li>
+    <li>Physical Security Defined</li>
+    <li>Physical Security Application</li>
+    <li>Physical Security Checklist</li>
+    <li>Timeout Configuration</li>
+    <li>Login Failure Counts</li>
+  </ul>
+  <h3>Section F: Layer 2 Attacks and Prevention</h3>
+  <ul>
+    <li>Layer 2 Security</li>
+    <li>ARP Defined</li>
+    <li>ARP Spoofing</li>
+    <li>ARP Spoofing Tools</li>
+    <li>MAC Flooding</li>
+    <li>DHCP Spoofing</li>
+    <li>Network Isolation</li>
+    <li>VLANs Defined</li>
+    <li>VLAN Example</li>
+    <li>VLAN Tagging</li>
+    <li>VLAN Trunks</li>
+  </ul>
+  <h3>Section G: Firewalls</h3>
+  <ul>
+    <li>Firewalls Defined</li>
+    <li>Network Firewalls</li>
+    <li>Packet Filtering Firewalls</li>
+    <li>Stateful Inspection Firewalls</li>
+    <li>Proxy Firewalls</li>
+    <li>Dynamic Firewalls</li>
+    <li>Kernel Firewalls</li>
+    <li>Personal Firewalls</li>
+    <li>Cisco Firewalls</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Firewall Policies</h3>
+  <ul>
+    <li>NAT and PAT</li>
+    <li>Understanding Classic Firewall</li>
+    <li>Configuring Classic Firewall</li>
+    <li>Zone-Based Firewall</li>
+    <li>Configuring Zone-Based Firewall</li>
+    <li>ASA Firewalls</li>
+  </ul>
+  <h3>Section B: Intrusion Prevention</h3>
+  <ul>
+    <li>Intrusion Monitoring Systems</li>
+    <li>Intrusion Detection Systems</li>
+    <li>IDS Intrusion Detection</li>
+    <li>Intrusion Prevention Systems</li>
+    <li>IDS States</li>
+    <li>Understanding Signatures</li>
+    <li>Indications of Intrusion</li>
+  </ul>
+  <h3>Section C: Cisco IPS</h3>
+  <ul>
+    <li>Cisco IOS IPS</li>
+    <li>License Configuration</li>
+    <li>IOS IPS Responses</li>
+    <li>Enabling IPS</li>
+  </ul>
+  <h3>Section D: VPN Technologies</h3>
+  <ul>
+    <li>Cryptography Defined</li>
+    <li>Uses of Cryptography</li>
+    <li>Steganography</li>
+    <li>Simple Encryption</li>
+    <li>Cryptography Concepts</li>
+    <li>Types of Encryption</li>
+    <li>Popular Encryption Applications</li>
+  </ul>
+  <h3>Section E: Implementing VPNs</h3>
+  <ul>
+    <li>What Is IPSec?</li>
+    <li>Cisco IPSec VPN Devices</li>
+    <li>Cisco IPSec Standards</li>
+    <li>IKE</li>
+    <li>AH and ESP</li>
+    <li>IPSec Modes</li>
+  </ul>
+  <h3>Section F: Advanced Router Security</h3>
+  <ul>
+    <li>Additional Security Features of CCP</li>
+    <li>Monitoring the Router</li>
+    <li>Running Security Audit</li>
+  </ul>
+  <h3>Section G: Policies and Regulations</h3>
+  <ul>
+    <li>Importance of Policies</li>
+    <li>General Policies</li>
+    <li>Policy Templates</li>
+  </ul>

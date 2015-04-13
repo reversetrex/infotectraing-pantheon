@@ -1,0 +1,154 @@
+<h2>Effective Presentation Skills Course Session 1</h2>
+  <h3>Section A: Effective Presentation Skills</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+  </ul>
+  <h3>Section B: Getting Started</h3>
+  <ul>
+    <li>Dealing with Fear</li>
+    <li>Reducing Anxiety</li>
+    <li>Planning</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Organizing and Preparing</h3>
+  <ul>
+    <li>Developing the Presentation</li>
+    <li>Handouts and Visuals</li>
+    <li>Practice</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Making Effective Presentations</h3>
+  <ul>
+    <li>Physical Facilities</li>
+    <li>Jumpstarting</li>
+    <li>Delivery</li>
+    <li>Common Mistakes</li>
+    <li>Handling Questions</li>
+    <li>Good Luck</li>
+  </ul>
+<h2>Better Business Communication Course Session 1</h2>
+  <h3>Section A: Better Business Communication</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: The Meeting</h3>
+  <ul>
+    <li>Before the Meeting</li>
+    <li>During the Meeting</li>
+    <li>Leading the Meeting</li>
+    <li>Decisions and Actions</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: The Memo</h3>
+  <ul>
+    <li>Business Communication</li>
+    <li>Your Audience</li>
+    <li>Brainstorming, Organizing, and Editing</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: The Presentation</h3>
+  <ul>
+    <li>The Introduction</li>
+    <li>Getting Attention</li>
+    <li>Nonverbal</li>
+    <li>Your Voice</li>
+    <li>Dealing with Questions</li>
+    <li>Successful Communication</li>
+    <li>Conclusion</li>
+  </ul>
+<h2>Better Business Writing Course Session 1</h2>
+  <h3>Section A: Better Business Writing</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Know Your Audience</li>
+  </ul>
+  <h3>Section B: Practice the Basics</h3>
+  <ul>
+    <li>Spelling</li>
+    <li>Punctuation</li>
+    <li>Usage</li>
+  </ul>
+  <h3>Section C: Developing a Style</h3>
+  <ul>
+    <li>Defining Style</li>
+    <li>Finding Your Style</li>
+    <li>Improving Style</li>
+  </ul>
+  <h3>Section D: Form and Format</h3>
+  <ul>
+    <li>Selecting a Format</li>
+    <li>Formatting</li>
+  </ul>
+  <h3>Section E: Writing Persuasively</h3>
+  <ul>
+    <li>Motivated Sequence</li>
+    <li>Conclusion</li>
+  </ul>
+<h2>Successful Negotiation Course Session 1</h2>
+  <h3>Section A: Successful Negotiation</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Misconceptions</li>
+    <li>Course Overview</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: Negotiation: What and Why?</h3>
+  <ul>
+    <li>Destination</li>
+    <li>Identify Opportunities</li>
+    <li>Win/Win Philosophy</li>
+    <li>Give/Get Principle</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: The Negotiating Process</h3>
+  <ul>
+    <li>Six Steps</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Strategies and Tactics</h3>
+  <ul>
+    <li>Preparation and Planning</li>
+    <li>Will and Skill</li>
+    <li>Negotiating Strategies</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section E: Conclusion</h3>
+  <ul>
+    <li>Things to Remember</li>
+    <li>Successful Negotiation</li>
+  </ul>
+<h2>Making Humor Work Course Session 1</h2>
+  <h3>Section A: Making Humor Work</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Humor Notes</li>
+    <li>Humor in the Workplace</li>
+    <li>Bad Humor</li>
+    <li>Bridge Building</li>
+    <li>Good Humor</li>
+    <li>Review</li>
+    <li>Humor Notes</li>
+  </ul>
+  <h3>Section B: Case Study: University National</h3>
+  <ul>
+    <li>Communicate With Humor</li>
+    <li>Differentiate With Humor</li>
+    <li>The Humor Edge</li>
+    <li>Humor Notes</li>
+  </ul>
+  <h3>Section C: Developing Relationships</h3>
+  <ul>
+    <li>Getting Attention</li>
+    <li>Creating Intimacy</li>
+    <li>Selling With Humor</li>
+    <li>Humor Notes</li>
+  </ul>
+  <h3>Section D: Laughter - The Stress Blocker</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Stress Reducers</li>
+    <li>Conclusion</li>
+  </ul>

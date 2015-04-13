@@ -1,0 +1,16 @@
+<h2>Session 1</h2>
+  <h3>Section A: Ten Easy Ways to KEEP Your Job</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Take Initiative</li>
+    <li>Getting More Skills</li>
+    <li>Leave Personal Problems at Home</li>
+    <li>Get Along with Co-Workers</li>
+    <li>Help Make the Company Profitable</li>
+    <li>Develop Problem-Solving Skills</li>
+    <li>Take Directions Well</li>
+    <li>Create Good Relations with the Boss</li>
+    <li>Go the Extra Mile</li>
+    <li>Like Your Job</li>
+    <li>Review</li>
+  </ul>

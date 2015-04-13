@@ -1,0 +1,5 @@
+<ul>
+  <li>Creating pivot tables</li>
+  <li>Modifying pivot tables</li>
+  <li>Grouping and summarizing data in a pivot table</li>
+</ul>

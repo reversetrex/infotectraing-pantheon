@@ -1,0 +1,6 @@
+<ul>
+  <li> Customize the Windows XP environment. </li>
+  <li>Share files, folders, and resources over a network. </li>
+  <li>Access the Internet using Windows XP programs. </li>
+  <li>Use Windows XP tools to maintain the computer. </li>
+</ul>

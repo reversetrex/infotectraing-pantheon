@@ -1,0 +1,276 @@
+  <h2>Session 1</h2>
+    <h3>Section A: Introduction</h3>
+    <ul>
+      <li>Benefits of This Course</li>
+      <li>70-417 Overview</li>
+      <li>Test Taking Tips</li>
+      <li>Exam Objectives</li>
+    </ul>
+    <h3>Section B: Plan Installations</h3>
+    <ul>
+      <li>Plan for Server Installation</li>
+      <li>Hardware Requirements</li>
+      <li>Installation Sources</li>
+      <li>Plan for Server Upgrades</li>
+      <li>Migrate Roles</li>
+      <li>Licensing Data Sheet</li>
+    </ul>
+    <h3>Section C: Perform Installation</h3>
+    <ul>
+      <li>VMware Workstation</li>
+      <li>Performance of Installation</li>
+      <li>Select Operating System for Installation</li>
+      <li>Initial Configuration</li>
+    </ul>
+    <h3>Section D: Server Deployment Solutions</h3>
+    <ul>
+      <li>Server Uses</li>
+      <li>Deployment Solutions</li>
+      <li>Server Core</li>
+      <li>Minimal Server Interface</li>
+      <li>Uninstall GUI Shell</li>
+    </ul>
+    <h3>Section E: Configure Servers</h3>
+    <ul>
+      <li>Day-to-Day Management</li>
+      <li>Configure Server Core</li>
+      <li>Switch Modes</li>
+      <li>Remote Management</li>
+      <li>WinRM Actions</li>
+      <li>WinRM Management</li>
+      <li>Configure Windows Firewall</li>
+      <li>Configure Multi-Server Management</li>
+    </ul>
+    <h3>Section F: Manage Server Roles</h3>
+    <ul>
+      <li>Add Server Role</li>
+      <li>Configure Server Role</li>
+      <li>Remove Role</li>
+      <li>Add DNS from PowerShell</li>
+      <li>Remove DNS Feature</li>
+    </ul>
+    <h3>Section G: Manage Server Features</h3>
+    <ul>
+      <li>Add Feature</li>
+      <li>Remove Feature, Restart</li>
+      <li>PowerShell in Relation to Features</li>
+    </ul>
+  <h2>Session 2</h2>
+    <h3>Section A: Plan Active Directory</h3>
+    <ul>
+      <li>Dcpromo is Gone</li>
+      <li>New Deployment Methods</li>
+      <li>Simplified Administration</li>
+      <li>AD Module for PowerShell</li>
+      <li>PowerShell History Viewer</li>
+      <li>Virtualized Domain Controllers</li>
+      <li>Active Directory Based Activation</li>
+      <li>AD Domain Planning Checklist</li>
+      <li>DNS</li>
+      <li>Forests, Trees, and Domains</li>
+      <li>Operations Master Roles</li>
+      <li>Installing on Server Core</li>
+      <li>Using IFM</li>
+    </ul>
+    <h3>Section B: Install Active Directory</h3>
+    <ul>
+      <li>Install AD DS Binaries</li>
+      <li>Configure DNS</li>
+      <li>Reverse Zone</li>
+      <li>Complete Configuration</li>
+      <li>Verify AD DS Operations</li>
+      <li>Resolve DNS SRV Registration Issues</li>
+      <li>Create an Account</li>
+      <li>Create a Group</li>
+      <li>Windows Azure</li>
+    </ul>
+    <h3>Section C: Configure Active Directory</h3>
+    <ul>
+      <li>AD Maintenance Tasks</li>
+      <li>Manage AD Offline</li>
+      <li>AD Restoration</li>
+      <li>Perform Backups</li>
+      <li>Backup Once Wizard</li>
+      <li>Snapshots in Active Directory</li>
+      <li>Active Directory Recycle Bin</li>
+      <li>Restore AD Object</li>
+      <li>Get AD Object</li>
+    </ul>
+    <h3>Section D: Manage AD Objects</h3>
+    <ul>
+      <li>Work with User Accounts</li>
+      <li>Create a User</li>
+      <li>PowerShell History</li>
+      <li>Create an Account from PowerShell</li>
+      <li>Enable AD Account</li>
+      <li>Create Groups</li>
+      <li>Put a User in a Group</li>
+      <li>Create an Organizational Unit</li>
+      <li>Delete Users and Groups</li>
+    </ul>
+    <h3>Section E: Group Policy Enhancements</h3>
+    <ul>
+      <li>New Features</li>
+      <li>Managing GPOs</li>
+      <li>Group Policy Processing</li>
+      <li>Client-Side Extensions</li>
+      <li>Slow Links</li>
+      <li>Key Facts</li>
+    </ul>
+    <h3>Section F: Configure Group Policy</h3>
+    <ul>
+      <li>Group Policy Management Console</li>
+      <li>Create Group Policy Objects</li>
+      <li>Link Group Policy Object</li>
+      <li>Configure DNP, Client-Side Extensions</li>
+      <li>Configure Loopback Processing</li>
+      <li>Configure Slow Link Processing</li>
+      <li>Configure Group Policy Caching</li>
+      <li>WMI Filtering</li>
+      <li>Custom Policies</li>
+    </ul>
+    <h3>Section G: Troubleshoot Group Policy</h3>
+    <ul>
+      <li>Resultant Set of Policy</li>
+      <li>Group Policy Modeling</li>
+      <li>GP Update</li>
+      <li>Remote Update</li>
+      <li>GP Result</li>
+    </ul>
+  <h2>Session 3</h2>
+    <h3>Section A: Hyper-V</h3>
+    <ul>
+      <li>What is Hyper-V?</li>
+      <li>New Hyper-V 3.0 Features</li>
+      <li>Hyper-V Installation Prerequisites</li>
+      <li>Hyper-V Settings</li>
+      <li>Hyper-V Hosts</li>
+      <li>Common VM Management Tasks</li>
+    </ul>
+    <h3>Section B: Administer Hyper-V</h3>
+    <ul>
+      <li>Virtual Hard Disks in Hyper-V 3.0</li>
+      <li>Disk Types</li>
+      <li>Convert Disk Types and Storage</li>
+      <li>Snapshot Management in Hyper-V</li>
+      <li>Fibre Channel Support in Hyper-V</li>
+      <li>New Features in Hyper-V Networking</li>
+      <li>Hyper-V Virtual Switches</li>
+      <li>Configuring Virtual Networks</li>
+      <li>Common Virtual Network Tasks</li>
+    </ul>
+    <h3>Section C: Manage Network Services</h3>
+    <ul>
+      <li>IPAM</li>
+      <li>Migrate to IPAM</li>
+      <li>Configure IPAM Database Storage</li>
+      <li>IPAM Management Tasks</li>
+      <li>IPAM Limitations</li>
+      <li>IPAM Basic Setup</li>
+      <li>Install IPAM</li>
+      <li>Provision the IPAM Server</li>
+      <li>Invoke IPAM GPO Provisioning</li>
+      <li>Configure Server Discovery</li>
+    </ul>
+    <h3>Section D: Manage Network Access</h3>
+    <ul>
+      <li>DirectAccess Benefits</li>
+      <li>Server Requirements for DirectAccess</li>
+      <li>DirectAccess Components</li>
+      <li>Client Configuration</li>
+      <li>Certificates</li>
+      <li>DNS</li>
+    </ul>
+    <h3>Section E: Use Network Policy Server</h3>
+    <ul>
+      <li>NAP</li>
+      <li>New Features in NAP</li>
+      <li>NAP Architecture</li>
+      <li>Scenarios for NAP Uses</li>
+      <li>Considerations for NAP</li>
+      <li>Requirements for NAP Implementation</li>
+      <li>NAP Enforcement with VPN</li>
+      <li>NAP with IPSec, DHCP, 802.1x</li>
+    </ul>
+    <h3>Section F: Understand Identity and Access</h3>
+    <ul>
+      <li>Identity Federation</li>
+      <li>Claims-Based Identity</li>
+      <li>Web Services Overview</li>
+      <li>AD FS</li>
+      <li>AD FS Components</li>
+    </ul>
+    <h3>Section G: Configure Identity and Access</h3>
+    <ul>
+      <li>AD FS and SSO in a Single Organization</li>
+      <li>AD FS and SSO in a B2B Federation</li>
+      <li>AD FS and SSO with Online Services</li>
+      <li>Install AD FS</li>
+      <li>Configure AD FS</li>
+    </ul>
+  <h2>Session 4</h2>
+    <h3>Section A: File and Storage Enhancement</h3>
+    <ul>
+      <li>General Storage Features</li>
+      <li>DAC Overview</li>
+      <li>DAC Components</li>
+      <li>DAC Compared to Other Technologies</li>
+      <li>Identities</li>
+      <li>Claims With DAC</li>
+      <li>Central Access Policies</li>
+    </ul>
+    <h3>Section B: Manage Files and Storage</h3>
+    <ul>
+      <li>Prerequisites to Implement DAC</li>
+      <li>Enable Support in AD DS for DAC</li>
+      <li>Claims and Resource Property Objects</li>
+      <li>Implement Central Access Rules and Polic</li>
+      <li>Implement File Access Auditing</li>
+      <li>Implement Access Denied Assistance</li>
+      <li>Configure File Classification</li>
+      <li>Basic Deployment Steps</li>
+    </ul>
+    <h3>Section C: Plan for Business Continuity</h3>
+    <ul>
+      <li>Virtual Machine Migration Options</li>
+      <li>VM and Storage Migration</li>
+      <li>Live Migration Process</li>
+      <li>Hyper-V Replica Process</li>
+      <li>Configure Hyper-V Replica</li>
+      <li>Additional Hyper-V Tasks</li>
+    </ul>
+    <h3>Section D: Plan for High Availability</h3>
+    <ul>
+      <li>VM High Availability Options</li>
+      <li>Failover Clustering</li>
+      <li>Failover Clustering Tasks</li>
+      <li>Multi-Site Clustering Tasks</li>
+      <li>Cluster Maintenance Tasks</li>
+      <li>Best Practices for High Availability</li>
+    </ul>
+    <h3>Section E: Server Backup and Restoration</h3>
+    <ul>
+      <li>Server Backup Tasks</li>
+      <li>Role Backup Methods</li>
+      <li>Windows Server Backup</li>
+      <li>VSS Admin Tool</li>
+    </ul>
+    <h3>Section F: General Troubleshooting Tips</h3>
+    <ul>
+      <li>Get Around in Windows PowerShell</li>
+      <li>Get Around in Command Prompt</li>
+      <li>Use the New Task Manager</li>
+      <li>Use the Resource Monitor</li>
+      <li>Access Common Dialogs</li>
+      <li>Use Boot Troubleshooting</li>
+    </ul>
+    <h3>Section G: Performance Enhancement</h3>
+    <ul>
+      <li>Monitor Real-Time Performance</li>
+      <li>Configure Data Collector Sets</li>
+      <li>Configure Alerts</li>
+      <li>Configure Event Subscriptions</li>
+      <li>Monitor Events</li>
+      <li>Configure Network Monitoring</li>
+      <li>Monitor Virtual Machines</li>
+    </ul>

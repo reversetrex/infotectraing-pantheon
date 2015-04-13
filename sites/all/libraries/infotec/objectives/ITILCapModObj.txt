@@ -1,0 +1,17 @@
+<p>At the end of this course, learners will be able to identify the processes across the  Service Lifecycle pertaining to Service Offerings and Agreements including:</p>
+<ul type="disc">
+  <li>Service Portfolio Management</li>
+  <li>Service Catalogue Management</li>
+  <li>Change Management, Service Asset and Configuration Management, Knowledge Management, Release Management, Service Validation and Testing, Evaluation and Request Fulfillment</li>
+  <li>Service Level Management</li>
+  <li>Demand Management including Patterns of Business Activity</li>
+  <li>Supplier Management</li>
+  <li>Financial Management</li>
+  <li>Business Relationship Management</li>
+  <li>Operational activities of these processes covered in other Lifecycle phases such as Incident and Change Management</li>
+  <li>Organizing for Service Operation Functions that perform SOA activities</li>
+  <li>SOA roles and responsibilities</li>
+  <li>Technology and implementation considerations</li>
+  <li>Challenges, critical success factors and risks</li>
+  <li>Continual Service Improvement</li>
+</ul>

@@ -1,0 +1,55 @@
+<p><strong> Unit 1: Windows SharePoint Services</strong></p>
+<p> Topic 1A: The Windows SharePoint Services Environment <br>
+Topic 1B: The Windows SharePoint Services Hierarchy </p>
+<p><strong> Unit 2: Using the Default Team Web Site</strong></p>
+<p> Topic 2A: Change Site Title and Description <br>
+Topic 2B: Modify the Site Image <br>
+Topic 2C: Create Announcements <br>
+Topic 2D: Create Events <br>
+Topic 2E: Create Links </p>
+<p><strong> Unit 3: Granting Access to a Team Web Site</strong></p>
+<p> Topic 3A: Create Site Users <br>
+Topic 3B: Import Users from Outlook <br>
+Topic 3C: Alter the Rights of Built-in Groups <br>
+Topic 3D: Create Custom Site Groups <br>
+Topic 3E: Modifying the Site Users in a Site Group <br>
+Topic 3F: Control Site Access Permissions <br>
+Topic 3G: Set up an Access Request Email Account </p>
+<p><strong> Unit 4: Adding Lists</strong></p>
+<p> Topic 4A: Create a Contact <br>
+Topic 4B: Create a Task <br>
+Topic 4C: Create an Issues List <br>
+Topic 4D: Apply Permissions to Lists <br>
+Topic 4E: Set Content Approval <br>
+Topic 4F: Approve or Reject List Items <br>
+Topic 4G: Create Custom Lists </p>
+<p><strong> Unit 5: Adding Libraries</strong></p>
+<p> Topic 5A: Create a Document Library <br>
+Topic 5B: Add Documents <br>
+Topic 5C: Upload Documents <br>
+Topic 5D: Modify Documents <br>
+Topic 5E: Create a Form Library <br>
+Topic 5F: Fill Out Forms <br>
+Topic 5G: Create a Picture Library <br>
+Topic 5H: Add Pictures <br>
+Topic 5I: Delete a Library </p>
+<p><strong> Unit 6: Adding Discussions Boards</strong></p>
+<p> Topic 6A: Create Discussion Boards <br>
+Topic 6B: Add Discussion Messages <br>
+Topic 6C: Delete Discussion Messages <br>
+Topic 6D: Remove Discussion Boards </p>
+<p><strong> Unit 7: Creating Web Discussions</strong></p>
+<p> Topic 7A: Create Web Discussions <br>
+Topic 7B: Delete Web Discussions </p>
+<p><strong> Unit 8: Adding Surveys</strong></p>
+<p> Topic 8A: Create Surveys <br>
+Topic 8B: Respond to Surveys <br>
+Topic 8C: Modify Surveys <br>
+Topic 8D: View Survey Responses <br>
+Topic 8E: Export Survey Results </p>
+<p><strong> Unit 9: Customizing the Team Site Home Page</strong></p>
+<p> Topic 9A: Add Web Parts <br>
+Topic 9B: Modify a Web Part <br>
+Topic 9C: Remove Web Parts <br>
+Topic 9D: Move Web Parts on the Home Page <br>
+Topic 9E: Modify the Quick Launch Bar</p>

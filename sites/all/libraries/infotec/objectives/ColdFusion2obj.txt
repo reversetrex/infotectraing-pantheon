@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will have learned the following:</p>
+<ul>
+  <li>ColdFusion Scripting</li>
+  <li>Regular Expressions</li>
+  <li>Using XML in a ColdFusion application</li>
+  <li>Manipulating XML with XSLT and XPath</li>
+  <li>Using WDDX in a ColdFusion application</li>
+  <li>Creating Advanced Custom Tags</li>
+  <li>Creating Advanced ColdFusion Components</li>
+  <li>Creating and Consuming Web Services</li>
+</ul>

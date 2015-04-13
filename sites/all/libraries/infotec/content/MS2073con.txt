@@ -1,0 +1,123 @@
+<p><strong> Unit 1: SQL Server Overview </strong></p>
+<ul>
+  <li> What Is SQL Server? </li>
+  <li>SQL Server Integration </li>
+  <li>SQL Server Databases </li>
+  <li>SQL Server Security </li>
+  <li>Working with SQL Server </li>
+</ul>
+<p><strong> Unit 2: Overview of Programming SQL Server </strong></p>
+<ul>
+  <li> Designing Enterprise Application Architecture </li>
+  <li>SQL Server Programming Tools </li>
+  <li>The Transact-SQL Programming Language </li>
+  <li>Elements of Transact-SQL </li>
+  <li>Additional Language Elements </li>
+  <li>Ways to Execute Transact-SQL Statement </li>
+</ul>
+<p><strong> Unit 3: Creating and Managing Databases </strong></p>
+<ul>
+  <li> Creating Databases </li>
+  <li>Creating Filegroups </li>
+  <li>Managing Databases </li>
+  <li>Introduction to Data Structures </li>
+</ul>
+<p><strong> Unit 4: Creating Data Types and Tables </strong></p>
+<ul>
+  <li> Creating Data Types </li>
+  <li>Creating Tables </li>
+  <li>Generating Column Values </li>
+  <li>Generating Scripts </li>
+</ul>
+<p><strong> Unit 5: Implementing Data Integrity </strong></p>
+<ul>
+  <li> Types of Data Integrity </li>
+  <li>Enforcing Data Integrity </li>
+  <li>Defining Constraints </li>
+  <li>Types of Constraints </li>
+  <li>Disabling Constraints </li>
+  <li>Using Defaults and Rules </li>
+  <li>Deciding Which Enforcement Method to Use </li>
+</ul>
+<p><strong> Unit 6: Planning Indexes </strong></p>
+<ul>
+  <li> Introduction to Indexes </li>
+  <li>Index Architecture </li>
+  <li>How SQL Server Retrieves Stored Data </li>
+  <li>How SQL Server Maintains Index and Heap Structures </li>
+  <li>Deciding Which Columns to Index </li>
+</ul>
+<p><strong> Unit 7: Creating and Maintaining Indexes </strong></p>
+<ul>
+  <li> Creating Indexes </li>
+  <li>Creating Index Options </li>
+  <li>Maintaining Indexes </li>
+  <li>Introduction to Statistics </li>
+  <li>Querying the sysindexes Table </li>
+  <li>Setting Up Indexes Using the Index Tuning Wizard </li>
+  <li>Performance Considerations </li>
+</ul>
+<p><strong> Unit 8: Implementing Views </strong></p>
+<ul>
+  <li> Introduction to Views </li>
+  <li>Advantages of Views </li>
+  <li>Defining Views </li>
+  <li>Modifying Data Through Views </li>
+  <li>Optimizing Performance by Using Views </li>
+  <li>Performance Considerations </li>
+</ul>
+<p><strong> Unit 9: Implementing Stored Procedures </strong></p>
+<ul>
+  <li> Introduction to Stored Procedures </li>
+  <li>Creating, Executing, Modifying, and Dropping Stored Procedures </li>
+  <li>Using Parameters in Stored Procedures </li>
+  <li>Executing Extended Stored Procedures </li>
+  <li>Handling Error Messages </li>
+  <li>Performance Considerations </li>
+</ul>
+<p><strong> Unit 10: Implementing User-defined Functions </strong></p>
+<ul>
+  <li> What Is a User-defined Function? </li>
+  <li>Defining User-defined Functions </li>
+  <li>Examples of User-defined Functions </li>
+</ul>
+<p><strong> Unit 11: Implementing Triggers </strong></p>
+<ul>
+  <li> Introduction to Triggers </li>
+  <li>Defining Triggers </li>
+  <li>How Triggers Work </li>
+  <li>Examples of Triggers </li>
+  <li>Performance Considerations </li>
+</ul>
+<p><strong> Unit 12: Programming Across Multiple Servers </strong></p>
+<ul>
+  <li> Introduction to Distributed Queries </li>
+  <li>Executing an Ad Hoc Query on a Remote Data Source </li>
+  <li>Setting Up a Linked Server Environment </li>
+  <li>Executing a Query on a Linked Server </li>
+  <li>Managing Distributed Transactions </li>
+  <li>Modifying Data on a Linked Server </li>
+  <li>Using Partitioned Views </li>
+</ul>
+<p><strong> Unit 13: Optimizing Query Performance </strong></p>
+<ul>
+  <li> Introduction to the Query Optimizer </li>
+  <li>Obtaining Execution Plan Information </li>
+  <li>Using an Index to Cover a Query </li>
+  <li>Indexing Strategies </li>
+  <li>Overriding the Query Optimizer </li>
+</ul>
+<p><strong> Unit 14: Analyzing Queries </strong></p>
+<ul>
+  <li> Queries That Use the AND Operator </li>
+  <li>Queries That Use the OR Operator </li>
+  <li>Queries That Use Join Operations </li>
+</ul>
+<p><strong> Unit 15: Managing Transactions and Locks </strong></p>
+<ul>
+  <li> Introduction to Transactions and Locks </li>
+  <li>Managing Transactions </li>
+  <li>SQL Server Locking </li>
+  <li>Managing Locks </li>
+</ul>
+<p>&nbsp; </p>

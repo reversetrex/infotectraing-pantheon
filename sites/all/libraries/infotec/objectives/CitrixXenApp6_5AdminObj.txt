@@ -1,0 +1,18 @@
+<p>Upon successful completion of this course, you will able to perform the following:</p>
+<ul>
+  <li>Identify the basic architecture and high level functionality of XenApp and farm components</li>
+  <li>Configure License Administration console ports and administrators, install the Citrix License Server, and import license files into the console</li>
+  <li>Make installation decisions appropriate for an environment, and install and configure XenApp using the Server Role Manager and Server Configuration tool</li>
+  <li>Add and configure worker groups, administrative accounts, and permissions, and log administrative changes</li>
+  <li>Install and configure Web Interface, create and customize Web Interface sites, and configure client delivery</li>
+  <li>Publish applications, content, and desktops for users.</li>
+  <li>Configure applications for streaming to servers and the desktops of Windows user devices</li>
+  <li>Create and configure Citrix policies, applying filters and using policy modeling tools.</li>
+  <li>Create and assign load evaluators and implement load balancing policies</li>
+  <li>Identify the different session optimization display settings, HDX settings, and profile management components</li>
+  <li>Identify self-service application technologies and install Citrix Receiver</li>
+  <li>Explain key Citrix printing concepts and terms, and configure printing for XenApp</li>
+  <li>Secure application access using Access Gateway</li>
+  <li>Describe the monitoring tools and technologies for XenApp, and track license usage</li>
+  <li>Identify the purpose and key components of SmartAuditor, Single sign-on, Branch optimization, Provisioning services, Power and Capacity Management, and XenServer</li>
+</ul>

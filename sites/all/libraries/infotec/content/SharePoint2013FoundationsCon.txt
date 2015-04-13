@@ -1,0 +1,88 @@
+<p><strong>Module 1: Course Overview</strong></p>
+<p><strong>Module 2: SharePoint 2013 Introduction</strong></p>
+<p><strong>Module 3: Collaboration Experience</strong></p>
+<ul>
+ <li>View a basic Team Site</li>
+ <li>Navigate a site</li>
+ <li>Observe the Ribbon</li>
+</ul>
+<p><strong>Module 4: Working with Apps</strong></p>
+<ul>
+ <li>Observe add an app</li>
+ <li>Visit the SharePoint Store</li>
+ <li>Add, modify, and delete content in a library</li>
+</ul>
+<p><strong>Module 5: Permissions</strong></p>
+<ul>
+ <li>Add a user to the Visitors and Members groups </li>
+ <li>Create a new group and add a user to the new group</li>
+ <li>Login as each of the users to observe SharePoint</li>
+ <li>Observe existing permission levels, modify an existing permission level and test</li>
+ <li>Manage fine-grained permissions</li>
+ <li>Use the Check Permissions feature</li>
+</ul>
+<p><strong>Module 6: Create SharePoint Sites</strong></p>
+<ul>
+ <li>Create a Team Site </li>
+ <li>Create a Blog Site</li>
+ <li>Create a Community Site</li>
+ <li>Delete and Restore a Site</li>
+</ul>
+<p><strong>Module 7: Library Apps</strong></p>
+<ul>
+ <li>Create and use a Document Library</li>
+ <li>Create and use a Picture Library</li>
+ <li>Use a Wiki Page Library</li>
+ <li>Create and use an Assets Library</li>
+ <li>Use a Site Notebook </li>
+</ul>
+<p><strong>Module 8: Lists Apps</strong></p>
+<ul>
+ <li>Create a Promoted Links list </li>
+ <li>Create a Tasks list</li>
+ <li>Create a Calendar list</li>
+ <li>Create a Contacts list</li>
+ <li>Create an Announcements list</li>
+ <li>Import a Spreadsheet</li>
+ <li>Create Custom Lists</li>
+</ul>
+<p><strong>Module 9: List Views</strong></p>
+<ul>
+ <li>Observe default Public views</li>
+ <li>Sort and filter lists using columns </li>
+ <li>Create several new views using various options</li>
+ <li>Set a view as the default</li>
+ <li>Delete a view</li>
+</ul>
+<p><strong>Module 10: Office Integration</strong></p>
+<ul>
+ <li>Connect the SharePoint Calendar with Outlook</li>
+ <li>Connect SharePoint Contacts with Outlook</li>
+ <li>Sync files for offline use</li>
+ <li>Export a list to Excel </li>
+</ul>
+<p><strong>Module 11: App Management</strong></p>
+<ul>
+ <li>Create a List Column</li>
+ <li>Create Site Columns</li>
+ <li>Create Content Types and use the Document Information Panel</li>
+ <li>Turn on Check Out Required, Versioning, and Content Approval</li>
+</ul>
+<p><strong>Module 12: Parts and Pages</strong></p>
+<ul>
+ <li>Create Web Part Pages</li>
+ <li>Create a Wiki page</li>
+ <li>Add, move, and customize Parts</li>
+ <li>Embed video on a page</li>
+ <li>Remove and restore a part from the Closed Parts gallery and empty the Closed Parts gallery</li>
+</ul>
+<p><strong>Module 13 Site Customizations and Basic Administration</strong></p>
+<ul>
+ <li>Perform a basic search</li>
+ <li>Create and test alerts at several levels</li>
+ <li>Customize the Site Logo</li>
+ <li>Change the Look</li>
+ <li>Activate Features</li>
+ <li>Customize Site Navigation</li>
+</ul>
+<p><strong>Module 14: Class Wrap-Up</strong></p>

@@ -1,0 +1,55 @@
+<p><strong>Lesson 1: Accessing PDF Documents</strong></p>
+<ul>
+	<li><strong>Topic 1A: </strong>Open PDF Documents</li>
+    <li><strong>Topic 1B: </strong>Explore the Adobe Acrobat X Pro Interface</li>
+    <li><strong>Topic 1C: </strong>Browse Through PDF Documents</li>
+</ul>
+
+<p><strong>Lesson 2: Creating PDF Documents</strong></p>
+<ul>
+	<li><strong>Topic 2A: </strong>Create PDF Documents from a File</li>
+    <li><strong>Topic 2B: </strong>Create a PDF Document Using the Print Command</li>
+    <li><strong>Topic 2C: </strong>Create a PDF Document from Web Pages</li>
+    <li><strong>Topic 2D: </strong>Create a PDF Document Using Email Applications</li>
+    <li><strong>Topic 2E: </strong>Create a PDF Document Using Acrobat</li>
+</ul>
+
+<p><strong>Lesson 3: Navigating to a Specific Content in a PDF Document</strong></p>
+<ul>
+	<li><strong>Topic 3A: </strong>Perform a Search</li>
+    <li><strong>Topic 3B: </strong>Manage Bookmarks</li>
+    <li><strong>Topic 3C: </strong>Work with Links</li>
+</ul>
+
+<p><strong>Lesson 4: Updating PDF Documents</strong></p>
+<ul>
+	<li><strong>Topic 4A: </strong>Manipulate PDF Document Pages</li>
+    <li><strong>Topic 4B: </strong>Edit Content in a PDF Document</li>
+    <li><strong>Topic 4C: </strong>Add Page Elements</li>
+    <li><strong>Topic 4D: </strong>Extract Content from a PDF Document</li>
+</ul>
+
+<p><strong>Lesson 5: Working with Multiple PDF Documents</strong></p>
+<ul>
+	<li><strong>Topic 5A: </strong>Control Access to Multiple PDF Documents</li>
+    <li><strong>Topic 5B: </strong>Search Multiple PDF Documents</li>
+</ul>
+
+<p><strong>Lesson 6: Reviewing PDF Documents</strong></p>
+<ul>
+	<li><strong>Topic 6A: </strong>Initiate a Review</li>
+    <li><strong>Topic 6B: </strong>Review a PDF Document</li>
+    <li><strong>Topic 6C: </strong>Compare PDF Documents</li>
+</ul>
+
+<p><strong>Lesson 7: Validating PDF Documents</strong></p>
+<ul>
+	<li><strong>Topic 7A: </strong>Sign a PDF Document Digitally</li>
+    <li><strong>Topic 7B: </strong>Verify a Digital ID</li>
+</ul>
+
+<p><strong>Lesson 8: Converting PDF Files</strong></p>
+<ul>
+	<li><strong>Topic 8A: </strong>Optimize PDF Files</li>
+    <li><strong>Topic 8B: </strong>Convert PDF Files to Other Formats</li>
+</ul>

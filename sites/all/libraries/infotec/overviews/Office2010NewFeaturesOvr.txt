@@ -1,0 +1,8 @@
+<p>This  ILT Series course covers those features of Microsoft Office 2010 that are new  to the Office system, with dedicated units for the new features of each  application.</p>
+<ul>
+  <li> In Word, students will learn to use the Navigation pane and apply  new text effects.</li>
+  <li> In Excel they will use sparklines, filter data with slicers,  and create a PivotChart.</li>
+  <li> In PowerPoint they will organize slides into sections,  edit movie clips, apply animation effects, and learn how to broadcast slide  shows.</li>
+  <li> In Outlook they will manage e-mail conversations, create Quick Steps,  and use the People Pane.</li>
+  <li> In Access, they will learn how to use the tabbed  document window, create Lookup list fields, and use the data type gallery. In  addition, students will learn about ribbon customization and Backstage view,  and save a file as a PDF.</li>
+</ul>

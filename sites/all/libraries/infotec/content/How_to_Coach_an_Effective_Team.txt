@@ -1,0 +1,42 @@
+<h2>Session 1</h2>
+  <h3>Section A: Management Perspectives</h3>
+  <ul>
+    <li>Getting Started</li>
+    <li>Paradigm Shift</li>
+    <li>Facilitator Comments</li>
+    <li>Take the Quiz</li>
+    <li>Becoming a Manager</li>
+    <li>Organizational Chart</li>
+    <li>Model Organization</li>
+  </ul>
+  <h3>Section B: Coaching</h3>
+  <ul>
+    <li>Improving Performance</li>
+    <li>Team Stages</li>
+    <li>Barriers to Performance</li>
+    <li>Clarifying and Probing</li>
+    <li>Inspiring</li>
+    <li>Motivating</li>
+  </ul>
+  <h3>Section C: Mentoring</h3>
+  <ul>
+    <li>Examples</li>
+    <li>Mentoring = Instruction</li>
+    <li>Lead by Example</li>
+    <li>Need to Mentor</li>
+    <li>Mentoring Review</li>
+    <li>Empowerment</li>
+    <li>Benefits of Mentoring</li>
+    <li>Getting Results</li>
+  </ul>
+  <h3>Section D: Counseling</h3>
+  <ul>
+    <li>When to Counsel</li>
+    <li>Confronting</li>
+    <li>Respect Vs. Like</li>
+    <li>How to Confront</li>
+    <li>Ways to Get Solutions</li>
+    <li>Consequences / Rewards</li>
+    <li>Attitude Change</li>
+    <li>Facilitator Follow-up</li>
+  </ul>

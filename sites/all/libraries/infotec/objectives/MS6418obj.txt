@@ -1,0 +1,42 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Install  Windows Server 2008.</li>
+	<li>Install  Windows Server 2008 Server Core.</li>
+	<li>Configure  Windows Server Core.</li>
+	<li>Add  and configure Windows Server Core roles.</li>
+	<li>Add  the Backup feature to Windows Server Core.</li>
+	<li>Manage  Windows Server Core.</li>
+	<li>Create  an answer file for use with Dcpromo.</li>
+	<li>Create  an Unattend file to automate RODC installation.</li>
+	<li>Deploy  a Read-Only Domain Controller (RODC) using an answer file.</li>
+	<li>Install  and configure Windows Deployment Services (WDS).</li>
+	<li>Create  operating system images in WDS.</li>
+	<li>Add  components like language packs to an image.</li>
+	<li>Use  an Unattend file with WDS.</li>
+	<li>Configure  custom computer naming for large scale WDS deployments.</li>
+	<li>Deploy  images with WDS.</li>
+	<li>Install  Microsoft Deployment Toolkit (MDT).</li>
+	<li>Configure  MDT.</li>
+	<li>Create  an MDT build.</li>
+	<li>Create  MDT deployment points.</li>
+	<li>Perform  a Lite Touch installation using MDT.</li>
+	<li>Prepare  a Windows Server 2003 forest for upgrade to Windows Server 2008.</li>
+	<li>Prepare  a Windows Server 2003 domain for upgrade to Windows Server 2008.</li>
+	<li>Install  a domain controller in an existing domain using the Windows interface.</li>
+	<li>Install  a domain controller in an existing domain using the Command Line.</li>
+	<li>Describe  considerations for upgrading file and print servers.</li>
+	<li>Describe  considerations for upgrading Web and application servers.</li>
+	<li>Describe  considerations for upgrading remote infrastructure servers.</li>
+	<li>Install  and configure the file and print server roles.</li>
+	<li>Create  and replicate a Distributed File System (DFS) namespace.</li>
+	<li>Schedule  a backup.</li>
+	<li>Migrate  a printer.</li>
+	<li>Export  an application and configuration from an IIS 6.0 server.</li>
+	<li>Configure  IIS 7.0 on Windows Server 2008</li>
+	<li>Import  a configuration onto Windows Server 2008</li>
+	<li>Enable  Remote Desktop and remote administration of Windows Firewall.</li>
+	<li>Install  and configure BitLocker Drive Encryption (BDE) and BDE Remote Admin Tool.</li>
+	<li>Configure  admin role separation on an RODC.</li>
+	<li>Configure  Distributed File System Replication (DFS-R).</li>
+	<li>Migrate  a Windows NT 4.0 server to a virtual machine.</li>
+</ul>

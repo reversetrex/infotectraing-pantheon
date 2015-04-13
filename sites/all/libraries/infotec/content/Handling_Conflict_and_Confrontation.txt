@@ -1,0 +1,53 @@
+<h2>Session 1</h2>
+  <h3>Section A: Understanding Conflict</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Positive Effects</li>
+    <li>Negative Effects</li>
+    <li>Misconceptions</li>
+    <li>Reflections</li>
+  </ul>
+  <h3>Section B: Types of Conflict</h3>
+  <ul>
+    <li>Three Types</li>
+    <li>Internal Conflict</li>
+    <li>Interpersonal Conflict</li>
+    <li>Intergroup Conflict</li>
+    <li>Reflections</li>
+  </ul>
+  <h3>Section C: Stages of Conflict</h3>
+  <ul>
+    <li>Three Stages</li>
+    <li>Everyday Concerns</li>
+    <li>Significant Challenges</li>
+    <li>Overt Battles</li>
+    <li>Reflections</li>
+  </ul>
+  <h3>Section D: Managing Conflict</h3>
+  <ul>
+    <li>Five Styles</li>
+    <li>Collaboration</li>
+    <li>Obliging</li>
+    <li>Dominating</li>
+    <li>Avoiding</li>
+    <li>Compromising</li>
+    <li>Reflections</li>
+  </ul>
+  <h3>Section E: Maintaining Relationships</h3>
+  <ul>
+    <li>Principles</li>
+    <li>Guidelines</li>
+    <li>Constructive Process</li>
+    <li>Communication Tips</li>
+  </ul>
+  <h3>Section F: Emotions of Conflict</h3>
+  <ul>
+    <li>Emotional Responses</li>
+    <li>Four Questions</li>
+    <li>Rejection Response</li>
+  </ul>
+  <h3>Section G: Responses to Avoid</h3>
+  <ul>
+    <li>Emotional Don'ts</li>
+    <li>Closer Look</li>
+  </ul>

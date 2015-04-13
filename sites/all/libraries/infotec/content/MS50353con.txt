@@ -1,0 +1,92 @@
+<p><strong>Module 1: Overview</strong> - A simple introduction module.</p>
+<p><strong>Module 2: Service  Applications</strong> - In this module we are going to take a look at Service  Applications and how the older Shared Service Provider is now obsolete.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Service Applications</li>
+  <li>Lab : Explore Service Applications</li>
+  <li>Explore Service Applications</li>
+  <li>Lab : Install Service Application</li>
+  <li>Install a Service Application</li>
+  <li>Assign a Service Application</li>
+</ul>
+<p><strong>Module 3: PowerShell</strong> - In this module we are going to take a look at new PowerShell  features in SharePoint 2010.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>PowerShell</li>
+  <li>SharePoint and PowerShell</li>
+  <li>Lab : PowerShell Basics</li>
+  <li>PowerShell Basics – Commandlets</li>
+  <li>Variables</li>
+  <li>Arrays</li>
+  <li>While Loop</li>
+  <li>If Statement</li>
+  <li>Create An Object</li>
+  <li>Static Properties</li>
+  <li>Lab :  PowerShell With  SharePoint</li>
+  <li>Load SharePoint Dll into PowerShell</li>
+  <li>Set  PowerShell  Execution Policy</li>
+  <li>Enumerate Webs</li>
+  <li>Create a site with PowerShell</li>
+  <li>Create/Update an item with PowerShell</li>
+  <li>Backup SharePoint with PowerShell</li>
+  <li>Profiles and MySites script</li>
+  <li>Lab : Profiles and MySites script</li>
+  <li>Explore SharePoint 2010 Commandlets</li>
+</ul>
+<p><strong>Module 4: Monitoring</strong> - In this module we are going to take a look at new monitoring  features in SharePoint 2010.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Monitoring</li>
+  <li>Lab : Configure Monitoring</li>
+  <li>Configuring Diagnostic Logging</li>
+  <li>Lab : ULS Viewer</li>
+  <li>Explore the ULS Viewer</li>
+  <li>Lab : Health Analyzer</li>
+  <li>Explore SharePoint Health Analyzer</li>
+  <li>Lab : Logging Database</li>
+  <li>Explore SharePoint  Logging Database</li>
+</ul>
+<p><strong>Module 5: Search</strong> - In this module we are going to take a look at new Search  features in  SharePoint 2010, Search  Federation, and the new Search product called FAST ESP.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Federated Search</li>
+  <li>Search Architecture</li>
+  <li>FAST Search</li>
+  <li>Search 2010</li>
+  <li>Lab : Install Search</li>
+  <li>Install SharePoint Search</li>
+  <li>Lab : Explore Search</li>
+  <li>Explore SharePoint Search</li>
+  <li>Lab : Install FAST Search</li>
+  <li>Install FAST Search</li>
+</ul>
+<p><strong>Module 6: Backup  Restore Disaster Recovery</strong> - In this module we are going to take a look at new High  Availability features in SharePoint 2010.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Disaster Recovery</li>
+  <li>Backup</li>
+  <li>Restore</li>
+  <li>Lab : Backup</li>
+  <li>Explore Backup Options</li>
+  <li>Central Administration</li>
+  <li>PowerShell</li>
+  <li>Lab : Restore</li>
+  <li>Restore SharePoint</li>
+  <li>Partial Restore</li>
+</ul>
+<p><strong>Module 7: Install and  Upgrading</strong> - In this module we are going to take a look at upgrading your  older SharePoint 2007 farm to 2010!</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Deep Details</li>
+  <li>Upgrading 2007</li>
+  <li>Lab : Installing SharePoint 2010</li>
+  <li>Install SharePoint Foundation</li>
+  <li>Install SharePoint Server</li>
+  <li>Lab : Upgrade (Pre-reqs)</li>
+  <li>Upgrade to SP2</li>
+  <li>Install CU Oct 2009</li>
+  <li>Lab : Upgrade (Gradual)</li>
+  <li>Gradual Upgrade</li>
+  <li>Lab : Upgrade (In-Place)</li>
+  <li>In-Place Upgrade</li>
+</ul>

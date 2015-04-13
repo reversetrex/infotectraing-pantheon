@@ -1,0 +1,218 @@
+<ul>
+  <li> Support of Presentation Server </li>
+  <ul>
+    <li> Servers and Components </li>
+    <li>  Server Communication </li>
+    <li>  Citrix and Windows Services </li>
+    <li>  Monitoring and Support Tools </li>
+    <li>  Potential Causes for Common Symptoms <br>
+    </li>
+  </ul>
+  <li><strong>  Resource Manager </strong></li>
+  <ul>
+    <li>  Resource Manager Architecture </li>
+    <li>  Changing the Farm Metric Server </li>
+    <li>  Summary Database </li>
+    <li>  Configuring the Data Source Name </li>
+    <li>  Configuring the Database Connection Server </li>
+    <li>  Enabling the Summary Database </li>
+    <li>  Resource Manager Metrics </li>
+    <li>  Establishing Baselines </li>
+    <li>  Adding and Configuring Application Metrics </li>
+    <li>  Adding Server Metrics </li>
+    <li>  Configuring Server Metric Thresholds </li>
+    <li>  Monitoring Metric Data </li>
+    <li>  Managing Metric Data </li>
+    <li>  Reports </li>
+    <li>  Generating a Report Specification </li>
+    <li>  Generating Reports in the Report Center </li>
+    <li>  Resource Manager Web Console </li>
+    <li> Configuring the Resource Manager Web Console </li>
+    <li>  Running Queries and Generating Reports <br>
+    </li>
+  </ul>
+  <li><strong> Server Farm Monitoring </strong></li>
+  <ul>
+    <li>  Server Farm Monitoring </li>
+    <li>  Publishing Presentation Server Console </li>
+    <li>  Session Information </li>
+    <li>  Session Management Commands </li>
+    <li>  Access Suite Console Features </li>
+    <li>  Viewing Alerts and Logs </li>
+    <li>  Configuring the Company Knowledge Database </li>
+    <li>  Using the Dashboard to Monitor Server Performance </li>
+    <li>  Monitoring Hotfixes </li>
+    <li>  Command-Line Utilities </li>
+    <li>  QUERY Commands </li>
+    <li>  Using the QUERYDC Command </li>
+    <li>  Using the QUERYHR Command </li>
+    <li>  Using the QUERYDS Command </li>
+    <li>  The Citrix Diagnostic Facility </li>
+    <li>  Using CDF Trace </li>
+    <li>  Creating Trace Reports Using CDF Viewer <br>
+    </li>
+  </ul>
+  <li><strong> Server Farm Optimization and Troubleshooting </strong></li>
+  <ul>
+    <li>  Server Capacity </li>
+    <li>  Network Optimization </li>
+    <li>  Optimizing Network Interface Cards </li>
+    <li>  Optimizing Hardware and Software Components </li>
+    <li>  Server Load Optimization </li>
+    <li>  Determining Load Bias </li>
+    <li>  Using QUERYDS to Determine Load </li>
+    <li>  Using QFARM to Determine Load </li>
+    <li>  Server Farm Optimization </li>
+    <li>  Optimizing CPU Utilization </li>
+    <li>  Configuring a Reboot Schedule </li>
+    <li>  Configuring a Dedicated Data Collector </li>
+    <li>  Server Farm Troubleshooting </li>
+    <li>  Troubleshooting the IMA Service <br>
+    </li>
+  </ul>
+  <li><strong> Data Store Support </strong></li>
+  <ul>
+    <li> Data Store Access Methods </li>
+    <li>  Data Store Monitoring </li>
+    <li>  IMA Service Monitoring </li>
+    <li>  Database Tools </li>
+    <li>  Data Store Maintenance and Optimization </li>
+    <li>  Compacting an Access Database </li>
+    <li>  Backing Up and Restoring an Access Data Store </li>
+    <li>  Recreating the Local Host Cache </li>
+    <li>  Database Server Availability </li>
+    <li>  Database Troubleshooting </li>
+    <li>  Troubleshooting Connectivity to the Data Store <br>
+    </li>
+  </ul>
+  <li><strong> Client Support </strong></li>
+  <ul>
+    <li>  Client Connection Process </li>
+    <li>  Client Security </li>
+    <li>  Using ICA Encryption </li>
+    <li>  Securing Authentication </li>
+    <li>  Supporting Smart-Card Authentication </li>
+    <li>  Configuring Kerberos Authentication </li>
+    <li>  Kerberos without Pass-Through Authentication </li>
+    <li>  Kerberos with Pass-Through Authentication </li>
+    <li>  Disabling Pass-Through Authentication </li>
+    <li>  Client Troubleshooting </li>
+    <li>  Troubleshooting ICA Session Initialization </li>
+    <li>  Troubleshooting Slow Logons </li>
+    <li>  Troubleshooting User Profiles </li>
+    <li>  Troubleshooting Program Neighborhood Settings </li>
+    <li>  Troubleshooting Multiple Monitors <br>
+    </li>
+  </ul>
+  <li><strong> Published Application Support </strong></li>
+  <ul>
+    <li>  Application Loading </li>
+    <li>  Application Optimizations </li>
+    <li>  Virtual Memory Optimization </li>
+    <li>  Viewing Relocated .DLLs </li>
+    <li>  Scheduling Memory Optimization </li>
+    <li>  Viewing Rebased .DLLs </li>
+    <li>  Excluding Executables from Rebasing </li>
+    <li>  Application Monitoring </li>
+    <li>  Server Resource Monitoring </li>
+    <li>  Application and Network Configuration Monitoring </li>
+    <li>  Security Configuration Monitoring </li>
+    <li>  Application Compatibility </li>
+    <li>  Using Application Isolation Rules </li>
+    <li>  Configuring Virtual IP Addresses </li>
+    <li>  Application Test Environment </li>
+    <li>  Application Troubleshooting </li>
+    <li>  Troubleshooting Application Isolation Environments </li>
+    <li>  Troubleshooting Virtual IP Address Configuration <br>
+    </li>
+  </ul>
+  <li><strong> Policy Management </strong></li>
+  <ul>
+    <li>  Active Directory Policies </li>
+    <li>  Processing of Active Directory Policies </li>
+    <li>  Active Directory Policy Management </li>
+    <li>  Citrix Policy Management </li>
+    <li>  Processing of Citrix Policies </li>
+    <li>  Troubleshooting Policies </li>
+    <li>  Confirming ICA Listener Settings </li>
+    <li>  Generating an Active Directory Resultant Set of Policy Report </li>
+    <li>  Generating a Citrix Resultant Policy <br>
+    </li>
+  </ul>
+  <li><strong> Print Management </strong></li>
+  <ul>
+    <li>  Printing Path for Auto-Created Printers </li>
+    <li>  Print Optimization </li>
+    <li>  Optimizing Printing for LAN Users </li>
+    <li>  Optimizing Printing for Slow Connections </li>
+    <li>  Print Settings </li>
+    <li>  Verifying Ctx_SmaUser Account Settings </li>
+    <li>  Verifying Printing Component Settings </li>
+    <li>  Verifying Client Settings </li>
+    <li>  Print Server and Driver Settings </li>
+    <li>  Troubleshooting Printing </li>
+    <li>  Overriding Default Administrator Rights </li>
+    <li> Identifying Potential Causes </li>
+    <li>  Troubleshooting Slow Printing </li>
+    <li>  Troubleshooting Failed Print Jobs </li>
+    <li>  Capturing Print Communications <br>
+    </li>
+  </ul>
+  <li><strong> Web Interface Support </strong></li>
+  <ul>
+    <li>  Web Interface Communications </li>
+    <li>  Web Interface Configuration Methods </li>
+    <li>  Web Interface Configuration Server </li>
+    <li>  Configuring Logs for Web Interface </li>
+    <li>  Enabling Detailed Error Messages </li>
+    <li>  Web Interface Site Structure </li>
+    <li>  Web Interface Security </li>
+    <li>  Client to Web Interface Communication </li>
+    <li>  Securing Communication from the Client to Web Interface </li>
+    <li>  Web Interface to Presentation Server Communication </li>
+    <li>  Securing Servers with Citrix SSL Relay </li>
+    <li>  Securing Servers with HTTPS </li>
+    <li>  Client to Presentation Server Communication </li>
+    <li> Securing Communication from the Client to Presentation Server </li>
+    <li>  Web Interface Troubleshooting </li>
+    <li>  Verifying Settings for All Servers </li>
+    <li>  Using the Repair Option </li>
+    <li>  Troubleshooting Web Interface Options </li>
+    <li>  Enabling Tracing with ASP.NET </li>
+    <li>  Authentication Troubleshooting </li>
+    <li>  Troubleshooting Explicit Authentication </li>
+    <li>  Troubleshooting Pass-Through Authentication </li>
+    <li>  Troubleshooting Smart-Card Authentication </li>
+    <li>  Troubleshooting Integrated Authentication </li>
+    <li>  Troubleshooting ICA Authentication Tickets </li>
+    <li>  Troubleshooting the Least Busy Server Determination Troubleshooting Address Translation </li>
+    <li> Troubleshooting Error Messages<br>
+    &nbsp;</li>
+  </ul>
+  <li><strong> Secure Gateway Support </strong></li>
+  <ul>
+    <li>  Secure Gateway Components </li>
+    <li>  Secure Gateway Connection Process </li>
+    <li>  Secure Gateway Monitoring </li>
+    <li>  Monitoring the Secure Gateway Service </li>
+    <li>  Monitoring the Secure Ticket Authority </li>
+    <li>  Using the Secure Gateway Management Console </li>
+    <li>  Using the Secure Gateway Diagnostics Tool </li>
+    <li>  Secure Gateway Optimization </li>
+    <li>  Configuring Secure Gateway with Web Interface </li>
+    <li>  Installing the Secure Gateway Proxy </li>
+    <li>  Configuring Firewalls </li>
+    <li>  Load Balancing Servers </li>
+    <li>  Identifying Keep-Alive Values </li>
+    <li>  Digital Certificates </li>
+    <li>  Identifying Server Certificate Requirements </li>
+    <li>  Establishing Identities with Certificates </li>
+    <li>  Secure Gateway Troubleshooting </li>
+    <li>  Viewing Event Logs and Access Logs </li>
+    <li>  Identifying Connection Issues </li>
+    <li>  Identifying Certificate Issues </li>
+    <li>  Using Web Server Load Balancers </li>
+    <li>  Placing Secure Gateway Parallel to the Load Balancer </li>
+    <li>  Using Network Address Translation </li>
+  </ul>
+</ul>

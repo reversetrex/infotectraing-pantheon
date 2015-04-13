@@ -1,0 +1,107 @@
+<p><strong>Module 1: Installing Windows 8</strong></p>
+<p>This module will introduce the student to some new features of Windows 8, provide guidance on installing Windows 8, and introduce them to the Windows 8 licensing environment.</p>
+<ul>
+  <li>Introducing Windows 8</li>
+  <li>Preparing to Install Windows 8</li>
+  <li>Installing Windows 8</li>
+  <li>Automating the Installation of Windows 8</li>
+  <li>Activating Windows 8</li>
+</ul>
+<p><strong>Module 2: Upgrading and Migrating to Windows 8</strong></p>
+<p>This module examines the upgrade process, identifies different methods for upgrading and migrating, and   introduces you to the tools and processes used to perform an upgrade or migration.</p>
+<ul>
+  <li>Upgrading to Windows 8</li>
+  <li>Migrating to Windows 8</li>
+  <li>Migrating User Data and Settings</li>
+</ul>
+<p><strong>Module 3: Managing Disks and Device Drivers</strong></p>
+<p>This module explains how to manage disk, including simple, spanned, or striped volumes. It also explains how to   optimize file-system performance, and how to use disk quotas to manage available disk space on installed volumes.</p>
+<ul>
+  <li>Managing Disks, Partitions, and Volumes</li>
+  <li>Maintaining Disks, Partitions, and Volumes</li>
+  <li>Working with Virtual Hard Disks</li>
+  <li>Installing and Configuring Device Drivers</li>
+</ul>
+<p><strong>Module 4: Configuring and Troubleshooting Network Connections</strong></p>
+<p>This module explains how to configure and troubleshoot Windows 8 networking features including both TCP/IP version 4 and TCP/IP version 6.</p>
+<ul>
+  <li>Configuring IPv4 Network Connectivity</li>
+  <li>Configuring IPv6 Network Connectivity</li>
+  <li>Implementing Automatic IP Address Allocation</li>
+  <li>Implementing Name Resolution</li>
+  <li>Troubleshooting Network Connectivity</li>
+</ul>
+<p><strong>Module 5: Implementing Wireless Network Connections</strong></p>
+<p>This module describe the wireless network technologies available, the procedures for configuring wireless network components, and the Windows 8 elements that are necessary to access wireless networks.</p>
+<ul>
+  <li>Overview of Wireless Networks</li>
+  <li>Implementing a Wireless Network</li>
+</ul>
+<p><strong>Module 6: Implementing Network Security</strong></p>
+<p>This module explains how to formulate a strategy to protect your computers by using User policies, anti-virus software, encrypted network traffic, and other protective measures. It also explains how to optimize the appropriate Windows network security features, such as the Windows Firewall and Windows Defender.</p>
+<ul>
+  <li>Overview of Threats to Network Security</li>
+  <li>Configuring Windows Firewall</li>
+  <li>Securing Network Traffic</li>
+  <li>Configuring Windows Defender</li>
+</ul>
+<p><strong>Module 7: Configuring File Access and Printers on Windows 8 Clients</strong></p>
+<p>This module provides the information and tools you need to manage access to shared folders and printers.   Specifically, the module describes how to share and protect folders, configure folder compression, and how to install, configure, and manage printers. Additionally, this module introduces the SkyDrive functionality, and describes how to set up NTFS folder permissions.</p>
+<ul>
+  <li>Managing File Access</li>
+  <li>Managing Shared Folders</li>
+  <li>Configuring File Compression</li>
+  <li>Managing Printers</li>
+  <li>Overview of SkyDrive</li>
+</ul>
+<p><strong>Module 8: Securing Windows 8 Desktops</strong></p>
+<p>This module explains the features of Windows 8 that help you maintain a secure computer desktop environment.</p>
+<ul>
+  <li>Authentication and Authorization in Windows 8</li>
+  <li>Implementing GPOs</li>
+  <li>Securing Data with EFS and BitLocker</li>
+  <li>Configuring User Account Control</li>
+</ul>
+<p><strong>Module 9: Configuring Applications</strong></p>
+<p>This module explains how to install and configure applications, which include both desktop apps and Windows Store   apps.</p>
+<ul>
+  <li>Install and Configure Applications</li>
+  <li>Managing Apps from the Windows Store</li>
+  <li>Configuring Internet Explorer Settings</li>
+  <li>Configuring Application Restrictions in the Enterprise</li>
+</ul>
+<p><strong>Module 10: Optimizing and Maintaining Windows 8 Client Computers</strong></p>
+<p>This module explains the tools that you can use to determine the source of performance and reliability issues. It also describes the steps to take to improve system performance and reliability.</p>
+<ul>
+  <li>Optimizing the Performance of Windows 8</li>
+  <li>Managing the Reliability of Windows 8</li>
+  <li>Managing Windows 8 Updates</li>
+</ul>
+<p><strong>Module 11: Configuring Mobile Computing and Remote Access</strong></p>
+<p>This module explains how to identify and configure appropriate mobile computer access, specifically DirectAccess and VPN. Additionally, this module describes various power options, and device synchronization capabilities that students can configure.</p>
+<ul>
+  <li>Configuring Mobile Computers and Device Settings</li>
+  <li>Configuring VPN Access</li>
+  <li>Configuring Remote Desktop and Remote Assistance</li>
+  <li>Overview of DirectAccess</li>
+</ul>
+<p><strong>Module 12: Implementing Hyper-VThis module introduces the student to Client Hyper-V in Windows 8, and explains the fundamentals of working with virtual machines in the Client Hyper-V environment.</strong></p>
+<ul>
+  <li>Overview of Hyper-V</li>
+  <li>Creating Virtual Machines</li>
+  <li>Managing Virtual Hard Disks</li>
+  <li>Managing Snapshots</li>
+</ul>
+<p><strong>Module 13: Troubleshooting and Recovering Windows 8</strong></p>
+<p>This module explains how to use the included tools to maintain a backup of important data files and additional tools that can help you to recover a computer that will not start, or starts with errors.</p>
+<ul>
+  <li>Backing Up and Restoring Files in Windows 8</li>
+  <li>Recovery Options in Windows 8</li>
+</ul>
+<p><strong>Module 14: Using Windows PowerShell</strong></p>
+<p>This module explains how to use Windows PowerShell, its (GUI), and scripting editor to write scripts that automate repetitive tasks, and thereby increase consistency and productivity.</p>
+<ul>
+  <li>Introduction to Windows PowerShell 3.0</li>
+  <li>Windows PowerShell Remoting</li>
+  <li>Using Windows PowerShell Cmdlets</li>
+</ul>

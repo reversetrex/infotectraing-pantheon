@@ -1,0 +1,64 @@
+<p><strong>Lesson 1: An Orientation to PowerPoint</strong></p>
+<ul>
+  <li>The PowerPoint Environment</li>
+  <li>Orientation to Views</li>
+  <li>Navigate Through a Presentation</li>
+  <li>Edit Slide Text</li>
+  <li>Save the Presentation</li>
+  <li>Run a Slide Show</li>
+</ul>
+<p><strong>Lesson 2: Beginning a Presentation</strong></p>
+<ul>
+  <li>Create a New Presentation</li>
+  <li>Change Background Color</li>
+  <li>Add Slides to a Presentation</li>
+  <li>Enter Text</li>
+  <li>Create a Presentation from a Microsoft Word Outline</li>
+</ul>
+<p><strong>Lesson 3: Formatting Text Slides</strong></p>
+<ul>
+  <li>Apply Character Formats</li>
+  <li>Align Text</li>
+  <li>Change Line Spacing</li>
+  <li>Change Indents</li>
+</ul>
+<p><strong>Lesson 4: Adding Tables to a Presentation</strong></p>
+<ul>
+  <li>Create a Table</li>
+  <li>Format Tables</li>
+  <li>Insert a Table from Microsoft Word</li>
+</ul>
+<p><strong>Lesson 5: Charting Data</strong></p>
+<ul>
+  <li>Create a Column Chart</li>
+  <li>Edit Chart Data</li>
+  <li>Change Chart Type</li>
+  <li>Insert a Chart from Microsoft Excel</li>
+</ul>
+<p><strong>Lesson 6: Modifying Objects</strong></p>
+<ul>
+  <li>Resize Objects</li>
+  <li>Copy and Duplicate Objects</li>
+  <li>Move Objects</li>
+  <li>Changing Object Orientation</li>
+  <li>Format Objects</li>
+  <li>Group and Ungroup Objects</li>
+  <li>Change the Order of Objects</li>
+</ul>
+<p><strong>Lesson 7: Adding Images to a Presentation</strong></p>
+<ul>
+  <li>Add Clip Art</li>
+  <li>Add a Picture from a File</li>
+  <li>Draw Lines and Shapes</li>
+  <li>Insert WordArt</li>
+</ul>
+<p><strong>Lesson 8: Preparing to Deliver a Presentation</strong></p>
+<ul>
+  <li>Spell Check</li>
+  <li>Arrange Slides</li>
+  <li>Add Transitions</li>
+  <li>Create Speaker Notes</li>
+  <li>Send a Presentation to Microsoft Word</li>
+  <li>Print the Presentation</li>
+  <li>Package a Presentation for CD</li>
+</ul>

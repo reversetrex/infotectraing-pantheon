@@ -1,0 +1,58 @@
+<strong>Lesson 1: Getting Started with Expression Web</strong>
+<ul>
+  <li>Topic 1A: Overview of Website Development </li>
+  <li>Topic 1B: Explore the Expression Web Interface </li>
+  <li>Topic 1C: Customize the Expression Web Interface</li>
+</ul>
+
+<strong>Lesson 2: Designing the Layout of a Website</strong>
+<ul>
+  <li>Topic 2A: Define a Website </li>
+  <li>Topic 2B: Design Layouts Using Layout Tables </li>
+  <li>Topic 2C: Define Standard Layout Components </li>
+  <li>Topic 2D: Create a Dynamic Web Template</li>
+</ul>
+
+<strong>Lesson 3: Aliing Content to a Website</strong>
+<ul>
+  <li>Topic 3A: Create a Home Page </li>
+  <li>Topic 3B: Ali Text to a Web Page </li>
+  <li>Topic 3C: Import Pages to a Website </li>
+  <li>Topic 3D: Format Text </li>
+  <li>Topic 3E: Work with Tables </li>
+  <li>Topic 3F: Work with Images</li>
+</ul>
+
+<strong>Lesson 4: Formatting a Website Using CSS</strong>
+<ul>
+  <li>Topic 4A: Introduction to CSS </li>
+  <li>Topic 4B: Create an External Style Sheet </li>
+  <li>Topic 4C: Attach an External Style Sheet </li>
+  <li>Topic 4D: Create an Internal Style Sheet </li>
+  <li>Topic 4E: Modify an External Style Sheet</li>
+</ul>
+
+<strong>Lesson 5: Working with Links</strong>
+<ul>
+  <li>Topic 5A: Create Hyperlinks </li>
+  <li>Topic 5B: Create Bookmark Links </li>
+  <li>Topic 5C: Format Text Hyperlinks </li>
+  <li>Topic 5D: Create a Hotspot</li>
+</ul>
+
+<strong>Lesson 6: Aliing Interactivity</strong>
+<ul>
+  <li>Topic 6A: Ali an Interactive Button </li>
+  <li>Topic 6B: Open a Page in a New Browser Window </li>
+  <li>Topic 6C: Create a Rollover </li>
+  <li>Topic 6D: Ali an Audio File</li>
+</ul>
+
+<strong>Lesson 7: Finalizing a Website</strong>
+<ul>
+  <li>Topic 7A: Check for Accessibility </li>
+  <li>Topic 7B: Check for Compatibility </li>
+  <li>Topic 7C: Generate CSS Reports </li>
+  <li>Topic 7D: Check the Site Summary Report </li>
+  <li>Topic 7E: Publish the Website</li>
+</ul>

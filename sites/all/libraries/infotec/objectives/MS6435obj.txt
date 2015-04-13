@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe key components of network infrastructure design.</li>
+  <li>Describe how to design a secure network.</li>
+  <li>Design a plan for allocating IP addresses to workstations and servers.</li>
+  <li>Design a network topology.</li>
+  <li>Describe the internal considerations for network security and how they can be addressed.</li>
+  <li>Design an appropriate name resolution system that incorporates Domain Name System (DNS).</li>
+  <li>Optimize a name resolution system that incorporates DNS and Windows Internet Name Service (WINS).</li>
+  <li>Design a solution for network access.</li>
+  <li>Design a Network Access Protection (NAP) solution.</li>
+  <li>Design a solution for operating system deployment and maintenance.</li>
+  <li>Design the deployment of file services.</li>
+  <li>Design print services in Windows Server 2008.</li>
+  <li>Design high availability for applications and services.</li>
+</ul>

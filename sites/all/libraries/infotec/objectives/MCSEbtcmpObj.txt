@@ -1,0 +1,124 @@
+<p><strong> Microsoft 2272: At the end of the course, students will be able to: </strong></p>
+<ul>
+  <li> Install Windows XP Professional and upgrade to Windows XP Professional. Automate an installation of Windows XP Professional by using answer files and Uniqueness Database Files (UDFs), or by using the System Preparation Tool in Microsoft Windows 2000. Configure and manage hardware on a computer running Windows XP Professional. Troubleshoot the boot process and other system issues. Configure Windows XP Professional to operate on Microsoft Windows networks. Configure the desktop environment, and use profiles to control desktop customization. Configure and support Transmission Control Protocol/Internet Protocol (TCP/IP). Configure and troubleshoot name resolution. Configure Windows XP Professional for networks running Novell NetWare and UNIX operating systems. Support remote users. Configure Windows XP Professional for mobile computing. Manage disks. Configure and manage file systems. Monitor resources and performance. </li>
+</ul>
+<p><strong> Microsoft 2273: At the end of the course, students will be able to:</strong></p>
+<ul>
+  <li> Create and populate organizational units with user and computer accounts. </li>
+  <li> Manage user and computer accounts. </li>
+  <li> Create and manage groups. </li>
+  <li> Manage access to resources. </li>
+  <li> Implement printing. </li>
+  <li> Manage printing. </li>
+  <li> Manage access to objects in organizational units. </li>
+  <li> Implement Group Policy. </li>
+  <li> Manage the user and computer environment by using Group Policy. </li>
+  <li> Audit accounts and resources. </li>
+  <li> Prepare to administer server resources. </li>
+  <li> Configure a server to monitor system performance. </li>
+  <li> Monitor system performance. </li>
+  <li> Manage device drivers by configuring device driver signing and restoring a device driver. </li>
+  <li> Manage hard disks. </li>
+  <li> Manage data storage. </li>
+  <li> Manage disaster recovery. </li>
+  <li> Maintain software by using Microsoft Software Update Services. </li>
+</ul>
+<p><strong> Microsoft 2276: Describe the Transmission Control Protocol/Internet Protocol (TCP/IP) protocol architecture. </strong></p>
+<ul>
+  <li> Convert Internet Protocol (IP) addresses between decimal and binary. </li>
+  <li> Calculate a subnet mask. </li>
+  <li> Create subnets using Variable-Length Subnet Mask (VLSM) and Classless Inter-Domain Routing (CIDR). </li>
+  <li> Configure a host to use a static IP address. </li>
+  <li> Assign IP addresses in a multiple subnet network. </li>
+  <li> Describe the IP routing process. </li>
+  <li> Configure a host to obtain an IP address automatically. </li>
+  <li> Configure a host so that automatic private IP address configuration is disabled. </li>
+  <li> Configure a host to use name servers. </li>
+  <li> Isolate common connectivity issues. </li>
+</ul>
+<p><strong> Microsoft 2277: At the end of the course, students will be able to: </strong></p>
+<ul>
+  <li> Configure routing by using the Routing and Remote Access service. </li>
+  <li> Allocate IP addressing by using DHCP. </li>
+  <li> Manage and monitor DHCP. </li>
+  <li> Resolve names. </li>
+  <li> Resolve host names by using DNS. </li>
+  <li> Manage and monitor DNS. </li>
+  <li> Resolve network basic input/output system (NetBIOS) names by using WINS. </li>
+  <li> Secure network traffic by using IPSec and certificates. </li>
+  <li> Configure network access. </li>
+  <li>Manage and monitor network access.</li>
+</ul>
+<p><strong> Microsoft 2278: At the end of the course, students will be able to: </strong></p>
+<ul>
+  <li> Plan a TCP/IP physical and logical network. </li>
+  <li> Plan and troubleshoot a routing strategy. </li>
+  <li> Plan a Dynamic Host Configuration Protocol (DHCP) strategy. </li>
+  <li> Optimize and troubleshoot DHCP. </li>
+  <li> Plan a Domain Name System (DNS) strategy. </li>
+  <li> Optimize and troubleshoot DNS. </li>
+  <li> Plan and optimize Windows Internet Naming Service (WINS). </li>
+  <li>Plan, optimize, and troubleshoot</li>
+</ul>
+<p><strong> Microsoft 2279: Describe the logical and physical components of Active Directory. </strong></p>
+<ul>
+  <li> Create and configure a forest and domain structure by using an Active Directory infrastructure design. </li>
+  <li> Plan and implement an organizational unit structure. </li>
+  <li> Plan and implement Active Directory user, group, and computer accounts. </li>
+  <li> Plan and implement a Group Policy strategy to centrally manage users and computers in an enterprise. </li>
+  <li> Deploy, manage, and troubleshoot software that is deployed using Group Policy. </li>
+  <li> Implement sites to manage and monitor Active Directory replication. </li>
+  <li> Plan and implement the placement of domain controllers, global catalog servers, and DNS servers that are integrated with Active Directory. </li>
+  <li> Plan and manage operations masters. </li>
+  <li> Back up, restore, and maintain Active Directory. </li>
+  <li> Plan and implement an Active Directory infrastructure that is based on a directory service design that an enterprise architect provides. </li>
+</ul>
+<p><strong> Microsoft 2400: After completing this course, students will be able to: </strong></p>
+<ul>
+  <li> Perform a clean installation of Exchange Server 2003 and verify that the installation was successful. </li>
+  <li> Describe the process for upgrading to Exchange Server 2003 from Exchange 2000. </li>
+  <li> Configure and manage Exchange Server 2003. </li>
+  <li> Manage interoperability between Exchange Server 2003 and Exchange 2000. </li>
+  <li> Secure Exchange Server 2003. </li>
+  <li> Manage recipients. </li>
+  <li> Manage public folders. </li>
+  <li> Manage address lists. </li>
+  <li> Implement and manage client access with Internet protocols. </li>
+  <li> Manage client configuration and connectivity. </li>
+  <li> Manage routing. </li>
+  <li> Manage mobile devices with Exchange Server 2003. </li>
+  <li> Manage data storage and hardware resources. </li>
+  <li> Plan for disaster and disaster recovery. </li>
+  <li> Back up and restore Exchange. </li>
+  <li> Perform preventive maintenance. </li>
+  <li> Migrate users from Exchange Server 5.5 to a separate Exchange Server 2003 organization. </li>
+</ul>
+<p><strong> Microsoft 2830: After completing this course, students will be able to: </strong></p>
+<ul>
+  <li> Plan a framework for network security. </li>
+  <li> Identify threats to network security. </li>
+  <li> Analyze security risks. </li>
+  <li> Design security for physical resources. </li>
+  <li> Design security for computers. </li>
+  <li> Design security for accounts. </li>
+  <li> Design security for authentication. </li>
+  <li> Design security for data. </li>
+  <li> Design security for data transmission. </li>
+  <li> Design security for network perimeters. </li>
+  <li> Design an incident response procedure. </li>
+</ul>
+<p> In addition, this course contains three teachable appendices that cover: </p>
+<ul>
+  <li> Designing an acceptable use policy. </li>
+  <li> Designing policies for managing networks. </li>
+  <li>Designing an operations framework for managing security.</li>
+</ul>
+<p><strong>Security+:</strong></p>
+<ul>
+  <li> Define security terminology, explain the purpose and goals of network security policies, and outline various security threats.<strong></strong></li>
+  <li> Understand the need for authentication and the development of authentication devices including Kerberos, CHAP, digital certificates, tokens, biometrics, mutual authentication, and multi-factor authentication.<strong></strong></li>
+  <li> Identify the major types of attacks and malicious codes that commonly affect the confidentiality, integrity, and availability of networks; and discuss the business impact of security along with the countermeasures and best practices used to prevent or mitigate the effect of attacks and malicious codes.<strong></strong></li>
+  <li> Understand the concepts and practices of remote access, including commonly used authentication protocols (IEEE 802.1X, RADIUS and TACACS+) and tunneling technologies (PPTP, L2TP, IPSec and Secure Shell).<strong></strong></li>
+  <li> Discuss e-mail vulnerabilities and how to safeguard against them, and the benefits of PGP and S/MIME<strong></strong></li>
+  <li> Discuss Web security including SSL/TLC protocols; HTTPS as it relates to SSL; and the variety of mainstream Web tools such as JavaScript, Buffer Overflow, ActiveX, Cookies, Applets and SMTP that are commonly exploited by attackers on the Internet.<strong></strong></li>
+</ul>

@@ -1,0 +1,8 @@
+<ul>
+  <li>Describe how phone calls are completed; describe the features and components of the PSTN, including premise, network, and central office wiring and hardware; describe interoffice wiring and the signaling technologies.</li>
+  <li>Identify the layers of the OSI model; explain TCP/IP networking basics; identify the TCP/IP networking hardware; and differentiate between network models and architectures.</li>
+  <li>Identify the advantages of merging voice and IP network systems; consider the ramifications of adding voice traffic to an IP network; and identify common IP telephony hardware and applications.</li>
+  <li>Identify the advantages of merging multimedia and IP network systems; choose transmission and content production options; and identify common video over IP hardware and explain its applicability to various needs. </li>
+  <li>Administer a converged network; analyze and manage a converged network; and troubleshoot and maintain a converged network.</li>
+  <li>Explain network security concepts; and describe the purposes of various network security devices and software applications.</li>
+</ul>

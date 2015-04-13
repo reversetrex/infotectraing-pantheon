@@ -1,0 +1,41 @@
+<p><strong>Lesson 1: </strong>Modifying the PowerPoint Environment</p>
+<ul>
+  <li><strong>Topic A: </strong>Customize the User Interface</li>
+  <li><strong>Topic B: </strong>Set PowerPoint 2013 Options</li>
+</ul>
+<p><strong>Lesson 2: </strong>Customizing Design Templates</p>
+<ul>
+  <li><strong>Topic A: </strong>Modify Slide Masters and Slide Layouts</li>
+  <li><strong>Topic B: </strong>Add Headers and Footers</li>
+  <li><strong>Topic C: </strong> Modify the Notes Master and the Handout Master</li>
+</ul>
+<p><strong>Lesson 3: </strong>Adding SmartArt to a Presentation</p>
+<ul>
+  <li><strong>Topic A: </strong>Create SmartArt</li>
+  <li><strong>Topic B: </strong>Modify SmartArt</li>
+</ul>
+<p><strong>Lesson 4: </strong>Working with Media and Animations</p>
+<ul>
+  <li><strong>Topic A: </strong>Add Audio to a Presentation</li>
+  <li><strong>Topic B: </strong>Add Video to a Presentation</li>
+  <li><strong>Topic C: </strong>Customize Animations and Transitions</li>
+</ul>
+<p><strong>Lesson 5: </strong>Collaborating on a Presentation</p>
+<ul>
+  <li><strong>Topic A: </strong>Review a Presentation</li>
+  <li><strong>Topic B: </strong>Store and Share Presentations on the Web</li>
+</ul>
+<p><strong>Lesson 6: </strong>Customizing a Slide Show</p>
+<ul>
+  <li><strong>Topic A: </strong>Annotate a Presentation</li>
+  <li><strong>Topic B: </strong>Set Up a Slide Show</li>
+  <li><strong>Topic C: </strong>Create a Custom Slide Show</li>
+  <li><strong>Topic D: </strong>Add Hyperlinks and Action Buttons</li>
+  <li><strong>Topic E: </strong>Record a Presentation</li>
+</ul>
+<p><strong>Lesson 7: </strong>Securing and Distributing a Presentation</p>
+<ul>
+  <li><strong>Topic A: </strong>Secure a Presentation</li>
+  <li><strong>Topic B: </strong>Broadcast a Slide Show</li>
+  <li><strong>Topic C: </strong>Create a Video or a CD</li>
+</ul>

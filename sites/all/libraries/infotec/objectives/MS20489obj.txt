@@ -1,0 +1,55 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the apps for SharePoint development platform.</li>
+  <li>Use the client-side object models and the REST API to communicate with SharePoint.</li>
+  <li>Configure security for apps for SharePoint.</li>
+  <li>Optimize the performance of apps for SharePoint.</li>
+  <li>Explain the capabilities and applications of managed metadata in SharePoint 2013.</li>
+  <li>Automate the creation and configuration of managed metadata term sets.</li>
+  <li>Interact with managed metadata term sets and fields from client-side and server-side code.</li>
+  <li>Describe the SharePoint 2013 Search Architecture.</li>
+  <li>Build simple and advanced KQL Queries.</li>
+  <li>Describe the SharePoint Search Index.</li>
+  <li>Describe and work with crawled and managed properties.</li>
+  <li>Describe the levels and security of the SharePoint Search Schema.</li>
+  <li>Create various types of result sources</li>
+  <li>Create basic and complex query transforms</li>
+  <li>Configure query rule conditions and actions to target query intent</li>
+  <li>Create and modify result types</li>
+  <li>Create and modify display templates</li>
+  <li>Utilize display templates with various search web parts</li>
+  <li>Add managed properties as refiners with counts</li>
+  <li>Utilize entity extraction in your crawls</li>
+  <li>Extend content processing with Content Enrichment</li>
+  <li>Describe how to utilize the Publishing API to access publishing settings and content.</li>
+  <li>Describe how to use and customize page content controls in publishing sites.</li>
+  <li>Configure website structure and navigation.</li>
+  <li>Describe the difference between structured and metadata navigation.</li>
+  <li>Utilize basic publishing features of SharePoint.</li>
+  <li>Use the new cross-site publishing features of SharePoint 2013.</li>
+  <li>Configure and implement variations for multilingual sites.</li>
+  <li>Configure search engine optimization settings.</li>
+  <li>Add SEO Properties to publishing pages and Managed Navigation terms.</li>
+  <li>Configure caching to improve site rendering performance.</li>
+  <li>Optimize site assets and resources to maximize performance.</li>
+  <li>Describe the key components of Business Connectivity Services in SharePoint Server 2013.</li>
+  <li>Create and configure BDC models by using SharePoint Designer.</li>
+  <li>Create and configure BDC models by using Visual Studio 2012.</li>
+  <li>Describe BCS Connector Framework scenarios.</li>
+  <li>Design and Develop BCS Connector stereotyped operations.</li>
+  <li>Design and Configure BDC model security.</li>
+  <li>Optimize Search Connector crawl performance.</li>
+  <li>Use Visual Studio to build BDC Models for Search.</li>
+  <li>Deploy BDC Search connectors.</li>
+  <li>Debug and troubleshoot your search connectors.</li>
+  <li>Design and deploy BDC event subscriber methods.</li>
+  <li>Describe how to format event notification messages.</li>
+  <li>Configure alerts and event receivers on external lists.</li>
+  <li>Explain how user profile data is used in SharePoint.</li>
+  <li>Describe the options and restrictions for accessing user profile data.</li>
+  <li>Use client-side code to access and server-side code to access and update user profile data.</li>
+  <li>Configure and manage user profile properties.</li>
+  <li>Describe how to identify, diagnose, and remove bugs in SharePoint apps during development.</li>
+  <li>Describe how to record information about issues that arise in deployed SharePoint apps.</li>
+  <li>Describe how developers optimize the performance of SharePoint apps by implementing best practices, measuring performance, and load testing.</li>
+</ul>

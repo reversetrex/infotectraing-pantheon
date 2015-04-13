@@ -1,0 +1,16 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Manage a site collection. </li>
+  <li>Manage lists. </li>
+  <li>Manage a discussion board. </li>
+  <li>Manage document libraries. </li>
+  <li>Manage a form library. </li>
+  <li>Manage site access permissions. </li>
+  <li>Manage WSS content. </li>
+  <li>Manage a workflow. </li>
+  <li>Work with indexing and searching. </li>
+  <li>Manage a SharePoint application using Central Administration. </li>
+  <li>Manage security options in WSS. </li>
+  <li>Manage site usage. </li>
+  <li>Perform site maintenance.</li>
+</ul>

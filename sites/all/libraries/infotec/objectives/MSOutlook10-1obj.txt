@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>Explore the Outlook interface, send mail, and  respond to messages.</li>
+  <li>Compose email messages.</li>
+  <li>Organize email messages into folders.</li>
+  <li>Manage contacts and contact information.</li>
+  <li>Schedule appointments.</li>
+  <li>Schedule a meeting.</li>
+  <li>Manage tasks and notes.</li>
+</ul>

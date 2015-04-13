@@ -1,0 +1,12 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Handle page elements.</li>
+  <li>Manage styles.</li>
+  <li>Develop complex paths.</li>
+  <li>Import and export data to external files.</li>
+  <li>Work with XML files.</li>
+  <li>Create dynamic documents.</li>
+  <li>Manage long documents.</li>
+  <li>Export InDesign files to other formats.</li>
+  <li>Adjust print settings.</li>
+</ul>

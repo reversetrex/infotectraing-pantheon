@@ -1,0 +1,8 @@
+<p>Upon successful completion of  this course, students will be able to:</p>
+<ul>
+  <li>Create a  basic XML document.</li>
+  <li>Validate an  XML document.</li>
+  <li>Format and  transform XML documents.</li>
+  <li>Link XML  documents.</li>
+  <li>Access XML documents.</li>
+</ul>

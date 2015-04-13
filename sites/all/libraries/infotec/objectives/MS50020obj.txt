@@ -1,0 +1,9 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Understand how Intelligent Application Gateway (IAG) 2007 (formerly Whale) provides secure, remote access for your clients.</li>
+  <li>See how Internet Security and Acceleration (ISA) Server 2006 provides network edge protection for customers and deployment versatility.</li>
+  <li>Understand how Forefront Client Security provides integrated anti-virus, anti-spyware and security state assessment to provide unified desktop protection.</li>
+  <li>See how Forefront Security for Exchange (formerly Antigen) provides superior protection for Exchange 2007.</li>
+  <li>See how Forefront Security for SharePoint (formerly Antigen) is configured to protect SharePoint 2007.</li>
+</ul>

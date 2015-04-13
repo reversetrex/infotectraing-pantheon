@@ -1,0 +1,60 @@
+<p><strong> Unit 1: An ASP Guestbook and Simple Chat Application </strong></p>
+<ul>
+  <li> The World of Active Server Pages and General Development Issues </li>
+  <li>An ASP Guestbook </li>
+  <li>An ASP Chatroom </li>
+</ul>
+<p><strong> Unit 2: Site Personalization with CSS and ASP </strong></p>
+<ul>
+  <li> Multiple Style Sheets with ASP </li>
+  <li>Dynamic Personalized CSS </li>
+</ul>
+<p><strong> Unit 3: An ASP Web Poll </strong></p>
+<ul>
+  <li> Developing a Web Poll </li>
+  <li>ASP Efficiency and Performance Issues </li>
+</ul>
+<p><strong> Unit 4: An ASP Quiz Application </strong></p>
+<ul>
+  <li> Building a Quiz Application </li>
+  <li>Grading the Quiz </li>
+</ul>
+<p><strong> Unit 5: An ASP Discussion Board </strong></p>
+<ul>
+  <li> Designing a Discussion Board Application </li>
+  <li>Creating the Basic Discussion Forum </li>
+  <li>Displaying a Thread Structure in Outline Format </li>
+</ul>
+<p><strong> Unit 6: An ASP Event Calendar </strong></p>
+<ul>
+  <li> Creating a Calendar </li>
+  <li>Adding a Database of Events </li>
+</ul>
+<p><strong> Unit 7: Shopping Cart Design and Database Considerations </strong></p>
+<ul>
+  <li> Planning a Shopping Cart </li>
+  <li>Database Design Issues </li>
+  <li>Considerations for the Unique CartID </li>
+</ul>
+<p><strong> Unit 8: Product Display and Searching </strong></p>
+<ul>
+  <li> Working with Product Categories </li>
+  <li>Product Display and Keyword Searching </li>
+</ul>
+<p><strong> Unit 9: The Shopping Cart Script </strong></p>
+<ul>
+  <li> Building the Shopping Cart </li>
+  <li>Updating Quantity and Deleting Items </li>
+  <li>Customer Informati on, Shipping &amp;amp; Handling, and Taxes </li>
+</ul>
+<p><strong> Unit 10: Taking Product Orders </strong></p>
+<ul>
+  <li> Finalizing an Order </li>
+  <li>Customer Relations and Further Directions </li>
+</ul>
+<p><strong> Unit 11: An Ad Rotation and Tracking System and a Simple Affiliates Program </strong></p>
+<ul>
+  <li> Creating a Database-Driven Ad Rotator System </li>
+  <li>Creating Ad Reports </li>
+  <li>Adding a Web Affiliate Program to your Shopping Cart </li>
+</ul>

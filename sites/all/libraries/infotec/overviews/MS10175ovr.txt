@@ -1,0 +1,1 @@
+This course provides existing .NET developers with practical information and labs that enables them to build solutions on the Microsoft SharePoint 2010 platform.

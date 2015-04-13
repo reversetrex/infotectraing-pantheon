@@ -1,0 +1,8 @@
+<p>By the end of the course, you should have an understanding of the VMware cloud and be able to do the following:</p>
+<ul>
+  <li>Evaluate and design a multitenant environment to address  both private cloud and public cloud customer needs.</li>
+  <li>Configure vCloud providers that can accommodate  heterogeneous server, storage, and network resources.</li>
+  <li>Design a network infrastructure optimized for vCloud.</li>
+  <li>Integrate vCloud Director security with existing LDAP  systems and design appropriate security hierarchies with  security roles.</li>
+  <li>Design a vCenter Chargeback implementation.</li>
+</ul>

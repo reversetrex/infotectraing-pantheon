@@ -1,0 +1,1 @@
+You will create and modify new databases and their various objects.  You will improve and customize tables, queries, forms and reports, and share Access data with other applications.

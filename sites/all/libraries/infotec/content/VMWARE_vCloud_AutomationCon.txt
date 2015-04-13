@@ -1,0 +1,78 @@
+<p><strong>1. Course Introduction</strong></p>
+<ul>
+  <li>Introductions and course logistics</li>
+  <li>Course outline</li>
+  <li>Course goals</li>
+  <li>Course objectives</li>
+</ul>
+<p><strong>2. Provisioning Services</strong></p>
+<ul>
+  <li>Provision new machines and services</li>
+  <li>Manage self-provisioned machines</li>
+  <li>Create approval policies</li>
+  <li>Identify approval policy levels and approval phases</li>
+  <li>Use custom properties</li>
+  <li>Use build profiles</li>
+  <li>Use the property dictionary</li>
+</ul>
+<p><strong>3. Architecture and Components</strong></p>
+<ul>
+  <li>Identify the benefits of the software-defined data center</li>
+  <li>Explore the architecture for deploying vCloud Automation</li>
+  <li>Center as a cloud management platform for a multivendor hybrid cloud</li>
+  <li>Identify the components of vCloud Automation Center</li>
+  <li>Identify vCloud Automation Center design options</li>
+  <li>Define network ports and protocols required for communication between vCloud Automation Center components</li>
+  <li>Define the user interface elements of vCloud Automation Center</li>
+  <li>Explain how vCloud Automation Center integrates with other VMware products</li>
+</ul>
+<p><strong>4. Extensibility</strong></p>
+<ul>
+  <li>Identify extensibility and customization options</li>
+  <li>Use vCloud Automation Designer to edit an existing workflow</li>
+  <li>Use vCenter Orchestrator</li>
+  <li>Configure plug-ins for external integration</li>
+  <li>Use Advanced Service Designer</li>
+</ul>
+<p><strong>5. Installation</strong></p>
+<ul>
+  <li>Explain the vCloud Automation Center installation prerequisites</li>
+  <li>Identify the vCloud Automation Center appliances and component installers</li>
+  <li>Define the vCloud Automation Center installation procedure</li>
+</ul>
+<p><strong>6. Monitoring and Reclamation</strong></p>
+<ul>
+  <li>Identify and verify inactive and abandoned resources</li>
+  <li>Manage machine leases</li>
+  <li>Manage machine reclamation</li>
+</ul>
+<p><strong>7. Configuring IaaS</strong></p>
+<ul>
+  <li>Define relationships between vCloud Automation Center entities</li>
+  <li>Identify and configure vCloud Automation Center endpoints</li>
+  <li>Identity how vCloud Automation Center discovers compute resources</li>
+  <li>Define the vCloud Automation Center roles</li>
+  <li>Identify fabric groups, business groups, and reservations</li>
+  <li>Create tenants</li>
+  <li>Create and manage reservations for compute resources</li>
+</ul>
+<p><strong>8. Operational Management</strong></p>
+<ul>
+  <li>Configure VMware IT Business Management Suite, Standard Edition</li>
+  <li>Report financial data for a cloud infrastructure</li>
+  <li>Troubleshoot common ITBM problems</li>
+</ul>
+<p><strong>9. Blueprints and Catalog Services</strong></p>
+<ul>
+  <li>Create and manage single-machine and multimachine blueprints</li>
+  <li>Manage service catalog items with entitlements and approval policies</li>
+</ul>
+<p><strong>10. Managing Applications</strong></p>
+<ul>
+  <li>Define the role of vCloud Application Director</li>
+  <li>Identify the vCloud Application Director infrastructure components and requirements</li>
+  <li>Deploy and manage vCloud Application Director</li>
+  <li>Configure application provisioning</li>
+  <li>Create, manage, and update applications</li>
+  <li>Manage catalog services</li>
+</ul>

@@ -1,0 +1,42 @@
+<p><strong>MODULE 1 – Course  Introduction</strong></p>
+<ul type="disc">
+  <li>Introductions and course logistics</li>
+  <li>Online resources for security and compliance</li>
+</ul>
+<p><strong>MODULE 2 – Security  in a Virtual Environment</strong></p>
+<ul type="disc">
+  <li>Review of information security and risk management concepts</li>
+  <li>How virtualization affects security and compliance</li>
+  <li>Top vulnerabilities in a virtual environment</li>
+  <li>Basic guidelines for securing a virtual environment</li>
+  <li>Security tools and technologies</li>
+</ul>
+<p><strong>MODULE 3 – Secure  Virtual Networking</strong></p>
+<ul type="disc">
+  <li>vNetwork security architecture<strong></strong></li>
+  <li>Network segmentation and traffic isolation<strong></strong></li>
+  <li>Secure virtual network configuration<strong></strong></li>
+  <li>Traffic isolation with private VLANs<strong></strong></li>
+</ul>
+<p><strong>MODULE 4 – Protecting  the Management Environment</strong></p>
+<ul type="disc">
+  <li>vCenter Server authentication, authorization, and accountingWorking with SSL certificates</li>
+  <li>Hardening the vCenter Server system</li>
+</ul>
+<p><strong>MODULE 5 – Protecting  VMware ESX/ESXi Host Systems</strong></p>
+<ul type="disc">
+  <li>ESX and ESXi security architecture<strong></strong></li>
+  <li>Controlling access to storage<strong></strong></li>
+  <li>Hardening ESX and ESXi hosts<strong></strong></li>
+</ul>
+<p><strong>MODULE 6 – Hardening  Virtual Machines</strong></p>
+<ul type="disc">
+  <li>Virtual machine security architecture<strong></strong></li>
+  <li>Configuring security parameters<strong></strong></li>
+</ul>
+<p><strong>MODULE 7 – Configuration and Change Management</strong></p>
+<ul type="disc">
+  <li>Configuration and change management goals and guidelines<strong></strong></li>
+  <li>Maintaining the proper configuration and vSphere components<strong></strong></li>
+  <li>Configuration and change  management tools and technologies </li>
+</ul>

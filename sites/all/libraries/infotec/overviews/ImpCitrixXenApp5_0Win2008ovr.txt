@@ -1,0 +1,1 @@
+This course provides the foundation necessary to effectively deploy and administer Citrix XenApp and its components, including Web Interface, Application Streaming, Load Manager, Installation Manager, and Secure Gateway.

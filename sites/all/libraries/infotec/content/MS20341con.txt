@@ -1,0 +1,78 @@
+<p><strong>Module 1: Deploying and Managing Microsoft Exchange Server 2013</strong> - This module describes Exchange Server 2013 prerequisites and requirements, deployment and management.</p>
+<p>Lessons</p>
+<ul>
+  <li>Exchange Server 2013 Prerequisites and Requirements</li>
+  <li>Exchange Server 2013 Deployment</li>
+  <li>Managing Exchange Server 2013</li>
+</ul>
+<p><strong>Module 2: Planning and Configuring Mailbox Servers</strong> - This module describes how to plan and configure the Mailbox server role.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Mailbox Server Role</li>
+  <li>Planning the Mailbox Server Deployment</li>
+  <li>Configuring the Mailbox Servers</li>
+</ul>
+<p><strong>Module 3: Managing Recipient Objects</strong> - This module explains how to manage recipient objects, address policies, and address lists in Exchange Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Exchange Server 2013 Mailboxes</li>
+  <li>Managing Other Exchange Recipients</li>
+  <li>Planning and Implementing Public Folder Mailboxes</li>
+  <li>Managing Address Lists and Policies</li>
+</ul>
+<p><strong>Module 4: Planning and Deploying Client Access Servers</strong> - This module explains how to plan and implement the Client Access server role in Exchange Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning Client Access Server Deployment</li>
+  <li>Configuring the Client Access Server Role</li>
+  <li>Managing Client Access Services</li>
+</ul>
+<p><strong>Module 5: Planning and Configuring Messaging Client Connectivity</strong> - This module explains how to plan and configure Microsoft Outlook Web App and mobile messaging in Exchange Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Client Connectivity to the Client Access Server</li>
+  <li>Configuring Outlook Web App</li>
+  <li>Planning and Configuring Mobile Messaging</li>
+  <li>Configuring Secure Internet Access for Client Access Server</li>
+</ul>
+<p><strong>Module 6: Planning and Implementing High Availability</strong> - This module explains the high-availability technology built into Exchange Server 2013, and some of the outside factors that affect highly available solutions.</p>
+<p>Lessons</p>
+<ul>
+  <li>High Availability on Exchange Server 2013</li>
+  <li>Configuring Highly Available Mailbox Databases</li>
+  <li>Configuring Highly Available Client Access Servers</li>
+</ul>
+<p><strong>Module 7: Planning and Implementing Disaster Recovery</strong> - This module explain how to plan, implement disaster mitigation, and recovery in Exchange Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning for Disaster Mitigation</li>
+  <li>Planning and Implementing Exchange Server 2013 Backup</li>
+  <li>Planning and Implementing Exchange Server 2013 Recovery</li>
+</ul>
+<p><strong>Module 8: Planning and Configuring Message Transport</strong> - This module explains how to plan and configure message transport in an Exchange Server 2013 organization.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Message Transport and Routing</li>
+  <li>Planning and Configuring Message Transport</li>
+  <li>Managing Transport Rules</li>
+</ul>
+<p><strong>Module 9: Planning and Configuring Message Hygiene</strong> - This module explains how to plan messaging security, implement an antivirus and anti-spam solution for Exchange Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning Messaging Security</li>
+  <li>Implementing an Antivirus Solution for Exchange Server 2013</li>
+  <li>Implementing an Anti-Spam Solution for Exchange Server 2013</li>
+</ul>
+<p><strong>Module 10: Planning and Configuring Administrative Security and Auditing</strong> - This module explains how to configure role-based access control (RBAC) permissions and configure audit logging.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Role-Based Access Control</li>
+  <li>Configuring Audit Logging</li>
+</ul>
+<p><strong>Module 11: Monitoring and Troubleshooting Microsoft Exchange Server 2013This module explains how to monitor, maintain, and troubleshoot your Exchange Server 2013 environment.</strong>
+<p>Lessons</p>
+<ul>
+  <li>Monitoring Exchange Server 2013</li>
+  <li>Maintaining Exchange Server 2013</li>
+  <li>Troubleshooting Exchange Server 2013</li>
+</ul>

@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Customize workbooks.</li>
+  <li>Collaborate with others using workbooks.</li>
+  <li>Audit worksheets.</li>
+  <li>Analyze data.</li>
+  <li>Work with multiple workbooks.</li>
+  <li>Import and export data.</li>
+  <li>Structure workbooks with XML.</li>
+</ul>

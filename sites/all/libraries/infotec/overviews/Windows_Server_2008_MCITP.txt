@@ -1,0 +1,7 @@
+Windows 2008 MCITP Server Administrator Training Series has in one package 
+all the training you'll need to pass the MCITP - Server Administrator 
+Certification. This informative, in-depth series from LearnKey covers the 
+required MCTS exams (Windows Server 2008 Active Directory Configuration 70-
+640 and Windows Server 2008 Network Infrastructure Configuration 70-642) 
+and the professional series exam (Windows Server 2008 Administrator 70-
+646).

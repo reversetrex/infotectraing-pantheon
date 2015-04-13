@@ -1,0 +1,219 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>MTA Overview</li>
+    <li>Microsoft Certification Roadmap</li>
+    <li>Exam 98-363 Overview</li>
+  </ul>
+  <h3>Section B: Understanding Web Page Structure</h3>
+  <ul>
+    <li>Visual Studio Templates</li>
+    <li>Creating a New Web Page From a Template</li>
+    <li>Template-Based Design Considerations</li>
+    <li>Understanding Web Page Parts</li>
+    <li>Web Page Parts: The Body</li>
+    <li>Web Page Parts: Script</li>
+    <li>View HTML Elements in VS</li>
+    <li>Understanding ASPX Page Declaration</li>
+    <li>Understanding Server Controls</li>
+  </ul>
+  <h3>Section C: Customizing Page Layout</h3>
+  <ul>
+    <li>Using  ASPX Label Control</li>
+    <li>Using ASPX HyperLink Control</li>
+    <li>Using ASPX TextBox Control</li>
+    <li>Using ASPX Button Control</li>
+    <li>Using ASPX Image/Menu Controls</li>
+    <li>Understanding User Controls</li>
+    <li>Master Pages</li>
+    <li>Content Pages</li>
+    <li>CSS Overview</li>
+    <li>Modifying CSS</li>
+    <li>Overriding Styles</li>
+    <li>Tables</li>
+  </ul>
+  <h3>Section D: Understanding Web App Structure</h3>
+  <ul>
+    <li>Web Application Structure</li>
+    <li>Class Libraries</li>
+    <li>File Types</li>
+    <li>Folders</li>
+  </ul>
+  <h3>Section E: Understanding Page Life Cycle</h3>
+  <ul>
+    <li>Handling User Input</li>
+    <li>Visual Studio Debugger</li>
+    <li>Page Life Cycle</li>
+    <li>Page Events</li>
+    <li>Page_Load and IsPostBack</li>
+    <li>Cross-Page Posting</li>
+    <li>Other Common Page Events</li>
+    <li>Exceptions</li>
+    <li>AutoEventWireup</li>
+  </ul>
+  <h3>Section F: Application and Session Life Cycles</h3>
+  <ul>
+    <li>Application Events</li>
+    <li>Session Events</li>
+    <li>Creating Application Objects</li>
+    <li>Session Overview</li>
+  </ul>
+  <h3>Section G: Understanding Web Communications</h3>
+  <ul>
+    <li>HTTP Overview</li>
+    <li>Web Server Responsibilities</li>
+    <li>Intrinsic Objects</li>
+    <li>Tracing</li>
+    <li>Displaying Request Properties</li>
+    <li>Adding a QueryString Object</li>
+    <li>Server.Transfer</li>
+    <li>Response.Redirect</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Understanding Web Site Configuration</h3>
+  <ul>
+    <li>Web Application Configuration</li>
+    <li>Application Settings</li>
+    <li>Configuring Application Settings</li>
+    <li>Configuring Web Page AppSettings</li>
+    <li>Working with ConfigSource</li>
+  </ul>
+  <h3>Section B: Bugs, Errors, and Exceptions</h3>
+  <ul>
+    <li>Error Pages</li>
+    <li>Handling Errors</li>
+    <li>Exception Handling</li>
+    <li>Catching Exceptions</li>
+    <li>Using Response.Write</li>
+    <li>Using Trace.Write</li>
+    <li>Using Application Error Event Handler</li>
+    <li>Debugging</li>
+    <li>Using Breakpoints to Debug in VS</li>
+  </ul>
+  <h3>Section C: Web Page Deployment</h3>
+  <ul>
+    <li>Deployment Methods</li>
+    <li>Deployment Options</li>
+    <li>Create a Web Deployment Package</li>
+    <li>Create a SQL Deployment Package</li>
+    <li>Publishing a Web Application</li>
+    <li>Create a Web Setup Project</li>
+    <li>Configure Deployment Options</li>
+    <li>Signing/Other Options</li>
+  </ul>
+  <h3>Section D: Web Page Management</h3>
+  <ul>
+    <li>Application Pools</li>
+    <li>Configure Application Pools</li>
+  </ul>
+  <h3>Section E: Storing Data</h3>
+  <ul>
+    <li>Client-Side Storage</li>
+    <li>Server-Side Storage</li>
+    <li>Cookies Defined</li>
+    <li>Storing Client Data in a Cookie</li>
+    <li>View State Defined</li>
+    <li>View State DEMO</li>
+    <li>Application/Session State Defined</li>
+    <li>Application/Session State DEMO</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: XML</h3>
+  <ul>
+    <li>XML Defined</li>
+    <li>Reading an XML Document</li>
+    <li>Displaying XML to the Client</li>
+    <li>Defining Specific XmlNodeType</li>
+    <li>XML Classes Defined</li>
+  </ul>
+  <h3>Section B: Web Services</h3>
+  <ul>
+    <li>Web Service Defined</li>
+    <li>WCF</li>
+    <li>Create a Web Service using WebMethod</li>
+    <li>Debugging a Web Service</li>
+    <li>Connecting to a Web Service</li>
+  </ul>
+  <h3>Section C: Working with Databases</h3>
+  <ul>
+    <li>Databases Defined</li>
+    <li>Web Site Architecture</li>
+    <li>Database Types</li>
+    <li>Data Access Technologies</li>
+    <li>Creating a DynamicData Web App</li>
+    <li>Understanding the DBML Model</li>
+    <li>Viewing Table Data</li>
+    <li>Understanding Database Classes</li>
+    <li>Database Changes in Web.config</li>
+    <li>Browsing the DB via a Web App</li>
+    <li>Understanding Register.Routes</li>
+    <li>Understanding Dynamic Data App Structure</li>
+    <li>Field Templates</li>
+    <li>DynamicData Web.config</li>
+  </ul>
+  <h3>Section D: Binding Data to Web</h3>
+  <ul>
+    <li>Data Binding</li>
+    <li>LINQ Queries</li>
+    <li>Using LINQ to Query a DB</li>
+    <li>Legacy Database Classes</li>
+    <li>Database Connections</li>
+  </ul>
+  <h3>Section E: Client-Side Programming</h3>
+  <ul>
+    <li>Client-Side Programming Defined</li>
+    <li>JavaScript Overview</li>
+    <li>Create JavaScript App using ASP.NET</li>
+    <li>Running JavaScript Apps</li>
+    <li>Debugging JavaScript Apps</li>
+    <li>Extending JavaScript with jQuery</li>
+  </ul>
+  <h3>Section F: Client-Side Scripting Technologies</h3>
+  <ul>
+    <li>Microsoft AJAX Defined</li>
+    <li>Using the UpdatePanel Control</li>
+    <li>More AJAX Controls</li>
+    <li>AJAX Triggers</li>
+    <li>VBScript</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Web Forms Authentication</h3>
+  <ul>
+    <li>ASP.NET Membership</li>
+    <li>ASP.NET Membership Controls</li>
+    <li>Using Forms Authentication</li>
+  </ul>
+  <h3>Section B: Windows Authentication</h3>
+  <ul>
+    <li>Windows Membership</li>
+    <li>Using Windows Authentication</li>
+  </ul>
+  <h3>Section C: Other Authentication Methods</h3>
+  <ul>
+    <li>Impersonation Defined</li>
+    <li>Configuring Impersonation</li>
+    <li>Other Authentication Mechanisms</li>
+  </ul>
+  <h3>Section D: Data Validation</h3>
+  <ul>
+    <li>Validation Defined</li>
+    <li>Validation Classes</li>
+    <li>Using Validator Controls</li>
+  </ul>
+  <h3>Section E: Exam Review</h3>
+  <ul>
+    <li>CSS Overview</li>
+    <li>Web Page Configuration Considerations</li>
+    <li>Client-Side Storage</li>
+    <li>Server-Side Storage</li>
+    <li>Controls</li>
+    <li>Exceptions</li>
+    <li>Tracing</li>
+    <li>Page Life Cycle</li>
+    <li>Application Pools</li>
+    <li>Deployment Methods</li>
+    <li>Web Services</li>
+    <li>JavaScript</li>
+    <li>AJAX</li>
+    <li>Data Sources</li>
+  </ul>

@@ -1,0 +1,69 @@
+<p><strong> Unit 1: Introduction to Web Parts for Microsoft SharePoint Products and Technologies </strong></p>
+<ul>
+  <li> Web Parts Infrastructure </li>
+  <li> Architectural Overview </li>
+  <li> Animation: Exploring SharePoint Products and Technologies </li>
+</ul>
+<p><strong> Unit 2: Adding Web Parts to Pages </strong></p>
+<ul>
+  <li> Demonstration: Adding a Web Part to a Web Part Page </li>
+  <li> Adding Web Parts to a Web Part Page </li>
+  <li> Closing and Deleting Web Parts </li>
+  <li> Requirements for Modifying Web Part Pages </li>
+  <li> Setting Web Part Properties </li>
+</ul>
+<p><strong> Unit 3: Using Web Part Templates in Visual Studio .NET </strong></p>
+<ul>
+  <li> Overview </li>
+  <li> Using Web Part Templates in Visual Studio .NET </li>
+  <li> Web Part Library Templates </li>
+  <li> Demonstration: Verifying the Output Path Property for a Web Part Project </li>
+</ul>
+<p><strong> Unit 4: Web Parts as ASP.NET Custom Controls </strong></p>
+<ul>
+  <li> Overview </li>
+  <li> ASP.NET Extensibility </li>
+  <li> Web Part Custom Controls </li>
+  <li> Advantages of the Web Part Infrastructure </li>
+  <li> The Web Part Life Cycle </li>
+</ul>
+<p><strong> Unit 5: Connecting Web Parts </strong></p>
+<ul>
+  <li> Overview </li>
+  <li> Web Part Connections </li>
+  <li> Web Part Interfaces </li>
+</ul>
+<p><strong> Unit 6: Packaging and Deploying Web Parts </strong></p>
+<ul>
+  <li> Overview </li>
+  <li> Web Part Package Components </li>
+  <li> Deploying Web Part Packages </li>
+</ul>
+<p><strong> Unit 7: Web Part Security </strong></p>
+<ul>
+  <li> Overview </li>
+  <li> Web Part Security </li>
+  <li> Default Security Permissions in Windows </li>
+  <li> SharePoint Services </li>
+  <li> Specifying Safe Web Parts </li>
+  <li> Code Access Security </li>
+  <li> Default Trust Level in the Web.config File </li>
+  <li> Creating and Editing Policy Files </li>
+</ul>
+<p><strong> Unit 8: Exploring the Windows SharePoint Services Object Model </strong></p>
+<ul>
+  <li> Overview </li>
+  <li> Exploring the Windows SharePoint Services Object Model </li>
+  <li> Programming with Windows SharePoint Services Object Model in Visual Studio .NET </li>
+</ul>
+<p><strong> Unit 9: Developing Web Parts Using Microsoft FrontPage 2003 </strong></p>
+<ul>
+  <li> Overview </li>
+  <li> Developing Web Parts Using FrontPage 2003 </li>
+  <li> Demonstration: Creating a SharePoint Site with FrontPage 2003 </li>
+  <li> Using FrontPage Data View </li>
+  <li> Demonstration: Creating and Configuring a Data Source from a Web Service </li>
+  <li> Demonstration: Inserting and Configuring 1a Data View Web Part </li>
+  <li> Packaging and Re-Deploying a Site </li>
+  <li> Discussion: Developing Web Parts with FrontPage 2003 </li>
+</ul>

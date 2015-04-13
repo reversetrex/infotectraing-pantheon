@@ -1,0 +1,10 @@
+<p>In this course, you will navigate the Photoshop CS6 workspace, identify and use Photoshop tools to enhance photographic images, and organize files in Adobe Bridge.</p>
+<p>You will:</p>
+<ul>
+  <li>Identify the basic components of the Photoshop workspace and Adobe Bridge.</li>
+  <li>Define image size, resolution, and color modes.</li>
+  <li>Work with selection tool and layers.</li>
+  <li>Make image enhancements and adjustments.</li>
+  <li>Open and modify an image in Camera Raw.</li>
+  <li>Prepare images for print and web.</li>
+</ul>

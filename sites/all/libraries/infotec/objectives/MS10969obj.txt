@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Understand available solutions for identity management and be able to address scenarios with appropriate solutions.</li>
+  <li>Deploy and administer AD DS in Windows Server 2012.</li>
+  <li>Secure AD DS deployment.</li>
+  <li>Implement AD DS sites, configure and manage replication</li>
+  <li>Implement and manage Group Policy</li>
+  <li>Manage user settings with Group Policy</li>
+  <li>Implement certification authority (CA) hierarchy with AD CS and how to manage CAs.</li>
+  <li>Implement, deploy and manage certificates.</li>
+  <li>Implement and manage AD RMS.</li>
+  <li>Implement and administer AD FS.</li>
+  <li>Secure and provision data access using technologies such as Dynamic Access Control, Work Folders and Workplace Join</li>
+  <li>Monitor, troubleshoot and establish business continuity for AD DS services.</li>
+  <li>Implement Windows Azure Active Directory. </li>
+  <li>Implement and administer Active Directory Lightweight Directory Services (AD LDS).</li>
+</ul>

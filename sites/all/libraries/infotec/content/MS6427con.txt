@@ -1,0 +1,12 @@
+<ul>
+  <li><strong>Module 1: Configuring an IIS 7.0 Web Server</strong></li>
+  <li><strong>Module 2: Configuring IIS 7.0 Web Sites and Application Pools</strong> </li>
+  <li><strong>Module 3: Configuring IIS 7.0 Application Settings</strong> </li>
+  <li><strong>Module 4: Configuring IIS 7.0 Modules</strong> </li>
+  <li><strong>Module 5: Securing the IIS 7.0 Web Server and Web Sites</strong> </li>
+  <li><strong>Module 6: Configuring Delegation and Remote Administration</strong> </li>
+  <li><strong>Module 7: Using Command-line and Scripting for IIS 7.0 Administration</strong> </li>
+  <li><strong>Module 8: Tuning IIS 7.0 for Improved Performance</strong> </li>
+  <li><strong>Module 9: Ensuring Web Site Availability with Web Farms</strong> </li>
+  <li><strong>Module 10: Troubleshooting IIS 7.0 Web Servers</strong></li>
+</ul>

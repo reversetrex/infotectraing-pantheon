@@ -1,0 +1,14 @@
+<ul>
+  <li>Plan desktop virtualization scenarios.</li>
+  <li>Implement and configure Windows Virtual PC and the Windows XP mode.</li>
+  <li>Implement Microsoft Enterprise Desktop Virtualization.</li>
+  <li>Configure and deploy MED-V images. Manage a MED-V deployment.</li>
+  <li>Implement App-V servers.</li>
+  <li>Plan and deploy Application Virtualization clients.</li>
+  <li>Administer the App-V infrastructure by using the App-V Management Console.</li>
+  <li>Sequence applications for deployment by using the App-V infrastructure or a standalone installation.</li>
+  <li>Configure and use Remote Desktop Services and RemoteApp programs.</li>
+  <li>Implement user state virtualization.</li>
+  <li>Configure and use Virtual Desktop Infrastructure.</li>
+  <li>Compare and review the various desktop virtualization technologies.</li>
+</ul>

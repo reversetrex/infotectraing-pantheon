@@ -1,0 +1,273 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Microsoft Certifications</li>
+    <li>70-642 Exam Overview</li>
+    <li>Prerequisites</li>
+    <li>Preparation Tips</li>
+    <li>Lab Diagram</li>
+  </ul>
+  <h3>Section B: Network Layers and OSI</h3>
+  <ul>
+    <li>OSI Model</li>
+    <li>Application Layer</li>
+    <li>Presentation and Session Layers</li>
+    <li>Physical Layer</li>
+    <li>OSI vs. TCP/IP Model</li>
+  </ul>
+  <h3>Section C: IPv4 Addressing</h3>
+  <ul>
+    <li>Understanding IPv4</li>
+    <li>Address Classes</li>
+    <li>Private Addresses</li>
+    <li>Subnet Masking</li>
+    <li>Default Gateway</li>
+  </ul>
+  <h3>Section D: Configuring IPv4</h3>
+  <ul>
+    <li>IPv4 Configuration Types</li>
+    <li>Static IP Config</li>
+    <li>Advanced TCP/IP Settings</li>
+    <li>IPv4 Lab Diagram</li>
+    <li>Command Line Address Config</li>
+    <li>Command Line DNS Config</li>
+    <li>Using Netsh Commands</li>
+    <li>Ipconfig</li>
+    <li>Ping Command</li>
+    <li>Traceroute and Pathping</li>
+  </ul>
+  <h3>Section E: IPv6 Addressing</h3>
+  <ul>
+    <li>Understanding IPv6</li>
+    <li>IPv6 Address Types</li>
+    <li>IPv6 Transition Technologies</li>
+  </ul>
+  <h3>Section F: Understanding DHCP</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Functionality</li>
+    <li>Scope</li>
+    <li>DHCP for IPv6</li>
+    <li>Address Exclusions</li>
+    <li>Address Reservations</li>
+    <li>Option Classes</li>
+  </ul>
+  <h3>Section G: Implementing DHCP</h3>
+  <ul>
+    <li>Current Environment Configuration</li>
+    <li>Using OCSETUP</li>
+    <li>Using Server Manager</li>
+    <li>Add DHCP Server Role</li>
+    <li>Finish DHCP Server Installation</li>
+    <li>Managing DHCP</li>
+    <li>Configure DHCP Scope</li>
+    <li>Scope Options</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: IP Routing</h3>
+  <ul>
+    <li>Basic Routing Concepts</li>
+    <li>Layer 2 and 3 Cooperation</li>
+    <li>Routing Protocols</li>
+    <li>View Routing Table</li>
+    <li>Managing Routes</li>
+  </ul>
+  <h3>Section B: IPSec</h3>
+  <ul>
+    <li>Understanding IPSec</li>
+    <li>IPSec Functionality</li>
+    <li>Capabilities</li>
+    <li>Implementation</li>
+    <li>Security Associations</li>
+    <li>Tunnel Mode</li>
+    <li>Preventing Attacks</li>
+  </ul>
+  <h3>Section C: Configuring IPSec</h3>
+  <ul>
+    <li>Configuring Rules</li>
+    <li>Testing Secure Connections</li>
+    <li>Monitoring Secure Connections</li>
+    <li>Importing IPSec Rules</li>
+    <li>Building IPSec Console</li>
+    <li>Creating Filters</li>
+    <li>Managing Actions</li>
+    <li>Enforcing IPSec Policy</li>
+  </ul>
+  <h3>Section D: DNS Defined</h3>
+  <ul>
+    <li>Name Resolution</li>
+    <li>NetBIOS Node Types</li>
+    <li>Domain Name System</li>
+    <li>DNS Zones</li>
+    <li>Active Directory Integration Benefits</li>
+    <li>Forward and Reverse Lookups</li>
+    <li>DNS Namespace</li>
+  </ul>
+  <h3>Section E: Configuring DNS</h3>
+  <ul>
+    <li>DNS Lab Review</li>
+    <li>ServerManagerCMD</li>
+    <li>Installing the DNS Role</li>
+    <li>Creating Zones</li>
+    <li>DNS Properties</li>
+    <li>Adding Records</li>
+  </ul>
+  <h3>Section F: DNS Synchronization</h3>
+  <ul>
+    <li>Understanding Zone Transfers</li>
+    <li>Zone Replication</li>
+    <li>Caching-Only DNS Servers</li>
+    <li>Active Directory Integration</li>
+    <li>Scavenging</li>
+  </ul>
+  <h3>Section G: Network Authentication</h3>
+  <ul>
+    <li>NTLM vs. Kerberos</li>
+    <li>Domains and Forests</li>
+    <li>Account Options</li>
+    <li>Group Memberships</li>
+    <li>Dial-In Permissions</li>
+  </ul>
+  <h3>Section H: Remote Network Access</h3>
+  <ul>
+    <li>Remote Access Methods</li>
+    <li>RRAS Lab Review</li>
+    <li>Installing RRAS</li>
+    <li>Configuring Dial-up</li>
+    <li>Implementing VPNs</li>
+    <li>Packet Filtering</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Network Access Protection</h3>
+  <ul>
+    <li>Introduction to NAP</li>
+    <li>NAP Requirements</li>
+    <li>Implementation Methods</li>
+    <li>NAP Diagram</li>
+  </ul>
+  <h3>Section B: Configuring NAP</h3>
+  <ul>
+    <li>Lab Review</li>
+    <li>Adding NAP Roles</li>
+    <li>Configuring DHCP</li>
+    <li>Health Policy Server</li>
+    <li>Specifying NAP Enforcement</li>
+    <li>Configuring Validators</li>
+  </ul>
+  <h3>Section C: Windows Firewall</h3>
+  <ul>
+    <li>Demonstrate Connectivity</li>
+    <li>Disallow Connectivity</li>
+    <li>Demonstrate Firewall Protection</li>
+    <li>Creating Firewall Rules</li>
+    <li>Custom Firewall Rules</li>
+    <li>Firewall Properties</li>
+    <li>Enable Logging</li>
+  </ul>
+  <h3>Section D: Wireless Access</h3>
+  <ul>
+    <li>IEEE Standards</li>
+    <li>Operating Frequencies</li>
+    <li>Early Security Problems</li>
+    <li>Current Security Problems</li>
+    <li>WPA and WPA2</li>
+    <li>802.1x/RADIUS</li>
+  </ul>
+  <h3>Section E: Configuring Wireless Access</h3>
+  <ul>
+    <li>Configure NPS</li>
+    <li>Selecting RADIUS for 802.1x</li>
+    <li>RADIUS Client Setup</li>
+    <li>Authentication</li>
+  </ul>
+  <h3>Section F: File Services</h3>
+  <ul>
+    <li>Shares and Permissions</li>
+    <li>Encrypting File System</li>
+    <li>Creating File Shares</li>
+    <li>Share Permissions</li>
+    <li>Creating Shares with Explorer</li>
+    <li>Encryption Using EFS</li>
+  </ul>
+  <h3>Section G: Distributed File System</h3>
+  <ul>
+    <li>DFS Overview</li>
+    <li>DFS Scenarios</li>
+    <li>DFS Namespaces</li>
+    <li>Folders and Folder Targets</li>
+    <li>Installing the DFS Role</li>
+    <li>Configuring the DFS Namespace</li>
+  </ul>
+  <h3>Section H: Disk Quotas</h3>
+  <ul>
+    <li>Disk Quota Evolution</li>
+    <li>New Quota Features</li>
+    <li>Installing FSRM</li>
+    <li>Creating Quota Templates</li>
+    <li>Applying Quotas</li>
+    <li>Using dirquota Command</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Shadow Copy</h3>
+  <ul>
+    <li>Recovering Files</li>
+    <li>Uses of Shadow Copy</li>
+    <li>Enabling Shadow Copy</li>
+    <li>Scheduling Shadow Copies</li>
+    <li>Using VSSADMIN</li>
+    <li>Restoring Previous Versions</li>
+    <li>Reverting Volumes</li>
+  </ul>
+  <h3>Section B: Backing Up Data</h3>
+  <ul>
+    <li>Windows Backup</li>
+    <li>Backup Strategies</li>
+    <li>Restoring Data</li>
+    <li>Installing Windows Backup</li>
+    <li>Using Windows Backup Tools</li>
+    <li>Scheduling Backups</li>
+    <li>System State Backup</li>
+  </ul>
+  <h3>Section C: Printer Sharing</h3>
+  <ul>
+    <li>Adding Printers</li>
+    <li>Sharing Printers</li>
+    <li>Configure Shared Printer Permissions</li>
+    <li>Connecting to Shared Printers</li>
+  </ul>
+  <h3>Section D: Windows Update</h3>
+  <ul>
+    <li>Windows Server Update Services</li>
+    <li>Installing WSUS</li>
+    <li>WSUS Configuration Wizard</li>
+    <li>Choosing Classifications</li>
+    <li>Managing Update Services</li>
+  </ul>
+  <h3>Section E: Performance Monitoring</h3>
+  <ul>
+    <li>Resource Overview</li>
+    <li>Reliability Monitor</li>
+    <li>Performance Monitor</li>
+    <li>Data Collector Sets</li>
+    <li>Reports</li>
+    <li>Task Manager</li>
+  </ul>
+  <h3>Section F: Network Monitoring</h3>
+  <ul>
+    <li>Installing Network Monitor</li>
+    <li>Monitoring Network Traffic</li>
+    <li>Filtering Traffic Data</li>
+    <li>Running MBSA</li>
+    <li>MBSA Management</li>
+    <li>Creating Security Templates</li>
+    <li>Analyzing Security Configurations</li>
+  </ul>
+  <h3>Section G: Troubleshooting</h3>
+  <ul>
+    <li>Using Event Viewer</li>
+    <li>Viewing Windows Logs</li>
+    <li>Filtering Logs</li>
+    <li>Creating Custom Views</li>
+    <li>Attaching Tasks</li>
+    <li>Exporting Logs</li>
+  </ul>

@@ -1,0 +1,68 @@
+<p><strong>Unit 1: Introduction</strong></p>
+<blockquote>
+  <p>
+    Topic  A: Introduction to project management<br />
+    Topic  B: IT project management<br />
+    Topic  C: Different types of organizational structures<br />
+  </p>
+</blockquote>
+<p><strong>Unit  2: Project initiation</strong></p>
+<blockquote>
+  <p>
+    Topic  A: Stakeholder requirements<br />
+    Topic  B: Business case<br />
+    Topic  C: Requirements analysis<br />
+    Topic  D: Key roles and responsibilities<br />
+    Topic  E: The project charter<br />
+    Topic  F: Stakeholder consensus and approval<br />
+  </p>
+</blockquote>
+<p><strong>Unit  3: Project planning, estimating and scheduling</strong></p>
+<blockquote>
+  <p>
+    Topic  A: Planning phase<br />
+    Topic  B: Defining scope<br />
+    Topic  C: Creating a work breakdown structure<br />
+    Topic  D: Developing time and cost estimates<br />
+    Topic  E: Creating a budget<br />
+    Topic  F: The project team<br />
+    Topic  G: The project schedule<br />
+  </p>
+</blockquote>
+<p><strong>Unit  4: Creating project plans</strong></p>
+<blockquote>
+  <p>
+    Topic  A: The communications management plan<br />
+    Topic  B: The procurement management plan<br />
+    Topic  C: The risk management plan<br />
+    Topic  D: The quality management plan<br />
+    Topic  E: The project management plan<br />
+  </p>
+</blockquote>
+<p><strong>Unit  5: Managing people</strong></p>
+<blockquote>
+  <p>
+    Topic  A: Managing the project team<br />
+    Topic  B: Relationship with customer and sponsor<br />
+  </p>
+</blockquote>
+<p><strong>Unit  6: Managing cost and evaluating project performance</strong></p>
+<blockquote>
+  <p>
+    Topic  A: Tracking<br />
+    Topic  B: Performance reporting<br />
+  </p>
+</blockquote>
+<p><strong>Unit  7: Managing change and quality</strong></p>
+<blockquote>
+  <p>
+    Topic  A: Managing change<br />
+    Topic  B: Managing quality<br />
+  </p>
+</blockquote>
+<p><strong>Unit  8: Project closure</strong></p>
+<blockquote>
+  <p>
+    Topic A: Closing a  project<br />
+  </p>
+</blockquote>

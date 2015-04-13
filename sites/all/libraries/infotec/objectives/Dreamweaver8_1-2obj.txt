@@ -1,0 +1,20 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> design a website. You will also explore the Dreamweaver environment and identify the HTML tags in the file. </li>
+  <li> define a website. You will also create and save a web page. </li>
+  <li> organize site files using the Files panel. You will also create templates that help you develop multiple pages easily. </li>
+  <li> add content to a web page. </li>
+  <li> identify the different types of links and create them for easy navigation. </li>
+  <li> create frames to enhance navigation within a website. </li>
+  <li> upload a website. </li>
+  <li> create an effective user-navigation interface. </li>
+  <li> manage libraries and snippets. </li>
+  <li> manage head elements and keyboard shortcuts. </li>
+  <li> work with style sheets. </li>
+  <li> work with layers. </li>
+  <li> work with the History panel. </li>
+  <li> target websites to specific versions of browsers. </li>
+  <li> work with code. </li>
+  <li> author with XML data. </li>
+  <li> create forms </li>
+</ul>

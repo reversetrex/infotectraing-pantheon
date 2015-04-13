@@ -1,0 +1,24 @@
+<ul>
+  <li> Introducing Voice Over IP </li>
+  <li>Voip Network Technologies </li>
+  <li>VoIP Network Architectures </li>
+  <li>Building Scalable Dial Plans </li>
+  <li>Calculating Bandwidth Requirements </li>
+  <li>Allocating Bandwidth for Voice and Data Traffic </li>
+  <li>Considering Security in VoIP Networks </li>
+  <li>Configuring Voice Networks </li>
+  <li>Configuring Voice Ports </li>
+  <li>Adjusting Voice Interface Settings </li>
+  <li>Configuring Dial Peers </li>
+  <li>Configuring Voice Port Connections </li>
+  <li>VoIP Signaling and Call Control </li>
+  <li>Introducing Signaling and Call Control </li>
+  <li>Introducing H.323 </li>
+  <li>Deploying and Configuring H.323 </li>
+  <li>Configuring SIP </li>
+  <li>Configuring MGCP </li>
+  <li>Comparing Call Control Models </li>
+  <li>Improving and Maintaining Voice Quality </li>
+  <li>Designing for Optimal Voice Quality </li>
+  <li>Implementing CAC </li>
+</ul>

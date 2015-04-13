@@ -1,0 +1,10 @@
+<ul>
+  <li> Identify the disadvantages of paper spreadsheets and the advantages of electronic spreadsheets by exploring both. </li>
+  <li> Create a basic worksheet by entering text, values, and formulas. </li>
+  <li> Create formulas by using Excel&rsquo;s built-in functions. </li>
+  <li> Move and copy data by using shortcut menus, drag-and-drop editing, and toolbar buttons. </li>
+  <li> Change the appearance of worksheet data by using a variety of formatting techniques. </li>
+  <li> Prepare a document for printing by using the spell checking feature and a variety of printing options. </li>
+  <li> Use the three-dimensional aspect of the Excel workbook environment by creating formulas that refer to cells on multiple worksheets. </li>
+  <li> Save Excel workbooks and selected data as Web pages. </li>
+</ul>

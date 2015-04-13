@@ -1,0 +1,169 @@
+<p><strong>Module 1: Designing a  Logical Architecture</strong> - This module explains how to create a logical architecture  design.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Identifying Business Requirements</li>
+  <li>Overview of SharePoint 2010 Logical Architecture</li>
+  <li>Documenting Your SharePoint 2010 Environment</li>
+  <li>Documenting the Logical Architecture</li>
+  <li>Lab : Designing a Logical Architecture</li>
+  <li>Mapping Business Requirements to a Logical Architecture  Design</li>
+  <li>Creating a Logical Architecture Diagram</li>
+</ul>
+<p><strong>Module 2: Planning a Service  Application Architecture</strong> - This module explains how to create a logical Service  Application architecture.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introduction to the Service Application Architecture in  SharePoint 2010</li>
+  <li>Service Application Architecture and Components</li>
+  <li>Topologies for Service Applications</li>
+  <li>Mapping Service Applications to Your Logical Architecture</li>
+  <li>Lab : Planning a Service Application Architecture</li>
+  <li>Identifying and Designing Service Applications</li>
+  <li>Creating Service Applications and Assigning Proxy Groups</li>
+</ul>
+<p><strong>Module 3: Planning  for Performance and Capacity</strong> - This module explains how to create a capacity and  performance plan for SharePoint 2010.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Principles of Performance Planning</li>
+  <li>Designing for Performance</li>
+  <li>Principles of Capacity Planning</li>
+  <li>Designing for Capacity</li>
+  <li>Lab : Planning for Capacity and Performance</li>
+  <li>Creating a Performance Plan</li>
+  <li>Creating a Capacity Plan.</li>
+</ul>
+<p><strong>Module 4: Designing a  Physical Architecture</strong> - This module  explains how to map the logical architecture, service application architecture,  and the capacity and performance plan against a physical architecture.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Designing Physical Components for SharePoint Deployments</li>
+  <li>Designing Supporting Components for SharePoint Deployments</li>
+  <li>SharePoint Farm Topologies</li>
+  <li>Mapping a Logical Architecture Design to a Physical  Architecture Design</li>
+  <li>Lab : Designing a Physical Architecture</li>
+  <li>Planning the Physical Architecture</li>
+  <li>Troubleshooting a Name Resolution Problem</li>
+</ul>
+<p><strong>Module 5: Designing a  Security Plan</strong> - This module explains how to design a security plan for  SharePoint 2010 based on the principle of least-privilege.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Designing to Secure SharePoint 2010</li>
+  <li>Planning for Service Accounts</li>
+  <li>Planning Security for Users and Groups</li>
+  <li>Planning for SSL</li>
+  <li>Lab : Designing a Security Plan</li>
+  <li>Designing for Least-Privilege Security</li>
+  <li>Identifying and Resolving Potential Security Issues</li>
+  <li>Granting Read Access to the Production Auditors Group</li>
+</ul>
+<p><strong>Module 6: Planning  Authentication</strong> - This module explains how to create an authentication plan  for SharePoint 2010 that meets business requirements.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Authentication</li>
+  <li>Introduction to Claims-based Authentication</li>
+  <li>Selecting Authentication Methods</li>
+  <li>Lab : Planning Authentication</li>
+  <li>Planning Authentication for Contoso, Ltd</li>
+  <li>Enabling Claims-Based Authentication</li>
+</ul>
+<p><strong>Module 7: Planning  Managed Metadata</strong> - This module explains how to create a corporate taxonomy plan  for a SharePoint 2010 environment and enable consumption of the terms within  the term store.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Metadata in SharePoint 2010</li>
+  <li>Overview of Content Types</li>
+  <li>Mapping Managed Metadata to Business Requirements</li>
+  <li>Lab : Planning Managed Metadata</li>
+  <li>Designing Content Types and a Term Set Framework</li>
+  <li>Creating the Managed Metadata Service Application</li>
+  <li>Importing Term Sets</li>
+  <li>Publishing a Content Type</li>
+</ul>
+<p><strong>Module 8: Planning  Social Computing</strong> - This module explains how to design a SharePoint 2010  environment that supports social computing features including user profiles and  My Sites.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Social Computing</li>
+  <li>Planning for Social Computing Functionality in SharePoint  2010</li>
+  <li>Planning for the User Profile Service</li>
+  <li>Lab : Planning Social Computing</li>
+  <li>Planning User Profiles</li>
+  <li>Configuring User Profile Synchronization</li>
+</ul>
+<p><strong>Module 9: Designing  an Enterprise Search Strategy</strong> - This module explains how to design and implement search  strategy in SharePoint 2010.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of SharePoint 2010 Search Architecture</li>
+  <li>Search Topologies in SharePoint 2010</li>
+  <li>Capacity and Performance Planning for Search</li>
+  <li>Mapping Business Requirements to Search Design</li>
+  <li>Lab : Designing an Enterprise Search Strategy</li>
+  <li>Planning for Search</li>
+  <li>Planning Physical Topology</li>
+  <li>Creating Search Service Applications</li>
+  <li>Configuring Search</li>
+</ul>
+<p><strong>Module 10: Planning  Enterprise Content Management</strong> - This module explains how to translate business requirements  for content management into an Enterprise Content Management solution.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Enterprise Content Management</li>
+  <li>Planning Tasks for Content Management</li>
+  <li>Planning Features and Policies for Content Management</li>
+  <li>Planning Web Content Management</li>
+  <li>Lab : Planning Enterprise Content Management</li>
+  <li>Developing a Content Management Plan</li>
+  <li>Enabling and Configuring Document IDs and Content Organizer</li>
+  <li>Configuring Retention Policies and Records Management</li>
+</ul>
+<p><strong>Module 11: Planning a  SharePoint 2010 Implementation of a Business Intelligence Strategy</strong> - This module explains how to create a plan that reflects the  role of SharePoint in an overarching corporate Business Intelligence strategy.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Business Intelligence Principles</li>
+  <li>Planning Data Access by Using BCS</li>
+  <li>Planning SharePoint 2010 Business Intelligence Solutions</li>
+  <li>Planning for Reporting and Presentation</li>
+  <li>Lab : Planning a SharePoint 2010 Implementation of a  Business Intelligence Strategy</li>
+  <li>Planning the SharePoint Business Intelligence Implementation</li>
+  <li>Creating a BI Center and Enabling Excel Services.</li>
+</ul>
+<p><strong>Module 12: Developing  a Plan for Governance</strong> - This module explains how to develop the key SharePoint  elements of a governance plan that is in agreement with the overarching  corporate governance strategy.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Governance</li>
+  <li>Key Elements of a Governance Plan</li>
+  <li>Planning for Governance in SharePoint Server 2010</li>
+  <li>Governance Implementation Features and Policies in  SharePoint Server 2010</li>
+  <li>Lab : Developing a Plan for Governance</li>
+  <li>Creating a Governance Plan</li>
+  <li>Implementing the Governance Plan</li>
+</ul>
+<p><strong>Module 13: Designing  a Maintenance and Monitoring Plan</strong> - This modules explains how to develop a plan for maintaining  and monitoring a SharePoint 2010 deployment.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Principles of Maintenance and Monitoring</li>
+  <li>Creating a Maintenance Plan for SharePoint 2010</li>
+  <li>Creating a Monitoring Plan for SharePoint 2010</li>
+  <li>Considerations for the Maintenance and Monitoring of  Associated Technologies</li>
+  <li>Lab : Designing a Maintenance and Monitoring Plan</li>
+  <li>Resolving an Error in SharePoint 2010</li>
+  <li>Splitting a Content Database</li>
+</ul>
+<p><strong>Module 14: Planning Business Continuity</strong> - This module explains how to develop a business continuity  plan for SharePoint 2010.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Business Continuity Management</li>
+  <li>Developing a Business Continuity Plan for SharePoint Server  2010</li>
+  <li>Creating a Backup and Restore Plan for SharePoint Server  2010</li>
+  <li>Lab : Planning Business Continuity</li>
+  <li>Creating a Backup and Restore Plan</li>
+  <li>Testing the Recovery Process</li>
+</ul>
+<p><strong>Module 15: Planning  for Upgrading to SharePoint 2010</strong> - This modules explains how to plan an upgrade from a previous  SharePoint Products and Technologies version to SharePoint 2010.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Identifying Upgrade Scenarios</li>
+  <li>Planning Your Upgrade</li>
+  <li>Upgrade Considerations</li>
+  <li>Lab : Planning for Upgrading to SharePoint 2010</li>
+  <li>Creating an Upgrade and Migration Plan</li>
+  <li>After completing this module, you will be able to:</li>
+  <li>Describe the range of upgrade requirement options and the  available upgrade methods.</li>
+  <li>Describe how to plan an upgrade to SharePoint 2010.</li>
+  <li>Explain  the key upgrade considerations</li>
+</ul>

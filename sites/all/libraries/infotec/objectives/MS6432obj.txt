@@ -1,0 +1,22 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan an Active Directory server deployment.</li>
+  <li>Identify different approaches to Active Directory server deployment.</li>
+  <li>Add an AD DS server role.</li>
+  <li>Remove an AD DS server role.</li>
+  <li>Identify strategies for developing, monitoring, and reviewing baselines.</li>
+  <li>Create baselines for different Active Directory roles with the appropriate metrics using the Windows Reliability and Performance Monitor (WRPM).</li>
+  <li>Create a monitoring plan based on business needs and environments.</li>
+  <li>Evaluate a monitoring plan based on business needs and environments.</li>
+  <li>Determine the health of Active Directory servers using performance monitoring and event log triggers.</li>
+  <li>Configure effective alerts and responses as well as evaluate alternative recommendations for AD DS servers to meet a business goal.</li>
+  <li>Describe the methodology of maintaining Windows Server 2008 AD DS.</li>
+  <li>Implement the methodology of maintaining Windows Server 2008 AD DS.</li>
+  <li>Perform AD DS maintenance and administrative tasks.</li>
+  <li>Explain the proven methods to harden the Active Directory servers.</li>
+  <li>Deploy the proven methods to harden the Active Directory servers.</li>
+  <li>Decide which Windows Server 2008 security features can address a given business situation.</li>
+  <li>Add service roles to a Windows Server 2008 network.</li>
+  <li>Deploy an Active Directory Lightweight Directory Services (AD LDS) server role.</li>
+  <li>Operate an Active Directory Lightweight Directory Services (AD LDS) server role.</li>
+</ul>

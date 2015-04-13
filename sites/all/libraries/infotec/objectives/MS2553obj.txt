@@ -1,0 +1,10 @@
+<p> After completing this course, students will gain the skills to: </p>
+<ul>
+  <li> Describe the SharePoint Portal Server 2003 architecture and deployment scenarios. </li>
+  <li>Install Microsoft SharePoint Portal Server. </li>
+  <li>Configure server components and create and configure portal sites and virtual servers. </li>
+  <li>Manage a portal site. </li>
+  <li>Manage Sharepoint Portal Server indexing and search. </li>
+  <li>Extend SharePoint Portal Server deployments to include multiple servers and shared services </li>
+  <li>Maintain the SharePoint Portal Server deployment </li>
+</ul>

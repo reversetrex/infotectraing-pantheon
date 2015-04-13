@@ -1,0 +1,8 @@
+<ul>
+  <li> explore the basics of ActionScript. </li>
+  <li> plan movies in Flash. </li>
+  <li> create simple interactivity. </li>
+  <li> create an interactive video game. </li>
+  <li> create complex interactivity. </li>
+  <li> create components. </li>
+</ul>

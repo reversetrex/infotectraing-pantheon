@@ -1,0 +1,405 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Security</li>
+    <li>Security Careers</li>
+    <li>CASP Certification</li>
+    <li>Knowledge Domains</li>
+    <li>CASP Prerequisites</li>
+    <li>Tools and Principles</li>
+  </ul>
+  <h3>Section B: Security Principles</h3>
+  <ul>
+    <li>CIA</li>
+    <li>Confidentiality</li>
+    <li>Integrity</li>
+    <li>Availability</li>
+    <li>AAA</li>
+    <li>Least Privilege</li>
+    <li>Defense in Depth</li>
+  </ul>
+  <h3>Section C: Security and the Enterprise</h3>
+  <ul>
+    <li>Security Interpretation</li>
+    <li>Interpreting Terminology</li>
+    <li>Requirements and Goals</li>
+    <li>Providing Guidance</li>
+  </ul>
+  <h3>Section D: Security Disciplines</h3>
+  <ul>
+    <li>Disciplines</li>
+    <li>Programmer</li>
+    <li>Database Administrator</li>
+    <li>Network Administrator</li>
+    <li>Management</li>
+    <li>Stakeholders</li>
+    <li>Additional Disciplines</li>
+  </ul>
+  <h3>Section E: Security and Change</h3>
+  <ul>
+    <li>Change Management</li>
+    <li>Security Concerns</li>
+    <li>Mergers and Integrations</li>
+    <li>Design Considerations</li>
+    <li>De-Merger Considerations</li>
+    <li>Network Segmentation</li>
+    <li>Merging Third Party Software</li>
+  </ul>
+  <h3>Section F: Technology Life Cycles</h3>
+  <ul>
+    <li>The SDLC</li>
+    <li>SDLC Visualized</li>
+    <li>SDLC Simplified</li>
+    <li>SRTM</li>
+    <li>SDLC Management</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Cryptography Essentials</h3>
+  <ul>
+    <li>Cryptography Defined</li>
+    <li>Steganography</li>
+    <li>Simple Encryption</li>
+    <li>Cryptography Concepts</li>
+    <li>Uses of Cryptography</li>
+    <li>Types of Encryption</li>
+    <li>Popular Encryption Applications</li>
+    <li>Implementing Encryption</li>
+  </ul>
+  <h3>Section B: Cryptographic Methods</h3>
+  <ul>
+    <li>Hashing</li>
+    <li>Digital Signatures</li>
+    <li>Code Signing</li>
+    <li>Non-Repudiation</li>
+    <li>Transport Encryption</li>
+  </ul>
+  <h3>Section C: Advanced Encryption</h3>
+  <ul>
+    <li>Entropy</li>
+    <li>Pseudo Random Numbers</li>
+    <li>Perfect Forward Secrecy</li>
+    <li>Confusion and Diffusion</li>
+    <li>Exclusive OR</li>
+    <li>Symmetric Encryption</li>
+    <li>Symmetric Algorithms</li>
+  </ul>
+  <h3>Section D: Public Key Infrastructure Essentials</h3>
+  <ul>
+    <li>Asymmetric Encryption</li>
+    <li>Public Key Cryptography</li>
+    <li>Certificates</li>
+    <li>Public Key Infrastructure</li>
+    <li>PKI Applications</li>
+  </ul>
+  <h3>Section E: Advanced PKI Concepts</h3>
+  <ul>
+    <li>OCSP and CRL</li>
+    <li>Certificate Issuance</li>
+    <li>Certificate Owners</li>
+    <li>Wildcard Certificates</li>
+  </ul>
+  <h3>Section F: Implementing a PKI</h3>
+  <ul>
+    <li>Installing AD CS</li>
+    <li>Configuring the Setup</li>
+    <li>Setup Type</li>
+    <li>CA Type</li>
+    <li>Private Key</li>
+    <li>Certificate Database</li>
+    <li>Request New Certificate</li>
+    <li>Updating Revocation List</li>
+    <li>Update PKI Properties</li>
+  </ul>
+  <h3>Section G: Encrypting Files/Drives</h3>
+  <ul>
+    <li>Using EFS</li>
+    <li>FEK</li>
+    <li>Backing Up EFS</li>
+    <li>Recovery Agents</li>
+    <li>BitLocker</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Authentication Essentials</h3>
+  <ul>
+    <li>Authentication</li>
+    <li>Weak Authentication Methods</li>
+    <li>Strong Authentication Methods</li>
+    <li>Authentication Credentials</li>
+    <li>Passwords and Human Nature</li>
+    <li>Password Cracking Methods</li>
+    <li>Choosing Secure Passwords</li>
+    <li>Authentication Systems</li>
+    <li>Credential Storage Options</li>
+    <li>Password Cracking Prevention</li>
+  </ul>
+  <h3>Section B: Advanced Authentication Tools</h3>
+  <ul>
+    <li>Single Sign-On</li>
+    <li>Federated Authentication</li>
+    <li>SOAP</li>
+    <li>XACML</li>
+    <li>SPML</li>
+    <li>Certificate-Based Authentication</li>
+    <li>Attestation</li>
+    <li>Driver Signing Information</li>
+  </ul>
+  <h3>Section C: Implementing Authentication</h3>
+  <ul>
+    <li>VMware Appliances</li>
+    <li>User-Specific Settings</li>
+    <li>Group Policy Settings</li>
+    <li>Account Lockout Settings</li>
+  </ul>
+  <h3>Section D: Host-Based Security</h3>
+  <ul>
+    <li>Viruses</li>
+    <li>Worms</li>
+    <li>Types of Viruses</li>
+    <li>Indications of Viral Infection</li>
+    <li>Virus Phases</li>
+    <li>Trojans Defined</li>
+    <li>Malware Solutions</li>
+    <li>Host Hardening</li>
+    <li>Additional Host Controls</li>
+  </ul>
+  <h3>Section E: Storage Solutions</h3>
+  <ul>
+    <li>Storage Security</li>
+    <li>Secure Storage Management</li>
+    <li>RAID Levels</li>
+    <li>Snapshot</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Virtualization</h3>
+  <ul>
+    <li>Virtualization Methods</li>
+    <li>Virtualization Solutions</li>
+    <li>VDI</li>
+    <li>Virtualization Pros and Cons</li>
+  </ul>
+  <h3>Section B: Implementing Virtualization</h3>
+  <ul>
+    <li>Virtualization Vulnerabilities</li>
+    <li>Securing Virtual Infrastructures</li>
+    <li>Elastic Clouds</li>
+    <li>VMware Workstation</li>
+    <li>Creating a VM</li>
+    <li>Configuring a VM</li>
+  </ul>
+  <h3>Section C: VLAN Essentials</h3>
+  <ul>
+    <li>VLANs</li>
+    <li>VLAN Example</li>
+    <li>VLAN Tagging</li>
+    <li>VLAN Trunk Example</li>
+    <li>VLAN Trunking Protocol</li>
+    <li>VLAN Requirements</li>
+    <li>Network Segmentation</li>
+    <li>Flat Networks</li>
+    <li>Network Segmentation Example</li>
+    <li>Hierarchical Network Model</li>
+    <li>Access Layer Details</li>
+    <li>Distribution Layer Details</li>
+    <li>Core Layer Details</li>
+    <li>Hierarchical Design Example</li>
+  </ul>
+  <h3>Section D: Implementing VLANs</h3>
+  <ul>
+    <li>VLANs/Physical Design</li>
+    <li>VLAN Planning</li>
+    <li>Creating a VLAN on a Cisco Switch</li>
+  </ul>
+  <h3>Section E: Communication/Collaboration</h3>
+  <ul>
+    <li>VoIP</li>
+    <li>Analog to Digital</li>
+    <li>Sampling</li>
+    <li>Voice into Packets and Back</li>
+    <li>VoIP Implementation</li>
+    <li>VoIP Security</li>
+    <li>Unified Communications Security</li>
+    <li>Mobile Device Security</li>
+    <li>Collaboration Platforms</li>
+  </ul>
+  <h3>Section F: Securing Remote Communications</h3>
+  <ul>
+    <li>External Communications</li>
+    <li>Remote Access Solutions</li>
+    <li>Setting up Remote Access</li>
+  </ul>
+  <h3>Section G: Application Security Essentials</h3>
+  <ul>
+    <li>Web Applications</li>
+    <li>Web App Implementations</li>
+    <li>Web App Hacking Objectives</li>
+    <li>Anatomy of an Attack</li>
+    <li>Web App Threats</li>
+    <li>Cross-Site Scripting</li>
+    <li>Web App Attack Prevention</li>
+    <li>Specific Application Issues</li>
+    <li>Memory Attacks</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Application Security Solutions</h3>
+  <ul>
+    <li>Application Sandboxing</li>
+    <li>Security Framework</li>
+    <li>Fuzzing</li>
+    <li>Web Sessions</li>
+    <li>Web Processing</li>
+    <li>Webshag</li>
+  </ul>
+  <h3>Section B: Security by Design</h3>
+  <ul>
+    <li>Secure Design Considerations</li>
+    <li>IPv6</li>
+    <li>IPv6 Addressing</li>
+    <li>SCADA</li>
+    <li>Secure Data Flow</li>
+    <li>Network Design</li>
+    <li>Service Planning</li>
+  </ul>
+  <h3>Section C: Service Security</h3>
+  <ul>
+    <li>Secure DNS</li>
+    <li>Secure Directory Services</li>
+    <li>Secure Network Devices</li>
+    <li>Configuring Services</li>
+    <li>Configure Router Security</li>
+  </ul>
+  <h3>Section D: Security Assessment Methods</h3>
+  <ul>
+    <li>Vulnerability Assessment</li>
+    <li>Penetration Testing</li>
+    <li>Fingerprinting</li>
+    <li>Code Review</li>
+    <li>Social Engineering</li>
+    <li>Example Attacks</li>
+    <li>Dumpster Diving</li>
+    <li>Shoulder Surfing</li>
+    <li>Eavesdropping</li>
+    <li>Inside and Outside Attacks</li>
+    <li>Reverse Social Engineering</li>
+  </ul>
+  <h3>Section E: Network Scanning</h3>
+  <ul>
+    <li>Scanning Tools</li>
+    <li>Angry IP Scanner</li>
+    <li>Nmap/Zenmap</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: Network Analysis</h3>
+  <ul>
+    <li>Analysis Tools</li>
+    <li>Wireshark</li>
+    <li>Advanced Assessment Tools</li>
+  </ul>
+  <h3>Section B: Risk Analysis Essentials</h3>
+  <ul>
+    <li>Risk Analysis Process</li>
+    <li>Discovering Assets</li>
+    <li>Defining Value</li>
+    <li>Determining Risks</li>
+    <li>Calculating Risk Rating</li>
+    <li>Risk Management Plans</li>
+    <li>Threat Analysis</li>
+  </ul>
+  <h3>Section C: Risk/Business Decisions</h3>
+  <ul>
+    <li>Risk Management</li>
+    <li>Business Models</li>
+    <li>Visio</li>
+    <li>Risk Influences</li>
+    <li>De-Perimeterization</li>
+  </ul>
+  <h3>Section D: Risk Mitigation</h3>
+  <ul>
+    <li>Using CIA</li>
+    <li>CIA-Tracking Worksheet</li>
+    <li>Risk Security Controls</li>
+    <li>System-Specific Analysis</li>
+    <li>Risk Matrix</li>
+    <li>ESA</li>
+    <li>Continuous Monitoring</li>
+  </ul>
+  <h3>Section E: Risk Assessment Toolkit</h3>
+  <ul>
+    <li>Risk Assessment</li>
+    <li>Variance Analysis</li>
+    <li>Data Collector Set</li>
+  </ul>
+  <h3>Section F: Security Incidents</h3>
+  <ul>
+    <li>Incidents</li>
+    <li>E-Discovery</li>
+    <li>Lansweeper</li>
+    <li>Data Handling</li>
+    <li>Data Breaches</li>
+    <li>System Design</li>
+    <li>Event Logs</li>
+  </ul>
+  <h3>Section G: Incident Response Planning</h3>
+  <ul>
+    <li>Contents</li>
+    <li>BIA</li>
+    <li>Business Continuity Teams</li>
+    <li>Disaster Recovery Simulations</li>
+    <li>Backup Types</li>
+    <li>Backup Storage</li>
+  </ul>
+<h2>Session 7</h2>
+  <h3>Section A: Security Analysis Methods</h3>
+  <ul>
+    <li>Benchmarking</li>
+    <li>Test/Prototype Solutions</li>
+    <li>Cost/Benefit Analysis</li>
+    <li>Analyze Trend Data</li>
+    <li>Security Effectiveness Review</li>
+    <li>Analyzing Security Solutions</li>
+    <li>After-Action Review</li>
+  </ul>
+  <h3>Section B: Traffic Analysis</h3>
+  <ul>
+    <li>FTP Traffic</li>
+    <li>Telnet</li>
+    <li>HTTP</li>
+  </ul>
+  <h3>Section C: Security Trends</h3>
+  <ul>
+    <li>Ongoing Research</li>
+    <li>Situational Awareness</li>
+    <li>New Business Tools</li>
+    <li>Information Architecture Industry</li>
+    <li>Contract Security Requirements</li>
+  </ul>
+  <h3>Section D: Security Policy Essentials</h3>
+  <ul>
+    <li>Security Policies Defined</li>
+    <li>Password Policy</li>
+    <li>Security Training</li>
+    <li>Security Awareness</li>
+    <li>Security Audits</li>
+    <li>Acceptable Use Policy</li>
+    <li>Legal Compliance</li>
+    <li>Policies/Procedures</li>
+    <li>Privacy Principles</li>
+    <li>Common Documents</li>
+  </ul>
+  <h3>Section E: Security Policy Types</h3>
+  <ul>
+    <li>Policy Types</li>
+    <li>Risk Assessment Policy</li>
+    <li>Personal Communication Devices Policy</li>
+    <li>Information Sensitivity Policy</li>
+    <li>Dial-In Access Policy</li>
+    <li>Ethics Policy</li>
+  </ul>
+  <h3>Section F: BackTrack Example</h3>
+  <ul>
+    <li>BackTrack</li>
+    <li>Information Gathering</li>
+    <li>Vulnerability Assessment</li>
+    <li>Exploitation Tools</li>
+    <li>Privilege Escalation</li>
+    <li>Maintaining Access</li>
+  </ul>

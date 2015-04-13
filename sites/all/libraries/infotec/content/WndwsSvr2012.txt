@@ -1,0 +1,249 @@
+<h2>Session 1</h2>
+  <h3>Section A: Server Images</h3>
+  <ul>
+    <li>Deploy and Manage Server Images</li>
+    <li>Install WDS</li>
+    <li>Manage Boot and Install Images</li>
+    <li>Install Features for Offline Images</li>
+    <li>Discover Images</li>
+    <li>Trivial File Transfer</li>
+    <li>Patches, Hotfixes, and Drivers</li>
+    <li>Driver Group and Packages</li>
+  </ul>
+  <h3>Section B: Patch Management</h3>
+  <ul>
+    <li>Implement Patch Management</li>
+    <li>Install WSUS</li>
+    <li>Group Policies for Updates</li>
+    <li>Client-Side Target</li>
+    <li>Post-Installation Wizard, WSUS Sync</li>
+    <li>WSUS Mixed Environments, WSUS Group</li>
+  </ul>
+  <h3>Section C: File Server Resource Manager</h3>
+  <ul>
+    <li>Configure File Server Resource Manager</li>
+    <li>Install FSRM</li>
+    <li>Quotas</li>
+    <li>File Screens</li>
+    <li>Storage Reports</li>
+    <li>File Management Task</li>
+    <li>Configure File and Disk Encryption</li>
+    <li>BitLocker Encryption</li>
+    <li>BitLocker and EFS</li>
+    <li>Network Unlock</li>
+    <li>BitLocker Policies</li>
+    <li>EFS Recovery, BitLocker Certificates</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Distributed File System</h3>
+  <ul>
+    <li>Configure Distributed File System</li>
+    <li>Install DFS</li>
+    <li>Namespaces</li>
+    <li>Add Folders to Namespace</li>
+    <li>File Explorer</li>
+    <li>DFS Replication Targets</li>
+    <li>Replication Schedule</li>
+    <li>Remote Differential Compression Settings</li>
+    <li>Staging</li>
+    <li>DFS Features</li>
+    <li>Fault Tolerance</li>
+    <li>Clone a DFS Database</li>
+    <li>Recover a DFS Database</li>
+    <li>Optimize DFS Replication</li>
+  </ul>
+  <h3>Section B: DNS Zones</h3>
+  <ul>
+    <li>Configure DNS Zones</li>
+    <li>Primary and Secondary Zones</li>
+    <li>Zone Transfer Settings, Notice Settings</li>
+    <li>Stub Zones</li>
+    <li>Conditional Forwarders</li>
+    <li>Zone Delegation</li>
+  </ul>
+  <h3>Section C: DNS Records</h3>
+  <ul>
+    <li>Configure DNS Records</li>
+    <li>DNS Resource Records</li>
+    <li>Create DNS Records</li>
+    <li>Priority and Weight Records</li>
+    <li>Zone Scavenging</li>
+    <li>Time to Live</li>
+    <li>Round Robin</li>
+    <li>Secure Dynamic Updates</li>
+  </ul>
+  <h3>Section D: VPN and Routing</h3>
+  <ul>
+    <li>Configure VPN and Routing</li>
+    <li>Install Remote Access Role</li>
+    <li>Web Application Proxy</li>
+    <li>Getting Started Wizard</li>
+    <li>Edit Wizard Settings</li>
+    <li>VPN Settings</li>
+    <li>Network Address Translation</li>
+    <li>Configure VPN Settings</li>
+    <li>Remote Dial-In Settings for Users</li>
+    <li>Routing</li>
+  </ul>
+  <h3>Section E: DirectAccess</h3>
+  <ul>
+    <li>Configure DirectAccess</li>
+    <li>Server Configuration</li>
+    <li>Client Configuration</li>
+    <li>Certificates for DirectAccess</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Network Policy Server</h3>
+  <ul>
+    <li>Configure Network Policy Server</li>
+    <li>Install Network Policy and Access</li>
+    <li>What Is RADIUS?</li>
+    <li>RADIUS Clients</li>
+    <li>Multiple RADIUS Server Groups</li>
+    <li>Single RADIUS Client</li>
+    <li>Configure NPS Templates</li>
+    <li>Manage RADIUS Templates</li>
+    <li>RADIUS Accounting</li>
+    <li>RADIUS Proxy</li>
+  </ul>
+  <h3>Section B: NPS Policy</h3>
+  <ul>
+    <li>Configure NPS Policy</li>
+    <li>Authentication Methods</li>
+    <li>NPS Certificates</li>
+    <li>Connection Request Policies</li>
+    <li>Specify Authentication Methods</li>
+    <li>Network Policy for VPN Clients</li>
+    <li>New Network Policy</li>
+    <li>Manage NPS Templates</li>
+    <li>Import and Export NPS Policies</li>
+  </ul>
+  <h3>Section C: Network Access Protection</h3>
+  <ul>
+    <li>Configure NAP</li>
+    <li>System Health Validators</li>
+    <li>Health Policies</li>
+    <li>Enforce NAP</li>
+    <li>Remediation Using DHCP</li>
+    <li>Remediation Servers</li>
+    <li>Remediation Using VPN</li>
+    <li>NAP Client Settings</li>
+  </ul>
+  <h3>Section D: Monitor Servers</h3>
+  <ul>
+    <li>Configure Monitor Servers</li>
+    <li>Performance Monitor</li>
+    <li>New DCS</li>
+    <li>Alerts</li>
+    <li>Monitor Events</li>
+    <li>Real-Time Performance</li>
+    <li>Monitor Virtual Machines</li>
+    <li>Event Viewer</li>
+    <li>Event Subscription</li>
+    <li>Network Monitoring</li>
+    <li>Other Network Monitoring Tools</li>
+    <li>Schedule Performance Monitoring</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Service Authentication</h3>
+  <ul>
+    <li>Configure Service Authentication</li>
+    <li>Types of Service Accounts</li>
+    <li>Domain User Accounts</li>
+    <li>Managed Service Accounts</li>
+    <li>Group Managed Service Accounts</li>
+    <li>Assign to Service</li>
+    <li>Virtual Accounts</li>
+    <li>Kerberos Delegation</li>
+    <li>Service Principal Name</li>
+  </ul>
+  <h3>Section B: Domain Controllers</h3>
+  <ul>
+    <li>Configure Domain Controllers</li>
+    <li>Universal Group Membership Cache</li>
+    <li>Operations Masters</li>
+    <li>Seize and Transfer Control</li>
+    <li>Read Only Domain Controller</li>
+    <li>RODC Purpose</li>
+    <li>Domain Controller Cloning</li>
+    <li>Domain Controller, Password Replication</li>
+  </ul>
+  <h3>Section C: Active Directory</h3>
+  <ul>
+    <li>Maintain Active Directory</li>
+    <li>Back Up Active Directory and SYSVOL</li>
+    <li>Active Directory Restore, Recovery</li>
+    <li>Active Directory Repair, Restore</li>
+    <li>Repair, Reboot</li>
+    <li>Authoritative and Non-Authoritative</li>
+    <li>AD Offline, Optimize AD Database</li>
+    <li>Clean Up Metadata</li>
+    <li>Active Directory Snapshots</li>
+    <li>AD Recycle Bin</li>
+    <li>Delete User, Restore Accountant</li>
+    <li>PowerShell History</li>
+  </ul>
+  <h3>Section D: Account Policies</h3>
+  <ul>
+    <li>Configure Account Policies</li>
+    <li>Domain User Password Policy</li>
+    <li>Account Lockout Policy</li>
+    <li>Kerberos</li>
+    <li>Kerberos Policy Settings</li>
+    <li>Password Settings Objects</li>
+    <li>Local User Password Policy</li>
+    <li>Password Settings Management</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Group Policy Processing</h3>
+  <ul>
+    <li>Configure Group Policy Processing</li>
+    <li>Policy Processing Order</li>
+    <li>Create Service Account</li>
+    <li>Link Group Policy Objects</li>
+    <li>Blocking vs. Enforcing</li>
+    <li>Blocking of Inheritance</li>
+    <li>Enforcement Policies</li>
+    <li>Security Filtering</li>
+    <li>WMI Filtering</li>
+    <li>Loopback Processing</li>
+    <li>Manage Slow Link Processing</li>
+    <li>Client-Side Extension</li>
+    <li>Force Group Policy Update</li>
+    <li>Group Policy Cache</li>
+  </ul>
+  <h3>Section B: Group Policy Settings</h3>
+  <ul>
+    <li>Configure Group Policy Settings</li>
+    <li>Software Installation</li>
+    <li>Folder Redirection</li>
+    <li>Scripts</li>
+    <li>Administrative Templates Settings</li>
+    <li>Import Security Templates</li>
+    <li>Custom Administrative Templates</li>
+    <li>Property Filters for Admin Templates</li>
+  </ul>
+  <h3>Section C: Group Policy Objects</h3>
+  <ul>
+    <li>Manage Group Policy Objects</li>
+    <li>Back Up and Delete GPO</li>
+    <li>Restore GPO</li>
+    <li>Copy GPO</li>
+    <li>Import GPO</li>
+    <li>Create and Configure Migration Table</li>
+    <li>Reset Default GPO</li>
+    <li>Delegate Group Policy Management</li>
+    <li>Group Policy Management</li>
+    <li>Group Policy Preferences</li>
+    <li>Item-Level Targeting</li>
+    <li>Control Panel Settings</li>
+  </ul>
+  <h3>Section D: Advanced Audit Policies</h3>
+  <ul>
+    <li>Configure Advanced Audit Policies</li>
+    <li>Audit using Group Policy Traditional</li>
+    <li>Advanced Look</li>
+    <li>Auditpol.exe</li>
+    <li>Expression-Based Audit Policies</li>
+    <li>Removable Device Audit Policies</li>
+  </ul>

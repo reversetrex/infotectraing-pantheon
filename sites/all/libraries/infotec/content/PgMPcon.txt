@@ -1,0 +1,157 @@
+<p><strong>Lesson 1: Understanding Organizational Management Processes</strong></p>
+
+<ul>
+ <li>Topic 1A: Describe the Fundamentals of Project Management </li>
+ <li>Topic 1B: Describe Project Management Processes </li>
+ <li>Topic 1C: Examine Organizational Structures</li>
+</ul>
+
+<p><strong>Lesson 2: Identifying the Program Management Framework</strong></p>
+
+<ul>
+ <li>Topic 2A: Introduction to Program Management</li>
+ <li>Topic 2B: Examine the Program Life Cycle</li>
+ <li>Topic 2C: Identify Program Management Roles</li>
+</ul>
+
+<p><strong>Lesson 3: Examining the Program Management Themes</strong></p>
+
+<ul>
+ <li>Topic 3A: Describe the Program Benefits Management Theme</li>
+ <li>Topic 3B: Describe the Program Stakeholder Management Theme</li>
+ <li>Topic 3C: Describe the Program Governance Theme</li>
+ <li>Topic 3D: Describe Program Governance Across the Program Life Cycle</li>
+</ul>
+
+<p><strong>Lesson 4: Understanding the Program Management Life Cycle Phases</strong></p>
+
+<ul>
+ <li>Topic 4A: Describe Phase One: Pre-Program Set Up</li>
+ <li>Topic 4B: Describe Phase Two: Program Set Up</li>
+ <li>Topic 4C: Describe Phase Three: Establish Program Management and Technical Infrastructure</li>
+ <li>Topic 4D: Describe Phase Four: Deliver the Benefits</li>
+ <li>Topic 4E: Describe Phase Five: Close the Program</li>
+</ul>
+
+<p><strong>Lesson 5: Identifying Program Management Processes</strong></p>
+
+<ul>
+ <li>Topic 5A: Introduction to Program Management Processes</li>
+ <li>Topic 5B: Describe the Program Management Organization</li>
+ <li>Topic 5C: Identify the Communication Channels</li>
+ <li>Topic 5D: Create the Program Definition Statement</li>
+ <li>Topic 5E: Establish the Program Financial Framework</li>
+ <li>Topic 5F: Manage the Program Benefits</li>
+</ul>
+
+<p><strong>Lesson 6: Initiating the Program</strong></p>
+
+<ul>
+ <li>Topic 6A: Identify Program Initiation Fundamentals</li>
+ <li>Topic 6B: Authorize Projects</li>
+ <li>Topic 6C: Initiate a Program Team</li>
+</ul>
+
+<p><strong>Lesson 7: Planning the Program Process</strong></p>
+
+<ul>
+ <li>Topic 7A: Develop the Program Management Plan</li>
+ <li>Topic 7B: Plan Program Interface</li>
+ <li>Topic 7C: Plan Program Transition</li>
+ <li>Topic 7D: Plan Program Resources</li>
+</ul>
+
+<p><strong>Lesson 8: Developing the Program Infrastructure</strong></p>
+
+<ul>
+ <li>Topic 8A: Plan for Human Resources</li>
+ <li>Topic 8B: Plan Program Scope Definition</li>
+ <li>Topic 8C: Create the Program WBS</li>
+ <li>Topic 8D: Develop the Program Schedule</li>
+</ul>
+
+<p><strong>Lesson 9: Planning Program Governance, Stakeholder Management, and Communications</strong></p>
+
+<ul>
+ <li>Topic 9A: Plan Program Governance</li>
+ <li>Topic 9B: Plan Program Stakeholder Management</li>
+ <li>Topic 9C: Plan Program Communications</li>
+</ul>
+
+<p><strong>Lesson 10: Planning and Analyzing Risk Management</strong></p>
+
+<ul>
+ <li>Topic 10A: Plan for Program Risks</li>
+ <li>Topic 10B: Identify Risks</li>
+ <li>Topic 10C: Analyze Risks</li>
+ <li>Topic 10D: Plan Program Risk Response</li>
+</ul>
+
+<p><strong>Lesson 11: Planning Program Cost and Budget</strong></p>
+
+<ul>
+   <li>Topic 11A: Plan the Program Cost Estimate and Budget</li>
+   <li>Topic 11B: Plan the Program Cost</li>
+   <li>Topic 11C: Plan Program Cost Budgeting</li>
+</ul>
+
+<p><strong>Lesson 12: Planning Program Procurement and Contracts</strong></p>
+
+<ul>
+  <li>Topic 12A: Plan Program Purchases and Acquisitions</li>
+  <li>Topic 12B: Plan Program Contracting</li>
+</ul>
+
+<p><strong>Lesson 13: Planning Program Quality and Audits</strong></p>
+
+<ul>
+  <li>Topic 13A: Plan Program Quality</li>
+  <li>Topic 13B: Plan Audits</li>
+</ul>
+
+<p><strong>Lesson 14: Executing a Program</strong></p>
+
+<ul>
+  <li>Topic 14A: Direct and Manage Program Execution</li>
+  <li>Topic 14B: Perform Quality Assurance</li>
+  <li>Topic 14C: Acquire the Program Team</li>
+  <li>Topic 14D: Develop a Program Team</li>
+  <li>Topic 14E: Distribute Information</li>
+  <li>Topic 14F: Request Seller Responses</li>
+  <li>Topic 14G: Select Sellers</li>
+</ul>
+
+<p><strong>Lesson 15: Monitoring and Controlling Program Integration, Scope, Time, and Cost</strong></p>
+
+<ul>
+  <li>Topic 15A: Examine Integrated Change Control</li>
+  <li>Topic 15B: Control Resources</li>
+  <li>Topic 15C: Monitor and Control Program Work</li>
+  <li>Topic 15D: Manage and Control Program Issues</li>
+  <li>Topic 15E: Control Program Scope</li>
+  <li>Topic 15F: Monitor and Control the Program Schedule</li>
+  <li>Topic 15G: Monitor and Control Program Cost</li>
+</ul>
+
+<p><strong>Lesson 16: Controlling Program Quality and Communications</strong></p>
+
+<ul>
+  <li>Topic 16A: Control Program Quality</li>
+  <li>Topic 16B: Control Program Communications</li>
+</ul>
+
+<p><strong>Lesson 17: Managing Program Performance, Risk, and Contracts</strong></p>
+
+<ul>
+  <li>Topic 17A: Report Program Performance</li>
+  <li>Topic 17B: Monitor and Control Risk</li>
+  <li>Topic 17C: Describe Program Contract Administration</li>
+</ul>
+
+<p><strong>Lesson 18: Performing Program Closure</strong></p>
+
+<ul>
+  <li>Topic 18A: Close the Program</li>
+  <li>Topic 18B: Close Program Components</li>
+  <li>Topic 18C: Close Program Contracts</li>
+</ul>

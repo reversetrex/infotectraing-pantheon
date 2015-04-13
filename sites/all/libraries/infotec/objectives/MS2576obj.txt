@@ -1,0 +1,8 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Describe the main features of IIS 6.0, the IIS 6.0 security model, the request processing and metabase architectures. </li>
+  <li>Plan the implementation of IIS 6.0 based on the administrative and business needs of an organization. </li>
+  <li>Install and configure IIS 6.0. </li>
+  <li>Implement Web server and Web site security. </li>
+  <li>Create additional Web and File Transfer Protocol (FTP) sites. </li>
+</ul>

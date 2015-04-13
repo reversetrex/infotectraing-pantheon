@@ -1,0 +1,10 @@
+<p>During this course, you will learn:</p>
+<ul>
+  <li>Introduction to troubleshooting techniques, including being prepared</li>
+  <li>Troubleshooting hardware, including listing, testing, and analyzing devices</li>
+  <li>Troubleshooting applications, including diagnosing performance problems and investigating application and OS interactions</li>
+  <li>Troubleshooting disks and file systems, including LVM, LUKS, ext3/4, and unauthorized changes</li>
+  <li>Troubleshooting the network, including configuring, testing, and diagnosing problems with basic and advanced configurations</li>
+  <li>Security, including working effectively with (and not against) security tools like SELinux, authentication, and firewall</li>
+  <li>Making the most of Red Hat support resources</li>
+</ul>

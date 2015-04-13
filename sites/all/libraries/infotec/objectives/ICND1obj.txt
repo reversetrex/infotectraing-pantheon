@@ -1,0 +1,9 @@
+<p>Upon completion of the course, you should be able to:</p>
+<ul>
+  <li>Describe how networks function, identifying major components, function of network components and the Open System Interconnection (OSI) reference model.</li>
+  <li>Using the host-to-host packet delivery process, describe issues related to increasing traffic on an Ethernet LAN and identify switched LAN technology solutions to Ethernet networking issues.</li>
+  <li>Describes the reasons for extending the reach of a LAN and the methods that can be used with a focus on RF wireless access.</li>
+  <li>Describes  the reasons for connecting networks with routers and how routed networks transmit data through networks using TCP / IP.</li>
+  <li>Describe the function of Wide Area Networks (WANs), the major devices of WANs, and configure PPP encapsulation, static and dynamic routing, PAT and RIP routing.</li>
+  <li>Use the command-line interface to discover neighbors on the network and managing the routers startup and configuration.</li>
+</ul>

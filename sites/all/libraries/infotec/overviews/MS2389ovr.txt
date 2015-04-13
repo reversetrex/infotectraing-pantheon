@@ -1,0 +1,1 @@
+This course will teach developers to build data-centric applications and Web services with Microsoft ADO.NET, Microsoft SQL Server 2000, and the Microsoft.NET Framework.

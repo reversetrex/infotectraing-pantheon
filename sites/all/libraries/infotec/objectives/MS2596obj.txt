@@ -1,0 +1,13 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Describe the features and infrastructure of Systems Management Server 2003 (SMS). </li>
+  <li> Configure a site system. </li>
+  <li> Deploy SMS clients. </li>
+  <li> Discover SMS resources. </li>
+  <li> Collect inventory and monitor software usage. </li>
+  <li> Query and report data. </li>
+  <li> Distribute software. </li>
+  <li> Implement Software Update Tools. </li>
+  <li> Use SMS Remote Tools for client support. </li>
+  <li> Perform site maintenance, backup, and recovery tasks. </li>
+</ul>

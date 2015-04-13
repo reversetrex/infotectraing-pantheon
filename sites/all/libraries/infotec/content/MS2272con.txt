@@ -1,0 +1,102 @@
+<p><strong> Unit 1: Installing Microsoft Windows XP Professional </strong></p>
+<ul>
+  <li> Planning an Installation of Microsoft Windows XP Professional </li>
+  <li>Installing Windows XP Professional from a Product CD </li>
+  <li>Installing Windows XP Professional from a Server </li>
+  <li>Upgrading to Microsoft Windows XP Professional </li>
+  <li>Transferring User Settings by Using the USMT </li>
+  <li>Performing Post-Installation Tasks </li>
+  <li>Troubleshooting Failed Installations </li>
+</ul>
+<p><strong> Unit 2: Automating an Installation of Microsoft Windows XP Professional </strong></p>
+<ul>
+  <li> Introduction to Automating an Installation of Windows XP Professional </li>
+  <li>Creating Answer Files </li>
+  <li>Creating a Uniqueness Database File </li>
+  <li>How Setup Uses Answer Files and UDFs </li>
+  <li>Performing an Automated Installation of Windows XP Professional </li>
+  <li>Introduction to Creating and Deploying an Image </li>
+  <li>Preparing a Reference Computer </li>
+  <li>Creating, Testing, and Deploying an Image Configuring Plug and Play Devices </li>
+</ul>
+<p><strong> Unit 3: Configuring Hardware on a Computer Running Microsoft Windows XP Professional </strong></p>
+<ul>
+  <li> Installing and Configuring Hardware Devices </li>
+  <li>Working with Drivers </li>
+  <li>Troubleshooting Hardware Devices </li>
+</ul>
+<p><strong> Unit 4: Troubleshooting the Boot Process and Other System Issues </strong></p>
+<ul>
+  <li> Examining the Windows XP Professional Boot Process </li>
+  <li>Controlling System Settings During the Boot Process </li>
+  <li>Changing Startup Behavior Using the Boot.ini File </li>
+  <li>Using Advanced Boot Options to Troubleshoot Startup Problems </li>
+  <li>Using the Recovery Console to Start the Computer </li>
+  <li>Restoring a Computer to a Previous State </li>
+</ul>
+<p><strong> Unit 5: Configuring Microsoft Windows XP Professional to Operate in Microsoft Windows Networks </strong></p>
+<ul>
+  <li> Examining Workgroups and User Accounts </li>
+  <li>Creating and Authenticating Local User Accounts </li>
+  <li>Configuring Local Security </li>
+  <li>Configuring Logon Options in a Workgroup </li>
+  <li>Configuring Networking Options in a Workgroup </li>
+  <li>Joining a Domain </li>
+  <li>Operating in a Domain </li>
+</ul>
+<p><strong> Unit 6: Configuring the Desktop Environment </strong></p>
+<ul>
+  <li> Configuring User Desktop Settings </li>
+  <li>Customizing the Desktop Environment </li>
+  <li>Configuring System Settings </li>
+  <li>Understanding How Profiles and Group Policy Affect Desktop Customization </li>
+  <li>Using Remote Assistance </li>
+</ul>
+<p><strong> Unit 7: Configuring and Supporting TCP/IP </strong></p>
+<ul>
+  <li> Introduction to TCP/IP </li>
+  <li>Examining Classful IP Addressing </li>
+  <li>Defining Subnets </li>
+  <li>Using Classless Inter-Domain Routing </li>
+  <li>Configuring IP Addresses </li>
+  <li>Troubleshooting IP Addresses </li>
+</ul>
+<p><strong> Unit 8: Configuring Names Resolution </strong></p>
+<ul>
+  <li> Determining TCP/IP Name Resolution Methods </li>
+  <li>Configuring DNS Client Name Resolution and DNS Dynamic Updates </li>
+  <li>Configuring Name Resolution on WINS Clients </li>
+  <li>Working with LmHOSTS </li>
+</ul>
+<p><strong> Unit 9: Configuring Windows XP Professional for Networks Running Novell NetWare and UNIX Operating Systems </strong></p>
+<ul>
+  <li> Installing and Configuring Client Service for NetWare </li>
+  <li>Interoperating with UNIX </li>
+  <li>Configuring UNIX Interoperability </li>
+  <li>Installing Windows XP Professional Client Features to Operate with UNIX Servers </li>
+</ul>
+<p><strong> Unit 10: Supporting Remote Users </strong></p>
+<ul>
+  <li> Establishing Remote Access Connections </li>
+  <li>Connecting to Virtual Private Networks </li>
+  <li>Configuring Inbound Connections </li>
+  <li>Configuring Authentication Protocols and Encryption </li>
+  <li>Examining the Remote Desktop Feature </li>
+  <li>Configuring Computers to Use Remote Desktop </li>
+  <li>Storing User Names and Passwords to Facilitate Remote Connections </li>
+</ul>
+<p><strong> Unit 11: Configuring Microsoft Windows XP for Mobile Computing </strong></p>
+<ul>
+  <li> Configuring Hardware for Mobile Computing </li>
+  <li>Configuring Power Management Options for Mobile Computing </li>
+  <li>Making Files, Folders, and Web Pages Available for Offline Use </li>
+</ul>
+<p><strong> Unit 12: Managing Disks </strong></p>
+<ul>
+  <li> Working with Basic Disks </li>
+  <li>Working with Dynamic Disks </li>
+  <li>Managing Drive Letters and Paths </li>
+  <li>Preparing Disks When Upgrading to Windows XP Professional </li>
+  <li>Managing Disks </li>
+  <li>Defragmenting Volumes </li>
+</ul>

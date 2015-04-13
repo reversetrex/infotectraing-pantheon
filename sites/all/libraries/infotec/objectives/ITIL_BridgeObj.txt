@@ -1,0 +1,8 @@
+<p>The course also allows learners to:</p>
+
+<ul>
+  <li>Understand the Differences between V2 and V3.</li>
+  <li>Examine the Service Lifecycle in detail.</li>
+  <li>Understand V3 Key Terms and Concepts.</li>
+  <li>Understand the new roles and models defined in ITIL V3.</li>
+</ul>

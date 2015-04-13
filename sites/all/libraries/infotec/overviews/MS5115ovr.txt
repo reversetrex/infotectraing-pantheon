@@ -1,0 +1,2 @@
+This three-day instructor-led course provides students with the knowledge and skills to install and configure Windows Vista desktops. It will focus on four main areas: installing, securing, networking, and browsing. By the end of the course, the student will have installed and configured a Windows Vista desktop that is secure, on the network, and ready for browsing. This is the first course in the Windows Vista curriculum and will serve as the entry point for other Windows Vista Technology Specialist courses.
+

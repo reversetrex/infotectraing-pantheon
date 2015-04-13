@@ -1,0 +1,1 @@
+After completing this course, students will walk away with a deep understanding of the Application Virtualization environment and be able to install, configure, administer, and troubleshoot the components. Students will also be able to install and utilize the MDOP components and understand their position in the desktop management process.

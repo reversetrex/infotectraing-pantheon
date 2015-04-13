@@ -1,0 +1,10 @@
+<ul>
+  <li>Module 1 Wireless Technology: Describe detailed modulation and spreading techniques and how it is used with various antennas.</li>
+  <li>Module 2 Cisco WLAN Products: Describe detailed technical features, functions, and benefits of the Cisco wireless LAN products and how they compare to each other.</li>
+  <li>Module 3 Cisco Wireless Clients and Supplicants: Describe Aironet Desktop Utility and the Cisco Secure Services Client.</li>
+  <li>Module 4 Standalone Access Point Administration: Define the concept of using wireless devices to create a WLAN using the standalone products.</li>
+  <li>Module 5 Wireless Bridges: Define concepts of using wireless devices to create a Layer 2 bridge.</li>
+  <li>Module 6 Cisco Unified WLAN Administration: Configure a controller-based wireless network using a Cisco wireless LAN controller.</li>
+  <li>Module 7 Site Survey Preparation and Techniques: Describe the requirement necessary for deployment and performing a site survey.</li>
+  <li>Module 8 Tools and Utilities: Describe the steps, concepts, and tools available while performing a site survey.</li>
+</ul>

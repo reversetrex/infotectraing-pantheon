@@ -1,0 +1,2 @@
+This two-day instructor-led course provides students with the knowledge and skills to successfully configure mobile computers and applications that run Windows Vista. It will also provide them with the knowledge and skills necessary to ensure successful configuration of the IT Pro tools and productivity applications that ship with Windows Vista. Students will focus on six main areas: maintenance and optimization tools, media applications, productivity applications, notebook computers, mobile devices, and Tablet PCs.
+

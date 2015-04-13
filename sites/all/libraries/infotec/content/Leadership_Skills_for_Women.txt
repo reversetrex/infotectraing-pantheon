@@ -1,0 +1,26 @@
+<h2>Session 1</h2>
+  <h3>Section A: Characteristics of Effective Leaders</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Breaking Stereotypes</li>
+    <li>Changing Workplace</li>
+    <li>Leadership Skills</li>
+  </ul>
+  <h3>Section B: Leading Your Team</h3>
+  <ul>
+    <li>Stereotypes</li>
+    <li>Do's and Don'ts</li>
+    <li>Team Building Basics</li>
+  </ul>
+  <h3>Section C: Getting Organized</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Time Management</li>
+  </ul>
+  <h3>Section D: Solving Problems</h3>
+  <ul>
+    <li>Resolving Conflict</li>
+    <li>Managing Difficult People</li>
+    <li>Gaining Personal Power</li>
+    <li>Conclusion</li>
+  </ul>

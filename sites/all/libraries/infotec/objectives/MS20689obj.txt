@@ -1,0 +1,13 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan and perform the installation of Windows 8.</li>
+  <li>Install Windows 8 on computers that are running an existing operating system.</li>
+  <li>Administer Windows 8 with administration tools, Group Policy, Windows Intune and Windows PowerShell</li>
+  <li>Implement an application strategy for Windows 8.</li>
+  <li>Configure and control applications, application compatibility and Internet Explorer</li>
+  <li>Enable Windows 8 remote access with VPNs and DirectAccess</li>
+  <li>Implement and manage storage in Windows 8 including BitLocker and SkyDrive.</li>
+  <li>Determine how to recover Windows 8 from various failures.</li>
+  <li>Implement Client Hyper-V and VHDs for Windows 8 and use it to support legacy applications.</li>
+  <li>Use the boot from VHD feature to test online features of Windows 8.</li>
+</ul>

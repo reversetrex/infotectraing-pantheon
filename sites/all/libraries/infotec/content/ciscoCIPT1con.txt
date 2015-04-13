@@ -1,0 +1,27 @@
+<p> <strong>Unit 1 - Getting started with Cisco CallManager Release 5.0 </strong><br>
+Lab 1-1 Installing Cisco CallManager 5.0 </p>
+<p><strong> Unit  2 - Administering Cisco CallManager Release 5.0 <br>
+</strong>Lab 2-1 Performing Platform Administration <br>
+Lab 2-2 Performing General Administration <br>
+Lab 2-3 Configuring CallManager 5.0 Basic Settings <br>
+Lab 2-4 Configuring Cisco CallManager to Support IP Phones </p>
+<p><strong> Unit  3 - Deploying Cisco CallManager Release 5.0 Endpoints <br>
+</strong>Lab 3-1 Configuring Auxiliary or Voice VLANs <br>
+Lab 3-2 Configuring SIP Endpoints <br>
+Lab 3-3 Using the Bulk Administration Tool </p>
+<p> <strong>Unit  4 - Deploying a Dial Plan on CallManager Release 5.0 </strong><br>
+Lab 4-1 Configuring Voice Gateways <br>
+Lab 4-2 Configuring Cisco CallManager Trunks <br>
+Lab 4-3 Configuring Basic Dial Plan Elements <br>
+Lab 4-4 Configuring Hunt Groups and Call Coverage <br>
+Lab 4-5 Configuring Complex Dial Plan Elements </p>
+<p> <strong>Unit  5 - Implementing Multi-site Deployments </strong><br>
+Lab 5-1 Configuring Call Admission Control in Cisco CallManager 5.0 <br>
+Lab 5-2 Configuring SRST </p>
+<p> <strong>Unit  6 - Enabling Features and Services </strong><br>
+Lab 6-1 Configuring Media Resources <br>
+Lab 6-2 Configuring User Features Part 1 <br>
+Lab 6-3 Configuring Extension Mobility <br>
+Lab 6-4 Configuring Additional Features <br>
+Lab 6-5 Configuring Cisco CallManager Attendant Console </p>
+<p><strong> &nbsp;</strong></p>

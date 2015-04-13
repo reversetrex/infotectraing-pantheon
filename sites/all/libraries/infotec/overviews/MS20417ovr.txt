@@ -1,0 +1,9 @@
+Get hands-on instruction and practice configuring and implementing new features and functionality in Windows Server 2012, including Windows Server 2012 R2, in this five-day Microsoft Official Course. This course is designed for IT professionals who want to upgrade their technical skills from Windows Server 2008 to Windows Server 2012 and Windows Server 2012 R2. It presumes a high level of knowledge about previous Windows Server technologies and skills equivalent to MCSA: Windows Server 2008 credential.
+<br /><br />
+The course covers the new features and functionality in Windows Server 2012 and Windows Server 2012 R2, including management, network infrastructure, storage, access control, virtualization, high availability, and identity federation. Specific technologies covered include Windows PowerShell, Storage Spaces and Internet Small Computer System interface (iSCSI), Active Directory, Hyper-V, implementation of Remote Access solutions such as DirectAccess, VPNs, and Web Application Proxy (WAP). The course also covers Failover Clustering, Federation Services as well as access and information provisioning and protection technologies such as Dynamic Access Control, and Web Application Proxy integration with Federation Services and Workplace Join.
+<br /><br />
+This course is not a product upgrade course, detailing considerations for migrating and upgrading your specific environment to Windows Server 2012. Rather, this course will update your existing Windows Server 2008 knowledge and skills to Windows Server 2012, including Windows Server 2012 R2.
+<br /><br />
+This course maps directly to and is the preferred choice for hands-on preparation for Microsoft Certified Solutions Associate (MCSA): Exam 417: Upgrading Your Skills to MCSA Windows Server 2012, which is the upgrade exam for individuals who hold an MCSA: Windows Server 2008 certification.
+<br /><br />
+Labs in this course are based on Windows Server 2012 R2 and Windows 8.1.

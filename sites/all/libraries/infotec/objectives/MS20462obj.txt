@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe core database administration tasks and tools.</li>
+  <li>Install and configure SQL Server 2014.</li>
+  <li>Configure SQL Server databases and storage.</li>
+  <li>Plan and implement a backup strategy.</li>
+  <li>Restore databases from backups.</li>
+  <li>Import and export data.</li>
+  <li>Monitor SQL Server.</li>
+  <li>Trace SQL Server activity.</li>
+  <li>Manage SQL Server security.</li>
+  <li>Audit data access and encrypt data.</li>
+  <li>Perform ongoing database maintenance.</li>
+  <li>Automate SQL Server maintenance with SQL Server Agent Jobs.</li>
+  <li>Configure Database Mail, alerts and notifications.</li>
+</ul>

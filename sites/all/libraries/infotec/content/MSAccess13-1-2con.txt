@@ -1,0 +1,74 @@
+<p><strong>Access 2013 Level 1</strong></p>
+<p><strong>Lesson 1: </strong>Getting Started with Access</p>
+<ul>
+  <li><strong>Topic A: </strong>Orientation to Microsoft Access</li>
+  <li><strong>Topic B: </strong>Create a Simple Access Database</li>
+  <li><strong>Topic C: </strong>Get Help in Microsoft Access</li>
+</ul>
+<p><strong>Lesson 2: </strong>Working with Table Data</p>
+<ul>
+  <li><strong>Topic A: </strong>Modify Table Data</li>
+  <li><strong>Topic B: </strong>Sort and Filter Records</li>
+  <li><strong>Topic C: </strong>Create Lookups</li>
+</ul>
+<p><strong>Lesson 3: </strong>Querying a Database</p>
+<ul>
+  <li><strong>Topic A: </strong>Join Data from Different Tables in a Query</li>
+  <li><strong>Topic B: </strong>Sort and Filter Data in a Query</li>
+  <li><strong>Topic C: </strong>Perform Calculations in a Query</li>
+</ul>
+<p><strong>Lesson 4: </strong>Creating Advanced Queries</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Parameter Queries</li>
+  <li><strong>Topic B: </strong>Create Action Queries</li>
+  <li><strong>Topic C: </strong>Create Unmatched and Duplicate Queries</li>
+  <li><strong>Topic D: </strong>Summarize Data</li>
+</ul>
+<p><strong>Lesson 5: </strong>Generating Reports</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a Report</li>
+  <li><strong>Topic B: </strong>Add Controls to a Report</li>
+  <li><strong>Topic C: </strong>Enhance the Appearance of a Report</li>
+  <li><strong>Topic D: </strong>Prepare a Report for Print</li>
+</ul>
+<p><strong>Lesson 6: </strong>Customizing the Access Environment</p>
+<ul>
+  <li><strong>Topic A: </strong>The Access Options Dialog Box</li>
+</ul>
+
+<p><strong>Access 2013 Level 2</strong></p>
+<p><strong>Lesson 1: </strong>Designing a Relational Database</p>
+<ul>
+  <li><strong>Topic A: </strong>Relational Database Design</li>
+  <li><strong>Topic B: </strong>Create a Table</li>
+  <li><strong>Topic C: </strong>Create Table Relationships</li>
+</ul>
+<p><strong>Lesson 2: </strong>Joining Tables</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Query Joins</li>
+  <li><strong>Topic B: </strong>Join Tables That Have No Common Fields</li>
+  <li><strong>Topic C: </strong>Relate Data within a Table</li>
+  <li><strong>Topic D: </strong>Work with Subdatasheets</li>
+  <li><strong>Topic E: </strong>Create Subqueries</li>
+</ul>
+<p><strong>Lesson 3: </strong>Organizing a Database for Efficiency</p>
+<ul>
+  <li><strong>Topic A: </strong>Data Normalization</li>
+  <li><strong>Topic B: </strong>Create a Junction Table</li>
+  <li><strong>Topic C: </strong>Improve Table Structure</li>
+</ul>
+<p><strong>Lesson 4: </strong>Sharing Data Across Applications</p>
+<ul>
+  <li><strong>Topic A: </strong>Import Data into Access</li>
+  <li><strong>Topic B: </strong>Export Data to Text File Formats</li>
+  <li><strong>Topic C: </strong>Export Access Data to Excel</li>
+  <li><strong>Topic D: </strong>Create a Mail Merge</li>
+</ul>
+<p><strong>Lesson 5: </strong>Advanced Reporting</p>
+<ul>
+  <li><strong>Topic A: </strong>Organize Report Information</li>
+  <li><strong>Topic B: </strong>Format Reports</li>
+  <li><strong>Topic C: </strong>Include Control Formatting in a Report</li>
+  <li><strong>Topic D: </strong>Add a Calculated Field to a Report</li>
+  <li><strong>Topic E: </strong>Add a Subreport to an Existing Report</li>
+</ul>

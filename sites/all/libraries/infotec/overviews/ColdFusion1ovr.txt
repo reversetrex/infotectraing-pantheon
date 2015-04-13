@@ -1,0 +1,1 @@
+Students taking this course should be experienced with HTML, Internet concepts, SQL fundamentals, and database fundamentals. This course introduces students to the syntax, functions, tags, and possible development solutions they're likely to encounter as they begin to develop ColdFusion applications.

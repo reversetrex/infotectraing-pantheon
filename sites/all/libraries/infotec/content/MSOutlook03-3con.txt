@@ -1,0 +1,50 @@
+<p><strong>Lesson 1: Communicating Using MSN Messenger</strong></p>
+<ul>
+  <li>Topic 1A: Obtain a Hotmail Account</li>
+  <li> Topic 1B: Add Contacts</li>
+  <li>Topic 1C: Send and Receive Instant Messages </li>
+  <li>Topic 1D: Attach a File </li>
+  <li>Topic 1E: Change MSN Messenger Status </li>
+  <li>Topic 1F: Change MSN Messenger Options</li>
+</ul>
+<p><strong>Lesson 2: Personalizing Your Mail</strong></p>
+<ul>
+  <li>Topic 2A: Use Stationery</li>
+  <li>Topic 2B: Create Custom Stationery</li>
+  <li>Topic 2C: Create Signatures</li>
+  <li>Topic 2D: Modify Signatures</li>
+</ul>
+<p><strong>Lesson 3: Organizing Outlook Items</strong></p>
+<ul>
+  <li>Topic 3A: Group Items</li>
+  <li>Topic 3B: Create Search Folders</li>
+  <li>Topic 3C: Create Rules</li>
+  <li>Topic 3D: Apply Conditional Formatting</li>
+</ul>
+<p><strong>Lesson 4: Working with Contacts</strong></p>
+<ul>
+  <li>Topic 4A: Forward Contacts</li>
+  <li>Topic 4B: Create a vCard from a Contact</li>
+  <li>Topic 4C: Export Contacts</li>
+  <li>Topic 4D: Perform a Mail Merge</li>
+  <li>Topic 4E: Link Items to a Contact</li>
+</ul>
+<p><strong>Lesson 5: Saving and Archiving Mail</strong></p>
+<ul>
+  <li>Topic 5A: Save Messages in Alternate Formats</li>
+  <li>Topic 5B: Archive Messages</li>
+  <li>Topic 5C: Protect Personal Folders</li>
+</ul>
+<p><strong>Lesson 6: Creating a Custom Form</strong></p>
+<ul>
+  <li>Topic 6A: Add Form Fields</li>
+  <li>Topic 6B: Save a Form</li>
+  <li>Topic 6C: Test a Form</li>
+</ul>
+<p><strong>Lesson 7: Working Offline and Remotely</strong></p>
+<ul>
+  <li>Topic 7A: Create an Offline Folder File</li>
+  <li>Topic 7B: Make a Folder Available Offline</li>
+  <li>Topic 7C: Create a Send/Receive Group</li>
+  <li>Topic 7D: Download Messages</li>
+</ul>

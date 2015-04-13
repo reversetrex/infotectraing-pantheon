@@ -1,0 +1,34 @@
+<p>Upon completing this course, the learner will be able to meet these overall objectives:</p>
+<ul>
+  <li>Implement Cisco UCS C-Series rack servers in standalone mode. Boot from the local hard drive and mount the Fibre Channel SAN LUN for shared storage</li>
+  <li>Install Cisco R-Series rack enclosures in the data center</li>
+  <li>Install components in the Cisco UCS C-Series rack server prior to rack mounting</li>
+  <li>Install Cisco UCS C-Series rack servers in a Cisco R-Series rack</li>
+  <li>Use the Cisco UCS Host Upgrade Utility to upgrade or downgrade C-Series firmware to the correct version</li>
+  <li>Provision SNMP and syslog, and use C-Series monitoring tools</li>
+  <li>Use the Cisco Integrated Management Controller to provision LAN and SAN connectivity for the C-Series server</li>
+  <li>Use the LSI MegaRAID web user interface to provision local hard drives into a RAID 5 array</li>
+  <li>Install VMware ESXi in the C-Series server local hard drives</li>
+  <li>Implement system management, maintenance, and high-availability services for Cisco UCS B-Series</li>
+  <li>Implement local and remote authentication services to restrict privileges and delegate management authority in Cisco UCS Manager</li>
+  <li>List the processes for managing the firmware repository and upgrade or downgrade Cisco UCS firmware components using Cisco UCS Manager</li>
+  <li>Implement backup and restore capabilities in Cisco UCS Manager</li>
+  <li>Implement syslog, Smart Call Home, and SPAN</li>
+  <li>Maintain Cisco UCS in a high-availability configuration</li>
+  <li>Implement generation 1 and generation 2 connectivity</li>
+  <li>Differentiate between physical connections on the IOM and the redundant connections for management and data plane over the I/O MUX and midplane</li>
+  <li>Install and power up Cisco UCS B-Series hardware</li>
+  <li>Implement LAN connectivity for Cisco UCS B-Series hardware</li>
+  <li>Implement SAN connectivity for Cisco UCS B-Series hardware</li>
+  <li>Provision servers by leveraging reusable pools, policies, and templates that allow for rapid provisioning and consistency of policy</li>
+  <li>Perform initial Cisco UCS cluster setup and provide management IP addresses for blade servers</li>
+  <li>Provision VLANs and fabric interconnect uplinks for server connectivity to the Layer 3 data center cloud</li>
+  <li>Provision VSANs and fabric interconnect Fibre Channel uplinks for server connectivity to the data center storage cloud</li>
+  <li>Provision resource pools for servers, UUIDs, MAC addresses, WWNN, WWPN, and iSCSI</li>
+  <li>Configure reusable server policies in Cisco UCS Manager</li>
+  <li>Provision service profiles with initial and updating templates</li>
+  <li>Implement virtualization features unique to Cisco UCS that improve performance and manageability</li>
+  <li>Describe Cisco VM-FEX and Cisco VM-FEX universal passthrough technologies</li>
+  <li>Provision Cisco VM-FEX in Cisco UCS Manager and the VMware vCenter Server</li>
+  <li>Provision Cisco VM-FEX universal passthrough in Cisco UCS Manager and the VMware vCenter Server</li>
+</ul>

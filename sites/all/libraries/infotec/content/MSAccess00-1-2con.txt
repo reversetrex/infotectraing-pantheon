@@ -1,0 +1,81 @@
+<p><strong> Unit 1: Overview of Access 2000 </strong></p>
+<ul>
+  <li> Introduction to Database Concepts and Terminology </li>
+  <li>Introduction to Access 2000 </li>
+  <li>Database Planning and Design </li>
+</ul>
+<p><strong> Unit 2: Creating Tables </strong></p>
+<ul>
+  <li> Examining a Table </li>
+  <li>Creating a Table With the Table Wizard </li>
+  <li>Creating a Table in Design View </li>
+  <li>Types of Primary Keys </li>
+</ul>
+<p><strong> Unit 3: Working with Tables </strong></p>
+<ul>
+  <li> Modifying a Table Using Design View </li>
+  <li>Finding and Editing Records </li>
+  <li>Filtering and Sorting Records </li>
+</ul>
+<p><strong> Unit 4: Creating and Using Select Queries </strong></p>
+<ul>
+  <li> Creating a Select Query to View Specific Fields </li>
+  <li>Specifying Criteria in a Query to View Specific Records </li>
+  <li>Using Queries to Perform Calculations </li>
+  <li>Joining Tables in a Query </li>
+</ul>
+<p><strong> Unit 5: Creating and Using Forms </strong></p>
+<ul>
+  <li> Creating a Form With the Form Wizard </li>
+  <li>Modifying the Form Design </li>
+  <li>Using a Form to Locate and Organize Information </li>
+  <li>Multiple-Table Forms </li>
+</ul>
+<p><strong> Unit 6: Creating and Using Reports </strong></p>
+<ul>
+  <li> Creating a Report With the Report Wizard </li>
+  <li>Creating a Report That Contains Totals </li>
+</ul>
+<p><strong> Unit 7: Creating and Maintaining a Database </strong></p>
+<ul>
+  <li> Creating a Database Maintenance </li>
+  <li>Managing a Database and Its Objects </li>
+  <li>Working with Subreports </li>
+  <li>Creating a Report in Design View </li>
+</ul>
+<p><strong> Unit 8: Principles of Table Design </strong></p>
+<ul>
+  <li> Normalizing Data </li>
+  <li>Normalizing Data for Fourth and Fifth Normal Forms </li>
+</ul>
+<p><strong> Unit 9: Principles of Table Relationships </strong></p>
+<ul>
+  <li> Analyzing Table Relationships </li>
+  <li>Establishing and Testing Referential Integrity </li>
+</ul>
+<p><strong> Unit 10: Table Design Techniques </strong></p>
+<ul>
+  <li> Data Validation Techniques </li>
+  <li>Indexing Techniques </li>
+</ul>
+<p><strong> Unit 11: Designing Select Queries </strong></p>
+<ul>
+  <li> Using Calculated Fields in Queries </li>
+  <li>Creating Multiple-Table Queries </li>
+</ul>
+<p><strong> Unit 12: Customizing Form Designs </strong></p>
+<ul>
+  <li> Customizing the Form Design </li>
+  <li>Performing Calculations on a Form </li>
+  <li>Adding Combo Boxes to a Form </li>
+  <li>Adding Unbound Controls </li>
+</ul>
+<p><strong> Unit 13: Working with Data Access Pages </strong></p>
+<ul>
+  <li> Creating Data Access Pages </li>
+  <li>Integrating with Other Applications </li>
+</ul>
+<p><strong> Unit 14: Customizing Reports</strong></p>
+<ul>
+  <li> Customizing a Report Created by the Report Wizard </li>
+</ul>

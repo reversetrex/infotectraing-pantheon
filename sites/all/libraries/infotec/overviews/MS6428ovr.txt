@@ -1,0 +1,1 @@
+This two-day instructor-led course provides students with the knowledge and skills to configure, manage, monitor, and troubleshoot a Terminal Services (TS) environment. The course focuses on configuring of TS core functionality, TS licensing, TS Gateway, and TS Web Access.

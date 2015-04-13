@@ -1,0 +1,98 @@
+<p><strong>Module 1: Introduction to SQL Server 2014 Database Administration</strong> - This module introduces the Microsoft SQL Server 2014 platform. It describes the components, editions, and versions of SQL Server 2014, and the tasks that a database administrator commonly performs for a SQL Server instance.</p>
+<p>Lessons</p>
+<ul>
+  <li>Database Administration Overview</li>
+  <li>Introduction to the SQL Server Platform</li>
+  <li>Database Management Tools and Techniques</li>
+</ul>
+<p><strong>Module 2: Installing and Configuring SQL Server 2014</strong> - This module explains how to assess resource requirements for SQL Server 2014 and how to install it.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning SQL Server Installation</li>
+  <li>Installing SQL Server 2014</li>
+  <li>Post-Installation Configuration</li>
+</ul>
+<p><strong>Module 3: Working with Databases and Storage</strong> - This module describes how data is stored in databases, how to create databases, how to manage database files, and how to move them. Other tasks related to storage, include managing the tempdb database and using fast storage devices to extend the SQL Server buffer pool cache, are also discussed.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Data Storage with SQL Server</li>
+  <li>Managing Storage for System Databases</li>
+  <li>Managing Storage for User Databases</li>
+  <li>Moving Database Files</li>
+  <li>Configuring the Buffer Pool Extension</li>
+</ul>
+<p><strong>Module 4: Planning and Implementing a Backup Strategy</strong> - In this module, you will consider how to create a backup strategy that is aligned with organizational needs, and learn how to perform the backup operations required by that strategy.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding SQL Server Recovery Models</li>
+  <li>Planning a Backup Strategy</li>
+  <li>Backing up Databases and Transaction Logs</li>
+  <li>Using Backup Options</li>
+  <li>Ensuring Backup Reliability</li>
+</ul>
+<p><strong>Module 5: Restoring SQL Server 2014 Databases</strong> - In this module, you will see how to restore user and system databases and how to implement point-in-time recovery.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding the Restore Process</li>
+  <li>Restoring Databases</li>
+  <li>Advanced Restore Scenarios</li>
+  <li>Working with Point-in-Time Recovery</li>
+</ul>
+<p><strong>Module 6: Importing and Exporting Data</strong> - In this module, you will briefly explore tools and techniques so that you can import and export data to and from SQL Server.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Transferring Data</li>
+  <li>Importing and Exporting Table Data</li>
+  <li>Copying or Moving a Database</li>
+</ul>
+<p><strong>Module 7: Monitoring SQL Server 2014</strong> - This module explains how to use three of the most commonly used tools: Activity Monitor, dynamic management views and functions (DMVs and DMFs), and Performance Monitor.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Monitoring SQL Server</li>
+  <li>Dynamic Management Views and Functions</li>
+  <li>Performance Monitor</li>
+</ul>
+<p><strong>Module 8: Tracing SQL Server Activity</strong> - This module describes how to use SQL Server Profiler and SQL Trace stored procedures to capture information about SQL Server, and how to use that information to troubleshoot and optimize SQL Server workloads.</p>
+<p>Lessons</p>
+<ul>
+  <li>Tracing SQL Server Workload Activity</li>
+  <li>Using Traces</li>
+</ul>
+<p><strong>Module 9: Managing SQL Server Security</strong> - In this module, you will be learn about the core concepts on which the SQL Server security architecture is based, and how to manage security at the server and database levels.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to SQL Server Security</li>
+  <li>Managing Server-Level Security</li>
+  <li>Managing Database-Level Principals</li>
+  <li>Managing Database Permissions</li>
+</ul>
+<p><strong>Module 10: Auditing Data Access and Encrypting Data</strong> - This module describes the available options for auditing in SQL Server, how to use and manage the SQL Server audit feature, and how to implement encryption.</p>
+<p>Lessons</p>
+<ul>
+  <li>Auditing Data Access in SQL Server</li>
+  <li>Implementing SQL Server Audit</li>
+  <li>Encrypting Databases</li>
+</ul>
+<p><strong>Module 11: Performing Ongoing Database Maintenance</strong> - This module describes common database maintenance tasks that a DBA must perform, and demonstrates how to automate these tasks using maintenance plans.</p>
+<p>Lessons</p>
+<ul>
+  <li>Ensuring Database Integrity</li>
+  <li>Maintaining Indexes</li>
+  <li>Automating Routine Database Maintenance</li>
+</ul>
+<p><strong>Module 12: Automating SQL Server 2014 Management</strong> - This module describes how to use SQL Server Agent to automate jobs, how to configure security contexts for jobs, and how to implement multi-server jobs.</p>
+<p>Lessons</p>
+<ul>
+  <li>Automating SQL Server Management</li>
+  <li>Implementing SQL Server Agent Jobs</li>
+  <li>Managing SQL Server Agent Jobs</li>
+  <li>Managing Job Step Security Contexts</li>
+  <li>Managing Jobs on Multiple Servers</li>
+</ul>
+<p><strong>Module 13: Monitoring SQL Server 2014 by Using Alerts and Notifications</strong> - This module covers the configuration of database mail, alerts, and notifications.</p>
+<p>Lessons</p>
+<ul>
+  <li>Monitoring SQL Server Errors</li>
+  <li>Configuring Database Mail</li>
+  <li>Configuring Operators, Alerts, and Notifications</li>
+</ul>

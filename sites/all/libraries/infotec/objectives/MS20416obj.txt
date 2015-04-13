@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Design an application distribution strategy that is appropriate for an organizational environment.</li>
+  <li>Diagnose and remediate application compatibility problems for desktop and presentation virtualization-based deployments.</li>
+  <li>Use Group Policy and Windows Intune to deploy applications to client devices.</li>
+  <li>Deploy applications centrally using System Center 2012 Configuration Manager SP1.</li>
+  <li>Configure self-service application deployment using System Center 2012 Configuration Manager SP1, System Center 2012 Service Manager SP1, and Windows Store apps.</li>
+  <li>Design and deploy Windows Server 2012 roles and features to support presentation virtualization.</li>
+  <li>Prepare, deploy and manage applications for Remote Desktop, RemoteApp, and Remote Desktop Web Access.</li>
+  <li>Design and deploy Windows Server 2012 roles and features to support application virtualization.</li>
+  <li>Virtualize and deploy applications by using App-V and System Center 2012 Configuration Manager SP1.</li>
+  <li>Plan and configure the appropriate infrastructure to streamline the deployment of software updates to applications, and plan and configure application security.</li>
+  <li>Plan and implement application upgrades, supersedence, and application coexistence.</li>
+  <li>Monitor the deployment, performance, and utilization of applications and determine whether current application hosting platforms are meeting business needs.</li>
+</ul>

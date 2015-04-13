@@ -1,0 +1,65 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Describe the origins of JavaScript</li>
+  <li> List the key JavaScript characteristics</li>
+  <li> Describe the differences between Java and JavaScript</li>
+  <li> Discern among JavaScript, JScript and VBScript</li>
+  <li> Differentiate between server-side and client-side JavaScript applications</li>
+  <li> Embed JavaScript into HTML</li>
+  <li> Use the JavaScript comment tags</li>
+  <li>Communicate with the user through alert(), prompt() and confirm()</li>
+  <li> Define variables and data types</li>
+  <li> Obtain user input and store it in variables</li>
+  <li> Report variable text to the client window</li>
+  <li> Discern between concatenation and addition</li>
+  <li> Use expressions and operators</li>
+  <li> Define inline scripting</li>
+  <li>Use methods as functions</li>
+  <li> Define and call functions</li>
+  <li> Use conversion methods</li>
+  <li> Pass arguments to and return values from functions</li>
+  <li> Define operator precedence</li>
+  <li> Discern between global and local variables</li>
+  <li> Employ the conditional operator</li>
+  <li> Identify user events and event handlers</li>
+  <li>Use the if. . . statement</li>
+  <li> Use the while. . . statement</li>
+  <li> Use the for. . . statement</li>
+  <li> Use the break and continue statements</li>
+  <li> Define the do. . .while statement</li>
+  <li> Use the switch. . . statement</li>
+  <li>Describe the JavaScript object model</li>
+  <li> Use the window object</li>
+  <li> Manipulate properties and methods of the document object</li>
+  <li> Use the with statement</li>
+  <li> Deploy the image, navigator and history objects</li>
+  <li> Evaluate and change URL information with the location object</li>
+  <li>Use the String object to test user input</li>
+  <li> Identify basic regular expressions and the RegExp object</li>
+  <li> Deploy the Array object to create more efficient code</li>
+  <li> Identify uses for the Date and Math objects</li>
+  <li>Identify and use form controls</li>
+  <li> Refer to and define form objects</li>
+  <li> Use the button object</li>
+  <li> Use the checkbox object</li>
+  <li> Evaluate text in the text and textarea objects</li>
+  <li> Process radio object options</li>
+  <li> Capture choices from a select list</li>
+  <li>Explain cookies</li>
+  <li> Delete cookies from your disk</li>
+  <li> Assign a cookie</li>
+  <li> Test for the presence of a cookie</li>
+  <li> Clear a cookie</li>
+  <li> Enable and disable cookies in the browser</li>
+  <li> Use cookies and passwords to restrict entry to a page</li>
+  <li>Target frames with JavaScript</li>
+  <li> Change two or more frames simultaneously</li>
+  <li> Use functions and variables within framesets</li>
+  <li> Use functions and variables with related windows</li>
+  <li> Target the opener window</li>
+  <li>Create a custom JavaScript object</li>
+  <li> Define properties and methods of custom objects</li>
+  <li> Create new object instances</li>
+  <li> Create client-side databases using custom objects</li>
+  <li> Create functions and methods for manipulating client-side databases</li>
+</ul>

@@ -1,0 +1,23 @@
+<p><strong>Module 1: Installing Windows Vista in an Enterprise  Environment</strong> - This module describes the methods used to install Windows Vista in an Enterprise environment.</p>
+
+<p><strong>Module 2: Troubleshooting the Windows Vista Boot Process and System Services</strong> - This module describes how to troubleshoot the Windows Vista boot process.</p>
+
+<p><strong>Module 3: Troubleshooting Networks</strong> - This module explains how to configure and troubleshoot network connections.</p>
+
+<p><strong>Module 4: Managing Windows Vista Desktop Systems</strong> - This module describes how to identify and perform tasks to manage Windows Vista desktop systems.</p>
+
+<p><strong>Module 5: Configuring and Managing User Data and Profiles</strong> - This module explains how to manage user profiles and data for Windows Vista portable and desktop computers.</p>
+
+<p><strong>Module 6: Maintaining and Monitoring Windows Vista Desktops</strong> - This module explains how to perform tasks to maintain and optimize Windows Vista performance and health.</p>
+
+<p><strong>Module 7: Securing Windows Vista Desktops</strong> - This module describes how to configure and troubleshoot Windows Vista security settings.</p>
+
+<p><strong>Module 8: Securing Data on Windows Vista</strong> - This module describes different methods for providing security for data on Windows Vista desktops.</p>
+
+<p><strong>Module 9: Securing Windows Vista Networks</strong> - This module explains how to configure security for Windows Vista networking.</p>
+
+<p><strong>Module 10: Supporting Remote Users</strong> - This module explains how to configure remote access methods.</p>
+
+<p><strong>Module 11: Troubleshooting Operating System and Application Installations</strong> - This module explains how to perform troubleshooting techniques related to the operating system and applications.</p>
+
+<p><strong>Module 12: Troubleshooting Hardware</strong> - This module explains how to troubleshoot hardware failures.</p>

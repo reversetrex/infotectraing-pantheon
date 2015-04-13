@@ -1,0 +1,37 @@
+<p><strong>Lesson 1: Getting Started with XML</strong></p>
+<ul>
+  <li>Determine When to Use XML</li>
+</ul>
+<p><strong>Lesson 2: Creating an XML Document</strong></p>
+<ul>
+  <li>Create XML Elements</li>
+  <li>Create XML Attributes</li>
+  <li>Insert XML Entities</li>
+  <li>Create Additional XML Document Components</li>
+  <li>Implement Namespaces</li>
+</ul>
+<p><strong>Lesson 3: Validating an XML Document</strong></p>
+<ul>
+  <li>Validate XML with a DTD</li>
+  <li>Create a DTD</li>
+  <li>Validate XML with a Schema</li>
+  <li>Create a Schema</li>
+</ul>
+<p><strong>Lesson 4: Accessing XML Documents with APIs</strong></p>
+<ul>
+  <li>Access an XML Document Using the Document Object Model (DOM)</li>
+  <li>Manipulate XML Data Using the Simple API for XML (SAX)</li>
+</ul>
+<p><strong>Lesson 5: Formatting and Transforming XML Documents</strong></p>
+<ul>
+  <li>Display an XML Document Using Cascading Style Sheets (CSS)</li>
+  <li>Transform XML to XML</li>
+  <li>Transform XML to HTML</li>
+  <li>Create an XSL-FO Document</li>
+  <li>Display an XML Document Using XSL-FO</li>
+</ul>
+<p><strong>Lesson 6: Linking XML Documents</strong></p>
+<ul>
+  <li>Use XLink to Link to an External Document</li>
+  <li>Link to External Sources Using the HTML Namespace</li>
+</ul>

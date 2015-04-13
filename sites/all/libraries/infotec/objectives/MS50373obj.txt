@@ -1,0 +1,10 @@
+<p><strong>After completing this course, students will be able to:</strong></p>
+<ul>
+  <li> Deploy  System Center Essentials 2010 in a live environment.</li>
+  <li> Perform  the initial configuration tasks required for full product functionality.</li>
+  <li> Configure  and use the update management feature in Essentials to manage update deployment  to client and server computers.</li>
+  <li> Use  the software deployment feature to deploy and upgrade Windows applications,  such as MS Office 2007.</li>
+  <li> Manage  and configure virtualization hosts using the virtualization management feature  in Essentials 2010.</li>
+  <li> Configure  and tune application, server, client and network monitoring.</li>
+  <li>Modify and optimize  Essentials 2010 configuration settings as needs change.</li>
+</ul>

@@ -1,0 +1,10 @@
+Building Cisco Multilayer Switched Networks (BCMSN) v2.1 is recommended training for individuals seeking certification as Cisco CCNP.  This course enables learners to use appropriate technologies to build scalable multilayer switched networks, to create and deploy a global intranet, and to implement basic troubleshooting techniques in environments that use Cisco multilayer switches for client hosts and services. This course also enables learners to improve traffic flow, reliability, redundancy, and performance for LAN switching that is self-supported or transported via a service provider. The purpose of this course is to enable a learner to achieve a mid-career professional-level competency.
+<br><br>
+
+BSCI 2.1 instructs network administrators of medium-to-large network sites on the use of advanced IP addressing and routing in implementing scalability for Cisco routers connected to LANs and WANs.The goal is to train network administrators to grow a dramatically increased number of routers/sites using these techniques instead of redesigning the network when additional sites or wiring configurations are added The course contains seven modules and 16 main lab exercises.
+<br><br>
+
+ISCW students will be able to secure and expand the reach of their enterprise network to teleworkers and remote sites. Focus is on securing remote access and VPN client configuration.
+<br><br>
+
+ONT provides training for skills in optimizing and providing effective QOS techniques in converged networks operating voice, wireless and security applications. 

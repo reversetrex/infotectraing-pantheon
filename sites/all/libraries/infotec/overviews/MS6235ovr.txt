@@ -1,0 +1,1 @@
+This three-day instructor-led course teaches students how to implement an Integration Services solution in an organization. The course discusses how to develop, deploy, and manage Integration Services packages.

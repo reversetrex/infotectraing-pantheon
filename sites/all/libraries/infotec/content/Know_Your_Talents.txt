@@ -1,0 +1,8 @@
+<h2>Session 1</h2>
+  <h3>Section A: Know Your Talents</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Understanding Your Behavior</li>
+    <li>Key Behavioral Areas</li>
+    <li>Setting a SMART Goal</li>
+  </ul>

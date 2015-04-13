@@ -1,0 +1,29 @@
+<h2>Session 1</h2>
+  <h3>Section A: Effective Presentation Skills</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+  </ul>
+  <h3>Section B: Getting Started</h3>
+  <ul>
+    <li>Dealing with Fear</li>
+    <li>Reducing Anxiety</li>
+    <li>Planning</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Organizing and Preparing</h3>
+  <ul>
+    <li>Developing the Presentation</li>
+    <li>Handouts and Visuals</li>
+    <li>Practice</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Making Effective Presentations</h3>
+  <ul>
+    <li>Physical Facilities</li>
+    <li>Jumpstarting</li>
+    <li>Delivery</li>
+    <li>Common Mistakes</li>
+    <li>Handling Questions</li>
+    <li>Good Luck</li>
+  </ul>

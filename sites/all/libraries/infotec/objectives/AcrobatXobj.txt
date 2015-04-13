@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Access information in a PDF document.</li>
+  <li>Create PDF documents.</li>
+  <li>Navigate to and search for a specific content in a PDF document.</li>
+  <li>Update PDF documents.</li>
+  <li>Work with multiple PDF documents.</li>
+  <li>Review a PDF document.</li>
+  <li>Validate a PDF document.</li>
+  <li>Optimize and convert PDF documents to other formats.</li>
+</ul>

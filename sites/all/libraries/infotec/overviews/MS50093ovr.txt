@@ -1,0 +1,1 @@
+<p>Learn critical deployment and administration skills in this 400-level instructor-led course on Microsoft Forefront Client Security. Targeted at systems integrators, consultants, and deployment partners, this three-day class includes lecture and hands-on labs and was developed by Microsoft Consulting Services using their detailed implementation knowledge and best practices.</p>

@@ -1,0 +1,84 @@
+<p><strong>Module 1: Planning a BI Solution</strong> - This module discusses how to plan the components of a BI solution.</p>
+<p>Lessons</p>
+<ul>
+  <li>Elements of a BI Solution</li>
+  <li>The Microsoft BI Platform</li>
+  <li>Planning a BI Project</li>
+</ul>
+<p><strong>Module 2: Planning SQL Server Business Intelligence Infrastructure</strong> - This module explains how to plan an appropriate BI infrastructure for a given set of BI services.</p>
+<p>Lessons</p>
+<ul>
+  <li>Considerations for BI Infrastructure</li>
+  <li>Planning Data Warehouse Hardware</li>
+</ul>
+<p><strong>Module 3: Designing a Data Warehouse</strong> - This module explains how to design a data warehouse for a given set of user requirements.</p>
+<p>Lessons</p>
+<ul>
+  <li>Data Warehouse Design Overview</li>
+  <li>Designing Dimension Tables</li>
+  <li>Designing Fact Tables</li>
+  <li>Designing a Data Warehouse Physical Implementation</li>
+</ul>
+<p><strong>Module 4: Designing an ETL Solution</strong> - This module explains how to design an ETL solution for a data warehouse.</p>
+<p>Lessons</p>
+<ul>
+  <li>ETL Overview</li>
+  <li>Planning Data Extraction</li>
+  <li>Planning Data Transformation</li>
+  <li>Planning Data Loads</li>
+</ul>
+<p><strong>Module 5: Designing Analytical Data Models</strong> - This module explains how to design analytical data models for specific BI scenarios.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Analytical Data Models</li>
+  <li>Designing an Analytical Data Model</li>
+  <li>Designing Dimensions</li>
+  <li>Enhancing Data Models</li>
+</ul>
+<p><strong>Module 6: Planning a BI Delivery Solution</strong> - This module explains how to choose an appropriate delivery solution for a given scenario.</p>
+<p>Lessons</p>
+<ul>
+  <li>Considerations for Delivering BI</li>
+  <li>Common Reporting Scenarios</li>
+  <li>Choosing a Reporting Tool</li>
+</ul>
+<p><strong>Module 7: Designing a Reporting Services Solution</strong> - This module explains how to design a Reporting Services solution.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning a Reporting Services Solution</li>
+  <li>Designing Reports</li>
+  <li>Planning Report Consistency</li>
+</ul>
+<p><strong>Module 8: Designing a Microsoft Excel-Based Reporting Solution</strong> - This module explains how to design a reporting solution that uses Excel.</p>
+<p>Lessons</p>
+<ul>
+  <li>Using Excel for Data Analysis and Reporting</li>
+  <li>PowerPivot for Excel</li>
+  <li>Power View for Excel</li>
+</ul>
+<p><strong>Module 9: Planning a SharePoint Server BI Solution</strong> - This module explains how to design a SharePoint BI solution.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to SharePoint Server as a BI Platform</li>
+  <li>Planning Security for a SharePoint Server BI Solution</li>
+  <li>Planning Reporting Services Configuration</li>
+  <li>Planning PowerPivot Configuration</li>
+  <li>Planning for PerformancePoint Services</li>
+</ul>
+<p><strong>Module 10: Monitoring and Optimizing a BI Solution</strong> - This module explains how to monitor and optimize a BI solution.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of BI Monitoring</li>
+  <li>Monitoring and Optimizing the Data Warehouse</li>
+  <li>Monitoring and Optimizing Analysis Services</li>
+  <li>Monitoring and Optimizing Reporting Services</li>
+</ul>
+<p><strong>Module 11: Operating a BI Solution</strong> - This module explains how to plan management and maintenance operations for a BI solution.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of BI Operations</li>
+  <li>ETL Operations</li>
+  <li>Data Warehouse Operations</li>
+  <li>Analysis Services Operations</li>
+  <li>Reporting Services Operations</li>
+</ul>

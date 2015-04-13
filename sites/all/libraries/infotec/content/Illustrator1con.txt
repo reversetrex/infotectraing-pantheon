@@ -1,0 +1,47 @@
+<p><strong> Unit 1: Creating Logos Using Simple Shapes </strong></p>
+<ul>
+  <li> Topic 1A: Choose New Document Settings </li>
+  <li>Topic 1B: Create a Custom Workspace </li>
+  <li>Topic 1C: Draw Basic Shapes with the Shape Tools </li>
+  <li>Topic 1D: Draw Paths with the Pencil Tool</li>
+</ul>
+<p><strong> Unit 2: Enhancing Logos </strong></p>
+<ul>
+  <li> Topic 2A: Format Objects </li>
+  <li>Topic 2B: Manipulate Objects </li>
+  <li>Topic 2C: Insert Type</li>
+</ul>
+<p><strong> Unit 3: Creating Logos Using Custom Paths </strong></p>
+<ul>
+  <li> Topic 3A: Draw Paths with the Pen Tool </li>
+  <li>Topic 3B: Modify Existing Shapes to Create New Shapes </li>
+  <li>Topic 3C: Duplicate Objects </li>
+  <li>Topic 3D: Apply Graphic Styles</li>
+</ul>
+<p><strong> Unit 4: Creating a Logo with Type Special Effects </strong></p>
+<ul>
+  <li> Topic 4A: Apply Gradients to Type </li>
+  <li>Topic 4B: Create Type on a Path </li>
+  <li>Topic 4C: Apply an Envelope to Type</li>
+</ul>
+<p><strong> Unit 5: Creating an Advertisement </strong></p>
+<ul>
+  <li> Topic 5A: Import a Graphic </li>
+  <li>Topic 5B: Align Objects </li>
+  <li>Topic 5C: Apply Spot Colors </li>
+  <li>Topic 5D: Wrap Text </li>
+  <li>Topic 5E: Export a File</li>
+</ul>
+<p><strong> Unit 6: Manipulating Body Type </strong></p>
+<ul>
+  <li> Topic 6A: Import Body Type </li>
+  <li>Topic 6B: Format Type with Styles </li>
+  <li>Topic 6C: Fix Spelling Errors </li>
+  <li>Topic 6D: Find and Replace Text </li>
+  <li>Topic 6E: Insert Typographic Characters</li>
+</ul>
+<p><strong> Unit 7: Managing Assets with Adobe Bridge </strong></p>
+<ul>
+  <li> Topic 7A: Explore the Adobe Bridge Environment </li>
+  <li>Topic 7B: Apply Metadata and Keywords to Assets in Adobe Bridge </li>
+</ul>

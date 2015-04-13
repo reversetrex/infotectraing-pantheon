@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Use advanced formulas.</li>
+  <li>Organize worksheet and table data using various techniques.</li>
+  <li>Create and modify charts.</li>
+  <li>Analyze data using PivotTables, Slicers, and PivotCharts.</li>
+  <li>Insert and modify graphic objects in a worksheet.</li>
+  <li>Customize and enhance workbooks and the Microsoft Office Excel environment.</li>
+</ul>

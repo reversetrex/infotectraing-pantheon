@@ -1,0 +1,7 @@
+A student will learn the basics of SharePoint 2010 to gain foundation building knowledge. This begins with a tour of the Web-based interface. The student will use a default Team Site and explore adding, editing and deleting items in lists. They will also upload files into libraries, edit the files, and delete the files.<br /><br />
+
+This course is for those users who are a member of a SharePoint 2010 site.<br /><br />
+
+The student will also be introduced to SharePoint features such as Check Out, Versioning, Alerts, and RSS. They will also explore the integration options between SharePoint 2010 and Office 2010.<br /><br />
+
+This course is for anyone who has little to no experience with SharePoint from an end user perspective. 

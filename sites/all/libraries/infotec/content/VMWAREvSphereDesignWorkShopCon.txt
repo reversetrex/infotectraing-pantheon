@@ -1,0 +1,56 @@
+<p><strong>1. Design Process</strong></p>
+<ul type="disc">
+  <li>Key terminology.</li>
+  <li>Design guidelines, design approaches, design sessions, and design decisions and implications.</li>
+  <li>Create a design framework.</li>
+  <li>Framework methodology.</li>
+  <li>Design tools, including the architecture quality matrix, ITIL v3, and the vSphere technology stack.</li>
+</ul>
+<p><strong>2. VMware vSphere Storage Design</strong></p>
+<ul type="disc">
+  <li>Useful information for making design decisions about virtual and physical storage.</li>
+  <li>Best practice recommendations.</li>
+  <li>Alternative storage design choices.</li>
+  <li>Communicate choices and their benefits and risks to the customer.</li>
+  <li>Develop a storage design.</li>
+</ul>
+<p><strong>3. VMware vSphere Network Design</strong></p>
+<ul type="disc">
+  <li>Useful information for making design decisions about virtual and physical networks.</li>
+  <li>Best practice recommendations.</li>
+  <li>Alternative network design choices.</li>
+  <li>Communicate choices and their benefits and risks to the customer.</li>
+  <li>Develop a network design.</li>
+</ul>
+<p><strong>4. Compute Resources Design</strong></p>
+<ul type="disc">
+  <li>Useful information for making design decisions about host CPU and memory.</li>
+  <li>Best practice recommendations.</li>
+  <li>Alternative host design choices.</li>
+  <li>Communicate choices and their benefits and risks to the customer.</li>
+  <li>Develop a host design.</li>
+</ul>
+<p><strong>5. Virtual Machine Design</strong></p>
+<ul type="disc">
+  <li>Useful information for making design decisions about virtual machines.</li>
+  <li>Best practice recommendations.</li>
+  <li>Alternative virtual machine design choices.</li>
+  <li>Communicate choices and their benefits and risks to the customer.</li>
+  <li>Develop a virtual machine design.</li>
+</ul>
+<p><strong>6. VMware vSphere Virtual Datacenter Design</strong></p>
+<ul type="disc">
+  <li>Useful information for making design decisions about virtual datacenters regarding management server and cluster configuration.</li>
+  <li>Best practice recommendations.</li>
+  <li>Alternative virtual datacenter design choices.</li>
+  <li>Communicate choices and their benefits and risks to the customer.</li>
+  <li>Develop a virtual datacenter design.</li>
+</ul>
+<p><strong>7. Management and Monitoring Design</strong></p>
+<ul type="disc">
+  <li>Useful information for making design decisions about management and monitoring.</li>
+  <li>Best practice recommendations.</li>
+  <li>Alternative management and monitoring design choices.</li>
+  <li>Communicate choices and their benefits and risks to the customer.</li>
+  <li>Develop a management and monitoring design.</li>
+</ul>

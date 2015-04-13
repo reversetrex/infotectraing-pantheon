@@ -1,0 +1,108 @@
+<p><strong>Module 1: Overview of Access and Information Protection</strong> - This module provides an overview of multiple Access and Information Protection (AIP) technologies and services what are available with Windows Server 2012 and Windows Server 2012 R2 from a business perspective and maps business problems to technical solutions. It also includes coverage of Forefront Identify Manager (FIM).</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Access and Information Protection Solutions in Business</li>
+  <li>Overview of AIP Solutions in Windows Server 2012</li>
+  <li>Overview of FIM 2010 R2</li>
+</ul>
+<p><strong>Module 2: Advanced Deployment and Administration of AD DS</strong> - This module explains how to deploy AD DS remotely and describes the virtualization safeguards, cloning abilities and extending AD DS to the cloud.</p>
+<p>Lessons</p>
+<ul>
+  <li>Deploying AD DS</li>
+  <li>Deploying and Cloning Virtual Domain Controllers</li>
+  <li>Deploying Domain Controllers in Windows Azure</li>
+  <li>Administering AD DS</li>
+</ul>
+<p><strong>Module 3: Securing AD DS</strong> - This module describes the threats to domain controllers and what methods can be used to secure the AD DS and its domain controllers.</p>
+<p>Lessons</p>
+<ul>
+  <li>Securing Domain Controllers</li>
+  <li>Implementing Account Security</li>
+  <li>Implementing Audit Authentication</li>
+</ul>
+<p><strong>Module 4: Implementing and Administering AD DS Sites and Replication</strong> - This module explains how AD DS replicates information between domain controllers within a single site and throughout multiple sites. This module also explains how to create multiple sites and how to monitor replication to help optimize AD DS replication and authentication traffic.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of AD DS Replication</li>
+  <li>Configuring AD DS Sites</li>
+  <li>Configuring and Monitoring AD DS Replication</li>
+</ul>
+<p><strong>Module 5: Implementing Group Policy</strong> - This module describes Group Policy, how it works, and how best to implement it within your organization.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introducing Group Policy</li>
+  <li>Implementing and Administering GPOs</li>
+  <li>Group Policy Scope and Group Policy Processing</li>
+  <li>Troubleshooting the Application of GPOs</li>
+</ul>
+<p><strong>Module 6: Managing User Settings with Group Policy</strong> - This module describes how to how to use GPO Administrative Templates, Folder Redirection, and Group Policy features to configure users’ computer settings.</p>
+<p>Lessons</p>
+<ul>
+  <li>Implementing Administrative Templates</li>
+  <li>Configuring Folder Redirection and Scripts</li>
+  <li>Configuring Group Policy Preferences</li>
+</ul>
+<p><strong>Module 7: Deploying and Managing AD CS</strong> - This module explain how to deploy and manage Certificate Authorities (CAs) with Active Directory Certificate Services (AD CS).
+<p>Lessons</p>
+<ul>
+  <li>Deploying CAs</li>
+  <li>Administering CAs</li>
+  <li>Troubleshooting, Maintaining, and Monitoring CAs</li>
+</ul>
+<p><strong>Module 8: Deploying and Managing Certificates</strong> - This module describes certificate usage in business environments and explains how to deploy and manage certificates, configure certificate templates and manage enrolment process. This module also covers the deployment and management of smart cards.</p>
+<p>Lessons</p>
+<ul>
+  <li>Using Certificates in a Business Environment</li>
+  <li>Deploying and Managing Certificate Templates</li>
+  <li>Managing Certificates Deployment, Revocation, and Recovery</li>
+  <li>Implementing and Managing Smart Cards</li>
+</ul>
+<p><strong>Module 9: Implementing and Administering AD RMS</strong> - This module introduces Active Directory Rights Management Services (AD RMS). It also describes how to deploy AD RMS, how to configure content protection, and how to make AD RMS–protected documents available to external users.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of AD RMS</li>
+  <li>Deploying and Managing an AD RMS Infrastructure</li>
+  <li>Configuring AD RMS Content Protection</li>
+  <li>Configuring External Access to AD RMS</li>
+</ul>
+<p><strong>Module 10: Implementing and Administering AD FS</strong> - This module explains AD FS, and then provides details on how to configure AD FS in both a single organization scenario and in a partner organization scenario. This module also describes the Web Application Proxy feature in Windows Server 2012 R2 that functions as an AD FS proxy and reverse proxy for web-based applications.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of AD FS</li>
+  <li>Deploying AD FS</li>
+  <li>Implementing AD FS for a Single Organization</li>
+  <li>Deploying AD FS in a Business-to-Business Federation Scenario</li>
+  <li>Extending AD FS to External Clients</li>
+</ul>
+<p><strong>Module 11: Implementing Secure Shared File Access</strong> - This module explains how to use Dynamic Access Control (DAC), Work Folders, Work place Join and how to plan and implement these technologies.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Dynamic Access Control</li>
+  <li>Implementing DAC Components</li>
+  <li>Implementing DAC for Access Control</li>
+  <li>Implementing Access Denied Assistance</li>
+  <li>Implementing and Managing Work Folders</li>
+  <li>Implementing Workplace Join</li>
+</ul>
+<p><strong>Module 12: Monitoring, Managing, and Recovering AD DS</strong> - This module explains how to use tools that help monitor performance in real time, and how to record performance over time to spot potential problems by observing performance trends. This module also explains how to optimize and protect your directory service and related identity and access solutions so that if a service does fail, you can restart it as quickly as possible.</p>
+<p>Lessons</p>
+<ul>
+  <li>Monitoring AD DS</li>
+  <li>Managing the AD DS Database</li>
+  <li>AD DS Backup and Recovery Options for AD DS and Other Identity and Access Solutions</li>
+</ul>
+<p><strong>Module 13: Implementing Windows Azure Active Directory</strong> - This module explains the concepts and technologies in Windows Azure Active Directory and how to implement and integrate it within your organization.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Windows Azure AD</li>
+  <li>Managing Windows Azure AD Accounts</li>
+</ul>
+<p><strong>Module 14: Implementing and Administering AD LDS</strong> - This module explains how to deploy and configure Active Directory Lightweight Directory Services (AD LDS).</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of AD LDS</li>
+  <li>Deploying AD LDS</li>
+  <li>Configuring AD LDS Instances and Partitions</li>
+  <li>Configuring AD LDS Replication</li>
+  <li>Integrating AD LDS with AD DS</li>
+</ul>

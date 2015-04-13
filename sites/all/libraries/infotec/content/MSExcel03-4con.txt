@@ -1,0 +1,29 @@
+<p><strong> Unit 1: Using Protection and Collaboration Features </strong></p>
+<ul>
+  <li> Using Protection and Collaboration Features </li>
+  <li>Managing Workbook Properties </li>
+  <li>Protecting Data </li>
+  <li>Managing Workbook Security </li>
+  <li>Creating Shared Workbooks </li>
+  <li>Tracking Changes </li>
+  <li>Accepting and Rejecting Changes </li>
+  <li>Merging Workbooks </li>
+</ul>
+<p><strong> Unit 2: Using Consolidation, Web, Integration and XML Features </strong></p>
+<ul>
+  <li> Using Consolidation, Web, Integration and XML Features </li>
+  <li>Consolidating Data from Multiple Worksheets </li>
+  <li>Saving Workbooks as Web Pages </li>
+  <li>Publishing Workbooks to the Web </li>
+  <li>Importing Data into Excel </li>
+  <li>Exporting Data from Excel </li>
+  <li>Structuring Workbooks Using XML </li>
+</ul>
+<p><strong> Unit 3: Customizing Excel and Using Macros </strong></p>
+<ul>
+  <li> Customizing Excel and Using Macros </li>
+  <li>Modifying Default Settings </li>
+  <li>Customizing Toolbars </li>
+  <li>Customizing Menus </li>
+  <li>Creating and Editing Macros </li>
+</ul>

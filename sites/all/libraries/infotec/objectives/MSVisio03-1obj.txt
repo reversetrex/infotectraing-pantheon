@@ -1,0 +1,9 @@
+<p><strong> </strong>Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Identify the various types of drawings you can create using Visio and navigate in a Visio document. </li>
+  <li> Drag shapes from Visio stencils and resize, rotate, align, and transform them. </li>
+  <li> Increase your productivity with smart features, such as numbering shapes automatically, duplicating shapes quickly, and grouping and aligning. </li>
+  <li> Create a flowchart or a cross-functional flowchart. </li>
+  <li> Create an organization chart manually or generate one from a text file. </li>
+  <li> Create an office floor plan to scale. </li>
+</ul>

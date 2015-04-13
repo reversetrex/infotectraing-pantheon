@@ -1,0 +1,92 @@
+<p><strong>Module 1: What is SharePoint Branding and Design?</strong></p>
+<ul>
+  <li>Reasons for SharePoint Branding</li>
+  <li>Exploring Intranet, Internet, and Extranet sites</li>
+  <li>Branding SharePoint at Low, Medium, and Full Effort</li>
+</ul>
+<p><strong>Module 2: SharePoint Overview</strong></p>
+<ul>
+  <li>SharePoint Basics</li>
+  <li>Master Pages and the Master Page Gallery</li>
+  <li>Tools for Applying Branding in SharePoint</li>
+  <li>New SharePoint Branding Features in SharePoint 2013</li>
+</ul>
+<p><strong>Module 3: Working with the SharePoint 2013 User Interface</strong></p>
+<ul>
+  <li>Using the Ribbon to Edit Pages</li>
+  <li>Adding Images and Embedding Videos</li>
+  <li>Introduction to Managed Navigation</li>
+  <li>Applying Themes with Composed Looks</li>
+  <li>Setting Master Pages</li>
+  <li>Working with Page Layouts</li>
+</ul>
+<p><strong>Module 4: Planning for Branding</strong></p>
+<ul>
+  <li>Analyzing Functional and Nonfunctional Requirements</li>
+  <li>Organizing Data</li>
+  <li>Estimating Project Constraints and Considerations</li>
+  <li>Planning with Wireframes and Prototypes</li>
+</ul>
+<p><strong>Module 5: Using the Design Manager to Start a Design in SharePoint</strong></p>
+<ul>
+  <li>Understanding the Design Manager</li>
+  <li>Converting an HTML file to a SharePoint Master Page</li>
+  <li>Using the Snippet Gallery</li>
+  <li>Creating a Page Layout using the Design Manager</li>
+  <li>Publishing and Applying Your Master Page</li>
+  <li>Creating and Importing a Design Package</li>
+</ul>
+<p><strong>Module 6: Cascading Style Sheets and SharePoint</strong></p>
+<ul>
+  <li>Understanding CSS</li>
+  <li>How CSS Works in SharePoint</li>
+  <li>Styling the SharePoint User Interface</li>
+  <li>Use Alternate CSS</li>
+  <li>Styling Custom SharePoint Branding</li>
+</ul>
+<p><strong>Module 7: Creating Custom Master Pages and Page Layouts</strong></p>
+<ul>
+  <li>ASP.NET Master Pages</li>
+  <li>SharePoint Master Pages</li>
+  <li>Starter Master Pages</li>
+  <li>Custom Page Layouts</li>
+  <li>SharePoint Solution Packages</li>
+</ul>
+<p><strong>Module 8: Advanced SharePoint Branding Tasks</strong></p>
+<ul>
+  <li>Code-Based Navigation Settings</li>
+  <li>Traditional Breadcrumbs</li>
+  <li>Device Channels</li>
+  <li>My Sites</li>
+  <li>SharePoint Online</li>
+</ul>
+<p><strong>Module 9: Creating Content Rollups with SharePoint WCM</strong></p>
+<ul>
+  <li>Understanding SharePoint Rollups</li>
+  <li>Working with the Content Query Web Part (CQWP)</li>
+  <li>Configuring and using the Content Search Web Part (CSWP)</li>
+  <li>Creating and Applying Design Templates</li>
+</ul>
+<p><strong>Module 10: Composed Looks and Custom Branding</strong></p>
+<ul>
+  <li>Configuring Composed Looks</li>
+  <li>Themable Custom Master Pages</li>
+  <li>Master Page Previews</li>
+</ul>
+<p><strong>Module 11: Modern Web Design and SharePoint</strong></p>
+<ul>
+  <li>HTML5 and CSS3</li>
+  <li>jQuery in SharePoint</li>
+  <li>Open Source Templates</li>
+  <li>Designing Typography</li>
+  <li>Structuring Content with Grids</li>
+  <li>Designing for Mobile Devices</li>
+</ul>
+<p><strong>Module 12: Designing Apps</strong></p>
+<ul>
+  <li>SharePoint-hosted Apps</li>
+  <li>Cloud-hosted Apps</li>
+  <li>CSS for Apps</li>
+  <li>Autohosted Apps</li>
+  <li>Chrome Control</li>
+</ul>

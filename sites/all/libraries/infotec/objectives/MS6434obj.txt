@@ -1,0 +1,14 @@
+<p>After completing this course, students will  be able to:</p>
+<ul>
+  <li>Install and launch Windows PowerShell</li>
+  <li>Work with basic objects in Windows PowerShell, including using cmdlets, data types, variables, and fundamental object-based information models.</li>
+  <li>Implement sequences of operations by putting them together into a pipeline.</li>
+  <li>Control the formatting of the resultant set of objects that are emitted at the end of a pipeline.</li>
+  <li>Implement sequences of operations by putting them together into a script.</li>
+  <li>Implement flow control within scripts and define functions and filters to help modularize complex scripts.</li>
+  <li>Manipulate files and registry values.</li>
+  <li>Manage disk storage volumes, shadow copies, shared folders, and Terminal Server using WMI in Windows PowerShell.</li>
+  <li>Administer and maintain Active Directory directory services using Windows PowerShell.</li>
+  <li>Maintain Group Policy using Windows PowerShell.</li>
+  <li>Maintain Web services and applications using Windows PowerShell</li>
+</ul>

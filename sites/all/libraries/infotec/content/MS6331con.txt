@@ -1,0 +1,17 @@
+<p><strong>Module 1: Installing System Center Virtual Machine Manager</strong> - Module 1 describes the installation prerequisites for VMM and describes the procedure for installing VMM. In addition, Module 1 describes the procedure to install the VMM Administrator Console and the VMM Self-Service Portal.</p>
+
+<p><strong>Module 2: Configuring VM Hardware, Hosts, and User Roles</strong> - Module 2 describes host server hardware configuration considerations. In addition, Module 2 describes general host server configuration procedures including security configuration procedures.</p>
+
+<p><strong>Module 3: Configuring the VMM Self-Service Portal and Library</strong> - Module 3 describes considerations and procedures for configuring the VMM Self-Service Portal and Library. This includes enabling user- or group-level access to the Self-Service Portal, configuring quotas, and using the Self-Service Portal to self-provision VMs. In addition, Module 3 describes procedures for maintaining VMM library servers and  shares and the contents of library shares.</p>
+
+<p><strong>Module 4: Deploying and Managing VMs</strong> - Module 4 describes VM  deployment and management tasks. This includes using VMM Intelligent Placement, VM Templates, and other automated VM deployment tools. In addition, Module 4 describes using VMM to move VMs between available hosts.</p>
+
+<p><strong>Module 5: Converting from Physical or Virtual Platforms</strong> - Module 5 describes important considerations for converting physical and virtual computers to Microsoft VMs. This includes procedures for using deployment agents to execute conversions to  Microsoft VMs as well as converting from third-party formats.</p>
+
+<p><strong>Module 6: Deploying Highly Available VMs</strong> - Module 6 describes considerations and procedures for deploying clustered VMs.</p>
+
+<p><strong>Module 7: Managing Virtual Machine Checkpoints and Updates</strong> - Module 7 describes procedures for managing VMs using checkpoints and updates. This includes identifying scenarios for using VMM VM Checkpoints and procedures for creating VM  Checkpoints. In addition, Module 7 describes update deployment using WSUS and  SCCM tools.</p>
+
+<p><strong>Module 8: Implementing Monitoring and Reporting</strong> - Module 8 describes procedures for integrating System Center Operations Manager with VMM to extend the capabilities  of VMM. This includes using SCOM reporting with VMM. In addition, Module 8 describes using SCOM to select potential virtualization targets and to monitor and plan host server utilization.</p>
+
+<p><strong>Module 9: Monitoring and Troubleshooting Jobs</strong> - Module 9 describes procedures for monitoring and troubleshooting VMM  jobs. This includes monitoring and verifying multiple job types as well as recovering from failed jobs.</p>

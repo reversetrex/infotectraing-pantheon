@@ -1,0 +1,357 @@
+<h2>Session 1</h2>
+  <h3>Section A: Course Overview</h3>
+  <ul>
+    <li>Understanding Microsoft Exams</li>
+    <li>Objectives</li>
+    <li>Prerequisites</li>
+    <li>Understanding Active Directory</li>
+    <li>Active Directory in Server 2008</li>
+  </ul>
+  <h3>Section B: Installing Active Directory</h3>
+  <ul>
+    <li>Active Directory Options</li>
+    <li>Advanced Mode Installation</li>
+    <li>Adding Active Directory</li>
+    <li>Using dcpromo.exe</li>
+    <li>AD Interoperability</li>
+    <li>Upgrade Process</li>
+    <li>Preparing Active Directory</li>
+    <li>Forest Prep</li>
+    <li>Domain Prep</li>
+    <li>Completing AD Installation</li>
+  </ul>
+  <h3>Section C: Server Core</h3>
+  <ul>
+    <li>Server Core Installation and Management</li>
+    <li>Server Core DC</li>
+    <li>Configure IP Address</li>
+    <li>Configure DNS</li>
+    <li>Configure DCPROMO Script</li>
+  </ul>
+  <h3>Section D: DNS</h3>
+  <ul>
+    <li>Understanding DNS</li>
+    <li>DNS Server Settings</li>
+    <li>Managing DNS</li>
+    <li>DC DNS Properties</li>
+    <li>DNS Forwarding</li>
+    <li>Configuring DNS Forwarding</li>
+    <li>Conditional Forwarding</li>
+  </ul>
+  <h3>Section E: DNS Zones</h3>
+  <ul>
+    <li>DNS Zone Basics</li>
+    <li>Zone Types</li>
+    <li>Forward and Reverse Zones</li>
+    <li>Creating Forward Lookups</li>
+    <li>Creating Reverse Lookups</li>
+    <li>Stub Zones</li>
+    <li>Zone Settings</li>
+    <li>Configuring Zone Properties</li>
+    <li>Enabling Aging and Scavenging</li>
+  </ul>
+  <h3>Section F: AD DNS Integration</h3>
+  <ul>
+    <li>Zone Delegation</li>
+    <li>Zone Transfers</li>
+    <li>Configuring Zone Transfers</li>
+    <li>Active Directory Integration</li>
+    <li>Zone Replication</li>
+    <li>Zone Replication Scope</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Domain Name Resolution</h3>
+  <ul>
+    <li>WINS</li>
+    <li>GlobalNames Zone</li>
+    <li>Create New GlobalNames Zone</li>
+  </ul>
+  <h3>Section B: Active Directory Infrastructure</h3>
+  <ul>
+    <li>Active Directory Infrastructure Review</li>
+    <li>Operations Masters</li>
+    <li>FSMO Roles</li>
+    <li>Role Placement</li>
+    <li>Transferring Roles</li>
+    <li>Transferring Domain Roles</li>
+    <li>Transferring Domain Naming Master</li>
+    <li>Manage Schema Master</li>
+  </ul>
+  <h3>Section C: Active Directory Migration</h3>
+  <ul>
+    <li>AD Functional Levels</li>
+    <li>2008 Domain Functionality</li>
+    <li>Forest Functional Levels</li>
+    <li>Raising Functionality</li>
+    <li>Remove Active Directory</li>
+    <li>Decommissioning Server 2003</li>
+    <li>Raising Domain Functionality</li>
+  </ul>
+  <h3>Section D: Active Directory Sites</h3>
+  <ul>
+    <li>Understanding Active Directory Sites</li>
+    <li>Site Links</li>
+    <li>Multiple Site Benefits</li>
+    <li>Adding New AD Sites</li>
+    <li>Creating Subnets</li>
+    <li>Managing IP Site Links</li>
+  </ul>
+  <h3>Section E: Active Directory Replication</h3>
+  <ul>
+    <li>Understanding Replication</li>
+    <li>Configuring AD Replication</li>
+  </ul>
+  <h3>Section F: Global Catalog Server</h3>
+  <ul>
+    <li>Global Catalogs</li>
+    <li>Global Catalog Location</li>
+    <li>Group Membership Caching</li>
+    <li>Creating a Global Catalog</li>
+    <li>Universal Group Caching</li>
+    <li>User Principal Names</li>
+    <li>Adding UPN Suffix</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Active Directory Trusts</h3>
+  <ul>
+    <li>Trust Concept</li>
+    <li>Default Trusts</li>
+    <li>Forest Trusts</li>
+    <li>Establishing Forest Trusts</li>
+    <li>Trust Direction</li>
+    <li>Trust Settings</li>
+    <li>Verifying Trust Configuration</li>
+    <li>Other Trust Types</li>
+    <li>Trust Security</li>
+    <li>Configuring Trust Security</li>
+  </ul>
+  <h3>Section B: Read-Only Domain Controllers</h3>
+  <ul>
+    <li>RODC Basics</li>
+    <li>Installing an RODC</li>
+    <li>Creating RODC Account</li>
+    <li>Password Replication Policy</li>
+    <li>Configuring Password Replication Policy</li>
+    <li>RODC Security</li>
+  </ul>
+  <h3>Section C: Active Directory Accounts</h3>
+  <ul>
+    <li>Types of Users</li>
+    <li>User Account Management</li>
+    <li>User Account Control</li>
+    <li>Computer Accounts</li>
+    <li>Managing Accounts</li>
+    <li>Using UAC</li>
+  </ul>
+  <h3>Section D: Active Directory Groups</h3>
+  <ul>
+    <li>Groups</li>
+    <li>Group Types and Scope</li>
+    <li>Domain Local Groups</li>
+    <li>Global and Universal Groups</li>
+    <li>Creating Domain Local Groups</li>
+  </ul>
+  <h3>Section E: Active Directory Delegation</h3>
+  <ul>
+    <li>Understanding Delegation</li>
+    <li>Delegating OU Management</li>
+    <li>Managing Delegate Control</li>
+    <li>Delegate Permission Properties</li>
+  </ul>
+  <h3>Section F: Automation</h3>
+  <ul>
+    <li>Automating Active Directory</li>
+    <li>Understanding DS Tools</li>
+    <li>Script Object Add</li>
+    <li>Script Object Modify</li>
+    <li>More Automation Techniques</li>
+    <li>Using CSVDE</li>
+  </ul>
+  <h3>Section G: Active Directory Templates</h3>
+  <ul>
+    <li>Template Accounts</li>
+    <li>Creating Template Accounts</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Group Policy</h3>
+  <ul>
+    <li>Implementing a Group Policy</li>
+    <li>Applying Group Policies</li>
+    <li>Configuring Group Policy</li>
+    <li>Understanding Inheritance</li>
+    <li>Tweaking Policy Application</li>
+    <li>Modifying Inheritance</li>
+    <li>Group Policy Loopback</li>
+    <li>Creating GPOs</li>
+    <li>Editing GPOs</li>
+    <li>Verifying GPO Inheritance</li>
+    <li>Enforcing a GPO</li>
+  </ul>
+  <h3>Section B: Managing Group Policy</h3>
+  <ul>
+    <li>Administrative Templates</li>
+    <li>ADMX Central Store</li>
+    <li>Configuring Administrative Templates</li>
+    <li>Enabling Administrative Templates</li>
+    <li>Managing ADMX Central Store</li>
+  </ul>
+  <h3>Section C: Maintaining Group Policy</h3>
+  <ul>
+    <li>Group Policy Highlights</li>
+    <li>Starter Group Policies</li>
+    <li>Creating a Starter GPO</li>
+    <li>Administering Group Policy</li>
+    <li>GPO Delegation</li>
+  </ul>
+  <h3>Section D: Auditing</h3>
+  <ul>
+    <li>Auditing with Group Policy</li>
+    <li>Configuring GPO Auditing</li>
+    <li>Auditing Directory Service Access</li>
+    <li>Software Management Policies</li>
+    <li>Software Lifecycle Maintenance</li>
+    <li>Creating an MIS Package</li>
+  </ul>
+  <h3>Section E: Account Policies</h3>
+  <ul>
+    <li>Account Policy Components</li>
+    <li>Configuring Default Account Policies</li>
+    <li>Fine-Grained Security Policies</li>
+    <li>Password Settings Objects</li>
+    <li>Creating PSOs</li>
+    <li>Applying PSOs</li>
+  </ul>
+  <h3>Section F: Virtualization</h3>
+  <ul>
+    <li>Server Virtualization</li>
+    <li>Virtualized Roles</li>
+    <li>Using Hyper-V</li>
+    <li>Create New Virtual Machine</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Lightweight Directory Services</h3>
+  <ul>
+    <li>Understanding LDS</li>
+    <li>Working with AD LDS</li>
+    <li>Installing AD LDS</li>
+    <li>Create AD LDS Instance</li>
+    <li>Connecting to AD LDS</li>
+    <li>Upgrade ADAM to AD LDS</li>
+  </ul>
+  <h3>Section B: Rights Management Services</h3>
+  <ul>
+    <li>Understanding RMS</li>
+    <li>How RMS Works</li>
+    <li>Installing AD RMS</li>
+    <li>AD RMS Service Account</li>
+    <li>AD RMS Cluster Properties</li>
+    <li>Managing AD RMS</li>
+    <li>Extranet URLs</li>
+    <li>AD RMS Trust Policies</li>
+    <li>AD RMS Security Policies</li>
+  </ul>
+  <h3>Section C: Federation Services</h3>
+  <ul>
+    <li>WS-Federation</li>
+    <li>Federation Components</li>
+    <li>Web Applications</li>
+    <li>Installing AD FS</li>
+    <li>Managing AD FS</li>
+  </ul>
+  <h3>Section D: Configuring AD FS</h3>
+  <ul>
+    <li>Resource Partner</li>
+    <li>Account Partner</li>
+    <li>Configuring Resource Partner</li>
+    <li>Account Group</li>
+    <li>AD FS Applications</li>
+    <li>Creating Account Partner</li>
+    <li>Map Incoming Claim</li>
+  </ul>
+  <h3>Section E: Certificate Services</h3>
+  <ul>
+    <li>Public Key Certificates</li>
+    <li>Stand-Alone CA</li>
+    <li>Root CA</li>
+    <li>Installing AD CA</li>
+    <li>CA Types</li>
+    <li>PKI Hierarchy</li>
+  </ul>
+  <h3>Section F: Administering CAs</h3>
+  <ul>
+    <li>Managing CA</li>
+    <li>Certificate Templates</li>
+    <li>CA Permissions</li>
+    <li>Enrollment Agent</li>
+  </ul>
+  <h3>Section G: Certificate Enrollment</h3>
+  <ul>
+    <li>User Certificates</li>
+    <li>Device Enrollment</li>
+    <li>Auto Enroll</li>
+    <li>Certification Authority</li>
+    <li>Pending Requests</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: Public Key Archival</h3>
+  <ul>
+    <li>Key Archival</li>
+    <li>Key Recovery</li>
+    <li>Preparing Key Archival</li>
+    <li>Recovering Private Keys</li>
+  </ul>
+  <h3>Section B: Certification Revocation</h3>
+  <ul>
+    <li>Certificate Authority</li>
+    <li>Online Responder</li>
+    <li>Revoking Certificates</li>
+    <li>OCSP Certificates</li>
+    <li>Configuring Online Responder</li>
+  </ul>
+  <h3>Section C: AD Maintenance</h3>
+  <ul>
+    <li>Performing Maintenance</li>
+    <li>Defragmentation</li>
+    <li>Defragmenting AD</li>
+    <li>Database Maintenance</li>
+    <li>Moving Files</li>
+    <li>Moving AD Database</li>
+  </ul>
+  <h3>Section D: Monitoring Performance</h3>
+  <ul>
+    <li>AD Performance Monitoring</li>
+    <li>Reliability Monitor</li>
+    <li>Task Manager</li>
+    <li>Resource Monitor</li>
+    <li>Reliability and Performance Monitor</li>
+    <li>Monitoring Network Activity</li>
+    <li>Using Repadmin</li>
+  </ul>
+  <h3>Section E: Diagnostic Tools</h3>
+  <ul>
+    <li>Event Viewer</li>
+    <li>Using Event Viewer</li>
+    <li>Creating Event Tasks</li>
+    <li>Subscriptions</li>
+    <li>Event Viewer Custom Views</li>
+    <li>Allocating Resources</li>
+  </ul>
+  <h3>Section F: Backing Up</h3>
+  <ul>
+    <li>Data Recovery Options</li>
+    <li>Restoring Data</li>
+    <li>Command-Line Backup</li>
+    <li>WS Backup</li>
+    <li>Backup Schedule</li>
+    <li>Backup Once</li>
+  </ul>
+  <h3>Section G: Active Directory Recovery</h3>
+  <ul>
+    <li>Recovery Types</li>
+    <li>Object Recovery</li>
+    <li>AD Snapshots</li>
+    <li>Re-creating Users</li>
+    <li>Users and Computers</li>
+    <li>Recover AD</li>
+    <li>Change DSRM Password</li>
+  </ul>

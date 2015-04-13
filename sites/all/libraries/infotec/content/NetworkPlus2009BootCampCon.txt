@@ -1,0 +1,37 @@
+<p><strong><u>Module 1 &ndash; Network Fundamentals</u></strong></p>
+<ul>
+  <li>Network Topologies and the OSI Model *Network Basics *Network Topologies *The OSI Model *Network  Protocols and TCP/IP.</li>
+  <li>LAN and WLAN Technologies *IEEE 802 Standards *Characteristics of Transmission Media *Ethernete (IEEE 802.3) *Ethernet Media Specifications *Wi-Fi (IEEE 802.11).</li>
+  <li>Cabling and Connectors *Selecting Network Cable *Twisted Pair Cable (UTP/STP?ScTP) *Coaxial Cable *Fiber Optic Cable *Serial Cable.</li>
+  <li>WAN Technologies *WAN Basics *Switched Networks *Telecommunications Networks *Packet-switched  Services *Local Loop Services *Wireless WANs.</li>
+</ul>
+
+<p><strong><u>Module 2 &ndash; Addressing and Protocols</u></strong></p>
+<ul>
+  <li>Addressing *TCP/IP Protocol Suite *MAC Address *Internet Protocol Basics *IP Routing Basics  *Automatic Address Assignment *ICMP *IP Version 6.</li>
+  <li>Routing Protocols *IP Routing *Routing Protocol Characteristics *Routing Protocols.</li>
+  <li>Transport Protocols *Transmission Control Protocol (TCP) *User Datagram Protocol (UDP)  *TCP/IP Ports *Name Resolution.</li>
+  <li>Application Protocols *TCP/IP Services *Email (SMTP/.POP3/IMAP) *World Wide Web (HTTP) *File Transfer Protocol (FTP) *Telnet  and Secure Shell (SSH) *Conferencing and VoIP Protocols *Simple Network Management Protocol (SNMP) *Network Time Protocol (NTP).</li>
+</ul>
+
+<p><strong><u>Module 3 &ndash; Security and Authentication</u></strong></p>
+<ul>
+  <li>Security Threats and Mitigation Techniques *Security Basics *Social Engineering *Malware *Network Attack Strategies *Policies and Procedures *Device Security *Training.</li>
+  <li>Network Security Appliances *Secure Network Topologies *Firewalls and Proxy Servers *Intrusion Detection Systems.</li>
+  <li>Network Access Security and Authentication *Encryption and PKI *Remote Connectivity Protocols *Wireless Security *Authentication *Network Access Control *Remove AdministrationTools.</li>
+</ul>
+
+<p><strong><u>Module 4 &ndash; Installation and Implementation</u></strong></p>
+<ul>
+  <li>Installing Network Infrastructure *Wiring Standards *Wiring Distribution *Cable Testing Tools.</li>
+  <li>Installing Basic Network Devices *Network Adapters *Intranetwork and Internetwork Devices.</li>
+  <li>Installing Wireless and Remote Networks *Setting up a Wireless Network *Remote Links.</li>
+  <li>Advanced Network Infrastructure *Advanced Features and Switches *Performance Management Appliances *Configuring DHCP *Configuring DNS *Security Appliances.</li>
+</ul>
+
+<p><strong><u>Module 5 &ndash; Management, Monitoring, Troubleshooting</u></strong></p>
+<ul>
+  <li>Configuration Management *Configuration Management Concepts *Documentation.</li>
+  <li>Network Monitoring *Network Performance Optimization *Monitoring Systems and Performance *Network Monitoring Utilities *Logs.</li>
+  <li>Network Troubleshooting *Troubleshooting  Procedures *Command Line Interface Tools *Troubleshooting Reference Model  *Troubleshooting Connectivity Scenarios.</li>
+</ul>

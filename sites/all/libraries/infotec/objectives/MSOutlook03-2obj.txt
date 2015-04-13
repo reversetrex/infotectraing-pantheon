@@ -1,0 +1,10 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>Track work activities using the Outlook Journal.</li>
+  <li>Customize the calendar by setting various calendar options.</li>
+  <li>Modify message options.</li>
+  <li>Make folder information available to other Outlook users.</li>
+  <li>Assign and track tasks.</li>
+  <li>Customize the Outlook environment.</li>
+  <li>Sort, find and color-code items in your mailbox and calendar.</li>
+</ul>

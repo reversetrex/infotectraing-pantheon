@@ -1,0 +1,1 @@
+The main objective of this course is to help prepare the student for the Security Certified Network Architect (SCNA) certification exam (SC0-502).

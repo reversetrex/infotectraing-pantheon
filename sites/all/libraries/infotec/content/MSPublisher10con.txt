@@ -1,0 +1,41 @@
+<p><strong>Lesson 1: Getting Started with Publisher 2010</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Identify the Components of the Publisher Interface</li>
+  <li><strong>Topic 1B: </strong>Customize the Publisher Interface</li>
+  <li><strong>Topic 1C: </strong>Create a Basic Publication</li>
+  <li><strong>Topic 1D: </strong>Add Content to a Publication</li>
+</ul>
+<p><strong>Lesson 2: Modifying the Layout and Structure of a Publication</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Import Text into a Publication</li>
+  <li><strong>Topic 2B: </strong>Organize Text Boxes and Picture Placeholders in a Layout</li>
+  <li><strong>Topic 2C: </strong>Control the Display of Content in Text Boxes</li>
+  <li><strong>Topic 2D: </strong>Insert Common Layout Elements</li>
+  <li><strong>Topic 2E: </strong>Use Building Blocks</li>
+</ul>
+<p><strong>Lesson 3: Formatting Text in a Publication</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Format Text</li>
+  <li><strong>Topic 3B: </strong>Format Paragraphs</li>
+  <li><strong>Topic 3C: </strong>Apply Paragraph Styles</li>
+  <li><strong>Topic 3D: </strong>Apply Schemes</li>
+</ul>
+<p><strong>Lesson 4: Editing Content in a Publication</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Edit Text in a Publication</li>
+  <li><strong>Topic 4B: </strong>Present Content in Tables</li>
+  <li><strong>Topic 4C: </strong>Review Text in a Publication</li>
+  <li><strong>Topic 4D: </strong>Insert Symbols and Special Characters</li>
+</ul>
+<p><strong>Lesson 5: Formatting Graphics in a Publication</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Customize the Appearance of Pictures</li>
+  <li><strong>Topic 5B: </strong>Add Graphical Objects to a Publication</li>
+</ul>
+<p><strong>Lesson 6: Preparing a Publication for Distribution</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Check the Design of a Publication</li>
+  <li><strong>Topic 6B: </strong>Save a Publication for Distribution</li>
+  <li><strong>Topic 6C: </strong>Preview and Print a Publication</li>
+  <li><strong>Topic 6D: </strong>Send a Publication by Email</li>
+</ul>

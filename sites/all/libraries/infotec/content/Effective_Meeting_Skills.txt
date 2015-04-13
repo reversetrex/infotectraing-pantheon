@@ -1,0 +1,32 @@
+<h2>Session 1</h2>
+  <h3>Section A: Effective Meeting Skills</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+    <li>Why Meetings?</li>
+    <li>Types of Meetings</li>
+  </ul>
+  <h3>Section B: Planning Meetings</h3>
+  <ul>
+    <li>Four Ws</li>
+    <li>Agendas</li>
+    <li>Time and Place</li>
+    <li>Layouts</li>
+  </ul>
+  <h3>Section C: Conducting Meetings</h3>
+  <ul>
+    <li>Leading Meetings</li>
+    <li>Interaction</li>
+    <li>Handling Conflict</li>
+  </ul>
+  <h3>Section D: Improving Meetings</h3>
+  <ul>
+    <li>After the Meeting</li>
+    <li>Group Responsibilities</li>
+    <li>Distractions</li>
+  </ul>
+  <h3>Section E: Meeting Success</h3>
+  <ul>
+    <li>Keys to Success</li>
+    <li>Conclusion</li>
+  </ul>

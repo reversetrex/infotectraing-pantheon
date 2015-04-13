@@ -1,0 +1,77 @@
+<p><strong> Unit 1: Configuring Routing by Using Routing and Remote Access </strong></p>
+<ul>
+  <li> Multimedia: The Role of Routing in the Network Infrastructure </li>
+  <li>Enabling and Configuring the Routing and Remote Access Service </li>
+  <li>Configuring Packet Filters </li>
+</ul>
+<p><strong> Unit 2: Allocating IP Addressing by Using Dynamic Host Configuration Protocol (DHCP) </strong></p>
+<ul>
+  <li> Multimedia: The Role of DHCP in the Network Infrastructure </li>
+  <li>Adding and Authorizing a DHCP Server Service </li>
+  <li>Configuring a DHCP Scope </li>
+  <li>Configuring a DHCP Reservation </li>
+  <li>Configuring DHCP Options </li>
+  <li>Configuring a DHCP Relay Agent </li>
+</ul>
+<p><strong> Unit 3: Managing and Monitoring Dynamic Host Configuration Protocol (DHCP) </strong></p>
+<ul>
+  <li> Managing a DHCP Database </li>
+  <li>Monitoring DHCP </li>
+  <li>Applying Security Guidelines for DHCP </li>
+</ul>
+<p><strong> Unit 4: Resolving Names </strong></p>
+<ul>
+  <li> Multimedia: Introduction to the Name Resolution Process </li>
+  <li>Viewing Names on a Client </li>
+  <li>Configuring Host Name Resolution </li>
+  <li>Configuring NetBIOS Name Resolution </li>
+</ul>
+<p><strong> Unit 5: Resolving Host Names by Using Domain Name System (DNS) </strong></p>
+<ul>
+  <li> Multimedia: The Role of DNS in the Network Infrastructure </li>
+  <li>Installing the DNS Server Service </li>
+  <li>Configuring the Properties for the DNS Server Service </li>
+  <li>Configuring the DNS Zones </li>
+  <li>Configuring DNS Zone Transfers </li>
+  <li>Configuring DNS Dynamic Updates </li>
+  <li>Configuring a DNS Client </li>
+  <li>Delegating Authority for Zones </li>
+</ul>
+<p><strong> Unit 6: Managing and Monitoring Domain Name System (DNS) </strong></p>
+<ul>
+  <li> Configuring the Time-to-Live Value </li>
+  <li>Configuring Aging and Scavenging </li>
+  <li>Integrating DNS and WINS </li>
+  <li>Testing the DNS Server Configuration </li>
+  <li>Verifying that a Resource Record Exists by Using Nslookup, DNSCmd, and DNSLint </li>
+  <li>Monitoring DNS Server Performance </li>
+</ul>
+<p><strong> Unit 7: Resolving NetBIOS Names by Using Windows Internet Name Service (WINS) </strong></p>
+<ul>
+  <li> Multimedia: The Role of WINS in the Network Infrastructure </li>
+  <li>Installing and Configuring a WINS Server </li>
+  <li>Managing Records in WINS </li>
+  <li>Configuring WINS Replication </li>
+  <li>Managing the WINS database </li>
+</ul>
+<p><strong> Unit 8: Securing Network Traffic by Using IPSec and Certificates </strong></p>
+<ul>
+  <li> Implementing IPSec </li>
+  <li>Implementing IPSec with Certificates </li>
+  <li>Monitoring IPSec </li>
+</ul>
+<p><strong> Unit 9: Configuring Network Access </strong></p>
+<ul>
+  <li> Introduction to a Network Access Infrastructure </li>
+  <li>Configuring a VPN Connection </li>
+  <li>Configuring a Dial-up Connection </li>
+  <li>Configuring a Wireless Connection </li>
+  <li>Controlling User Access to a Network </li>
+  <li>Centralizing Network Access Authentication and Policy Management by Using IAS </li>
+</ul>
+<p><strong> Unit 10: Managing and Monitoring Network Access </strong></p>
+<ul>
+  <li> Managing the Network Access Services </li>
+  <li>Configuring Logging on a Network Access Server </li>
+  <li>Collecting and Monitoring Network Access Data </li>
+</ul>

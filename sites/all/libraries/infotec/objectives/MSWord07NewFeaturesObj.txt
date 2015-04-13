@@ -1,0 +1,6 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Explore the components of the results-oriented interface of the Word environment.</li>
+  <li>Use the tools available in Word 2007 to create professional-looking documents.</li>
+  <li>Finalize and secure a document.</li>
+</ul>

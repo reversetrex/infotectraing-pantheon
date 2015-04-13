@@ -1,0 +1,8 @@
+<p> Unit 1: Exploring the PowerPoint Environment</p>
+<p> Unit 2: Creating a Presentation</p>
+<p> Unit 3: Formatting Text on Slides</p>
+<p> Unit 4: Adding Graphical Objects to a Presentation</p>
+<p> Unit 5: Modifying Objects</p>
+<p> Unit 6: Adding Tables to a Presentation</p>
+<p> Unit 7: Inserting Charts in a Presentation</p>
+<p> Unit 8: Preparing to Deliver a Presentation </p>

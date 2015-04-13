@@ -1,0 +1,9 @@
+<p>After  completing this course, students will be able to:</p>
+<ol>
+  <li>Install Windows Vista.</li>
+  <li>Troubleshoot the startup process.</li>
+  <li>Configure hardware and devices for Windows Vista-based computers.</li>
+  <li>Configure networking for Windows Vista-based computers.</li>
+  <li>Secure Windows Vista-based computers.</li>
+  <li>Maintain and optimize Windows Vista-based computers.</li>
+</ol>

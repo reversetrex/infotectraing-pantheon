@@ -1,0 +1,9 @@
+<p> Both through lecture and hands-on exercises the participants will experience how to: </p>
+<ul>
+  <li>Organize, manage and improve the Support and Restore Processes </li>
+  <li> Define and implement procedures related to these processes </li>
+  <li>Learn about in depth concepts of Support and Restore </li>
+  <li>Learn about specific tasks and responsibilities of Service Desk, Incident and Problem Management </li>
+  <li>Establish interfaces between Support and Restore Processes and other processes </li>
+  <li>Create reports and understand which KPI's are useful</li>
+</ul>

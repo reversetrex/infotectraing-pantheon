@@ -1,0 +1,1 @@
+The CIW JavaScript Specialist course teaches developers how to use the features of the JavaScript language to design client-side, platform-independent solutions. Students will also understand and use the most popular applications of JavaScript. These specialized Web language skills can help you begin or grow a career in advanced Web development and technologies.

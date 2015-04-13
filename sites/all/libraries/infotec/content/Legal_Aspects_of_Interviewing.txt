@@ -1,0 +1,24 @@
+<h2>Session 1</h2>
+  <h3>Section A: Nothing Personal</h3>
+  <ul>
+    <li>Hiring New Employees</li>
+    <li>Protected Class</li>
+  </ul>
+  <h3>Section B: Bona Fide Occupational Qualification</h3>
+  <ul>
+    <li>Qualifications</li>
+    <li>Discrimination</li>
+  </ul>
+  <h3>Section C: Pre-Interview Process</h3>
+  <ul>
+    <li>Job Requirements</li>
+    <li>Interview Questions</li>
+    <li>Three Types of Questions</li>
+    <li>Efficient Questions</li>
+  </ul>
+  <h3>Section D: Fielding the Applicants</h3>
+  <ul>
+    <li>Preparation</li>
+    <li>Red Flags</li>
+    <li>Rating System</li>
+  </ul>

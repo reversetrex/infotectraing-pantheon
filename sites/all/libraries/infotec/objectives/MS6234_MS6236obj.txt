@@ -1,0 +1,29 @@
+<p><strong>MS 6234</strong></p>
+
+<p>After completing this part of the course, students will be able to:</p>
+<ul>
+  <li>Describe how SQL Server Analysis Services can be used to implement analytical solutions.</li>
+  <li>Create multidimensional analysis solutions with SQL Server Analysis Services.</li>
+  <li>Implement dimensions and cubes in an Analysis Services solution.</li>
+  <li>Implement measures and measure groups in an Analysis Services solution.</li>
+  <li>Query a multidimensional Analysis Services solution.</li>
+  <li>Customize an Analysis Services cube.</li>
+  <li>Deploy and secure an Analysis Services database.</li>
+  <li>Maintain a multidimensional Analysis Services solution.</li>
+  <li>Implement a Data Mining solution.</li>
+</ul>
+
+<p><strong>MS 6236</strong></p>
+
+<p>After completing this part of the course, students will be able to:</p>
+<ul>
+  <li>Describe SQL Server Reporting Services and its components.</li>
+  <li>Create a Reporting Services report.</li>
+  <li>Enhance a Reporting Services report.</li>
+  <li>Create and manipulate data sets.</li>
+  <li>Use report models to implement reporting for business users.</li>
+  <li>Configure report publishing and execution settings.</li>
+  <li>Implement subscriptions for reports.</li>
+  <li>Administer Reporting Services.</li>
+  <li>SQL Server accounts (users and permissions).</li>
+</ul>

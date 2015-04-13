@@ -1,0 +1,39 @@
+<p><strong>MS 6234</strong></p>
+
+<p><strong>Module 1: Introduction to Microsoft SQL Server Analysis Services</strong> - This module introduces common analysis scenarios and describes how Analysis Services provides a powerful  platform for multidimensional OLAP solutions and data mining solutions. The module then describes the main considerations for installing Analysis Services.</p>
+
+<p><strong>Module 2: Creating Multidimensional Analysis Solutions</strong> - This module introduces the development tools you can use to create an Analysis Services multidimensional analysis solution, and describes how to create data sources, data source views,  and cubes.</p>
+
+<p><strong>Module 3: Working with Cubes and Dimensions</strong> - This module describes how to edit dimensions and to configure dimensions, attributes, and hierarchies.</p>
+
+<p><strong>Module 4: Working with Measures and Measure Groups</strong> - This module explains how to edit and configure measures and measure groups.</p>
+
+<p><strong>Module 5: Querying Multidimensional Analysis Solutions</strong> - This module introduces multidimensional expressions (MDX) and describes how to implement calculated  members and named sets in an Analysis Services cube.</p>
+
+<p><strong>Module 6: Customizing Cube Functionality</strong> - This module explains how to customize a cube by implementing key performance indicators (KPIs), actions, perspectives, and translations.</p>
+
+<p><strong>Module 7: Deploying and Securing an Analysis Services Database</strong> - This module describes how to  deploy an Analysis Services database to a production server, and how to implement security in an Analysis Services multidimensional solution.</p>
+
+<p><strong>Module 8: Maintaining a Multidimensional Solution</strong> - This module discusses the maintenance tasks associated with an Analysis Services solution, and describes how administrators can use the Analysis Services management tools to perform  them.</p>
+
+<p><strong>Module 9: Introduction to Data  Mining</strong> - This module introduces data mining, and describes how to implement data mining  structures and models. It then explains how to validate data model accuracy.</p>
+
+<p><strong>MS 6236</strong></p>
+
+<p><strong>Module 1: Introduction to Microsoft SQL  Server Reporting Services</strong> - The students will be introduced to the  role that Reporting Services plays in an organization&rsquo;s reporting life cycle, the key features offered by Reporting Services, and the components that make up  the Reporting Services architecture.</p>
+
+<p><strong>Module 2: Authoring Basic Reports</strong> - The students will learn the fundamentals of report authoring, including configuring data sources and data sets, creating tabular reports, summarizing data, and applying basic formatting.</p>
+
+<p><strong>Module 3: Enhancing Basic Reports</strong> - The students will learn about navigational controls and some additional types of data regions, and how to use  them to enhance a basic report.</p>
+
+<p><strong>Module 4: Manipulating Data Sets</strong> - The students will explore data sets to a greater depth, including the use of alternative data sources and interacting  with a data set through the use of parameters. Students will learn how to dynamically modify the data set underlying a data region by allowing parameters  to be sent to the underlying query, as well as will learn to use best practices to implement static and dynamic parameter lists when interacting with queries and stored procedures.</p>
+
+<p><strong>Module 5: Using Report Models</strong> - The students will learn how to create a report model so that business users can create their own reports without using the full Report Designer development environment. Students will also learn how to use Report Builder to create a report from a report model.</p>
+
+<p><strong>Module 6: Publishing and Executing Reports</strong> - The students will learn the various options you can use to publish reports to the report server and execute them.</p>
+
+<p><strong>Module 7: Using Subscriptions to Distribute Reports</strong> - The students will learn how to implement subscriptions so that you can distribute reports either automatically by e-mail or by publishing reports to a shared folder.</p>
+
+<p><strong>Module 8: Administering Reporting Services</strong> - The students will learn how to administer the Reporting Services server, how to monitor and optimize the performance of the report server, how to maintain the Reporting Services databases, and how to keep the system secure.</p>
+
+<p><strong>Module 9: Programming Reporting Services</strong> - The students will learn how to query Reporting Services information programmatically and how to automate report management tasks. Students will also learn how to render reports without relying on Report Manager, and how to extend the feature set of a report server by creating custom  code.</p>

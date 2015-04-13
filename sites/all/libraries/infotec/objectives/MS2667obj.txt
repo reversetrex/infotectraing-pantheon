@@ -1,0 +1,22 @@
+<ul>
+  <li> After completing this course, students will be able to: </li>
+  <li> Describe a typical computer system and its critical components. </li>
+  <li> Describe the software development process, its purpose, critical steps, and where programming fits in that process. </li>
+  <li> Describe the purposes of programming and software development. </li>
+  <li> Describe the evolution of common characteristics of, and differences among, modern programming languages. </li>
+  <li> Define an integrated development environment. </li>
+  <li> Describe the architectural aspects of a software application. </li>
+  <li> Identify a problem that requires a programmed solution. </li>
+  <li> Use common abstract methods to describe the solution concept. </li>
+  <li> Implement variables. </li>
+  <li> List and describe common operators. </li>
+  <li> Implement conditional statements. </li>
+  <li> Implement looping constructs. </li>
+  <li> Implement procedures. </li>
+  <li> Handle errors. </li>
+  <li> Implement object-oriented programming techniques. </li>
+  <li> Model an object-oriented program. </li>
+  <li> Build a Windows-based application. </li>
+  <li> Build a Web application. </li>
+  <li> Describe XML Web services. </li>
+</ul>

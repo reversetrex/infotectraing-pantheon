@@ -1,0 +1,12 @@
+<ul>
+  <li>Module 0: Course Overview</li>
+  <li>Module 1: Planning Routing Services</li>
+  <li>Module 2: Implementing an EIGRP based Solution</li>
+  <li>Module 3: Implementing a Scalable Multiarea Network OSPF based Solution</li>
+  <li>Module 4: Implement an IPv4 based redistribution solution</li>
+  <li>Module 5: Implement Path Control</li>
+  <li>Module 6: Connecting an Enterprise Network to ISP Networks</li>
+  <li>E-Learning ROUTE-01 of 3: Implement Path Control</li>
+  <li>E-Learning ROUTE-02 of 3: Implementing IPv6</li>
+  <li>E-Learning ROUTE-03 of 3: Implementing Routing Facilities for Branch Offices and Mobile Workers</li>
+</ul>

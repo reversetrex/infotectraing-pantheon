@@ -1,0 +1,212 @@
+<p>The  course consists of two volumes, with a study volume, containing indexed notes  and review questions, and a companion volume, containing exam objectives  mapping, exam information, practical labs, answers to review questions, and a  comprehensive glossary. The course also comes with two online practice exams.</p>
+
+<p><strong><u>Module 1: PC and Notebook Hardware</u></strong></p>
+
+<p><strong>Types of Computer</strong></p>
+
+<ul>
+  <li>Personal Computers</li>
+  <li>Desktop Computers</li>
+  <li>Portable Computers</li>
+  <li>Units, Signaling, and Circuits</li>
+</ul>
+
+<p><strong>Motherboards</strong></p>
+
+<ul>
+  <li>Motherboard Layout</li>
+  <li>Bus Architecture</li>
+  <li>Motherboard Components</li>
+  <li>Expansion Bus and Adapter Cards</li>
+  <li>Motherboard Form Factors</li>
+  <li>Power Supply Unit (PSU)</li>
+  <li>Cooling</li>
+</ul>
+
+<p><strong>Processors</strong></p>
+
+<ul>
+  <li>Central Processing Unit (CPU)</li>
+  <li>Features of CPUs</li>
+  <li>Intel Processors</li>
+  <li>AMD Processors</li>
+  <li>CPU Packaging</li>
+  <li>Notebook Processors</li>
+</ul>
+
+<p><strong>Memory</strong></p>
+
+<ul>
+  <li>Memory Types</li>
+  <li>Memory Characteristics</li>
+</ul>
+
+<p><strong>Storage Devices</strong></p>
+
+<ul>
+  <li>Storage Devices</li>
+  <li>Hard Drives</li>
+  <li>Drive Controllers</li>
+  <li>Floppy Drives</li>
+  <li>Optical Disk Storage</li>
+  <li>Flash Memory</li>
+  <li>Tape Drives</li>
+</ul>
+
+<p><strong>Input and Peripheral Devices </strong></p>
+
+<ul>
+  <li>I/O Ports and Cables</li>
+  <li>Input Devices</li>
+  <li>I/O Devices</li>
+  <li>Communications Devices</li>
+  <li>Installing and Configuring Peripherals</li>
+</ul>
+
+<p><strong>Video and Sound Devices</strong></p>
+
+<ul>
+  <li>Display Devices</li>
+  <li>Video Adapters</li>
+  <li>Audio Devices</li>
+  <li>Multimedia Input Devices</li>
+</ul>
+
+<p><strong><u>Module 2: Operating Systems</u></strong></p>
+
+<p><strong>Windows Operating System</strong></p>
+
+<ul>
+  <li>What is an Operating System?</li>
+  <li>Windows Architecture</li>
+  <li>Early Versions of Windows</li>
+  <li>Windows 2000</li>
+  <li>Windows XP</li>
+  <li>Windows Vista</li>
+  <li>Other Operating Systems</li>
+</ul>
+
+<p><strong>Managing Windows</strong></p>
+
+<ul>
+  <li>Windows Administrative Tools</li>
+  <li>Configuring Hardware</li>
+  <li>Screen Savers and Power Management</li>
+  <li>Managing Software</li>
+  <li>Managing Services</li>
+  <li>Windows Registry</li>
+</ul>
+
+<p><strong>Windows Storage Management</strong></p>
+
+<ul>
+  <li>Preparing a Hard Disk</li>
+  <li>Navigating Windows</li>
+  <li>Working with Folders</li>
+  <li>Working with Files</li>
+  <li>Searching For Files</li>
+  <li>The Recycle Bin</li>
+  <li>File and Folder Management in Vista</li>
+  <li>My Network Places</li>
+</ul>
+
+<p><strong>Installing and Upgrading Windows</strong></p>
+
+<ul>
+  <li>Overview of OS Installations</li>
+  <li>Installing Windows from CD DVD</li>
+  <li>Upgrading the OS</li>
+  <li>Options for Deploying Windows</li>
+</ul>
+
+<p><strong>Windows Boot Process</strong></p>
+
+<ul>
+  <li>Windows Boot Process</li>
+  <li>The BOOT.INI File</li>
+  <li>Windows Vista Boot Process</li>
+  <li>Configuring Boot Devices</li>
+  <li>Advanced Startup Options</li>
+</ul>
+
+<p><strong><u>Module 3: Networking and Printing</u></strong></p>
+
+<p><strong>Network Concepts</strong></p>
+
+<ul>
+  <li>What is a Network?</li>
+  <li>The OSI Model</li>
+  <li>Network Devices</li>
+  <li>Network Transport Protocols</li>
+  <li>The Internet</li>
+</ul>
+
+<p><strong>Local, Wireless, and Remote Networks</strong></p>
+
+<ul>
+  <li>Network Cabling</li>
+  <li>Wireless Networks</li>
+  <li>Accessing the Internet</li>
+</ul>
+
+<p><strong>Printers</strong></p>
+
+<ul>
+  <li>The Print Process</li>
+  <li>Printer Types</li>
+  <li>Installing and Configuring a Printer</li>
+  <li>Maintaining Printers</li>
+</ul>
+
+<p><strong><u>Module 4: PC Support</u></strong></p>
+
+<p><strong>Troubleshooting Techniques</strong></p>
+
+<ul>
+  <li>Troubleshooting Models and Processes</li>
+  <li>Approaching Troubleshooting</li>
+  <li>Troubleshooting Resources</li>
+</ul>
+
+<p><strong>Basic Troubleshooting Scenarios</strong></p>
+
+<ul>
+  <li>Common Hardware Symptoms</li>
+  <li>Windows Errors</li>
+  <li>Troubleshooting Applications</li>
+  <li>Troubleshooting Printers</li>
+  <li>Network Troubleshooting Basics</li>
+</ul>
+
+<p><strong>Preventive Maintenance</strong></p>
+
+<ul>
+  <li>Health and Safety</li>
+  <li>Static Electricity and ESD</li>
+  <li>Materials Handling</li>
+  <li>Disposal of Consumables and Computer Equipment</li>
+  <li>Physical Inspections</li>
+  <li>Patch Management</li>
+  <li>Data Backup</li>
+</ul>
+
+<p><strong>Security</strong></p>
+
+<ul>
+  <li>Security Fundamentals</li>
+  <li>Access Control</li>
+  <li>Authentication</li>
+  <li>Accounting</li>
+  <li>Social Engineering</li>
+  <li>Malware</li>
+  <li>Data Security</li>
+</ul>
+
+<p><strong>Professionalism and Communication</strong></p>
+
+<ul>
+  <li>Customer Service Skills</li>
+  <li>Communication Skills</li>
+  <li>Professionalism</li>
+  <li>Handling Customer Complaints</li>
+</ul>

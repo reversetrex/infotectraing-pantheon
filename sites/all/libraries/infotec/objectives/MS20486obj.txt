@@ -1,0 +1,19 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Describe the Microsoft Web Technologies stack and select an appropriate technology to use to develop any given application.</li>
+    <li>Design the architecture and implementation of a web application that will meet a set of functional requirements, user interface requirements, and address business models.</li>
+    <li>Create MVC Models and write code that implements business logic within Model methods, properties, and events.</li>
+    <li>Add Controllers to an MVC Application to manage user interaction, update models, and select and return Views.</li>
+    <li>Create Views in an MVC application that display and edit data and interact with Models and Controllers.</li>
+    <li>Run unit tests and debugging tools against a web application in Visual Studio 2012 and configure an application for troubleshooting.</li>
+    <li>Develop a web application that uses the ASP.NET routing engine to present friendly URLs and a logical navigation hierarchy to users.</li>
+    <li>Implement a consistent look and feel, including corporate branding, across an entire MVC web application.</li>
+    <li>Use partial page updates and caching to reduce the network bandwidth used by an application and accelerate responses to user requests.</li>
+    <li>Write JavaScript code that runs on the client-side and utilizes the jQuery script library to optimize the responsiveness of an MVC web application.</li>
+    <li>Implement a complete membership system in an MVC 4 web application.</li>
+    <li>Build an MVC application that resists malicious attacks and persists information about users and preferences.</li>
+    <li>Describe how to write a Windows Azure web service and call it from and MVC application.</li>
+    <li>Describe what a Web API is and why developers might add a Web API to an application.</li>
+    <li>Modify the way browser requests are handled by an MVC application.</li>
+    <li>Describe how to package and deploy an ASP.NET MVC 4 web application from a development computer to a web server for staging or production.</li>
+</ul>

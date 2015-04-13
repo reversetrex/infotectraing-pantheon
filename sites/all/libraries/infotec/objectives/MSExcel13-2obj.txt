@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, you will be able to leverage the power of data analysis and presentation in order to make informed, intelligent organizational decisions. You will:</p>
+<ul>
+  <li>Customize the Excel environment.</li>
+  <li>Create advanced formulas.</li>
+  <li>Analyze data by using functions and conditional formatting.</li>
+  <li>Organize and analyze datasets and tables.</li>
+  <li>Visualize data by using basic charts.</li>
+  <li>Analyze data by using PivotTables, slicers, and PivotCharts.</li>
+</ul>

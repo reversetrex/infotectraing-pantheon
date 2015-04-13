@@ -1,0 +1,12 @@
+<p>Upon completing this course, you will be able to meet these objectives:</p>
+
+<ul>
+  <li>Describe detailed modulation and spreading techniques and how it is used with various antennas.</li>
+  <li>Describe detailed technical features, functions, and benefits of the Cisco wireless LAN products and how they compare to each other.</li>
+  <li>Describe Aironet Desktop Utility and the Cisco Secure Services Client.</li>
+  <li>Define the concept of using wireless devices to create a WLAN using the standalone products.</li>
+  <li>Define concepts of using wireless devices to create a Layer 2 bridge.</li>
+  <li>Configure a controller-based wireless network using a Cisco wireless LAN controller.</li>
+  <li>Describe the requirement necessary for deployment and performing a site survey.</li>
+  <li>Describe the steps, concepts, and tools available while performing a site survey.</li>
+</ul>

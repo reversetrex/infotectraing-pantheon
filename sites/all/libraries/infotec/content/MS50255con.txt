@@ -1,0 +1,105 @@
+<p><strong>Module 1: Introducing Group Policy</strong></p>
+<p>This module describes the basis of what Group Policy is and how it functions. It also describes the Group Policy   features that are in included in the newer Windows operating systems.</p>
+<ul>
+  <li>What is Group PolicyNew New Group Policy Features in Windows Server 2008 R2 and Windows 7</li>
+  <li>Group Policy Scenarios</li>
+  <li>Managing Group Policies</li>
+  <li>Group Policy Features in Windows Server 2008 and Windows Vista</li>
+</ul>
+<p><strong>Module 2: Using Group Policy Management Tools</strong></p>
+<p>This module describes the differences between local and domain policies and the Group Policy management tools you can use to manage these policies. This module also describes the Group Policy refresh process and hot to manually force a refresh ahead of the default interval.</p>
+<ul>
+  <li>Local and Domain Policies</li>
+  <li>What is the Group Policy Management Console?</li>
+  <li>Installing the GPMC</li>
+  <li>Using the GPMS</li>
+  <li>Understanding Group Policy Refresh</li>
+</ul>
+<p><strong>Module 3: Designing a Group Policy Infrastructure</strong></p>
+<p>This module details the steps a successful Group Policy deployment should follow, linking your design to how   your company can best use the features. Essential network components and security design are also defined.</p>
+<ul>
+  <li>Overview of Active Directory</li>
+  <li>Introducing the Design Stages for Implementing Group Policy</li>
+  <li>Planning your Group Policy Design</li>
+  <li>Designing Your Group Policy Solution</li>
+  <li>Deploying Your Group Policy Solution</li>
+  <li>Managing Your Group Policy Solution</li>
+</ul>
+<p><strong>Module 4: Understanding the Architecture of Group Policy Processing</strong></p>
+<p>This module details the concepts that you must grasp in order to troubleshoot Group Policy. The module also describes the options that are available to change the standard Group Policy processing sequence.</p>
+<ul>
+  <li>Using Active Directory Components to Deploy Group Policy Settings</li>
+  <li>Understanding the Group Policy Deployment Order</li>
+  <li>Modifying Group Policy Processing</li>
+</ul>
+<p><strong>Module 5: Troubleshooting and Backing Up GPOs</strong></p>
+<p>This module explains how to use the RSoP tools to determine whether policies are being processed in the correct   manner. This module discusses how to use the available tools to troubleshoot policy issues; back up, restore, import, copy, and search for GPOs; and migrate GPOs from one domain to another.</p>
+<ul>
+  <li>Using Group Policy Troubleshooting Tools</li>
+  <li>Integration of RSoP Functionality</li>
+  <li>Using Logging Options</li>
+  <li>Backing Up, Restoring, Importing, and Copying GPOs</li>
+  <li>Building Migration Tables</li>
+</ul>
+<p><strong>Module 6: Using Windows PowerShell to Manage Group Policy</strong></p>
+<p>This module explains how to navigate and use basic Windows PowerShell commands and how to use Windows PowerShell to manage Group Policy. This module will also describe how you can use PowerShell logon scripts with Group Policy.</p>
+<ul>
+  <li>Introduction to PowerShell</li>
+  <li>Windows PowerShell Library for Group Policy</li>
+  <li>Windows PowerShell-Based Logon Scripts</li>
+</ul>
+<p><strong>Module 7: Implementing Security Using Group Policy</strong></p>
+<p>This module defines the Windows security model and describes the process of using Group Policy to implement user   account, computer account, and domain security.</p>
+<ul>
+  <li>Exploring the Windows Security Architecture</li>
+  <li>Securing User Accounts</li>
+  <li>Exploring Local Policies</li>
+  <li>Hardening Computer Accounts</li>
+  <li>Implementing Domain Security</li>
+</ul>
+<p><strong>Module 8: Configuring the Desktop Environment with Group Policy</strong></p>
+<p>This module explains many of the settings that are available to configure and restrict the user desktop   environment, such as Control Panel restrictions, Start Menu settings, and Windows Explorer configuration.</p>
+<ul>
+
+  <li>Exploring Script Types and Controlling Script Execution</li>
+  <li>Defining the Desktop, Start Menu, and Taskbar Settings</li>
+  <li>Defining the Control Panel Settings</li>
+  <li>Defining the Windows Components Settings</li>
+  <li>Configuring the Printer Management and Pruning Settings</li>
+  <li>Defining the Network Settings</li>
+</ul>
+<p><strong>Module 9: Configuring Roaming Profiles and Folder Redirection</strong></p>
+<p>This module explains how to use roaming profiles and Folder Redirection to maintain the user’s personal files   and settings.</p>
+<ul>
+  <li>Managing User Profiles</li>
+  <li>Configuring Folder Redirection</li>
+  <li>Using Folder Redirection and Roaming Profiles Together</li>
+</ul>
+<p><strong>Module 10: Assigning and Publishing Software Packages</strong></p>
+<p>This module explains how to use Group Policy for deploying software.</p>
+<ul>
+  <li>Using MSI Packages to Distribute Software </li>
+  <li>Using Group Policy as a Software Deployment Method</li>
+  <li>Deploying Software</li>
+  <li>Setting Up Distribution Points</li>
+  <li>Using the Systems Center Configuration Manager to Distribute Software</li>
+</ul>
+<p><strong>Module 11: Implementing Software Restriction Policies and AppLocker</strong></p>
+<p>This module explains the deployment of software restriction policies including the essential components, rules, and the order of precedence of such policy. You will learn how to use software restriction policies to prevent users from running unauthorized software reducing the likelihood that viruses, Trojan horses, or spyware might intrude   upon the environment.</p>
+<ul>
+  <li>What is a Software Restriction Policy?</li>
+  <li>Creating a Software Restriction Policy</li>
+  <li>Using additional Rules to Help Identify Software</li>
+  <li>What Makes an Effective Software Restriction Policy</li>
+  <li>Using AppLocker in Windows Server 2008 R2 and Windows 7</li>
+</ul>
+<p><strong>Module 12: Creating and Deploying Administrative Templates</strong></p>
+<p>This module explains the logic behind administrative templates, when to use them, and the basics of how to write them. This module also explains how to deploy templates by loading legacy ADM templates into the Group Policy Management Editor, and copying ADMX templates to the Central Store.</p>
+<ul>
+  <li>Introducing ADM Templates</li>
+  <li>Standard ADM Templates</li>
+  <li>Custom ADM Templates</li>
+  <li>Using the New ADMX Templates</li>
+  <li>Converting and Creating Custom ADMX Templates</li>
+  <li>Using the ADMX Central Store</li>
+</ul>

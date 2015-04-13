@@ -1,0 +1,30 @@
+<p><strong>Module 1: Installing, Upgrading, and Deploying Windows Vista</strong></p>
+<ul>
+  <li>This module starts by introducing the key features of the various editions of Windows Vista. There are a number of ways to install Windows Vista, but first you must verify that the hardware platform meets the requirements of the edition that you want to install, and you must plan any necessary upgrades.</li>
+  <li>In this module, you will learn how to install Windows Vista, and how to upgrade or migrate from earlier versions of the Windows operating system to Windows Vista Ultimate edition. You will also learn how to upgrade between the editions of the  Windows Vista operating system.</li>
+  <li>This module introduces you to the imaging process and provides you with information that will help you to select the preferred image deployment method. This module also introduces you to the process of manually applying desktop images by using the deployment infrastructure. You can use this process to create computer images that can help you to reinstall or to rebuild computers in your organization.</li>
+</ul>
+<p><strong>Module 2: Troubleshooting Windows Vista Startup</strong></p>
+<ul>
+  <li>Course Outline</li>
+  <li>Developing and using a troubleshooting methodology will help you to quickly and easily diagnose and resolve computer-related problems. During this module, you discuss a troubleshooting methodology and identify the role of a troubleshooting methodology and the benefits it will bring to your organization.</li>
+  <li>In this module, you learn how to identify and troubleshoot issues that affect the ability of the operating system to startup and how to identify the services that are running on the operating system. You also learn how to use the Windows       Vista operating system advanced troubleshooting tools, collectively known as the Windows Recovery Environment (Windows RE).</li>
+</ul>
+<p><strong>Module 3: Configuring and Troubleshooting Hardware and Devices</strong></p>
+<ul>
+  <li>This module explains how to troubleshoot hardware failures. You will look at both physical hardware failures and failures associated with hardware device drivers. This module also discusses the improved print architecture in the Windows Vista operating system and the new Windows BitLocker™ Drive Encryption mechanism, which provides drive integrity and encryption for the hard disk of your computer.</li>
+</ul>
+<p><strong>Module 4: Configuring and Troubleshooting Networking</strong></p>
+<ul>
+  <li>In this module, you will see how to use the new Windows Vista tools to share and manage Windows Vista files. You will learn how to connect Windows Vista to a network, and how to configure and troubleshoot the Remote Access features of Windows Vista. The module also describes how to configure wireless networking and identifies the most likely cause of network problems in a number of given network scenarios.</li>
+</ul>
+<p><strong>Module 5: Configuring and Troubleshooting Security</strong></p>
+<ul>
+  <li>In this module you will learn how Windows Vista provides advanced network security to help counter the threats that exist in modern business and home network environments. Microsoft Windows Vista includes new and updated functionality, including User Account Control, Windows Defender, and Windows Firewall.</li>
+  <li>This module will ensure that you understand how the new Windows Vista security features work so that you can quickly and effectively diagnose and fix any problems.</li>
+</ul>
+<p><strong>Module 6: Maintaining and Optimizing Windows Vista</strong></p>
+<ul>
+  <li>In this module, you will learn how to use monitoring and configuration tools to obtain information about Windows Vista performance, and how to troubleshoot performance and reliability problems.</li>
+  <li>This module  introduces you to the new diagnostic tools in Windows Vista that will help you  to pinpoint problems with memory, networking, and startup failures. You will  also become familiar with Windows Update and how best to configure automatic  update options that help to keep your computer secure and stable.</li>
+</ul>

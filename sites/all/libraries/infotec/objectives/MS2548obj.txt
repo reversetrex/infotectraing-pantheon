@@ -1,0 +1,13 @@
+<p> After completing this workshop, students will be able to: </p>
+<ul>
+  <li> Build and use a Web service. </li>
+  <li>Configure and customize a Web service application. </li>
+  <li>Call Web methods asynchronously. </li>
+  <li>Build remote client and server applications. </li>
+  <li>Create and serialize remoteable types. </li>
+  <li>Manage the lifetime of remote objects. </li>
+  <li>Call remote methods asynchronously. </li>
+  <li>Implement remote events. </li>
+  <li>Send and receive messages by using Microsoft Message Queuing. </li>
+  <li>Create and use serviced components. </li>
+</ul>

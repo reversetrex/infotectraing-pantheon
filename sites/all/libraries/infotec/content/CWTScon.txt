@@ -1,0 +1,159 @@
+<p><strong>1 - Introduction to Networking</strong></p>
+<ul>
+  <li>Understanding Network Models</li>
+  <li>Understanding Protocols</li>
+  <li>SDU</li>
+  <li>PDU</li>
+  <li>OSI - The de facto reference model</li>
+  <li>The seven layer model</li>
+  <li>Equipment per layer</li>
+  <li>Mapping other protocols into the OSI model</li>
+  <li>TCP/IP - four layer model</li>
+</ul>
+<p><strong>2 - Wi-Fi Organizations and Standards</strong></p>
+<ul>
+  <li>Regulatory Bodies</li>
+  <li>IEEE</li>
+  <li>Wi-Fi Alliance</li>
+  <li>WLAN Connectivity</li>
+  <li>WLAN Security</li>
+  <li>WLAN QoS &amp; Power-Save</li>
+  <li>IEEE 802.11 Standards, Amendments, and Drafts</li>
+  <li>802.11-2007</li>
+  <li>802.11a/b/g</li>
+  <li>802.11e/h/i</li>
+  <li>802.11n Draft</li>
+</ul>
+<p><strong>3 - Wi-Fi Hardware &amp; Software</strong></p>
+<ul>
+  <li>Access Points</li>
+  <li>Lightweight</li>
+  <li>Autonomous</li>
+  <li>WLAN Routers</li>
+  <li>WLAN Bridges</li>
+  <li>WLAN Repeaters</li>
+  <li>WLAN Controllers/Switches</li>
+  <li>Direct-connect APs</li>
+  <li>Distributed-connect APs</li>
+  <li>PoE Infrastructure</li>
+  <li>Midspan</li>
+  <li>Endpoint</li>
+  <li>Client hardware and software</li>
+  <li>Antenna types and uses</li>
+</ul>
+<p><strong>4 - Wi-Fi Security &amp; Compliance</strong></p>
+<ul>
+  <li>802.11 Legacy Security Methods</li>
+  <li>Encryption - TKIP/CCMP</li>
+  <li>Authentication Passphrases &amp; 802.1X/EAP</li>
+  <li>WPA/WPA2-Personal</li>
+  <li>WPA/WPA2-Enterprise</li>
+  <li>WPS Pushbutton/ PIN</li>
+  <li>Role-Based Access Control (RBAC)</li>
+  <li>VPN Security</li>
+  <li>Wireless Intrusion</li>
+  <li>Protection Systems (WIPS)</li>
+  <li>PCI Compliance</li>
+  <li>HIPAA Compliance</li>
+  <li>Enforcing Compliance</li>
+</ul>
+<p><strong>5 - Wi-Fi Site Surveying</strong></p>
+<ul>
+  <li>Information gathering and reporting</li>
+  <li>Multiple Channel Architecture (MCA) cell planning basics</li>
+  <li>Single Channel Architecture (SCA) cell planning basics</li>
+  <li>Predictive Site Survey</li>
+  <li>Manual Site Survey</li>
+  <li>Passive Survey</li>
+  <li>Active Survey</li>
+  <li>Mesh Access Layers</li>
+  <li>Use of Analyzers</li>
+  <li>Protocol</li>
+  <li>Survey</li>
+  <li>Spectrum</li>
+  <li>Identifying and locating RF interference sources</li>
+  <li>Wi-Fi vs. Non-Wi-Fi</li>
+  <li>Hardware placement limitations</li>
+  <li>Best practices for antenna use</li>
+</ul>
+<p> <strong>6 - Wi-Fi Operational Concepts</strong></p>
+<ul>
+  <li>Range, coverage, and capacity</li>
+  <li>Frequencies/channels used</li>
+  <li>Channel reuse and co-location</li>
+  <li>Active and passive scanning</li>
+  <li>Power saving operation</li>
+  <li>Data rates and throughput</li>
+  <li>Dynamic rate selection</li>
+  <li>Authentication and association</li>
+  <li>The distribution system and roaming</li>
+  <li>Infrastructure and ad hoc modes</li>
+  <li>BSSID and ESSID</li>
+  <li>Protection mechanisms</li>
+</ul>
+<p><strong>7 - Applications, Support, and Troubleshooting</strong></p>
+<ul>
+  <li>Installation/configuration of common network types</li>
+  <li>Small Office / Home Office (SOHO)</li>
+  <li>Extension of existing networks into remote locations</li>
+  <li>Building-to-building connectivity</li>
+  <li>Public wireless hotspots</li>
+  <li>Mobile office, classroom, industrial, and healthcare</li>
+  <li>Municipal and law-enforcement connectivity</li>
+  <li>Corporate data access and end-user mobility</li>
+  <li>Last-mile data delivery (WISP)</li>
+  <li>Transportation networks</li>
+  <li>Recognize and troubleshoot wireless network problems</li>
+  <li>Decreased throughput</li>
+  <li>Intermittent or no connectivity</li>
+  <li>Weak signal strength</li>
+  <li>Device upgrades</li>
+  <li>Wi-Fi Network Optimization Procedures</li>
+  <li>Infrastructure hardware selection and placement</li>
+  <li>Identifying, locating, and removing sources of interference</li>
+  <li>Client load-balancing</li>
+  <li>Analyzing infrastructure capacity and utilization</li>
+  <li>Multipath and hidden nodes</li>
+</ul>
+<p><strong>8 - Radio Frequency (RF) Fundamentals</strong></p>
+<ul>
+  <li>Units of RF measurements</li>
+  <li>Factors affecting network range and speed</li>
+  <li>Environment</li>
+  <li>Line-of-sight</li>
+  <li>Interference</li>
+  <li>Defining differences between physical layers</li>
+  <li>OFDM</li>
+  <li>HR/DSSS</li>
+  <li>MIMO</li>
+</ul>
+<p><strong>9 - Spread Spectrum Concepts</strong></p>
+<ul>
+  <li>OFDM &amp; HR/DSSS channels</li>
+  <li>Co-location of HR/DSSS and OFDM systems</li>
+  <li>Adjacent-channel and co-channel interference</li>
+  <li>WLAN / WPAN co-existence</li>
+  <li>CSMA/CA operation half duplex</li>
+</ul>
+<p><strong>10 - RF Antenna Concepts</strong></p>
+<ul>
+  <li>Passive gain</li>
+  <li>Beam widths</li>
+  <li>Simple diversity</li>
+  <li>Polarization</li>
+  <li>Antenna Mounting</li>
+  <li>Pole/mast mount</li>
+  <li>Ceiling mount</li>
+  <li>Wall mount</li>
+  <li>WLAN Accessories</li>
+  <li>RF cables</li>
+  <li>RF connectors</li>
+  <li>Lightning arrestors and grounding rods</li>
+</ul>
+<p><strong>11 - Classroom Demonstrations</strong></p>
+<ol>
+  <li> AP/Client Connectivity with WPA2-Personal Security and PoE Power</li>
+  <li>Spectrum Analysis of RF Environment</li>
+  <li>Protocol Analysis of RF Environment</li>
+  <li>Configuration Parameter Modification in an Enterprise-Class Autonomous AP</li>
+</ol>

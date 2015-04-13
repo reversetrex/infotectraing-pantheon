@@ -1,0 +1,1 @@
+You will gain knowledge of storage concepts, components, and the ability to work on a storage networking environment.

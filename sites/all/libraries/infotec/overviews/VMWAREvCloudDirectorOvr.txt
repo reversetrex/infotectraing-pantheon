@@ -1,0 +1,1 @@
+In this course, you will learn how to deploy and manage the ongoing operation of VMware vCloud Director for a small, private-cloud environment. This course focuses on the private cloud in an engineering or quality assurance solution. It covers all of the fundamentals needed to install, configure, and manage any small private cloud with vCloud Director.

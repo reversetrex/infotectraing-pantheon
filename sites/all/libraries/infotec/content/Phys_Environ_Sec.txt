@@ -1,0 +1,42 @@
+<h2>Session 1</h2>
+  <h3>Section A: Physical Security Threats</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Threats 1 - 5</li>
+    <li>Threats 6 - 9</li>
+    <li>Threats 10 - 12</li>
+  </ul>
+  <h3>Section B: Facility Requirements</h3>
+  <ul>
+    <li>Security Policy</li>
+    <li>Critical Path Analysis</li>
+    <li>Access Controls</li>
+  </ul>
+  <h3>Section C: Physical Security Controls</h3>
+  <ul>
+    <li>Administrative Controls</li>
+    <li>Fences/Gates</li>
+    <li>Lighting</li>
+    <li>Security Guards/Dogs</li>
+    <li>Keys/Badges</li>
+    <li>Detective Controls/CCTV</li>
+    <li>Restriction/Escorts</li>
+    <li>Technical Controls</li>
+  </ul>
+  <h3>Section D: Environmental Issues</h3>
+  <ul>
+    <li>Power</li>
+    <li>HVAC</li>
+    <li>Water Leakage/Flooding</li>
+    <li>Fire Detection/Suppress</li>
+    <li>Natural Disasters</li>
+  </ul>
+  <h3>Section E: Physical Security</h3>
+  <ul>
+    <li>Fire Safety</li>
+    <li>Physical Access Control</li>
+    <li>Administrative Controls</li>
+    <li>Employee Training</li>
+    <li>Egress Safety</li>
+    <li>Detective Controls</li>
+  </ul>

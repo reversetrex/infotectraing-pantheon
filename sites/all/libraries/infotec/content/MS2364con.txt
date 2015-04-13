@@ -1,0 +1,53 @@
+<p><strong> Unit 1: Introduction to Visual Studio 2005 </strong></p>
+<ul>
+  <li> Build collections using generics </li>
+  <li> Use existing code snippets in code and create new code snippets </li>
+</ul>
+<p> Visual Basic developers will be able to: </p>
+<ul>
+  <li> Use My classes to access system and application resources </li>
+</ul>
+<p> Visual C# developers will be able to </p>
+<ul>
+  <li> Refactor code using the refactoring features </li>
+</ul>
+<p><strong> Unit 2: Building Managed Code for SQL Server 2005 </strong></p>
+<ul>
+  <li> Write a managed assembly to run inside SQL Server 2005 </li>
+  <li> Write a managed trigger </li>
+  <li> Write and access a managed stored procedure </li>
+  <li> Write a managed code user defined type (UDT), store it in a SQL Server table and use it in a program </li>
+  <li> Store XML documents in the XML type supported by SQL Server 2005, and validate XML in the database using an XML Schema </li>
+  <li> Create an XML Schema using the Visual Studio 2005 XML Designer </li>
+  <li> Query and update XML data using XmlDocument </li>
+</ul>
+<p><strong> Unit 3: Building Data Components in Visual Studio 2005 </strong></p>
+<ul>
+  <li> Create data components using Visual Studio 2005 </li>
+  <li> &bull;Edit components with the Data Component Designer </li>
+  <li> &bull;Access multiple ADO.NET result sets concurrently </li>
+  <li> &bull;Write asynchronous ADO.NET code </li>
+</ul>
+<p><strong> Unit 4: Building Presentation Layer Applications with Windows FormsPerform pre-migration tasks. </strong></p>
+<ul>
+  <li> Build Windows Forms applications using Visual Studio 2005 </li>
+  <li> Create databound forms using the RAD databinding features of the IDE </li>
+  <li> Generate Master-Detail forms using Visual Studio 2005 SmartTags </li>
+  <li> Create databound forms that bind to data components </li>
+  <li> Deploy a Windows Forms application to a Web server </li>
+  <li> Write an application that automatically updates on multiple clients when a new version is deployed </li>
+</ul>
+<p><strong> Unit 5: Building Presentation Layer Applications withASP.NET 2.0 </strong></p>
+<ul>
+  <li> Create databound forms that bind to data components </li>
+  <li> Write code using the Web Applications (ASP.NET 2.0) enhancements </li>
+  <li> Program the new ASP.NET data source controls: SqlDataSource, ObjectDataSource, AccessDataSource, DataSetDataSource, SiteMapDataSource, XmlDataSource </li>
+  <li> Create a common Web page layout with Master Pages </li>
+  <li> Manage Web application users with the login controls </li>
+</ul>
+<p><strong> Unit 6: Creating Service-Oriented Architecture (SOA) Applications in Visual Studio 2005 </strong></p>
+<ul>
+  <li> Design and implement connected systems using the Distributed Application Designer </li>
+  <li> Validate an application against a logical data center design to ensure successful deployment </li>
+  <li> Synchronize design with code </li>
+</ul>

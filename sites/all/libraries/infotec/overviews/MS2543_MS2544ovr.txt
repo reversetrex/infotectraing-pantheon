@@ -1,0 +1,7 @@
+<strong>2543:</strong><br /><br />
+This  three-day instructor-led workshop provides students with the knowledge and  skills to develop Microsoft ASP.NET 2.0 Web applications using Microsoft  Visual Studio 2005. The workshop focuses on user interfaces, Web site  structure and functionality, and implementation details.
+
+<br /><br />
+
+<strong>2544:</strong><br /><br />
+This two-day instructor-led workshop provides students with the knowledge and skills to develop Microsoft ASP.NET 2.0 Web applications using Microsoft Visual Studio 2005. The workshop focuses on advanced user interfaces, Web site functionality, and implementation details using the advanced features of ASP.NET 2.0 and Visual Studio 2005.

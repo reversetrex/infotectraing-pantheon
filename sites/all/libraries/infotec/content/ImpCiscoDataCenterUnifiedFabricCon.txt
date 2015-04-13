@@ -1,0 +1,231 @@
+<p><strong>Module 1: Cisco Nexus Product Overview</strong></p>
+<ul>
+  <li>The Cisco Data Center Network Architecture
+    <ul>
+      <li>Cisco Unified Fabric Overview</li>
+      <li>Structured Layers – Core, Aggregation, Access</li>
+      <li>Placement of Products</li>
+      <li>Positioning of Product Families in the Architecture</li>
+    </ul>
+ </li>
+  <li>Identifying Cisco Nexus Products
+    <ul>
+      <li>The Cisco Nexus Product Family</li>
+      <li>Key Features of Cisco Nexus I/O Modules</li>
+      <li>Key Features of Cisco NX-OS</li>
+    </ul>
+ </li>
+</ul>
+<p><strong>Module 2: Cisco Nexus Switch Feature Configuration</strong></p>
+<ul>
+  <li>Understanding High Availability and Redundancy
+    <ul>
+      <li>Network-Level High Availability</li>
+      <li>System-Level High Availability</li>
+      <li>In-Service Software Upgrade</li>
+    </ul>
+ </li>
+  <li>Configuring Virtual Device Contexts
+    <ul>
+      <li>Using VDCs in Data Centers</li>
+      <li>Virtual Device Contexts (VDCs)</li>
+      <li>Resource Allocation</li>
+      <li>New VDC Features in Cisco NX-OS 6.1</li>
+      <li>Configuring VDCs</li>
+      <li>Management Settings</li>
+      <li>Storage VDCs</li>
+    </ul>
+ </li>
+  <li>Configuring Layer 2 Switching Features
+    <ul>
+      <li>Basic Interface Parameters</li>
+      <li>Cisco Nexus 7000 and Cisco Nexus 5000 Switch Feature Comparison</li>
+      <li>VLAN Configuration</li>
+      <li>Spanning Tree Protocol Extensions</li>
+    </ul>
+ </li>
+  <li>Configuring PortChannels
+    <ul>
+      <li>Using PortChannels and Virtual PortChannels</li>
+      <li>Configuring PortChannels</li>
+      <li>vPC Architecture</li>
+      <li>Configuring vPC</li>
+      <li>Configuring the FEX</li>
+      <li>Configuring Enhanced vPCs</li>
+    </ul>
+ </li>
+  <li>Implementing Cisco FabricPath
+    <ul>
+      <li>Implement Cisco FabricPath</li>
+      <li>Verify Cisco FabricPath</li>
+    </ul>
+ </li>
+  <li>Configuring Layer 3 Switching Features
+    <ul>
+      <li>Routing Protocols</li>
+      <li>First-Hop Redundancy Protocols</li>
+      <li>Bidirectional Forwarding Detection</li>
+      <li>Layer 3 Virtualization</li>
+      <li>Unicast RIB and FIB</li>
+      <li>Route Policy Manager</li>
+      <li>Policy-Based Routing (PBR)</li>
+      <li>IPv6</li>
+    </ul>
+ </li>
+  <li>Configuring IP Multicast
+    <ul>
+      <li>IP Multicast</li>
+      <li>Configuring IGMP and MLD</li>
+      <li>Configuring PIM</li>
+      <li>Configuring IGMP Snooping</li>
+      <li>Configuring MSDP</li>
+    </ul>
+ </li>
+</ul>
+<p><strong>Module 3: Cisco Nexus Switch Advanced Feature Configuration</strong></p>
+<ul>
+  <li>Understanding Overlay Transport Virtualization
+    <ul>
+      <li>Overlay Transport Virtualization (OTV)</li>
+      <li>Basic OTV</li>
+      <li>Advanced OTV</li>
+    </ul>
+ </li>
+  <li>Configuring MPLS
+    <ul>
+      <li>Multiprotocol Label Switching (MPLS)</li>
+      <li>MPLS VPN</li>
+    </ul>
+ </li>
+  <li>Configuring LISP
+    <ul>
+      <li>Location ID Separation Protocol (LISP)</li>
+      <li>Configuring LISP</li>
+    </ul>
+ </li>
+  <li>Configuring Quality of Service (QoS)
+    <ul>
+      <li>QoS on the Nexus Switches</li>
+      <li>Modular QoS CLI (MQC)</li>
+      <li>Marking</li>
+      <li>Mutation Mapping</li>
+      <li>Policing</li>
+      <li>Queuing and Scheduling</li>
+      <li>Monitoring QoS</li>
+    </ul>
+ </li>
+  <li>Configuring Security Features
+    <ul>
+      <li>DHCP Snooping</li>
+      <li>Dynamic ARP Inspection (DAI)</li>
+      <li>IP Source Guard</li>
+      <li>Unicast Reverse Path Forwarding (uRPF)</li>
+      <li>Traffic Storm Control</li>
+      <li>Port Security</li>
+      <li>Control Plane Policing (CoPP)</li>
+      <li>Cisco TrustSec</li>
+    </ul>
+ </li>
+</ul>
+<p><strong>Module 4: Cisco Nexus Storage Features</strong></p>
+<ul>
+  <li>Understanding Fibre Channel Protocol
+    <ul>
+      <li>SCSI Protocol</li>
+      <li>Fibre Channel</li>
+      <li>Fibre Channel Login and Communication</li>
+      <li>Fibre Channel Addressing Schemes</li>
+      <li>VSANs and IVR</li>
+      <li>Fabric Shortest Path First (FSPF) Protocol</li>
+      <li>Zoning</li>
+      <li>N-Port ID Virtualization (NPIV)</li>
+      <li>N-Port Virtualization (NPV)</li>
+    </ul>
+ </li>
+  <li>Understanding FCoE Protocol
+    <ul>
+      <li>FCoE Overview</li>
+      <li>FCoE Architecture</li>
+      <li>FCoE Initialization Protocol (FIP)</li>
+      <li>Supported FCoE Topologies</li>
+      <li>FCoE Hardware</li>
+    </ul>
+ </li>
+  <li>Identifying Data Center Bridging Enhancements
+    <ul>
+      <li>Data Center Bridging (DCB)</li>
+      <li>Priority Flow Control (PFC)</li>
+      <li>Enhanced Transmission Selection (ETS)</li>
+      <li>DCBX Protocol</li>
+    </ul>
+ </li>
+  <li>Configuring FCoE
+    <ul>
+      <li>Configure FCoE</li>
+      <li>FCoE VLANs and Virtual Interfaces</li>
+      <li>FCoE with Enhanced vPC and Cisco Adapter Fabric Extender</li>
+      <li>FCoE on MDS</li>
+      <li>Fibre Channel Interfaces</li>
+      <li>Domain Parameters</li>
+      <li>Managing VSANs</li>
+      <li>VSAN Trunking</li>
+      <li>SAN Port Channels</li>
+      <li>FLOGI and FCNS Databases</li>
+      <li>Cisco Fabric Services on MDS</li>
+    </ul>
+ </li>
+  <li>Configuring NPV Mode
+    <ul>
+      <li>N-Port ID Virtualization (NPIV)</li>
+      <li>Configuring NPIV</li>
+      <li>N-Port Virtualization (NPV)</li>
+      <li>Configuring NPV</li>
+      <li>FCoE NPV</li>
+      <li>Configuring FCoE NPV</li>
+    </ul>
+ </li>
+  <li>Using SAN Management Tools
+    <ul>
+      <li>Cisco DCNM for SAN</li>
+      <li>Cisco Device Manager</li>
+    </ul>
+ </li>
+</ul>
+<p><strong>Module 5: Cisco Nexus Series Switch Management</strong></p>
+<ul>
+  <li>Using the Connectivity Management Processor
+    <ul>
+      <li>Connectivity Management Processor (CMP)</li>
+      <li>Configuring the CMP</li>
+      <li>Verifying the CMP</li>
+      <li>Upgrading the CMP</li>
+      <li>Using the CMP</li>
+    </ul>
+ </li>
+  <li>Configuring User Management
+    <ul>
+      <li>User Management Features</li>
+      <li>Authentication, Authorization, and Accounting (AAA)</li>
+      <li>Secure Shell (SSH)</li>
+      <li>User Accounts and Roles</li>
+    </ul>
+ </li>
+  <li>Understanding System Management
+    <ul>
+      <li>System Management Features</li>
+      <li>Cisco Fabric Services</li>
+      <li>NTP and PTP</li>
+      <li>Embedded Event Management (EEM)</li>
+      <li>NetFlow</li>
+      <li>Cisco Smart Call Home</li>
+      <li>Scheduler</li>
+      <li>SPAN and ERSPAN</li>
+      <li>Simple Network Management Protocol (SNMP)</li>
+      <li>XML Interface</li>
+      <li>Cisco DCNM for LAN</li>
+      <li>Integrating vCenter Manager</li>
+      <li>Licensing</li>
+      <li>Upgrading the Firmware and EPLDs</li>
+    </ul>
+ </li>
+</ul>

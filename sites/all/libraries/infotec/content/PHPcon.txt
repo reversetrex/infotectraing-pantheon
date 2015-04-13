@@ -1,0 +1,33 @@
+<p><strong>Lesson 1: Getting Acquainted with PHP</strong></p>
+<ul>
+  <li>Topic 1A: Understand PHP</li>
+  <li>Topic 1B: Use the Basic Syntax of PHP</li>
+  <li>Topic 1C: Use HTML and PHP</li>
+  <li>Topic 1D: Add Comments</li>
+</ul>
+<p><strong>Lesson 2: Working with Common PHP Script Elements</strong></p>
+<ul>
+  <li>Topic 2A: Use Variables and Constants</li>
+  <li>Topic 2B: Work with Control Structure Statements</li>
+  <li>Topic 2C: Work with Arrays</li>
+  <li>Topic 2D: Use Functions</li>
+  <li>Topic 2E: Implement Object-Oriented Programming</li>
+  <li>Topic 2F: Include Content from Files</li>
+</ul>
+<p><strong>Lesson 3: Working with Forms</strong></p>
+<ul>
+  <li>Topic 3A: Create Forms</li>
+  <li>Topic 3B: Validate a Form</li>
+  <li>Topic 3C: Email Data</li>
+</ul>
+<p><strong>Lesson 4: Addressing the Stateless Nature of HTTP</strong></p>
+<ul>
+  <li>Topic 4A: Set Cookies and Session Variables</li>
+  <li>Topic 4B: Write Scripts Using Hidden Form Fields</li>
+</ul>
+<p><strong>Lesson 5: Accessing and Manipulating Data with PHP</strong></p>
+<ul>
+  <li>Topic 5A: Interact with Databases</li>
+  <li>Topic 5B: Modify Database Records Using PHP</li>
+  <li>Topic 5C: Access Files and Directories</li>
+</ul>

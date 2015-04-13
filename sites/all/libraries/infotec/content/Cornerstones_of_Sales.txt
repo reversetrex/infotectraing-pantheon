@@ -1,0 +1,21 @@
+<h2>Session 1</h2>
+  <h3>Section A: Customer Service and Selling</h3>
+  <ul>
+    <li>Spectacular Service</li>
+  </ul>
+  <h3>Section B: Three Cornerstones</h3>
+  <ul>
+    <li>Listening</li>
+    <li>Probing</li>
+    <li>Building the Sale</li>
+  </ul>
+  <h3>Section C: Service Impact</h3>
+  <ul>
+    <li>Customer's Perception</li>
+    <li>Customer Clues</li>
+    <li>Finding Specific Needs</li>
+  </ul>
+  <h3>Section D: Strengthening Sale Knowledge</h3>
+  <ul>
+    <li>Salesman Test</li>
+  </ul>

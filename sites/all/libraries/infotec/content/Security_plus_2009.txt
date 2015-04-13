@@ -1,0 +1,376 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Prerequisites</li>
+    <li>Understanding Server Administration</li>
+    <li>Server+ Examination</li>
+  </ul>
+  <h3>Section B: Server Types</h3>
+  <ul>
+    <li>Blade Servers</li>
+    <li>Tower Servers</li>
+    <li>Rack-Mount Servers</li>
+    <li>Understanding Dell Server Hardware</li>
+    <li>Network Layer Servers</li>
+    <li>Access Servers</li>
+    <li>Network Service Servers</li>
+    <li>User Service Servers</li>
+    <li>Application Server Models</li>
+    <li>Virtualized Services</li>
+    <li>Proper Startup and Shutdown</li>
+  </ul>
+  <h3>Section C: Basic Server Administration</h3>
+  <ul>
+    <li>Hardware Compatibility</li>
+    <li>Microsoft Hardware Compatibility Catalog</li>
+    <li>Patch Management</li>
+    <li>Server Monitoring</li>
+    <li>Basic Administration Tips</li>
+  </ul>
+  <h3>Section D: Bus Architectures</h3>
+  <ul>
+    <li>System Bus</li>
+    <li>PCI</li>
+    <li>PCI Bus Mastering</li>
+    <li>PCI Hot Swap</li>
+    <li>Bus Standards Compared</li>
+    <li>Hierarchical and Peer PCI</li>
+    <li>Intelligent  Input/Output</li>
+    <li>Mainboards</li>
+    <li>Onboard Components</li>
+  </ul>
+  <h3>Section E: Internal Server Storage</h3>
+  <ul>
+    <li>SCSI Overview</li>
+    <li>SCSI-1</li>
+    <li>SCSI-2</li>
+    <li>SCSI-3</li>
+    <li>Newer SCSI Standards</li>
+    <li>LVD and HVD</li>
+    <li>Multimode and Single-Ended</li>
+    <li>Connecting SCSI Devices</li>
+    <li>IDE Systems</li>
+    <li>ATA Implementations</li>
+    <li>SATA Implementations</li>
+    <li>Serial Attached SCSI</li>
+    <li>Storage Considerations</li>
+  </ul>
+  <h3>Section F: External Server Storage</h3>
+  <ul>
+    <li>Fibre Channel Overview</li>
+    <li>Fibre Channel Interfaces</li>
+    <li>Fibre Channel Arrays</li>
+    <li>SMF vs. MMF</li>
+    <li>Fibre Channel Connectors</li>
+    <li>Fibre Channel Speeds</li>
+    <li>Fibre Channel Architectures</li>
+    <li>iSCSI</li>
+    <li>FCIP</li>
+    <li>SATA</li>
+    <li>NAS vs. SAN</li>
+    <li>Backup Storage</li>
+  </ul>
+  <h3>Section G: RAID Configurations</h3>
+  <ul>
+    <li>RAID Benefits</li>
+    <li>RAID 0</li>
+    <li>RAID 1</li>
+    <li>RAID 5</li>
+    <li>Complex RAID Arrays</li>
+    <li>RAID Technologies</li>
+  </ul>
+  <h3>Section H: Processors and Memory</h3>
+  <ul>
+    <li>Multiprocessing</li>
+    <li>Multi vs. Dual Processors</li>
+    <li>Processes, Threads and Fibers</li>
+    <li>64-Bit Processors</li>
+    <li>WOW32 and WOW64</li>
+    <li>64-Bit Operating Systems</li>
+    <li>Processor Features</li>
+    <li>Server Memory</li>
+    <li>Advanced Memory Features</li>
+    <li>Memory Redundancy</li>
+    <li>Selecting Memory</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: High Availability Options</h3>
+  <ul>
+    <li>Availability</li>
+    <li>Steps to Availability</li>
+    <li>Availability Solutions</li>
+    <li>Clustering</li>
+    <li>Fault Tolerance</li>
+    <li>Replication</li>
+    <li>Scalability</li>
+    <li>Server Types and Availability</li>
+  </ul>
+  <h3>Section B: Installing Servers</h3>
+  <ul>
+    <li>Planning the Install</li>
+    <li>Gaining Approval</li>
+    <li>Validate the Plan</li>
+    <li>Upon Receipt</li>
+    <li>Prepare Configuration Documents</li>
+    <li>Stabilization</li>
+    <li>Installation Methods</li>
+    <li>File Systems</li>
+  </ul>
+  <h3>Section C: Configuring Servers</h3>
+  <ul>
+    <li>In-Band and Out-of-Band</li>
+    <li>In-Band Processing</li>
+    <li>Management Plans</li>
+    <li>BIOS Failure</li>
+    <li>Avoiding BIOS Problems</li>
+    <li>Documentation</li>
+    <li>Initial Configuration Steps</li>
+  </ul>
+  <h3>Section D: Configuring RAID</h3>
+  <ul>
+    <li>Standard RAID Levels</li>
+    <li>Nested RAID Levels</li>
+    <li>Software-Based RAID</li>
+    <li>Initializing Disks</li>
+    <li>New Striped Volume</li>
+    <li>Verify Striped Volume</li>
+    <li>Mirrored Volume</li>
+    <li>RAID-5 Volume</li>
+    <li>Failed Redundancy</li>
+  </ul>
+  <h3>Section E: Managing Peripherals</h3>
+  <ul>
+    <li>Understanding UPS</li>
+    <li>UPS Load Requirements</li>
+    <li>UPS Upgrades</li>
+    <li>UPS Replacement</li>
+    <li>Backup Devices and Storage</li>
+    <li>KVM Devices</li>
+    <li>Remote Management</li>
+    <li>General Guidelines</li>
+  </ul>
+  <h3>Section F: Network Operating Systems</h3>
+  <ul>
+    <li>NOS Types</li>
+    <li>Installing the NOS</li>
+    <li>After Installation</li>
+    <li>Networking Terminology</li>
+    <li>Ethernet Networking</li>
+    <li>TCP/IP</li>
+    <li>IP Functionality</li>
+  </ul>
+  <h3>Section G: Management Protocols and Services</h3>
+  <ul>
+    <li>SNMP</li>
+    <li>SNMP Communications</li>
+    <li>SNMP and TCP</li>
+    <li>Desktop Management Interface</li>
+    <li>IPMI</li>
+    <li>WBEM</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Performing Upgrades</h3>
+  <ul>
+    <li>Firmware Management</li>
+    <li>Firmware Compatibility</li>
+    <li>Processor Upgrade</li>
+    <li>Processor Checklist</li>
+    <li>Memory Increases</li>
+    <li>Memory Installation</li>
+    <li>Configuring</li>
+    <li>Adding More Drives</li>
+    <li>Storage Configuration</li>
+    <li>Drive Troubleshooting</li>
+  </ul>
+  <h3>Section B: Performance Baselines</h3>
+  <ul>
+    <li>Performance Analysis</li>
+    <li>Creating a Baseline</li>
+    <li>Viewing Performance Reports</li>
+    <li>Processor Bottlenecks</li>
+    <li>I/O Bottlenecks</li>
+    <li>Disk Bottlenecks</li>
+    <li>Performance Counters</li>
+    <li>Trend Analysis</li>
+  </ul>
+  <h3>Section C: Optimizing Server Performance</h3>
+  <ul>
+    <li>Housekeeping</li>
+    <li>Change Management</li>
+    <li>BIOS Performance Tuning</li>
+    <li>Configuring Virtual Memory</li>
+    <li>Processor Scheduling</li>
+    <li>Optimizing Server Services</li>
+  </ul>
+  <h3>Section D: Implementing Physical Security</h3>
+  <ul>
+    <li>Physical Security</li>
+    <li>Server Security</li>
+    <li>Data Security</li>
+    <li>Backup Security</li>
+    <li>Securing the Server Room</li>
+    <li>Access Control Devices</li>
+    <li>Security Incidents</li>
+  </ul>
+  <h3>Section E: Backup and Restoration</h3>
+  <ul>
+    <li>Backup Solutions</li>
+    <li>Recovery Disks</li>
+    <li>Backup Types</li>
+    <li>Backup Media</li>
+    <li>Backup Schedules</li>
+    <li>Logging the Backups</li>
+    <li>Restoration</li>
+    <li>Backup Rotations</li>
+    <li>Backup Procedures</li>
+  </ul>
+  <h3>Section F: Disaster Recovery</h3>
+  <ul>
+    <li>Disaster Recovery Plan</li>
+    <li>Handling a Disaster</li>
+    <li>Redundancy</li>
+    <li>Data Retention</li>
+    <li>Data Destruction</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Linux Server Fundamentals</h3>
+  <ul>
+    <li>Linux Overview</li>
+    <li>Distribution Comparison</li>
+    <li>Creating Users in Linux</li>
+    <li>Linux Network Commands</li>
+    <li>Linux Directories</li>
+    <li>Exploring Ubuntu</li>
+    <li>Administrator Tools</li>
+    <li>User Settings</li>
+    <li>Performance Tools</li>
+  </ul>
+  <h3>Section B: NOS Security Features</h3>
+  <ul>
+    <li>NOS Security</li>
+    <li>Security Threats</li>
+    <li>Software Firewalls</li>
+    <li>Windows Firewall</li>
+    <li>Advanced Settings</li>
+    <li>Malware Protection</li>
+    <li>Permission Management</li>
+  </ul>
+  <h3>Section C: Planning the Server Room</h3>
+  <ul>
+    <li>Cooling</li>
+    <li>Cooling Methods</li>
+    <li>Form Factors</li>
+    <li>Chassis Dimensions</li>
+    <li>Power Supply</li>
+    <li>Management Components</li>
+  </ul>
+  <h3>Section D: Hardware Compatibility Issues</h3>
+  <ul>
+    <li>Common Hardware Issues</li>
+    <li>Hardware Problem Sources</li>
+    <li>Environmental Issues</li>
+    <li>Hardware Tools</li>
+  </ul>
+  <h3>Section E: Server Virtualization</h3>
+  <ul>
+    <li>Virtualization Methods</li>
+    <li>Benefits of Virtualization</li>
+    <li>VM Components</li>
+    <li>VM Management</li>
+    <li>Hyper-V</li>
+  </ul>
+  <h3>Section F: Server Documentation</h3>
+  <ul>
+    <li>Utilize Documentation</li>
+    <li>Document the Server</li>
+    <li>Change Management</li>
+    <li>NOC Documentation</li>
+    <li>Equipment Disposal</li>
+    <li>Industry Best Practices</li>
+  </ul>
+  <h3>Section G: Troubleshooting Server Problems</h3>
+  <ul>
+    <li>Troubleshooting</li>
+    <li>Identifying the Problem</li>
+    <li>Theorize</li>
+    <li>Test the Theory</li>
+    <li>Establish and Enact a Plan</li>
+    <li>Post-Repair Testing</li>
+    <li>Root Cause Analysis</li>
+    <li>Documentation</li>
+  </ul>
+  <h3>Section H: Common Hardware and Software Problems</h3>
+  <ul>
+    <li>Software Problems</li>
+    <li>Software Problem Causes</li>
+    <li>Event Viewer</li>
+    <li>Task Manager</li>
+    <li>Disk Defragmentation</li>
+    <li>Storage Problems</li>
+    <li>Storage Problem Causes</li>
+    <li>Storage Tools</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Using the MMC</h3>
+  <ul>
+    <li>Launching the MMC</li>
+    <li>Touring the Interface</li>
+    <li>Adding Snap-ins</li>
+    <li>Configuring Options</li>
+    <li>Using Taskpad Views</li>
+  </ul>
+  <h3>Section B: Working with the Command Prompt</h3>
+  <ul>
+    <li>Command Prompt Startup</li>
+    <li>Navigation Commands</li>
+    <li>Previous Commands</li>
+    <li>Help Options</li>
+    <li>Basic Commands</li>
+    <li>Network Problems</li>
+    <li>Network Problem Causes</li>
+    <li>IP Configuration</li>
+    <li>NSLOOKUP</li>
+    <li>NET USE</li>
+    <li>Communication Statistics</li>
+  </ul>
+  <h3>Section C: Configuring System Settings</h3>
+  <ul>
+    <li>Processes</li>
+    <li>IPv4 and IPv6 Settings</li>
+    <li>Registry Editing</li>
+    <li>Registry Navigation</li>
+    <li>Registry Searches</li>
+    <li>Exporting Registry Keys</li>
+    <li>MSCONFIG</li>
+    <li>MSINFO</li>
+  </ul>
+  <h3>Section D: Using Server Manager</h3>
+  <ul>
+    <li>Server Manager</li>
+    <li>Adding Server Roles</li>
+    <li>Managing Roles</li>
+    <li>Adding Server Features</li>
+    <li>Admin Tools</li>
+    <li>Adding Users</li>
+    <li>Modifying User Accounts</li>
+    <li>Adding Groups</li>
+  </ul>
+  <h3>Section E: Using Event Viewer</h3>
+  <ul>
+    <li>Event Viewer</li>
+    <li>Viewing Events</li>
+    <li>Filtering Events</li>
+    <li>Custom Views</li>
+    <li>Assigning Tasks to Events</li>
+    <li>Event Subscription</li>
+    <li>Event Log Settings</li>
+  </ul>
+  <h3>Section F: General System Maintenance</h3>
+  <ul>
+    <li>Managing Permissions</li>
+    <li>Effective Permissions</li>
+    <li>Quota Management</li>
+    <li>Disk Management</li>
+    <li>Shadow Copies</li>
+    <li>System Restore</li>
+  </ul>

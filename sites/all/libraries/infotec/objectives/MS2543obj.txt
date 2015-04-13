@@ -1,0 +1,11 @@
+<p> After completing this workshop, students will be able to: </p>
+<ul>
+  <li> Create a Web application. </li>
+  <li> Program a Web application. </li>
+  <li> Add and configure server controls for a Web application. </li>
+  <li> Use master pages to establish a common layout for a Web application. </li>
+  <li> Manage state data for a Web application. </li>
+  <li> Access and display data in a Web application. </li>
+  <li> Control access to a Web application. </li>
+  <li> Deploy a Web application. </li>
+</ul>

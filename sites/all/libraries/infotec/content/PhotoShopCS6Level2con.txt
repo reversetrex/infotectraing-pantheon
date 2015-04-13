@@ -1,0 +1,31 @@
+<p><strong>Lesson 1: Creating Raster Images</strong></p>
+  <ul>
+    <li><strong>Topic A: </strong>Draw with Brushes</li>
+    <li><strong>Topic B: </strong>Create Gradients</li>
+    <li><strong>Topic C: </strong>Use Tool Presets</li>
+  </ul>
+<p><strong>Lesson 2: Working with Vector Image Tools</strong></p>
+  <ul>
+    <li><strong>Topic A: </strong>Create Images with Vector Paths</li>
+    <li><strong>Topic B: </strong>Use the Shape Drawing Tools</li>
+    <li><strong>Topic C: </strong>Work with Type</li>
+    <li><strong>Topic D: </strong>Type Special Effects</li>
+  </ul>
+<p><strong>Lesson 3: Using Advanced Layer Techniques</strong></p>
+  <ul>
+    <li><strong>Topic A: </strong>Modify Images with Masks</li>
+    <li><strong>Topic B: </strong>Use Filters to Apply Special Effects</li>
+    <li><strong>Topic C: </strong>Apply Special Effects to Layers</li>
+    <li><strong>Topic D: </strong>Use Smart Objects for Nondestructive Editing</li>
+    <li><strong>Topic E: </strong>Utilize Layer Comps</li>
+  </ul>
+<p><strong>Lesson 4: Automating Tasks</strong></p>
+  <ul>
+    <li><strong>Topic A: </strong>Create and Use Actions</li>
+    <li><strong>Topic B: </strong>Batch Process Files with Photoshop and Adobe Bridge</li>
+  </ul>
+<p><strong>Lesson 5: Creating and Editing Video</strong></p>
+  <ul>
+    <li><strong>Topic A: </strong>Edit Video</li>
+    <li><strong>Topic B: </strong>Add Graphics, Titling, and Animations to Video</li>
+  </ul>

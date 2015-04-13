@@ -1,0 +1,12 @@
+<p> After completing this course, students will gain the skills to: </p>
+<ul>
+  <li> Describe the new features included with Exchange Server 2007. </li>
+  <li>Plan and implement an Exchange Server 2007 deployment or upgrade. </li>
+  <li>Administer Exchange Server 2007. </li>
+  <li>Implement client access services in Exchange Server 2007. </li>
+  <li>Manage message routing in Exchange Server 2007. </li>
+  <li>Configure messaging security for Internet e-mail in Exchange Server 2007 </li>
+  <li>Implement messaging policies in Exchange Server 2007. </li>
+  <li>Implement high availability and disaster recovery in Exchange Server 2007 </li>
+  <li>Implement high availability and disaster recovery in Exchange Server 2007 </li>
+</ul>

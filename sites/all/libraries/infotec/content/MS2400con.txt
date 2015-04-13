@@ -1,0 +1,104 @@
+<p><strong> Unit 1: Installing and Upgrading to Exchange Server 2003 </strong></p>
+<ul>
+  <li> Installing Exchange Server 2003 </li>
+  <li> Installing Exchange Server 2003 in a Clustered Environment </li>
+  <li> Installing and Using Exchange Management Tools and Utilities </li>
+  <li> Upgrading from Exchange 2000 Server to Exchange Server 2003 </li>
+  <li> Discussion: Installing and Upgrading to Exchange Server 2003 </li>
+</ul>
+<p><strong> Unit 2: Configuring and Managing Exchange Server 2003 </strong></p>
+<ul>
+  <li> Creating and Applying Exchange Policies </li>
+  <li> Configuring Exchange Server 2003 for Proactive Management </li>
+  <li> Adding, Removing, and Updating Exchange Servers </li>
+  <li> Managing Exchange Server 2003 in a Mixed Environment </li>
+  <li> Discussion: Configuring and Managing Exchange Server 2003 </li>
+</ul>
+<p><strong> Unit 3: Securing Exchange Server 2003 </strong></p>
+<ul>
+  <li> Preparing for and Protecting Against Viruses </li>
+  <li> Securing Mailboxes </li>
+  <li> Implementing Digital Signature and Encryption Capabilities </li>
+  <li> Configuring Firewalls </li>
+  <li> Configuring Administrative Permissions </li>
+  <li> Allowing Only Required Services to Run on Exchange Server 2003 </li>
+  <li> Discussion: Securing Exchange Server 2003 </li>
+</ul>
+<p><strong> Unit 4: Managing Recipients </strong></p>
+<ul>
+  <li> Introduction to Exchange Recipients </li>
+  <li> Creating, Deleting, and Modifying Users and Contacts </li>
+  <li> Managing Mailboxes </li>
+  <li> Managing Mail-Enabled Groups </li>
+  <li> Discussion: Managing Recipients </li>
+</ul>
+<p><strong> Unit 5: Managing Public Folders </strong></p>
+<ul>
+  <li> Managing Public Folder Data </li>
+  <li> Managing Network Access to Public Folders </li>
+  <li> Publishing An Outlook 11 Form </li>
+  <li> Discussion: Managing Public Folders </li>
+</ul>
+<p><strong> Unit 6: Managing Address Lists </strong></p>
+<ul>
+  <li> Introduction to Address Lists </li>
+  <li> Managing and Customizing Address Lists </li>
+  <li> Discussion: Managing Address Lists </li>
+</ul>
+<p><strong> Unit 7: Implementing and Managing Client Access with Internet Protocols </strong></p>
+<ul>
+  <li> Introduction to Internet Client Access Protocols </li>
+  <li> Implementing a Front-End and Back-End Server Topology </li>
+  <li> Implementing and Managing Outlook Web Access </li>
+  <li> Discussion: Implementing and Managing Client Access with Internet Protocols </li>
+</ul>
+<p><strong> Unit 8: Managing Client Configuration and Connectivity </strong></p>
+<ul>
+  <li> Configuring and Customizing Outlook 2003 </li>
+  <li> Performing Calendaring Tasks in Outlook 2003 </li>
+  <li> Installing and Configuring Outlook Express </li>
+  <li> Discussion: Managing Client Configuration and Connectivity </li>
+</ul>
+<p><strong> Unit 9: Managing Routing </strong></p>
+<ul>
+  <li> Explaining How Message Routing Works in an Exchange Organization </li>
+  <li> Configuring Routing in an Exchange Organization </li>
+  <li> Explaining Internet Connectivity Concepts and Protocols </li>
+  <li> Managing Connectivity to the Internet </li>
+  <li> Discussion: Managing Routing </li>
+</ul>
+<p><strong> Unit 10: Managing Mobile Devices with Exchange Server 2003 </strong></p>
+<ul>
+  <li> Managing Mobility Components </li>
+  <li> Provisioning Users for Mobile Access </li>
+  <li> Discussion: Managing Mobile Devices with Exchange Server 2003 </li>
+</ul>
+<p><strong> Unit 11: Managing Data Storage and Hardware Resources </strong></p>
+<ul>
+  <li> Managing Data Storage </li>
+  <li> Managing Disk Space </li>
+  <li> Managing Hardware Upgrades </li>
+  <li> Discussion: Managing Data Storage and Hardware Resources </li>
+</ul>
+<p><strong> Unit 12: Planning for and Recovering from Disasters </strong></p>
+<ul>
+  <li> Planning for Disaster Recovery </li>
+  <li> Backing Up Exchange Server 2003 </li>
+  <li> Restoring Exchange Server 2003 Stores </li>
+  <li> Restoring Exchange Server 2003 Servers </li>
+  <li> Discussion: Planning for and Recovering from Disasters </li>
+</ul>
+<p><strong> Unit 13: Performing Preventive Maintenance </strong></p>
+<ul>
+  <li> Performing Daily Exchange Maintenance </li>
+  <li> Performing Scheduled Exchange Maintenance </li>
+  <li> Performing On-Demand Exchange Maintenance </li>
+  <li> Discussion: Performing Preventive Maintenance </li>
+</ul>
+<p><strong> Unit 14: Migrating Users from Exchange Server 5.5 to Exchange Server 2003 </strong></p>
+<ul>
+  <li> Populating Active Directory with Windows NT 4.0 User and Group Accounts </li>
+  <li> Connecting the Exchange 5.5 Directory to Active Directory </li>
+  <li> Moving Mailbox and Public Folder Contents into an Exchange Server 2003 Organization </li>
+  <li> Discussion: Migrating Users from Exchange Server 5.5 to Exchange Server 2003 </li>
+</ul>

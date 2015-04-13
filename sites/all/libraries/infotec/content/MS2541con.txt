@@ -1,0 +1,69 @@
+<p><strong> Unit 1: Connecting to Databases and Reading Data <br>
+</strong>This unit introduces the fundamental skills required to connect to a database and read data from the database. It describes how to use ADO.NET data providers to connect to various different kinds of databases, and how to execute a query that returns a scalar value from the database. It also describes how to use connection pooling to achieve scalability, and how to handle connection events and exceptions. </p>
+<p> Units </p>
+<ul>
+  <li> What Is ADO.NET? </li>
+  <li> The Process for Connecting to a Database and Reading Data </li>
+  <li> What Is Connection Pooling? </li>
+</ul>
+<p><strong> Unit 2: Querying and Updating Databases by Using Commands <br>
+</strong>This unit describes how to create and run commands that return a scalar value, return a result set, update data in the database, or update the schema of the database. It also describes how to create and run parameterized commands. </p>
+<p> Units </p>
+<ul>
+  <li> ADO.NET Commands </li>
+  <li> The Process for Passing Parameters into Commands </li>
+  <li> After completing this unit, students will be able to: </li>
+  <li> List the different types of ADO.NET commands. </li>
+  <li> Explain the process for creating and executing parameterized commands. </li>
+  <li> Create and run query commands. </li>
+  <li> Create and run parameterized commands. </li>
+  <li> Create and run update commands. </li>
+</ul>
+<p><strong> Unit 3: Performing Transactional Operations <br>
+</strong>This unit describes how to manage transactions in a .NET application at the middle tier. It describes how to write ADO.NET code to start, commit, and rollback local transactions. It also describes how to specify an appropriate isolation level for a transaction, and how to enlist in distributed transactions. </p>
+<p> Units </p>
+<ul>
+  <li> What Is a Transaction? </li>
+  <li> The Process for Managing Local Transactions </li>
+  <li> The Process for Managing Distributed Transactions </li>
+  <li> Isolation Levels </li>
+</ul>
+<p><strong> Unit 4: Performing Disconnected Operations Programmatically <br>
+</strong>This unit describes how to create and use DataSets programmatically. It describes how to create DataSet, DataTable, and DataColumn objects, how to populate a DataSet manually, and how to load and save data by using a DataAdapter. It also describes how to create in-memory views on data by using a DataView. </p>
+<p> Units </p>
+<ul>
+  <li> What Is the ADO.NET Disconnected Model? </li>
+  <li> The Process for Loading and Saving Data in a DataSet </li>
+  <li> What Are DataViews? </li>
+</ul>
+<p><strong> Unit 5: Performing Disconnected Operations by Using Visual Studio 2005 Wizards <br>
+</strong>This unit describes how to create typed DataSets, DataAdapters, and TableAdapters by using the TableAdapter Configuration Wizard and the Data Source Configuration Wizard in Visual Studio 2005. It also describes how to write type-safe code to access data in a typed DataSet. </p>
+<p> Units </p>
+<ul>
+  <li> Comparing Untyped DataSets with Typed DataSets </li>
+  <li> What Are Table Adapters? </li>
+  <li> Demonstration: Creating a Typed DataSet by Using Visual Studio 2005 Wizards </li>
+</ul>
+<p><strong> Unit 6: Performing XML Operations on Disconnected Data <br>
+</strong>This unit describes how to read and write DataSets in XML format. It describes how to read and write data only, schema only, or a combination of the two. It also describes how to read and write a DataSet as a DiffGram, so that modifications to the data can be retained when the DataSet is serialized to XML format. </p>
+<p> Units </p>
+<ul>
+  <li> XML Representations of DataSets </li>
+  <li> What Are DiffGrams? </li>
+  <li> Save and load DataSet schema information. </li>
+</ul>
+<p><strong> Unit 7: Reading and Writing XML Data <br>
+</strong>This unit describes how to use the XmlReader and XmlWriter classes to serially read and write XML data. It describes how to read elements, attributes, and text content in an XML document, and perform validation against an XML schema. It also describes how to create an XML document and write elements, attributes, namespace declarations, and text content. </p>
+<p> Units </p>
+<ul>
+  <li> The Process for Serially Reading XML Data </li>
+  <li> The Process for Serially Writing XML Data </li>
+</ul>
+<p><strong> Unit 8: Processing XML Data by Using DOM <br>
+</strong>This unit describes how to process XML data in memory by using the Document Object Model (DOM). It describes how to load an XML document into a DOM tree, and validate the XML document against an XML schema. It also describes how to read existing XML content, modify XML content, and save the DOM tree to an XML document. </p>
+<p> Units </p>
+<ul>
+  <li> What Is DOM? </li>
+  <li> What Are DOM Trees? </li>
+  <li> Types of XML Nodes in a DOM Tree </li>
+</ul>

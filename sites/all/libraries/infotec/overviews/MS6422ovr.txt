@@ -1,0 +1,1 @@
+This three-day instructor-led course teaches students how to implement and manage Windows Server 2008 Hyper-V. It also teaches students how to manage Hyper-V with Solution Center Virtual Machine Manager (VMM) and with PowerShell.

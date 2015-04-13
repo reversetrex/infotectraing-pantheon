@@ -1,0 +1,115 @@
+<h2>Session 1</h2>
+  <h3>Section A: General Software Development</h3>
+  <ul>
+    <li>Application Life Cycle</li>
+    <li>Understand User Requirements</li>
+    <li>Algorithm Defined</li>
+    <li>Payroll Algorithm Activity</li>
+    <li>Sorting Algorithms</li>
+    <li>ACTIVITY #1</li>
+  </ul>
+  <h3>Section B: Computer Storage and Data Types</h3>
+  <ul>
+    <li>Data Types</li>
+    <li>Primitive Data Types</li>
+    <li>Data Type Examples</li>
+    <li>Code Example: Using Data Types</li>
+    <li>Data Type Storage Considerations</li>
+    <li>Understanding Numbering Systems</li>
+    <li>Units of Binary Storage</li>
+    <li>Common Pitfalls</li>
+    <li>Understanding the Machine Code Process</li>
+    <li>ACTIVITY #2</li>
+  </ul>
+  <h3>Section C: Other Data Structures</h3>
+  <ul>
+    <li>Arrays</li>
+    <li>Parallel Arrays</li>
+    <li>Multidimensional Arrays</li>
+    <li>Stacks, Queues, and Linked Lists</li>
+    <li>General Array Information</li>
+    <li>Code Example: Linked List</li>
+    <li>ACTIVITY #3</li>
+  </ul>
+  <h3>Section D: Flow Control, Repetition, Error Handling</h3>
+  <ul>
+    <li>Boolean Expressions</li>
+    <li>Flowcharting</li>
+    <li>Switch Statements</li>
+    <li>Truth Tables</li>
+    <li>Types of Repetition</li>
+    <li>Recursion</li>
+    <li>Loops</li>
+    <li>Error Handling</li>
+    <li>Types of Errors</li>
+    <li>Code Example: TryCatch</li>
+    <li>ACTIVITY #4</li>
+  </ul>
+  <h3>Section E: Understanding Classes and Objects</h3>
+  <ul>
+    <li>Class Defined</li>
+    <li>Class Declaration</li>
+    <li>Code Example: Defining a Class</li>
+    <li>Methods</li>
+    <li>Methods and Parameters</li>
+    <li>Method Overloading</li>
+    <li>Code Example: Passing Parameters</li>
+    <li>Code Example: Method Overloading</li>
+    <li>Support Methods</li>
+    <li>Visibility Modifiers</li>
+    <li>Aliases</li>
+    <li>Creating New Objects</li>
+    <li>Comparing Objects</li>
+    <li>The Dot Operator</li>
+    <li>Wrapper Classes</li>
+    <li>Static Classes and Variables</li>
+    <li>ACTIVITY #5</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Inheritance, Polymorphism, Encapsulation</h3>
+  <ul>
+    <li>Inheritance Defined</li>
+    <li>Polymorphism Defined</li>
+    <li>Polymorphism vs. Overloading</li>
+    <li>Encapsulation Defined</li>
+    <li>Activity #6</li>
+  </ul>
+  <h3>Section B: Web Application Development</h3>
+  <ul>
+    <li>Understanding Web Page Development</li>
+    <li>Microsoft ASP.NET Web App Development</li>
+    <li>State Management</li>
+    <li>Client/Server-Side Programming</li>
+    <li>Web Hosting Defined and ISS</li>
+    <li>Web Services Defined</li>
+    <li>Code Example: HTML/CSS</li>
+    <li>Code Example: JavaScript</li>
+    <li>Activity #7</li>
+  </ul>
+  <h3>Section C: Desktop Application Development</h3>
+  <ul>
+    <li>Windows Forms Applications</li>
+    <li>Console Applications/Event Handlers</li>
+    <li>Windows Services</li>
+    <li>Code Example: Windows Forms App</li>
+    <li>Code Example: Console App</li>
+    <li>MDI vs. SDI Applications</li>
+    <li>Code Example: Windows Service</li>
+    <li>ACTIVTY #8</li>
+  </ul>
+  <h3>Section D: Working with Databases</h3>
+  <ul>
+    <li>Relational Database Management Systems</li>
+    <li>Tables</li>
+    <li>Enforcing Referential Integrity</li>
+    <li>Entity Relationship Diagrams</li>
+    <li>Normalization</li>
+    <li>Accessing Data using Queries</li>
+    <li>SQL Stored Procedures</li>
+    <li>Database Connection Methods</li>
+    <li>Accessing Data using XML</li>
+    <li>Accessing Data In-Memory</li>
+    <li>Resource Optimization</li>
+    <li>Code Example: Reading Flat File Data</li>
+    <li>Code Example: Reading DB Data</li>
+  </ul>

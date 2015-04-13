@@ -1,0 +1,73 @@
+<p><strong>Lesson 1: Managing Lists</strong></p>
+<ul>
+  <li>Sort a List</li>
+  <li>Restart a List</li>
+  <li>Create an Outline Numbered List</li>
+  <li>Customize List Appearance</li>
+</ul>
+<p><strong>Lesson 2: Customizing Tables and Charts</strong></p>
+<ul>
+  <li>Sort a Table</li>
+  <li>Modify Table Structure</li>
+  <li>Merge or Split Cells</li>
+  <li>Position Text in a Table Cell</li>
+  <li>Apply Borders and Shading</li>
+  <li>Perform Calculations in a Table</li>
+  <li>Create a Chart from a Word Table</li>
+  <li>Modify a Chart</li>
+</ul>
+<p><strong>Lesson 3: Customizing Formatting</strong></p>
+<ul>
+  <li>Modify Character Spacing</li>
+  <li>Add Text Effects</li>
+  <li>Control Paragraph Flow</li>
+</ul>
+<p><strong>Lesson 4: Working with Custom Styles</strong></p>
+<ul>
+  <li>Create a Character or Paragraph Style</li>
+  <li>Modify an Existing Style</li>
+  <li>Create a List Style</li>
+  <li>Create a Table Style</li>
+</ul>
+<p><strong>Lesson 5: Modifying Pictures</strong></p>
+<ul>
+  <li>Set Picture Contrast or Brightness</li>
+  <li>Crop a Picture</li>
+  <li>Wrap Text Around a Picture</li>
+</ul>
+<p><strong>Lesson 6: Creating Customized Graphic Elements</strong></p>
+<ul>
+  <li>Draw Shapes and Lines</li>
+  <li>Insert WordArt</li>
+  <li>Insert Text Boxes</li>
+  <li>Create Diagrams</li>
+</ul>
+<p><strong>Lesson 7: Controlling Text Flow</strong></p>
+<ul>
+  <li>Insert Section Breaks</li>
+  <li>Insert Columns</li>
+  <li>Link Text Boxes</li>
+</ul>
+<p><strong>Lesson 8: Automating Common Tasks</strong></p>
+<ul>
+  <li>Run a Macro</li>
+  <li>Create a Macro</li>
+  <li>Modify a Macro</li>
+  <li>Customize Toolbars and Buttons</li>
+  <li>Add Menu Items</li>
+</ul>
+<p><strong>Lesson 9: Automating Document Creation</strong></p>
+<ul>
+  <li>Create a Document Based on a Template</li>
+  <li>Create a Document by Using a Wizard</li>
+  <li>Create or Modify a Template</li>
+  <li>Change the Default Template Location</li>
+  <li>Insert a Macro Button Field in a Template</li>
+</ul>
+<p><strong>Lesson 10: Performing Mail Merges</strong></p>
+<ul>
+  <li>The Mail Merge Process</li>
+  <li>Perform a Merge on Existing Documents</li>
+  <li>Merge Envelopes and Labels</li>
+  <li>Use Word to Create a Data Source</li>
+</ul>

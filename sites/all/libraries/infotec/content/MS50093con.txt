@@ -1,0 +1,17 @@
+<p><strong>Module 1: Course Overview</strong> - This module provides an overview of the Forefront Client Security components and architecture. It describes what to expect from the product, and what modules will be covered on what days.</p>
+
+<p><strong>Module 2: Forefront Client Security Server Roles and  Topologies</strong> - This module explains the various roles involved on the server side of a Forefront Client Security infrastructure, as well as how they relate to each other in the various  possible topologies.</p>
+
+<p><strong>Module 3: Forefront Client Security Client</strong> - This module explains the Forefront Client Security client setup configuration and deployment.</p>
+
+<p><strong>Module 4: Forefront Client Security Management</strong> - This module explains Forefront Client Security management.</p>
+
+<p><strong>Module 5: Forefront Client Security Reporting and Alerting</strong> - This module explains Forefront Client Security Reporting and Alerting.</p>
+
+<p><strong>Module 6: Security State Assessment</strong> - This module explains security state assessment.</p>
+
+<p><strong>Module 7: Submitting Malware to Microsoft for Analysis</strong> - This module explains malware submission.</p>
+
+<p><strong>Module 8: Closing</strong> - This module provides a review of the Forefront Client Security course, and a list of Web sites that provide  additional information on Forefront Client Security.</p>
+
+<p><strong>Module 9: Appendices</strong></p>

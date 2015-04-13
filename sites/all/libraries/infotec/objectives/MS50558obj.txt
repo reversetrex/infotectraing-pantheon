@@ -1,0 +1,30 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Understand Project Server terminology and core system components</li>
+    <li>Describe the project communication life cycle used with Project Server</li>
+    <li>Understand the administration interface in Project Web App</li>
+    <li>Create a Project Server login account in Project Professional 2010</li>
+    <li>Configure custom enterprise fields, Lookup Tables, and calendars</li>
+    <li>Configure the Project Server demand and lifecycle management features</li>
+    <li>Add resources to the Enterprise Resource Pool</li>
+    <li>Specify the initial configuration options for Project Server</li>
+    <li>Configure time and task tracking settings</li>
+    <li>Configure Project Server security using Groups and Categories</li>
+    <li>Import enterprise templates and existing projects into Project Server</li>
+    <li>Build OLAP Cube and resource availability information</li>
+    <li>Create custom views in both Project Web App and Project Professional 2010</li>
+    <li>Manage Microsoft SharePoint Server and Project Sites</li>
+    <li>Modify Project Web App pages and create new Project Site templates</li>
+    <li>Configure Business Intelligence features and build custom Excel-based reports and interactive dashboards</li>
+    <li>Manage the Project Server database</li>
+    <li>Understand the Project Server technology stack and installation types</li>
+    <li>Understand hardware and software requirements</li>
+    <li>Install SharePoint Server 2010 and Project Server 2010</li>
+    <li>Configure necessary SharePoint farm components for Project Server</li>
+    <li>Create instances of Project Web App</li>
+    <li>Configure SQL Server Analysis Services for OLAP functionality</li>
+    <li>Understand the process of migrating data from Project Server 2007</li>
+    <li>Perform Project Server monitoring and troubleshooting</li>
+    <li>Perform common SharePoint administrative tasks</li>
+    <li>Pass the 70-177 MCTS exam</li>
+</ul>

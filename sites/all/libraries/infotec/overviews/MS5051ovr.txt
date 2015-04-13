@@ -1,0 +1,1 @@
+This two-day workshop teaches messaging specialists to monitor and troubleshoot an Exchange Server 2007 messaging system. Students will learn how to correlate client and server issues and resolve those issues. They will also learn how to monitor systems and create reports from the monitoring data.

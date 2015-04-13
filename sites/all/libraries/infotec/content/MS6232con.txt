@@ -1,0 +1,21 @@
+<p><strong>Module 1: Creating Databases and  Database Files</strong> - The students will learn one of the  most fundamental tasks that a database developer must perform, the creation of  a database and its major components, such as creating databases, setting  database options, creating filegroups, schemas, and database snapshots.</p>
+
+<p><strong>Module 2: Creating Data Types and  Tables</strong> - The students will learn about the  system-supplied data types in SQL Server 2008. They will learn how to define  custom Transact-SQL data types and how to create tables and how to use  partitioned tables to organize data into multiple partitions.</p>
+
+<p><strong>Module 3: Creating and Tuning  Indexes</strong> - The students will learn how to plan, create, and optimize indexes to attain optimal performance benefits.</p>
+
+<p><strong>Module 4: Implementing Data Integrity by Using Constraints and Triggers</strong> - The students will learn about implementing data integrity in SQL Server 2008 by using constraints. They will also implement data integrity by using triggers.</p>
+
+<p><strong>Module 5: Using XML</strong> - The students will learn how to work  with XML, including use of the FOR XML clause, the OPENXML function, XQuery  expressions, and the xml native data type. They will learn the considerations  to be taken into account when creating XML indexes and the syntax used to  create the XML indexes. They will also learn what XML schemas and XML schema  collections are as well as how to use them to implement typed XML data.</p>
+
+<p><strong>Module 6: Implementing Views</strong> - The students will be introduced to  the different types of views available in Microsoft SQL Server 2008 which  provide a convenient way to access data through a predefined query.</p>
+
+<p><strong>Module 7: Implementing Stored  Procedures</strong> - The students will learn the design  and implementation of stored procedures to enforce business rules or data  consistency, or to modify and maintain existing stored procedures written by other developers.</p>
+
+<p><strong>Module 8: Implementing Functions</strong> - The students will learn the design  and implementation of user-defined functions that enforce business rules or data consistency, or to modify and maintain existing functions written by other developers.</p>
+
+<p><strong>Module 9: Implementing Managed  Code in the Database</strong> - The students will learn to use  managed code to implement database objects, such as stored procedures, user-defined data types, user-defined functions, and triggers.</p>
+
+<p><strong>Module 10: Managing Transactions  and Locks</strong> - The students will learn to use  transactions and SQL Server locking mechanisms to meet the performance and data  integrity requirements of their applications.</p>
+
+<p><strong>Module 11: Using Service Broker</strong> - The  students will learn to use Service Broker to create secure, reliable, and  scalable applications.</p>

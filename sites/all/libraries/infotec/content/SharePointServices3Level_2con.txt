@@ -1,0 +1,91 @@
+<p><strong>Lesson 1: Managing  Site Collections</strong></p>
+<ul>
+  <li> Topic 1A: Create a  Site Collection </li>
+  <li> Topic 1B: Brand a  Site Collection</li>
+  <li> Topic 1C: Manage a  Web Part Gallery</li>
+</ul>
+
+<p><strong>Lesson 2: Managing  Lists</strong></p>
+<ul>
+  <li> Topic 2A: Create a Custom  List</li>
+  <li> Topic 2B: Customize  List Settings</li>
+  <li> Topic 2C: Create a  Project Task List</li>
+</ul>
+
+<p><strong>Lesson 3: Managing  Discussion Boards</strong></p>
+<ul>
+  <li> Topic 3A: Create a  Discussion Board</li>
+  <li> Topic 3B: Customize  Existing Discussion Boards</li>
+  <li> Topic 3C: Set Email  Feedback to Discussion Boards</li>
+</ul>
+
+<p><strong>Lesson 4: Managing  Document Libraries</strong></p>
+<ul>
+  <li> Topic 4A: Create a  Document Library</li>
+  <li> Topic 4B: Create  Library Templates</li>
+  <li> Topic 4C: Monitor  Library Usage</li>
+  <li> Topic 4D: Organize  Documents in a Library</li>
+  <li> Topic 4E: Apply  Document Versioning</li>
+  <li> Topic 4F: Share  Documents</li>
+</ul>
+
+<p><strong>Lesson 5: Managing  Form Libraries</strong></p>
+<ul>
+  <li> Topic 5A: Create a  Form Library</li>
+  <li> Topic 5B: Modify Form  Libraries</li>
+  <li> Topic 5C: Customize  Form Templates Using InfoPath</li>
+  <li> Topic 5D: Add Forms  to a Form Library</li>
+</ul>
+
+<p><strong>Lesson 6: Managing  Site Access Permission</strong></p>
+<ul>
+  <li> Topic 6A: Assign  Group Permissions</li>
+  <li> Topic 6B: Manage User  Permissions</li>
+  <li> Topic 6C: Identify  Authentication Modes</li>
+  <li> Topic 6D: Set Site  Level Security</li>
+</ul>
+
+<p><strong>Lesson 7: Managing  WSS Content</strong></p>
+<ul>
+  <li> Topic 7A: Create a  Content Type</li>
+  <li> Topic 7B: Apply  Content Types in a List</li>
+  <li> Topic 7C: Use  Formulas and Functions</li>
+</ul>
+
+<p><strong>Lesson 8: Managing  Workflows</strong></p>
+<ul>
+  <li> Topic 8A: Add a  Workflow</li>
+  <li> Topic 8B: Run a  Workflow</li>
+</ul>
+
+<p><strong>Lesson 9: Working  With Indexing and Searching</strong></p>
+<ul>
+  <li> Topic 9A: Index List  Content</li>
+  <li> Topic 9B: Enable  Search Options</li>
+</ul>
+
+<p><strong>Lesson 10: Using  Central Administration</strong></p>
+<ul>
+  <li> Topic 10A: Use  Central Administration</li>
+  <li> Topic 10B: Add  Administrative Tasks</li>
+</ul>
+
+<p><strong>Lesson 11: Managing  Security Options in WSS</strong></p>
+<ul>
+  <li> Topic 11A: Set Web  Part Security</li>
+  <li> Topic 11B: Set  Antivirus Options</li>
+  <li> Topic 11C: Manage  Blocked File Types</li>
+</ul>
+
+<p><strong>Lesson 12: Managing  Site Usage</strong></p>
+<ul>
+  <li> Topic 12A: Set Site  Collection Quotas and Locks</li>
+  <li> Topic 12B: Monitor  Site Usage</li>
+</ul>
+
+<p><strong>Lesson 13: Managing  Site Maintenance</strong></p>
+<ul>
+  <li> Topic 13A: Recover  Lost Information</li>
+  <li> Topic 13B: Perform a  Backup</li>
+  <li>Topic  13C: Restore a Backup</li>
+</ul>

@@ -1,0 +1,9 @@
+This three-day   instructor-led course provides students with the knowledge and skills plan and   manage projects using Microsoft Project 2010.  The course focuses on preparing the user to pass Microsoft Exam 70-178 Managing Projects Using Microsoft Project 2010. This course is eligible for SATV’s.<br /><br />
+
+To get the most from any project management software, the user must understand the project management techniques   upon which the software is based. This course presents the most popular project management software in the context of how a project manager will use it. Participants in this course learn the functions of the software and the project management concepts which make the software effective.<br /><br />
+
+This presentation begins with the basic concepts and leads participants through all the functions they’ll need to plan and manage a small to medium-sized project, including how to level resources and capture both cost and schedule progress.<br /><br />
+
+The course uses a combination of learning methods in teaching this course. It takes the approach of we will discuss what we are going to show the student, demonstrate to the student and have the student perform an exercise or follow the steps of the instructor in learning a new concept or feature. This course is lectured based coupled with click-alongs and labs to complete. Our goal is to maximize the time students have their fingers on the keyboard. To do this, we have traditional exercises within nearly every lesson, and “Click Along” demonstrations.  Each Click-Along is indicated with a special icon in the margin of the student manual. Students should be able to follow the instructor through these demonstrations.<br /><br />
+
+The labs will be noted in the syllabus as exercises to follow the nomenclature that is being used in the student manual.

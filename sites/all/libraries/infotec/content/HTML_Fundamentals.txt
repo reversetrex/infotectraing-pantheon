@@ -1,0 +1,121 @@
+<h2>Session 1</h2>
+  <h3>Section A: Getting Started</h3>
+  <ul>
+    <li>Internet 101</li>
+    <li>About HTML</li>
+    <li>What is XHTML?</li>
+  </ul>
+  <h3>Section B: HTML Fundamentals</h3>
+  <ul>
+    <li>Basic Components of HTML</li>
+    <li>Nested Tags</li>
+    <li>Key HTML Tags</li>
+    <li>Doctype Tags</li>
+    <li>HTML, Head, and Title Tags</li>
+    <li>Meta and Body Tags</li>
+    <li>Creating HTML Code in Notepad</li>
+    <li>Viewing in a Browser</li>
+  </ul>
+  <h3>Section C: Formatting Text</h3>
+  <ul>
+    <li>Importance of Formatting</li>
+    <li>Paragraphs and Alignment</li>
+    <li>Bolded Text</li>
+    <li>Italicized Text</li>
+    <li>HTML Headings</li>
+    <li>Ordered List Tags and Attributes</li>
+    <li>Unordered List Tags and Attributes</li>
+    <li>Nested Lists</li>
+    <li>Typography Basics</li>
+    <li>Font Tags</li>
+    <li>Font Attributes</li>
+  </ul>
+  <h3>Section D: Images and Color</h3>
+  <ul>
+    <li>Web Image Formats</li>
+    <li>Image Tags and Attributes</li>
+    <li>Background Images and Color</li>
+    <li>RGB Color</li>
+    <li>HTML Color</li>
+    <li>Hexadecimal Color</li>
+    <li>Web-Safe Color</li>
+    <li>Color Attribute</li>
+  </ul>
+  <h3>Section E: Links</h3>
+  <ul>
+    <li>How Links Work</li>
+    <li>Anchor Tag and HREF Attribute</li>
+    <li>Absolute vs. Relative Links</li>
+    <li>Border Attribute</li>
+    <li>Image Maps</li>
+    <li>E-mail Links</li>
+    <li>Named Anchors</li>
+  </ul>
+  <h3>Section F: Tables</h3>
+  <ul>
+    <li>Table Tags</li>
+    <li>Table Attributes</li>
+    <li>Row Attributes</li>
+    <li>Cell Attributes</li>
+    <li>Merging Rows and Columns</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Frames</h3>
+  <ul>
+    <li>Pros and Cons</li>
+    <li>What Are Frames?</li>
+    <li>Creating Framesets</li>
+    <li>Frameset Attributes</li>
+    <li>Frameset Examples</li>
+    <li>Frame Tag and Attributes</li>
+    <li>Target Attributes</li>
+    <li>Noframes Tag</li>
+  </ul>
+  <h3>Section B: Cascading Style Sheets</h3>
+  <ul>
+    <li>CSS 101</li>
+    <li>Tag Selectors</li>
+    <li>Class Selectors</li>
+    <li>Pseudo-Class Selectors</li>
+    <li>External Style</li>
+    <li>Embedded Style</li>
+    <li>Inline Style</li>
+  </ul>
+  <h3>Section C: CSS Text Formatting</h3>
+  <ul>
+    <li>Text Formatting Properties</li>
+    <li>Font Family Property</li>
+    <li>Font Size Property</li>
+    <li>Font Color Property</li>
+    <li>Font Weight Property</li>
+    <li>Font Style Property</li>
+    <li>Line Height Property</li>
+    <li>Text Formatting Examples</li>
+  </ul>
+  <h3>Section D: CSS Layout Attributes</h3>
+  <ul>
+    <li>Margin Properties</li>
+    <li>Text Align Property</li>
+    <li>Position Property</li>
+    <li>Background Properties</li>
+  </ul>
+  <h3>Section E: Multimedia</h3>
+  <ul>
+    <li>What is a Plug-In?</li>
+    <li>Embedding QuickTime Movies</li>
+    <li>Embedding Flash Animation</li>
+    <li>Embedding Sound</li>
+  </ul>
+  <h3>Section F: Forms</h3>
+  <ul>
+    <li>Anatomy of a Form</li>
+    <li>Form Tag and Attributes</li>
+    <li>Text Boxes</li>
+    <li>Check Boxes</li>
+    <li>Radio Buttons</li>
+    <li>Menus</li>
+    <li>Text Areas</li>
+    <li>Web Form Example</li>
+    <li>Submit and Reset Buttons</li>
+    <li>Setting Tab Order</li>
+  </ul>

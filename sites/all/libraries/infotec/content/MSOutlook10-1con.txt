@@ -1,0 +1,64 @@
+<p><strong>Lesson 1: Getting Started with Outlook</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Identify the Components of the Outlook Interface<br />
+    <strong>Topic 1B: </strong>Read an Email Message<br />
+    <strong>Topic 1C: </strong>Reply to and Forward an Email Message<br />
+    <strong>Topic 1D: </strong>Print an Email Message<br />
+    <strong>Topic 1E: </strong>Delete an Email Message<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Composing Messages</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Create an Email Message<br />
+    <strong>Topic 2B: </strong>Format a Message<br />
+    <strong>Topic 2C: </strong>Check Spelling and Grammar<br />
+    <strong>Topic 2D: </strong>Attach a File<br />
+    <strong>Topic 2E: </strong>Enhance an Email Message<br />
+    <strong>Topic 2F: </strong>Send an Email Message<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Organizing Messages</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Manage Email Messages<br />
+    <strong>Topic 3B: </strong>Move Email Messages into Folders<br />
+    <strong>Topic 3C: </strong>Open and Save an Attachment<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Managing Contacts</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Add a Contact<br />
+    <strong>Topic 4B: </strong>Sort and Find Contacts<br />
+    <strong>Topic 4C: </strong>Find the Geographical Location of a Contact<br />
+    <strong>Topic 4D: </strong>Update Contacts<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Scheduling Appointments</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Explore the Outlook Calendar<br />
+    <strong>Topic 5B: </strong>Schedule an Appointment<br />
+    <strong>Topic 5C: </strong>Edit Appointments<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Managing Meetings in Outlook </strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 6A: </strong>Schedule a Meeting<br />
+    <strong>Topic 6B: </strong>Reply to a Meeting Request<br />
+    <strong>Topic 6C: </strong>Track and Update Scheduled Meetings<br />
+    <strong>Topic 6D: </strong>Print the Calendar<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 7: Managing Tasks and Notes </strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 7A: </strong>Create a Task<br />
+    <strong>Topic 7B: </strong>Edit and Update a Task<br />
+    <strong>Topic 7C: </strong>Create a Note<br />
+    <strong>Topic 7D: </strong>Edit a Note<br />
+  </p>
+</blockquote>

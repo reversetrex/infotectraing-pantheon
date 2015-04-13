@@ -1,0 +1,57 @@
+<p><strong>Automate installation with Kickstart</strong></p>
+<ul>
+  <li> Automate the installation of Red Hat Enterprise Linux systems with Kickstart. </li>
+</ul>
+<p><strong>Use regular expressions with grep</strong></p>
+<ul>
+  <li> Write regular expressions that, when partnered with grep, will allow you to quickly isolate or locate content within text files. </li>
+</ul>
+<p><strong>Create and Edit text files with vim</strong></p>
+<ul>
+  <li> Introduce the vim text editor, with which you can open, edit, and save text files.</li>
+</ul>
+<p><strong>Schedule future Linux tasks</strong></p>
+<ul>
+  <li> Schedule tasks to automatically execute in the future. </li>
+</ul>
+<p><strong>Manage priority of Linux processes</strong></p>
+<ul>
+  <li> Influence the relative priorities at which Linux processes run. </li>
+</ul>
+<p><strong>Control access to files with access control lists (ACL)</strong></p>
+<ul>
+  <li> Manage file security using POSIX access control lists. </li>
+</ul>
+<p><strong>Manage SELinux security</strong></p>
+<ul>
+  <li> Manage the Security Enhanced Linux (SELinux) behavior of a system to keep it secure in case of a network service compromise.</li>
+</ul>
+<p><strong>Connect to network-defined users and groups</strong></p>
+<ul>
+  <li> Configure systems to use central identity management services.</li>
+</ul>
+<p><strong>Add disks, partitions, and file systems to a Linux system</strong></p>
+<ul>
+  <li> Manage simple partitions and file systems.</li>
+</ul>
+<p><strong>Manage logical volume management (LVM) storage</strong></p>
+<ul>
+  <li> Manage logical volumes from the command line.</li>
+</ul>
+<p><strong>Access networked attached storage with network file system (NFS)</strong></p>
+<ul>
+  <li> Access (secure) NFS shares.</li>
+</ul>
+<p><strong>Access networked storage with SMB</strong></p>
+<ul>
+  <li> Use autofs and the command line to mount and unmount SMB file systems.</li>
+</ul>
+<p><strong>Control and troubleshoot the Red Hat Enterprise Linux boot process</strong></p>
+<p><strong>Limit network communication with firewall</strong></p>
+<ul>
+  <li> Configure a basic firewall.</li>
+</ul>
+<p><strong>Comprehensive review</strong></p>
+<ul>
+  <li> Practice and demonstrate knowledge and skills learned in this course.</li>
+</ul>

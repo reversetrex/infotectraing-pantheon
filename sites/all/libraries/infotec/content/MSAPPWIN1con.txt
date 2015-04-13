@@ -1,0 +1,35 @@
+<p><strong>Lesson 1: Getting Started with Personal Computers</strong></p>
+<ul>
+  <li>Uses of Personal Computers</li>
+  <li>Types of Personal Computers</li>
+  <li>Common Computer Components</li>
+  <li>How Personal Computers Work</li>
+  <li>Start the PC</li>
+</ul>
+<p><strong>Lesson 2: Using a Personal Computer</strong></p>
+<ul>
+  <li>Log On to a PC</li>
+  <li>Explore the Desktop with the Mouse</li>
+  <li>Manipulate Open Windows</li>
+  <li>Use Help And Support</li>
+  <li>Adjust the Mouse</li>
+</ul>
+<p><strong>Lesson 3: Managing Folders and Files</strong></p>
+<ul>
+  <li>Folder and File Organization</li>
+  <li>Access the Windows Explorer</li>
+  <li>Use the Search Companion</li>
+  <li>Work with Folders</li>
+  <li>Work with Files</li>
+  <li>Create Shortcuts</li>
+  <li>Use the Recycle Bin</li>
+</ul>
+<p><strong>Lesson 4: Using Programs at the Same Time</strong></p>
+<ul>
+  <li>Create a Document in WordPad</li>
+  <li>Use the Address Book</li>
+  <li>Format Text</li>
+  <li>Use the Calculator</li>
+  <li>Customize a Logo in Paint</li>
+  <li>Turn Off the Computer</li>
+</ul>

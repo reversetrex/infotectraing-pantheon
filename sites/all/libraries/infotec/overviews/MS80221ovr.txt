@@ -1,0 +1,1 @@
+This four-day instructor-led course, Installation and Configuration in Microsoft Dynamics AX 2012, provides students with the necessary tools and resources to perform basic installation and configuration tasks in Microsoft Dynamics AX 2012.

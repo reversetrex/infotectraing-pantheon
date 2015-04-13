@@ -1,0 +1,15 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Explain different distributed application technologies </li>
+  <li> Create a remote object </li>
+  <li> Create remote objects by using configuration files </li>
+  <li> Control a remote object&rsquo;s lifetime </li>
+  <li> Implement the Factory Design pattern </li>
+  <li> Call a remote object's methods asynchronously </li>
+  <li> Host a remote object in a Windows Service </li>
+  <li> Host a remote object in IIS </li>
+  <li> Deploying a Remoting Application </li>
+  <li> Monitor an application that includes remote objects </li>
+  <li> Remotely debug a remoting application </li>
+  <li> Increase the security of access to remote objects </li>
+</ul>

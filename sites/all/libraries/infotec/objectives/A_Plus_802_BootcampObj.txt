@@ -1,0 +1,10 @@
+<p>On course  completion, students will be able to:</p>
+<ul>
+  <li>Install and configure Microsoft Windows XP, Microsoft Windows Vista, and Microsoft Windows 7.</li>
+  <li>Manage and optimize Windows using command line tools and administrative consoles.</li>
+  <li>Configure and manage users, groups, and shared resources in a typical SOHO network.</li>
+  <li>Use anti-virus tools to prevent and recover from malware infections.</li>
+  <li>Configure access control measures, such as authentication, security policy, encryption, and firewalls.</li>
+  <li>Diagnose and resolve Windows, PC hardware, network, and printer troubleshooting scenarios.</li>
+  <li>Configure mobile devices, such as smart phones and table.</li>
+</ul>

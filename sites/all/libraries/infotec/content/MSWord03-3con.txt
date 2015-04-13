@@ -1,0 +1,71 @@
+<p><strong>Lesson 1: Using Microsoft Office Word 2003 with Other Programs</strong></p>
+<ul>
+  <li>Link to a Microsoft Office Excel 2003 Worksheet</li>
+  <li>Link a Chart to Excel Data</li>
+  <li>Send a Document Outline to PowerPoint</li>
+  <li>Extract Text from a Fax</li>
+  <li>Save a Document as a Different File Format</li>
+  <li>Look Up Information Using Research Sites</li>
+  <li>Send a Document as an Email Attachment</li>
+</ul>
+<p><strong>Lesson 2: Collaborating on Documents</strong></p>
+<ul>
+  <li>Modify User Information</li>
+  <li>Create a New Version of a Document</li>
+  <li>Delete Old Versions</li>
+  <li>Send a Document for Review</li>
+  <li>Use Comments</li>
+  <li>Compare Document Changes</li>
+  <li>Merge Document Changes</li>
+  <li>Review a Document</li>
+</ul>
+<p><strong>Lesson 3: Adding Reference Marks and Notes</strong></p>
+<ul>
+  <li>Insert Bookmarks</li>
+  <li>Insert Footnotes and Endnotes</li>
+  <li>Add Captions</li>
+  <li>Insert Cross-references</li>
+</ul>
+<p><strong>Lesson 4: Making Long Documents Easier to Use</strong></p>
+<ul>
+  <li>Mark Text for Indexing</li>
+  <li>Insert an Index</li>
+  <li>Insert a Table of Figures</li>
+  <li>Mark Text for a Table of Authorities</li>
+  <li>Insert a Table of Authorities</li>
+  <li>Insert a Table of Contents</li>
+  <li>Create a Master Document</li>
+  <li>Automatically Summarize a Document</li>
+</ul>
+<p><strong>Lesson 5: Securing a Document</strong></p>
+<ul>
+  <li>Update a Document's Properties</li>
+  <li>Save a Document without Personal Information</li>
+  <li>Hide Text</li>
+  <li>Limit Formatting Choices in a Document</li>
+  <li>Select Regions of a Document that Can Be Modified</li>
+  <li>Add a Digital Signature to a Document</li>
+  <li>Require a Password to Open a Document</li>
+</ul>
+<p><strong>Lesson 6: Creating Web Pages</strong></p>
+<ul>
+  <li>Create a Web Page</li>
+  <li>Insert Hyperlinks</li>
+  <li>Insert a Movie Clip into a Web Page</li>
+  <li>Apply a Theme to a Web Page</li>
+  <li>Create a Framed Web Page</li>
+  <li>Save a Web Page to a Web Server</li>
+</ul>
+<p><strong>Lesson 7: Creating Forms</strong></p>
+<ul>
+  <li>Add Form Fields to a Document</li>
+  <li>Protect a Form</li>
+  <li>Save Form Data as Plain Text</li>
+  <li>Automate a Form</li>
+</ul>
+<p><strong>Lesson 8: Using XML in Word</strong></p>
+<ul>
+  <li>Tag an Existing Document</li>
+  <li>Save a Document as XML</li>
+  <li>Transform an XML Document</li>
+</ul>

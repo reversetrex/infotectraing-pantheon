@@ -1,0 +1,123 @@
+<p><strong>Module 1: SharePoint as a Developer Platform</strong></p>
+<blockquote>This module examines different approaches that can be used to develop applications with SharePoint Server 2013 the scenarios in which each approach might be appropriate.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Introducing the SharePoint Developer Landscape</li>
+  <li>Choosing Approaches to SharePoint Development</li>
+  <li>Understanding SharePoint 2013 Deployment and Execution Models</li>
+</ul>
+<p><strong>Module 2: Working with SharePoint Objects</strong></p>
+<blockquote>This module introduces the server-side SharePoint object model and how the core classes relate to sites and collections. The server-side SharePoint object model provides a core set of classes that represent different items in the logical architecture of a SharePoint deployment. Students also learn how manage permissions for server-side code.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Understanding the SharePoint Object Hierarchy</li>
+  <li>Working with Sites and Webs</li>
+  <li>Working with Execution Contexts</li>
+</ul>
+<p><strong>Module 3: Working with Lists and Libraries</strong></p>
+<blockquote>This module explains how to interact with lists and libraries. Students learn about how to work with lists and libraries programmatically using the server-side SharePoint object model and how to use query classes and LINQ to SharePoint to query and retrieve data from SharePoint lists. Student also learn how to efficiently work with lists that contain large numbers of items.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Using List and Library Objects</li>
+  <li>Querying and Retrieving List Data</li>
+  <li>Working with Large Lists</li>
+</ul>
+<p><strong>Module 4: Designing and Managing Features and Solutions</strong></p>
+<blockquote>This module examines creating and deploying custom Developing a SharePoint solutions and features. The students also learn how and when to use sandbox solutions.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Understanding Features and Solutions</li>
+  <li>Configuring Features and Solutions</li>
+  <li>Working with Sandboxed Solutions</li>
+</ul>
+<p><strong>Module 5: Working with Server-Side Code</strong></p>
+<blockquote>This module describes how to develop and deploy Web Parts and event receivers in a solution.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Developing Web Parts</li>
+  <li>Using Event Receivers</li>
+  <li>Using Timer Jobs</li>
+  <li>Storing Configuration Data</li>
+</ul>
+<p><strong>Module 6: Managing Identity and Permissions</strong></p>
+<blockquote>This module describes how manage permissions through code and customize authentication using custom claims providers.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Understanding Identity Management in SharePoint 2013</li>
+  <li>Managing Permissions in SharePoint 2013</li>
+  <li>Configuring Forms-Based Authentication</li>
+  <li>Customizing the Authentication Experience</li>
+</ul>
+<p><strong>Module 7: Introducing Apps for SharePoint</strong></p>
+<blockquote>This module introduces the SharePoint App, a new way to customize SharePoint functionality with SharePoint Server 2013.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Apps for SharePoint</li>
+  <li>Developing Apps for SharePoint</li>
+</ul>
+<p><strong>Module 8: Client-Side SharePoint Development</strong></p>
+<blockquote>This module describes how to use JavaScript Client Object Model (CSOM), managed code CSOM and the REST API to build SharePoint Apps.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Using the Client-Side Object Model for Managed Code</li>
+  <li>Using the Client-Side Object Model for JavaScript</li>
+  <li>Using the REST API with JavaScript</li>
+</ul>
+<p><strong>Module 9: Developing Remote Hosted SharePoint Apps</strong></p>
+<blockquote>This module examines the difference between provider hosted Apps and Remote Hosted Apps. The students will also create and deploy a Provider Hosted App.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Remote Hosted Apps</li>
+  <li>Configuring Remote Hosted Apps</li>
+  <li>Developing Remote Hosted Apps</li>
+</ul>
+<p><strong>Module 10: Publishing and Distributing Apps</strong></p>
+<blockquote>This module introduces the App Catalog so users to locate, purchase, and install apps easily. The students learn how to package and publish Apps to the App Catalog.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Understanding the App Management Architecture</li>
+  <li>Understanding App Packages</li>
+  <li>Publishing Apps</li>
+  <li>Installing, Updating, and Uninstalling Apps</li>
+</ul>
+<p><strong>Module 11: Automating Business Processes</strong></p>
+<blockquote>This module explains how to create workflows and workflow actions using Visio 2013, SharePoint Designer 2013 and Visual Studio 2012.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Understanding Workflow in SharePoint 2013</li>
+  <li>Building Workflows by using Visio 2013 and SharePoint Designer 2013</li>
+  <li>Developing Workflows in Visual Studio 2012</li>
+</ul>
+<p><strong>Module 12: Managing Taxonomy</strong></p>
+<blockquote>This module explains the importance of a good taxonomy in SharePoint and working with the components of the taxonomy. The students also see how to tie event receivers to the taxonomy.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Managing Taxonomy in SharePoint 2013</li>
+  <li>Working with Content Types</li>
+  <li>Working with Advanced Features of Content Types</li>
+</ul>
+<p><strong>Module 13: Managing Custom Components and Site Life Cycles</strong></p>
+<blockquote>This module explains how you can create custom component definitions and templates, which enable you to deploy custom sites, lists and other components across a farm.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Defining Custom Lists</li>
+  <li>Defining Custom Sites</li>
+  <li>Managing SharePoint Sites</li>
+</ul>
+<p><strong>Module 14: Customizing User Interface Elements</strong></p>
+<blockquote>This module explains different ways of customizing the SharePoint user interface, such as adding buttons to the ribbon or modifying the appearance of list views.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Working with Custom Actions</li>
+  <li>Using Client-Side User Interface Components</li>
+  <li>Customizing the SharePoint List User Interface</li>
+</ul>
+<p><strong>Module 15: Working with Branding and Navigation</strong></p>
+<blockquote>This module explains ways to customize branding, designing, publishing and navigating sites in SharePoint Server 2013. The students also learn how to create devise independent sites standard web technologies, such as HTML, CSS, and JavaScript.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Creating and Applying Themes</li>
+  <li>Branding and Designing Publishing Sites</li>
+  <li>Tailoring Content to Platforms and Devices</li>
+  <li>Configuring and Customizing Navigation</li>
+</ul>

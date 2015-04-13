@@ -1,0 +1,54 @@
+<p> <strong>Unit 1: Help desk: tools and technology</strong><br>
+  Topic A: Technology and its challenges<br>
+  Topic B: Types of support tools<br>
+  Topic C: Developing versus buying tools<br>
+  Topic D: Understanding why tools fail<br>
+  <br>
+  <strong>Unit 2: Support environments and processes</strong><br>
+  Topic A: Support environments<br>
+  Topic B: Internal support processes<br>
+  Topic C: External support processes<br>
+  Topic D: Support process challenges<br>
+  <br>
+  <strong>Unit 3: Common software tools and features</strong><br>
+  Topic A: Characteristics of all support software<br>
+  Topic B: Features of call logging software<br>
+  Topic C: Features of problem management software<br>
+  Topic D: Problem resolution elements<br>
+  <br>
+  <strong>Unit 4: Performance and reporting tools</strong><br>
+  Topic A: Reports quantify performance<br>
+  Topic B: Commonly collected statistics<br>
+  Topic C: Report software features<br>
+  <br>
+  <strong>Unit 5: Call management software and problem resolution software</strong><br>
+  Topic A: Call management software<br>
+  Topic B: Problem resolution software<br>
+  Topic C: Problem resolution methods<br>
+  <br>
+  <strong>Unit 6: Asset and change management tools</strong><br>
+  Topic A: The importance of asset management<br>
+  Topic B: Asset management software<br>
+  <br>
+  <strong>Unit 7: Using alerts and notification tools for support</strong><br>
+  Topic A: Understanding how service level management uses alerts and notifications<br>
+  Topic B: Understanding technologies for customer notifications<br>
+  <br>
+  <strong>Unit 8: Using telephone-based technology</strong><br>
+  Topic A: Understanding the core feature of modern telephone technologies<br>
+  Topic B: Working with additional telephony technology<br>
+  <br>
+  <strong>Unit 9: Planning office space in the support environment</strong><br>
+  Topic A: Managing the work environment<br>
+  Topic B: Understanding individual workplace elements<br>
+  <br>
+  <strong>Unit 10: Using additional level two and level three support tools</strong><br>
+  Topic A: Understanding IT systems management<br>
+  Topic B: Managing advanced systems components<br>
+  <br>
+  <strong>Unit 11: Using self-help tools</strong><br>
+  Topic A: Understanding customer self-service<br>
+  <br>
+  <strong>Unit 12: Understanding service technology trends and career resources</strong><br>
+  Topic A: Understanding the expanding role of information management<br>
+  Topic B: Understanding professional certification </p>

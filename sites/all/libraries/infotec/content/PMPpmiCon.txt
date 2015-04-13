@@ -1,0 +1,13 @@
+<p> Unit 1: The PMP Exam </p>
+<p> Unit 2: Project Management Framework </p>
+<p> Unit 3: Project Management Processes </p>
+<p> Unit 4: Integration Management </p>
+<p> Unit 5: Scope Management </p>
+<p> Unit 6: Time Management </p>
+<p> Unit 7: Cost Management </p>
+<p> Unit 8: Quality Management </p>
+<p> Unit 9: Human Resource Management </p>
+<p> Unit 10: Communications Management </p>
+<p> Unit 11: Risk Management </p>
+<p> Unit 12: Procurement Management </p>
+<p> Unit 13: Professional and Social Responsibility </p>

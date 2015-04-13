@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul> 
+    <li>Describe the Windows 8 platform and features, and explore the basics of a Windows app interface.</li>
+    <li>Create the User Interface layout and structure.</li>
+    <li>Apply the MVVM pattern to application design.</li>
+    <li>Implement the AppBar and layout controls.</li>
+    <li>Use templates to create the UI.</li>
+    <li>Use data binding to present data in the UI.</li>
+    <li>Handle files and streams.</li>
+    <li>Design and implement Process Lifetime Management (PLM).</li>
+    <li>Handle navigation scenarios in a Windows Store app.</li>
+    <li>Implement Semantic Zoom.</li>
+    <li>Design and implement contracts such as Search, Share and Settings.</li>
+    <li>Implement tiles and toast notifications in a Windows Store app.</li>
+    <li>Respond to mouse, keyboard and touch events, including gestures.</li>
+    <li>Deploy a Windows Store app to the Windows Store or an enterprise store.</li>
+</ul>

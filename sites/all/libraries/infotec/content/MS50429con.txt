@@ -1,0 +1,54 @@
+<p><strong>Module 1: Overview</strong></p>
+<ul>
+  <li>	
+    Understand your course, classroom, classmates, facility and instructor.</li>
+</ul>
+<p><strong>Module 2: Business Intelligence</strong></p>
+<ul>
+  <li>Business Intelligence</li>
+</ul>
+<p><strong>Module 3: Business Intelligence Center</strong></p>
+<ul>
+  <li>Business Intelligence Center</li>
+</ul>
+<p><strong>Module 4: Data Mart and Data Warehouses</strong></p>
+<ul>
+  <li>Understanding Data and Data Formats</li>
+  <li>Building Data Marts and Data Warehouses</li>
+</ul>
+<p><strong>Module 5: Business  Connectivity Services</strong></p>
+<ul>
+  <li>Business Connectivity Services</li>
+</ul>
+<p><strong>Module 7: Filter Web Parts</strong></p>
+<ul>
+  <li>Filter Web Parts</li>
+</ul>
+<p><strong>Module 8: Excel Services</strong></p>
+<ul>
+  <li>Excel Services</li>
+</ul>
+<p><strong>Module 9: PowerPivot</strong></p>
+<ul>
+  <li>PowerPivot For SharePoint</li>
+  <li>PowerPivot For Excel</li>
+</ul>
+<p><strong>Module 10: Reporting Services</strong></p>
+<ul>
+  <li>Reporting Services</li>
+  <li>Reports</li>
+</ul>
+<p><strong>Module 11: Performance Point</strong></p>
+<ul>
+  <li>Performance Point</li>
+</ul>
+<p><strong>Module 12: Visio and Access Services</strong></p>
+<ul>
+  <li>Visio Services</li>
+  <li>Access Services</li>
+</ul>
+<p><strong>Module 13: GeoSpatial Data with Charts and Maps</strong></p>
+<ul>
+  <li>Charts and Maps</li>
+  <li>GeoSpatial Data</li>
+</ul>

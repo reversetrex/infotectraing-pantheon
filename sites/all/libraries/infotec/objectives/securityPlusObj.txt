@@ -1,0 +1,8 @@
+<ul>
+                  <li> Define security terminology, explain the purpose and goals of network security policies, and outline various security threats.<strong></strong></li>
+                  <li> Understand the need for authentication and the development of authentication devices including Kerberos, CHAP, digital certificates, tokens, biometrics, mutual authentication, and multi-factor authentication.<strong></strong></li>
+                  <li> Identify the major types of attacks and malicious codes that commonly affect the confidentiality, integrity, and availability of networks; and discuss the business impact of security along with the countermeasures and best practices used to prevent or mitigate the effect of attacks and malicious codes.<strong></strong></li>
+                  <li> Understand the concepts and practices of remote access, including commonly used authentication protocols (IEEE 802.1X, RADIUS and TACACS+) and tunneling technologies (PPTP, L2TP, IPSec and Secure Shell).<strong></strong></li>
+                  <li> Discuss e-mail vulnerabilities and how to safeguard against them, and the benefits of PGP and S/MIME<strong></strong></li>
+                  <li> Discuss Web security including SSL/TLC protocols; HTTPS as it relates to SSL; and the variety of mainstream Web tools such as JavaScript, Buffer Overflow, ActiveX, Cookies, Applets and SMTP that are commonly exploited by attackers on the Internet.<strong></strong></li>
+                </ul>

@@ -1,0 +1,16 @@
+During this beginner Adobe Captivate class, you'll learn how to control the mouse pointer and add such standard objects as text captions, images, and highlight boxes. You'll learn to record, import and edit audio, and how to further enhance the learner experience by adding interactivity via click boxes, buttons, and text entry boxes. You'll learn to leverage and enrich existing Microsoft PowerPoint presentations by importing and linking into new or existing Captivate projects. Finally, you'll learn to publish your project in SWF and HTML5 formats so that your content can be uploaded to a web server for consumption on virtually any device, including the iPad, iPhone, and other mobile devices.<br /><br />
+Here is what is covered in this live, two-day course:<br />
+<ul>
+  <li>eLearning and Captivate</li>
+  <li>Recording Demos and Sims</li>
+  <li>Captions, Styles, and Timing</li>
+  <li>Images and Drawing Objects</li>
+  <li>Pointers, Buttons, and Highlight Boxes</li>
+  <li>Rollovers and Zoom Areas</li>
+  <li>Audio</li>
+  <li>Video, Animation, and Effects</li>
+  <li>Creating Simulations out of Demonstrations</li>
+  <li>Working with Microsoft PowerPoint</li>
+  <li>Introduction to Question Slides</li>
+  <li>Publishing</li>
+</ul>

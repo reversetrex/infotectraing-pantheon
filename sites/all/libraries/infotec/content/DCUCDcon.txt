@@ -1,0 +1,174 @@
+<p><strong>1: Cisco Data Center Solution Architecture and Components</strong></p>
+<ul>
+ <li>Identifying Data Center Solution
+  <ul>
+   <li>Recognize elements of data center computing solutions</li>
+   <li>Understand the consolidation data center trend</li>
+   <li>Understand the virtualization data center trend</li>
+   <li>Evaluate business challenges of the contemporary data center solutions</li>
+   <li>Evaluate environmental challenges of the contemporary data center solutions</li>
+   <li>Evaluate technical challenges of the contemporary data center solutions</li>
+  </ul>
+ </li>
+ <li>Identifying Data Center Applications
+  <ul>
+   <li>Recognize data center application examples</li>
+   <li>Recognize server virtualization characteristics</li>
+   <li>Recognize desktop virtualization characteristics</li>
+  </ul>
+ </li>
+ <li>Identifying Cloud Computing
+  <ul>
+   <li>The lesson includes these topics or topic (enabling) objectives:</li>
+   <li>Evaluate cloud computing solutions</li>
+   <li>Recognize cloud computing deployment models</li>
+   <li>Compare cloud computing service categories</li>
+   <li>Understand cloud computing aspects</li>
+  </ul>
+ </li>
+ <li>Identifying Cisco Data Center Architecture and Components
+  <ul>
+   <li>Evaluate the Cisco Data Center architectural framework</li>
+   <li>Evaluate the Cisco Data Center architectural framework Unified Fabric</li>
+   <li>Recognize the Cisco Data Center Unified Fabric equipment</li>
+   <li>Evaluate the Cisco Data Center architectural framework compute component</li>
+   <li>Recognize Cisco Validated Designs</li>
+  </ul>
+ </li>
+</ul>
+<p><strong>2: Assess Data Center Computing Requirements</strong></p>
+<ul>
+ <li>Defining a Cisco Unified Computing System Solution Design
+  <ul>
+   <li>Describe the design process for the Cisco Unified Computing solution</li>
+   <li>Evaluate design process phases</li>
+   <li>Recognize the deliverables for the Cisco Unified Computing solution</li>
+  </ul>
+ </li>
+ <li>Analyzing Computing Solutions Characteristics
+  <ul>
+   <li>Identify performance characteristics</li>
+   <li>Assess server virtualization performance characteristics</li>
+   <li>Assess desktop virtualization performance characteristics</li>
+   <li>Assess requirements for small VMware vSphere deployment example</li>
+   <li>Assess requirements for small Microsoft Hyper-V deployment example</li>
+   <li>Assess requirements for VMware</li>
+   <li>View VDI deployment example</li>
+  </ul>
+ </li>
+ <li>Employing Data Center Analysis Tools
+  <ul>
+   <li>Evaluate reconnaissance and analysis tools</li>
+   <li>Perform existing computing solution analysis with VMware Capacity Planner</li>
+   <li>Perform VMware vSphere analysis with VMware Capacity IQ</li>
+   <li>Perform existing computing solution analysis with MAP toolkit</li>
+   <li>Perform TCO/ROI analysis with Cisco UCS TCO/ROI Advisor</li>
+  </ul>
+ </li>
+</ul>
+<p><strong>3: Size Cisco Unified Computing Solutions</strong></p>
+<ul>
+ <li>Sizing Cisco UCS C-Series Server Solution
+  <ul>
+   <li>Recognize general Cisco UCS Cseries server selection steps</li>
+   <li>Select proper hardware components to integrate UCS C-series server with UCS Manager</li>
+   <li>Select proper Cisco UCS C-series server hardware based on the requirements for a given small VMware vSphere environment</li>
+   <li>Select proper Cisco UCS C-series server hardware based on the requirements for a given small Microsoft Hyper-V environment</li>
+  </ul>
+ </li>
+ <li>Sizing Cisco UCS B-Series Server Solution
+  <ul>
+   <li>Recognize general Cisco UCS Bseries server selection steps</li>
+   <li>Select proper Cisco UCS servers based on the requirements for a given desktop virtualization solution</li>
+  </ul>
+ </li>
+ <li>Planning Unified Computing Deployment
+  <ul>
+   <li>Recognize Power Calculator tool</li>
+   <li>Propose physical deployment plan</li>
+  </ul>
+ </li>
+</ul>
+<p><strong>4: Design Cisco Unified Computing Solutions</strong></p>
+<ul>
+ <li>Designing Unified Computing Network
+  <ul>
+   <li>Recognize network operational modes of the Cisco UCS 6200 Series Fabric Interconnects</li>
+   <li>Recognize Layer 2 disjoint domains</li>
+   <li>Define the network high availability mechanisms for Cisco UCS 6200 Series Fabric Interconnects</li>
+   <li>Define the VM-FEX requirements for Cisco UCS</li>
+  </ul>
+ </li>
+ <li>Designing Unified Computing Storage
+  <ul>
+   <li>Recognize SAN operational modes of Cisco UCS 6200 Series Fabric Interconnects</li>
+   <li>Understand SAN Connectivity</li>
+   <li>Define the SAN high availability mechanisms for Cisco UCS 6200 Series Fabric Interconnects</li>
+   <li>Recognize SAN Scalability Options</li>
+  </ul>
+ </li>
+ <li>Designing Virtual Access Layer
+  <ul>
+   <li>Identify and describe the Cisco Nexus 1000V</li>
+   <li>Identify and describe Cisco Nexus 1000V integration with VMware vCenter</li>
+  </ul>
+ </li>
+</ul>
+<p><strong>5: Design Cisco Unified Computing Solutions Server Deployment</strong></p>
+<ul>
+ <li>Designing Cisco UCS Server Deployment
+  <ul>
+   <li>Identify server deployment aspects</li>
+   <li>Define the common naming convention for given solutions</li>
+   <li>Define the UUID addressing for given solutions</li>
+   <li>Define the MAC addressing for given solutions</li>
+   <li>Define the WWN addressing for given solutions</li>
+   <li>Define the common policies for hosts of a given solutions</li>
+  </ul>
+ </li>
+ <li>Designing Unified Computing Management
+  <ul>
+   <li>Define the Cisco UCS management access</li>
+   <li>Define the organizational hierarchy within Cisco UCS configuration</li>
+   <li>Define the remote management connectivity characteristics</li>
+  </ul>
+ </li>
+</ul>
+<p><strong>6: Cisco Unified Computing Solution
+ Applications</strong></p>
+<ul>
+ <li>Unified Communications on Cisco UCS
+  <ul>
+   <li>Recognize Unified Communications application</li>
+   <li>Assess Unified Communications performance characteristics</li>
+   <li>Select Cisco UCS hardware for Unified Communications solution</li>
+  </ul>
+ </li>
+ <li>Distributed Computing on Cisco UCS
+  <ul>
+   <li>Recognize distributed computing applications</li>
+   <li>Understand Hadoop architecture</li>
+   <li>Assess Hadoop performance characteristics</li>
+   <li>Design Cisco UCS for Greenplum MR Hadoop solution</li>
+  </ul>
+ </li>
+</ul>
+<p><strong>Appendixes: Creating Cisco UCS Solution BOM</strong></p>
+<ul>
+ <li>Creating Cisco UCS Solution BOM</li>
+ <li>Create Cisco UCS C-series server solution BoM with Online Configurator</li>
+ <li>Create Cisco UCS C-series server solution BoM with Netformx DesignXpert</li>
+ <li>Create Cisco UCS B-series server solution BoM with Netformx DesignXpert</li>
+</ul>
+<p><strong>Course Labs</strong></p>
+<ul>
+ <li>Lab 2-1: Analyze the Existing Computing
+  Solution</li>
+ <li>Lab 3-1: Design Cisco UCS C-series Solution</li>
+ <li>Lab 3-2: Design Cisco UCS B-series Solution</li>
+ <li>Lab 3-3: Plan the Physical Deployment</li>
+ <li>Lab 4-1: Design Microsoft Hyper-V Deployment on Cisco UCS</li>
+ <li>Lab 4-2: Design VMware vSphere Deployment and Integration with Cisco UCS</li>
+ <li>Lab 5-1: Design VMware vSphere Deployment on Cisco UCS and Cisco Nexus 
+  1000V</li>
+</ul>

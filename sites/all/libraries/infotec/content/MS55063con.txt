@@ -1,0 +1,78 @@
+<p><strong>Module 1: Overview</strong> - A simple introduction module.</p>
+<p><strong>Module 2: Business Intelligence</strong> - In this module we review what Business Intelligence (BI) is and what the typical BI goals are.  We also explore how Microsoft BI tools are enabling more advanced Business Intelligence features to filter down/up to the decision makers and Information Workers in general.</p>
+<p>Lessons</p>
+<ul>
+  <li>Why Business Intelligence?</li>
+</ul>
+<p><strong>Module 3: Business Intelligence Center</strong> - In this module we are going to explore the Business Intelligence Center site definition that comes with SharePoint.</p>
+<p>Lessons</p>
+<ul>
+  <li>Business Intelligence Center</li>
+</ul>
+<p><strong>Module 4: Data Mart &amp; Data Warehouses and Master Data Services</strong> - In this module we explore what data is and some of the many forms that it takes.  We then explore and define the terms Data Warehouse and Data Mart.  This module is important in that as we move through the remainder of the course, we will need to have data to manipulate and work with to build our BI components.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding Data and Data Formats</li>
+  <li>Building Data Marts &amp; Data Warehouses</li>
+  <li>Master Data Services</li>
+</ul>
+<p><strong>Module 5: Business Connectivity Services and Secure Store</strong> - In this module we are going to take a look at the SharePoint Business Connectivity Services and the SharePoint Secure Store service and how they can help surface external data into SharePoint sites.</p>
+<p>Lessons</p>
+<ul>
+  <li>Business Connectivity Services</li>
+  <li>Secure Store</li>
+</ul>
+<p><strong>Module 6: Analysis Services, HDInsight and StreamInsight</strong> - In this module we will explore the feature of SQL Server called Analysis Services (SSAS).  When regular SQL queries can't handle your data, MDX queries in SSAS can.  You will also learn about leading edge technologies like HDInsight and StreamInsight.</p>
+<p>Lessons</p>
+<ul>
+  <li>Analysis Services</li>
+  <li>HDInsight &amp; Hadoop</li>
+  <li>StreamInsight</li>
+</ul>
+<p><strong>Module 7: Filter Web Parts</strong> - In this module we will explore Filter Web Parts and the important role they play in building Business Intelligence portals.</p>
+<p>Lessons</p>
+<ul>
+  <li>Filter Web Parts</li>
+</ul>
+<p><strong>Module 8: Excel, Excel Services and Excel Web App</strong> - In this module we will explore and work with the various features of SharePoint's Excel Services.</p>
+<p>Lessons</p>
+<ul>
+  <li>Excel Services</li>
+</ul>
+<p><strong>Module 9: PowerPivot, Tabular Data Sources</strong> - In this module we explore the PowerPivot tools of SQL Server and Excel and how they integrate with SharePoint.  You will also gain knowledge of a new SQL Server tool called Master Data Services.</p>
+<p>Lessons</p>
+<ul>
+  <li>PowerPivot For Excel</li>
+  <li>PowerPivot For SharePoint</li>
+</ul>
+<p><strong>Module 10: Reporting Services</strong> - In this module we will explore Reporting Services, its integration with SharePoint and how to build Reporting Services reports.</p>
+<p>Lessons</p>
+<ul>
+  <li>Reporting Services</li>
+  <li>Reports</li>
+</ul>
+<p><strong>Module 11: Power View, Power Query and Power BI</strong> - In this module we explore the new Microsoft BI Stack components available which include PowerView, PowerQuery and PowerBI.</p>
+<p>Lessons</p>
+<ul>
+  <li>Power View</li>
+  <li>Power Query</li>
+  <li>Power BI</li>
+</ul>
+<p><strong>Module 12: Performance Point</strong> - In this module we will explore Performance Point and how it supercharges your BI Dashboards and Key Performance Indicators.</p>
+<p>Lessons</p>
+<ul>
+  <li>Performance Point</li>
+</ul>
+<p><strong>Module 13: Visio &amp; Access Services</strong> - In this module we will explore Visio and Access Services and how to integrate it into your Report process.</p>
+<p>Lessons</p>
+<ul>
+  <li>Visio Services</li>
+  <li>Access Services</li>
+</ul>
+<p><strong>Module 14: GeoSpatial Data, GeoLocation and Power Map</strong> - In this module we will explore how to store GeoSpatial data in SQL Server, how to use the new GeoLocation column, the new Power Map add-in for Excel and how to use continue to use the .NET Charts feature from 2010.</p>
+<p>Lessons</p>
+<ul>
+  <li>GeoSpatial Data</li>
+  <li>GeoLocation, Bing Maps and Charts</li>
+  <li>Power Map</li>
+</ul>

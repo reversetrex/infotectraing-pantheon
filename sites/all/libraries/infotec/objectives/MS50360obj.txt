@@ -1,0 +1,7 @@
+<p>New features and the value of the different products and technologies that are part of the Microsoft Forefront Protection Suite:</p>
+<ol>
+  <li>How Microsoft Forefront Threat Management Gateway 2010 can provide secure mail  relay functionality combined with Microsoft Forefront Protection 2010 for Exchange Server and Microsoft Exchange Edge server role</li>
+  <li> How Forefront Protection 2010 for Exchange Server and Microsoft Forefront Online Protection for Exchange protect an organization from mail-based  threats</li>
+  <li> How Microsoft Forefront Protection 2010 for SharePoint protects the organization from threats involving data in SharePoint Server sites</li>
+  <li> How the Exchange Server and SharePoint Server security solutions are integrated and managed from Microsoft Forefront Protection Manager</li>
+</ol>

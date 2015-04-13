@@ -1,0 +1,16 @@
+<p>This course will:</p>
+<ul>
+	<li>Provide…
+    	<ul>
+        	<li>Microsoft server virtualization baseline</li>
+            <li>Mapping from VMware to Microsoft virtualization terminology and technology</li>
+        </ul>
+    </li>
+    <li>Demonstrate…
+    	<ul>
+        	<li>Microsoft common server virtualization tasks</li>
+            <li>Microsoft management of heterogeneous environment using System Center</li>
+        </ul>
+    </li>
+	<li>Introduce moving a Microsoft datacenter to a private cloud using System Center</li>
+</ul>

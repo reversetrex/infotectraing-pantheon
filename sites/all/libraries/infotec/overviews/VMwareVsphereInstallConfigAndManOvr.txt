@@ -1,0 +1,1 @@
+This hands-on training course explores installation, configuration, and management of VMware vSphere, which consists of ESX/ESIi and vCenter Server.  The course is based on ESX/ESXi 4.1 and vCenter Server 4.1.  Completion of this course satisfies as a prerequisite to take the VMware Certified Professional 4 exam.

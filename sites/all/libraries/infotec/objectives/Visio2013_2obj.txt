@@ -1,0 +1,9 @@
+<p>In this course, you will examine advanced features to make you more efficient and effective. You will:</p>
+<ul>
+  <li>Enhance the look of drawings.</li>
+  <li>Create shapes, stencils, and templates.</li>
+  <li>Connect drawings to external data.</li>
+  <li>Leverage development tools.</li>
+  <li>Share drawings.</li>
+  <li>Use diagram standards (optional).</li>
+</ul>

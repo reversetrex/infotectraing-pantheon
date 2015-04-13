@@ -1,0 +1,40 @@
+<p><strong>Unit 1: ColdFusion Scripting</strong></p>
+<ul>
+  <li>Introduces the CFSCRIPT tag and language.</li>
+</ul>
+
+<p><strong>Unit 2: Using Regular Expressions</strong></p>
+<ul>
+  <li>The powerful world of regular expression manipulation and processing.</li>
+</ul>
+
+<p><strong>Unit 3: Using XML in a ColdFusion application</strong></p>
+<ul>
+  <li>Using ColdFusion to generate and manipulate XML content.</li>
+</ul>
+
+<p><strong>Unit 4: Manipulating XML with XSLT and XPath</strong></p>
+<ul>
+  <li>Using ColdFusion to perform transformations on data with XSLT and XPath.</li>
+</ul>
+
+<p><strong>Unit 5: Using WDDX</strong></p>
+<ul>
+  <li>How WDDX can be used to simplify the sharing and exchanging of structured data.</li>
+</ul>
+
+<p><strong>Unit 6: Creating Advanced Custom Tags</strong></p>
+<ul>
+  <li>Build on the basic custom tag creation skills.</li>
+  <li>Creating tag pairs and tag sets.</li>
+</ul>
+
+<p><strong>Unit 7: Creating ColdFusion Components</strong></p>
+<ul>
+  <li>What ColdFusion Components are, how to create them, and how they can be used.</li>
+</ul>
+
+<p><strong>Unit 8: Creating and Consuming Web Services</strong></p>
+<ul>
+  <li>With Web services, you can make any of your ColdFusion components available to any system you wish over the Internet. </li>
+</ul>

@@ -1,0 +1,8 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the Office 365 FastTrack deployment methodology.</li>
+  <li>Identify the benefits of the FastTrack approach compared to the current deployment process.</li>
+  <li>Plan the Pilot phase of the FastTrack deployment process.</li>
+  <li>Plan the Deploy phase to ensure this phase commences correctly.</li>
+  <li>Plan the optional sections of the Enhance phase, depending on the customer’s requirements.</li>
+</ul>

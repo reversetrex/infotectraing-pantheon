@@ -1,0 +1,141 @@
+<h2>Session 1</h2>
+  <h3>Section A: Preproduction: Concept</h3>
+  <ul>
+    <li>Understanding Copyright</li>
+    <li>Fair Use Doctrine</li>
+    <li>Derivative Works</li>
+    <li>Personal Protection and Image Release</li>
+    <li>Project Purpose</li>
+    <li>Project Concept</li>
+    <li>Demographics</li>
+    <li>Production Plan and Project Scope</li>
+    <li>Project Deadlines</li>
+    <li>Project Deliverables</li>
+    <li>Project Needs</li>
+    <li>General Production Process</li>
+  </ul>
+  <h3>Section B: Preproduction: Script Writing</h3>
+  <ul>
+    <li>Introduction to Adobe Story</li>
+    <li>Treatment and Premise</li>
+    <li>Story, Plot, and Conflict</li>
+    <li>Three Act Structure</li>
+    <li>Character Development</li>
+    <li>Writing Tips</li>
+    <li>Formatting</li>
+    <li>Script Example</li>
+  </ul>
+  <h3>Section C: Preproduction: Storyboarding</h3>
+  <ul>
+    <li>Scene Structure</li>
+    <li>Storyboard Example</li>
+    <li>Shot Types</li>
+    <li>Shoot to Edit</li>
+    <li>Rule of Thirds</li>
+    <li>Head Room</li>
+    <li>Nose Room</li>
+    <li>Lead Room</li>
+  </ul>
+  <h3>Section D: Preproduction: Shot List and Schedule</h3>
+  <ul>
+    <li>Shooting Script Defined</li>
+    <li>Shot List Defined</li>
+    <li>Production Log</li>
+    <li>Budget and Scheduling</li>
+  </ul>
+  <h3>Section E: Production Equipment: Cameras</h3>
+  <ul>
+    <li>Chassis</li>
+    <li>Sensor</li>
+    <li>Lens</li>
+    <li>Focal Length</li>
+    <li>Prime vs. Fixed Lens</li>
+    <li>Lens Filters</li>
+    <li>Viewfinder</li>
+    <li>Other Camera Parts</li>
+    <li>Camera vs. Camcorder</li>
+    <li>Prosumer Camcorder</li>
+    <li>Professional Camcorder</li>
+    <li>Camera Support</li>
+  </ul>
+  <h3>Section F: Production Equipment: Lighting</h3>
+  <ul>
+    <li>Hard vs. Soft Lighting</li>
+    <li>Lighting Accessories</li>
+  </ul>
+  <h3>Section G: Production Equipment: Microphones</h3>
+  <ul>
+    <li>Types of Microphones</li>
+    <li>Transducer</li>
+    <li>Pickup Pattern</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Production Equipment: Cabling</h3>
+  <ul>
+    <li>Video Cable Types</li>
+    <li>RCA/S-Video</li>
+    <li>Coaxial</li>
+    <li>Video Cables</li>
+    <li>Audio Cables</li>
+  </ul>
+  <h3>Section B: Production: Camera Operation</h3>
+  <ul>
+    <li>Exposure</li>
+    <li>Measuring Exposure</li>
+    <li>Shutter Speed</li>
+    <li>F-Stop vs. Shutter Speed</li>
+    <li>Focus</li>
+    <li>Depth of Field: Distance</li>
+    <li>Depth of Field: Focal Length</li>
+    <li>Depth of Field: Exposure</li>
+    <li>Depth of Field Chart</li>
+    <li>Setting Focus</li>
+    <li>White Balance</li>
+  </ul>
+  <h3>Section C: Production: Camera Movement</h3>
+  <ul>
+    <li>Pan</li>
+    <li>Tilt</li>
+    <li>Dolly</li>
+    <li>Truck</li>
+    <li>Pedestal</li>
+    <li>Arc</li>
+    <li>Zoom</li>
+    <li>Psychological Impact</li>
+    <li>Movement Review</li>
+  </ul>
+  <h3>Section D: Production: Shooting Fundamentals</h3>
+  <ul>
+    <li>Continuity</li>
+    <li>Screen Direction</li>
+    <li>Jump Cuts</li>
+    <li>A-Roll and B-Roll</li>
+    <li>Cuts-Only Editing</li>
+  </ul>
+  <h3>Section E: Production: Lighting Principles</h3>
+  <ul>
+    <li>Fall-Off</li>
+    <li>Hard vs. Soft Lighting</li>
+    <li>Triangle Lighting</li>
+    <li>Indoor</li>
+    <li>Outdoor</li>
+    <li>Chroma Key Lighting</li>
+  </ul>
+  <h3>Section F: Production: Audio</h3>
+  <ul>
+    <li>Audio Basics</li>
+    <li>Natural Sound</li>
+    <li>Ambient Sound</li>
+    <li>Silence</li>
+    <li>Monitoring Sounds</li>
+    <li>Aesthetics of Sound</li>
+  </ul>
+  <h3>Section G: Production Crew</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Job Roles: News</li>
+    <li>Job Roles: Movie</li>
+    <li>Director of Photography</li>
+    <li>Script Supervisor</li>
+    <li>Additional Jobs</li>
+  </ul>

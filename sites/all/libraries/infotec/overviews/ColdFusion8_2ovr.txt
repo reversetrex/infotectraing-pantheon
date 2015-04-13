@@ -1,0 +1,1 @@
+This course introduces students to some of the advanced programming techniques available in ColdFusion 8.  The focus of the course is on development as opposed to administration.

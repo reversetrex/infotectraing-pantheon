@@ -1,0 +1,27 @@
+<h2>Session 1</h2>
+  <h3>Section A: Attitude Advantages</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Attitude Influences Everything</li>
+    <li>The Components of Attitude</li>
+    <li>Good Attitude Advantages</li>
+    <li>Factors that Impact Attitude</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Adjusting Your Attitude</h3>
+  <ul>
+    <li>Use the Flipside Technique</li>
+    <li>Play Your Winners</li>
+    <li>Simplify</li>
+    <li>Insulate</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Attitude and Success</h3>
+  <ul>
+    <li>Give Your Positive Attitude to Others</li>
+    <li>Look Better to Yourself</li>
+    <li>Accept the Physical Connection</li>
+    <li>Clarify Your Mission</li>
+    <li>Reminders</li>
+    <li>Assessment</li>
+  </ul>

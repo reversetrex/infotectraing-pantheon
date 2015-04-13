@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>explore the Photoshop CS3 environment. </li>
+  <li>work with image areas. </li>
+  <li>work with multiple layers. </li>
+  <li>enhance images. </li>
+  <li>save images in the web, print, and PDF formats. </li>
+  <li>manage assets by using the various tools available in Adobe Bridge. </li>
+  <li>add video to a movie for creating dynamic animations in Flash. </li>
+  <li>publish Flash documents. </li>
+</ul>

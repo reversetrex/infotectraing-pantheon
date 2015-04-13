@@ -1,0 +1,7 @@
+<p> After completing the course, students will be able to: </p>
+<ul>
+  <li> Describe Windows XP Embedded and its architecture. </li>
+  <li> Install and use the Windows XP Embedded tool set. </li>
+  <li> Build custom components and import these into the component repository. </li>
+  <li> Build and deploy Windows XP Embedded images to reference hardware. </li>
+</ul>

@@ -1,0 +1,34 @@
+<h2>Session 1</h2>
+  <h3>Section A: Understanding FMLA</h3>
+  <ul>
+    <li>What is FMLA?</li>
+    <li>Benefits of FMLA</li>
+    <li>Document, Document, Document</li>
+    <li>Conditions</li>
+    <li>Eligibility</li>
+    <li>Summary of Eligibility</li>
+  </ul>
+  <h3>Section B: FMLA and the Employer</h3>
+  <ul>
+    <li>Policies</li>
+    <li>Military Families</li>
+    <li>Communication and the FMLA</li>
+  </ul>
+  <h3>Section C: FMLA and the Employee</h3>
+  <ul>
+    <li>Employee's Responsibility</li>
+    <li>Medical Certification Pizza</li>
+    <li>The Slices of Certification Pizza</li>
+    <li>HIPAA and the Final Three Slices</li>
+  </ul>
+  <h3>Section D: FMLA in Action</h3>
+  <ul>
+    <li>Employee Leave</li>
+    <li>Equivalent Position</li>
+    <li>Push-Ups for the Brain</li>
+    <li>Exemptions to FMLA</li>
+    <li>Unlawful Discharge</li>
+    <li>Burden of Proof</li>
+    <li>Key Points</li>
+    <li>Conclusion</li>
+  </ul>

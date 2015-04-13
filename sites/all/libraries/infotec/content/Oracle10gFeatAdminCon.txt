@@ -1,0 +1,14 @@
+<ul>
+  <li> Flashback Enhancements &ndash; Flashback Version Query, Flashback Transaction Query, LOB Handling with Flashback, Setting up for Flashback, Flashback Table, Flashback Drop Table and Recycle Bin management. </li>
+  <li> Backup and Recovery Enhancements &ndash; Flash Recovery Area, Flashback Database (setup, flashback logs and use), Restore Points, Simplified Recovery through RESETLOGS, Compressed Backups, Change Tracking, Incrementally Updated Image Copies, SWITCH DATABASE, New V$ Views, Encrypted Backups, DROP DATABASE, CATALOG, Oracle Secure Backup and more. </li>
+  <li> Automatic Storage Management &ndash; An introduction to Oracle's new integrated file system and volume manager. Examples illustrate the basic use of ASM, including creating disk groups, fail groups, and using ASMCMD. </li>
+  <li> Job Scheduler &ndash; Use the new DBMS_SCHEDULER package to schedule jobs, including OS scripts. Examples illustrate creating and scheduling jobs in both a Linux and a Windows environment. </li>
+  <li> SQL Enhancements &ndash; Regular expressions, DML error logging, case-insensitive sort and search, MERGE enhancements, MODEL queries, XQUERY and much more. </li>
+  <li> PL/SQL Enhancements &ndash; The new optimizing compiler, compiler warning messages, debugging improvements, native compilation enhancements, UTL_MAIL and more. </li>
+  <li> Performance and Tuning Features &ndash; Automatic SGA Management, Automatic Workload Repository (AWR), Advisors (ADDM, SQL Tuning Advisor, etc), Active Session History data, new performance statistics (e.g. metrics and database time), Thresholds and Server-Generated Alerts, CBO Enhancements and much more. </li>
+  <li> Security and Auditing Enhancements &ndash; Changes to the CONNECT Role, FGAC Review, FGAC / VPD Enhancements, FGA Review, Fine Grained Auditing Enhancements, Encryption Enhancements, DBMS_CRYPTO Package (R1) and Transparent Data Encryption (R2). </li>
+  <li> Tablespace, Table and Segment Management &ndash; SYSAUX tablespace, BIGFILE and SMALLFILE tablespaces, database-level default tablespace, database-level default temp tablespace, temp tablespace groups, multi-platform transportable tablespace, renaming tablespaces, predicting object growth, online table redefinition enhancements and online segment shrink. </li>
+  <li> Utilities (Data Pump) &ndash; An example-based introduction to Data Pump, the next generation export / import utility. Also covered: External Table and Logminer enhancements. </li>
+  <li> SQL*Plus Enhancements &ndash; New predefined variables, SPOOL command enhancements, AUTOTRACE enhancements and more. </li>
+  <li> Miscellaneous Enhancements &ndash; Guaranteed UNDO retention, ROLLBACK monitoring, Easy Connect (EZCONNECT) connections, database high watermark recording, database feature usage tracking and new and deprecated initialization parameters. </li>
+</ul>

@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>create simple and freeform shapes. </li>
+  <li>create logos using simple shapes. </li>
+  <li>create logos using custom paths. </li>
+  <li>enhance logo text. </li>
+  <li>manipulate body type. </li>
+  <li>create an advertisement. </li>
+  <li>organize creative assets using Adobe Bridge</li>
+</ul>

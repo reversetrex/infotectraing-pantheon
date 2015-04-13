@@ -1,0 +1,141 @@
+<p><strong>Module 1: Installing and Configuring Windows  Server 2008</strong> - This module explains how to install and configure  Windows Server 2008. It also explores using Server Manager to work with roles,  features, PowerShell and other aspects of server configuration like Automatic Updates.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Server Manager Roles</li>
+  <li>Windows Server 2008 Features</li>
+  <li>Active Directory Improvements</li>
+</ul>
+
+<p><strong>Module 2: Windows Deployment Services</strong> - This module explains how to use benefits and  components of Windows Deployment Services, including image capture and  management.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introducing Windows Deployment Services</li>
+  <li>WDS Components</li>
+</ul>
+
+<p><strong>Module 3: Windows Server 2008 Server Core</strong> - This module explains how to use key functionality and benefits of a Server Core installation, including adding and configuring  roles.</p>
+
+<p><strong>Lessons </strong></p>
+<ul>
+  <li>Server Core Introduction</li>
+  <li>Configuring and Managing Server Core</li>
+</ul>
+
+<p><strong>Module 4: Windows Backup</strong> - This module provides an overview of the new backup  infrastructure in Windows Server 2008, including Volume Shadow Copy service, scheduled vs. manual backups, media, the Universal Disk Format (UDF), and restoring data.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Backup Infrastructure</li>
+  <li>Optical Media</li>
+  <li>Restore Utilities</li>
+</ul>
+
+<p><strong>Module 5: Windows Server 2008 Updates to Networking</strong> - This module explains how to use new and improved  networking features in Windows Server 2008, including server and domain  isolation, IPv6, and DNS.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Networking with Windows Server 2008</li>
+  <li>New Networking Features</li>
+  <li>DNS with Windows Server 2008</li>
+  <li>Configuring Routing</li>
+  <li>Configuring Wireless Settings in Server 2008</li>
+</ul>
+
+<p><strong>Module 6: Network Policies and Access Protection</strong> - This module explains how to use Network Access Protection (NAP) and related technologies to enforce security and client health  policies.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Network Policies Access Protection</li>
+  <li>Enforcement Options</li>
+  <li>Network Access Protection Scenarios</li>
+  <li>Routing and Remote Access</li>
+</ul>
+
+<p><strong>Module 7: Hyper-V</strong> - This module explains how to use new capabilities and architecture in Hyper-V, including integrated management functions for  physical and virtual environments.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introducing Hyper-V</li>
+  <li>Configuring Hyper-V</li>
+</ul>
+
+<p><strong>Module 8: Planning for Windows Server 2008 Active  Directory Services</strong> - This module explains how to install and configure  the Active Directory Domain Services (ADDS) server role and administering it  with Server Manager. It also explores planning for deploying an Active  Directory Domain Services infrastructure.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning for AD DS Deployment</li>
+  <li>Upgrade Considerations</li>
+</ul>
+
+<p><strong>Module 9: Active Directory Domain Services</strong> - This module explains how to create and manage  accounts, subnets, Site-Links, and Group Policy with new features in Active  Directory Domain Services.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>What&rsquo;s New in AD DS</li>
+  <li>Manageability and Reliability</li>
+</ul>
+
+<p><strong>Module 10: Identity and Access Services in Windows Server 2008 Active Directory</strong> - This module introduces Windows Server 2008's new  Active Directory Services:</p>
+<ul>
+  <li>Active Directory Federation Services for identity access solution.</li>
+  <li>Active Directory Lightweight Directory Services (replaces Active Directory Account Management with Windows Server 2003), providing directory  services for applications. </li>
+  <li>Active Directory Right Management Services, enabling the creation of  information-protection solutions.</li>
+</ul>
+
+<p><strong>Lessons </strong></p>
+<ul>
+  <li>Active Directory Federation Services</li>
+  <li>Active Directory Lightweight Directory Services</li>
+  <li>Active Directory Rights Management Services</li>
+</ul>
+
+<p><strong>Module 11: Read-Only Domain Controllers</strong> - This module explains how to set up and manage a read-only domain controller.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Read-Only Domain Controllers</li>
+  <li>Read-Only Domain Controller Operation</li>
+</ul>
+
+<p><strong>Module 12: Auditing Active Directory Domain  Services Changes</strong> - This module explores new auditing features in  Active Directory Domain Services and how to set up and manage auditing events.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>What&rsquo;s New in AD DS Auditing</li>
+  <li>Implementing AD DS Change Auditing</li>
+</ul>
+
+<p><strong>Module 13: Enterprise  PKI Active Directory Certificate Services (AD CS)</strong> - This module explains how to set up and manage  Active Directory Certificate Services using PKIView.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Certificate Authority</li>
+</ul>
+
+<p><strong>Module 14: High Availability Features</strong> - This module explains how to use failover clustering and network load balancing.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Failover Clustering</li>
+  <li>Network Load Balancing</li>
+</ul>
+
+<p><strong>Module 15: Performance Monitoring and Optimization</strong> - This module explains how to use Windows Server  2008's performance monitoring tools, including using Windows System Resource  Manager to implement server resource controls.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Windows Reliability and Performance Monitor</li>
+  <li>Microsoft Windows System Resource Manager</li>
+  <li>Monitoring Events</li>
+</ul>
+
+<p><strong>Module 16: Software Maintenance Using Windows  Server Update Services</strong> - This module introduces Microsoft Windows Server  Update Services (WSUS), a tool for managing and distributing software updates  that resolve known security vulnerabilities and other stability issues in  Microsoft Windows 2000 and newer operating systems, as well as other Microsoft  applications. This module also describes how to install the client and server  components of WSUS. It also provides necessary information about managing the  WSUS infrastructure.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introduction to Windows Server Update Services</li>
+  <li>Installing and Configuring Windows Server Update Services</li>
+  <li>Managing Windows Server Update Services</li>
+</ul>

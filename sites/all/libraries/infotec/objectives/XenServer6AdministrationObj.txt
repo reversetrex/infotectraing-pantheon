@@ -1,0 +1,14 @@
+<p>In this course, you will learn the skills necessary to configure and administer XenServer 6.0, XenCenter, and Provisioning Services 6.0. Through hands-on labs, you will gain experience with:</p>
+<ul>
+  <li>Installing and Implementing XenServer</li>
+  <li>Creating and Managing Networks</li>
+  <li>Configuring Storage</li>
+  <li>Managing and Maintaining Virtual Machines</li>
+  <li>Installing and Configuring Provisioning  Services</li>
+  <li>Managing vDisks and Target Devices</li>
+  <li>Implementing Resource Pools</li>
+  <li>Implementing the Distributed Virtual Switch (DVS)</li>
+  <li>Implementing Workload Balancing (WLB)</li>
+  <li>Configuring High Availability</li>
+  <li>Managing and Troubleshooting XenServer</li>
+</ul>

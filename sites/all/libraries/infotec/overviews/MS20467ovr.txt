@@ -1,0 +1,3 @@
+This five-day instructor-led course teaches students how to design and implement a BI infrastructure. The course discusses design, installation. The course discusses design, installation, and maintenance of a BI platform.
+<br><br>
+This course maps to skills and knowledge measured by Microsoft Exam 70-467, and in conjunction with on-the-job experience, can help prepare you for the exam.

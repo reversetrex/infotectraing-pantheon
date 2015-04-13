@@ -1,0 +1,48 @@
+<p><strong>Lesson 1: Exploring the InDesign  Environment</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Identify the InDesign Interface Components</li>
+  <li><strong>Topic 1B: </strong>Customize the Interface</li>
+  <li><strong>Topic 1C: </strong>Use the Navigation Controls</li>
+  <li><strong>Topic 1D: </strong>Set General and Interface Preferences</li>
+</ul>
+<p><strong>Lesson 2: Designing Documents</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Create a Document</li>
+  <li><strong>Topic 2B: </strong>Add Text</li>
+  <li><strong>Topic 2C: </strong>Add Graphical Objects</li>
+</ul>
+<p><strong>Lesson 3: Enhancing Documents</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Format Characters and Paragraphs</li>
+  <li><strong>Topic 3B: </strong>Apply Colors, Swatches, and Gradients</li>
+  <li><strong>Topic 3C: </strong>Apply Fills and Strokes</li>
+  <li><strong>Topic 3D: </strong>Create and Apply Styles</li>
+</ul>
+<p><strong>Lesson 4: Working with Page Elements</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Arrange Objects</li>
+  <li><strong>Topic 4B: </strong>Align Objects</li>
+  <li><strong>Topic 4C: </strong>Manage Page Elements with Layers</li>
+</ul>
+<p><strong>Lesson 5: Managing Objects</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Transform Objects</li>
+  <li><strong>Topic 5B: </strong>Manipulate Objects</li>
+  <li><strong>Topic 5C: </strong>Thread Text Frames</li>
+  <li><strong>Topic 5D: </strong>Search and Replace Content</li>
+  <li><strong>Topic 5E: </strong>Edit Text</li>
+</ul>
+<p><strong>Lesson 6: Working with Tables</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Create a Table</li>
+  <li><strong>Topic 6B: </strong>Modify a Table Structure</li>
+  <li><strong>Topic 6C: </strong>Format a Table</li>
+</ul>
+<p><strong>Lesson 7: Finalizing Documents</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Check Documents for Errors</li>
+  <li><strong>Topic 7B: </strong>Print a Document</li>
+  <li><strong>Topic 7C: </strong>Package Files</li>
+  <li><strong>Topic 7D: </strong>Export PDF Files for Commercial Printing</li>
+  <li><strong>Topic 7E: </strong>Prepare PDF Files for Web Distribution</li>
+</ul>

@@ -1,0 +1,12 @@
+<p>Upon successful completion of this course, students will be able to use Adobe InDesign CS6 to create and deliver professional looking printed and interactive documents. You will:</p>
+<ul>
+  <li>Create layouts for multiple formats.</li>
+  <li>Manage advanced page elements.</li>
+  <li>Manage styles.</li>
+  <li>Build complex paths.</li>
+  <li>Manage external files.</li>
+  <li>Create dynamic documents.</li>
+  <li>Manage long documents.</li>
+  <li>Publish InDesign files for other formats.</li>
+  <li>Customize print settings.</li>
+</ul>

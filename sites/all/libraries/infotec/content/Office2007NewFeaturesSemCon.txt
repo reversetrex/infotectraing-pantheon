@@ -1,0 +1,43 @@
+<ul>
+  <li>The Ribbon User Interface</li>
+  <li>The Office Button</li>
+  <li>The Quick Access Toolbar</li>
+  <li>The Microsoft Office Status Bar</li>
+  <li>Live Preview</li>
+  <li>Galleries</li>
+  <li>Contextual Tabs</li>
+  <li>Clear Formatting and the Quick Styles Gallery</li>
+  <li>Themes</li>
+  <li>Graphic Enhancements</li>
+  <li>Table Enhancements</li>
+  <li>SmartArt</li>
+  <li>Saving a File</li>
+  <li>Building Blocks Organizer</li>
+  <li>Compare Reviewed Documents</li>
+  <li>Document Inspection</li>
+  <li>Mark as Final</li>
+  <li>Increased Capacity</li>
+  <li>The Page Layout View</li>
+  <li>Formula AutoComplete</li>
+  <li>Enhanced Conditional Formatting</li>
+  <li>Enhanced Charts and Chart Galleries</li>
+  <li>Enhanced Excel Tables</li>
+  <li>Text to Columns</li>
+  <li>Enhanced Pivot Tables</li>
+  <li>To-do Bar</li>
+  <li>Calendar Overlay</li>
+  <li>Color Categories</li>
+  <li>Calendar Snapshots</li>
+  <li>Attachment Preview</li>
+  <li>Out of Office Assistant</li>
+  <li>SharePoint Integration</li>
+  <li>Themes</li>
+  <li>Enhanced Slide Master</li>
+  <li>Photo Album Feature</li>
+  <li>Field Insertion</li>
+  <li>Attachment Data Type</li>
+  <li>Date Picker in Tables and Attaching a File to a Record</li>
+  <li>Tab View</li>
+  <li>Quick forms and Reports</li>
+  <li>Layout  View</li>
+</ul>

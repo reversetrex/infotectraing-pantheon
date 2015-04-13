@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Install and configure Windows Server 2008 Hyper-V.</li>
+  <li>Understand Hyper-V Virtual Networking.</li>
+  <li>Understand the types of Virtual Hard Drives and their benefits.</li>
+  <li>Create and manage Virtual Machines on the Hyper-V server.</li>
+  <li>Understand how to configure the Hyper-V server to ensure high availability.</li>
+  <li>Monitor the performance of the Hyper-V server.</li>
+  <li>Understand how to use existing virtual machines in the Hyper-V server.</li>
+  <li>Understand the issues with migrating existing Virtual Machines to Hyper-V.</li>
+  <li>Understand how System Center Virtual Machine Manager (VMM) can be used to manage Hyper-V  servers throughout the enterprise.</li>
+  <li>Use  PowerShell to manage the Hyper-V server and the virtual machines hosted on the  Hyper-V server.</li>
+  <li>Implement a disaster recovery plan for Virtual Machines on Hyper-V.</li>
+</ul>

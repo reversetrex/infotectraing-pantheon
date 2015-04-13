@@ -1,0 +1,10 @@
+<p>Upon completing this course, you will be able to meet these objectives:</p>
+
+<ul>
+	<li>Describe wireless fundamentals, such as topologies, RF principles and math, antennae, spread spectrum technologies, frames and physics, wireless regulatory bodies, standards and certifications, and the non 802.11 wireless technologies and their impact. </li>
+	<li>Describe the Cisco Unified Wireless networks basics and configure a Cisco Unified Wireless Network Controller and a Mobility Express Controller. </li>
+	<li>Describe and configure default OS wireless client configuration tools, use the Cisco Aironet Desktop Utility and Site Survey Utility, the Cisco Secure Services Client, and describe the CCX program.</li>
+	<li>Describe and configure wireless security.</li>
+	<li>Manage the wireless network from the Wireless Control System (WCS).</li>
+	<li>Maintain and troubleshoot wireless networks.</li>
+</ul>

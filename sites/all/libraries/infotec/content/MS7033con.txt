@@ -1,0 +1,32 @@
+<p><strong> Unit 1: Database and Instance <br>
+</strong>In this Unit we will provide terminologies with proper definitions to unambiguously identify the various components of a database management system. </p>
+<p><strong> Unit 2: Database Architecture <br>
+</strong>This Unit examines the SQL Server 2005 database architecture. </p>
+<p><strong> Unit 3: Instance Architecture <br>
+</strong>This Unit describes the instance architecture, and explains how the two main components of an instance, the memory and processes, are leveraged to achieve &quot;high performance&quot; in large multi-user environment. </p>
+<p><strong> Unit 4: Data Objects <br>
+</strong>This Unit discusses the objects in the database that are used to organize and store the content that most concerns the user; the business data. </p>
+<p><strong> Unit 5: Data Access <br>
+</strong>This Unit explains how data access works and the many components required to access the data from an application. </p>
+<p><strong> Unit 6: Data Protection <br>
+</strong>This Unit examines in detail the data protection mechanisms in SQL Server 2005. </p>
+<p><strong> Unit 7: Basic Administration <br>
+</strong>This Unit we will examine the data available in the data dictionary and the functionality available to be able to use the information for administration. </p>
+<p><strong> Unit 8: Server Management <br>
+</strong>This Unit describes how to tie resources to other logical storage structures and to schema objects and the resources to sessions and transactions. </p>
+<p><strong> Unit 9: Managing Schema Objects <br>
+</strong>This Unit describes how to implement naming guidelines for identifiers in schema object definition, manage the storage and structure of schema objects and implement data integrity using constraints. </p>
+<p><strong> Unit 10: Database Security <br>
+</strong>This Unit describes how an administrator can create and manage logins, users, roles and profiles. You will also learn to implement security policies and access through system and object privileges. </p>
+<p><strong> Unit 11: Data Transport <br>
+</strong>This Unit explores one of the common functions of the database administrator, which is, moving data in and out of a database. </p>
+<p><strong> Unit 12: Backup and Recovery <br>
+</strong>This Unit we delve into backup and recovery concepts in SQL Server. </p>
+<p><strong> Unit 13: Performance Tuning <br>
+</strong>This Unit describe two performance tuning methodologies; application tuning and instance tuning of SQL Server 2005. </p>
+<p><strong> Unit 14: Scalability and High Availability <br>
+</strong>This Unit discusses scalability and high availability of SQL Server 2005. </p>
+<p><strong> Unit 15: Monitoring <br>
+</strong>In this Unit we will discover the various monitoring activities that need to be performed against the database and its server, and the tools at our disposal. </p>
+<p><strong> Unit 16: Microsoft SQL Server Migration Assistant (SSMA) <br>
+</strong>This Unit you will learn how the Microsoft SQL Server Migration Assistant (SSMA) tool helps assess a migration task, convert PL/SQL code to T-SQL code, migrate data, test the migrated objects and deploy them. SSMA can, significantly reduce the overall time needed to complete a migration by automating several processes. </p>

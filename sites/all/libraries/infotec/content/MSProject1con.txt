@@ -1,0 +1,25 @@
+<p><strong> Unit 1: Creating a Project Plan File</strong></p>
+<p> Topic 1A: Create a Project Plan File <br>
+Topic 1B: Create and Assign a Project Calendar <br>
+Topic 1C: Add Tasks to the Project Plan File <br>
+Topic 1D: Add a Project Summary Task <br>
+Topic 1E: Add a Recurring Task <br>
+Topic 1F: Enter Task Duration Estimates</p>
+<p><strong> Unit 2: Creating a Work Breakdown Structure </strong></p>
+<p> Topic 2A: Outline Tasks <br>
+Topic 2B: Link Dependent Tasks <br>
+Topic 2C: Identify Deliverables in the Project Plan File <br>
+Topic 2D: Constrain Tasks <br>
+Topic 2E: Set a Task Deadline</p>
+<p><strong> Unit 3: Creating and Assigning Resources</strong></p>
+<p> Topic 3A: Create Resources <br>
+Topic 3B: Create a Resource Calendar <br>
+Topic 3C: Assign Resources <br>
+Topic 3D: Assign Additional Resources to a Task <br>
+Topic 3E: Resolve Resource Conflicts</p>
+<p><strong> Unit 4: Finalizing the Project Plan</strong></p>
+<p> Topic 4A: View the Critical Path <br>
+Topic 4B: Shorten the Project Duration <br>
+Topic 4C: Set a Baseline <br>
+Topic 4D: Display Project Summary Information </p>
+<br>

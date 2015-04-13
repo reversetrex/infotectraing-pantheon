@@ -1,0 +1,7 @@
+<p>Upon completing this course, you will be able to  meet these overall objectives:</p>
+<ul>
+  <li>Describe how a network works.</li>
+  <li>Configure, verify, and troubleshoot a switch with VLANs and interswitch communications.</li>
+  <li>Implement an IP addressing scheme and IP  services to meet network requirements.</li>
+  <li>Configure, verify, and troubleshoot routing  operations on Cisco Nexus switches.</li>
+</ul>

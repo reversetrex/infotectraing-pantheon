@@ -1,0 +1,29 @@
+<p><strong>6460:</strong></p>
+
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Create a WPF application.</li>
+  <li>Build a user interface in a WPF application.</li>
+  <li>Customize the appearance of a WPF application.</li>
+  <li>Bind user interface controls to data sources.</li>
+  <li>Bind user interface controls to collections.</li>
+  <li>Create new controls in a WPF application.</li>
+  <li>Manage documents in a WPF application.</li>
+  <li>Add graphics and multimedia support to a WPF application.</li>
+  <li>Configure and deploy WPF applications.</li>
+</ul>
+
+<p><strong>6461:</strong></p>
+
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Build a simple WCF service and client.</li>
+  <li>Create and configure a service as a managed application and select an appropriate hosting option.</li>
+  <li>Expose a WCF service over different endpoints and add run-time functionality by using behaviors.</li>
+  <li>Improve debugging capabilities by examining messages and service activity.</li>
+  <li>Define service, operation, and data contracts to meet application requirements.</li>
+  <li>Add error handling to a WCF application.</li>
+  <li>Address service quality issues such as performance, availability, concurrency, and instance management.</li>
+  <li>Implement security in a WCF application.</li>
+  <li>Protect data integrity through correct use of transactions.</li>
+</ul>

@@ -1,0 +1,115 @@
+<h2>Session 1</h2>
+  <h3>Section A: Course Introduction</h3>
+  <ul>
+    <li>Basic Formulas</li>
+    <li>CONCATENATE</li>
+    <li>CONCATENATE, Exponential Formulas</li>
+    <li>Text Formulas</li>
+    <li>Edit Formulas</li>
+  </ul>
+  <h3>Section B: Convert Formulas to Text</h3>
+  <ul>
+    <li>Split Cell Contents Apart</li>
+    <li>Formulas to Text Values</li>
+    <li>UPPER, LOWER, PROPER</li>
+    <li>LEFT</li>
+    <li>RIGHT</li>
+    <li>MID</li>
+    <li>Fixed with Possibility</li>
+    <li>Split Data into Three Columns</li>
+    <li>TRIM</li>
+    <li>SUBSTITUTE</li>
+    <li>REPLACE</li>
+  </ul>
+  <h3>Section C: Basic Numerical Formulas</h3>
+  <ul>
+    <li>AutoSum</li>
+    <li>SUM</li>
+    <li>AVERAGE, MIN/MAX, COUNT/COUNTA</li>
+    <li>Status Bar</li>
+    <li>Linked Formulas</li>
+    <li>Add Grand Totals</li>
+    <li>Data Consolidation</li>
+  </ul>
+  <h3>Section D: AND/OR/NOT</h3>
+  <ul>
+    <li>Working with AND/OR/NOT</li>
+    <li>AND</li>
+    <li>OR</li>
+    <li>NOT</li>
+    <li>Subtotal</li>
+    <li>Go To</li>
+    <li>MEDIAN</li>
+    <li>RANK</li>
+    <li>Reverse Order RANK</li>
+    <li>LARGE</li>
+    <li>SMALL</li>
+    <li>ISNUMBER</li>
+    <li>ISTEXT</li>
+    <li>IFERROR</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: SUMIF and AVERAGEIFS</h3>
+  <ul>
+    <li>SUMIF</li>
+    <li>AVERAGEIF</li>
+    <li>COUNTIF</li>
+    <li>SUMIFS</li>
+    <li>Formula Wizard SUMIFS</li>
+    <li>AVERAGEIFS</li>
+    <li>COUNTIFS</li>
+    <li>IF Formulas</li>
+    <li>ABS Formula</li>
+  </ul>
+  <h3>Section B: Nested Formulas</h3>
+  <ul>
+    <li>Working with Nested Formulas</li>
+    <li>Calculating Nested Formulas</li>
+    <li>Nesting other Formulas inside an IF</li>
+    <li>IF(AND</li>
+    <li>FIND</li>
+    <li>Nest FIND Formula</li>
+    <li>INDIRECT Formula</li>
+    <li>Column and Row</li>
+  </ul>
+  <h3>Section C: Date Formulas</h3>
+  <ul>
+    <li>DATE Formula</li>
+    <li>Calculating DATE Formula</li>
+    <li>Weekdays</li>
+    <li>NETWORKDAYS</li>
+    <li>Working with NETWORKDAYS</li>
+  </ul>
+  <h3>Section D: Conditional Formatting</h3>
+  <ul>
+    <li>New Conditional Formatting Rule</li>
+    <li>Conditional Formatting by Formula</li>
+    <li>Conflicts in Formatting</li>
+  </ul>
+  <h3>Section E: VLOOKUP</h3>
+  <ul>
+    <li>What is VLOOKUP?</li>
+    <li>VLOOKUP Arguments</li>
+    <li>VLOOKUP Approximate Match</li>
+    <li>VLOOKUP Exact Match</li>
+    <li>Testing Exact Match</li>
+  </ul>
+  <h3>Section F: What-If Analysis</h3>
+  <ul>
+    <li>Goal Seek</li>
+    <li>Solver</li>
+    <li>Solver Parameter</li>
+    <li>Scenario Manager</li>
+    <li>Input Tables</li>
+    <li>Dual Input Tables</li>
+    <li>MATCH</li>
+    <li>INDEX</li>
+    <li>INDEX MATCH</li>
+  </ul>
+  <h3>Section G: Array Formulas</h3>
+  <ul>
+    <li>SUM and MULTIPLICATION</li>
+    <li>SUMPRODUCT</li>
+    <li>SUBTRACTION and AVERAGE</li>
+    <li>TRANSPOSE</li>
+  </ul>

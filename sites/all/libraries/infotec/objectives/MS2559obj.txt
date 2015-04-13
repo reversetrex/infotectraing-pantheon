@@ -1,0 +1,15 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Create a simple Visual Basic .NET&ndash;based application based on the Windows Application template. </li>
+  <li> Use forms and controls to create a user interface. </li>
+  <li> Create and use variables and arrays. </li>
+  <li> Create and use <strong>Sub</strong>, <strong>Function</strong>, and <strong>Property </strong>procedures. </li>
+  <li> Implement decision structures and loops by using conditional expressions. </li>
+  <li> Resolve syntax, run-time, and logic errors by using the debugger and structured exception handling. </li>
+  <li> Validate user input for fields, controls, and forms. </li>
+  <li> Enhance the user interface by adding menus, status bars, and toolbars. </li>
+  <li> Create a simple Visual Basic .NET&ndash;based Web Forms application that uses an XML Web Service. </li>
+  <li> Apply object-oriented programming techniques to create classes, add methods, and add properties. </li>
+  <li> Access and manipulate data in a Microsoft Access database by using ADO.NET. </li>
+  <li> Build, package, and deploy an application. </li>
+</ul>

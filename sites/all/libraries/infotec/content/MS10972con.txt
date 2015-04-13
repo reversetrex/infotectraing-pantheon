@@ -1,0 +1,88 @@
+<p><strong>Module 1: Overview and Installing Internet Information Services</strong> - In this module students will learn about the network infrastructure planning and common concerns with implementing a web server. Students will perform an installation of IIS and verify the working web server by testing the default created website.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding a Web Server infrastructure</li>
+  <li>Installing Internet Information Services</li>
+</ul>
+<p><strong>Module 2: Configuring The Default Website</strong> - In this module students will learn to plan and implement network requirements for a public website. Students will configure DNS records to support access to internal and public websites and create virtual directories and application folders for additional website content.</p>
+<p>Lessons</p>
+<ul>
+  <li>Examining the Default Website using IIS Manager</li>
+  <li>Examining the Default IIS File Structure</li>
+  <li>Configuring DNS records for a website</li>
+  <li>Creating virtual directories and Applications</li>
+</ul>
+<p><strong>Module 3: Configuring and Managing Application Pools</strong> - In this module students will learn the benefits to the application pool architecture. Students will create and configure application pools to support additional applications and configure application pool recycle settings. Students will perform recycle events and examine the event logs for recycle events.</p>
+<p>Lessons</p>
+<ul>
+  <li>Defining the Application Pool Architecture</li>
+  <li>Creating and Managing Application Pools</li>
+  <li>Configuring Application Pool Recycling</li>
+</ul>
+<p><strong>Module 4: Creating additional websites</strong> - In this module students will learn how to examine and create new websites using unique bindings to avoid naming conflicts. Students will examine existing sites to determine and resolve binding conflicts then create new websites by using unique bindings.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding multiple websites on a single server</li>
+  <li>Examining and configuring the website bindings</li>
+  <li>Creating New Websites</li>
+</ul>
+<p><strong>Module 5: Configuring Website and Web application support</strong> - In this module students will learn to support additional application requriements including common configuration settings, platform support from the built-in web server, and include additional application support by using the Web Platform Installer.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Common features</li>
+  <li>Adding support for web applications</li>
+</ul>
+<p><strong>Module 6: Securing Websites and applications</strong> - In this module students will learn to secure internal and public websites for users and groups by using the built-in Windows and Basic authentication. Students will configure file system permissions for specific users and groups and secure a website using URL Authorization Rules.</p>
+<p>Lessons</p>
+<ul>
+  <li>Defining Access Control for Web Servers, Sites and Applications</li>
+  <li>Configuring Authentication and permissions</li>
+  <li>Enabling URL Authorization Rules</li>
+</ul>
+<p><strong>Module 7: Securing Data Transmissions with SSL</strong> - In this module students will protect customer data using websites configured for SSL. Students will install and configure PKI certificates on a web server, create secured bindings, and verify that a website data transmissions are secured.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding Certificates and SSL</li>
+  <li>Creating certificates for a web server</li>
+  <li>Adding a certificate to a website</li>
+</ul>
+<p><strong>Module 8: Using the Central Certificate Store</strong> - In this module students will install and configure the IIS 8.5 Central Certificate Store to enable centralized and improved certificate management, Students will configure a website to use a secured binding with the Central Certificate Store.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding the Central Certificate Store</li>
+  <li>Installing and configuring the Central Certificate Store</li>
+</ul>
+<p><strong>Module 9: Configuring Remote Administration</strong> - In this module students will configure secured remote management of web servers and websites. Create and configure permissions for site level administrators and developers, and verify web server and website management.</p>
+<p>Lessons</p>
+<ul>
+  <li>Installing and Configuring the Management Service</li>
+  <li>Connecting to remote web servers and websites</li>
+  <li>Delegating Management Access</li>
+</ul>
+<p><strong>Module 10: Implementing FTP</strong> - In this module students will learn configure a secured FTP site for users to store and retrieve files. Student will configure authentication, authorization and the FTP storage location. Students will retrieve and files using the native Windows FTP command.</p>
+<p>Lessons</p>
+<ul>
+  <li>Implementing FTP</li>
+  <li>Configuring an FTP site</li>
+  <li>Configuring an FTP site</li>
+</ul>
+<p><strong>Module 11: Monitoring IIS</strong> - In this module students will learn to monitor IIS log files and performance counters using Log Parser and PerfMon. Students will identify common issues related to performance and attacks recorded in the log files.</p>
+<p>Lessons</p>
+<ul>
+  <li>Monitoring IIS logs with Log Parser</li>
+</ul>
+<p><strong>Module 12: Backing up and Restoring IIS</strong> - In this module students will learn to backup and recover form a website or web server failure. Students will learn the importance of using high available techniques to avoid the recovery process.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding the IIS environment for Backup and restore</li>
+  <li>Performing a backup and restore of a website</li>
+</ul>
+<p><strong>Module 13: Building Load-Balanced Web Farms</strong> - In this module students will learn to increase reliability and performance of website by creating a web farm. Students will improve the management and update capabilities of the websites by using shared content in both a network share and DFS-R. Student will improve web server and website management by using Shared Configurations.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding load-balancing Mechanisms</li>
+  <li>Building a Load-Balanced Web Farm using ARR</li>
+  <li>Sharing content to a Web Farm using a network share</li>
+  <li>Sharing content to a Web Farm using DFS-R</li>
+  <li>Sharing IIS Configurations in a Web Farm</li>
+</ul>

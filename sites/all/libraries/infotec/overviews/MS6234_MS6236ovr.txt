@@ -1,0 +1,7 @@
+<p><strong>MS 6234</strong></p>
+
+<p>This part of the course teaches students how to implement an Analysis Services solution in an organization. The course discusses how to use the Analysis Services development tools to create an Analysis Services database and an OLAP cube, and how to use the Analysis Services management and administrative tools to manage an Analysis Services solution.</p>
+
+<p><strong>MS 6236</strong></p>
+
+<p>This part of the course teaches students how to implement a Reporting Services solution in an organization. The course discusses how to use the Reporting Services development tools to create reports, and how to use the Reporting Services management and administrative tools to manage a Reporting Services solution.</p>

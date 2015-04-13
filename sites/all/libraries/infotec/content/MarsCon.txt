@@ -1,0 +1,16 @@
+<ol>
+  <li>Introducing Cisco Security Monitoring, Analysis, and Response System</li>
+  <li>Understanding the System Architecture</li>
+  <li>Configuring a Cisco Security MARS Appliance</li>
+  <li>Adding Reporting and Mitigation Devices</li>
+  <li>Viewing the Summary Page</li>
+  <li>Managing Rules</li>
+  <li>Understanding Queries and Reports</li>
+  <li>Investigating and Mitigating Incidents</li>
+  <li>Working with User-Defined Log Parser  Templates</li>
+  <li>Integrating with Cisco Security Manager</li>
+  <li>Managing and Administering the System</li>
+  <li>Troubleshooting and Optimizing Cisco Security MARS</li>
+  <li>Using the Cisco Security MARS Global Controller</li>
+  <li>Course Review</li>
+</ol>

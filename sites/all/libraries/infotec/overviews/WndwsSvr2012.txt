@@ -1,0 +1,8 @@
+Join LearnKey expert Jason Manibog as he takes you through the Windows
+Server 2012 Administrator course. Users will learn to manage and configure
+Active Directory, NPS infrastructure, and configuration file and print
+services. Users will also learn to deploy, manage, and maintain servers
+along with other skills and knowledge needed to be prepared to take exam
+70-411.
+
+

@@ -1,0 +1,28 @@
+<h2>Session 1</h2>
+  <h3>Section A: Calming Upset Customers</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+  </ul>
+  <h3>Section B: Why Customers Get Upset</h3>
+  <ul>
+    <li>People and Systems</li>
+    <li>Why Customers Leave</li>
+    <li>Avoidable Upsets</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Responding to Upset Customers</h3>
+  <ul>
+    <li>First Impressions</li>
+    <li>Right Words</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Calming Your Customers</h3>
+  <ul>
+    <li>Listening</li>
+    <li>Calming Techniques</li>
+    <li>The Telephone</li>
+    <li>Reaching Agreement</li>
+    <li>Key Fact</li>
+    <li>Customer Satisfaction</li>
+  </ul>

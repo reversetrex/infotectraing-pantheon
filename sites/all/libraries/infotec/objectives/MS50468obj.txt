@@ -1,0 +1,1 @@
+<p>After completing this  course, students will be able to understand and work  with SharePoint Lists, List Management tasks, Permissions and basic SharePoint Foundation sites.</p>

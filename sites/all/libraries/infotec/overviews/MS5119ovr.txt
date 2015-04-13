@@ -1,0 +1,7 @@
+<p>This two-day instructor-led course provides students with the knowledge and skills to use a Windows Vista operating system image and application package deployment infrastructure to  minimize the downtime at the Windows Vista client. The desktop support  technicians can use this infrastructure to improve the support experience in  the following scenarios:</p>
+<ul>
+  <li>New installations</li>
+  <li>Single computer migrations</li>
+  <li>Single computer installations</li>
+</ul>
+<p>The course also provides guidance on how to install application packages on Windows Vista computers for support scenarios that require application updates or reinstalls.</p>

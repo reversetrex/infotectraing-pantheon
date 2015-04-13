@@ -1,0 +1,12 @@
+<ul>
+  <li> Understand the duties of a DBA </li>
+  <li> Describe the Oracle Server Architecture </li>
+  <li> Recognize how transactions are processed </li>
+  <li> Manage and archive redo (transaction) information </li>
+  <li> Create and manage storage for database segments </li>
+  <li> Implement segments such as tables, indexes, views, and partitions </li>
+  <li> Startup and shutdown a database </li>
+  <li> Create a database </li>
+  <li> Manage undo segments </li>
+  <li>Create and manage users, roles, profiles, and privileges</li>
+</ul>

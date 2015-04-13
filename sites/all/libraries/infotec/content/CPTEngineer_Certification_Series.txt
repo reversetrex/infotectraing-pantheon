@@ -1,0 +1,689 @@
+<h2>Advanced Exploitation Revealed Course Session 1</h2>
+  <h3>Section A: The Nature of Exploits</h3>
+  <ul>
+    <li>Exploits</li>
+    <li>Format Strings</li>
+    <li>Race Conditions</li>
+    <li>Memory Organization</li>
+    <li>Buffer Overflow</li>
+    <li>Buffers and Stacks</li>
+    <li>Stack Function</li>
+    <li>How a Buffer Overflow Works</li>
+    <li>Heap Overflow</li>
+    <li>Heap Spraying</li>
+    <li>Prevention</li>
+  </ul>
+  <h3>Section B: Exploit Development and the Tools</h3>
+  <ul>
+    <li>Exploit Development</li>
+    <li>Shellcode Development</li>
+    <li>Metasploit</li>
+    <li>Meterpreter</li>
+    <li>Fuzzers</li>
+    <li>Milw0rm</li>
+    <li>SAINTexploit</li>
+    <li>CORE IMPACT</li>
+    <li>Tool Comparison</li>
+  </ul>
+  <h3>Section C: Metasploit at Work</h3>
+  <ul>
+    <li>Update Metasploit</li>
+    <li>Metasploit Demo</li>
+    <li>Exploit List</li>
+    <li>Payloads</li>
+    <li>Command Line Metasploit</li>
+    <li>RPC DCOM Exploit</li>
+    <li>Metasploit Web Interface</li>
+    <li>Restart</li>
+    <li>Input Options</li>
+    <li>Client Side Attack</li>
+    <li>msf Exploit</li>
+    <li>Verifying the Exploit</li>
+    <li>Pressing the Exploit</li>
+  </ul>
+  <h3>Section D: SAINT and CORE IMPACT at Work</h3>
+  <ul>
+    <li>SAINTexploit Demo</li>
+    <li>Exploits</li>
+    <li>SAINTwriter</li>
+    <li>CORE IMPACT Demo</li>
+    <li>Results</li>
+    <li>Analyzing the Results</li>
+  </ul>
+  <h3>Section E: Documentation and Risk Analysis</h3>
+  <ul>
+    <li>Documentation Assets</li>
+    <li>The Report</li>
+    <li>Supporting Documentation</li>
+    <li>Analyzing Risk</li>
+    <li>Report Results Matrix</li>
+    <li>Findings Matrix</li>
+  </ul>
+  <h3>Section F: Report Content and Delivery</h3>
+  <ul>
+    <li>Delivering the Report</li>
+    <li>Stating Fact</li>
+    <li>Recommendations</li>
+    <li>Executive Summary</li>
+    <li>Technical Reports</li>
+    <li>Scope of Testing</li>
+    <li>Summary Recommendations</li>
+    <li>Summary Observations</li>
+    <li>Detailed Findings</li>
+    <li>Strategic/Tactical Directives</li>
+    <li>Statement of Responsibility</li>
+  </ul>
+<h2>Pen. Testing Foundations Course Session 1</h2>
+  <h3>Section A: Pen. Testing Foundations</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+    <li>Course Objectives</li>
+    <li>The CPTS Exam</li>
+    <li>Prerequisites</li>
+    <li>Penetration Testing Defined</li>
+    <li>Benefits of Pen. Testing</li>
+    <li>Data Breach Insurance</li>
+    <li>CSI Computer Crime Survey</li>
+    <li>Attack Costs</li>
+    <li>Vulnerable Institutions</li>
+    <li>Internal Threats</li>
+  </ul>
+  <h3>Section B: The Evolving Threat</h3>
+  <ul>
+    <li>Curiosity and Personal Fame Threats</li>
+    <li>Scanning Threats</li>
+    <li>Security Vulnerability Life Cycle</li>
+    <li>Zombies</li>
+    <li>Shadowserver.org Stats</li>
+    <li>Entropy</li>
+    <li>Graphs</li>
+    <li>Botnet Locations</li>
+    <li>Botnets Defined</li>
+    <li>Understanding Botnet Growth</li>
+  </ul>
+  <h3>Section C: Methodologies and Keeping Informed</h3>
+  <ul>
+    <li>Pen. Testing Types</li>
+    <li>Hacking Life Cycle</li>
+    <li>Methodology for Pen. Testing</li>
+    <li>Additional Methodologies</li>
+    <li>Methodology Files</li>
+    <li>ISSAF (OISSG)</li>
+    <li>The OSSTMM Model</li>
+    <li>Hacker vs. Pen. Tester</li>
+    <li>Website Review</li>
+    <li>Dark Reading</li>
+    <li>Talisker</li>
+    <li>ARBOR Network's Website</li>
+    <li>CIOview Player</li>
+    <li>Seven Management Errors</li>
+  </ul>
+  <h3>Section D: Configuring a Testing Environment</h3>
+  <ul>
+    <li>VMware Setup</li>
+    <li>XP Pentester</li>
+    <li>Snapshot Manager</li>
+    <li>Inside the VMware</li>
+    <li>Toolbar/Views</li>
+    <li>Setup Considerations</li>
+    <li>BackTrack</li>
+    <li>Hardware Association</li>
+    <li>Additional Features</li>
+    <li>Power On to BIOS</li>
+    <li>Cloning the Virtual Machine</li>
+    <li>Virtual Appliances</li>
+    <li>Virtual Appliance Marketplace</li>
+  </ul>
+  <h3>Section E: Physical and Social Access</h3>
+  <ul>
+    <li>Gathered Information</li>
+    <li>Physical Access</li>
+    <li>Social Access</li>
+    <li>Social Engineering Techniques</li>
+    <li>Social Websites</li>
+    <li>IM and Chat</li>
+  </ul>
+  <h3>Section F: Digital Access/Footprinting</h3>
+  <ul>
+    <li>Digital Access</li>
+    <li>Footprinting Defined</li>
+    <li>KartOO</li>
+    <li>KartOO Website</li>
+    <li>Maltego</li>
+    <li>Views in Maltego</li>
+    <li>Finding Email Addresses</li>
+    <li>Firefox Add-On Examples</li>
+    <li>FireCAT v1.5</li>
+    <li>Firefox Add-Ons</li>
+  </ul>
+  <h3>Section G: Google Hacking and Other Online Tools</h3>
+  <ul>
+    <li>Footprinting Tools</li>
+    <li>Google Hijacking Tips</li>
+    <li>Illegal vs. Unethical</li>
+    <li>Johnny's Website</li>
+    <li>Google Hacking Database</li>
+    <li>Google Searches</li>
+    <li>Kickstart File</li>
+    <li>SensePost</li>
+    <li>Wayback Machine</li>
+    <li>Blogs, Forums, and Newsgroups</li>
+  </ul>
+  <h3>Section H: DNS and Routing Information Gathering</h3>
+  <ul>
+    <li>Domain Name Registration</li>
+    <li>WHOIS</li>
+    <li>dirk-loss.de/onlinetools</li>
+    <li>dnsstuff.com</li>
+    <li>CentralOps.net</li>
+    <li>DNS Databases</li>
+    <li>Using Nslookup</li>
+    <li>Traceroute Operations</li>
+    <li>Visual Mapping</li>
+    <li>Opus One</li>
+  </ul>
+  <h3>Section I: More Footprinting Tools</h3>
+  <ul>
+    <li>People Search Engines</li>
+    <li>Company Information Registration</li>
+    <li>Domains By Proxy</li>
+    <li>Footprinting Countermeasure Process</li>
+  </ul>
+<h2>Pen. Testing Foundations Course Session 2</h2>
+  <h3>Section A: Port Scanning and Dealing with Results</h3>
+  <ul>
+    <li>Port Scanning</li>
+    <li>Sources on TCP/IP</li>
+    <li>Organizing Results</li>
+    <li>Leo Meta-Text Editor</li>
+    <li>FreeMind</li>
+    <li>IHMC CmapTools</li>
+    <li>Leo</li>
+    <li>FreeMind Tool</li>
+    <li>CmapTools</li>
+  </ul>
+  <h3>Section B: Nmap and Its Many Uses</h3>
+  <ul>
+    <li>Popular Port Scanning Tools</li>
+    <li>Nmap</li>
+    <li>TCP Connect Scans</li>
+    <li>Half-Open Scans</li>
+    <li>Firewalled Ports</li>
+    <li>IronGeek</li>
+    <li>Nmap Service Version Detection</li>
+    <li>Additional Nmap Scans</li>
+    <li>Saving Nmap Results</li>
+    <li>Nmap UDP Scans</li>
+    <li>Nmap Idle Scans</li>
+  </ul>
+  <h3>Section C: Active Reconnaissance at Work</h3>
+  <ul>
+    <li>Nmap in Action</li>
+    <li>Zenmap</li>
+    <li>Intense Scan</li>
+    <li>BackTrack Comparison</li>
+    <li>System Scan/Analysis</li>
+    <li>Polite Command</li>
+    <li>#5 Command</li>
+    <li>Grepable Files</li>
+    <li>XML Output</li>
+    <li>nmapfe in BackTrack</li>
+  </ul>
+  <h3>Section D: Other Active Reconnaissance Tools</h3>
+  <ul>
+    <li>Unicornscan Overview</li>
+    <li>How Unicornscan Works</li>
+    <li>Unicornscan</li>
+    <li>Simple Unicornscan</li>
+    <li>SuperScan</li>
+    <li>SuperScan Demo</li>
+    <li>Look@LAN and Hping2</li>
+    <li>Hping2 In-depth</li>
+    <li>Hping2 Demo</li>
+    <li>UDP Scans with Hping2</li>
+    <li>Other UNIX/Linux Tools</li>
+    <li>Fuzzy Logic</li>
+    <li>P0f, AMAP and Fragrouter</li>
+    <li>Scanning Countermeasures</li>
+  </ul>
+  <h3>Section E: Banner Grabbing and DNS Enumeration</h3>
+  <ul>
+    <li>Enumeration</li>
+    <li>Banner Grabbing</li>
+    <li>HTTPrint</li>
+    <li>Telnetting via HTTPrint</li>
+    <li>SuperScan 4 with HTTPrint</li>
+    <li>HTTPrint Report</li>
+    <li>SMTP Banners and Nslookup</li>
+    <li>DNS Enumeration in BackTrack 3</li>
+    <li>DNS Enumeration</li>
+    <li>Zone Transfer Countermeasures</li>
+  </ul>
+  <h3>Section F: SNMP and AD Enumeration</h3>
+  <ul>
+    <li>SNMP Insecurity</li>
+    <li>SNMP Enumeration</li>
+    <li>SNMP Countermeasures</li>
+    <li>Look@LAN and SNMP</li>
+    <li>SNMP Enumeration in BackTrack</li>
+    <li>AD Enumeration</li>
+    <li>LdapMiner</li>
+    <li>AD Enumeration Countermeasures</li>
+  </ul>
+  <h3>Section G: Null Sessions</h3>
+  <ul>
+    <li>Null Sessions Defined</li>
+    <li>Null Session Tools</li>
+    <li>Dictionary Attack Tools</li>
+    <li>Injecting the Abel Service</li>
+    <li>Null Session Countermeasures</li>
+    <li>Cain and Abel Enumeration</li>
+    <li>Enumeration on Windows 2003</li>
+    <li>NAT Dictionary</li>
+    <li>Hydra</li>
+    <li>Abel Service</li>
+  </ul>
+<h2>Pen. Testing Foundations Course Session 3</h2>
+  <h3>Section A: Cracking Windows Passwords</h3>
+  <ul>
+    <li>Password Cracking</li>
+    <li>LM Hash Encryption</li>
+    <li>NT Hash Generation</li>
+    <li>Syskey Encryption</li>
+    <li>Cracking Techniques</li>
+    <li>Password Cracking with Cain</li>
+    <li>Dictionary Attack</li>
+    <li>Import Hash/Rainbow Tables</li>
+    <li>Password Recovery Software (ElcomSoft)</li>
+    <li>Winrtgen</li>
+    <li>The Shmoo Group</li>
+    <li>Creating and Using Rainbow Tables</li>
+    <li>Hash Insertion Attacks</li>
+    <li>Password Sniffing</li>
+    <li>Windows Authentication Protocols</li>
+  </ul>
+  <h3>Section B: Event Logs, Encryption, and Smart Cards</h3>
+  <ul>
+    <li>Event Viewer</li>
+    <li>Hard Disk Security</li>
+    <li>Tokens and Smart Cards</li>
+    <li>Disable Auditing</li>
+    <li>Clearing and Event Logs</li>
+    <li>Auditpol</li>
+    <li>elsave</li>
+  </ul>
+  <h3>Section C: ADS and Steganography</h3>
+  <ul>
+    <li>Alternate Data Streams</li>
+    <li>NTFS Countermeasures</li>
+    <li>Create Alternate Data Stream</li>
+    <li>Finding Alternate Data Streams</li>
+    <li>Steganography</li>
+    <li>Steganography Software</li>
+    <li>Steganography Tools</li>
+    <li>Shedding Files</li>
+  </ul>
+  <h3>Section D: Anonymous Attacking Applications</h3>
+  <ul>
+    <li>Leaving No Trace</li>
+    <li>SecurSurf</li>
+    <li>StealthSurfer II</li>
+    <li>Tor</li>
+    <li>JanusVM</li>
+    <li>Janus Tunneling</li>
+    <li>Verification of Connection</li>
+    <li>Example of Speed Reduction</li>
+    <li>Tunnel Encryption</li>
+    <li>Rootkits</li>
+    <li>Windows Rootkit Countermeasures</li>
+    <li>Rootkit.com</li>
+    <li>Rootkit Operations</li>
+    <li>Previous Existing Rootkit</li>
+    <li>IceSword</li>
+  </ul>
+  <h3>Section E: UNIX/Linux File System and Processes</h3>
+  <ul>
+    <li>UNIX and Linux</li>
+    <li>File System Structure</li>
+    <li>The Kernel</li>
+    <li>Processes</li>
+    <li>Starting and Stopping Processes</li>
+    <li>Start/Stop Example</li>
+  </ul>
+  <h3>Section F: Accounts, Groups, Permissions, and Logs</h3>
+  <ul>
+    <li>Accounts and Groups</li>
+    <li>Passwords/Shadow File Format</li>
+    <li>passwd Information</li>
+    <li>Example of Permissions</li>
+    <li>Utilizing Accounts and Groups</li>
+    <li>UNIX and Linux Permissions</li>
+    <li>Permission Indicators</li>
+    <li>Setting the UID</li>
+    <li>Trust Relationships</li>
+    <li>Logs and Auditing</li>
+  </ul>
+  <h3>Section G: Remote Access Attacks</h3>
+  <ul>
+    <li>Common Network Services</li>
+    <li>Remote Attack Types</li>
+    <li>Brute-Force Attacks</li>
+    <li>X Window System</li>
+    <li>X Window Countermeasures</li>
+    <li>Network File System</li>
+    <li>Password Encryption Methods</li>
+    <li>Password Cracking Tools</li>
+    <li>Salting</li>
+  </ul>
+  <h3>Section H: Local Attacks and Rootkits</h3>
+  <ul>
+    <li>Symbolic Links</li>
+    <li>Core File Manipulations</li>
+    <li>Shared Libraries</li>
+    <li>Kernel Flaws</li>
+    <li>File/Directory Permissions</li>
+    <li>World-Readable / Writeable</li>
+    <li>Clearing the Log Files</li>
+    <li>UNIX/Linux Rootkits</li>
+    <li>Rootkit Countermeasures</li>
+  </ul>
+  <h3>Section I: Hacking an Ubuntu Server</h3>
+  <ul>
+    <li>Common Attack - Inconfigured Services</li>
+    <li>Mount</li>
+    <li>Copy Files to tmp</li>
+    <li>Reading Data</li>
+    <li>Creating a Backdoor</li>
+    <li>Sudo Adduser</li>
+    <li>Add User to Admin Group</li>
+    <li>Destroying the Evidence</li>
+    <li>wtmp File</li>
+    <li>Altering the File</li>
+    <li>Verifying the Illusion</li>
+  </ul>
+<h2>Pen. Testing Websites and Databases Course Session 1</h2>
+  <h3>Section A: The Essence of SQL Injection</h3>
+  <ul>
+    <li>Databases</li>
+    <li>Vulnerabilities / Common Attacks</li>
+    <li>SQL Injections</li>
+    <li>Impacts of SQL Injection</li>
+    <li>Business Impacts of SQL Injection</li>
+    <li>Using SQL Injection</li>
+    <li>SQL Injection Enumeration</li>
+    <li>Extended Stored Procedures</li>
+    <li>Lee Lawson Video</li>
+  </ul>
+  <h3>Section B: Direct Attacks and Protection</h3>
+  <ul>
+    <li>Direct Attacks</li>
+    <li>Attacking Database Servers</li>
+    <li>Obtaining Sensitive Information</li>
+    <li>Hacking Tools</li>
+    <li>Oracle Security Tips</li>
+    <li>Metasploit</li>
+    <li>Metasploit Demo</li>
+    <li>Finding and Fixing SQL Injections</li>
+    <li>Hardening Databases</li>
+  </ul>
+  <h3>Section C: SQL Injection in Action</h3>
+  <ul>
+    <li>Injection Attack</li>
+    <li>Injection Attack Demo</li>
+    <li>Joel Helkason Video</li>
+  </ul>
+  <h3>Section D: Attack Methods</h3>
+  <ul>
+    <li>Web Server Market Share</li>
+    <li>Common Web App Threats</li>
+    <li>Progression of the Professional Hacker</li>
+    <li>Anatomy of a Web Application Attack</li>
+    <li>A Generic Web Application System</li>
+    <li>Query Strings</li>
+    <li>URL Mappings to Web Application Systems</li>
+    <li>Penetration Methodologies</li>
+  </ul>
+  <h3>Section E: Most Common Attacks Illustrated</h3>
+  <ul>
+    <li>Vertical Privilege Escalation</li>
+    <li>XSS: Cross-Site Scripting</li>
+    <li>Business Impacts of XSS</li>
+    <li>Finding/Fixing XSS</li>
+    <li>Injection Flaws</li>
+    <li>Unvalidated Input</li>
+    <li>Unvalidated Input Illustrated</li>
+    <li>Business Impacts of Unvalidated Input</li>
+    <li>Finding/Fixing Unvalidated Input</li>
+    <li>Attacks Against IIS</li>
+    <li>Unicode</li>
+  </ul>
+  <h3>Section F: Tools of the Trade Part I</h3>
+  <ul>
+    <li>N-Stalker</li>
+    <li>NTOSpider</li>
+    <li>Free Web Assessment Tools</li>
+    <li>N-Stalker Demo</li>
+    <li>HTTrack</li>
+    <li>Wikto</li>
+  </ul>
+  <h3>Section G: Tools of the Trade Part II</h3>
+  <ul>
+    <li>Paros Proxy</li>
+    <li>Paros Proxy Demo</li>
+    <li>Burp Proxy</li>
+    <li>Dictionary Maker/Cookies</li>
+    <li>Acunetix Web Scanner</li>
+    <li>Eclipse for Code Review</li>
+    <li>OWASP WebScarab</li>
+    <li>Samurai Web Testing</li>
+  </ul>
+<h2>Pen. Testing Wired and Wireless Networks Course Session 1</h2>
+  <h3>Section A: Sniffers</h3>
+  <ul>
+    <li>Packet Sniffing</li>
+    <li>Wireshark</li>
+    <li>Following the TCP Stream</li>
+    <li>Additional Wireshark Features</li>
+    <li>Packetyzer</li>
+    <li>Command Line Protocol Analyzers</li>
+    <li>The OmniPeek Series</li>
+    <li>Cain &amp; Abel</li>
+    <li>Active Sniffing Methods</li>
+  </ul>
+  <h3>Section B: ARP Poisoning and Sniffing</h3>
+  <ul>
+    <li>Switch Table Flooding</li>
+    <li>ARP Cache Poisoning</li>
+    <li>ARP Normal Operation</li>
+    <li>Countermeasures</li>
+    <li>Cache Posioning Via Cain &amp; Abel</li>
+    <li>Ettercap</li>
+    <li>Dsniff Suite</li>
+  </ul>
+  <h3>Section C: DNS Spoofing and Breaking SSL</h3>
+  <ul>
+    <li>DNS Spoofing</li>
+    <li>Session Hijacking</li>
+    <li>Breaking SSL Traffic</li>
+    <li>Cain &amp; Abel Demo</li>
+    <li>Testing on Hotmail</li>
+    <li>Testing on Gmail</li>
+    <li>Testing on Salesforce</li>
+    <li>Testing on Mile2 Site</li>
+    <li>Ettercap in BackTrack</li>
+  </ul>
+  <h3>Section D: Evading Firewalls and IDS/IPS</h3>
+  <ul>
+    <li>Voice over IP</li>
+    <li>Intercepting VoIP</li>
+    <li>Intercepting RDP</li>
+    <li>Cracking RDP Encryption</li>
+    <li>Countermeasures for Sniffing</li>
+    <li>Evasive Techniques</li>
+    <li>Evasive Techniques Example</li>
+    <li>Evading With Encrypted Tunnel</li>
+    <li>Newer Firewall Capabilities</li>
+    <li>New Age Protection</li>
+    <li>Bastion Host</li>
+    <li>SpySnare</li>
+    <li>Intrusion Prevention</li>
+  </ul>
+  <h3>Section E: Wireless Technologies</h3>
+  <ul>
+    <li>Wireless Standards Comparison</li>
+    <li>Service Set Identifier</li>
+    <li>Wired Equivalent Privacy</li>
+    <li>Weak IV Packets</li>
+    <li>XOR Basics</li>
+    <li>WEP Weaknesses</li>
+    <li>WPA Improvements</li>
+    <li>TKIP</li>
+    <li>MIC Vulnerability</li>
+    <li>802.11i - WPA2</li>
+    <li>Connecting to a Wireless Network</li>
+    <li>LEAP</li>
+  </ul>
+  <h3>Section F: War Driving and Auditing Tools</h3>
+  <ul>
+    <li>NetStumbler</li>
+    <li>War Driving with KNSGEM</li>
+    <li>Vistumbler</li>
+    <li>Network Stumbler</li>
+    <li>Separate by SSID</li>
+    <li>Deriving Global Positioning</li>
+    <li>Generating Reports in Google Earth</li>
+    <li>Viewing Reports in Google Earth</li>
+    <li>Stockholm_C</li>
+    <li>Vistumbler Demo</li>
+    <li>Kismet</li>
+    <li>OmniPeek Personal</li>
+    <li>OmniPeek Personal Demo</li>
+  </ul>
+  <h3>Section G: Breaking WEP and WPA</h3>
+  <ul>
+    <li>Aircrack-ng Suite</li>
+    <li>Aireplay</li>
+    <li>Disassociate Attacks</li>
+    <li>Aircrack</li>
+    <li>Attacking WEP</li>
+    <li>Attacking WPA</li>
+    <li>coWPAtty</li>
+    <li>Exploiting Cisco LEAP</li>
+  </ul>
+  <h3>Section H: Tools in Action</h3>
+  <ul>
+    <li>Tool Examples</li>
+    <li>Aircrack-ng GUI</li>
+    <li>BackTrack</li>
+    <li>Kismet-Konsole</li>
+  </ul>
+  <h3>Section I: Other Tools and New Age Protection</h3>
+  <ul>
+    <li>WifiZoo</li>
+    <li>wesside-ng</li>
+    <li>Wirelessdefence.org</li>
+    <li>Aruba</li>
+    <li>Detection and Prevention</li>
+    <li>EAP</li>
+    <li>EAP-TLS Deployment</li>
+    <li>Wireless Intrusion Detection Systems</li>
+  </ul>
+<h2>Penetration Vulnerabilities Uncovered Course Session 1</h2>
+  <h3>Section A: Vulnerability Assessments</h3>
+  <ul>
+    <li>Network Service Vulnerabilities</li>
+    <li>Network Hardware Vulnerabilities</li>
+    <li>When to Apply Vulnerability Assessments</li>
+    <li>Vulnerability Assessment Tools</li>
+    <li>Security Alerts</li>
+    <li>Secunia</li>
+    <li>National Vulnerability Database</li>
+    <li>Vulnerability Scanners</li>
+  </ul>
+  <h3>Section B: VA Tools and Results</h3>
+  <ul>
+    <li>Nessus</li>
+    <li>SAINT</li>
+    <li>Retina</li>
+    <li>QualysGuard</li>
+    <li>GFI LANguard</li>
+    <li>Tool Comparisons</li>
+    <li>Microsoft Security Assessment Tool</li>
+    <li>Penetration vs. Vulnerability</li>
+    <li>Patch Management</li>
+  </ul>
+  <h3>Section C: Vulnerability Assessments at Work</h3>
+  <ul>
+    <li>Using Nessus</li>
+    <li>Nessus 4</li>
+    <li>Adding Networks/Policies</li>
+    <li>Nessus Options</li>
+    <li>Credentials</li>
+    <li>Plugin Selection</li>
+    <li>Network/Advanced</li>
+    <li>Scans/Results</li>
+    <li>Results Continued</li>
+    <li>Other Reporting Templates/Files</li>
+    <li>Exporting Reports</li>
+    <li>SAINT Functions</li>
+    <li>Sessions</li>
+    <li>Scanning</li>
+    <li>Data: Report/Analysis</li>
+    <li>Produce Full Report</li>
+    <li>SAINT Options</li>
+    <li>GFI LANguard Basics</li>
+    <li>Deploying Updates</li>
+    <li>NULL Session</li>
+  </ul>
+  <h3>Section D: Malware and Its Many Uses</h3>
+  <ul>
+    <li>Malware Distribution</li>
+    <li>Malware Capabilities</li>
+    <li>Auto Starting Malware</li>
+    <li>Countermeasures</li>
+    <li>HijackThis</li>
+    <li>Netcat</li>
+    <li>Generic Hash Demo</li>
+    <li>Netcat as a Listener</li>
+    <li>Netcat Demo</li>
+  </ul>
+  <h3>Section E: Historical Look at Malware</h3>
+  <ul>
+    <li>Executable Wrappers</li>
+    <li>eLiTeWrap</li>
+    <li>Verify the Wrap</li>
+    <li>Zenmap Scan</li>
+    <li>Troubleshooting</li>
+    <li>Fport</li>
+    <li>Delivery Examples</li>
+    <li>Restorator</li>
+    <li>ExeIcon</li>
+    <li>Infectious CD-ROM</li>
+    <li>Trojan Horses</li>
+    <li>Advanced Trojan Horses</li>
+    <li>BPMTK</li>
+  </ul>
+  <h3>Section F: Malware Countermeasures</h3>
+  <ul>
+    <li>Countermeasure Tools</li>
+    <li>Gargoyle Investigator</li>
+    <li>Spy Sweeper</li>
+    <li>Port Monitoring Software</li>
+    <li>File Protection Software</li>
+    <li>Windows Software Restriction Policies</li>
+    <li>Company Surveillance Software</li>
+    <li>Hardware-Based Detectors</li>
+    <li>User Education</li>
+  </ul>
+  <h3>Section G: Malware in Pen. Testing</h3>
+  <ul>
+    <li>Pivot an Attack</li>
+    <li>Additional Netcat Uses</li>
+    <li>Banner Grabbing</li>
+    <li>DCOM Exploit</li>
+    <li>Uploading a File</li>
+    <li>Testing the Connection</li>
+    <li>Transferring Files via Netcat</li>
+    <li>Verifying the Transfer</li>
+  </ul>

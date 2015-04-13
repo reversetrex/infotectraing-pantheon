@@ -1,0 +1,17 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Examine the Microsoft&reg; Office Access 2003 database application. </li>
+  <li> Manage the data in a database. </li>
+  <li> Examine existing table relationships. </li>
+  <li> Query the database. </li>
+  <li> Design simple forms. </li>
+  <li> Create and modify Access reports. </li>
+  <li> Follow the steps required to properly design a simple database. </li>
+  <li> Create a new database with related tables. </li>
+  <li> Control data entry by modifying the design of a table to streamline data entry and maintain data integrity. </li>
+  <li> Find and retrieve desired data by using filters and joins between tables and within a single table. </li>
+  <li> Create flexible queries to display specified records; allow for user-determined query criteria; and add, update, and delete data with queries. </li>
+  <li> Enhance the appearance, data entry, and data access capabilities of your forms. </li>
+  <li> Customize reports to better organize the displayed information and produce specific print layouts such as mailing labels. </li>
+  <li> Use Access data in other applications, including Microsoft Word and Excel. </li>
+</ul>

@@ -1,0 +1,208 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Why CCNA?</li>
+    <li>CCNA 100-101</li>
+    <li>Training Agenda</li>
+    <li>Prerequisites</li>
+    <li>Cisco Certification Track</li>
+  </ul>
+  <h3>Section B: Networking Defined</h3>
+  <ul>
+    <li>Computer Networks</li>
+    <li>History of Networking</li>
+    <li>Benefits of Networks</li>
+    <li>Networking Terminology</li>
+    <li>Network Components</li>
+    <li>Network Example</li>
+  </ul>
+  <h3>Section C: Network Devices</h3>
+  <ul>
+    <li>Hubs</li>
+    <li>Bridges</li>
+    <li>Switches</li>
+    <li>Routers</li>
+    <li>Wireless Access Points</li>
+    <li>Clients</li>
+  </ul>
+  <h3>Section D: Networking Applications</h3>
+  <ul>
+    <li>Application Variables</li>
+    <li>Standard Data</li>
+    <li>Voice Data</li>
+    <li>Management Data</li>
+    <li>Secure Data</li>
+    <li>Planning for Applications</li>
+  </ul>
+  <h3>Section E: Network Models</h3>
+  <ul>
+    <li>The OSI Model</li>
+    <li>The Seven-Layer Model</li>
+    <li>The TCP/IP Model</li>
+    <li>The Four-Layer Model</li>
+  </ul>
+  <h3>Section F: Network Architectures</h3>
+  <ul>
+    <li>Topologies</li>
+    <li>Bus Topology</li>
+    <li>Star Topology</li>
+    <li>Hybrid Topology</li>
+    <li>Mesh Topology</li>
+    <li>Network Design Models</li>
+    <li>Layered Network</li>
+    <li>Network Access Methods</li>
+  </ul>
+  <h3>Section G: Data Flow Concepts</h3>
+  <ul>
+    <li>Devices and the OSI/TCP Models</li>
+    <li>Protocols at Each TCP/IP Layer</li>
+    <li>IP</li>
+    <li>TCP</li>
+    <li>UDP</li>
+    <li>Data Flow Considerations</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Networking Media</h3>
+  <ul>
+    <li>Network Media Basics</li>
+    <li>Ethernet Cabling</li>
+    <li>Cable Speeds</li>
+    <li>Cable Lengths</li>
+    <li>Fiber Optics</li>
+    <li>Wireless Medium</li>
+    <li>Cabling Interference</li>
+    <li>Lightning Arrestors</li>
+    <li>Interception</li>
+  </ul>
+  <h3>Section B: Switches</h3>
+  <ul>
+    <li>Ethernet Switches</li>
+    <li>Ethernet Speeds</li>
+    <li>Ports</li>
+    <li>Switch Operations</li>
+    <li>PoE Switches</li>
+    <li>Management Methods</li>
+    <li>Multilayer Switches</li>
+    <li>Switch Uplinks</li>
+  </ul>
+  <h3>Section C: Initial Switch Configuration</h3>
+  <ul>
+    <li>Navigating the IOS CLI</li>
+    <li>Basic Congifuration</li>
+    <li>Remote Access Management</li>
+    <li>Using Ping</li>
+  </ul>
+  <h3>Section D: Understanding VLANs</h3>
+  <ul>
+    <li>Network Segmentation</li>
+    <li>VLANs Defined</li>
+    <li>VLAN Example</li>
+    <li>VLAN Tagging</li>
+    <li>VLAN Routing Methods</li>
+  </ul>
+  <h3>Section E: Configuring VLANs</h3>
+  <ul>
+    <li>Viewing VLANs</li>
+    <li>Creating VLANs</li>
+    <li>Modifying VLANs</li>
+  </ul>
+  <h3>Section F: VLAN Trunking</h3>
+  <ul>
+    <li>VLAN Trunk Example</li>
+    <li>VLAN Trunking Protocol</li>
+    <li>Cisco Trunking Features</li>
+    <li>Configure Trunking</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Introducing IP</h3>
+  <ul>
+    <li>Layer-Based Terminology</li>
+    <li>IP Operations</li>
+    <li>Viewing RFC 791</li>
+  </ul>
+  <h3>Section B: IPv4 Addressing</h3>
+  <ul>
+    <li>IPv4 Addresses</li>
+    <li>Subnet Masks</li>
+    <li>CIDR and VLSM</li>
+    <li>Classful and Classless IP Addressing</li>
+    <li>Summarization</li>
+    <li>Default Gateways</li>
+    <li>Public and Private IPv4 Addresses</li>
+    <li>Computer Naming Conventions</li>
+  </ul>
+  <h3>Section C: IPv6 Addressing</h3>
+  <ul>
+    <li>IPv4 Problems</li>
+    <li>IPv6 Benefits</li>
+    <li>The IPv6 Address Space</li>
+    <li>IPv6 Address Types</li>
+    <li>IPv4 and IPv6 Comparison</li>
+    <li>RFC 2460</li>
+    <li>RFC 4291</li>
+  </ul>
+  <h3>Section D: IPv6 Migration</h3>
+  <ul>
+    <li>Transitioning to IPv6</li>
+    <li>Planning Addressing</li>
+    <li>Planning Routing</li>
+    <li>Determining Time Frames</li>
+    <li>Dual Stack</li>
+    <li>Dual Stack Explanation</li>
+    <li>IPv6 over IPv4 Tunneling</li>
+    <li>Tunneling Configurations</li>
+    <li>Tunneling Technologies Usage</li>
+  </ul>
+  <h3>Section E: Introduction to Routers</h3>
+  <ul>
+    <li>Router Features</li>
+    <li>Packet Forwarding</li>
+    <li>Router Integration</li>
+  </ul>
+  <h3>Section F: Routing Basics</h3>
+  <ul>
+    <li>Router Configuration Settings</li>
+    <li>Router Verification</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: IP Routing Technologies</h3>
+  <ul>
+    <li>Introduction to Routing Protocols</li>
+    <li>Static Routing</li>
+    <li>Default Routing</li>
+    <li>OSPF Setup</li>
+  </ul>
+  <h3>Section B: Configuring Routing Protocols</h3>
+  <ul>
+    <li>Routing Protocols</li>
+    <li>OSPF-Specific Commands</li>
+    <li>OSPF Neighbor and Database</li>
+    <li>Reset and Debug</li>
+  </ul>
+  <h3>Section C: Verifying Router Configuration</h3>
+  <ul>
+    <li>Subinterface</li>
+    <li>Configure DHCP on a Router</li>
+    <li>Access Control Lists</li>
+    <li>NAT and PAT</li>
+  </ul>
+  <h3>Section D: Additional IP Services</h3>
+  <ul>
+    <li>NTP</li>
+    <li>SSH</li>
+    <li>Syslog and SNMP</li>
+  </ul>
+  <h3>Section E: Network Device Security</h3>
+  <ul>
+    <li>Security Basics</li>
+    <li>IOS Resilient Configuration</li>
+    <li>Securing Routers</li>
+    <li>Securing Switches</li>
+  </ul>
+  <h3>Section F: Troubleshooting</h3>
+  <ul>
+    <li>Troubleshooting Layer 1</li>
+    <li>Troubleshooting Layer 2</li>
+    <li>Troubleshooting Layer 3</li>
+    <li>Maintenance and Operations</li>
+  </ul>

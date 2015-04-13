@@ -1,0 +1,10 @@
+<p>During this course, you will learn:</p>
+<ul>
+  <li>Installation using Kickstart</li>
+  <li>Managing filesystems and logical volumes</li>
+  <li>Managing scheduled jobs</li>
+  <li>Accessing network filesystems</li>
+  <li>Managing SELinux</li>
+  <li>Controlling firewalling</li>
+  <li>Troubleshooting</li>
+</ul>

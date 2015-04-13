@@ -1,0 +1,17 @@
+<p><strong>Module 1: Server Roles and  Initial Configuration Tasks</strong> - This module introduces Application Server Roles, describing Application  Server features in Windows Server and demonstrating initial configuration and  Unix interoperability.</p>
+
+<p><strong>Module 2: Overview of IIS 7.0 Application Server</strong> - This module introduces IIS 7.0 modular architecture, in which more than  40 features can be independently installed. It also demonstrates new scripting  interface features and distributed configuration files.</p>
+
+<p><strong>Module 3: Managing Web  Applications with IIS 7.0</strong> - This module covers several aspects of server management in IIS 7.0. IIS  can be configured using the IIS Manager graphical user interface or using  several configuration files. It also explores the appcmd.exe command line  utility as it is used for server administration.</p>
+
+<p><strong>Module 4: Troubleshooting Web  Servers</strong> - This module describes and demonstrates IIS 7.0 features for  troubleshooting, including Runtime Control and Status API, Automatic Failed  Request Tracing, and Trace Events.</p>
+
+<p><strong>Module 5: Introduction to the  Windows SharePoint Services 3.0 Platform</strong> - This module describes and demonstrates Windows SharePoint Service 3.0,  including planning for implementation and performing a new installation.</p>
+
+<p><strong>Module 6: Configuring and  Managing Windows SharePoint Services 3.0</strong> - This module describes and demonstrates how to configure and manage  Windows SharePoint Services 3.0, including creating and configuring sites and  managing sites and servers.</p>
+
+<p><strong>Module 7: Configuring Terminal Services</strong> - Terminal Services has been updated with Windows Server 2008, including  changes to Terminal Services core. This module covers the new Terminal Services  core functionality as well as Terminal Services Web Access and Terminal  Services Licensing.</p>
+
+<p><strong>Module 8: Managing Terminal  Services</strong> - With Windows Server 2008 Remote Programs are accessed remotely through  Terminal Services. Terminal Services Gateway can be used to help secure access  to Remote Programs. This module describes and demonstrates using Terminal  Services management consoles and Event Viewer as well as using Terminal  Services with Windows System Resource Manager to optimize performance</p>
+
+<p><strong>Module 9: Configuring Storage</strong> - One of the tasks that you perform when administering a server is  managing disks. You will need to understand the Microsoft Windows Server 2008  tools that are available to set up and manage disks and disk drives. This  understanding also allows users to employ advanced features, such as creating a  mounted drive and importing a foreign disk. This  module covers these tasks and describes how to use the tools to manage and set  up disks.</p>

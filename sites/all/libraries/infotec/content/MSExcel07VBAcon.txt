@@ -1,0 +1,37 @@
+<strong>Lesson 1: Developing Macros</strong>
+<ul>
+  <li>Topic 1A: Create a Macro with the Macro Recorder </li>
+  <li>Topic 1B: Edit a Macro </li>
+  <li>Topic 1C: Debug a Macro </li>
+  <li>Topic 1D: Customize the Quick Access Toolbar and Hotkeys </li>
+  <li>Topic 1E: Work with Macro Security</li>
+</ul>
+
+<strong>Lesson 2: Formatting Worksheets Using Macros</strong>
+<ul>
+  <li>Topic 2A: Insert Text </li>
+  <li>Topic 2B: Format Text </li>
+  <li>Topic 2C: Sort Data </li>
+  <li>Topic 2D: Duplicate Data </li>
+  <li>Topic 2E: Generate a Report</li>
+</ul>
+
+<strong>Lesson 3: Creating an Interactive Worksheet</strong>
+<ul>
+  <li>Topic 3A: Determine the Dialog Box Type </li>
+  <li>Topic 3B: Capture User Input</li>
+</ul>
+
+<strong>Lesson 4: Working with Multiple Worksheets</strong>
+<ul>
+  <li>Topic 4A: Insert, Copy, and Delete Worksheets </li>
+  <li>Topic 4B: Rename Worksheets </li>
+  <li>Topic 4C: Modify the Order of Worksheets </li>
+  <li>Topic 4D: Print Worksheets</li>
+</ul>
+
+<strong>Lesson 5: Performing Calculations</strong>
+<ul>
+  <li>Topic 5A: Create User-Defined Functions </li>
+  <li>Topic 5B: Automate SUM Functions</li>
+</ul>

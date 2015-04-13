@@ -1,0 +1,32 @@
+<p><strong>Chapter 1: Course Introduction</strong></p>
+<p><strong>Chapter 2: Routing Fundamentals</strong></p>
+<ul>
+  <li>Routing Concepts: Overview of Routing</li>
+  <li>Routing Concepts: The Routing Table</li>
+  <li>Routing Concepts: Routing Instances</li>
+  <li>Static Routing</li>
+  <li>Dynamic Routing</li>
+  <li>Lab 1: Routing Fundamentals</li>
+</ul>
+<p><strong>Chapter 3: Routing Policy</strong></p>
+<ul>
+  <li>Routing Policy Overview</li>
+  <li>Case Study: Routing Policy</li>
+  <li>Lab 2: Routing Policy</li>
+</ul>
+<p><strong>Chapter 4: Firewall Filters</strong></p>
+<ul>
+  <li>Firewall Filters Overview</li>
+  <li>Case Study: Firewall Filters</li>
+  <li>Unicast Reverse-Path-Forwarding Checks</li>
+  <li>Lab 3: Firewall Filters</li>
+</ul>
+<p><strong>Appendix A: Class of Service</strong></p>
+<ul>
+  <li>CoS Overview</li>
+  <li>Traffic Classification</li>
+  <li>Traffic Queuing</li>
+  <li>Traffic Scheduling</li>
+  <li>Case Study: CoS</li>
+  <li>Lab 4: Class of Service (Optional)</li>
+</ul>

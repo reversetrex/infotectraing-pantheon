@@ -1,0 +1,176 @@
+<h2>Session 1</h2>
+  <h3>Section A: SharePoint Services Overview</h3>
+  <ul>
+    <li>Understanding SharePoint</li>
+    <li>Collaboration</li>
+    <li>SharePoint Technologies</li>
+    <li>SharePoint Services 3.0</li>
+    <li>Improving Workflow</li>
+  </ul>
+  <h3>Section B: What Makes a SharePoint Site?</h3>
+  <ul>
+    <li>WSS Structure</li>
+    <li>Web Site Components</li>
+    <li>Navigating a Site</li>
+    <li>Summary</li>
+  </ul>
+  <h3>Section C: Creating Sub Sites and Workspaces</h3>
+  <ul>
+    <li>Creating Sub Sites</li>
+    <li>Creating Meeting Workspace</li>
+  </ul>
+  <h3>Section D: Creating Workspaces from Applications</h3>
+  <ul>
+    <li>Outlook Meetings</li>
+    <li>Linking to Workspaces</li>
+    <li>Creating Outlook Workspaces</li>
+    <li>Creating Document Workspaces</li>
+  </ul>
+  <h3>Section E: Document Workspaces</h3>
+  <ul>
+    <li>Opening a Document</li>
+    <li>Document Management</li>
+    <li>Member Options</li>
+    <li>Tasks</li>
+    <li>Other Options</li>
+    <li>Updating Documents</li>
+    <li>Document Management Options</li>
+    <li>Viewing Document Workspace</li>
+  </ul>
+  <h3>Section F: Announcements</h3>
+  <ul>
+    <li>Web Parts</li>
+    <li>Creating Announcements</li>
+    <li>Adding Attachments</li>
+    <li>Viewing Announcements List</li>
+    <li>Links</li>
+  </ul>
+  <h3>Section G: Calendar</h3>
+  <ul>
+    <li>Opening Calendar</li>
+    <li>Calendar Navigation</li>
+    <li>Creating Appointments</li>
+    <li>Recurrence</li>
+    <li>Export Event</li>
+    <li>Connecting to Outlook</li>
+    <li>Overlay Mode</li>
+  </ul>
+  <h3>Section H: Contacts</h3>
+  <ul>
+    <li>Creating Contacts List</li>
+    <li>Adding Contacts</li>
+    <li>Contact Options</li>
+    <li>Using Outlook</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Issue Tracking and Tasks</h3>
+  <ul>
+    <li>Issue Tracking List</li>
+    <li>Creating Issues</li>
+    <li>Link Related Issues</li>
+    <li>Editing Issues</li>
+    <li>Creating Tasks</li>
+    <li>Connecting to Outlook</li>
+    <li>Project Tasks</li>
+    <li>Creating Project Task Items</li>
+  </ul>
+  <h3>Section B: Managing Lists</h3>
+  <ul>
+    <li>Overview</li>
+    <li>General Settings</li>
+    <li>List Versioning Settings</li>
+    <li>List Permissions</li>
+    <li>Item Permissions</li>
+    <li>Item Approval</li>
+    <li>Read Only User</li>
+  </ul>
+  <h3>Section C: List Views</h3>
+  <ul>
+    <li>Customizing Views</li>
+    <li>Editing in Data Sheet</li>
+    <li>Modifying Default Views</li>
+    <li>Sorting and Filtering</li>
+    <li>Grouping Items</li>
+    <li>Creating a New View</li>
+  </ul>
+  <h3>Section D: Customizing Lists</h3>
+  <ul>
+    <li>Creating Custom Lists</li>
+    <li>List Settings</li>
+    <li>Column Settings</li>
+    <li>Creating Lists from Spreadsheets</li>
+  </ul>
+  <h3>Section E: Working with Libraries</h3>
+  <ul>
+    <li>Creating Document Libraries</li>
+    <li>Uploading Documents</li>
+    <li>Working with Library Documents</li>
+    <li>Checking Out Documents</li>
+    <li>Picture Libraries</li>
+  </ul>
+  <h3>Section F: Library Settings</h3>
+  <ul>
+    <li>Versioning Settings</li>
+    <li>Document Templates</li>
+    <li>Adding Additional Templates</li>
+    <li>Organizing Files</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Working with Excel</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Export to Excel</li>
+    <li>Editing in Excel</li>
+    <li>Define Data Location</li>
+    <li>Export to SharePoint List</li>
+  </ul>
+  <h3>Section B: Working with Access</h3>
+  <ul>
+    <li>Why Use Access?</li>
+    <li>Access Database</li>
+    <li>Saving Exports in Access</li>
+    <li>Export to Access</li>
+    <li>Updating Data in Access</li>
+    <li>Creating SharePoint List</li>
+    <li>Creating Databases</li>
+  </ul>
+  <h3>Section C: Wiki Sites</h3>
+  <ul>
+    <li>Wiki Site Uses</li>
+    <li>Creating Wiki Sites</li>
+    <li>Editing Pages</li>
+    <li>Page History</li>
+    <li>Alerts</li>
+    <li>Creating Links</li>
+  </ul>
+  <h3>Section D: Blog Sites</h3>
+  <ul>
+    <li>Blogs</li>
+    <li>Blogs vs. Wikis</li>
+    <li>Creating Blog Sites</li>
+    <li>Creating and Managing Posts</li>
+    <li>Setting Blog Permissions</li>
+    <li>Advanced Settings</li>
+  </ul>
+  <h3>Section E: Blogging from Word</h3>
+  <ul>
+    <li>Publishing Word Docs as Blogs</li>
+    <li>Views</li>
+  </ul>
+  <h3>Section F: Forms Library</h3>
+  <ul>
+    <li>Getting Data</li>
+    <li>InfoPath</li>
+    <li>Publish Forms</li>
+    <li>Filling Out Forms</li>
+    <li>Upload Forms</li>
+  </ul>
+  <h3>Section G: Surveys</h3>
+  <ul>
+    <li>Survey Overview</li>
+    <li>Creating Survey Lists</li>
+    <li>Creating Questions</li>
+    <li>Branching Logic</li>
+    <li>Responding to Survey</li>
+    <li>Analyzing Results</li>
+  </ul>

@@ -1,0 +1,12 @@
+<p>Upon completing this course, you will be able to meet these objectives:</p>
+
+<ul>
+  <li>Use CS-MARS to monitor security and host application devices.</li>
+  <li>Know CS-MARS architecture and how CS-MARS process events.</li>
+  <li>Know how to use archive and restore features.</li>
+  <li>Use CS-MARS to run/create/customize reports.</li>
+  <li>Use CS-MARS to investigate an incident and mitigate the security threats.</li>
+  <li>Use CS-MARS to do customer parser for unknown devices in CS-MARS.</li>
+  <li>Use CS-MARS to create/customize rules that detects dark net through best practices example.</li>
+  <li>Know how to tune signature/log level on device side and CS-MARS side.</li>
+</ul>

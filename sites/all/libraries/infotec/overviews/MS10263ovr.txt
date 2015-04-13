@@ -1,0 +1,1 @@
+This three-day instructor-led course provides participants with the knowledge and skills to develop distributed applications using WCF 4 and Microsoft Visual Studio 2010.

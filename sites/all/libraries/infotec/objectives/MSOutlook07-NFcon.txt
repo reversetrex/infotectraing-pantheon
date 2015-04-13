@@ -1,0 +1,8 @@
+Upon successful completion of this course, students will be able to:   
+<ul>
+  <li>explore the Outlook environment. </li>
+  <li>manage daily tasks in Outlook 2007. </li>
+  <li>share information with other users. </li>
+  <li>protect information. </li>
+  <li>integrate Outlook with other applications.</li>
+</ul>

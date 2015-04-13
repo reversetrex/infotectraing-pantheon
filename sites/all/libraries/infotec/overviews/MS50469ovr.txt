@@ -1,0 +1,1 @@
+This 2-day Instructor led course explores several advanced topics of working with SharePoint 2010 sites. Topics include SharePoint Server site definitions (Business Intelligence, Search Center, etc.), in-depth coverage of Workflows, My Sites and Social Computing, Site Administration, Site Customization and Site Collection Administration.

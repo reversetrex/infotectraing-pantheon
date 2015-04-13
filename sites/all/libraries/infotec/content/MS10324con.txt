@@ -1,0 +1,84 @@
+<p><strong>Module 1: Overview of Desktop Virtualization Scenarios</strong> - Many organizations are exploring the use of virtualization to optimize  their IT environment and streamline their IT management practices. Microsoft  provides several products and technologies that will enable organizations to  implement virtualization solutions in many different ways. This module provides  an overview of the Microsoft virtualization technologies, and provides  information on planning and managing virtualized environments.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Virtualization</li>
+  <li>Overview of Virtualization Management</li>
+  <li>Planning an Application and Desktop  Virtualization Deployment</li>
+</ul>
+<p><strong>Module 2: Implementing Windows Virtual PC and Windows XP Mode</strong> - This module covers the concept of virtual machines and how Windows  Virtual PC uses it for virtualizing a complete client system. The module also  covers the requirements and the procedures for installing and configuring  Windows Virtual PC and virtual machines.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Installing Windows Virtual PC</li>
+  <li>Configuring Windows Virtual PC</li>
+  <li>Installing, Configuring, and Managing the  Windows XP Mode</li>
+  <li>Creating and Deploying Custom Images of  Windows XP Mode</li>
+</ul>
+<p><strong>Module 3: Implementing Microsoft Enterprise Desktop Virtualization</strong> - This module covers the architecture, functionalities, and benefits of  MED-V. It also describes the roles of the MED-V client and MED-V Management  server and the procedures for deploying them.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of MED-V</li>
+  <li>Implementing MED-V Management Servers</li>
+  <li>Implementing a MED-V Client</li>
+</ul>
+<p><strong>Module 4: Configuring and Deploying MED-V Images</strong> - This module explains how to create, configure, deploy, and work with  MED-V images. It also describes how to upload a MED-V image and deploy it to  the client.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Configuring MED-V Images</li>
+  <li>Deploying MED-V Images</li>
+</ul>
+<p><strong>Module 5: Managing a MED-V Deployment</strong> - This module explains how to manage a MED-V deployment, create reports,  and perform basic MED-V troubleshooting. The module explains the concept of  MED-V Workspace and describes how to configure Workspace Policy and deploy it  to the client.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Implementing the MED-V Workspace Policy</li>
+  <li>Working with MED-V Workspace</li>
+  <li>Reporting and Troubleshooting MED-V</li>
+</ul>
+<p><strong>Module 6: Implementing Microsoft Application Virtualization</strong> - This module provides an overview of application virtualization, and it  explains the requirements and interactions of App-V components. It explains how  to plan the App-V infrastructure, and the available deployment scenarios. The  module also provides an overview of the App-V server and App-V client  installation process, and describes how to configure an App-V client.</p>
+<p><strong>Module 7: Planning and Deploying App-V Clients</strong> - This module explains how to configure and manage the application  virtualization client. It provides an overview of the desktop and the terminal  server client, and their installation methods. The module also describes the  installation and configuration options for the client software.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of the App-V Client</li>
+  <li>Installing and Configuring the App-V Client</li>
+  <li>Managing Client Configuration Features</li>
+</ul>
+<p><strong>Module 8: Managing and Administering Application Virtualization</strong> - This module explains how to administer the App-V infrastructure by  providing an overview of the App-V Management Console, its deployment on the  administrative workstation, and the required permissions for administering the  App-V Management server. Additionally, the module provides information about  publishing and modifying virtualized applications, configuring version  upgrades, enforcing license compliance, and managing server groups and server  objects.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Using the Application Virtualization  Management Console</li>
+  <li>Publishing Applications into the App-V  Environment</li>
+  <li>Performing Advanced Administration Tasks for  Application Virtualization</li>
+</ul>
+<p><strong>Module 9: Sequencing Applications for Virtualization</strong> - This module provides an overview of App-V sequencing and explains how  to sequence applications for deployment by using the App-V infrastructure or a  standalone installation. It explains how to install and configure the App-V  Sequencer. The module also covers packaging options, and the procedures for  upgrading existing packages, and creating standalone packages.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Application Sequencing</li>
+  <li>Planning and Configuring the Sequencer Environment</li>
+  <li>Performing Application Sequencing</li>
+  <li>Advanced Sequencing Scenarios</li>
+</ul>
+<p><strong>Module 10: Configuring Remote Desktop Services and RemoteApp</strong> - This module explains how to configure and use Remote Desktop Services  (RDS) and RemoteApp programs. It provides an overview of the main RDS role  services and the services that are required for implementing RemoteApp. This  module also covers RD Connection Broker and the integration of published  RemoteApp programs with Windows 7 clients.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of RDS</li>
+  <li>Publishing RemoteApp by Using RDS</li>
+  <li>Accessing RemoteApp Programs from Clients</li>
+</ul>
+<p><strong>Module 11: Implementing User State Virtualization</strong> - This module explains the importance of the user state and how you can  configure user state. It covers the features of user profiles, the profile  types that Windows supports, and the differences between them. The module also  covers folder redirection, and explains how to configure and use them.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of User State</li>
+  <li>Configuring Roaming Profiles and Folder  Redirection</li>
+</ul>
+<p><strong>Module 12: Configuring Virtual Desktop Infrastructure</strong> - This module describes how to configure and use Virtual Desktop  Infrastructure (VDI). It provides an overview of Hyper-V server role and the  integration of VDI with RDS and Hyper-V. The module also covers the procedures  for configuring different types of virtual desktops and explains how to  configure a virtual machine for use as a virtual desktop. Finally, the module  provides details on deploying VDI to Windows 7 desktops.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Windows Server 2008 R2 Hyper-V</li>
+  <li>Introduction to VDI</li>
+  <li>Configuring Personal and Pooled Virtual  Desktops</li>
+</ul>
+<p><strong>Module 13: Summary of Desktop Virtualization Technologies</strong> - This module reviews the features of the various desktop virtualization  technologies that this course covers. The module also covers some real-world  scenarios for implementing these technologies.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Review of Desktop Virtualization Technologies</li>
+  <li>Real-World Usage Scenarios</li>
+</ul>

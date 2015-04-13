@@ -1,0 +1,31 @@
+<h2>Session 1</h2>
+<h3>Section A: Introduction</h3>
+<ul>
+  <li>Anger</li>
+</ul>
+<h3> Section B: Recognition of Anger</h3>
+<ul>
+  <li>Erin</li>
+  <li>Displacement</li>
+  <li>Signs of Anger</li>
+</ul>
+<h3>Section C: Controlling Expression of Anger</h3>
+<ul>
+  <li>PJ</li>
+  <li>Appropriate Expression</li>
+  <li>PJ's Better Choice</li>
+  <li>Control Techniques</li>
+</ul>
+<h3>Section D: Making Choices</h3>
+<ul>
+  <li>Toby</li>
+  <li>Bad Responses</li>
+  <li>Thinking Before Responding</li>
+  <li>Toby's Better Choice</li>
+  <li>Working Through Anger</li>
+</ul>
+<h3> Section E: Conclusion</h3>
+<ul>
+  <li>Anger Poem</li>
+</ul>
+<h3> Section F: Review</h3>

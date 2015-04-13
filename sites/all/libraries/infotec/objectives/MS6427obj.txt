@@ -1,0 +1,11 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the IIS 7.0 modular architecture and workloads.</li>
+  <li>Configure an IIS 7.0 Web Server.</li>
+  <li>Secure Web sites and Web application pools. </li>
+  <li>Troubleshoot Web servers, sites and applications.</li>
+  <li>Use command line tools and scripting tools.</li>
+  <li>Tune IIS to improve performance.</li>
+  <li>Maintain Web sites.</li>
+  <li>Enable integrated technologies to extend IIS 7.0 functionality.</li>
+</ul>

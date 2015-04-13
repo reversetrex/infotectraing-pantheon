@@ -1,0 +1,8 @@
+The CPTEngineer Certification training is based on 5 key elements of Pen 
+Testing; information, gathering, scanning, enumeration, exploration and 
+reporting. Learn to recognize vulnerabilities, exploit system weaknesses 
+and help safeguard against threats. Upon completion of this series you 
+will be prepared to pass the CPTEngineer Certification Exam, formerly 
+known as CPTS.
+
+

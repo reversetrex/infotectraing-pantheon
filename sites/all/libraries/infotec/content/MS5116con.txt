@@ -1,0 +1,11 @@
+<p><strong>Module 1: Maintaining and Optimizing Windows Vista Systems</strong> - This module explains how to use the performance tools and diagnostics tools to maintain and optimize Windows Vista systems. This module also explains how to configure Windows  Update.</p>
+
+<p><strong>Module 2: Configuring Windows Vista Media Applications</strong> - This module explains how to configure the Microsoft Windows Media Player and the Windows Media Center.</p>
+
+<p><strong>Module 3: Configuring Windows Vista Productivity Applications</strong> - This module explains how to configure the productivity tools included with every edition of Windows Vista.</p>
+
+<p><strong>Module 4: Configuring Mobile Computers</strong> - This module explains how to configure the settings in Windows Vista specifically for mobile computers, and also explains how to configure power management.</p>
+
+<p><strong>Module 5: Configuring Tablet PC Settings</strong> - This module explains how to configure the options in Windows Vista specifically for a Tablet PC.</p>
+
+<p><strong>Module 6: Networking Mobile Computers</strong> - This module explains how to configure wireless networking and how to use Windows Vista tools to use offline files.</p>

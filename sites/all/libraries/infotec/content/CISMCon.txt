@@ -1,0 +1,78 @@
+<p><strong>Lesson 1: Information Security Governance and Strategy</strong></p>
+<ul type="disc">
+ <li>Introduction<strong></strong></li>
+ <li>Topics<strong></strong></li>
+ <ul type="circle">
+ <li>Effective IS Governance<strong></strong></li>
+ <li>Key IS Concepts and Issues<strong></strong></li>
+ <li>The IS Manager<strong></strong></li>
+ <li>Scope and Charter of IS Governance<strong></strong></li>
+ <li>Developing an IS strategy-Common Pitfalls<strong></strong></li>
+ <li>IS Strategy Objectives<strong></strong></li>
+ <li>Determining Current State of Security<strong></strong></li>
+ <li>Strategy Resources<strong></strong></li>
+ <li>Strategy Constraints<strong></strong></li>
+ <li>Action Plan – Immediate Goals<strong></strong></li>
+ <li>Action Plan – Intermediate Goals<strong></strong></li>
+ </ul>
+</ul>
+<p><strong>Lesson 2: Risk Management</strong></p>
+<ul type="disc">
+ <li>Introduction</li>
+ <li>Topics</li>
+ <ul type="circle">
+ <li>Effective Information Security Risk Management</li>
+ <li>Integration into Life Cycle Processes</li>
+ <li>Risk Identification and Analysis Methods</li>
+ <li>Mitigation Strategies and Prioritization</li>
+ <li>Reporting Changes to Management</li>
+ </ul>
+</ul>
+<p><strong>Lesson 3: Information Security Program Management</strong></p>
+<ul type="disc">
+ <li>Introduction</li>
+ <li>Topics</li>
+ <ul type="circle">
+ <li>Planning</li>
+ <li>Security Baselines</li>
+ <li>Business Processes</li>
+ <li>Infrastructure</li>
+ <li>Malicious Code (Malware)</li>
+ <li>Life Cycles</li>
+ <li>Impact on End Users</li>
+ <li>Accountability</li>
+ <li>Security Metrics</li>
+ <li>Managing Internal and External Resources</li>
+ </ul>
+</ul>
+<p><strong>Lesson 4: Information Security Management</strong></p>
+<ul type="disc">
+ <li>Introduction<strong></strong></li>
+ <li>Topics<strong></strong></li>
+ <ul type="circle">
+ <li>Implementing Effective IS<strong></strong></li>
+ <li>Security Controls and Policies<strong></strong></li>
+ <li>Standards and Procedures<strong></strong></li>
+ <li>Trading Partners and Service Providers<strong></strong></li>
+ <li>Security Metrics and Monitoring<strong></strong></li>
+ <li>The Change Management Process<strong></strong></li>
+ <li>Vulnerability Assessments<strong></strong></li>
+ <li>Due Diligence<strong></strong></li>
+ <li>Resolution of Non-Compliance Issues<strong></strong></li>
+ <li>Culture, Behavior and Security Awareness<strong></strong></li>
+ </ul>
+</ul>
+<p><strong>Lesson 5: Response Management</strong></p>
+<ul type="disc">
+ <li>Introduction</li>
+ <li>Topics</li>
+ <ul type="circle">
+ <li>Performing a Business Impact Analysis</li>
+ <li>Developing Response and Recovery Plans</li>
+ <li>Incident Response Processes</li>
+ <li>Testing the Response and Recovery Plans</li>
+ <li>Executing Response and Recovery Plans</li>
+ <li>Documenting Events</li>
+ <li>Post Event Reviews</li>
+ </ul>
+</ul>

@@ -1,0 +1,83 @@
+<p><strong>Level 1</strong></p>
+<p><strong>Lesson 1: Getting Started with Dreamweaver</strong></p>
+<ul>
+  <li>Examine the Basic Concepts of Web Designing</li>
+  <li>Explore the Dreamweaver Environment</li>
+  <li>Customize the Workspace</li>
+</ul>
+<p><strong>Lesson 2: Creating a Website</strong></p>
+<ul>
+  <li>Define a Website</li>
+  <li>Create a Web Page</li>
+  <li>Format a Web Page</li>
+  <li>Organize Files and Folders</li>
+  <li>Create Templates</li>
+</ul>
+<p><strong>Lesson 3: Adding Design Elements to Web Pages</strong></p>
+<ul>
+  <li>Insert Images</li>
+  <li>Insert Tables</li>
+  <li>Create Repeating Region Templates</li>
+</ul>
+<p><strong>Lesson 4: Working with Links</strong></p>
+<ul>
+  <li>Create Hyperlinks</li>
+  <li>Create Email Links</li>
+  <li>Create Image Maps</li>
+  <li>Create Anchors</li>
+</ul>
+<p><strong>Lesson 5: Working with Frames</strong></p>
+<ul>
+  <li>Create Framesets</li>
+  <li>Enhance Frames</li>
+</ul>
+<p><strong>Lesson 6: Uploading a Website</strong></p>
+<ul>
+  <li>Ensure Accessibility</li>
+  <li>Upload Files onto a Site</li>
+</ul>
+<p><strong>Level 2</strong></p>
+<p><strong>Lesson 1: Working in Code View</strong></p>
+<ul>
+  <li>Use Coding Tools</li>
+  <li>Search for and Replace Code</li>
+  <li>Use Design Notes and Comments</li>
+</ul>
+<p><strong>Lesson 2: Formatting with Style Sheets</strong></p>
+<ul>
+  <li>Create CSS Styles</li>
+  <li>Apply External Styles to Multiple Pages</li>
+  <li>Redefine Style Sheets</li>
+</ul>
+<p><strong>Lesson 3: Creating an Effective User-Navigation Interface</strong></p>
+<ul>
+  <li>Create Rollovers</li>
+  <li>Create a Navigation Bar</li>
+  <li>Add Flash Buttons and Text to a Page</li>
+  <li>Use the Spry User Interface Widgets</li>
+  <li>Add Spry Effects</li>
+</ul>
+<p><strong>Lesson 4: Working with AP Elements</strong></p>
+<ul>
+  <li>Create AP Elements</li>
+  <li>Control AP Elements Dynamically</li>
+  <li>Insert Rich Media Objects into an AP Element</li>
+</ul>
+<p><strong>Lesson 5: Automating Tasks</strong></p>
+<ul>
+  <li>Add Library Items from Site Pages</li>
+  <li>Place Library Items onto Site Pages</li>
+  <li>Use Snippets</li>
+  <li>Replay Actions Using the History Panel</li>
+</ul>
+<p><strong>Lesson 6: Creating Forms</strong></p>
+<ul>
+  <li>Set Up Forms</li>
+  <li>Add Form Elements</li>
+  <li>Validate Forms</li>
+</ul>
+<p><strong>Lesson 7: Authoring with XML-Based Data</strong></p>
+<ul>
+  <li>Integrate XML-Based Data</li>
+  <li>Display XML Data Using Spry</li>
+</ul>

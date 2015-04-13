@@ -1,0 +1,323 @@
+<h2>Session 1</h2>
+  <h3>Section A: CCNA 200-101</h3>
+  <ul>
+    <li>Why CCNA?</li>
+    <li>What Is on the Exam?</li>
+    <li>Training Agenda</li>
+    <li>Prerequisites</li>
+    <li>Cisco Certification Track</li>
+  </ul>
+  <h3>Section B: Advanced Switching Solutions</h3>
+  <ul>
+    <li>Basic Switching Review</li>
+    <li>Switch Loop Problems</li>
+    <li>STP Overview</li>
+    <li>BPDU Frames</li>
+    <li>STP Port Types</li>
+    <li>STP Failover</li>
+    <li>STP Process</li>
+    <li>RSTP</li>
+  </ul>
+  <h3>Section C: Configure PVSTP</h3>
+  <ul>
+    <li>Spanning Tree Modes</li>
+    <li>Support Multiple STP Instances</li>
+    <li>STP Configuration Options</li>
+  </ul>
+  <h3>Section D: Router Boot Process</h3>
+  <ul>
+    <li>POST</li>
+    <li>Boot Sequence</li>
+    <li>Start-up</li>
+    <li>Boot File Sources</li>
+    <li>Boot Process Output</li>
+    <li>System Configuration Dialog</li>
+    <li>Boot Configuration Register</li>
+  </ul>
+  <h3>Section E: Manage Cisco IOS Files</h3>
+  <ul>
+    <li>View IOS Information</li>
+    <li>Storage on Device</li>
+    <li>Licensing Information</li>
+  </ul>
+  <h3>Section F: Understand Interface Types</h3>
+  <ul>
+    <li>Common Interfaces</li>
+    <li>Ethernet Interfaces</li>
+    <li>Serial Interfaces</li>
+    <li>Modular Interface Details</li>
+  </ul>
+  <h3>Section G: Advanced Routing Protocols</h3>
+  <ul>
+    <li>Routing Protocol Functions</li>
+    <li>Autonomous Systems</li>
+    <li>Interior and Exterior Protocols</li>
+    <li>Distance Vector Routing Protocols</li>
+    <li>Link-State Routing Protocols</li>
+    <li>Link-State Advertisements</li>
+    <li>Routing Protocol Terms</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Enhanced Operation of OSPF</h3>
+  <ul>
+    <li>OSPF Basics</li>
+    <li>OSPF Neighbors</li>
+    <li>Say Hello</li>
+    <li>Use Hellos to Become Neighbors</li>
+    <li>Exchange Link-State Data</li>
+    <li>Designated Router</li>
+    <li>Complete Link-State Exchange</li>
+    <li>Neighbor States</li>
+    <li>Build the Routing Table</li>
+    <li>OSPF Terminology</li>
+  </ul>
+  <h3>Section B: Understand EIGRP</h3>
+  <ul>
+    <li>EIGRP Basics</li>
+    <li>EIGRP Neighbors</li>
+    <li>ExchangeTopology</li>
+    <li>Calculate Metrics</li>
+    <li>Distances in EIGRP</li>
+    <li>Bandwidth in EIGRP</li>
+    <li>Building the Routing Table</li>
+    <li>Feasible Successors</li>
+    <li>Load Balancing</li>
+  </ul>
+  <h3>Section C: EIGRP Configuration</h3>
+  <ul>
+    <li>Configure EIGRP</li>
+    <li>Configure Second Router in EIGRP</li>
+    <li>Configure Third Router in EIGRP</li>
+    <li>Topology</li>
+    <li>Show IP Protocols</li>
+  </ul>
+  <h3>Section D: High Availability Solutions</h3>
+  <ul>
+    <li>Introducing HA</li>
+    <li>Virtual Routers</li>
+    <li>Hot Standby Router Protocol</li>
+    <li>HRSP Terminology</li>
+  </ul>
+  <h3>Section E: Configure High Availability</h3>
+  <ul>
+    <li>Virtual Router Redundancy Protocol</li>
+    <li>VRRP Redundancy Features</li>
+    <li>Gateway Load Balancing Protocol</li>
+    <li>GLBP Functionality</li>
+    <li>GLBP Modes</li>
+    <li>HSRP States</li>
+    <li>HSRP Configuration</li>
+    <li>VRRP Configuration</li>
+  </ul>
+  <h3>Section F: Logging and Syslog</h3>
+  <ul>
+    <li>General Logging</li>
+    <li>Logging Policies</li>
+    <li>Syslog Overview</li>
+    <li>Log Options in Cisco Routers</li>
+  </ul>
+  <h3>Section G: Use SNMP</h3>
+  <ul>
+    <li>Understand SNMP</li>
+    <li>SNMP Terms</li>
+    <li>MIB</li>
+    <li>SNMP Versions</li>
+    <li>Configure SNMP</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Common Network Problems</h3>
+  <ul>
+    <li>Structured Troubleshooting</li>
+    <li>Cisco's Six Steps</li>
+    <li>Cisco's Simplified Method</li>
+    <li>Documentation</li>
+    <li>Tom's Simplified Method</li>
+    <li>Hardware Problems</li>
+    <li>Software Problems</li>
+  </ul>
+  <h3>Section B: Use NetFlow</h3>
+  <ul>
+    <li>Understand NetFlow</li>
+    <li>Utilize NetFlow Data</li>
+    <li>TCP/IP Flows</li>
+    <li>Configure NetFLow</li>
+    <li>Monitor NetFlow Statistics</li>
+    <li>Information in NetFlow Records</li>
+    <li>Common NetFlow Reports</li>
+  </ul>
+  <h3>Section C: Spanning Tree Issues</h3>
+  <ul>
+    <li>STP Review</li>
+    <li>Verify the Root Switch</li>
+    <li>STP Port States</li>
+    <li>RSTP and STP States Compared</li>
+    <li>Additional Tasks</li>
+  </ul>
+  <h3>Section D: Routing Issues</h3>
+  <ul>
+    <li>Routing Hardware Problems</li>
+    <li>Routing Software Problems</li>
+    <li>Show IP Protocol</li>
+    <li>Verify Routing Table</li>
+    <li>Verify Path Selection</li>
+    <li>Verify Neighbor Adjacency</li>
+    <li>Verify Hello and Dead Timers</li>
+  </ul>
+  <h3>Section E: OSPF Issues</h3>
+  <ul>
+    <li>Verify OSPF Area</li>
+    <li>MTU</li>
+    <li>Verify Network Types</li>
+    <li>Verify Neighbor State</li>
+    <li>OSPF Topology Table</li>
+  </ul>
+  <h3>Section F: EIGRP Issues</h3>
+  <ul>
+    <li>EIGRP Problems</li>
+    <li>Verify EIGRP Neighbor Adjacency</li>
+    <li>Verify Autonomous System Number</li>
+    <li>Verify Load Balancing Configuration</li>
+    <li>Split Horizon</li>
+  </ul>
+  <h3>Section G: VLAN Communication Problems</h3>
+  <ul>
+    <li>VLAN and Physical Design</li>
+    <li>VLAN Planning</li>
+    <li>VLAN Planning Worksheet</li>
+    <li>VLAN Documentation</li>
+    <li>Common VLAN Problems</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Routing Protocols</h3>
+  <ul>
+    <li>Serial Interface Uses</li>
+    <li>WAN Connections and Labs</li>
+    <li>Serial WAN Components</li>
+    <li>Layer 2 Protocols, Configure HDLC</li>
+    <li>Configure WAN Serial Connection</li>
+    <li>Verify Serial Interfaces</li>
+    <li>Troubleshoot Serial Connections</li>
+  </ul>
+  <h3>Section B: Configure OSPF</h3>
+  <ul>
+    <li>EtherChannels</li>
+    <li>Spanning-Tree Operation</li>
+    <li>EtherChannel Functionality</li>
+    <li>Load Balancing</li>
+    <li>Configure EtherChannel</li>
+    <li>Configure Switch 2</li>
+    <li>Troubleshoot EtherChannel</li>
+  </ul>
+  <h3>Section C: Implement Inter-VLAN Routing</h3>
+  <ul>
+    <li>Inter-VLAN Routing</li>
+    <li>Verify Router Configuration</li>
+    <li>Proper Configuration</li>
+    <li>PC Configuration</li>
+  </ul>
+  <h3>Section D: Understand DHCP</h3>
+  <ul>
+    <li>Common Network Services</li>
+    <li>DNS</li>
+    <li>DHCP</li>
+    <li>DHCP Process</li>
+    <li>DHCP Implementation</li>
+    <li>DHCP Configuration Mode</li>
+  </ul>
+  <h3>Section E: Filter with ACLs</h3>
+  <ul>
+    <li>TCP Conversation</li>
+    <li>Access Control Lists</li>
+    <li>Cisco ACLs</li>
+    <li>Inbound and Outbound</li>
+    <li>Build ACLs</li>
+    <li>Protocol IDs and ACLs</li>
+  </ul>
+  <h3>Section F: Configure ACLs</h3>
+  <ul>
+    <li>Create ACL</li>
+    <li>Apply ACL</li>
+    <li>View ACL</li>
+    <li>Show Running Configuration</li>
+  </ul>
+  <h3>Section G: Network Address Translation</h3>
+  <ul>
+    <li>Troubleshoot Client Issues</li>
+    <li>Common Problems</li>
+    <li>Use Tools for Client Computer</li>
+    <li>Advanced Uses of Ping</li>
+    <li>Trace Route Command</li>
+    <li>Pathping</li>
+    <li>IP Configuration</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Identify WAN Technologies</h3>
+  <ul>
+    <li>T1/E1</li>
+    <li>Internet Access Technologies</li>
+    <li>Wireless Links</li>
+    <li>MPLS</li>
+    <li>Metro Ethernet</li>
+    <li>Frame Relay</li>
+    <li>Virtual Circuits</li>
+    <li>Design Frame Relay Networks</li>
+    <li>Frame Relay Addressing</li>
+    <li>Local DLCIs</li>
+    <li>VPN Technologies</li>
+  </ul>
+  <h3>Section B: Configure WAN Ports</h3>
+  <ul>
+    <li>Configure PPP Connections</li>
+    <li>Verify PPP Connection</li>
+    <li>Configure Frame Relay</li>
+    <li>Verify Frame Relay</li>
+  </ul>
+  <h3>Section C: Introduce 802.11 Wireless</h3>
+  <ul>
+    <li>Original 802.11</li>
+    <li>802.11b and 802.11a</li>
+    <li>802.11g</li>
+    <li>802.11n</li>
+    <li>802.11ac</li>
+    <li>802.11i</li>
+    <li>802.11e</li>
+    <li>Station Defined</li>
+    <li>Basic Service Sets</li>
+    <li>Ad-Hoc WLANs</li>
+    <li>Infrastructure WLANs</li>
+    <li>Start a BSS</li>
+    <li>Join a BSS</li>
+    <li>Distribution System</li>
+  </ul>
+  <h3>Section D: Wireless Bridge Links</h3>
+  <ul>
+    <li>Wireless LAN Routers</li>
+    <li>Wireless Bridges</li>
+    <li>PoE Installation</li>
+    <li>Bridge Links</li>
+  </ul>
+  <h3>Section E: Troubleshoot Wireless</h3>
+  <ul>
+    <li>System Throughput</li>
+    <li>Multipath</li>
+    <li>Troubleshooting Multipath</li>
+    <li>Hidden Node Troubleshooting</li>
+    <li>Near/Far Problem Troubleshooting</li>
+    <li>Channel Interference</li>
+    <li>RF Noise and Interference</li>
+  </ul>
+  <h3>Section F: Implementing PPPoE</h3>
+  <ul>
+    <li>DSL Design</li>
+    <li>Introducing PPPoE</li>
+    <li>Benefits of PPPoE</li>
+    <li>Example Configuration</li>
+  </ul>
+  <h3>Section G: Optimize IP Operations</h3>
+  <ul>
+    <li>Introducing IPAM</li>
+    <li>IPAM Implementation Methods</li>
+    <li>IPAM Components and Interaction</li>
+    <li>Address Space Management Workflow</li>
+    <li>General Operations Recommendations</li>
+  </ul>

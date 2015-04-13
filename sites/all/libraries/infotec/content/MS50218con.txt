@@ -1,0 +1,25 @@
+<p><strong>Module 1: Introduction to Windows 7</strong> - This module explains how to use the various new features of Windows 7, how to prepare for the OS roadmap with regard to OS versions, bitness and editions, and how the various Windows 7 features are presented throughout the course.</p>
+
+<p><strong>Module 2: Win32 Programming Refreshment</strong> - This module explains how to use the Win32 application programming interface (API) to interact with the Windows operating system, and how to develop applications with better  understanding of fundamental system mechanisms.</p>
+
+<p><strong>Module 3: Taskbar</strong> - This module explains how to use the Windows 7 taskbar for delivering applications that light-up on Windows 7, taking advantage of numerous user productivity features.</p>
+
+<p><strong>Module 4: Libraries and Federated Search</strong> - This module explains how to use shell libraries to better organize similar data items, and how to take advantage of federated search to provide quicker access to information within an enterprise.</p>
+
+<p><strong>Module 5: Multi-Touch</strong> - This module explains how to use multi-touch enabled hardware to add the next generation of user interaction to your applications, and how to choose among the various modes of programmatic access to multi-touch in Windows 7.</p>
+
+<p><strong>Module 6: Sensors and Location</strong> - This module explains how to use the Windows 7 Sensor and Location Platform to interact with a variety of physical sensors providing location information, ambient light, temperature and  a variety of other readings.</p>
+
+<p><strong>Module 7: Scenic Ribbon</strong> - This module explains how to  use the Windows 7 Scenic Ribbon to add an "Office-like" appearance to your applications, streamlining the user interaction and providing for a cleaner  command-oriented user interface.</p>
+
+<p><strong>Module 8: Direct2D and DirectWrite</strong> - This module explains how to use latest advents in graphics hardware and software to deliver compelling graphic experiences for 2D graphics and text in Windows 7.</p>
+
+<p><strong>Module 9: Application Compatibility</strong> - This module explains how to design and implement applications for forward and backwards compatibility with Windows, and how to troubleshoot common application compatibility scenarios  with existing applications.</p>
+
+<p><strong>Module 10: User Account Control</strong> - This module explains how to use User Account Control to develop more secure applications on Windows 7, and  how to overcome the compatibility problems introduced by User Account Control.</p>
+
+<p><strong>Module 11: Background Services</strong> - This module explains how to design and implement background services on Windows, and how to minimize the  performance and security impact of background activities on the user's  experience.</p>
+
+<p><strong>Module 12: Energy Efficient Applications</strong> - This module explains how to minimize the power consumption impact of applications on the system, and how to take advantage of the latest Windows 7 features to instrument power consumption and energy efficiency.</p>
+
+<p><strong>Module 13: Instrumentation and Performance</strong> - This module explains how to use the Windows instrumentation mechanisms to expose instrumentation and performance information from your application, and how to use external troubleshooting tools to analyze misbehaving applications or poor system performance.</p>

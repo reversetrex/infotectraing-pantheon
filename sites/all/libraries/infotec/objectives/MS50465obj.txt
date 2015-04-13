@@ -1,0 +1,28 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Discover, design and implement KPIs.</li>
+  <li>Understand the scoring methodologies used with indicators to change visual  displays.</li>
+  <li>Decide on how to modify a scoring methodology.</li>
+  <li>Understand the role of SQL Server Analysis Services in measurement.</li>
+  <li>Be able to develop proper filters for easy end-user click to detail on  dashboards.</li>
+  <li>Group Scorecards into Dashboards and link them together.</li>
+  <li>Modify the web page hosting the Dashboards for branding.</li>
+  <li>Implement Master Pages in Dashboards for consistency with company standards.</li>
+  <li>Develop multiple-valued KPIs. For example This year Actual and Target and last  Year Actual and Target at the same relative point in time.</li>
+  <li>Implement Time Intelligence features to query such as Year-To-Date, Last 6  Months etc.</li>
+  <li>Use Excel Services and Excel Workbooks in Scorecards or as a data source.</li>
+  <li>Utilize the document management capabilities of SharePoint 2010 for  PerformancePoint objects for versioning, document retention and reverting.</li>
+  <li>Understand team development methodologies with developing PerformancePoint to  reuse existing objects or to segment projects.</li>
+  <li>Use workflows to approve scorecards and dashboards.</li>
+  <li>Develop Filters for Scorecards.</li>
+  <li>Use Dashboard Designer.</li>
+  <li>Work with views of SSAS Cubes to model data for proof of concept for KPIs.</li>
+  <li>Connect into Data Sources via data Connections.</li>
+  <li>Gain a generalized understanding of MDX to write basic queries.</li>
+  <li>Generate Visual Reports and tie them into Dashboards.</li>
+  <li>Utilize decomposition trees.</li>
+  <li>Understand  the advantages of having SharePoint as the platform.</li>
+  <li>Use dynamic hierarchies in Scorecards.</li>
+  <li>Secure all PerformancePoint objects.</li>
+  <li>Implement User Menus in Scorecards.</li>
+</ul>

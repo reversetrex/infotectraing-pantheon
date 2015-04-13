@@ -1,0 +1,20 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Perform a clean installation of Exchange Server 2003 and verify that the installation was successful. </li>
+  <li> Describe the process for upgrading to Exchange Server 2003 from Exchange 2000. </li>
+  <li> Configure and manage Exchange Server 2003. </li>
+  <li> Manage interoperability between Exchange Server 2003 and Exchange 2000. </li>
+  <li> Secure Exchange Server 2003. </li>
+  <li> Manage recipients. </li>
+  <li> Manage public folders. </li>
+  <li> Manage address lists. </li>
+  <li> Implement and manage client access with Internet protocols. </li>
+  <li> Manage client configuration and connectivity. </li>
+  <li> Manage routing. </li>
+  <li> Manage mobile devices with Exchange Server 2003. </li>
+  <li> Manage data storage and hardware resources. </li>
+  <li> Plan for disaster and disaster recovery. </li>
+  <li> Back up and restore Exchange. </li>
+  <li> Perform preventive maintenance. </li>
+  <li> Migrate users from Exchange Server 5.5 to a separate Exchange Server 2003 organization. </li>
+</ul>

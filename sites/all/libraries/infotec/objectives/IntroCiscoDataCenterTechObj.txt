@@ -1,0 +1,8 @@
+<p>Upon completing this course, you will be able to meet these overall objectives:</p>
+<ul>
+  <li>Describe and verify Cisco data center fundamentals</li>
+  <li>Describe Cisco data center virtualization</li>
+  <li>Describe Cisco data center storage networking</li>
+  <li>Describe Cisco data center unified fabric</li>
+  <li>Describe and verify Cisco UCS</li>
+</ul>

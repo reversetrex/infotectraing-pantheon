@@ -1,0 +1,259 @@
+<h3>1. Virtualized Data Center</h3>
+<ul>
+  <li>Introduce components of the virtualized data center</li>
+  <li>Describe where vSphere fits into the cloud architecture</li>
+  <li>Introduce VMware vCenter Single Sign-on</li>
+  <li>Install and use vSphere Web Client</li>
+</ul>
+<h3>2. Creating Virtual Machines</h3>
+<ul>
+  <li>Introduce virtual machines, virtual machine hardware, and virtual machine files</li>
+  <li>Deploy a single virtual machine</li>
+</ul>
+<h3>3. VMware vCenter Server</h3>
+<ul>
+  <li>Introduce the vCenter Server architecture</li>
+  <li>Introduce VMware vCenter Server Appliance</li>
+  <li>Configure and manage vCenter Server Appliance</li>
+  <li>Manage vCenter Server inventory objects and licenses</li>
+</ul>
+<h3>4. Configuring and Managing Virtual Networks</h3>
+<ul>
+  <li>Describe, create, and manage a standard switch</li>
+  <li>Describe and modify standard switch properties</li>
+  <li>Configure virtual switch load-balancing algorithms</li>
+</ul>
+<h3>5. Configuring and Managing Virtual Storage</h3>
+<ul>
+  <li>Introduce storage protocols and device names</li>
+  <li>Configure ESXi with iSCSI, NFS, and Fibre Channel storage</li>
+  <li>Create and manage vSphere datastores</li>
+  <li>Deploy and manage VMware Virtual SAN</li>
+</ul>
+<h3>6. Virtual Machine Management</h3>
+<ul>
+  <li>Use templates and cloning to deploy virtual machines</li>
+  <li>Modify and manage virtual machines</li>
+  <li>Create and manage virtual machine snapshots</li>
+  <li>Perform vSphere vMotion and vSphere Storage vMotion migrations</li>
+  <li>Create a VMware vSphere vApp(s)</li>
+</ul>
+<h3>7. Access and Authentication Control</h3>
+<ul>
+  <li>Control user access through roles and permissions</li>
+  <li>Configure and manage the ESXi firewall</li>
+  <li>Configure ESXi lockdown mode</li>
+  <li>Integrate ESXi with Active Directory</li>
+</ul>
+<h3>8. Resource Management and Monitoring</h3>
+<ul>
+  <li>Introduce virtual CPU and memory concepts</li>
+  <li>Describe methods for optimizing CPU and memory usage</li>
+  <li>Configure and manage resource pools</li>
+  <li>Monitor resource usage using vCenter Server performance graphs and alarms</li>
+</ul>
+<h3>9. High Availability and Fault Tolerance</h3>
+<ul>
+  <li>Introduce the new vSphere High Availability architecture</li>
+  <li>Configure and manage a vSphere HA cluster</li>
+  <li>Introduce vSphere Fault Tolerance</li>
+  <li>Describe VMware vSphere Replication</li>
+</ul>
+<h3>10. Scalability</h3>
+<ul>
+  <li>Configure and manage a VMware vSphere Distributed Resource Scheduler™ (DRS) cluster</li>
+  <li>Configure Enhanced vMotion Compatibility</li>
+  <li>Use vSphere HA and DRS together</li>
+</ul>
+<h3>11. Patch Management</h3>
+<ul>
+  <li>Use vCenter Update Manager to manage ESXi patching</li>
+  <li>Install vCenter Update Manager and the vCenter Update Manager plug-in</li>
+  <li>Create patch baselines</li>
+  <li>Scan and remediate hosts</li>
+</ul>
+<h3>12. Installing VMware Components</h3>
+<ul>
+  <li>Introduce ESXi installation</li>
+  <li>Describe boot-from-SAN requirements</li>
+  <li>Introduce vCenter Server deployment options</li>
+  <li>Describe vCenter Server hardware, software, and database requirements</li>
+  <li>Install vCenter Server (Windows-based)</li>
+</ul>
+<h2>Labs</h2>
+<h3>Lab 1: Installing VMware vSphere GUIs</h3>
+<ul>
+  <li>Access Your Student Desktop System</li>
+  <li>Install the vSphere Client</li>
+</ul>
+<h3>Lab 2: Configuring VMware ESXi</h3>
+<ul>
+  <li>Connect to an ESXi Host with the vSphere Web Client</li>
+  <li>View the Host Hardware Configuration</li>
+  <li>Configure the DNS and Routing Information for an ESXi Host</li>
+  <li>Configure an ESXi Host as an NTP Client</li>
+  <li>Configure an ESXi Host to Use Directory Services</li>
+</ul>
+<h3>Lab 3: Working with Virtual Machines</h3>
+<ul>
+  <li>Create a Virtual Machine</li>
+  <li>Install a Guest Operating System in a Virtual Machine</li>
+  <li>Identify a Virtual Machine's Disk Format and Usage Statistics</li>
+  <li>Install VMware Tools on a Virtual Machine Installed with a Windows Operating System</li>
+  <li>Prepare the Virtual Machine for Upcoming Labs</li>
+</ul>
+<h3>Lab 4: Configuring VMware vCenter Server Appliance</h3>
+<ul>
+  <li>Configure vCenter Server Appliance for First Use</li>
+  <li>Install vSphere License Keys</li>
+  <li>Create a vCenter Server Inventory Data Center Object</li>
+  <li>Add Your ESXi Host to the vCenter Server Inventory</li>
+</ul>
+<h3>Lab 5: Using the VMware vSphere Web Client</h3>
+<ul>
+  <li>Install the Client Integration Plug-In</li>
+  <li>Navigate the vSphere Web Client</li>
+  <li>Pin and Unpin Panes</li>
+  <li>Hide the Getting Started Tabs</li>
+  <li>Upgrade Virtual Machine Hardware</li>
+</ul>
+<h3>Lab 6: Configuring VMware vCenter Single Sign-On</h3>
+<ul>
+  <li>Use the Web Console to Configure vCenter Server Appliance to Use Directory Services</li>
+  <li>Use the vSphere Web Client to Add the Domain Admins Group to Administrators</li>
+</ul>
+<h3>Lab 7: Creating Folders in VMware vCenter Server</h3>
+<ul>
+  <li>Create a Host Folder Object</li>
+  <li>Create a Virtual Machine Folder</li>
+</ul>
+<h3>Lab 8: Standard Switches</h3>
+<ul>
+  <li>View the Current Standard Switch Configuration</li>
+  <li>Create a Standard Switch with a Virtual Machine Port Group</li>
+  <li>Attach Your Virtual Machine to a Virtual Switch Port Group</li>
+</ul>
+<h3>Lab 9: Accessing iSCSI Storage</h3>
+<ul>
+  <li>Add a VMkernel Port Group to a Standard Switch</li>
+  <li>Configure the iSCSI Software Adapter</li>
+</ul>
+<h3>Lab 10: Accessing NFS Storage</h3>
+<ul>
+  <li>Configure Access to NFS Datastores</li>
+  <li>View NFS Storage Information</li>
+</ul>
+<h3>Lab 11: Managing VMware vSphere VMFS</h3>
+<ul>
+  <li>Review the Shared Storage Configuration</li>
+  <li>Change the Name of a VMFS Datastore</li>
+  <li>Create a VMFS Datastore</li>
+  <li>Expand a VMFS Datastore to Consume Unused Space on a LUN</li>
+  <li>Remove a VMFS Datastore</li>
+  <li>Extend a VMFS Datastore</li>
+</ul>
+<h3>Lab 12: Using Templates and Clones</h3>
+<ul>
+  <li>Copy Sysprep Files to the vCenter Server Instance</li>
+  <li>Create a Template</li>
+  <li>Create Customization Specifications</li>
+  <li>Deploy a Virtual Machine from a Template</li>
+  <li>Clone a Virtual Machine that is Powered On</li>
+</ul>
+<h3>Lab 13: Modifying a Virtual Machine</h3>
+<ul>
+  <li>Increase the Size of a VMDK File</li>
+  <li>Adjust Memory Allocation on a Virtual Machine</li>
+  <li>Rename a Virtual Machine in the vCenter Server Inventory</li>
+  <li>Add a Raw LUN to a Virtual Machine</li>
+  <li>Expand a Thin-Provisioned Virtual Disk</li>
+</ul>
+<h3>Lab 14: Migrating Virtual Machines</h3>
+<ul>
+  <li>Migrate Virtual Machine Files with vSphere Storage vMotion</li>
+  <li>Create a Virtual Switch and a VMkernel Port Group for vSphere vMotion Migration</li>
+  <li>Verify that Your ESXi Host Meets vSphere vMotion Requirements</li>
+  <li>Verify that Your Virtual Machines Meet vSphere vMotion Requirements</li>
+  <li>Perform a vSphere vMotion Migration of a Virtual Machine on a Shared Datastore</li>
+  <li>Perform a vSphere vMotion Migration to a Local Datastore</li>
+</ul>
+<h3>Lab 15: Managing Virtual Machines</h3>
+<ul>
+  <li>Unregister a Virtual Machine in the vCenter Server Inventory</li>
+  <li>Register a Virtual Machine in the vCenter Server Inventory</li>
+  <li>Unregister and Delete Virtual Machines from Disk</li>
+  <li>Take Snapshots of a Virtual Machine</li>
+  <li>Revert to a Snapshot</li>
+  <li>Delete an Individual Snapshot</li>
+  <li>Use the Delete All Function in Snapshot Manager</li>
+</ul>
+<h3>Lab 16: Managing VMware vSphere vApps</h3>
+<ul>
+  <li>Create a vApp</li>
+  <li>Power on a vApp</li>
+  <li>Remove a vApp</li>
+</ul>
+<h3>Lab 17: User Permissions</h3>
+<ul>
+  <li>Create a Custom Role in vCenter Server</li>
+  <li>Assign Permissions on vCenter Server Inventory Objects</li>
+  <li>Verify Permission Usability</li>
+</ul>
+<h3>Lab 18: Resource Pools</h3>
+<ul>
+  <li>Create CPU Contention</li>
+  <li>Create a Resource Pool Named Fin-Test</li>
+  <li>Create a Resource Pool Named Fin-Prod</li>
+  <li>Verify Resource Pool Functionality</li>
+</ul>
+<h3>Lab 19: Monitoring Virtual Machine Performance</h3>
+<ul>
+  <li>Create CPU Activity</li>
+  <li>Use vSphere Web Client to Monitor CPU Utilization</li>
+  <li>Undo Changes Made to the Virtual Machines</li>
+</ul>
+<h3>Lab 20: Using Alarms</h3>
+<ul>
+  <li>Create a Virtual Machine Alarm that Monitors for a Condition</li>
+  <li>Create a Virtual Machine Alarm that Monitors for an Event</li>
+  <li>Trigger Virtual Machine Alarms and Acknowledge the Alarms</li>
+  <li>Disable Virtual Machine Alarms</li>
+</ul>
+<h3>Lab 21: Using VMware vSphere High Availability</h3>
+<ul>
+  <li>Create a Cluster Enabled for vSphere HA</li>
+  <li>Add Your ESXi Host to a Cluster</li>
+  <li>Test vSphere HA Functionality</li>
+  <li>Determine the vSphere HA Cluster Resource Usage</li>
+  <li>Manage vSphere HA Slot Size</li>
+  <li>Configure a vSphere HA Cluster with Strict Admission Control</li>
+</ul>
+<h3>Lab 22: Configuring VMware vSphere Fault Tolerance</h3>
+<ul>
+  <li>Prepare the Virtual Machine</li>
+  <li>Enable the vSphere FT Logging</li>
+  <li>Activate the vSphere FT Protection</li>
+  <li>Test the vSphere FT Configuration</li>
+  <li>Disable the vSphere FT Protection</li>
+</ul>
+<h3>Lab 23: VMware vSphere Distributed Resource Scheduler</h3>
+<ul>
+  <li>Create Load Imbalance</li>
+  <li>Create a DRS Cluster</li>
+  <li>Verify Proper DRS Cluster Functionality</li>
+  <li>Create, Test, and Disable a VM-VM Affinity Rule</li>
+  <li>Create, Test, and Disable an Anti-Affinity Rule</li>
+  <li>Create, Test, and Disable a Virtual Machines to Hosts Affinity Rule</li>
+</ul>
+<h3>Lab 24: VMware vSphere Update Manager</h3>
+<ul>
+  <li>Install vSphere Update Manager</li>
+  <li>Install the Update Manager Client Plug-in</li>
+  <li>Modify Cluster Settings</li>
+  <li>Configure vSphere Update Manager</li>
+  <li>Create a Patch Baseline</li>
+  <li>Attach a Baseline and Scan for Updates</li>
+  <li>Stage the Patches onto the ESXi Hosts</li>
+  <li>Remediate the ESXi Hosts<br />
+  </li>
+</ul>

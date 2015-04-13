@@ -1,0 +1,9 @@
+<p> Unit 1: Introduction to IP QoS </p>
+<p> Unit 2: The Building Blocks of IP QoS </p>
+<p> Unit 3: Introduction to Modular QoS CLI and Auto-QoS </p>
+<p> Unit 4: Classification and MarkingModule </p>
+<p> Unit 5: Congestion Management </p>
+<p> Unit 6: Congestion Avoidance </p>
+<p> Unit 7: Traffic Policing and Shaping </p>
+<p> Unit 8: Link Efficiency Mechanisms </p>
+<p> Unit 9: QoS Best Practices </p>

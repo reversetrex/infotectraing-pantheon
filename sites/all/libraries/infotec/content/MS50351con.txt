@@ -1,0 +1,214 @@
+<p><strong>Module 1: Overview- A simple introduction module.</strong></p>
+<ul>
+  <li> After completing this module, students will be able to:
+    <ul>
+      <li> Understand your course, classroom, classmates, facility and instructor.</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Module 2: User Interface</strong></p>
+<ul>
+  <li>In this module we take a look at the new features of SharePoint 2010 from a user interface standpoint.  This module will help you with navigating through the remainder of the modules and labs faster.  Some things we will explore include the new Ribbon and UI aspects.</li>
+</ul>
+
+<p><strong>Lessons</strong></p>
+    <ul>
+      <li> New SharePoint Features</li>
+      <li> Lab : User interface
+        <ul>
+          <li> UI Improvements</li>
+          <li> Create Page</li>
+          <li> Ribbon</li>
+          <li> Wiki Capabilities</li>
+        </ul>
+      </li>
+      <li>After completing this module, students will be able to:
+        <ul>
+          <li> Describe the new UI features of SharePoint sites</li>
+          <li>            Understand how to work with the Ribbon</li>
+        </ul>
+      </li>
+    </ul>
+    <p>      <strong>Module 3: Visual Studio 2010</strong></p>
+    <ul>
+      <li>      In this module we are going to take a look at the new SharePoint project templates includes with Visual Studio 2010 and their many improved features!</li>
+    </ul>
+    <p>      <strong>Lessons</strong></p>
+    <ul>
+      <li> Visual Studio 2010</li>
+      <li> Lab : Visual Studio 2010
+        <ul>
+          <li> Explore SharePoint Project Templates</li>
+          <li> Packaging and Deployment</li>
+          <li> Advanced Deployment</li>
+          <li> Server Explorer</li>
+        </ul>
+      </li>
+      <li> After completing this module, students will be able to:
+        <ul>
+          <li> Be familiar with the new Visual Studio 2010 interface</li>
+          <li> What SharePoint project templates exists in Visual Studio 2010</li>
+          <li> How to utilize the deployment capabilities of the templates</li>
+          <li> How to fix common 64 bit development issues</li>
+        </ul>
+      </li>
+    </ul>
+    <p>      <strong>Module 4: Sandboxed Solutions</strong></p>
+    <ul>
+      <li>      In this module we are going to take a look at SandBoxed Solutions in SharePoint 2010.</li>
+    </ul>
+    <p>      <strong>Lessons</strong></p>
+    <ul>
+      <li> Sandboxed Solutions</li>
+      <li> Lab : Sandboxed Solutions
+        <ul>
+          <li> Explore Sandboxed Solutions</li>
+          <li> Create and Test Sandboxed Solutions</li>
+          <li> Explore Limitations of Sandbox Solutions</li>
+          <li> Configure Sandbox Points</li>
+        </ul>
+      </li>
+      <li> Lab : DeveloperDashboard
+        <ul>
+          <li> Enable Developer Dashboard</li>
+        </ul>
+      </li>
+      <li> After completing this module, students will be able to:
+        <ul>
+          <li> How to create a SandBoxed Solution</li>
+          <li> What the limitations are of SandBoxed Solutions</li>
+          <li> What Resource Measures are and how to modify them</li>
+        </ul>
+      </li>
+    </ul>
+<p>      <strong>Module 5: LINQ and REST</strong></p>
+<ul>
+  <li>      In this module we are going to take a look at the new REST and LINQ features of SharePoint 2010.</li>
+</ul>
+<p><strong>  Lessons</strong></p>
+<ul>
+  <li> REST</li>
+  <li> LINQ</li>
+  <li> Lab : REST
+    <ul>
+      <li> Utilize REST Services</li>
+      <li> REST Service Reference</li>
+      <li> REST List Service Calls (PUT, GET)</li>
+      <li> REST Excel Service</li>
+    </ul>
+  </li>
+  <li> Lab : LINQ
+    <ul>
+      <li> LINQ Introduction</li>
+      <li> Utilize LINQ For SharePoint</li>
+      <li> Use SPMetal.exe</li>
+    </ul>
+  </li>
+  <li> After completing this module, students will be able to:
+    <ul>
+      <li> How to use REST Services</li>
+      <li> How to generate and use LINQ</li>
+    </ul>
+  </li>
+</ul>
+<p>  <strong>Module 6: Client Object Model</strong></p>
+<ul>
+  <li>  In this module we are going to take a look at the three new Client Object Models available in SharePoint 2010!</li>
+</ul>
+<p><strong>  Lessons</strong></p>
+<ul>
+  <li> Client Object Model</li>
+  <li> Lab : ClientObjectModel
+    <ul>
+      <li> Explore Client Object Model</li>
+      <li> Utilize Client Object Model (.NET)</li>
+    </ul>
+  </li>
+  <li> Lab : ECMAScript
+    <ul>
+      <li> JavaScript Object Model</li>
+    </ul>
+  </li>
+  <li> Lab : SilverLight
+    <ul>
+      <li> Utilize Client Object Model (SilverLight)</li>
+    </ul>
+  </li>
+  <li> After completing this module, students will be able to:
+    <ul>
+      <li> How to use the Client Object Model</li>
+      <li> How to use the JavaScript Object Model</li>
+      <li> How to use the Silverlight Object Model</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>  Module 7: Business Connectivity Services</strong></p>
+<ul>
+  <li>  In this module we are going to take a look at the new Business Connectivity Services.</li>
+</ul>
+<p><strong>  Lessons</strong></p>
+<ul>
+  <li> Business Connectivity Services</li>
+  <li> Lab : BCS
+    <ul>
+      <li> Explore External Content Types</li>
+      <li> Create a new External Content Type</li>
+      <li> Create an External List</li>
+    </ul>
+  </li>
+  <li> After completing this module, students will be able to:
+    <ul>
+      <li> Understand how BCS works</li>
+      <li> How to build new BCS applications</li>
+      <li> How to Upgrade your older BDC applications</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>  Module 8: Workflows</strong></p>
+<ul>
+  <li>In this module we are going to take a look at implementing workflows with SharePoint Designer 2010.</li>
+</ul>
+<p><strong>  Lessons</strong></p>
+<ul>
+  <li> Workflows</li>
+  <li> Lab : ReusableWorkflows
+    <ul>
+      <li> Create Reusable Workflows (Site/Global)</li>
+      <li> Export a workflow to Visio</li>
+      <li> Import a workflow from Visio</li>
+      <li> Save as Template</li>
+    </ul>
+  </li>
+  <li> Lab : ModifyOOBWorkflow
+    <ul>
+      <li> Modify Out Of Box Workflows</li>
+    </ul>
+  </li>
+  <li> After completing this module, students will be able to:
+    <ul>
+      <li> Build workflows with SharePoint Designer 2010</li>
+      <li> Understand how to edit built in workflows</li>
+      <li> Implement logging in your workflows</li>
+    </ul>
+  </li>
+</ul>
+<p>  <strong>Module 9: Claims Based Authentication</strong></p>
+<ul>
+  <li>  In this module we are going to take a look at the new workflow features of SharePoint 2010.</li>
+</ul>
+<p><strong>  Lessons</strong></p>
+<ul>
+  <li> Claims Based Authentication</li>
+  <li> Lab : ClaimsBasedAuth
+    <ul>
+      <li> Programming with Claims</li>
+      <li> Creating custom claims provider</li>
+    </ul>
+  </li>
+  <li> After completing this module, students will be able to:
+    <ul>
+      <li> How to work with Claims Based Authentications</li>
+      <li> How to build a Claims provider</li>
+    </ul>
+  </li>
+</ul>

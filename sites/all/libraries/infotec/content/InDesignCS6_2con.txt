@@ -1,0 +1,58 @@
+<p><strong>Lesson 1: </strong>Creating Documents for Multiple Formats</p>
+<ul>
+  <li><strong>Topic A: </strong>Build Layout Variations</li>
+  <li><strong>Topic B: </strong>Link Content</li>
+</ul>
+<p><strong>Lesson 2: </strong>Managing Advanced Page Elements</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Repeating Content</li>
+  <li><strong>Topic B: </strong>Work with Text Layouts</li>
+  <li><strong>Topic C: </strong>Create Transparency</li>
+  <li><strong>Topic D: </strong>Use Anchored Objects</li>
+  <li><strong>Topic E: </strong>Manage a Library</li>
+</ul>
+<p><strong>Lesson 3: </strong>Managing Styles</p>
+<ul>
+  <li><strong>Topic A: </strong>Import Styles from Microsoft Word Documents</li>
+  <li><strong>Topic B: </strong>Create Nested and GREP Styles</li>
+  <li><strong>Topic C: </strong>Apply Styles in a Sequence and Manage Overrides</li>
+  <li><strong>Topic D: </strong>Redefine Styles and Break Style Links</li>
+</ul>
+<p><strong>Lesson 4: </strong>Building Complex Paths</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Bézier Paths</li>
+  <li><strong>Topic B: </strong>Create Clipping Paths</li>
+  <li><strong>Topic C: </strong>Create Compound Paths</li>
+</ul>
+<p><strong>Lesson 5: </strong>Managing External Files</p>
+<ul>
+  <li><strong>Topic A: </strong>Import Layered Files</li>
+  <li><strong>Topic B: </strong>Merge Data</li>
+</ul>
+<p><strong>Lesson 6: </strong>Creating Dynamic Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Document Sections</li>
+  <li><strong>Topic B: </strong>Insert Text Variables</li>
+  <li><strong>Topic C: </strong> Create Interactive Documents</li>
+</ul>
+<p><strong>Lesson 7: </strong>Managing Long Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a Book</li>
+  <li><strong>Topic B: </strong>Build a Table of Contents</li>
+  <li><strong>Topic C: </strong>Create Hyperlinks and Cross-References</li>
+  <li><strong>Topic D: </strong>Generate an Index</li>
+  <li><strong>Topic E: </strong>Insert Footnotes</li>
+</ul>
+<p><strong>Lesson 8: </strong>Publishing InDesign Files for Other Formats</p>
+<ul>
+  <li><strong>Topic A: </strong>Export PDF files for Print</li>
+  <li><strong>Topic B: </strong>Export Interactive PDF Files</li>
+  <li><strong>Topic C: </strong>Export Files for Animation</li>
+  <li><strong>Topic D: </strong>Export Files for the Web</li>
+</ul>
+<p><strong>Lesson 9: </strong>Customizing Print Settings</p>
+<ul>
+  <li><strong>Topic A: </strong>Manage Colors</li>
+  <li><strong>Topic B: </strong>Preview the Print Output</li>
+  <li><strong>Topic C: </strong>Create Print Presets</li>
+</ul>

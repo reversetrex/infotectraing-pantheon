@@ -1,0 +1,70 @@
+<p><strong>Physical Security</strong> </p>
+<ul>
+  <li>Controlled physical access to premises and infrastructure </li>
+  <li>Social engineering </li>
+  <li>Policy adherence </li>
+  <li>Proper use of security solutions </li>
+</ul>
+<p><strong>MAC Layer Security</strong> </p>
+<ul>
+  <li>Use of VLANs for layer-2 segmentation in WLANs </li>
+  <li>Pre-shared key security solutions </li>
+  <li>802.1X/EAP framework and security solutions </li>
+  <li>Extensible Authentication Protocol (EAP) framework and comparisons </li>
+  <li>Detailed discussion of each EAP type used in today's WLANs including in-depth frame-exchange graphics </li>
+  <li>Wi-Fi Protected Access (WPA/WPA2) </li>
+  <li>802.11i terms, framework, and in-depth operational explanations </li>
+  <li>802.11i/RSN functional graphics and frame capture explanations </li>
+  <li>Explanations of how 802.1X/EAP solutions hanged to 802.11i/RSN solutions </li>
+  <li>802.11i frame format explanation and graphics</li>
+</ul>
+<p><strong>Network Layer Security</strong> </p>
+<ul>
+  <li>PPTP VPN </li>
+  <li>IPSec Framework and implementation discussion and graphical detail </li>
+</ul>
+<p><strong>WLAN Hardware Software Solutions</strong> </p>
+<ul>
+  <li>access points </li>
+  <li>WLAN switches/controllers </li>
+  <li>WLAN bridges </li>
+  <li>SOHO/SMB solutions </li>
+  <li>Enterprise Encryption Gateways (EEGs) </li>
+  <li>Enterprise Wireless Gateways (EWGs) </li>
+  <li>WLAN routers </li>
+  <li>WLAN Network Management Systems (WNMS) </li>
+  <li>WLAN mesh routers </li>
+  <li>WLAN Intrusion Detection/Prevention Systems (WIDS/WIPS) </li>
+</ul>
+<p><strong>Application Security</strong> </p>
+<ul>
+  <li>Secure Shell (SSH1/SSH2) as a terminal application and VPN solution </li>
+  <li>SSLv3/TLSv1 for email, FTP, and web browsing </li>
+  <li>SNMPv3 for authenticated and encrypted network management </li>
+</ul>
+<p><strong>Authentication, Authorization, and Accounting (AAA) Systems</strong> </p>
+<ul>
+  <li>Local authentication in APs, EWGs, WLAN switches, and WLAN routers </li>
+  <li>RADIUS authentication and proxy services </li>
+  <li>Kerberos authentication </li>
+  <li>LDAP authentication </li>
+  <li>Per-user and Per-group authorization options </li>
+  <li>Role-Based Access Control (RBAC) </li>
+  <li>Bandwidth management </li>
+</ul>
+<p><strong>Protocol Analyzers</strong> </p>
+<ul>
+  <li>Hardware and software types available </li>
+  <li>Performance and security analysis </li>
+  <li>Connectivity troubleshooting </li>
+  <li>Channel/spectral monitoring </li>
+  <li>Distributed analysis with WIDS </li>
+  <li>Three types of WIDS - explanation of each </li>
+</ul>
+<p><strong>WLAN Intrusion</strong> </p>
+<ul>
+  <li>Next generation intrusion and DoS tools </li>
+  <li>WLAN attack techniques </li>
+  <li>WLAN Switching </li>
+  <li>Enterprise Encryption Gateways (EEGs) </li>
+</ul>

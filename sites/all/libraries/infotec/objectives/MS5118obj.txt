@@ -1,0 +1,9 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan and apply a troubleshooting methodology for an organization.</li>
+  <li>Describe how the Windows Vista platform helps address troubleshooting requirements for important technical areas.</li>
+  <li>Identify the most appropriate method to troubleshoot Windows Vista computers.</li>
+  <li>Identify Windows Vista tools that can be used to help in the troubleshooting process.</li>
+  <li>Identify important maintenance tools that will be used as part of IT operations for their organizations.</li>
+  <li>Describe how monitoring and optimization tools in Windows Vista can be used to assist in troubleshooting and keeping computers performing optimally.</li>
+</ul>

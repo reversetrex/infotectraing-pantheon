@@ -1,0 +1,15 @@
+<h2>Session 1</h2>
+  <h3>Section A: Supervisor Excellence</h3>
+  <ul>
+    <li>Getting Started</li>
+  </ul>
+  <h3>Section B: Influence-Style Management</h3>
+  <ul>
+    <li>Leadership Influence</li>
+  </ul>
+  <h3>Section C: Principles of Influence</h3>
+  <ul>
+    <li>Involvement over Surveillance</li>
+    <li>Communication over Intimidation</li>
+    <li>Leadership over Authority</li>
+  </ul>

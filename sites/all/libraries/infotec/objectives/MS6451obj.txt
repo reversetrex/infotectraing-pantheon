@@ -1,0 +1,1 @@
+<p>After  completing this course, students will be able to plan, deploy, and manage Configuration Manager 2007 for their enterprise environment.</p>

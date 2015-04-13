@@ -1,0 +1,9 @@
+<p>After  completing this course, students will be able to:</p>
+<ul>  
+  <li>Describe  how Exchange Server 2007 and Active Directory work together.</li>
+  <li>Install  Exchange Server 2007.</li>
+  <li>Configure  Mailbox Server roles.</li>
+  <li>Manage  recipient objects.</li>
+  <li>Manage  e-mail and address lists.</li>
+  <li>Manage  client access.</li>
+</ul>

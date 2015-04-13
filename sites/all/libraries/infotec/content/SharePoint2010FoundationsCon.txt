@@ -1,0 +1,128 @@
+<p><strong>Level 1:</strong></p>
+<p><strong>Lesson 1: Introducing Microsoft  SharePoint Foundation 2010</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Describe Microsoft SharePoint Foundation  2010</li>
+  <li><strong>Topic 1B: </strong>Describe the Microsoft SharePoint  Foundation Team Site</li>
+</ul>
+<p><strong>Lesson 2: Working with Lists</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Add List Items</li>
+  <li><strong>Topic 2B: </strong>Modify List Items</li>
+  <li><strong>Topic 2C: </strong>Change List Views</li>
+</ul>
+<p><strong>Lesson 3: Working with Libraries</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Add Documents to a Library</li>
+  <li><strong>Topic 3B: </strong>Edit Library Documents</li>
+  <li><strong>Topic 3C: </strong>Share Documents Across Libraries</li>
+  <li><strong>Topic 3D: </strong>Create Wiki Pages</li>
+  <li><strong>Topic 3E: </strong>Request Access to SharePoint Content</li>
+</ul>
+<p><strong>Lesson 4: Communicating with Team Members</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Participate in a Discussion Board</li>
+  <li><strong>Topic 4B: </strong>Contribute to Blogs</li>
+  <li><strong>Topic 4C: </strong>Collaborate via the People and Groups List</li>
+</ul>
+<p><strong>Lesson 5: Working Remotely with SharePoint  Content</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Access SharePoint Content from Mobile  Devices</li>
+  <li><strong>Topic 5B: </strong>Work Offline with SharePoint Content in  Microsoft Office 2010</li>
+  <li><strong>Topic 5C: </strong>Work Offline with Shared Calendars</li>
+</ul>
+<p><strong>Lesson 6: Customizing Your SharePoint  Environment</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Customize Personal and Regional Settings</li>
+  <li><strong>Topic 6B: </strong>Personalizing the Page View with Web Parts</li>
+  <li><strong>Topic 6C: </strong>Create an Alert</li>
+  <li><strong>Topic 6D: </strong>Subscribe to an RSS Feed</li>
+</ul>
+<p><strong>Lesson 7: Creating a Team Site</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Create a Site</li>
+  <li><strong>Topic 7B: </strong>Create a Workspace</li>
+  <li><strong>Topic 7C: </strong>Create a List</li>
+  <li><strong>Topic 7D: </strong>Create a Library</li>
+  <li><strong>Topic 7E: </strong>Create a Discussion Board</li>
+  <li><strong>Topic 7F: </strong>Create Views</li>
+  <li><strong>Topic 7G: </strong>Create a Survey</li>
+</ul>
+<p><strong>Lesson 8: Performing Basic Site  Administration</strong></p>
+<ul>
+  <li><strong>Topic 8A: </strong>Manage Users and Groups</li>
+  <li><strong>Topic 8B: </strong>Manage Site Look and Feel</li>
+</ul>
+<p><strong>Level 2:</strong></p>
+<p><strong>Lesson 1: Branding a Site Collection</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Describe the SharePoint Site Hierarchy</li>
+  <li><strong>Topic 1B: </strong>Create a Custom Look and Feel for a Site  Collection</li>
+  <li><strong>Topic 1C: </strong>Create a Custom Site Layout</li>
+</ul>
+<p><strong>Lesson 2: Managing Lists</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Perform Calculations on List Data</li>
+  <li><strong>Topic 2B: </strong>Create Custom Lists</li>
+  <li><strong>Topic 2C: </strong>Customize List Settings</li>
+</ul>
+<p><strong>Lesson 3: Managing Libraries</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Perform Advanced Operations on a Library</li>
+  <li><strong>Topic 3B: </strong>Create a Library Template</li>
+  <li><strong>Topic 3C: </strong>Describe Information Rights Management</li>
+</ul>
+<p><strong>Lesson 4: Managing Form Libraries</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Create a Form Library</li>
+  <li><strong>Topic 4B: </strong>Customize a Form Template Using InfoPath</li>
+</ul>
+<p><strong>Lesson 5: Managing Content Structures</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Create a Content Type</li>
+  <li><strong>Topic 5B: </strong>Apply Content Types</li>
+</ul>
+<p><strong>Lesson 6: Managing Workflows</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Add a Default Workflow</li>
+  <li><strong>Topic 6B: </strong>Create a Custom Workflow</li>
+</ul>
+<p><strong>Lesson 7: Working with Indexing and  Searching</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Index Content</li>
+  <li><strong>Topic 7B: </strong>Enable Search Options</li>
+</ul>
+<p><strong>Lesson 8: Working Offline Using SharePoint  Workspace 2010</strong></p>
+<ul>
+  <li><strong>Topic 8A: </strong>Synchronize a SharePoint Site on the Local  Computer</li>
+  <li><strong>Topic 8B: </strong>Perform Offline Operations on a SharePoint  Site</li>
+</ul>
+<p><strong>Lesson 9: Managing the SharePoint  Applications Using Central Administration</strong></p>
+<ul>
+  <li><strong>Topic 9A: </strong>Create a Site Collection</li>
+  <li><strong>Topic 9B: </strong>Administer a Site Collection</li>
+  <li><strong>Topic 9C: </strong>Administer a Web Application</li>
+</ul>
+<p><strong>Lesson 10: Managing User Access</strong></p>
+<ul>
+  <li><strong>Topic 10A: </strong>Manage Permissions</li>
+  <li><strong>Topic 10B: </strong>Describe Authentication Modes</li>
+</ul>
+<p><strong>Lesson 11: Managing Site Security</strong></p>
+<ul>
+  <li><strong>Topic 11A: </strong>Set Web Part Security</li>
+  <li><strong>Topic 11B: </strong>Set Antivirus Options</li>
+  <li><strong>Topic 11C: </strong>Manage Blocked File Types</li>
+</ul>
+<p><strong>Lesson 12: Managing Site Usage</strong></p>
+<ul>
+  <li><strong>Topic 12A: </strong>Set Site Collection Quotas and Locks</li>
+  <li><strong>Topic 12B: </strong>Monitor Site Usage</li>
+</ul>
+<p><strong>Lesson 13: Managing Site Maintenance</strong></p>
+<ul>
+  <li><strong>Topic 13A: </strong>Recover Lost Information</li>
+  <li><strong>Topic 13B: </strong>Perform a Granular Backup</li>
+  <li><strong>Topic 13C: </strong>Restore a Granular Backup</li>
+  <li><strong>Topic 13D: </strong>Perform a Farm Backup</li>
+  <li><strong>Topic 13E: </strong>Restore a Farm Backup</li>
+</ul>

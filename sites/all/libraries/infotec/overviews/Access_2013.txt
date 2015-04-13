@@ -1,0 +1,7 @@
+What's new in Access 2013? Along with a new look and similar features you 
+used in Access 2010, you will be introduced to the new web apps feature. 
+In Access 2013 you can design your own or use templates to create apps 
+that can be shared with your coworkers or friends. LearnKey expert Jason 
+Manibog will take you step-by-step through this course; starting with 
+database management and navigation. Users will learn to use the tools 
+provided in Access 2013 to design and maintain a basic database.

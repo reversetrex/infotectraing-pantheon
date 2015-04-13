@@ -1,0 +1,104 @@
+<p><strong>Module 1: Features and Architecture of Microsoft Lync Server 2010</strong> - This module introduces the architecture and topology of Lync Server 2010. It also explains a high-level overview of Lync Server 2010 features and capabilities, including enhanced social networking capabilities, and the improved administrative experience provided by the Central Management Store and the Lync Server Control Panel. Additionally, it provides an overview of the new Topology Builder tool.</p>
+<p>Lessons</p>
+<ul>
+  <li>Features of Lync Server 2010</li>
+  <li>Architecture and Server Roles</li>
+  <li>New Management Tools</li>
+</ul>
+<p><strong>Module 2: Deploying Microsoft Lync Server 2010</strong> - This module introduces the planning and implementation tasks necessary deploying Microsoft Lync Server 2010 Enterprise Edition. It also explains the Lync Server 2010 infrastructure requirements, the topology design and publishing process, as well as the steps required to prepare Microsoft Active Directory Domain Services (AD DS), deploy a Front End server and pool, and prepare for the deployment of the remaining server roles.</p>
+<p>Lessons</p>
+<ul>
+  <li>Preparing for Deployment</li>
+  <li>Reviewing the Design Process</li>
+  <li>Deploying Lync Server 2010</li>
+</ul>
+<p><strong>Module 3: Configuring Users and Rights in Microsoft Lync Server 2010</strong> - This module explains how to configure and manage users in Lync Server 2010. It describes the configuration management options in Lync Server 2010, including the Lync Server Control Panel and the Lync Server Management Shell. It also covers the basic syntax for working in Microsoft Windows PowerShell. Additionally, it describes the Role Based Access Control (RBAC) administrative model in Lync Server 2010, and highlights the predefined roles and the process to create new custom roles.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Lync Server 2010</li>
+  <li>Role-Based Access Control</li>
+</ul>
+<p><strong>Module 4: Client and Device Deployment and Management</strong> - This module explains how to effectively manage desktop clients and devices in a Microsoft  Lync Server 2010 environment. It describes how to create and define client and user policies in Lync Server 2010, as well as new procedures for deploying clients and devices.</p>
+<p>Lessons</p>
+<ul>
+  <li>Preparing for Client Deployment</li>
+  <li>Deploying and Managing Lync 2010 Clients</li>
+  <li>Preparing for Device Deployment</li>
+  <li>Deploying and Managing IP Phones</li>
+</ul>
+<p><strong>Module 5: External User Access</strong> - This module explains how to support external access in a Microsoft  Lync Server 2010 deployment. It describes the features and functionality of the Edge Server that support user communication and collaboration with external users, and internal user access to public IM services. Additionally it explains how to configure network routing for the Edge Server, obtain and install certificates, and create and modify Access Edge Policies for federated, remote, and public scenarios.</p>
+<p>Lessons</p>
+<ul>
+  <li>Edge Server Role</li>
+  <li>Topologies for External User Access</li>
+  <li>Preparing for External User Access</li>
+  <li>Edge Server Deployment Process</li>
+</ul>
+<p><strong>Module 6: Configuring Basic Enterprise Voice Functionality</strong> - This module provides an overview of the major components, features and topology requirements of Microsoft  Lync Server 2010 Enterprise Voice. It explains the capabilities and components that are new or enhanced in Lync Server 2010. It also describes how to prepare, configure, and deploy basic Enterprise Voice functionality.</p>
+<p>Lessons</p>
+<ul>
+  <li>Features of Lync Server 2010 Enterprise Voice</li>
+  <li>Preparing for Enterprise Voice</li>
+  <li>Deploying Enterprise Voice</li>
+</ul>
+<p><strong>Module 7: Extending Enterprise Voice Functionality</strong> - This module explains how to configure policies, routes, and usage records. It also describes how to implement the call park and unassigned number features.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Enterprise Voice</li>
+  <li>Introducing Call Park</li>
+  <li>Introducing the Announcement Service</li>
+</ul>
+<p><strong>Module 8: Microsoft Exchange Server 2010 SP1 Unified Messaging (UM) Integration</strong> - This module describes the prerequisites for integrating Exchange Server 2010 UM with Lync Server 2010. It also explains how to create and configure a UM dial plan. Additionally, it covers how to use the tools and services needed to integrate Exchange Server 2010 UM with Lync Server 2010. Finally it explains how to enable a user for UM integration with Lync Server 2010.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Exchange Server 2010 SP1 Unified Messaging</li>
+  <li>Prerequisites for Integrating Exchange Server 2010 SP1 UM with Lync Server 2010</li>
+  <li>Integrating Exchange Server 2010 SP1 UM with Lync Server 2010</li>
+</ul>
+<p><strong>Module 9: Implementing Response Groups</strong> - This module introduces the Response Group Service and the changes that have been implemented with Microsoft Lync Server 2010. It describes RGS components, including queues, agent groups, workflows, and interactive workflows. It also explains how to use tools such as Lync Server Control Panel, Lync Server Management Shell, and Response Group Configuration Tool to manage workflows.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Response Group Service and its Application</li>
+  <li>Response Group Service Components</li>
+  <li>Response Group Service Management Tools</li>
+</ul>
+<p><strong>Module 10: Conferencing in Microsoft Lync Server 2010</strong> - This module introduces conferencing in Lync Server 2010. It also explains dial-in conferencing in Lync Server 2010 and how to manage and administer conferencing policies.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Conferencing in Lync Server 2010</li>
+  <li>Dial-In Conferencing in Lync Server 2010</li>
+  <li>Managing and Administering Conferencing Policies</li>
+</ul>
+<p><strong>Module 11: Monitoring and Archiving</strong> - This module describes the features and configuration of the Monitoring and Archiving services. It also explains how to interpret the Quality of Experience (QoE) reports and use this information to better manage and deliver a high-quality user experience for Microsoft Lync Server 2010.</p>
+<p>Lessons</p>
+<ul>
+  <li>Describing the Archiving Service</li>
+  <li>Describing the Monitoring Service</li>
+  <li>Configuring Archiving and Monitoring</li>
+</ul>
+<p><strong>Module 12: High Availability and Disaster Recovery in Microsoft Lync Server 2010</strong> - This module explains the requirements for high availability as well as the requirements for the Domain Name System (DNS) load balancing feature. It also describes the tools and methods for successfully backing up and restoring a Lync Server 2010 environment. Additionally, it explains how to backup and restore and export and import critical Lync Server 2010 data.</p>
+<p>Lessons</p>
+<ul>
+  <li>High Availability Options</li>
+  <li>Tools for Backing Up and Restoring Lync Server 2010</li>
+  <li>Critical Lync Server Data to Export and Import</li>
+  <li>Critical Lync Server 2010 Data to Export and Import</li>
+</ul>
+<p><strong>Module 13: Call Admission Control</strong> - This module introduces Call Admission Control (CAC) in Lync Server 2010 and describes the various components. It explains how to deploy and use CAC bandwidth management to help prioritize and control allocation of network resources to real-time communications sessions.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of  Call Admission Control</li>
+  <li>Implementing Call Admission Control</li>
+</ul>
+<p><strong>Module 14: Deploying and Configuring Enhanced 9-1-1</strong> - This module introduces Location Information Server (LIS), which builds on Enhanced 9-1-1, technology to provide location information to users of a network. It explains how to deploy and configure LIS for use with or without Enhanced 9-1-1.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of E9-1-1</li>
+  <li>Deploying and Configuring E9-1-1</li>
+</ul>
+<p><strong>Module 15: Voice Resiliency Features of Lync Server 2010</strong> - This module describes the voice resiliency features of Lync Server 2010. It explains how voice resiliency is used to provide continuous Enterprise Voice service so that users can continue making and receiving calls, even if the central site or the WAN link from a branch to its central site becomes unavailable. It also explores multiple failure scenarios such as central site failover, branch site failover, and WAN failover.</p>
+<p>Lessons</p>
+<ul>
+  <li>Voice Resiliency in Lync Server 2010</li>
+  <li>Features Available During Various Outage Scenarios</li>
+</ul>

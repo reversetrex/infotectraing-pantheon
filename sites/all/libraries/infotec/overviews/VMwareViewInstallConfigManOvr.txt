@@ -1,0 +1,1 @@
+This hands-on training course builds your skills in the VMware View suite of products:  VMware View Manager, VMware View Composer, and VMware ThinApp.  This course is based on the View 4.5 and ThinApp 4.6 releases.

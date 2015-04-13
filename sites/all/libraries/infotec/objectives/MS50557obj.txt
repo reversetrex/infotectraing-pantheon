@@ -1,0 +1,8 @@
+<p>At the end of this course, students will:</p>
+<ul>
+	<li>Understand Key components of Microsoft Office 365.</li>
+    <li>Know the deployment models.</li>
+    <li>Understand key elements of automation using PowerShell.</li>
+    <li>Know how to use Directory Sync.</li>
+    <li>Differentiate key functionality for Microsoft Exchange Online, SharePoint Online and Lync Online.</li>
+</ul>

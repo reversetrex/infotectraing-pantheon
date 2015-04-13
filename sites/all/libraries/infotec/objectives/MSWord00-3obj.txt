@@ -1,0 +1,9 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Use advanced techniques for working with styles. </li>
+  <li> Create and use templates and forms. </li>
+  <li> Enhance documents by drawing in a document and using clip art and WordArt. </li>
+  <li> Manage long documents by adding a table of contents, an index, bookmarks, cross-references, and odd and even headers and footers, and by adjusting margins for document binding. </li>
+  <li> Manage document changes by creating different versions of a document, tracking document changes, adding comments, and accepting or rejecting document changes. </li>
+  <li> Prepare a document for an intranet by inserting hyperlinks, sound, a movie clip, and scrolling text into a web page. </li>
+</ul>

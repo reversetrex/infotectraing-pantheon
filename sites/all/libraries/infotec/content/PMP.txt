@@ -1,0 +1,213 @@
+<h2>Session 1</h2>
+  <h3>Section A: Framework Fundamentals</h3>
+  <ul>
+    <li>Project Management Professional</li>
+    <li>Who Should Take PMP?</li>
+    <li>Apply for the Exam</li>
+    <li>What is a Project?</li>
+    <li>Temporary Project</li>
+    <li>Unique Product or Service</li>
+    <li>Progressive Elaboration</li>
+    <li>What Project Management Is</li>
+    <li>The Project Context</li>
+    <li>PMO Structures</li>
+    <li>Role of the Project Manager</li>
+    <li>Interpersonal Skills</li>
+    <li>Project Management Body of Knowledge</li>
+    <li>Changes in the PMBOK Guide</li>
+  </ul>
+  <h3>Section B: Project Management Basics</h3>
+  <ul>
+    <li>Organizational Politics and Influences</li>
+    <li>Organizational Structure</li>
+    <li>Organizational Process Assets</li>
+    <li>Enterprise Environmental Factors</li>
+    <li>Who are the Stakeholders?</li>
+    <li>Project Team</li>
+    <li>Project Life Cycle</li>
+    <li>Life Cycle Types</li>
+  </ul>
+  <h3>Section C: The Project Environment</h3>
+  <ul>
+    <li>Manage Project Constraints</li>
+    <li>Project Management Process Groups</li>
+    <li>Process Relationships</li>
+    <li>Project Information</li>
+    <li>Project Management Knowledge Areas</li>
+    <li>Process Interaction Customization</li>
+  </ul>
+  <h3>Section D: Project Initiating</h3>
+  <ul>
+    <li>Initiate Process Group</li>
+    <li>Scenario #1</li>
+    <li>Initiate the Project</li>
+    <li>Initiating Processes</li>
+    <li>Project Charter Purpose</li>
+    <li>Project Charter Contents</li>
+    <li>Scenario #2</li>
+    <li>Project Selection Methods</li>
+    <li>Project Management Methodology</li>
+  </ul>
+  <h3>Section E: Initiating Tools and Techniques</h3>
+  <ul>
+    <li>PMIS</li>
+    <li>Use Expert Judgment</li>
+    <li>Accounting Concepts</li>
+    <li>Scenario #3</li>
+    <li>Identify Stakeholders</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Integration and Scope Management</h3>
+  <ul>
+    <li>Plan the Project</li>
+    <li>Organizational Process Assets</li>
+    <li>Integration Management</li>
+    <li>Plan Scope Management</li>
+    <li>Collect Requirements</li>
+    <li>Define Scope</li>
+    <li>Create WBS</li>
+    <li>Work Breakdown Structure</li>
+    <li>Scenario #4</li>
+  </ul>
+  <h3>Section B: Time Management</h3>
+  <ul>
+    <li>Plan Schedule Management</li>
+    <li>Define Activities</li>
+    <li>Sequence Activities</li>
+    <li>Estimate Activity Resources</li>
+    <li>Estimate Activity Durations</li>
+    <li>Develop Schedule</li>
+    <li>Activity Sequence</li>
+    <li>Network Diagrams</li>
+    <li>Types of Dependencies</li>
+    <li>Estimating Concepts</li>
+    <li>Estimate Network Diagrams</li>
+    <li>Schedule Compression</li>
+    <li>Time Management, Develop Schedule</li>
+    <li>Scenario #5</li>
+  </ul>
+  <h3>Section C: Cost Management</h3>
+  <ul>
+    <li>Plan Cost Management</li>
+    <li>Cost Estimating Concepts</li>
+    <li>Earned Value Management</li>
+    <li>Cost Estimating Formulas</li>
+  </ul>
+  <h3>Section D: Quality and Communication Management</h3>
+  <ul>
+    <li>Quality Management</li>
+    <li>Quality Concepts</li>
+    <li>Seven Basic Quality Tools</li>
+    <li>Human Resources Management</li>
+    <li>Human Resources Topics</li>
+    <li>Conflict Management</li>
+    <li>Communications Management</li>
+    <li>Communications Model</li>
+    <li>Communication Terms</li>
+    <li>Communication Methods</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Risks, Procurements, and Stakeholders</h3>
+  <ul>
+    <li>Risk Management</li>
+    <li>Plan Risk Management</li>
+    <li>Identify Risks</li>
+    <li>Risk Identification Techniques</li>
+    <li>Risk Identification Diagram</li>
+    <li>Qualitative Risk Analysis</li>
+    <li>Quantitative Risk Analysis</li>
+    <li>Risk Response</li>
+    <li>Negative Risk Response</li>
+    <li>Positive Risk Response</li>
+    <li>Scenario #6</li>
+    <li>Plan Procurements</li>
+    <li>Make-or-Buy Decision</li>
+    <li>Contract Types</li>
+    <li>Stakeholder Management</li>
+    <li>Stakeholder Engagement</li>
+  </ul>
+  <h3>Section B: Execute the Process</h3>
+  <ul>
+    <li>Execute the Project</li>
+    <li>Project Execution Management</li>
+    <li>Manage Quality Assurance</li>
+    <li>Quality Management Control Tools</li>
+    <li>Acquire Project Team</li>
+    <li>Develop Project Team</li>
+    <li>Manage Project Team</li>
+    <li>Manage Communications</li>
+    <li>Conduct Procurements</li>
+    <li>Manage Stakeholder Engagement</li>
+  </ul>
+  <h3>Section C: Control the Project</h3>
+  <ul>
+    <li>Monitor and Control the Project</li>
+    <li>Monitor and Control Project Work</li>
+    <li>Perform Integrated Change Control</li>
+    <li>Reasons for Project Changes</li>
+    <li>Validate Scope</li>
+    <li>Control Scope</li>
+    <li>Scenario #7</li>
+  </ul>
+  <h3>Section D: Control the Project Constraint</h3>
+  <ul>
+    <li>Control Project Schedule</li>
+    <li>Control Cost</li>
+    <li>Identify Variance with EV</li>
+    <li>Scenario #8</li>
+    <li>Control Quality</li>
+    <li>Measure Quality Control</li>
+  </ul>
+  <h3>Section E: Communicate Project Performance</h3>
+  <ul>
+    <li>Manage Communications</li>
+    <li>Manage Risk</li>
+    <li>Manage Procurements</li>
+    <li>Manage Stakeholders</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Close a Project</h3>
+  <ul>
+    <li>Project Closure</li>
+    <li>Scenario #9</li>
+    <li>Close Project Process</li>
+    <li>Project Closure Criteria</li>
+    <li>Administrative Closure</li>
+  </ul>
+  <h3>Section B: Procurement Closure</h3>
+  <ul>
+    <li>Procurement Closure Process</li>
+    <li>Contract Closure Criteria</li>
+    <li>Procurement Closure Activities</li>
+    <li>Administrative vs. Procurement Closure</li>
+  </ul>
+  <h3>Section C: PMI Code of Conduct</h3>
+  <ul>
+    <li>Professional and Social Responsibility</li>
+    <li>PMI Code of Professional Conduct</li>
+    <li>Responsibility: Aspirational Standards</li>
+    <li>Responsibility: Mandatory Standards</li>
+    <li>Respect: Aspirational Standards</li>
+    <li>Respect: Mandatory Standards</li>
+    <li>Fairness: Aspirational Standards</li>
+    <li>Fairness: Mandatory Standards</li>
+    <li>Honesty: Aspirational Standards</li>
+    <li>Honesty: Mandatory Standards</li>
+    <li>Scenario #10</li>
+    <li>Administration of the Code</li>
+  </ul>
+  <h3>Section D: Exam Day</h3>
+  <ul>
+    <li>Day of the Exam</li>
+    <li>Basic Definitions Review</li>
+    <li>Knowledge Areas, Process Groups Review</li>
+    <li>Organizational Structures Review</li>
+    <li>Network Diagrams Review</li>
+    <li>Estimating Concepts Review</li>
+    <li>Cost Estimating Concepts Review</li>
+    <li>Cost Estimating Formulas Review</li>
+    <li>Risk Management Review</li>
+    <li>Contract Types Review</li>
+    <li>Project Closure Review</li>
+    <li>PMI Code of Professional Conduct Review</li>
+  </ul>

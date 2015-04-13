@@ -1,0 +1,3 @@
+This course provides you with the skills necessary to monitor, maintain, optimize and troubleshoot Citrix XenApp 6.5 environments running on Windows Server 2008 R2 software. You are introduced to the tools used to monitor the XenApp farm, record farm activity and generate reports. In addition,you take away the skills needed to maintain data and server integrity and to scale, optimize and troubleshoot the XenApp farm. This course encourages learning by doing and includes many hands-on exercises that reinforce and expand on the course content.
+<br><br>
+This course helps prepare you for the CCAA and CCEE certifications.

@@ -1,0 +1,9 @@
+<p> After completing this course, students will be able to:</p>
+<ul>
+  <li> Describe the challenges, techniques, and processes that take place throughout the Microsoft Windows Vista desktop deployment life-cycle. </li>
+  <li> Inventory, analyze, and mitigate application compatibility when planning a Microsoft Windows Vista desktop deployment. </li>
+  <li> Capture and restore user state information during a workstation deployment task. </li>
+  <li> Create a custom image of a desktop computer that runs the Microsoft Windows Vista operating system. </li>
+  <li> Deploy a Microsoft Windows Vista image using a Lite Touch methodology. </li>
+  <li> Secure a desktop running Microsoft Windows Vista using Windows Vista technology. </li>
+</ul>

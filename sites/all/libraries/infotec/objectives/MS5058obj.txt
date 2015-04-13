@@ -1,0 +1,8 @@
+<p>After completing this course, students will gain the skills to:</p>
+<ul>
+  <li>Prepare the environment to deploy and install Microsoft Office 2007</li>
+  <li>Analyze file compatibility and interoperability issues between Office 2007 and previous versions of Microsoft Office</li>
+  <li>Install Microsoft Office 2007 using the local installation sources</li>
+  <li>Select an appropriate Office 2007 deployment method based upon the organizations&rsquo; desktop management technique</li>
+  <li>Deploy  Office 2007 to a multilingual network environment.</li>
+</ul>

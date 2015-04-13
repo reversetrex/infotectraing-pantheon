@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Configure and Troubleshoot Domain Name System</li>
+  <li>Maintain Active Directory Domain Services</li>
+  <li>Manage User and Service Accounts</li>
+  <li>Implement Group Policy Infrastructure</li>
+  <li>Manage User Desktops using Group Policy</li>
+  <li>Install, Configure and Troubleshoot Network Policy Server</li>
+  <li>Implement Network Access Protection</li>
+  <li>Implement Remote Access</li>
+  <li>Optimize File Services</li>
+  <li>Configure Encryption and Advanced Auditing</li>
+  <li>Deploy and Maintain Server Images</li>
+  <li>Implement Update Managements</li>
+  <li>Monitor Windows Server 2012</li>
+</ul>

@@ -1,0 +1,24 @@
+<h2>Session 1</h2>
+  <h3>Section A: Tolerance</h3>
+  <ul>
+    <li>We Are All Different</li>
+    <li>Avoiding Discrimination</li>
+    <li>Understanding Diversity</li>
+  </ul>
+  <h3>Section B: Communication Essentials</h3>
+  <ul>
+    <li>Communication Issues</li>
+    <li>Improving Communication</li>
+    <li>Understanding and Acceptance</li>
+  </ul>
+  <h3>Section C: Group Environment</h3>
+  <ul>
+    <li>Group Challenges</li>
+    <li>Know the Laws</li>
+  </ul>
+  <h3>Section D: Conflict Resolution</h3>
+  <ul>
+    <li>Three Strategies</li>
+    <li>Stereotypes</li>
+    <li>Diversity-Smart Workforce</li>
+  </ul>

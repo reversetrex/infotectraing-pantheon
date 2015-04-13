@@ -1,0 +1,37 @@
+<p><strong> UNIT 1: </strong><em>(Chapters 1-6 &amp; 11) </em></p>
+<ul>
+  <li> Course objectives </li>
+  <li>History of fiber optics </li>
+  <li>Analog and digital communication, applications and principles </li>
+  <li>Advantages of fiber optics over other mediums </li>
+  <li>Electromagnetic spectrum, refraction and total internal reflection </li>
+  <li>Optical fiber construction and classification </li>
+  <li>Multi-mode and single-mode properties and applications </li>
+  <li>Connector theory and application </li>
+  <li>Intrinsic and extrinsic factors related to connector performance </li>
+  <li>Hand tool lab </li>
+</ul>
+<p><strong> UNIT 2: </strong><em>(Chapters 7-9) </em></p>
+<ul>
+  <li> Fiber optic cable construction </li>
+  <li>Introduction to Article 770 of the National Electric Code (NEC) </li>
+  <li>Introduction to ANSI/TIA/EIA-568-B.3 </li>
+  <li>Fiber Optic Source (FOS) and Fiber Optic Meter (FOM) theory and application </li>
+  <li>Anaerobic SC connector lab </li>
+  <li>2- Part Epoxy LC connector lab </li>
+  <li>3M Hot Melt &auml; ST connector lab </li>
+  <li>Skills testing </li>
+</ul>
+<p><strong> UNIT 3: </strong><em>(Chapters 13, 14 &amp; 17) </em></p>
+<ul>
+  <li> Fiber Optic Link and Power Budget Theory </li>
+  <li>Fiber Optic Cable Installation and Hardware </li>
+  <li>Mechanical splice theory and application </li>
+  <li>Fusion splice theory and application </li>
+  <li>Optical Time Domain Reflectometer (OTDR) theory and application </li>
+  <li>OTDR lab </li>
+  <li>Mechanical Splice lab </li>
+  <li>Fusion splice lab </li>
+  <li>Skills testing </li>
+  <li>ETA certification exam (75 Question Multiple Choice Exam) </li>
+</ul>

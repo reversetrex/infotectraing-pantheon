@@ -1,0 +1,11 @@
+<p>Upon successful completion of this  course, students will be able to:</p>
+<ul>
+  <li>create InfoPath forms. </li>
+  <li>import and export form data. </li>
+  <li>customize form layout. </li>
+  <li>manage views. </li>
+  <li>secure the forms. </li>
+  <li>distribute forms. </li>
+  <li>manage controls. </li>
+  <li>work  with databases.</li>
+</ul>

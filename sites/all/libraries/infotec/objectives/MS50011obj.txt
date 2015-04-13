@@ -1,0 +1,9 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Describe the major challenges now facing IT operations, and the MOF approach to service management.</li>
+  <li>Explain what ITIL is and describe how MOF  builds on ITIL.</li>
+  <li>Explain the basics of the MOF Process Model, its four quadrants, and the mission of service for each quadrant.</li>
+  <li>Explain the MOF Team Model and the mission, key responsibilities, and needed staff competencies for each role cluster.</li>
+  <li>Explain what the MOF Risk Management Discipline is and why it was implemented, as well as describe how the MOF Risk Management Discipline is applied to operations.</li>
+</ul>

@@ -1,0 +1,104 @@
+<p><strong>Module 1: Office 365 Overview</strong></p>
+<ul>
+  <li>Why Office 365?</li>
+  <li>Security in Office 365</li>
+  <li>Multi-layered Defense</li>
+  <li>Security and Compliance Features</li>
+</ul>
+<p><strong>Module 2: Deploying Clients for Microsoft Office 365</strong></p>
+<ul>
+  <li>Client Requirements (Software and Hardware)</li>
+  <li>What Office Professional Plus is and isn’t</li>
+  <li>Office Professional Plus Components and Interactions</li>
+  <li>Office Professional Plus Deployment Options</li>
+  <li>Office Professional Plus Installation Overview</li>
+  <li>Office Professional Plus Deployment Considerations</li>
+</ul>
+<p><strong>Module 3: Microsoft Office 365 Administration and Automation Using Windows PowerShell</strong></p>
+<ul>
+  <li>Update on Office 365 PowerShell plans</li>
+  <li>Overview of Features</li>
+</ul>
+<p><strong>Module 4: Microsoft Office 365 Identity and Access Solutions</strong></p>
+<ul>
+  <li>Cover the different Identity Options</li>
+  <li>Explain the Identity Architecture and Features</li>
+  <li>Describe how federated authentication works</li>
+  <li>Describe the various deployment scenarios</li>
+</ul>
+<p><strong>Module 5: Microsoft Office 365 Directory Synchronization</strong></p>
+<ul>
+  <li>What is Directory Sync?</li>
+  <li>Using Directory Sync</li>
+</ul>
+<p><strong>Module 6: Using Directory Sync</strong></p>
+<ul>
+  <li>What is Exchange Online?</li>
+  <li>Exchange Online delivers: Anywhere Access, Protection and Compliance, Visibility and Control</li>
+  <li>Deployment Flexibility</li>
+  <li>Unsupported feature sets</li>
+</ul>
+<p><strong>Module 7: Microsoft Exchange Online Administration</strong></p>
+<ul>
+  <li>The Tools</li>
+  <li>RBAC in the Cloud</li>
+  <li>Mailbox Provisioning Options</li>
+  <li>License assignment and enforcement</li>
+  <li>Cross Premises Administration</li>
+  <li>Partner Administration</li>
+  <li>Geopolitical Restrictions</li>
+</ul>
+<p><strong>Module 8: Microsoft Staged Exchange Online Migration</strong></p>
+<ul>
+  <li>Migration Overview</li>
+  <li>Cutover Exchange migration</li>
+  <li>Staged Exchange migration</li>
+  <li>What’s Coming?</li>
+</ul>
+<p><strong>Module 9: Hybrid Deployment w/ Exchange Server</strong></p>
+<ul>
+  <li>Review Hybrid Features</li>
+  <li>Planning Requirements</li>
+  <li>Exchange Sharing</li>
+  <li>Secure Transport</li>
+  <li>Deployment Stages</li>
+</ul>
+<p><strong>Module 10: Exchange Online Archiving and Compliance</strong></p>
+<ul>
+  <li>Overview of compliance in Exchange Online</li>
+  <li>Explain and demonstrate key compliance features in Exchange Online: Personal Archive, Discovery, Retention   and Hold Policies, Information Rights Management, Transport Rules</li>
+</ul>
+<p><strong>Module 11: Lync Online Overview and Configuration</strong></p>
+<ul>
+  <li>Lync Online Overview</li>
+  <li>Initial set up and network configuration</li>
+  <li>Setting up Lync federation</li>
+  <li>Lync Meetings and dial-in audio conferencing</li>
+  <li>Roadmap update</li>
+</ul>
+<p><strong>Module 12: SharePoint Online Overview</strong></p>
+<ul>
+  <li>Intro</li>
+  <li>SharePoint Online Features</li>
+  <li>Where to start</li>
+  <li>Live in a Hybrid World</li>
+</ul>
+<p><strong>Module 13: SharePoint Online Administration</strong></p>
+<ul>
+  <li>Introduction</li>
+  <li>Delegated administration</li>
+  <li>SharePoint Online Administration overview</li>
+  <li>Site Collection ownership</li>
+  <li>Planning and Assessing a Move to the Cloud</li>
+</ul>
+<p><strong>Module 14: SharePoint Online Extensibility and Customization</strong></p>
+<ul>
+  <li>Overview of Microsoft SharePoint Online development</li>
+  <li>The power user and/or designer: In-browser customizations; SharePoint Designer 2010--no-code solutions</li>
+  <li>The developer: Sandboxed solutions; Microsoft Silverlight</li>
+</ul>
+<p><strong>Module 15: Office 365 Deployment Overview</strong></p>
+<ul>
+  <li>Pre-Deployment Considerations</li>
+  <li>Planning -&gt;Preparing -&gt;Migrating: Common Deployment Blockers; Organizational Planning; Network   Planning; User Identity and Provisioning Planning; Exchange Online; Lync Online; SharePoint Online; Client Deployment; Mobile Devices</li>
+</ul>

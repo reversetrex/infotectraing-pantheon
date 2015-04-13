@@ -1,0 +1,50 @@
+<p><strong> UNIT 1: </strong><em>(Chapters 1-6 &amp; 11) </em></p>
+<ul>
+  <li> Course objectives </li>
+  <li>History of fiber optics </li>
+  <li>Principles of Fiber Optic Transmission </li>
+  <li>Basic Principles of Light </li>
+  <li>Optical Fiber Construction and Theory </li>
+  <li>Optical Fiber Characteristics </li>
+  <li>Safety </li>
+  <li>Connectors </li>
+</ul>
+<p><strong> UNIT 2: </strong><em>(Chapters 7 &ndash; 9) </em></p>
+<ul>
+  <li> Fiber Optic Cables </li>
+  <li>Fiber Optic Light Sources </li>
+  <li>Fiber Optic Detectors and Receivers </li>
+  <li>Test Equipment and Link/Cable Testing with OLTS </li>
+  <li>Anaerobic Epoxy SC Connector Lab </li>
+  <li>Skills testing </li>
+</ul>
+<p><strong> UNIT 3: </strong><em>(Chapter 13 &amp; 14) </em></p>
+<ul>
+  <li> Cable Installation and Hardware </li>
+  <li>Fiber Optic System Design Considerations </li>
+  <li>2-Part Epoxy LC Connector Lab </li>
+  <li>3M Hot Melt Lab </li>
+  <li>Skills testing </li>
+</ul>
+<p><strong> UNIT 4: </strong></p>
+<ul>
+  <li> (MIL-STD-2042()(SH) Fiber Optic Cable Assembly) </li>
+  <li>MIL-C-83522 ST Connector lab </li>
+  <li>MIL-C-28876 Multiple Terminus Connector 4 Fiber w/Straight Strain Relief </li>
+  <li>MIL-T-29504 Pins and Sockets with Removable and Integral Backshell </li>
+  <li>(Tactical Fiber Optic Cable Assembly) </li>
+  <li>Demonstrate TFOCA GENX Plug Type Connector Disassembly &amp; Assembly </li>
+  <li>Demonstrate TFOCA GENX Receptacle Disassembly &amp; Assembly </li>
+  <li>Demonstrate TFOCA I Receptacle Disassembly &amp; Assembly </li>
+  <li>M85045/16 Multimode and Single-mode ST Lab </li>
+  <li>TFOCA I Plug Type Connector (Biconic) Assembly Lab </li>
+</ul>
+<p><strong> UNIT 5: </strong><em>(Chapters 17) </em></p>
+<ul>
+  <li> Splicing </li>
+  <li>Test Equipment and Link/Cable Testing with OTDR </li>
+  <li>OTDR Lab </li>
+  <li>Mechanical Splice Lab </li>
+  <li>Fusion Splice Lab </li>
+  <li>ETA Certification Exam (75 Question Multiple Choice Exam) </li>
+</ul>

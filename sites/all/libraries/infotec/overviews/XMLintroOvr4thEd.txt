@@ -1,0 +1,1 @@
+With your HTML knowledge, you have a solid foundation for working with markup languages. However, unlike HTML, XML is more flexible, allowing you to create custom tags to store and share data across different systems. This course introduces the fundamentals of XML and its related technologies so that you can create your own markup documents.

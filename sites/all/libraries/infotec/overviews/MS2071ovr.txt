@@ -1,0 +1,1 @@
+This course provides students with the technical skills required to write basic Transact-SQL queries for Microsoft SQL Server 2000.

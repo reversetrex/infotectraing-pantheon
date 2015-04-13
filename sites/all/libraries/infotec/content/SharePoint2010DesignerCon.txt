@@ -1,0 +1,81 @@
+<p><strong>Course content for Level 1:</strong></p>
+<p><strong>Lesson 1: Getting Started with the SharePoint Designer Environment</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Identify SharePoint Designer Interface Components</li>
+  <li><strong>Topic 1B: </strong>Get Help in SharePoint Designer</li>
+  <li><strong>Topic 1C: </strong>Customize the SharePoint Designer Interface</li>
+</ul>
+<p><strong>Lesson 2: Creating a Subsite</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Create a Blank Subsite</li>
+  <li><strong>Topic 2B: </strong>Create a Page Layout</li>
+  <li><strong>Topic 2C: </strong>Add Content to a Master Page</li>
+</ul>
+<p><strong>Lesson 3: Adding Content to the Site</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Add and Format Text</li>
+  <li><strong>Topic 3B: </strong>Work with Tables</li>
+  <li><strong>Topic 3C: </strong>Work with Images</li>
+</ul>
+<p><strong>Lesson 4: Formatting a Site with Cascading Style Sheets</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Create an External Style Sheet</li>
+  <li><strong>Topic 4B: </strong>Create Internal Styles</li>
+  <li><strong>Topic 4C: </strong>Modify External Style Sheets</li>
+</ul>
+<p><strong>Lesson 5: Linking Web Pages</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Add Hyperlinks</li>
+  <li><strong>Topic 5B: </strong>Create a Hotspot</li>
+  <li><strong>Topic 5C: </strong>Create Bookmark Links</li>
+  <li><strong>Topic 5D: </strong>Open a Linked Page in a New Browser Window</li>
+</ul>
+<p><strong>Lesson 6: Adding SharePoint Components to the Site</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Add Lists and Libraries to the Site</li>
+  <li><strong>Topic 6B: </strong>Add Web Parts to a Site</li>
+</ul>
+<p><strong>Lesson 7: Automating Business Processes with Workflows</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Create a Workflow</li>
+  <li><strong>Topic 7B: </strong>Modify a Workflow</li>
+</ul>
+<p><strong>Course content for Level 2:</strong></p>
+<p><strong>Lesson 1: Working with ASP.NET Forms</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Create an ASP.NET Form</li>
+  <li><strong>Topic 1B: </strong>Modify Form Control Properties</li>
+  <li><strong>Topic 1C: </strong>Validate Inputs</li>
+</ul>
+<p><strong>Lesson 2: Implementing Custom Content Types</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Create Custom Content Types</li>
+  <li><strong>Topic 2B: </strong>Add Custom Content Types to a List</li>
+</ul>
+<p><strong>Lesson 3: Integrating SharePoint Sites with Data Sources</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Access a Data Source</li>
+  <li><strong>Topic 3B: </strong>Manipulate the Data in Data View</li>
+</ul>
+<p><strong>Lesson 4: Manipulating External Data Sources</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Create External Content Types</li>
+  <li><strong>Topic 4B: </strong>Create an External List</li>
+</ul>
+<p><strong>Lesson 5: Implementing Advanced Data Integration Using SharePoint Designer 2010</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Display Data from a Linked Data Source in a Data View</li>
+  <li><strong>Topic 5B: </strong>Deploy Web Services</li>
+  <li><strong>Topic 5C: </strong>Manage Web Part Zones</li>
+  <li><strong>Topic 5D: </strong>Display XML Data with XSLT</li>
+</ul>
+<p><strong>Lesson 6: Creating Workflows</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Create a Site Workflow</li>
+  <li><strong>Topic 6B: </strong>Create a Reusable Workflow</li>
+</ul>
+<p><strong>Lesson 7: Administering a SharePoint Site Using SharePoint Designer 2010</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Manage Permissions for SharePoint Designer 2010</li>
+  <li><strong>Topic 7B: </strong>Save a Customized Site as a SharePoint Site Template</li>
+</ul>

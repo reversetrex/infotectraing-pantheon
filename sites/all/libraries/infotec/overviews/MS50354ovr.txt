@@ -1,0 +1,1 @@
+This 3-day instructor-led course explores how to navigate and use the new Ribbon interface, learn what new things you can do from Designer, what changes have been made to the actions and conditions of workflows, how to build external content types, and how to modify Out Of the Box Workflows.

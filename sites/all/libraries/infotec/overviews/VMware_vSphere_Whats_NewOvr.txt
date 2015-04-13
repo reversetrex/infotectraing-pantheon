@@ -1,0 +1,1 @@
+This hands-on training course explores new features in VMware vCenter Server 5.0 and VMware ESXi 5.0. Topics include VMware vSphere 5 installation and how to upgrade from vSphere 4.x to vSphere 5.0. vSphere 5.0 is the first version of vSphere to include only the ESXi hypervisor. Students who complete this course may enroll in any of several advanced vSphere 5.0 courses.

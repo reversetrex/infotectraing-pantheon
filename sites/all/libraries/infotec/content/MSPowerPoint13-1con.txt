@@ -1,0 +1,51 @@
+<p><strong>Lesson 1: </strong>Getting Started with PowerPoint</p>
+<ul>
+  <li><strong>Topic A: </strong>Navigate the PowerPoint Environment</li>
+  <li><strong>Topic B: </strong>Create and Save a PowerPoint Presentation</li>
+  <li><strong>Topic C: </strong>Use Help</li>
+</ul>
+<p><strong>Lesson 2: </strong>Developing a PowerPoint® Presentation</p>
+<ul>
+  <li><strong>Topic A: </strong>Select a Presentation Type</li>
+  <li><strong>Topic B: </strong>View and Navigate a Presentation</li>
+  <li><strong>Topic C: </strong>Edit Text</li>
+  <li><strong>Topic D: </strong>Build a Presentation</li>
+</ul>
+<p><strong>Lesson 3: </strong>Performing Advanced Text Editing</p>
+<ul>
+  <li><strong>Topic A: </strong>Format Characters</li>
+  <li><strong>Topic B: </strong>Format Paragraphs</li>
+  <li><strong>Topic C: </strong>Format Text Boxes</li>
+</ul>
+<p><strong>Lesson 4: </strong>Adding Graphical Elements to Your Presentation</p>
+<ul>
+  <li><strong>Topic A: </strong>Insert Clip Art and Images</li>
+  <li><strong>Topic B: </strong>Insert Shapes</li>
+</ul>
+<p><strong>Lesson 5: </strong>Modifying Objects in Your Presentation</p>
+<ul>
+  <li><strong>Topic A: </strong>Edit Objects</li>
+  <li><strong>Topic B: </strong>Format Objects</li>
+  <li><strong>Topic C: </strong>Group Objects</li>
+  <li><strong>Topic D: </strong>Arrange Objects</li>
+  <li><strong>Topic E: </strong>Animate Objects</li>
+</ul>
+<p><strong>Lesson 6: </strong>Adding Tables to Your Presentation</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a Table</li>
+  <li><strong>Topic B: </strong>Format a Table</li>
+  <li><strong>Topic C: </strong>Insert a Table from Other Microsoft Office Applications</li>
+</ul>
+<p><strong>Lesson 7: </strong>Adding Charts to Your Presentation</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a Chart</li>
+  <li><strong>Topic B: </strong>Format a Chart</li>
+  <li><strong>Topic C: </strong>Insert a Chart from Microsoft Excel</li>
+</ul>
+<p><strong>Lesson 8: </strong>Preparing to Deliver Your Presentation</p>
+<ul>
+  <li><strong>Topic A: </strong>Review Your Presentation</li>
+  <li><strong>Topic B: </strong>Apply Transitions</li>
+  <li><strong>Topic C: </strong>Print Your Presentation</li>
+  <li><strong>Topic D: </strong>Deliver Your Presentation</li>
+</ul>

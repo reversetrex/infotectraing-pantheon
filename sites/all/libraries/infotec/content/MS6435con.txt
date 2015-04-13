@@ -1,0 +1,128 @@
+<p><strong>Module 1: Overview of Network Infrastructure  Design</strong> - This module describes the key components of network infrastructure design.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Preparing for Network Infrastructure Design</li>
+  <li>Designing the Network Topology</li>
+  <li>Designing Network Infrastructure for Virtualization</li>
+  <li>Designing a Change Management Structure for a Network</li>
+</ul>
+
+<p><strong>Module 2: Designing Network Security</strong> - This module explains how design a secure network.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Network Security Design</li>
+  <li>Creating a Security Plan</li>
+  <li>Identifying Threats to Network Security</li>
+  <li>Analyzing Security Risks</li>
+  <li>The Defense-in-Depth Model</li>
+</ul>
+
+<p><strong>Module 3: Designing IP Addressing</strong> - This module describes how to design a plan for allocating IP addresses to workstations and servers.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Designing an IPv4 Addressing Scheme</li>
+  <li>Designing an IPv6 Addressing Scheme</li>
+  <li>Designing DHCP Implementation</li>
+  <li>Designing DHCP Configuration Options</li>
+</ul>
+
+<p><strong>Module 4: Designing Routing and Switching</strong> - This module explains how to design a network topology.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Preparing for Designing a Network Routing Topology</li>
+  <li>Selecting Network Devices</li>
+  <li>Designing Internet Connectivity and Perimeter Networks</li>
+  <li>Designing Routing Communications</li>
+  <li>Evaluating Network Performance</li>
+</ul>
+
+<p><strong>Module 5: Designing Security for Internal  Networks</strong> - This module explains the internal considerations for network security and how they can be addressed.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Designing Windows Firewall Implementation</li>
+  <li>Overview of IPSec</li>
+  <li>Designing IPSec Implementation</li>
+</ul>
+
+<p><strong>Module 6: Designing Name Resolution</strong> - This module explains how to design an appropriate name resolution system that incorporates DNS.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Collecting Information for a Name Resolution Design</li>
+  <li>Designing a DNS Server Strategy</li>
+  <li>Designing a DNS Namespace</li>
+  <li>Designing DNS Zone Implementation</li>
+  <li>Designing Zone Replication and Delegation</li>
+</ul>
+
+<p><strong>Module 7: Designing Advanced Name Resolution</strong> - This module explains an appropriate name resolution system that incorporates DNS and WINS.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Optimizing DNS Queries</li>
+  <li>Designing DNS for High Availability</li>
+  <li>Designing a WINS Name Resolution Strategy</li>
+</ul>
+
+<p><strong>Module 8: Planning and Deploying the  Application Virtualization Management System</strong> - This module explains how to design a  solution for network access.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Gathering Data for Designing Network Access Solutions</li>
+  <li>Securing and Controlling Network Access</li>
+  <li>Designing Remote Access Services</li>
+  <li>Designing RADIUS Authentication with Network Policy Services</li>
+  <li>Designing Wireless Access</li>
+</ul>
+
+<p><strong>Module 9: Designing Network Access  Protection</strong> - This module explains how to design a NAP solution.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Designing the NAP Platform Architecture</li>
+  <li>Network Policy Server Component Design</li>
+  <li>Designing NAP Enforcement Point and Client Component Requirements</li>
+  <li>IPSec Enforcement for NAP</li>
+</ul>
+
+<p><strong>Module 10: Designing Operating System  Deployment and Maintenance</strong> - This module explains how to design a  solution for operating system deployment and maintenance.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Determining Operating System Deployment Requirements</li>
+  <li>Deploying an Operating System by Using WDS</li>
+  <li>Planning for the Creation and Modification of Images</li>
+  <li>Designing Multicast Transmission of Images</li>
+</ul>
+
+<p><strong>Module 11: Designing File Services and DFS  in Windows Server 2008</strong> - This module explains how to design the  deployment of file services.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Designing File Services</li>
+  <li>Designing DFS</li>
+  <li>Designing the FSRM Configuration</li>
+</ul>
+
+<p><strong>Module 12: Designing Print Services in  Windows Server 2008</strong> - This module explains how to design print  services in Windows Server 2008.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of a Print Services Design</li>
+  <li>Designing Print Services</li>
+</ul>
+
+<p><strong>Module 13: Designing High Availability in  Windows Server 2008</strong> - This module explains how to design high  availability for applications and services.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of High Availability</li>
+  <li>Designing Network Load Balancing for High Availability</li>
+  <li>Designing Failover Clustering for High Availability</li>
+  <li>Designing Geographically Dispersed Failover Clusters</li>
+</ul>

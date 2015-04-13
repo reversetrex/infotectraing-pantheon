@@ -1,0 +1,1 @@
+<p>This five-day instructor-led course provides students with the knowledge and skills to plan, deploy, and configure server farm solutions with Microsoft Office SharePoint Server 2007 and Windows SharePoint Services 3.0. The course focuses on key deployment and configuration tasks.</p>

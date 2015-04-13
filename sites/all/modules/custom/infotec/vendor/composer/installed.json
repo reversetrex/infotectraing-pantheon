@@ -1,0 +1,20 @@
+[
+    {
+        "name": "phpclasses/ccheckmail",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "dist": {
+            "type": "zip",
+            "url": "http://www.phpclasses.org/install/package/ccheckmail.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "CCheckMail.php"
+            ]
+        }
+    }
+]

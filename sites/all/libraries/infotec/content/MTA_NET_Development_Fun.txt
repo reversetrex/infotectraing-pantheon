@@ -1,0 +1,135 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>MTA Overview</li>
+    <li>Exam 98-372 Overview</li>
+  </ul>
+  <h3>Section B: Creating a New Application</h3>
+  <ul>
+    <li>Creating a WPF Application</li>
+    <li>Controls and Source Code</li>
+  </ul>
+  <h3>Section C: Working with Classes</h3>
+  <ul>
+    <li>Label Class Properties In-Depth</li>
+    <li>Label Class Methods In-Depth</li>
+    <li>Creating a Console Application</li>
+    <li>Creating Custom Classes</li>
+    <li>Create Instance of the Custom Class</li>
+    <li>Using ArrayLists</li>
+  </ul>
+  <h3>Section D: Inheritance and Casting</h3>
+  <ul>
+    <li>Inheritance</li>
+    <li>Inheritance Example</li>
+    <li>Casting</li>
+    <li>Casting Example</li>
+  </ul>
+  <h3>Section E: Generics and Interfaces</h3>
+  <ul>
+    <li>Generics</li>
+    <li>Generic Collections</li>
+    <li>Using a Generic Collection</li>
+    <li>Generics Terms</li>
+    <li>Interfaces</li>
+    <li>Improper Instance Sorting</li>
+    <li>Implementing CompareTo Interface</li>
+  </ul>
+  <h3>Section F: Class Libraries</h3>
+  <ul>
+    <li>Class Libraries Defined</li>
+    <li>Creating a Class Library</li>
+    <li>Strong Naming</li>
+    <li>Configuring Strong Naming</li>
+    <li>Strong Name Tool</li>
+    <li>Library Versioning</li>
+    <li>Specifying the App Assembly Version</li>
+    <li>Interoperability</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Understanding Global Assembly Cache</h3>
+  <ul>
+    <li>Global Assembly Cache Defined</li>
+    <li>.NET Framework Config Tool</li>
+    <li>Adding an Assembly to GAC</li>
+    <li>Using Gacutil</li>
+  </ul>
+  <h3>Section B: Working with Files</h3>
+  <ul>
+    <li>Creating a File Editor App</li>
+    <li>Using OpenFileDialog</li>
+    <li>Using SaveFileDialog</li>
+    <li>Understanding File I/O</li>
+    <li>Unhandled Exception Example</li>
+    <li>Exceptions Defined</li>
+    <li>Handling Exceptions: Access Denied Error</li>
+  </ul>
+  <h3>Section C: Value and Reference Types</h3>
+  <ul>
+    <li>Value Types Defined</li>
+    <li>Importance of Value Types</li>
+    <li>Reference Types Defined</li>
+    <li>Value vs. Reference Type Example</li>
+    <li>Changing Values in Methods</li>
+    <li>SecureString Class</li>
+    <li>Display SecureString Values</li>
+    <li>Change SecureString Values</li>
+    <li>Nonmutable Strings</li>
+  </ul>
+  <h3>Section D: Understanding Boxing and Unboxing</h3>
+  <ul>
+    <li>Boxing and Unboxing Defined</li>
+    <li>Stack vs. Heap</li>
+    <li>Garbage Collections</li>
+  </ul>
+  <h3>Section E: Configuring User/App Settings</h3>
+  <ul>
+    <li>Defining Basic Application Settings</li>
+    <li>Understanding App.config</li>
+    <li>Configure User Settings Example</li>
+    <li>Configure Application Settings Example</li>
+  </ul>
+  <h3>Section F: Raising and Responding to Events</h3>
+  <ul>
+    <li>Handling Events Defined</li>
+    <li>Handling Events Example</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Understanding XML Structure</h3>
+  <ul>
+    <li>Machine.config</li>
+    <li>Web.config</li>
+    <li>XmlWriter Class</li>
+    <li>XmlReader Class</li>
+    <li>XML Source Code</li>
+  </ul>
+  <h3>Section B: Security</h3>
+  <ul>
+    <li>Cryptography</li>
+    <li>Private Key Encryption</li>
+    <li>Create Stream Object</li>
+    <li>Create CryptoStream Object</li>
+    <li>Writing to the CryptoStream Object</li>
+    <li>Decryption Example</li>
+    <li>Authentication/Authorization</li>
+    <li>Code Access Security</li>
+  </ul>
+  <h3>Section C: Common Language Runtime</h3>
+  <ul>
+    <li>.NET Application Versioning</li>
+    <li>Different Versions of .NET</li>
+    <li>Web Application Versioning</li>
+    <li>Configuring Application Pools</li>
+    <li>Unmanaged Code</li>
+    <li>Sandboxing</li>
+  </ul>
+  <h3>Section D: Exam Review</h3>
+  <ul>
+    <li>.NET Framework</li>
+    <li>Classes</li>
+    <li>Events</li>
+    <li>Exceptions</li>
+    <li>Assemblies</li>
+    <li>.NET Configruation Scheme</li>
+    <li>Memory Management</li>
+  </ul>

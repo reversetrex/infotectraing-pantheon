@@ -1,0 +1,19 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Describe the different administrative tools and  tasks in Windows Server 2008.</li>
+  <li>Configure AD DS user and computer accounts.</li>
+  <li>Create Groups and Organizational Units.</li>
+  <li>Manage access to shared resources in an AD DS  environment.</li>
+  <li>Configure Active Directory Objects and Trusts.</li>
+  <li>Create and configure Group Policy Objects.</li>
+  <li>Configure user and computer environments by  using Group Policy.</li>
+  <li>Implement security by using Group Policy.</li>
+  <li>Configure and analyze server security and  security update compliance.</li>
+  <li>Configure and manage storage technologies  included with Windows Server 2008.</li>
+  <li>Configure and manage Distributed File System.</li>
+  <li>Configure Network Access Protection.</li>
+  <li>Configure availability of network resources.</li>
+  <li>Monitor and Maintain servers running  Windows Server 2008.</li>
+  <li>Manage a Windows Server 2008 Backup and  Restore.</li>
+</ul>

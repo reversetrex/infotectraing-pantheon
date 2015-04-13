@@ -1,0 +1,98 @@
+<p><strong>Module 1: Installing and Configuring Windows Server 2012</strong> - This module explains how the Windows Server 2012 editions, installation options, optimal service and device configuration and general post-installation configuration all contribute to the functionality and effectiveness of your Windows Server implementation.</p>
+<p>Lessons</p>
+<ul>
+  <li>Windows Server Architecture.</li>
+  <li>Installing Windows Server.</li>
+  <li>Configuring Services.</li>
+  <li>Configuring Devices and Device Drivers.</li>
+</ul>
+<p><strong>Module 2: Implementing Storage in Windows Server</strong> - This module will introduce you to different storage technologies and discuss how to implement the storage solutions in Windows Server. There is also a discussion on how to create a resilient strategy for your storage, helping to avoid unplanned downtime and loss of data.</p>
+<p>Lessons</p>
+<ul>
+  <li>Identifying Storage Technologies.</li>
+  <li>Managing Disks and Volumes.</li>
+  <li>Fault Tolerance.</li>
+</ul>
+<p><strong>Module 3: Understanding Network Infrastructure</strong> - In this module, students will learn how to describe fundamental network component and terminology thus enabling the student to select an appropriate network component in a particular scenario.</p>
+<p>Lessons</p>
+<ul>
+  <li>Network Architecture Standards.</li>
+  <li>Local Area Networking.</li>
+  <li>Wide Area Networking.</li>
+  <li>Wireless Networking.</li>
+  <li>Connecting to the Internet.</li>
+  <li>Remote Access.</li>
+</ul>
+<p><strong>Module 4: Connecting Network Components</strong> - This module explores the functionality of low-level networking components, including switches and routers. In addition, the module provides guidance on how best to connect these and other components together to provide additional network functionality.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding the OSI Model.</li>
+  <li>Understanding Media Types.</li>
+  <li>Understanding Adapters, Hubs, and Switches.</li>
+  <li>Understanding Routing.</li>
+</ul>
+<p><strong>Module 5: Implementing TCP/IP</strong> - This module describes the requirements of a protocol stack and then focuses on the Transmission Control Protocol/Internet Protocol (TCP/IP) protocol stack.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of TCP/IP.</li>
+  <li>IPv4 Addressing.</li>
+  <li>IPv6 Addressing.</li>
+  <li>Name Resolution.</li>
+</ul>
+<p><strong>Module 6: Implementing Windows Server Roles</strong> - This module explains the functional requirements of a server computer and how to select and deploy appropriate server roles to support these functional requirements.</p>
+<p>Lessons</p>
+<ul>
+  <li>Role-Based Deployment.</li>
+  <li>Deploying Role-Specific Services.</li>
+  <li>Considerations for Provisioning Roles.</li>
+</ul>
+<p><strong>Module 7: Implementing Active Directory</strong> - This module explains that, as a directory service, how AD DS stores information about objects on a network and makes this information available to users and network administrators.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introducing Active Directory Domain Services (AD DS).</li>
+  <li>Implementing AD DS.</li>
+  <li>Managing Users, Groups, and Computers.</li>
+  <li>Implementing Group Policy</li>
+</ul>
+<p><strong>Module 8: Implementing IT Security Layers</strong> - This module explains how, in addition to file and share permissions, you can also use data encryption to restrict data access.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Defense-in-Depth.</li>
+  <li>Physical Security.</li>
+  <li>Internet Security.</li>
+</ul>
+<p><strong>Module 9: Implementing Security in Windows Server</strong> - This module reviews the tools and concepts available for implementing security within a Microsoft Windows infrastructure.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Windows Security.</li>
+  <li>Securing Files and Folders.</li>
+  <li>Implementing Encryption.</li>
+</ul>
+<p><strong>Module 10: Implementing Network Security</strong> - This module explains possible threats when you connect your computers to a network, how to identify them, and how implement appropriate Windows network security features to help to eliminate them.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Network Security.</li>
+  <li>Implementing Firewalls.</li>
+  <li>Internet Protocol Security (IPsec)</li>
+</ul>
+<p><strong>Module 11: Implementing Security Software</strong> - This module explains how an information technology (IT) administrator can account for and mitigate the risks of malicious code, unauthorized use, and data theft.</p>
+<p>Lessons</p>
+<ul>
+  <li>Client Software Protection Features.</li>
+  <li>E-Mail Protection.</li>
+  <li>Server Protection.</li>
+</ul>
+<p><strong>Module 12: Monitoring Server Performance</strong> - This module discusses the importance of monitoring the performance of servers, and how you monitor servers to ensure that they run efficiently and use available server capacity. It also explains performance monitoring tools to identify components that require additional tuning and troubleshooting, so that you can improve the efficiency of your servers.</p>
+<p>Lessons</p>
+<ul>
+  <li>Event Logging.</li>
+  <li>Performance Monitoring.</li>
+</ul>
+<p><strong>Module 13: Maintaining Windows Server</strong> - This module explains the importance of system updates, how to troubleshoot the Windows Server boot process, and how to implement high availability and recovery technologies to improve system availability.</p>
+<p>Lessons</p>
+<ul>
+  <li>Troubleshooting Windows Server Startup.</li>
+  <li>Server Availability and Data Recovery.</li>
+  <li>Applying Updates to Windows Server.</li>
+  <li>Troubleshooting Windows Server.</li>
+</ul>

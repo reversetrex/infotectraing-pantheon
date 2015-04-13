@@ -1,0 +1,192 @@
+<p><strong>Module 1: Implement Cisco UCS C-Series Rack Servers</strong></p>
+<ul>
+  <li>Unpack the Cisco R42610 rack enclosure</li>
+  <li>Remove the Cisco R-Series rack from the pallet</li>
+  <li>Secure the Cisco R-Series rack to the floor</li>
+  <li>Join Cisco R42610 racks into a suite</li>
+  <li>Install a Cisco RP208-30-U-1 PDU</li>
+  <li>Remove and install side panels</li>
+  <li>Remove and install Cisco R-Series rack doors</li>
+  <li>Use cabling portholes</li>
+  <li>Review ESD precautions</li>
+  <li>Review how to open Cisco UCS C-Series cases</li>
+  <li>Compare PCIe riser cards across Cisco UCS C-Series models</li>
+  <li>Describe CPU population rules for dual- and quad-socket servers</li>
+  <li>Describe the importance of color coding internal Cisco UCS C-Series components</li>
+  <li>Describe DRAM installation and population rules</li>
+  <li>Describe fan replacement</li>
+  <li>Describe power supply replacement</li>
+  <li>Install the slide-rail assembly into the Cisco R42610 rack enclosure</li>
+  <li>Attach the mounting brackets to the server</li>
+  <li>Insert the server into the slide rail</li>
+  <li>Attach the cable management arm</li>
+  <li>Connect the Cisco UCS C-Series server to the PDU</li>
+  <li>Connect management and data cables</li>
+  <li>Download the Cisco UCS Host Upgrade Utility from Cisco.com</li>
+  <li>Enable KVM and virtual media in Cisco Integrated Management Controller</li>
+  <li>Describe the session options that are available in the KVM</li>
+  <li>Launch virtual media and map the Cisco UCS Host Upgrade Utility ISO image</li>
+  <li>Perform an upgrade of all components</li>
+  <li>Provision SNMP</li>
+  <li>Provision syslog destinations for server logging data</li>
+  <li>Access data from the system event log</li>
+  <li>Export technical support information</li>
+  <li>Provision the Cisco UCS P81E VIC to allow FCoE</li>
+  <li>Provision a locally administered MAC address for the A- and B-side 10 Gigabit Ethernet interfaces</li>
+  <li>Enable RSS on Ethernet adapters</li>
+  <li>Provision locally administered addresses for the Fibre Channel interface WWPN and WWNN</li>
+  <li>Provision the Fibre Channel boot target for the A- and B-side Fibre Channel interfaces</li>
+  <li>Describe the characteristics of RAID levels 0, 1, 5, 6, and 10</li>
+  <li>Boot the server in the KVM and access the LSI MegaRAID web user interface</li>
+  <li>Add all local hard drives to a RAID 5 array and save the configuration</li>
+  <li>Open a KVM session to the Cisco UCS C-Series server</li>
+  <li>Map virtual media to the ESXi installer ISO image</li>
+  <li>Install ESXi on the local RAID array</li>
+  <li>Boot ESXi from the local RAID array</li>
+  <li>Configure a management IP address for the ESXi server</li>
+  <li>Connect to the ESXi server with the VMware vSphere Client utility and connect to the VMware File System shared storage LUN on the Fibre Channel storage system</li>
+</ul>
+<p><strong>Module 2: Manage the Cisco UCS B-Series</strong></p>
+<ul>
+  <li>Describe the overall framework of RBAC in the Cisco UCS B-Series</li>
+  <li>Implement local users, roles, and privileges</li>
+  <li>Implement organizations and locales</li>
+  <li>Describe the effective rights of a user as an intersection of roles and locales mapped to a user</li>
+  <li>Implement LDAP providers and provider groups</li>
+  <li>Implement LDAP (Microsoft Active Directory) as an external authentication and authorization service</li>
+  <li>Implement Cisco UCS roles mapping to LDAP (Active Directory) attributes with LDAP provider maps</li>
+  <li>Describe where to find Cisco UCS firmware packages on Cisco.com</li>
+  <li>Update Cisco UCS firmware</li>
+  <li>Direct upgrade of mezzanine adapter, Cisco Integrated Management Controller, and IOM firmware</li>
+  <li>Describe software updates on the fabric interconnect</li>
+  <li>Describe the requirement for firmware updates via host firmware packages in the service profile</li>
+  <li>Describe the differences between the firmware processes of Cisco UCS fabric interconnect and IOM, Cisco Integrated Management Controller, and adapter</li>
+  <li>Describe how to update and activate the hardware capability catalog</li>
+  <li>Differentiate between the supported backup types and the database objects to which they map in the Cisco UCS Manager database</li>
+  <li>Differentiate between an import operation and a disaster recovery restore operation</li>
+  <li>Implement a backup job</li>
+  <li>Implement backup jobs to preserve abstracted identities</li>
+  <li>Verify that the backup is created and executed</li>
+  <li>Implement an import job to restore the AAA user database</li>
+  <li>Verify that the AAA user database is restored</li>
+  <li>Configure the Cisco UCS 6100/6200 Series Fabric Interconnect for disaster recovery restore</li>
+  <li>Describe Cisco UCS Manager management interfaces</li>
+  <li>Describe the fault management system and evaluate fault severity levels</li>
+  <li>Use the audit log to track administrative changes to the Cisco UCS Manager database</li>
+  <li>Describe Cisco UCS Manager operations subject to FSM validation and how to interpret FSM output</li>
+  <li>Implement logging options including local buffer, console, and external syslog servers</li>
+  <li>Use system event log and system event log policies</li>
+  <li>Implement the Smart Call Home feature</li>
+  <li>Validate the Smart Call Home feature</li>
+  <li>Configure settings for logs, events, and faults</li>
+  <li>Configure SPAN to allow protocol analysis</li>
+  <li>Describe high-availability cluster connection requirements for Cisco UCS B-Series</li>
+  <li>Describe intercluster communications and Cisco UCS Manager database synchronization</li>
+  <li>Differentiate between cluster partition-in-time and partition-in-space split-brain conditions</li>
+  <li>Describe how the Cisco UCS 5108 Blade Server Chassis SEEPROM resolves a split-brain issue in the high-availability cluster</li>
+  <li>Modify cluster IP addressing from the Cisco UCS Manager GUI and CLI</li>
+</ul>
+<p><strong>Module 3: Implement Cisco UCS B-Series Connectivity</strong></p>
+<ul>
+  <li>Describe the relationship between I/O uplinks and bandwidth oversubscription with generation 2 hardware</li>
+  <li>Describe the Cisco UCS 2204/2208XP IOM architecture including CMC, I/O MUX, and chassis management switch</li>
+  <li>Describe the relationship between I/O uplinks and bandwidth oversubscription with generation 1 hardware</li>
+  <li>Describe the Cisco UCS 2104XP IO module architecture including CMC, I/O MUX, and chassis management switch</li>
+  <li>Describe the features of the Cisco UCS VIC 1280 and VIC 1240</li>
+  <li>Compare the number of virtual interfaces available on the Cisco UCS M81KR VIC and the VIC 1280</li>
+  <li>Describe new mezzanine cards including M51, M61, and M72</li>
+  <li>Describe the Cisco Integrated Management Controller management component of the BSeries blades</li>
+  <li>Describe the creation of port channels from the Cisco UCS 6200 Series Fabric Interconnect to the 2204/2208XP IOM</li>
+  <li>Describe the difference between server and uplink port personalities in the fabric interconnect</li>
+  <li>Describe the chassis discovery process and monitor using the FSM</li>
+  <li>Configure the chassis discovery policy</li>
+  <li>Describe the ESD precautions that are necessary when installing Cisco UCS B-Series components</li>
+  <li>List the steps for opening the case of half- and full-slot blade servers</li>
+  <li>List the steps for physical installation of rack-mount slides in the enclosure and on the Cisco UCS 5108 chassis</li>
+  <li>List the steps for installation and removal of CPU, RAM, and mezzanine cards in Cisco UCS B-Series blade servers</li>
+  <li>List the steps for physical installation and removal of local hard drives</li>
+  <li>List the steps for physical installation of half- and full-slot blade servers</li>
+  <li>List the steps for physical installation of IOMs and power supplies in the Cisco UCS 5108 chassis</li>
+  <li>List the steps for physical installation and removal of fan units</li>
+  <li>List the steps for physical installation and removal of SFP+ copper twinax and optical modules</li>
+  <li>Differentiate between uplink, server, appliance, FCoE storage, and monitoring Ethernet port personalities of 10 Gigabit Ethernet interfaces on the Cisco UCS fabric interconnect</li>
+  <li>Describe the requirements and configuration of port channels from the Cisco UCS fabric interconnect to a northbound switch</li>
+  <li>Describe end-host mode and its importance in forwarding over multiple Layer 2 links and maintaining a loop-free topology</li>
+  <li>Differentiate end-host mode with switched mode</li>
+  <li>Describe the requirements to configure VLANs in Cisco UCS Manager</li>
+  <li>Describe the role of vNICs to abstract MAC addresses into a service profile</li>
+  <li>Describe the automatic pinning process and recovery from failure</li>
+  <li>Describe the configuration of manual pinning and recovery from failure</li>
+  <li>Describe the configuration of disjoint Layer 2 domains</li>
+  <li>Describe Fibre Channel switching</li>
+  <li>Describe NPV</li>
+  <li>Differentiate between Fibre Channel uplink, Fibre Channel storage, and Fibre Channel monitoring port personalities of 10 Gigabit Ethernet interfaces on the Cisco UCS fabric interconnect</li>
+  <li>Differentiate between benefits and drawbacks of Fibre Channel switching and NPV</li>
+  <li>Describe how NPIV allows a single N Port to be associated with multiple FCIDs</li>
+  <li>Describe the requirements and configuration of VSANs in Cisco UCS Manager</li>
+  <li>Describe the role of the vHBA to abstract WWNNs and WWPNs into a service profile</li>
+  <li>Describe the automatic pinning process and recovery from failure</li>
+  <li>Describe the configuration of manual pinning and recovery from failure</li>
+  <li>Differentiate Ethernet failover from Fibre Channel multipath I/O recovery</li>
+</ul>
+<p><strong>Module 4: Provision Cisco UCS Compute Resources</strong></p>
+<ul>
+  <li>Configure the primary cluster peer from the fabric interconnect console</li>
+  <li>Configure the secondary cluster peer from the fabric interconnect console and join to the cluster</li>
+  <li>Log into the Cisco UCS Manager GUI and assign a pool of management IP addresses for server management</li>
+  <li>Provision VLANs for single fabric, both fabrics, and both fabrics configured differently</li>
+  <li>Provision VLAN ranges</li>
+  <li>Provision private VLANs</li>
+  <li>Provision Ethernet uplinks</li>
+  <li>Provision Ethernet uplink port channels</li>
+  <li>Provision fabric port channels from the Cisco UCS Fabric Interconnect to a Cisco 2204/2208 IOM</li>
+  <li>Provision FCoE storage ports</li>
+  <li>Provision appliance ports and prune VLANs</li>
+  <li>Provision VSANs for single fabric, both fabrics, and both fabrics configured differently</li>
+  <li>Provision Fibre Channel uplinks and VSAN trunking</li>
+  <li>Provision Fibre Channel port channels</li>
+  <li>Provision direct-attach Fibre Channel storage ports and default zoning</li>
+  <li>Provision server pools</li>
+  <li>Provision server pool autoplacement</li>
+  <li>Provision UUID pools</li>
+  <li>Provision MAC pools</li>
+  <li>Provision WWNN pools</li>
+  <li>Provision WWPN pools</li>
+  <li>Provision iSCSI initiator pools</li>
+  <li>Provision a service profile using the expert service profile wizard</li>
+  <li>Implement pools and policies in the service profile</li>
+  <li>Associate a service profile to a server</li>
+  <li>Describe the Cisco UCS Utility Operating System</li>
+  <li>Observe the association process using the FSM</li>
+  <li>Describe the requirements of service profile templates</li>
+  <li>Describe the difference between initial templates and updating templates, including operational caveats</li>
+  <li>Provision a vNIC template using the template wizard</li>
+  <li>Provision a vHBA template using the template wizard</li>
+  <li>Provision a service profile template using the template wizard</li>
+  <li>Provision multiple servers from a service profile template</li>
+  <li>Clone a service profile</li>
+  <li>Describe the benefits of C-Series integration</li>
+  <li>Describe the physical connectivity requirements for C-Series integration</li>
+  <li>Install version 1.2 C-Series server firmware to allow integration with Cisco UCS prior to version 2.0(2xx)</li>
+  <li>Describe the C-Series discovery process</li>
+</ul>
+<p><strong>Module 5: Implement Cisco UCS Server Virtualization Features</strong></p>
+<ul>
+  <li>Describe VMware vSwitch and vDS</li>
+  <li>Describe Cisco Nexus 1000V switching</li>
+  <li>Describe Cisco VM-FEX</li>
+  <li>Describe Cisco VM-FEX universal pass-through</li>
+  <li>Provision VMware ESXi servers with a Cisco VEM</li>
+  <li>Provision the secure connection from Cisco UCS Manager to VMware vCenter Server</li>
+  <li>Provision port profiles and push to vCenter as port groups</li>
+  <li>Provision a dynamic vNIC connection policy and BIOS policy for Cisco VM-FEX</li>
+  <li>Join ESXi hosts to the DVS</li>
+  <li>Provision VMs to consume port groups on the DVS</li>
+  <li>Describe VMware requirements for universal pass-through mode</li>
+  <li>Provision a dynamic vNIC connection policy for Cisco VM-FEX universal pass-through</li>
+  <li>Provision a BIOS policy for Cisco VM-FEX universal pass-through</li>
+  <li>Associate universal pass-through policies to a service profile</li>
+  <li>Provision a port profile for universal pass-through mode</li>
+  <li>Provision VMs to connect to DirectPath I/O interfaces</li>
+  <li>Verify universal pass-through mode</li>
+</ul>

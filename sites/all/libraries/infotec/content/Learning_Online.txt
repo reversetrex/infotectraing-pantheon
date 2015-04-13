@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<h2>Session 1</h2>
+  <h3>Section A: An Introduction to Learning Online</h3>
+  <ul>
+    <li>What is Learning Online?</li>
+    <li>Online Class Types</li>
+    <li>Similarities and Differences</li>
+  </ul>
+  <h3>Section B: Technology Recommendations</h3>
+  <ul>
+    <li>The Basics</li>
+    <li>Additional Recommendations</li>
+  </ul>
+  <h3>Section C: Study Techniques</h3>
+  <ul>
+    <li>Time Management</li>
+    <li>Taking Notes</li>
+    <li>Communicating with the Instructor</li>
+    <li>Communicating with Other Students</li>
+    <li>Communicating with Technical Support</li>
+    <li>Social Media Integration</li>
+    <li>Self-Paced Success</li>
+  </ul>
+
+</body>
+</html>

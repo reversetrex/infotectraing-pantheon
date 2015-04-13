@@ -1,0 +1,11 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> create a Windows SharePoint Services installation. </li>
+  <li> establish a workspace. </li>
+  <li> modify the appearance of a Windows SharePoint Services Web site. </li>
+  <li> use Microsoft Office FrontPage 2003 to modify Web components. </li>
+  <li> manage site usage. </li>
+  <li> administer a Windows SharePoint Services Web site. </li>
+  <li> configure Windows SharePoint Services connections. </li>
+  <li> remove a Windows SharePoint Services installation </li>
+</ul>

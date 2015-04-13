@@ -1,0 +1,39 @@
+<p><strong>Lesson 1: Creating Simple Shapes</strong></p>
+  Topic 1A: Create a New Document <br />
+  Topic 1B: Customize the Workspace <br />
+  Topic 1C: Draw Basic Shapes with the Shape Tools <br />
+  Topic 1D: Draw Basic Freeform Shapes with the Pencil Tool<br />
+  
+<p><strong>Lesson 2: Creating Logos Using Simple Shapes</strong></p>
+  Topic 2A: Format Objects <br />
+  Topic 2B: Manipulate Objects <br />
+  Topic 2C: Insert Type<br />
+
+<p><strong>Lesson 3: Creating Logos Using Custom Paths</strong></p>
+  Topic 3A: Draw Paths with the Pen Tool <br />
+  Topic 3B: Modify Existing Shapes <br />
+  Topic 3C: Duplicate Objects <br />
+  Topic 3D: Apply Graphic Styles<br />
+
+<p><strong>Lesson 4: Enhancing Logo Type</strong></p>
+  Topic 4A: Apply Gradients to Type <br />
+  Topic 4B: Flow Type on a Path <br />
+  Topic 4C: Apply an Envelope to Type<br />
+
+<p><strong>Lesson 5: Manipulating Body Type</strong></p>
+  Topic 5A: Import Body Type <br />
+  Topic 5B: Format Type with Styles <br />
+  Topic 5C: Find and Replace Text <br />
+  Topic 5D: Fix Spelling Errors <br />
+  Topic 5E: Insert Typographic Characters<br />
+
+<p><strong>Lesson 6: Creating an Advertisement</strong></p>
+  Topic 6A: Import a Graphic <br />
+  Topic 6B: Align Objects <br />
+  Topic 6C: Apply Spot Colors <br />
+  Topic 6D: Wrap Text <br />
+  Topic 6E: Export a File<br />
+
+<p><strong>Lesson 7: Organizing Assets with Adobe Bridge</strong></p>
+  Topic 7A: Customize the Adobe Bridge Workspace <br />
+  Topic 7B: Append Metadata to Assets<br />

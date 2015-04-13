@@ -1,0 +1,165 @@
+ <strong>Getting Started </strong>
+    <ul>
+      <li> Define a Database </li>
+        <li> Database Management System </li>
+        <li> Relational Database Management System </li>
+        <li> Major Features of Oracle </li>
+        <li> Common Terminology for a RDBMS </li>
+        <li> How are Tables Related? </li>
+        <li> Entity Relationship Modeling Concepts </li>
+        <li> Overview of Object Types </li>
+        <li> What is SQL? </li>
+    </ul>
+    <p><strong>Overview of SQL and SQL*Plus tools </strong></p>
+    <ul>
+      <li> What is SQL*Plus? </li>
+      <li> What is iSQL*Plus? </li>
+      <li> Create a Table </li>
+      <li> Insert Data </li>
+      <li> Select Statement </li>
+      <li> WHERE Clause </li>
+      <li> Logging in to SQL*Plus </li>
+      <li> Describe Command </li>
+      <li> SQL*Plus Editing </li>
+      <li> Overview of the Data Dictionary </li>
+      <li> Data Dictionary Views </li>
+    </ul>
+    <p><strong> The SQL SELECT Statement </strong></p>
+    <ul>
+      <li> Using DISTINCT </li>
+      <li> The WHERE Clause </li>
+      <li> Using the IN Operator </li>
+      <li> Using the LIKE Operator </li>
+      <li> Using the BETWEEN Operator </li>
+      <li> Working with NULL Values </li>
+      <li> Sorting the Output </li>
+    </ul>
+    <p><strong> Functions </strong></p>
+    <ul>
+      <li> Number Functions </li>
+      <li> Character Functions </li>
+      <li> Date Functions </li>
+      <li> Format Models Used With Dates </li>
+      <li> Comparing and Calculating Dates </li>
+      <li> Using TO_DATE and ADD_MONTHS </li>
+      <li> Conversion Functions </li>
+      <li> Miscellaneous Functions </li>
+      <li> Group Functions </li>
+      <li> Using GROUP BY </li>
+      <li> Eliminating Groups With HAVING </li>
+    </ul>
+    <p><strong> Combining Data: Joins </strong></p>
+    <ul>
+      <li> Joining Tables </li>
+      <li> Outer Joins </li>
+      <li> Self Joins </li>
+    </ul>
+    <p><strong> Combining Data: Subqueries </strong></p>
+    <ul>
+      <li> Subqueries </li>
+      <li> Using EXISTS </li>
+    </ul>
+    <p><strong> SQL*Plus Reporting </strong></p>
+    <ul>
+      <li> The COLUMN Command </li>
+      <li> Displaying Titles </li>
+      <li> Using SQL*Plus Parameters </li>
+      <li> Overview of the BREAK and COMPUTE Command </li>
+      <li> Setting Page Size, Line Size, and Other Options </li>
+      <li> Capturing Output to a File (SPOOL) </li>
+      <li> Storing SQL Statements (SAVE) </li>
+      <li> Creating and Executing Command Files in SQL*Plus </li>
+    </ul>
+    <p><strong> DML Commands </strong></p>
+    <ul>
+      <li> Inserting Rows in a Table </li>
+      <li> Updating Rows in a Table </li>
+      <li> Deleting Rows from a Table </li>
+      <li> COMMIT </li>
+      <li> ROLLBACK </li>
+      <li> Savepoints </li>
+      <li> Using the TRUNCATE Command </li>
+      <li> DDL Commands </li>
+      <li> Creating Tables </li>
+      <li> Oracle Datatypes </li>
+      <li> Storage Parameters </li>
+      <li> Integrity Constraints </li>
+      <li> ALTER Statement </li>
+      <li> DROP Statement </li>
+      <li> RENAME Statement </li>
+      <li> Indexes </li>
+      <li> Types of Indexes </li>
+      <li> Sequences </li>
+      <li> Synonyms </li>
+    </ul>
+    <p><strong> Declaring Integrity Constraints </strong></p>
+    <ul>
+      <li> Overview of Constraints </li>
+      <li> PRIMARY KEY Constraint </li>
+      <li> FOREIGN KEY Constraint </li>
+      <li> UNIQUE Constraint </li>
+      <li> CHECK Constraint </li>
+      <li> NOT NULL Constraint </li>
+      <li> Add a Constraint </li>
+      <li> Drop a Constraint </li>
+      <li> Enable and Disable a Constraint </li>
+      <li> View Constraint Information in the Data Dictionary </li>
+    </ul>
+    <p><strong> Controlling User Access </strong></p>
+    <ul>
+      <li> Privileges </li>
+      <li> System Privileges </li>
+      <li> Object Privileges </li>
+      <li> Grant Command </li>
+      <li> Revoke Command </li>
+      <li> Roles </li>
+      <li> Using WITH GRANT OPTION </li>
+      <li> Viewing Privileges in the Data Dictionary </li>
+    </ul>
+    <p><strong> Views </strong></p>
+    <ul>
+      <li> Overview of Views </li>
+      <li> Create a View </li>
+      <li> Query a View </li>
+      <li> Using DML with Views </li>
+      <li> Using the WITH CHECK OPTION </li>
+      <li> Inline Views </li>
+      <li> Top-N Analysis </li>
+    </ul>
+    <p><strong> Using Set Operators </strong></p>
+    <ul>
+      <li> UNION </li>
+      <li> UNION ALL </li>
+      <li> INTERSECT </li>
+      <li> MINUS </li>
+    </ul>
+    <p><strong> Using Datetime Functions </strong></p>
+    <ul>
+      <li> Time Zones </li>
+      <li> Timestamps </li>
+    </ul>
+    <p><strong> Using Additional Group Functions </strong></p>
+    <ul>
+      <li> ROLLUP </li>
+      <li> CUBE </li>
+      <li> GROUPING </li>
+      <li> GROUPING SETS </li>
+    </ul>
+    <p><strong> Hierarchical Queries </strong></p>
+    <ul>
+      <li> Using CONNECT BY </li>
+      <li> Using the pseudocolumn LEVEL </li>
+      <li> Bottom up Hierarchy </li>
+      <li> Top Down Hierarchy </li>
+    </ul>
+    <p><strong> Extensions to DML and DDL Statements </strong></p>
+    <ul>
+      <li> Using the MERGE Statement </li>
+      <li> Multitable INSERT Statements </li>
+      <li> INSERT ALL </li>
+      <li> INSERT FIRST </li>
+      <li> Using WHEN with INSERTs </li>
+      <li> Using External Tables </li>
+      <li> Creating External Tables </li>
+      <li> Querying External Tables<strong></strong></li>
+    </ul>

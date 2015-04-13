@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course will understand:</p>
+<ul type="disc">
+  <li>Service Strategy Principles</li>
+  <li>Defining services and market spaces</li>
+  <li>Conducting Strategic Assessments</li>
+  <li>Financial Management</li>
+  <li>Service Portfolio Management</li>
+  <li>Managing demand</li>
+  <li>Driving strategy through the Service Lifecycle</li>
+  <li>Understanding Critical Success Factors and risks</li>
+</ul>

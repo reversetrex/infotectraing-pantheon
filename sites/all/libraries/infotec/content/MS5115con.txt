@@ -1,0 +1,146 @@
+<p><strong> Unit 1: Installing Windows Vista</strong></p>
+<p> This Unit describes the new features of the Windows Vista operating system and then explains how to perform a clean installation. This Unit also explains how to install and configure Windows Vista device drivers.</p>
+<p> Units </p>
+<ul>
+  <li> Introduction to Windows Vista. </li>
+  <li>Performing a Clean Installation of Windows Vista. </li>
+  <li>Installing and Configuring Windows Vista Device Drivers. </li>
+</ul>
+<p> Lab: Installing Windows Vista </p>
+<ul>
+  <li>Verifying Hardware Requirements </li>
+  <li>Installing Windows Vista from DVD </li>
+  <li>Managing Device Drivers </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the Windows Vista operating system. </li>
+  <li>Perform a clean installation of Windows Vista. </li>
+  <li>Install and configure Windows Vista device drivers. </li>
+</ul>
+<p><strong> Unit 2: Upgrading and Migrating to Windows Vista Ultimate Edition</strong></p>
+<p> This Unit explains how to upgrade and migrate to Windows Vista Ultimate edition from previous versions of Windows and from other Windows Vista editions.</p>
+<p> Units </p>
+<ul>
+  <li> Upgrading and Migrating to Windows Vista from a Previous Version of Windows. </li>
+  <li>Upgrading Between Windows Vista Editions </li>
+</ul>
+<p> Lab: Upgrading and Migrating to Windows Vista Ultimate Edition </p>
+<ul>
+  <li> Running USMT to Scan a Users Settings </li>
+  <li>Upgrading to Windows Vista </li>
+  <li>Running USMT to Load a Users Settings </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Upgrade or migrate to Windows Vista from a previous version of Windows. </li>
+  <li>Upgrade or migrate between Windows Vista editions. </li>
+</ul>
+<p><strong> Unit 3: Configuring Post-Installation System Settings</strong></p>
+<p> This Unit explains how to configure the Windows Aero Experience and the Accessibility features of Windows Vista. This Unit also explains how to configure Parental Controls.</p>
+<p> Units </p>
+<ul>
+  <li> Configuring the Windows Aero Experience </li>
+  <li>Configuring Accessibility Features </li>
+  <li>Configuring Parental Controls </li>
+</ul>
+<p> Lab: Configuring Post-Installation Options </p>
+<ul>
+  <li>Configuring Aero </li>
+  <li>Configuring Accessibility Features </li>
+  <li>Configuring Parental Controls </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Configure the Windows Aero experience. </li>
+  <li>Configure the accessibility features of Windows Vista. </li>
+  <li>Configure Windows Vista Parental Controls. </li>
+</ul>
+<p><strong> Unit 4: Sharing Files by Using Windows Vista</strong></p>
+<p> This Unit explains how to use Windows Vista to share files with others and also describes how to manage the various file types that Windows Vista supports.</p>
+<p> Units </p>
+<ul>
+  <li> Sharing Data with Others </li>
+  <li>Managing Windows Vista Files </li>
+</ul>
+<p> Lab: Sharing Files by Using Windows Vista </p>
+<ul>
+  <li> Sharing Data with Others </li>
+  <li>Managing Files </li>
+  <li>Running USMT to Load a Users Settings </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Share data with others. </li>
+  <li>Manage Windows Vista files. </li>
+</ul>
+<p><strong> Unit 5: Configuring Advanced Networking</strong></p>
+<p> This Unit explains how to connect Windows Vista to a network and also explains how to configure and troubleshooting the Remote Access features of Windows Vista.</p>
+<p> Units </p>
+<ul>
+  <li> Configuring Network Connectivity </li>
+  <li>Configuring Remote Access </li>
+</ul>
+<p> Lab: Configuring Advanced Networking </p>
+<ul>
+  <li> Troubleshooting Network Connectivity </li>
+  <li>Configuring Remote Access </li>
+  <li>Troubleshooting Remote Access </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Configure network connectivity. </li>
+  <li>Configure Remote Access. </li>
+</ul>
+<p><strong> Unit 6: Configuring User Account Security</strong></p>
+<p> This Unit explains how to configure and troubleshoot User Account Control in Windows Vista.</p>
+<p> Units </p>
+<ul>
+  <li> Configuring User Account Control </li>
+  <li>Troubleshooting User Account Control </li>
+</ul>
+<p> Lab: Configuring User Account Security </p>
+<ul>
+  <li> Requesting an Application to Run Elevated One Time </li>
+  <li>Making an Application Always Run Elevated </li>
+  <li>Configuring the User Account Control Panel </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Configure Windows Vista User Account Control. </li>
+  <li>Troubleshoot User Account Control. </li>
+</ul>
+<p><strong> Unit 7: Configuring Network Security</strong></p>
+<p> This Unit explains how to configure the Windows Defender and Windows Firewall applications in Windows Vista.</p>
+<p> Units </p>
+<ul>
+  <li> Configuring Windows Defender in Windows Vista </li>
+  <li>Configuring Windows Vista Firewall Settings </li>
+</ul>
+<p> Lab: Configuring Network Security </p>
+<ul>
+  <li> Configuring Windows Defender </li>
+  <li>Configuring Windows Firewall </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Configure Windows Defender in Windows Vista. </li>
+  <li>Configure the Windows Firewall settings. </li>
+</ul>
+<p><strong> Unit 8: Configuring Internet Explorer 7.0</strong></p>
+<p> This Unit explains how to configure the Internet Explorer 7.0 options and explains how to configure the dynamic security settings.</p>
+<p> Units </p>
+<ul>
+  <li> Configuring Internet Explorer 7.0 </li>
+  <li>Configuring Dynamic Security for Internet Explorer 7.0 </li>
+</ul>
+<p> Lab: Configuring Internet Explorer 7.0 </p>
+<ul>
+  <li> Customizing Internet Explorer 7.0 </li>
+  <li>Troubleshooting Internet Explorer Security Settings </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Configure Internet Explorer 7.0. </li>
+  <li>Configure dynamic security for Internet Explorer 7.0. </li>
+</ul>

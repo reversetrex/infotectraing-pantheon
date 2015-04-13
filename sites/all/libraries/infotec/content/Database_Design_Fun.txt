@@ -1,0 +1,229 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction to Databases</h3>
+  <ul>
+    <li>Databases</li>
+    <li>Flat File Databases</li>
+    <li>Relational Databases</li>
+    <li>RDBMS Benefits</li>
+    <li>Relational Database Management</li>
+    <li>RDBMS Disadvantages</li>
+  </ul>
+  <h3>Section B: Relational Database Fundamentals</h3>
+  <ul>
+    <li>History</li>
+    <li>Application Components</li>
+    <li>Two-Tier Client/Server</li>
+    <li>Browser Market Share</li>
+    <li>Three-Tier Client/Server</li>
+    <li>Relational/SQL Model Terminology</li>
+    <li>Representative Tables</li>
+    <li>Entity Relationships</li>
+    <li>Primary Key</li>
+    <li>Data Models</li>
+    <li>Entity-Relationship Model</li>
+    <li>Design Language</li>
+    <li>Strong/Weak Entities</li>
+  </ul>
+  <h3>Section C: Relationships</h3>
+  <ul>
+    <li>Relationship Degrees</li>
+    <li>Binary Relationships</li>
+    <li>Relational Integrity</li>
+    <li>Referential Integrity Completeness</li>
+    <li>Many-Many Relationship</li>
+    <li>Foreign Key Constraint Actions</li>
+    <li>Data Integrity</li>
+  </ul>
+  <h3>Section D: Database Languages and Dictionaries</h3>
+  <ul>
+    <li>Database Languages</li>
+    <li>Structured Query Language</li>
+    <li>Data Definition Language</li>
+    <li>Data Manipulation Language</li>
+    <li>Data Control Language</li>
+    <li>Data Dictionaries</li>
+  </ul>
+  <h3>Section E: Database Planning</h3>
+  <ul>
+    <li>Planning a Database</li>
+    <li>Database Project Life Cycle</li>
+    <li>Database Design/Requirements Document</li>
+    <li>Choosing a DBMS</li>
+    <li>Selecting an Application Interface</li>
+    <li>Application Interface</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Conceptual Design Phase</h3>
+  <ul>
+    <li>Database Design</li>
+    <li>Identify Entities</li>
+    <li>Attributes/Domains</li>
+    <li>Sample Data Types</li>
+    <li>Identify Relationships</li>
+    <li>Candidate/Primary Keys</li>
+    <li>Entity-Relationship Diagrams</li>
+    <li>IE Method</li>
+    <li>Chen Data Model</li>
+    <li>Problems/Anomalies</li>
+    <li>Row Insert Anomalies</li>
+    <li>Delete Anomaly</li>
+    <li>Update Anomaly</li>
+  </ul>
+  <h3>Section B: Normalization Techniques Part I</h3>
+  <ul>
+    <li>Database Normalization</li>
+    <li>Normal Forms</li>
+    <li>First Normal Form Rules</li>
+    <li>First Normal Form Example</li>
+    <li>First Normal Form Anomalies</li>
+    <li>Second Normal Form</li>
+    <li>Second Normal Form Example</li>
+    <li>Second Normal Form Rules</li>
+    <li>Second Normal Form Anomalies</li>
+  </ul>
+  <h3>Section C: Normalization Techniques Part II</h3>
+  <ul>
+    <li>Third Normal Form Rules</li>
+    <li>Boyce-Codd Normal Form</li>
+    <li>BCNF Primary Key</li>
+    <li>Prime Attributes</li>
+    <li>Third Normal Form Revisited</li>
+    <li>BCNF Example</li>
+    <li>BCNF Determinates</li>
+    <li>Data Normalization</li>
+  </ul>
+  <h3>Section D: Logical Database Design</h3>
+  <ul>
+    <li>Logical Data Model</li>
+    <li>Resolve M:N Relationships</li>
+    <li>Complex Relationships</li>
+    <li>Recursive Relationships</li>
+    <li>Attributes in a Relationship</li>
+    <li>Remove Redundant Relationships</li>
+    <li>Creating a Logical Model</li>
+    <li>Example of DDL</li>
+    <li>Validating the Logical Model</li>
+    <li>Creating an Enterprise Data Model</li>
+  </ul>
+  <h3>Section E: Physical Database Design</h3>
+  <ul>
+    <li>DBMS</li>
+    <li>DDL Example 1</li>
+    <li>DDL Example 2</li>
+    <li>Enterprise Constraints</li>
+    <li>Check Constraints</li>
+    <li>Column Level Constraints</li>
+    <li>Foreign Key Constraints</li>
+    <li>Using Secondary Indexes</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Physical Database Design Considerations</h3>
+  <ul>
+    <li>Denormalization</li>
+    <li>Denormalize Foreign Keys</li>
+    <li>Denormalize for Aggregation</li>
+    <li>Creating User Views</li>
+    <li>Database Access Rules</li>
+    <li>Grant/Revoke Statement</li>
+  </ul>
+  <h3>Section B: Introduction to SQL</h3>
+  <ul>
+    <li>Structured Query Language</li>
+    <li>Accuracy Scale</li>
+    <li>Data Types</li>
+    <li>Data Definition Language</li>
+    <li>Create Schema</li>
+    <li>Alter Table Command</li>
+    <li>Alter/Drop Command</li>
+    <li>Alter/Drop Domain</li>
+  </ul>
+  <h3>Section C: Insert, Delete, and Update Data</h3>
+  <ul>
+    <li>Insert</li>
+    <li>Inserting Data</li>
+    <li>Delete</li>
+    <li>Referential Integrity</li>
+    <li>Update</li>
+    <li>Updating Data</li>
+    <li>Multiple Tables</li>
+  </ul>
+  <h3>Section D: Working with Select Statements</h3>
+  <ul>
+    <li>Select</li>
+    <li>Using Select</li>
+    <li>Column Aliases</li>
+    <li>Distinct</li>
+  </ul>
+  <h3>Section E: Filtering with Comparison Operators</h3>
+  <ul>
+    <li>WHERE</li>
+    <li>Comparison Operators</li>
+    <li>Multiple Boolean Operators</li>
+    <li>WHERE Clause Values</li>
+    <li>IN Operator</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Filtering with LIKE</h3>
+  <ul>
+    <li>LIKE</li>
+    <li>LIKE Clause in a Sequence</li>
+    <li>Underscore Wildcard</li>
+    <li>Square Bracket Wildcard</li>
+    <li>Null Handling</li>
+  </ul>
+  <h3>Section B: Sorting Result Sets</h3>
+  <ul>
+    <li>ORDER BY</li>
+    <li>Multiple ORDER BY</li>
+    <li>Retrieving Data by Relations</li>
+    <li>Relating Tables</li>
+  </ul>
+  <h3>Section C: Data Control Language</h3>
+  <ul>
+    <li>DCL</li>
+    <li>Grant</li>
+    <li>Revoke</li>
+  </ul>
+  <h3>Section D: Relational Algebra</h3>
+  <ul>
+    <li>RA Defined</li>
+    <li>Selection</li>
+    <li>Projection</li>
+    <li>Cartesian Product</li>
+    <li>Unions</li>
+    <li>Union with Projection</li>
+    <li>Difference</li>
+    <li>Intersection</li>
+    <li>Creating Unions/Projections</li>
+  </ul>
+  <h3>Section E: Composite Joins</h3>
+  <ul>
+    <li>Joins/Theta-Join</li>
+    <li>Equi-Join</li>
+    <li>Natural Join</li>
+    <li>Outer Join/Semi Join</li>
+    <li>Inner Join</li>
+    <li>Right and Left Outer Join</li>
+  </ul>
+  <h3>Section F: Transactions</h3>
+  <ul>
+    <li>Transaction Control</li>
+    <li>ACID Properties</li>
+    <li>Lost Updates</li>
+    <li>Dirty Reads</li>
+    <li>Non-Repeatable Reads</li>
+    <li>Phantoms</li>
+    <li>Serializability</li>
+    <li>Concurrency Control Methods</li>
+    <li>Deadlock Error</li>
+    <li>Timestamps</li>
+    <li>Transaction Examples</li>
+    <li>Concurrency Control Review</li>
+    <li>Optimistic Concurrency Control</li>
+  </ul>
+  <h3>Section G: Database Security</h3>
+  <ul>
+    <li>Security</li>
+    <li>SQL Injection</li>
+    <li>Security Techniques</li>
+  </ul>

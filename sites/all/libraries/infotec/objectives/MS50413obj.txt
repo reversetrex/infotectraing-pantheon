@@ -1,0 +1,21 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Understand the discipline of project management as it applies to using Project.</li>
+    <li>Learn how to leverage the new Graphic User Interface (Ribbon)</li>
+    <li>Create a Work Breakdown Structure</li>
+    <li>Identify Task Relationships</li>
+    <li>Define Resources within Project</li>
+    <li>Make Work Package Estimates</li>
+    <li>Learn how to leverage Team planner</li>
+    <li>Learn how to inactivate tasks</li>
+    <li>Learn how to leverage the task inspector</li>
+    <li>Learn how to leverage the Timeline</li>
+    <li>Create an Initial Schedule</li>
+    <li>Create a Resource Leveled Schedule</li>
+    <li>Manage and track the project through the software</li>
+    <li>Format Output and Print Reports</li>
+    <li>Integrate Multiple Projects</li>
+    <li>Set up a Project with a Calendar, Start date, and scheduling method</li>
+    <li>Understand Manually Schedule vs. Auto Schedule</li>
+    <li>Manage multiple projects.</li>
+</ul>

@@ -1,0 +1,44 @@
+<p><strong> Unit 1: Exploring the Flash 8 Environment</strong></p>
+<ul>
+  <li> Explore Flash 8 </li>
+  <li>Explore the Flash 8 Work Environment </li>
+  <li>Work with Templates </li>
+</ul>
+<p><strong> Unit 2: Exploring the Drawing and Painting Tools</strong></p>
+<ul>
+  <li> Compare Vector and Raster Graphics </li>
+  <li>Examine the Basic Drawing and Painting Tools </li>
+  <li>Create a Custom Color Swatch, Gradient, and Line Style </li>
+</ul>
+<p><strong> Unit 3: Manipulating Objects</strong></p>
+<ul>
+  <li> Edit Objects Using the Selection Tools </li>
+  <li>Change Object Interaction </li>
+  <li>Create Symbols and Instances </li>
+  <li>Transform Objects </li>
+  <li>Work with Bitmap Images </li>
+</ul>
+<p><strong> Unit 4: Working with Text</strong></p>
+<ul>
+  <li> Create Text Blocks </li>
+  <li>Convert Text into Shapes </li>
+</ul>
+<p><strong> Unit 5: Working with Multiple Layers in a Movie</strong></p>
+<ul>
+  <li> Work with Multiple Layers </li>
+  <li>Create a Mask Layer </li>
+  <li>Align the Objects in a Flash 8 Document </li>
+</ul>
+<p><strong> Unit 6: Creating an Animation</strong></p>
+<ul>
+  <li> Create a Frame-by-Frame Animation </li>
+  <li>Create a Shape-Tween Animation </li>
+  <li>Create a Motion-Tween Animation </li>
+  <li>Create a Guide Layer </li>
+  <li>Mask Animations </li>
+</ul>
+<p><strong> Unit 7: Publishing a Flash 8 Movie</strong></p>
+<ul>
+  <li> Select the Publish Settings </li>
+  <li>Publish a Flash File </li>
+</ul>

@@ -1,0 +1,32 @@
+<h2>Session 1</h2>
+  <h3>Section A: Making Humor Work</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Humor Notes</li>
+    <li>Humor in the Workplace</li>
+    <li>Bad Humor</li>
+    <li>Bridge Building</li>
+    <li>Good Humor</li>
+    <li>Review</li>
+    <li>Humor Notes</li>
+  </ul>
+  <h3>Section B: Case Study: University National</h3>
+  <ul>
+    <li>Communicate With Humor</li>
+    <li>Differentiate With Humor</li>
+    <li>The Humor Edge</li>
+    <li>Humor Notes</li>
+  </ul>
+  <h3>Section C: Developing Relationships</h3>
+  <ul>
+    <li>Getting Attention</li>
+    <li>Creating Intimacy</li>
+    <li>Selling With Humor</li>
+    <li>Humor Notes</li>
+  </ul>
+  <h3>Section D: Laughter - The Stress Blocker</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Stress Reducers</li>
+    <li>Conclusion</li>
+  </ul>

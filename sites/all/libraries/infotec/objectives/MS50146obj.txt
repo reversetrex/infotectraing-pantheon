@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Create a Shared Services provider.</li>
+  <li>Create an Information policy and a custom expiration date.</li>
+  <li>Use record routing and holds.</li>
+  <li>Customize a site using enabled controls, variation, and content deployment.</li>
+  <li>Create InfoPath forms.</li>
+  <li>Use Excel Services.</li>
+  <li>Work with data connection libraries.</li>
+  <li>Understand and work with BDC.</li>
+  <li>Create a document converter.</li>
+  <li>Create and administer User Profiles.</li>
+  <li>Use Search effectively.</li>
+</ul>

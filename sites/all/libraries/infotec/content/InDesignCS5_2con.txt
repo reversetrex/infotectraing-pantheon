@@ -1,0 +1,82 @@
+<p><strong>Lesson 1: Handling Page Elements</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Create Duplicate Items<br />
+    <strong>Topic 1B: </strong>Handle Text Layouts<br />
+    <strong>Topic 1C: </strong>Create Transparency<br />
+    <strong>Topic 1D: </strong>Create Anchored Objects<br />
+    <strong>Topic 1E: </strong>Manage a Library<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Managing Styles</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Import Styles from Microsoft® Word  Documents<br />
+    <strong>Topic 2B: </strong>Create Nested Styles<br />
+    <strong>Topic 2C: </strong>Create Related Styles<br />
+    <strong>Topic 2D: </strong>Apply Styles in a Sequence<br />
+    <strong>Topic 2E: </strong>Manage Style Overrides<br />
+    <strong>Topic 2F: </strong>Redefine Styles<br />
+    <strong>Topic 2G: </strong>Break the Link to Styles<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Developing Complex Paths</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Create Bézier Paths<br />
+    <strong>Topic 3B: </strong>Create Clipping Paths<br />
+    <strong>Topic 3C: </strong>Create Compound Paths<br />
+    <strong>Topic 3D: </strong>Create Type Outlines<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Administering External Files</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Import Layered Files<br />
+    <strong>Topic 4B: </strong>Merge Data<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Working with an XML File</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Integrate XML Content into a Document<br />
+    <strong>Topic 5B: </strong>Import XML Content<br />
+    <strong>Topic 5C: </strong>Create a Snippet<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Creating Dynamic Documents</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 6A: </strong>Create Interactive Documents<br />
+    <strong>Topic 6B: </strong>Insert Footnotes<br />
+    <strong>Topic 6C: </strong>Insert Text Variables<br />
+    <strong>Topic 6D: </strong>Create Text Conditions<br />
+    <strong>Topic 6E: </strong>Create Document Sections<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 7: Managing Long Documents</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 7A: </strong>Create a Book<br />
+    <strong>Topic 7B: </strong>Create a Table of Contents<br />
+    <strong>Topic 7C: </strong>Create Hyperlinks<br />
+    <strong>Topic 7D: </strong>Create Cross-References<br />
+    <strong>Topic 7E: </strong>Generate an Index<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 8: Exporting InDesign Files in Other  Formats</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 8A: </strong>Export PDF Files<br />
+    <strong>Topic 8B: </strong>Export Files for the Web<br />
+    <strong>Topic 8C: </strong>Export Files for Animation<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 9: Adjusting Print Settings</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 9A: </strong>Manage Colors<br />
+    <strong>Topic 9B: </strong>Preview the Print Output<br />
+    <strong>Topic 9C: </strong>Create Print Presets<br />
+  </p>
+</blockquote>

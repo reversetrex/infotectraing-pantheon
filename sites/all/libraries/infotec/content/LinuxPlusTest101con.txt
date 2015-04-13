@@ -1,0 +1,199 @@
+<ol>
+  <li>Exploring Linux  Command-Line Tools</li>
+  <ol type="a">
+    <li>Understanding Command-Line  Basics</li>
+    <ol type="i">
+      <li>Exploring Your Linux Shell  Options</li>
+      <li>Using a Shell</li>
+      <li>Exploring Shell  Configuration</li>
+      <li>Using Environment  Variables</li>
+      <li>Getting Help</li>
+    </ol>
+    <li>Using Streams,  Redirection, and Pipes</li>
+    <ol type="i">
+      <li>Exploring Types of Streams</li>
+      <li>Redirecting Input and  Output</li>
+      <li>Piping Data Between  Programs</li>
+      <li>Generating Command Lines</li>
+    </ol>
+    <li>Processing Text Using  Filters</li>
+    <ol type="i">
+      <li>File-Combining Commands</li>
+      <li>File-Transforming Commands</li>
+      <li>File-Formatting Commands</li>
+      <li>File-Viewing Commands</li>
+      <li>File-Summarizing Commands</li>
+    </ol>
+    <li>Using Regular Expressions</li>
+    <ol type="i">
+      <li>Understanding Regular  Expressions</li>
+    </ol>
+    <li>Using <em>grep</em></li>
+    <li>Using <em>sed</em></li>
+  </ol>
+  <li>Managing Software</li>
+  <ol type="a">
+    <li>Package Concepts</li>
+    <li>Using RPM</li>
+    <ol type="i">
+      <li>RPM Distributions and  Conventions</li>
+      <li>The <em>rpm</em> Command Set</li>
+      <li>Extracting Data from RPMs</li>
+      <li>Using Yum</li>
+      <li>RPM and Yum Configuration  Files</li>
+      <li>RPM Compared to Other  Package Formats</li>
+    </ol>
+    <li>Using Debian Packages</li>
+    <ol type="i">
+      <li>Debian Distributions and  Conventions</li>
+      <li>The <em>dpkg</em> Command Set</li>
+      <li>Using <em>apt-cache</em></li>
+      <li>Using <em>apt-get</em></li>
+      <li>Using <em>dselect, aptitude, </em>and Synaptic</li>
+      <li>Reconfiguring Packages</li>
+      <li>Debian Packages Compared  to Other Package Formats</li>
+      <li>Configuring Debian Package  Tools</li>
+    </ol>
+    <li>Converting Between Package  Formats</li>
+    <li>Package Dependencies and  Conflicts</li>
+    <ol type="i">
+      <li>Real and Imagined Package  Dependency Problems</li>
+      <li>Workarounds to Package  Dependency Problems</li>
+      <li>Startup Script Problems</li>
+    </ol>
+    <li>Managing  Shared Libraries</li>
+    <ol type="i">
+      <li>Library Principles</li>
+      <li>Locating Library Files</li>
+      <li>Library Management  Commands</li>
+    </ol>
+    <li>Managing Processes</li>
+    <ol type="i">
+      <li>Understanding the Kernel:  The First Processes</li>
+      <li>Examining Process Lists</li>
+      <li>Understanding Foreground  and Background Processes</li>
+      <li>Managing Process  Priorities</li>
+      <li>Killing Processes</li>
+    </ol>
+  </ol>
+  <li>Configuring Hardware</li>
+  <ol type="a">
+    <li>Configuring the BIOS and  Core Hardware</li>
+    <ol type="i">
+      <li>Understanding the Role of  the BIOS</li>
+      <li>IRQs</li>
+      <li>I/O Addresses</li>
+      <li>DMA Addresses</li>
+      <li>Boot Disks and Geometry  Settings</li>
+      <li>Coldplug and Hotplug  Devices</li>
+    </ol>
+    <li>Configuring Expansion  Cards</li>
+    <ol type="i">
+      <li>Configuring PCI Cards</li>
+      <li>Learning about Kernel  Modules</li>
+      <li>Loading Kernel Modules</li>
+      <li>Removing Kernel Modules</li>
+    </ol>
+    <li>Configuring USB Devices</li>
+    <ol type="i">
+      <li>USB Basics</li>
+      <li>Linux USB Drivers</li>
+      <li>USB Manager Applications</li>
+    </ol>
+    <li>Configuring Hard Disks</li>
+    <ol type="i">
+      <li>Configuring PATA Disks</li>
+      <li>Configuring SATA Disks</li>
+      <li>Configuring SCSI Disks</li>
+      <li>Configuring External Disks</li>
+    </ol>
+    <li>Designing a Hard Disk Layout</li>
+    <ol type="i">
+      <li>Why Partition?</li>
+      <li>Understanding Partitioning  Systems</li>
+      <li>An alternative to  Partitions: LVM</li>
+      <li>Mount Points</li>
+      <li>Common Partitions and  Filesystems Layouts</li>
+    </ol>
+    <li>Creating Partitions and  Filesystems</li>
+    <ol type="i">
+      <li>Partitioning a Disk</li>
+      <li>Preparing a Partition for  Use</li>
+    </ol>
+    <li>Maintaining Filesystem  Health</li>
+    <ol type="i">
+      <li>Tuning Filesystems</li>
+      <li>Maintaining a Journal</li>
+      <li>Checking Filesystems</li>
+      <li>Monitoring Disk Use</li>
+    </ol>
+    <li>Mounting and Unmounting  Filesystems</li>
+    <ol type="i">
+      <li>Temporarily Mounting or  Unmounting Filesystems</li>
+      <li>Permanently Mounting  Filesystems</li>
+    </ol>
+  </ol>
+  <li>Managing Files</li>
+  <ol type="a">
+    <li>Managing Files</li>
+    <ol type="i">
+      <li>File Naming and Wildcard Expansion  Rules</li>
+      <li>File Commands</li>
+      <li>File Archiving Commands</li>
+      <li>Managing Links</li>
+      <li>Directory Commands</li>
+    </ol>
+    <li>Managing File Ownership</li>
+    <ol type="i">
+      <li>Assessing File Ownership</li>
+      <li>Changing a File’s Owner</li>
+      <li>Changing a File’s Group</li>
+    </ol>
+    <li>Controlling Access to  Files</li>
+    <ol type="i">
+      <li>Understanding Permissions</li>
+      <li>Changing a File’s Mode</li>
+      <li>Setting the Default Mode  and Group</li>
+      <li>Changing File Attributes</li>
+    </ol>
+    <li>Managing Disk Quotas</li>
+    <ol type="i">
+      <li>Enabling Quota Support</li>
+      <li>Setting Quotas for Users</li>
+    </ol>
+    <li>Locating Files</li>
+    <ol type="i">
+      <li>The FHS</li>
+      <li>Tools for Locating Files</li>
+    </ol>
+  </ol>
+  <li>Booting Linux and Editing  Files</li>
+  <ol type="a">
+    <li>Installing Boot Loaders</li>
+    <ol type="i">
+      <li>Boot Loader Principles</li>
+      <li>Using LILO as the Boot  Loader</li>
+      <li>Using GRUB as the Boot  Loader</li>
+    </ol>
+    <li>Understanding the Boot  Process</li>
+    <ol type="i">
+      <li>Extracting Information  about the Boot Process</li>
+      <li>Locating and interpreting  Boot Messages</li>
+      <li>The Boot Process</li>
+    </ol>
+    <li>Dealing with Runlevels and  the Initialization Process</li>
+    <ol type="i">
+      <li>Runlevel Functions</li>
+      <li>Identifying the Services  in a Runlevel</li>
+      <li>Managing Runlevel Services</li>
+      <li>Checking Your Runlevel</li>
+      <li>Changing Runlevels on a  Running Systems</li>
+    </ol>
+    <li>Editing Files with Vi</li>
+    <ol type="i">
+      <li>Understanding Vi Modes</li>
+      <li>Exploring Basic Text-Editing Procedures</li>
+      <li>Saving Changes</li>
+    </ol>
+  </ol>
+</ol>

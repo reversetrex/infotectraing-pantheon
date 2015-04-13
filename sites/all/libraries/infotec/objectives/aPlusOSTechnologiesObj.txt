@@ -1,0 +1,16 @@
+<p><strong> Domain 1.0 Operating System Fundamentals </strong></p>
+<ul>
+  <li> This domain requires knowledge of underlying DOS (Command prompt functions) in Windows 9x, Windows 2000, Operating systems in terms of its functions and structure, for managing files and directories, and running programs. It also includes navigating through the operating system from command line prompts and Windows procedures for accessing and retrieving information.</li>
+</ul>
+<p><strong>Domain 2.0 Installation, Configuration and Upgrading </strong></p>
+<ul>
+  <li> This domain requires knowledge of installing, configuring and upgrading Windows 9x, and Windows 2000. This includes knowledge of system boot sequences and minimum hardware requirements. </li>
+</ul>
+<p><strong> Domain 3.0 Diagnosing and Troubleshooting </strong></p>
+<ul>
+  <li> This domain requires the ability to apply knowledge to diagnose and troubleshoot common problems relating to Windows 9x and Windows 2000. This includes understanding normal operation and symptoms relating to common problems. </li>
+</ul>
+<p><strong> Domain 4.0 Networks </strong></p>
+<ul>
+  <li> This domain requires knowledge of network capabilities of Windows and how to connect to networks on the client side, including what the Internet is about, its capabilities, basic concepts relating to Internet access and generic procedures for system setup. The scope of this topic is only what is needed on the desktop side to connect to a network. </li>
+</ul>

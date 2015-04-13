@@ -1,0 +1,16 @@
+<p><strong> Unit 1: Introduction to XML in the .NET Framework <br>
+</strong>This Unit introduces the use of XML in the .NET Framework to help you solve common business problems. XML is a standards-driven technology that is ideal for applications that use the Internet. Microsoft's implementation of World Wide Web Consortium (W3C) standards ensures that applications you develop with XML in .NET will successfully communicate with other W3C-compatible applications </p>
+<p><strong> Unit 2: Parsing XML <br>
+</strong>This Unit discusses how to parse XML data from a file, string, or stream by using the XmlReader class. It also covers how to use the XmlTextReader to process XML as text, and how to use the XmlNodeReader to filter data by using an XPath expression and the object. </p>
+<p><strong> Unit 3: Validating XML <br>
+</strong>This Unit gives an overview of XML Schema Definition (XSD) data types, and then covers how to use the Microsoft .NET Framework XML classes to perform XML schema validation. The Unit Advanced Validation teaches how to resolve external entities, how to validate XML fragments, and how to validate XML by using a Document Type Definition (DTD). </p>
+<p><strong> Unit 4: Writing XML<br>
+</strong>Writing XML is a central skill in developing XML-based applications. This Unit describes the .NET Framework classes that are used to write XML with or without namespaces. The Unit also explains how to control the format and validity of XML as it is being written. </p>
+<p><strong> Unit 5: Querying XML<br>
+</strong>This Unit explains the process of querying an XML document by using XPath. It explains how to write code to load an XML document, and how to create a navigation cursor by using an XPathNavigator object. It also explains how to create your query by using an XPathDocument object, and how to examine the result types. In addition, this Unit describes how to compile your query and evaluate your results. </p>
+<p><strong> Unit 6: Manipulating Cached XML<br>
+</strong>This Unit introduces the XML Document Object Model (XML DOM) and explains how to locate and manipulate XML by using the DOM. </p>
+<p><strong> Unit 7: Transforming XML<br>
+</strong>This Unit explains the process of transforming XML documents. The Unit teaches the student how to apply an XSLT transformation to an XML document by using the .NET XML classes. It does not teach XSLT syntax or commands. </p>
+<p><strong> Unit 8: Serializing Objects as XML<br>
+</strong>This Unit provides students with the skills needed to create XML documents from the data contained within programmatic objects. This process is referred to as serialization and can be used to persist object data or to share object data between applications. </p>

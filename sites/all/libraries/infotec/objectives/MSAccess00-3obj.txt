@@ -1,0 +1,10 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li> Make select queries more versatile and useful by using parameters; use action queries to update data values and add ore delete records. </li>
+  <li> Generate different query types by creating various types of joins between tables; use cross tab queries to summarize data. </li>
+  <li> Use advanced form features including properties, functions, and design tools to facilitate data entry and improve accuracy in forms; display table information that has a one-to-many relationship by creating forms that contain subforms. </li>
+  <li> Automate tasks by creating macros to open forms and control form properties. </li>
+  <li> Make forms more functional by using macros to provide user interaction and automate data entry. </li>
+  <li> Make reports more concise and easier to understand by using properties and functions in report controls. </li>
+  <li> Use Internet-related Access tools by inserting hyperlinks and using the Web toolbar; integrate Access Data with other Office 2000 applications. </li>
+</ul>

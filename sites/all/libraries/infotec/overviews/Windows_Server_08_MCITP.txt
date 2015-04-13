@@ -1,0 +1,9 @@
+Distinguish your IT Skills with Windows Server 2008 Enterprise 
+Administrator MCITP Certification. This series of courses will not only 
+get you ready for the 2008 Server exam, but will supply you with Server 
+tools, tips and tricks to make sure your enterprise solution is easy to 
+maintain, update and deploy. Learn important security methods and 
+maintenance procedures that ensure your network runs smoothly 24/7. Topics 
+in Active Directory, Network Infrastructure configuration, and deploying 
+software and administration processes are only a few of the areas that 
+this 23 session series covers.

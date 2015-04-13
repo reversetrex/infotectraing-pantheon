@@ -1,0 +1,1 @@
+This course shows you how to follow best practices for secure design, deployment and operation of a VMware vSphere environment. Through lecture, discussion, and hands-on practice, you will gain the knowledge and skills necessary to meet the security and compliance goals of your organization.

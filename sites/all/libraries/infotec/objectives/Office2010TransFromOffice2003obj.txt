@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Identify the features that are common to all applications in the Microsoft Office suite.</li>
+  <li>Modify documents using Microsoft Office Word 2010.</li>
+  <li>Present spreadsheet data using Microsoft Office Excel 2010.</li>
+  <li>Create Microsoft Office PowerPoint 2010 presentations.</li>
+  <li>Work with databases using Access 2010.</li>
+  <li>Manage tasks using the new features in  Microsoft Office Outlook 2010.</li>
+  <li>Share files in Microsoft Office 2010.</li>
+</ul>

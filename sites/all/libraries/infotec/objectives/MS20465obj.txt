@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Design an appropriate database server infrastructure for a given business application scenario</li>
+  <li>Design a logical schema for a database based on application requirements</li>
+  <li>Design the physical implementation of a database for a given set of requirements</li>
+  <li>Evaluate options for including binary large object data in a database design</li>
+  <li>Plan and manage indexes to optimize performance</li>
+  <li>Describe the key considerations for designing security for SQL Server instances and databases</li>
+  <li>Plan policy-based management to manage server instances, databases, and other SQL Server 2012 objects more efficiently</li>
+  <li>Plan SQL Server health monitoring</li>
+  <li>Implement SQL Server health monitoring by using SQL Server Utility</li>
+  <li>Identify and implement the appropriate backup strategy for a given scenario</li>
+  <li>Plan and manage multi-server maintenance and automation</li>
+  <li>Understand the benefits of using PowerShell to manage SQL Server 2012</li>
+  <li>Design an optimal replication strategy from a given set of business and technical requirements</li>
+  <li>Plan and implement a high availability solution</li>
+</ul>

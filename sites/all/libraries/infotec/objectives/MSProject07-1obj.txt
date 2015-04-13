@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+	<li>Explore the Microsoft Office Project environment and the various views in which you can survey a project file.</li>
+	<li>Create a new project plan.</li>
+	<li>Manage tasks by organizing them and setting task relationships.</li>
+	<li>Manage resources for a project.</li>
+	<li>Finalize the project plan.</li>
+</ul>

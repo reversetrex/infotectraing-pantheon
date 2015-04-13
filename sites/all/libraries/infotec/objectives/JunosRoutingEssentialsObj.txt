@@ -1,0 +1,16 @@
+<p>After you complete this course you will be able to:</p>
+<ul>
+  <li>Explain basic routing operations and concepts</li>
+  <li>View and describe routing and forwarding tables</li>
+  <li>Configure and monitor static routing</li>
+  <li>Configure and monitor OSPF</li>
+  <li>Describe the framework for routing policy</li>
+  <li>Explain the evaluation of routing policy</li>
+  <li>Identify instances where you might use routing policy</li>
+  <li>Write and apply a routing policy</li>
+  <li>Describe the framework for firewall filters</li>
+  <li>Explain the evaluation of firewall filters</li>
+  <li>Identify instances where you might use firewall filters</li>
+  <li>Write and apply a firewall filter</li>
+  <li>Describe the operation and configuration for unicast reverse path forwarding (RPF)</li>
+</ul>

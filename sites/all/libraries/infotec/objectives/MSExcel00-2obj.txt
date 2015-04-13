@@ -1,0 +1,9 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Create charts that graphically represent worksheet data. </li>
+  <li> Modify charts. </li>
+  <li> Customize charts by applying formatting. </li>
+  <li> Enhance worksheets and charts by using the drawing tools to add graphic objects. </li>
+  <li> Sort information in a list by using the Data, Sort command. </li>
+  <li>Locate information quickly in a list that meets specified conditions by using the Advanced filter feature.</li>
+</ul>

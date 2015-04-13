@@ -1,0 +1,125 @@
+<p><strong>Lesson 1: Personal Computer Components</strong></p> 
+<ul>
+  <li>Topic 1A: Personal Computer Components</li>
+  <li>Topic 1B: System Unit Components</li>
+  <li>Topic 1C: Storage Devices</li> 
+  <li>Topic 1D: Personal Computer Connection Methods</li>
+</ul>
+
+<p><strong>Lesson 2: Operating System Fundamentals</strong></p>
+<ul>
+  <li>Topic 2A: Personal Computer Operating Systems</li>
+  <li> Topic 2B: Windows User Interface Components</li>
+  <li> Topic 2C: Windows File System Management</li> 
+  <li>Topic 2D: Windows System Management Tools</li>
+</ul>
+
+<p><strong>Lesson 3: PC Technician Professional Best Practices</strong></p> 
+<ul>
+  <li> Topic 3A: Tools of the Trade</li>
+  <li> Topic 3B: Electrical Safety</li>
+  <li> Topic 3C: Environmental Safety and Materials Handling</li>
+  <li> Topic 3D: Perform Preventative Maintenance</li>
+  <li> Topic 3E: Diagnostics and Troubleshooting</li>
+  <li> Topic 3F: Professionalism and Communication</li>
+</ul>
+
+<p><strong>Lesson 4: Installing and Configuring Peripheral Components</strong></p> 
+<ul>
+  <li> Topic 4A: Install and Configure Display Devices</li>
+  <li> Topic 4B: Install and Configure Input Devices</li>
+  <li> Topic 4C: Install and Configure Adapter Cards</li>
+  <li> Topic 4D: Install and Configure Multimedia Devices</li>
+</ul>
+
+<p><strong>Lesson 5: Installing and Configuring System Components</strong></p> 
+<ul>
+  <li> Topic 5A: Install and Configure Storage Devices</li>
+  <li> Topic 5B: Install and Configure Power Supplies</li>
+  <li> Topic 5C: Install and Configure Memory</li>
+  <li> Topic 5D: Install and Configure CPUs</li>
+  <li> Topic 5E: Install and Configure System Boards</li>
+</ul>
+
+<p><strong>Lesson 6: Maintaining and Troubleshooting Peripheral Components</strong></p> 
+<ul>
+  <li> Topic 6A: Troubleshoot Display Devices</li>
+  <li> Topic 6B: Maintain and Troubleshoot Input Devices</li>
+  <li> Topic 6C: Troubleshoot Adapter Cards</li>
+  <li> Topic 6D: Troubleshoot Multimedia Devices</li>
+</ul>
+
+<p><strong>Lesson 7: Troubleshooting System Components</strong></p> 
+<ul>
+  <li> Topic 7A: Troubleshoot Storage Devices</li>
+  <li> Topic 7B: Troubleshoot Power Supplies</li>
+  <li> Topic 7C: Troubleshoot Memory</li>
+  <li> Topic 7D: Troubleshoot CPUs</li>
+  <li> Topic 7E: Troubleshoot System Boards</li>
+</ul>
+
+<p><strong>Lesson 8: Installing and Configuring Operating Systems</strong></p> 
+<ul>
+  <li> Topic 8A: Install Microsoft Windows</li>
+  <li> Topic 8B: Upgrade Windows</li>
+  <li> Topic 8C: Add Devices to Windows</li>
+  <li> Topic 8D: Optimize Windows</li>
+</ul>
+
+<p><strong>Lesson 9: Maintaining and Troubleshooting Microsoft Windows</strong></p>
+<ul>
+  <li> Topic 9A: Operating System Utilities</li>
+  <li> Topic 9B: Maintain Microsoft Windows</li>
+  <li> Topic 9C: Troubleshoot Microsoft Windows</li>
+  <li> Topic 9D: Recover Microsoft Windows</li>
+</ul>
+
+<p><strong>Lesson 10: Network Technologies</strong></p> 
+<ul>
+  <li> Topic 10A: Network Concepts</li>
+  <li> Topic 10B: Network Communications</li>
+  <li> Topic 10C: Network Connectivity</li>
+  <li> Topic 10D: Internet Technologies</li>
+</ul>
+
+<p><strong>Lesson 11: Installing and Managing Network Connections</strong></p> 
+<ul>
+  <li> Topic 11A: Create Network Connections</li>
+  <li> Topic 11B: Install and Configure Web Browsers</li>
+  <li> Topic 11C: Maintain and Troubleshoot Network Connections</li>
+</ul>
+
+<p><strong>Lesson 12: Supporting Laptops and Portable Computing Devices</strong></p> 
+<ul>
+  <li> Topic 12A: Laptop and Portable Computing Device Components</li>
+  <li> Topic 12B: Install and Configure Laptops and Portable Computing Devices</li>
+  <li> Topic 12C: Maintain and Troubleshoot Laptops and Portable Computing Devices</li>
+</ul>
+
+<p><strong>Lesson 13: Supporting Printers and Scanners</strong></p> 
+<ul>
+  <li> Topic 13A: Printer and Scanner Technologies</li>
+  <li> Topic 13B: Printer and Scanner Components</li>
+  <li> Topic 13C: Printer and Scanner Processes</li>
+  <li> Topic 13D: Install and Configure Printers and Scanners</li>
+  <li> Topic 13E: Maintain and Troubleshoot Printers and Scanners</li>
+</ul>
+
+<p><strong>Lesson 14: Personal Computer Security Concepts</strong></p> 
+<ul>
+  <li> Topic 14A: Security Fundamentals</li>
+  <li> Topic 14B: Security Protection Measures</li>
+  <li> Topic 14C: Data and Physical Security</li>
+  <li> Topic 14D: Wireless Security</li>
+  <li> Topic 14E: Social Engineering</li>
+</ul>
+
+<p><strong>Lesson 15: Supporting Personal Computer Security</strong></p> 
+<ul>
+  <li> Topic 15A: Install and Configure Security Measures</li>
+  <li> Topic 15B: Maintain and Troubleshoot Security Measures</li>
+</ul>
+
+<p><strong>Appendix A: Mapping Course Content to the CompTIA A+ Essentials 220-601 Exam Objectives</strong></p>
+
+<p><strong>Appendix B: Mapping Course Content to the CompTIA A+ IT Technician 220-602 Exam Objectives</strong></p>

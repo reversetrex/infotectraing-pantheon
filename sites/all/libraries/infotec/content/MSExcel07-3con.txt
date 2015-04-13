@@ -1,0 +1,57 @@
+<p><strong>Unit 1: Streamlining Workflow</strong></p>
+<ul>
+  <li>Topic 1A: Create a Macro</li>
+  <li>Topic 1B: Edit a Macro</li>
+  <li>Topic 1C: Apply Conditional Formatting</li>
+  <li>Topic 1D: Add Data Validation Criteria</li>
+  <li>Topic 1E: Update a Workbook's Properties</li>
+  <li>Topic 1F: Modify Excel's Default Settings</li>
+</ul>
+<p><strong>Unit 2: Collaborating with Others</strong></p>
+<ul>
+  <li>Topic 2A: Protect Files</li>
+  <li>Topic 2B: Share a Workbook</li>
+  <li>Topic 2C: Set Revision Tracking</li>
+  <li>Topic 2D: Review Tracked Revisions</li>
+  <li>Topic 2E: Merge Workbooks</li>
+  <li>Topic 2F: Administer Digital Signatures</li>
+  <li>Topic 2G: Restrict Document Access</li>
+</ul>
+<p><strong>Unit 3: Auditing Worksheets</strong></p>
+<ul>
+  <li>Topic 3A: Trace Cells</li>
+  <li>Topic 3B: Troubleshoot Errors in Formulas</li>
+  <li>Topic 3C: Troubleshoot Invalid Data and Formulas</li>
+  <li>Topic 3D: Watch and Evaluate Formulas</li>
+  <li>Topic 3E: Create a Data List Outline</li>
+</ul>
+<p><strong>Unit 4: Analyzing Data</strong></p>
+<ul>
+  <li>Topic 4A: Create a Trendline</li>
+  <li>Topic 4B: Create Scenarios</li>
+  <li>Topic 4C: Perform What-If Analysis</li>
+  <li>Topic 4D: Perform Statistical Analysis with the Analysis ToolPak</li>
+</ul>
+<p><strong>Unit 5: Working with Multiple Workbooks</strong></p>
+<ul>
+  <li>Topic 5A: Create a Workspace</li>
+  <li>Topic 5B: Consolidate Data</li>
+  <li>Topic 5C: Link Cells in Different Workbooks</li>
+  <li>Topic 5D: Edit Links</li>
+</ul>
+<p><strong>Unit 6: Importing and Exporting Data</strong></p>
+<ul>
+  <li>Topic 6A: Export Excel Data</li>
+  <li>Topic 6B: Import a Delimited Text File</li>
+</ul>
+<p><strong>Unit 7: Using Excel with the Web</strong></p>
+<ul>
+  <li>Topic 7A: Publish a Worksheet to the Web</li>
+  <li>Topic 7B: Import Data from the Web</li>
+  <li>Topic 7C: Create a Web Query</li>
+</ul>
+<p><strong>Unit 8: Structuring Workbooks with XML</strong></p>
+<ul>
+  <li>Topic 8A: Develop XML Maps</li>
+  <li>Topic 8B: Import and Export XML Data </li>
+</ul>

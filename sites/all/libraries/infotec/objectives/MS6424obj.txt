@@ -1,0 +1,1 @@
+After completing this course, students will understand how Active Directory server roles are used and learn about the purpose and components of Active Directory Domain Services. Students will learn how to configure organizational units and user, computer and group accounts. Lastly, students will learn how to manage access to shared resources.

@@ -1,0 +1,7 @@
+<p>After  completing this course, students will be able to:</p>
+
+<ul>
+  <li>Create a SharePoint site that is customized and personalized to the end user.</li>
+  <li>Create and run reports.</li>
+  <li>Create custom field types to enhance functionality of lists.</li>
+</ul>

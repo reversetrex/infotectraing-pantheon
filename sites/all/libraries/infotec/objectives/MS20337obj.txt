@@ -1,0 +1,8 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Design a resilient enterprise voice solution.</li>
+  <li>Design and configure network services for Lync 2013.</li>
+  <li>Configure Lync Server 2013 voice features.</li>
+  <li>Implement emergency voice services.</li>
+  <li>Plan and configure a Lync Online or hybrid solution.</li>
+</ul>

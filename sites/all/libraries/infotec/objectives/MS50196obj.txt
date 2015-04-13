@@ -1,0 +1,9 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Use and customize Lists and Libraries.</li>
+  <li>Create Forms Libraries.</li>
+  <li>Create Basic and Web Part Web Pages.</li>
+  <li>Customize Sites and Workspaces.</li>
+  <li>Manage Users and Groups.</li>
+  <li>Monitor Site Activity.</li>
+</ul>

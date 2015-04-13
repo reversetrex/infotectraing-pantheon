@@ -1,0 +1,4 @@
+<p><strong>Level 1:</strong></p>
+<p>You will use, create, and edit content in a team website. You will also create and perform basic management of a team site using SharePoint Foundation 2010.</p>
+<p><strong>Level 2:</strong></p>
+<p>You will manage site collections and site components as a site collection administrator and as a site administrator.</p>

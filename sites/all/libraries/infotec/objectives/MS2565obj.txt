@@ -1,0 +1,27 @@
+<p> After completing this course, students will be able to:</p>
+<ul>
+  <li> Create and populate Windows Forms. </li>
+  <li> Organize controls on Windows Forms. </li>
+  <li> Create menus in a Windows Forms application. </li>
+  <li> Add code to form and control event procedures in a Windows Forms application. </li>
+  <li> Create Multiple Document Interface (MDI) applications. </li>
+  <li> Use dialog boxes in Windows Forms applications. </li>
+  <li> Validate user input in a Windows Forms application. </li>
+  <li> Create and use user controls in a Windows Forms application. </li>
+  <li> Create licenses for controls. </li>
+  <li> Bind Windows Forms applications to various data sources by using Microsoft ADO.NET. </li>
+  <li> Consume XML Web services from Windows Forms applications. </li>
+  <li> Use .NET and COM components in a Windows Forms application. </li>
+  <li> Call Microsoft Win32&reg; APIs from a Windows Forms application. </li>
+  <li> Migrate Visual Basic 6.0 applications to Visual Basic .NET. </li>
+  <li> Print documents in a Windows Forms application. </li>
+  <li> Make asynchronous calls to methods from a Windows Forms application. </li>
+  <li> Debug a Windows Forms application. </li>
+  <li> Incorporate accessibility features in a Windows Forms application. </li>
+  <li> Localize a Windows Forms application. </li>
+  <li> Add support for Help to localize a Windows Forms application. </li>
+  <li> Create Help files in a Windows Forms application. </li>
+  <li> Deploy a Windows Forms application. </li>
+  <li> Implement code access and role-based security in a Windows Forms application. </li>
+  <li> Add deployment flexibility to applications by using shared assemblies. </li>
+</ul>

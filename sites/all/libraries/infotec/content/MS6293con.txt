@@ -1,0 +1,75 @@
+<p><strong>Module 1: Implementing a Troubleshooting Methodology</strong></p>
+<blockquote>This module describes the steps involved in establishing and using a typical troubleshooting methodology. It also covers the job role and responsibilities of the EDST.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Lesson 1: Introduction to the EDST Job Role</li>
+  <li>Lesson 2:  Overview of Troubleshooting Steps</li>
+</ul>
+<p><strong>Module 2: Troubleshooting Startup Issues</strong></p>
+<blockquote>This module describes how to use Windows 7 recovery tools to troubleshoot startup problems. Additionally, it provides the information to configure and troubleshoot startup settings, and to troubleshoot operating system services.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Lesson 1: Overview of the Windows 7 Recovery Environment</li>
+  <li>Lesson 2: Configuring and Troubleshooting Startup Settings</li>
+  <li>Lesson 3: Troubleshooting Operating System Services Issues</li>
+</ul>
+<p><strong>Module 3: Using Group Policy to Centralize Configuration</strong></p>
+<blockquote>This module describes Group Policy application. It also covers steps to troubleshoot both client configuration failures and GPO application issues.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Lesson 1: Overview of Group Policy Application</li>
+  <li>Lesson 2: Resolving Client Configuration Failures and GPO Application Issues</li>
+</ul>
+<p><strong>Module 4: Troubleshooting Hardware Device, Device Driver, and Performance Issues</strong></p>
+<blockquote>This module helps students troubleshoot issues related to hardware devices and device drivers by identifying basic hardware-related issues. Additionally, the module helps students determine hardware failure issues, and the problems that device drivers can cause. Finally, this module provides guidance on how to configure performance options in Windows 7, as well as monitor reliability and performance of Windows 7 computers.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Lesson 1: Overview of Hardware Troubleshooting</li>
+  <li>Lesson 2: Troubleshooting Physical Failures</li>
+  <li>Lesson 3: Monitoring Reliability and Performance</li>
+  <li>Lesson 4: Configuring Performance Options in Windows 7</li>
+  <li>Lesson 5: Troubleshooting Device Driver Failures</li>
+</ul>
+<p><strong>Module 5: Troubleshooting Network Connectivity Issues</strong></p>
+<blockquote>This module describes how to troubleshoot issues related to network connectivity by providing the steps to determine the network configuration of client computers, and then to troubleshoot network connections.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Lesson 1: Determining Network Settings</li>
+  <li>Lesson 2: Troubleshooting Network Connectivity Issues</li>
+</ul>
+<p><strong>Module 6: Troubleshooting Remote Connectivity Issues</strong></p>
+<blockquote>This module describes how to troubleshoot remote connectivity issues. This module instructs students on how to configure and troubleshoot virtual private network (VPN) connections, as well as how to use Remote Desktop and Remote Assistance to assist users. This module also covers the troubleshooting steps for Network Access Protection (NAP) and DirectAccess issues.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Lesson 1: Troubleshooting VPN Connectivity Issues</li>
+  <li>Lesson 2: Using Remote Desktop</li>
+  <li>Lesson 3: Troubleshooting User Issues by Using Remote Assistance</li>
+  <li>Lesson 4: Troubleshooting NAP Issues</li>
+  <li>Lesson 5: Troubleshooting DirectAccess Issues</li>
+</ul>
+<p><strong>Module 7: Troubleshooting Logon and Resource Access Issues</strong></p>
+<blockquote>This module describes how to use troubleshooting tools and methods to troubleshoot user profile and logon scripts issues, and issues with file and printer access.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Lesson 1: Troubleshooting User Logon Issues</li>
+  <li>Lesson 2: Troubleshooting User Profile Issues</li>
+  <li>Lesson 3: Troubleshooting File Access Issues</li>
+  <li>Lesson 4: Troubleshooting File Permissions Issues</li>
+  <li>Lesson 5: Troubleshooting Printer Access Issues</li>
+</ul>
+<p><strong>Module 8: Troubleshooting Security Issues</strong></p>
+<blockquote>This module describes how to troubleshoot issues related to security systems such as EFS, BitLocker, and file permissions. The module instructs students how to troubleshoot and recover files encrypted with EFS and BitLocker-protected drives. In this module, students also troubleshoot file permissions, content access issues, and Windows Internet Explorer issues.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Lesson 1: Recovering Files Encrypted by EFS</li>
+  <li>Lesson 2: Recovering BitLocker-Protected Drives</li>
+  <li>Lesson 3: Troubleshooting Internet Explorer and Content Access Issues</li>
+</ul>
+<p><strong>Module 9: Troubleshooting Operating System and Application Issues</strong></p>
+<blockquote>This module describes how to troubleshoot issues related to operating system features and applications, including application installation and operation issues. This module also addresses applying application and Windows updates.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Lesson 1: Troubleshooting Application Installation Issues</li>
+  <li>Lesson 2: Troubleshooting Application Operations Issues</li>
+  <li>Lesson 3: Applying Application and Windows Updates</li>
+</ul>

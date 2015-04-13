@@ -1,0 +1,26 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan for the deployment of System Center 2012 R2 Operations Manager including:</li>
+  <ul type="circle">
+    <li>Defining hardware and software requirements.</li>
+    <li>Describing security considerations.</li>
+    <li>Architect a highly available System Center and Microsoft SQL Server platform utilizing Microsoft SQL Server AlwaysOn.</li>
+    <li>Planning for migration and upgrade scenarios to System Center 2012 R2 Operations Manager.</li>
+  </ul>
+  <li>Customize the Operations Console with User Roles.</li>
+  <li>Perform different methods of Agent deployment with System Center 2012 R2 Operations Manager. </li>
+  <li>Implement key Management Pack concepts and elements including Management Packs Templates.</li>
+  <li>Configure Notifications, Reporting, and Service Level Tracking in System Center 2012 R2 Operations Manager.</li>
+  <li>Configure the following:</li>
+  <ul type="circle">
+    <li>Audit Collection Services.</li>
+    <li>Agentless Exception Monitoring.</li>
+    <li>Operations Manager SharePoint Web Part in System Center 2012 R2 Operations Manager.</li>
+  </ul>
+  <li>Configure Application Performance Monitoring and Network Device monitoring in System Center 2012 R2 Operations Manager.</li>
+  <li>Configure dashboards and widgets in System Center 2012 R2 Operations Manager.</li>
+  <li>Describe how to use new cloud-based features including System Center Global Service Monitor and System Center Advisor.</li>
+  <li>Configure integration between System Center 2012 R2 Operations Manager and other System Center 2012 R2 components.</li>
+  <li>Troubleshoot an Operations Manager Management Group.</li>
+  <li>Perform disaster recovery in System Center 2012 R2 Operations Manager.</li>
+</ul>

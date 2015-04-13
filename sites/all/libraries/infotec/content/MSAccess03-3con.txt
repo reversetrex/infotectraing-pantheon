@@ -1,0 +1,50 @@
+<p><strong> Unit 1: Structuring Existing Data </strong></p>
+<ul>
+  <li> Import Data </li>
+  <li>Analyze Tables </li>
+  <li>Create a Junction Table </li>
+  <li>Improve Table Structure </li>
+</ul>
+<p><strong> Unit 2: Writing Advanced Queries </strong></p>
+<ul>
+  <li> Create Unmatched and Duplicates Queries </li>
+  <li>Group and Summarize Records Using the Criteria Field </li>
+  <li>Summarize Data with a Crosstab Query </li>
+  <li>Create a PivotTable and a PivotChart </li>
+  <li>Display a Graphical Summary on a Form </li>
+</ul>
+<p><strong> Unit 3: Simplifying Tasks with Macros </strong></p>
+<ul>
+  <li> Create a Macro </li>
+  <li>Attach a Macro to a Command Button </li>
+  <li>Restrict Records Using a Where Condition </li>
+</ul>
+<p><strong> Unit 4: Adding Interaction and Automation with Macros </strong></p>
+<ul>
+  <li> Require Data Entry with a Macro </li>
+  <li>Display a Message Box with a Macro </li>
+  <li>Automate Data Entry </li>
+</ul>
+<p><strong> Unit 5: Making Forms More Effective </strong></p>
+<ul>
+  <li> Change the Display of Data Conditionally </li>
+  <li>Display a Calendar on a Form </li>
+  <li>Organize Information with Tab Pages </li>
+</ul>
+<p><strong> Unit 6: Making Reports More Effective </strong></p>
+<ul>
+  <li> Cancel Printing of a Blank Report </li>
+  <li>Include a Chart in a Report </li>
+  <li>Arrange Data in Columns </li>
+  <li>Create a Report Snapshot </li>
+</ul>
+<p><strong> Unit 7: Maintaining an Access Database </strong></p>
+<ul>
+  <li> Link Tables to External Data Sources </li>
+  <li>Back Up a Database </li>
+  <li>Compact and Repair a Database </li>
+  <li>Protect a Database with a Password </li>
+  <li>Determine Object Dependency </li>
+  <li>Document a Database </li>
+  <li>Analyze the Performance of a Database </li>
+</ul>

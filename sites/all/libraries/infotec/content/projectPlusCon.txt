@@ -1,0 +1,40 @@
+<p><strong> Unit 1: Initiating a Project<br>
+</strong>Topic 1A: Project Life Cycle <br>
+Topic 1B: Create a Project Concept Definition Statement <br>
+Topic 1C: Determine Feasibility <br>
+Topic 1D: Create a Project Charter</p>
+<p><strong> Unit 2: Creating a Scope Statement<br>
+</strong>Topic 2A: Determine Risk Impact <br>
+Topic 2B: Determine Stakeholder Needs <br>
+Topic 2C: Identify Resources <br>
+Topic 2D: Estimate Cost <br>
+Topic 2E: Estimate Time <br>
+Topic 2F: Create a Scope Statement</p>
+<p><strong> Unit 3: Planning Project Strategy<br>
+</strong>Topic 3A: Plan for Project Control <br>
+Topic 3B: Create a Communications Plan <br>
+Topic 3C: Create a Risk Management Plan <br>
+Topic 3D: Create a Quality Management Plan <br>
+Topic 3E: Create a Closeout Plan <br>
+Topic 3F: Analyze Requirements <br>
+Topic 3G: Create a Statement of Work</p>
+<p><strong> Unit 4: Creating the Project Budget and Schedule<br>
+</strong>Topic 4A: Create the Work Breakdown Structure <br>
+Topic 4B: Create a Budget <br>
+Topic 4C: Create the Project Schedule</p>
+<p><strong> Unit 5: Managing Relationships<br>
+</strong>Topic 5A: Manage Communication <br>
+Topic 5B: Manage Stakeholders <br>
+Topic 5C: Manage the Project Team <br>
+Topic 5D: Manage External Relationships</p>
+<p><strong> Unit 6: Implementing the Project<br>
+</strong>Topic 6A: Manage the Schedule <br>
+Topic 6B: Manage the Budget <br>
+Topic 6C: Manage Quality <br>
+Topic 6D: Manage Change <br>
+Topic 6E: Manage Risks and Issues</p>
+<p><strong> Unit 7: Closing the Project<br>
+</strong>Topic 7A: Deliver the Final Product <br>
+Topic 7B: Conduct a Debriefing <br>
+Topic 7C: Create the Project Closure Report <br>
+Topic 7D: Manage Administrative Closure </p>

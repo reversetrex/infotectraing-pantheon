@@ -1,0 +1,55 @@
+<p><strong>Lesson 1: The Enterprise Security Architecture</strong></p>
+<blockquote>
+  <p><strong>Topic 1A: </strong>The  Basics of Enterprise Security <br />
+      <strong>Topic 1B: </strong>The  Enterprise Structure <br />
+      <strong>Topic 1C: </strong>Enterprise  Security Requirements </p>
+</blockquote>
+
+<p><strong>Lesson 2: Enterprise Security Technology</strong></p>
+<blockquote>
+  <p><strong>Topic 2A: </strong>Common  Network Security Components and Technologies <br />
+      <strong>Topic 2B: </strong>Communications  and Collaboration Security <br />
+      <strong>Topic 2C: </strong>Cryptographic  Tools and Techniques <br />
+      <strong>Topic 2D: </strong>Advanced  Authentication </p>
+</blockquote>
+
+<p><strong>Lesson 3: Enterprise Resource Technology</strong></p>
+<blockquote>
+  <p><strong>Topic 3A: </strong>Enterprise  Storage Security Issues <br />
+      <strong>Topic 3B: </strong>Distributed,  Shared, and Virtualized Computing <br />
+      <strong>Topic 3C: </strong>Cloud  Computing and Security </p>
+</blockquote>
+
+<p><strong>Lesson 4: Security Design and Solutions</strong></p>
+<blockquote>
+  <p><strong>Topic 4A: </strong>Network  Security Design <br />
+      <strong>Topic 4B: </strong>Conduct a  Security Assessment <br />
+      <strong>Topic 4C: </strong>Host  Security </p>
+</blockquote>
+
+<p><strong>Lesson 5: Application Security Design</strong></p>
+<blockquote>
+  <p><strong>Topic 5A: </strong>Application  Security Basics <br />
+      <strong>Topic 5B: </strong>Web  Application Security </p>
+</blockquote>
+
+<p><strong>Lesson 6: Managing Risk, Security Policies, and Security  Procedures</strong></p>
+<blockquote>
+  <p><strong>Topic 6A: </strong>Analyze  Security Risk <br />
+      <strong>Topic 6B: </strong>Implement  Risk Mitigation Strategies and Controls <br />
+      <strong>Topic 6C: </strong>Implement  Enterprise-Level Security Policies and Procedures <br />
+      <strong>Topic 6D: </strong>Prepare  for Incident Response and Recovery </p>
+</blockquote>
+
+<p><strong>Lesson 7: Enterprise Security Integration</strong></p>
+<blockquote>
+  <p><strong>Topic 7A: </strong>The  Technology Life Cycle <br />
+      <strong>Topic 7B: </strong>Inter-Organizational  Change <br />
+      <strong>Topic 7C: </strong>Integrate  Enterprise Disciplines to Achieve Secure Solutions </p>
+</blockquote>
+
+<p><strong>Lesson 8: Security Research and Analysis </strong></p>
+
+<p><strong>Topic 8A: </strong>Perform  an Industry Trends and Impact Analysis </p>
+
+<p><strong>Topic 8B: </strong>Perform an Enterprise Security Analysis</p>

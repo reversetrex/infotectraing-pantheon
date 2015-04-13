@@ -1,0 +1,354 @@
+<p><strong>Module 1: Installing and Configuring Servers</strong> - This module explains how to identify the appropriate usage scenario and installation type for a server and then install and configure appropriate server roles and features.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Installing Windows Server 2008</li>
+  <li>Managing Server Roles and Features</li>
+  <li>Overview of the Server Core Installation Option</li>
+</ul>
+
+<p><strong>Lab : Installing and Configuring Servers and Server Roles</strong></p>
+<ul>
+  <li>Exercise 1: Identifying Server Types </li>
+  <li>Exercise 2: Installing and   Configuring Server Roles and Features </li>
+  <li>Exercise 3: Configuring Server Core   and Performing Basic Management Tasks</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Identify the system requirements and process for installing Windows Server 2008. </li>
+  <li>Describe the difference between server roles and features. </li>
+  <li>Describe the benefits of and roles supported by a Server Core installation.</li>
+</ul>
+
+<p><strong>Module 2: Configuring and Troubleshooting DNS</strong> - This module explains how to configure, manage and troubleshoot DNS server and zone properties to be used in a secure environment.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Installing the DNS Server Role</li>
+  <li>Configuring the DNS Server Role</li>
+  <li>Configuring DNS Zones</li>
+  <li>Configuring DNS Zone Transfers</li>
+  <li>Managing and Troubleshooting DNS</li>
+</ul>
+
+<p><strong>Lab : Configuring and Verifying a DNS Solution</strong></p>
+<ul>
+  <li>Exercise 1: Configuring a DNS Infrastructure </li>
+  <li>Exercise 2: Monitoring and Troubleshooting DNS</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Install the DNS Server role.</li>
+  <li>Configure the DNS Server role to support various query types.</li>
+  <li>Configure DNS zones.</li>
+  <li>Configure DNS zone transfers.</li>
+  <li>Manage DNS zone records and troubleshoot DNS using various tools.</li>
+</ul>
+
+<p><strong>Module 3: Configuring and Managing WINS</strong> - This module explains how to configure, manage and troubleshoot WINS servers.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of the Windows Internet Name Service</li>
+  <li>Managing the WINS Server</li>
+  <li>Configuring WINS Replication</li>
+  <li>Migrating from WINS to DNS</li>
+</ul>
+
+<p><strong>Lab : Configuring a WINS Infrastructure</strong></p>
+<ul>
+  <li>Exercise 1: Installing WINS</li>
+  <li>Exercise 2: Configuring WINS Burst Handling </li>
+  <li>Exercise 3: Configuring WINS Replication </li>
+  <li>Exercise 4: Migrating from WINS to DNS</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Install and configure the Windows Internet Name Service.</li>
+  <li>Manage WINS client records.</li>
+  <li>Configure and manage WINS replication.</li>
+  <li>Migrate a WINS infrastructure to DNS.</li>
+</ul>
+
+<p><strong>Module 4: Configuring and Troubleshooting DHCP</strong> - This module explains how to configure, manage and troubleshoot a DHCP environment supporting an IPV4 infrastructure.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of the DHCP Server Role</li>
+  <li>Configuring DHCP Scopes and Options</li>
+  <li>Managing a DHCP Database</li>
+  <li>Monitoring and Troubleshooting DHCP</li>
+  <li>Securing DHCP</li>
+</ul>
+
+<p><strong>Lab : Configuring and Troubleshooting the DHCP Server Role</strong></p>
+<ul>
+  <li>Exercise 1: Installing and Authorizing the DHCP Server Role</li>
+  <li>Exercise 2: Configuring a DHCP Scope</li>
+  <li>Exercise 3: Troubleshooting Common DHCP Issues</li>
+</ul>
+
+<p>After completing this   module, students will be able to:</p>
+<ul>
+  <li>Describe how DHCP works.</li>
+  <li>Configure DHCP scopes and options.</li>
+  <li>Manage a DHCP database.</li>
+  <li>Monitor and troubleshoot DHCP.</li>
+  <li>Secure DHCP.</li>
+</ul>
+
+<p><strong>Module 5: Configuring and Troubleshooting IPv6 TCP/IP</strong> - This module explains how to configure and troubleshoot static and dynamic IPv6 addresses, including subnet prefix lengths, gateways and DNS servers.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of IPv6</li>
+  <li>Coexistence with IPv6</li>
+  <li>IPv6 Tunneling Technologies</li>
+  <li>Transitioning from IPv4 to IPv6</li>
+  <li>Troubleshooting IPv6</li>
+</ul>
+
+<p><strong>Lab : Lab A: Configuring an ISATAP Router</strong></p>
+<ul>
+  <li>Exercise 1: Configuring a New IPv6 Network and Client </li>
+  <li>Exercise 2: Configuring an ISATAP Router to Enable Communication Between an IPv4 Network and an IPv6 Network</li>
+</ul>
+
+<p><strong>Lab : Lab B: Converting the Network</strong></p>
+<ul>
+  <li>Exercise 1: Transitioning to an IPv6-Only Network</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Describe the benefits and considerations of IPv6.</li>
+  <li>Describe how IPv6 can coexist with IPv4 environments.</li>
+  <li>Describe IPv6 tunneling technologies used to interoperate with IPv4 networks.</li>
+  <li>Describe the process used to migrate from IPv4 to IPv6.</li>
+  <li>Troubleshoot IPv6 connectivity.</li>
+</ul>
+
+<p><strong>Module 6: Configuring and Troubleshooting Routing and Remote Access</strong> - This module explains how to configure and troubleshoot Routing and Remote Access Services.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Configuring Network Access</li>
+  <li>Configuring VPN Access</li>
+  <li>Overview of Network Policies</li>
+  <li>Overview of the Connection Manager Administration Kit</li>
+  <li>Troubleshooting Routing and Remote Access</li>
+</ul>
+
+<p><strong>Lab : Configuring and Managing Network Access</strong></p>
+<ul>
+  <li>Exercise 1: Configuring Routing and Remote Access as a VPN Remote Access Solution </li>
+  <li>Exercise 2: Configuring a Custom Network Policy</li>
+  <li>Exercise 3: Configuring Logging</li>
+  <li>Exercise 4: Configuring a Connection Profile</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Install and configure the Routing and Remote Access service.</li>
+  <li>Configure VPN access.</li>
+  <li>Configure network policies.</li>
+  <li>Configure a connection profile using the Connection Manager Administration Kit.</li>
+  <li>Troubleshoot Routing and Remote Access.</li>
+</ul>
+
+<p><strong>Module 7: Installing, Configuring, and Troubleshooting the Network Policy Server Role Service</strong> - This module explains how to install, configure and troubleshoot the Network Policy Server Role service.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Installing and Configuring a Network Policy Server</li>
+  <li>Configuring RADIUS Clients and Servers</li>
+  <li>NPS Authentication Methods</li>
+  <li>Monitoring and Troubleshooting a Network Policy Server</li>
+</ul>
+
+<p><strong>Lab : Configuring and Managing Network Policy Server</strong></p>
+<ul>
+  <li>Exercise 1: Installing and Configuring the Network Policy Server Role Service</li>
+  <li>Exercise 2: Configuring a RADIUS Client</li>
+  <li>Exercise 3: Configuring Certificate Auto-Enrollment</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Install and configure the Network Policy Server role.</li>
+  <li>Configure a RADIUS client and server.</li>
+  <li>Describe NPS authentication methods.</li>
+  <li>Monitor and troubleshoot a Network Policy server.</li>
+</ul>
+
+<p><strong>Module 8: Configuring Network Access Protection</strong> - This module explains how to configure and manage NAP for DHCP, VPN, and 802.1X.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Network Access Protection</li>
+  <li>How NAP Works</li>
+  <li>Configuring NAP</li>
+  <li>Monitoring and Troubleshooting NAP</li>
+</ul>
+
+<p><strong>Lab : Configuring NAP for DHCP and VPN</strong></p>
+<ul>
+  <li>Exercise 1: Configuring NAP for DHCP Clients </li>
+  <li>Exercise 2: Configuring NAP for VPN Clients</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Describe the benefits and uses of NAP.</li>
+  <li>Describe how NAP works in various access scenarios.</li>
+  <li>Configure NAP.</li>
+  <li>Monitor and troubleshoot NAP.</li>
+</ul>
+
+<p><strong>Module 9: Configuring IPsec</strong> - This module explains how to configure and test IPsec.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of IPsec</li>
+  <li>Configuring Connection Security Rules</li>
+  <li>Configuring IPsec NAP Enforcement</li>
+</ul>
+
+<p><strong>Lab : Configuring IPsec NAP Enforcement</strong></p>
+<ul>
+  <li>Exercise 1: Preparing the Network Environment for IPsec NAP Enforcement</li>
+  <li>Exercise 2: Configuring and Testing IPsec NAP Enforcement</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Describe the benefits and uses of IPsec.</li>
+  <li>Configure Connection Security rules.</li>
+  <li>Configure IPsec NAP enforcement.</li>
+</ul>
+
+<p><strong>Module 10: Monitoring and Troubleshooting IPsec</strong> - This module explains how to monitor and troubleshoot IPsec.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Monitoring IPsec Activity</li>
+  <li>Troubleshooting IPsec</li>
+</ul>
+
+<p><strong>Lab : Monitoring and Troubleshooting IPsec</strong></p>
+<ul>
+  <li>Exercise 1: Monitoring IPSec Connectivity </li>
+  <li>Exercise 2: Configuring Connection Security </li>
+  <li>Exercise 3: Troubleshooting IPSec</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Monitor IPsec activity.</li>
+  <li>Troubleshoot IPsec.</li>
+</ul>
+
+<p><strong>Module 11: Configuring and Managing Distributed File System</strong> - This module explains how to configure and manage Distributed File System.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>DFS Overview</li>
+  <li>Configuring DFS Namespaces</li>
+  <li>Configuring DFS Replication</li>
+</ul>
+
+<p><strong>Lab : Configuring DFS</strong></p>
+<ul>
+  <li>Exercise 1: Installing the Distributed File System Role Service</li>
+  <li>Exercise 2: Creating a DFS Namespace</li>
+  <li>Exercise 3: Configuring Folder Targets and Folder Replication</li>
+  <li>Exercise 4: Viewing Diagnostic Reports for Replicated Folders</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Describe the Distributed File System.</li>
+  <li>Manage DFS namespaces.</li>
+  <li>Configure DFS replication.</li>
+</ul>
+
+<p><strong>Module 12: Configuring and Managing Storage Technologies</strong> - This module explains how to configure and troubleshoot file system storage technologies included with Windows Server 2008.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Windows Server 2008 Storage Management Overview</li>
+  <li>Managing Storage Using File Server Resource Manager</li>
+  <li>Configuring Quota Management</li>
+  <li>Implementing File Screening</li>
+  <li>Managing Storage Reports</li>
+</ul>
+
+<p><strong>Lab : Configuring and Managing Storage Technologies</strong></p>
+<ul>
+  <li>Exercise 1: Installing the FSRM Role Service</li>
+  <li>Exercise 2: Configuring Storage Quotas</li>
+  <li>Exercise 3: Configuring File Screening</li>
+  <li>Exercise 4: Generating Storage Reports</li>
+</ul>
+
+<p>After completing this module, students will be able to:</p>
+<ul>
+  <li>Describe storage management solutions included in Windows Server 2008.</li>
+  <li>Manage storage using File Server Resource Manager (FSRM).</li>
+  <li>Configure quota management using FSRM.</li>
+  <li>Implement file screening using FSRM.</li>
+  <li>Manage storage reports.</li>
+</ul>
+
+<p><strong>Module 13: Configuring Availability of Network Resources and Content</strong> - This module explains how to describe   and configure backup and recovery methods.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Backing Up Data</li>
+  <li>Configuring Shadow Copies</li>
+  <li>Providing Server and Service Availability</li>
+</ul>
+
+<p><strong>Lab : Configuring Availability of Network Resources</strong></p>
+<ul>
+  <li>Exercise 1: Configuring Windows Server Backup and Restore </li>
+  <li>Exercise 2: Configuring Shadow Copying </li>
+  <li>Exercise 3:Configuring Network Load Balancing</li>
+</ul>
+
+<p>After completing this   module, students will be able to:</p>
+<ul>
+  <li>Back up data.</li>
+  <li>Configure shadow copies.</li>
+  <li>Provide server and service availability.</li>
+</ul>
+
+<p><strong>Module 14: Configuring Server Security Compliance</strong> - This module explains how to configure and analyze server security and security update compliance.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Securing a Windows Infrastructure</li>
+  <li>Using Security Templates to Secure Servers</li>
+  <li>Configuring an Audit Policy</li>
+  <li>Overview of Windows Sever Update Services</li>
+  <li>Managing WSUS</li>
+</ul>
+
+<p><strong>Lab : Configuring Server Security Compliance</strong></p>
+<ul>
+  <li>Exercise 1: Configuring and Analyzing Security</li>
+  <li>Exercise 2: Analyzing Security Templates</li>
+  <li>Exercise 3: Configuring Windows Software Update Services</li>
+</ul>
+
+<p>After completing this   module, students will be able to:</p>
+<ul>
+  <li>Secure a server role within a Windows infrastructure.</li>
+  <li>Secure servers using security templates.</li>
+  <li>Configure an audit policy.</li>
+  <li>Describe the use of Windows Server Update Services.</li>
+  <li>Manage updates using WSUS.</li>
+</ul>

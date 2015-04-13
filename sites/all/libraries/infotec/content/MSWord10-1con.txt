@@ -1,0 +1,72 @@
+<p><strong>Lesson 1: Creating a Basic Word Document</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Identify the Elements of the User Interface<br />
+    <strong>Topic 1B: </strong>Customize the Word Environment<br />
+    <strong>Topic 1C: </strong>Enter Text in a Document<br />
+    <strong>Topic 1D: </strong>Save a Document<br />
+    <strong>Topic 1E: </strong>Open a Document in Different View Modes<br />
+    <strong>Topic 1F: </strong>Print a Document<br />
+    <strong>Topic 1G: </strong>Obtain Help in Word<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Editing a Word Document</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Navigate Through a Document and Select Text<br />
+    <strong>Topic 2B: </strong>Modify Text<br />
+    <strong>Topic 2C: </strong>Undo Text Changes<br />
+    <strong>Topic 2D: </strong>Find and Replace Text<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Formatting Text in a Word Document</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Change Font Styles<br />
+    <strong>Topic 3B: </strong>Highlight Text in a Document<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Formatting Paragraphs in a Word Document</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Set Tabs to Align Text<br />
+    <strong>Topic 4B: </strong>Modify the Layout of a Paragraph<br />
+    <strong>Topic 4C: </strong>Create Lists<br />
+    <strong>Topic 4D: </strong>Apply Borders and Shading<br />
+    <strong>Topic 4E: </strong>Apply Styles<br />
+    <strong>Topic 4F: </strong>Manage Formatting<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Inserting Tables in a Word Document</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Create a Table<br />
+    <strong>Topic 5B: </strong>Modify a Table<br />
+    <strong>Topic 5C: </strong>Format a Table<br />
+    <strong>Topic 5D: </strong>Convert Text to a Table<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Inserting Special Characters and Graphical Objects</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 6A: </strong>Insert Symbols and Special Characters<br />
+    <strong>Topic 6B: </strong>Insert Illustrations in a Document<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 7: Controlling the Appearance of the Pages in a Word Document</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 7A: </strong>Control the Layout of a Page<br />
+    <strong>Topic 7B: </strong>Apply a Page Border and Color<br />
+    <strong>Topic 7C: </strong>Add Watermarks<br />
+    <strong>Topic 7D: </strong>Add Headers and Footers<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 8: Proofreading a Word Document</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 8A: </strong>Check Spelling and Grammar<br />
+    <strong>Topic 8B: </strong>Use the Thesaurus<br />
+    <strong>Topic 8C: </strong>Customize the AutoCorrect Options<br />
+  </p>
+</blockquote>

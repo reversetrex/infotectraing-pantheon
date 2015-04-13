@@ -1,0 +1,3 @@
+Learn how to configure the basic technologies of the NetApp Data ONTAP operating system—clustered Data ONTAP and Data ONTAP operating in 7-Mode. Through lectures and hands-on exercises, learn how to create aggregates, storage virtual machines (SVMs), virtual interfaces (VIFs), FlexVol volumes, qtrees, Snapshot copies, and more.
+<br><br>
+NOTE: The term "storage virtual machine (SVM)" is equivalent to the term "virtual server (Vserver)".

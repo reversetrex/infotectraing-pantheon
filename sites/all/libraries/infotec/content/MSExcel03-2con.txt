@@ -1,0 +1,49 @@
+<p><strong>Lesson 1: Creating and Applying Templates</strong></p>
+<ul>
+  <li>Create a Workbook from a Template</li>
+  <li>Create a Custom Template</li>
+  <li>Working with Comments</li>
+  <li>Create a Hyperlink</li>
+  <li>Use Web-based Research Tools</li>
+</ul>
+<p><strong>Lesson 2: Creating and Modifying Charts</strong></p>
+<ul>
+  <li>Create a Chart</li>
+  <li>Format Chart Items</li>
+  <li>Change the Chart Type</li>
+  <li>Create a Diagram</li>
+</ul>
+<p><strong>Lesson 3: Working with Graphic Objects</strong></p>
+<ul>
+  <li>Insert Graphics</li>
+  <li>Create AutoShapes</li>
+  <li>Format Graphic Objects</li>
+  <li>Change the Order of Graphic Objects</li>
+  <li>Group Graphic Objects</li>
+  <li>Move, Copy, and Resize Graphic Objects</li>
+</ul>
+<p><strong>Lesson 4: Calculating with Advanced Formulas</strong></p>
+<ul>
+  <li>Create and Apply a Name for a Range of Cells</li>
+  <li>Calculate Across Worksheets</li>
+  <li>Calculate with Date and Time Functions</li>
+  <li>Calculate with Financial Functions</li>
+  <li>Calculate with Statistical Functions</li>
+  <li>Calculate with Lookup and Reference Functions</li>
+  <li>Calculate with Logical Functions</li>
+</ul>
+<p><strong>Lesson 5: Sorting and Filtering Data</strong></p>
+<ul>
+  <li>Sort Data Lists</li>
+  <li>Filter Data Lists</li>
+  <li>Create and Apply Advanced Filters</li>
+  <li>Calculate with Database Functions</li>
+  <li>Add Subtotals to a Worksheet</li>
+</ul>
+<p><strong>Lesson 6: Using Excel with the Web</strong></p>
+<ul>
+  <li>Export Excel Data</li>
+  <li>Publish a Worksheet to the Web</li>
+  <li>Import Data from the Web</li>
+  <li>Create a Web Query</li>
+</ul>

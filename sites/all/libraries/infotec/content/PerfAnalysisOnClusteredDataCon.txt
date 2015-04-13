@@ -1,0 +1,38 @@
+<p><strong>Module 1: How a NetApp Storage System Works</strong></p>
+<ul>
+  <li>Describe the layers within the Data ONTAP architecture</li>
+  <li>List the advantages that are provided by the ability of WAFL to optimize writes</li>
+  <li>Explain the purpose of NVRAM</li>
+  <li>Diagram the flow of read and write requests through the network and protocol layers of Data ONTAP</li>
+  <li>Describe the benefits that RAID provides</li>
+</ul>
+<p><strong>Module 2: Performance Overview</strong></p>
+<ul>
+  <li>Define performance-related terms, such as &ldquo;baseline,&rdquo; &ldquo;bottleneck,&rdquo; &ldquo;Little&rsquo;s law,&rdquo; and &ldquo;latency&rdquo;</li>
+  <li>Describe baseline performance guidelines and methodologies as they relate to NetApp storage systems</li>
+</ul>
+<p><strong>Module 3: Clustered Storage System Workloads and Bottlenecks</strong></p>
+<ul>
+  <li>Gather information about the workload of an existing storage system</li>
+  <li>Identify the storage system components that can affect performance—become bottlenecks</li>
+</ul>
+<p><strong>Module 4: Cluster Performance Monitoring and Analysis</strong></p>
+<ul>
+  <li>Describe the performance analysis tools and commands that are commonly used for cluster health checks</li>
+  <li>Identify the key performance commands and describe the command output that they produce</li>
+  <li>Explain how to use NetApp tools for performance measurement</li>
+  <li>Describe the benefits of using the AutoSupport support tool for performance analysis</li>
+</ul>
+<p><strong>Module 5: OnCommand Management Tools</strong></p>
+<ul>
+  <li>List the three categories of performance tools</li>
+  <li>Explain the features and functions of Insight Perform</li>
+  <li>Explain the features and functions of OnCommand Balance</li>
+  <li>Use OnCommand management tools to view performance data</li>
+</ul>
+<p><strong>Module 6: Storage QoS</strong></p>
+<ul>
+  <li>Discuss how the Storage Quality of Service (QoS) feature works in a clustered Data ONTAP environment</li>
+  <li>Identify the commands that are used to manage policy groups</li>
+  <li>Monitor workload performance</li>
+</ul>

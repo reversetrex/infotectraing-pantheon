@@ -1,0 +1,41 @@
+<p><strong>Chapter 1 - Installation</strong></p>
+<ul>
+  <li>Prepare and partition the drive, install Mac OS X, use the installer log files to verify a successful installation, configure Mac OS X with the Setup Assistant, update software with Software Update and Installer, tips and techniques for troubleshooting an installation problem.
+  </li>
+</ul>
+<p><strong>Chapter 2 - User Accounts</strong></p>
+<ul>
+  <li>Create and manage user accounts, create and manage administrator accounts, locate directory attributes, security, password selection, Keychain, and FileVault.</li>
+</ul>
+<p><strong>Chapter 3 - File Systems</strong></p>
+<ul>
+  <li>File systems supported by Mac OS X, file and directory ownership and permissions, Disk Utility and file repair, using the command line for file management.</li>
+</ul>
+<p><strong>Chapter 4 - File Management</strong></p>
+<ul>
+  <li>The root volume, file system layout, preferences, frameworks, file types unique to Mac OS X (i.e., resource forks and packages), Spotlight, file archives, disk images. archiving and restoring data with Time Machine, managing backup data, how to access the data outside of Time Machine.</li>
+</ul>
+<p><strong>Chapter 5 - Applications</strong></p>
+<ul>
+  <li>Applications supported in Mac OS X, applications created with different developer APIs, the UNIX concept of a process, the relationship of processes and applications, tools to monitoring and managing processes, application preferences, and troubleshooting.</li>
+</ul>
+<p><strong>Chapter 6 - Network Configuration</strong></p>
+<ul>
+  <li>Basic networking configuration, TCP/IP networking, Ethernet, AirPort, multiple network connections, appropriate use of network locations, isolating and troubleshooting network elements.</li>
+</ul>
+<p><strong>Chapter 7 - Accessing Network Services</strong></p>
+<ul>
+  <li>Connecting to common network resources, Network Users accounts with Directory Services, AFP, SMB, SSH, FTP, and WebDAV connections, Bonjour, NetBIOS, the network browser, isolating client software issues from network issues.</li>
+</ul>
+<p><strong>Chapter 8 - Providing Network Services</strong></p>
+<ul>
+  <li>Enabling network services on a Mac OS X client, peer-to-peer collaboration, sharing files between Macs and Windows, sharing web documents, screen sharing, firewall as well as techniques to isolate server issues from client and network issues.</li>
+</ul>
+<p><strong>Chapter 9 - Peripherals</strong></p>
+<ul>
+  <li>Connecting peripherals to a Mac, cabling, connections, device drivers for common peripherals, managing printers, print-job management, printer PPDs and PDF workflow, techniques for isolating cabling, driver, or application issues.</li>
+</ul>
+<p><strong>Chapter 10 - Startup Process</strong></p>
+<ul>
+  <li>Troubleshooting boot issues with a Mac at startup, phases of the startup process, which part of the system is active during each phase, issues that can arise, automatic process launching with launched and login window startup items.</li>
+</ul>

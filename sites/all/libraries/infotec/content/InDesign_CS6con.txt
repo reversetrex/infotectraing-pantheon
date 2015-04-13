@@ -1,0 +1,41 @@
+<p><strong>Lesson 1: </strong>Getting Started with InDesign</p>
+<ul>
+  <li><strong>Topic A: </strong>Identify Components of the InDesign Interface</li>
+  <li><strong>Topic B: </strong>Customize the InDesign Interface</li>
+  <li><strong>Topic C: </strong>Use the Navigation Controls</li>
+  <li><strong>Topic D: </strong>Set Preferences</li>
+</ul>
+<p><strong>Lesson 2: </strong>Designing a Document</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a New Document</li>
+  <li><strong>Topic B: </strong>Add Text to a Document</li>
+  <li><strong>Topic C: </strong>Add Graphics to a Document</li>
+</ul>
+<p><strong>Lesson 3: </strong>Customizing a Document</p>
+<ul>
+  <li><strong>Topic A: </strong>Format Characters and Paragraphs</li>
+  <li><strong>Topic B: </strong>Apply Colors, Swatches, and Gradients</li>
+  <li><strong>Topic C: </strong>Create and Apply Styles</li>
+</ul>
+<p><strong>Lesson 4: </strong>Working with Page Elements</p>
+<ul>
+  <li><strong>Topic A: </strong>Arrange and Align Objects</li>
+  <li><strong>Topic B: </strong>Use Layers</li>
+  <li><strong>Topic C: </strong>Transform and Manipulate Objects</li>
+  <li><strong>Topic D: </strong>Thread Text Frames</li>
+  <li><strong>Topic E: </strong>Edit Text</li>
+</ul>
+<p><strong>Lesson 5: </strong>Building Tables</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a New Table</li>
+  <li><strong>Topic B: </strong>Modify a Table Structure</li>
+  <li><strong>Topic C: </strong>Format a Table</li>
+</ul>
+<p><strong>Lesson 6: </strong>Preparing a Document for Delivery</p>
+<ul>
+  <li><strong>Topic A: </strong>Resolve Errors in a Document</li>
+  <li><strong>Topic B: </strong>Print a Document</li>
+  <li><strong>Topic C: </strong>Package a Document</li>
+  <li><strong>Topic D: </strong>Export Files for Printing</li>
+  <li><strong>Topic E: </strong>Export Files for the Web</li>
+</ul>

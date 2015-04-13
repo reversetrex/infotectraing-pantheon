@@ -1,0 +1,52 @@
+<h2>Session 1</h2>
+  <h3>Section A: The CSR: A Powerful Choice</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>You are the Organization</li>
+    <li>The CSR's Job</li>
+    <li>The Quality Call</li>
+  </ul>
+  <h3>Section B: Gaining the Professional Edge</h3>
+  <ul>
+    <li>Manage Conversations</li>
+    <li>Maintain Knowledge</li>
+    <li>Be a Team Player</li>
+    <li>Remain Customer-Focused</li>
+    <li>Advocacy or Error?</li>
+    <li>Personal Responsibility</li>
+    <li>Make a Commitment</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: The All-Important Customer</h3>
+  <ul>
+    <li>Understanding the Customer</li>
+    <li>Analytical or Assertive?</li>
+    <li>What Do Customers Need?</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section D: Building Your Skills</h3>
+  <ul>
+    <li>Listening Effectively</li>
+    <li>Common Courtesy</li>
+    <li>Wrong Impressions</li>
+    <li>Using Common Language</li>
+    <li>Gathering Customer Info.</li>
+    <li>Open or Closed?</li>
+    <li>Angry Customers</li>
+    <li>You Take the Call</li>
+  </ul>
+  <h3>Section E: Building Your Skills (cont.)</h3>
+  <ul>
+    <li>Managing the Technology</li>
+    <li>Writing Effective E-mail</li>
+    <li>E-mail Aptitude</li>
+    <li>Preparing a Mental Script</li>
+    <li>Closing the Conversation</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section F: Attitude: An Important Asset</h3>
+  <ul>
+    <li>The Impact of Your Attitude</li>
+    <li>Plan for Self-Improvement</li>
+    <li>Conclusion</li>
+  </ul>

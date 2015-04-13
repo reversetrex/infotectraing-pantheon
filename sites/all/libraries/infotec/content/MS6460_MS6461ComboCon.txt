@@ -1,0 +1,23 @@
+<p><strong>6460:</strong></p>
+
+<p><strong>Module 1: Creating an Application by Using WPF</strong> - This module explains how to build a WPF application.</p>
+<p><strong>Module 2: Building User Interfaces</strong> - This module explains how to build a user interface in a WPF application.</p>
+<p><strong>Module 3: Customizing Appearance</strong> - This module explains how to customize the appearance of a WPF application.</p>
+<p><strong>Module 4: Data Binding</strong> - This module explains how to bind user interface controls to data sources.</p>
+<p><strong>Module 5: Data Binding to Collections</strong> - This module explains how to bind user interface controls to collections.</p>
+<p><strong>Module 6: Creating New Controls</strong> - This module explains how to create new controls in a WPF application.</p>
+<p><strong>Module 7: Managing Documents</strong> - This module explains how to manage documents in a WPF application.</p>
+<p><strong>Module 8: Graphics and Multimedia</strong> - This module explains how to add graphics and multimedia support to a WPF application.</p>
+<p><strong>Module 9: Configure and Deploy WPF Applications</strong> - This module explains how to configure and deploy WPF applications.</p>
+
+<p><strong>6461:</strong></p>
+
+<p><strong>Module 1: Getting Started with Windows Communication Foundation</strong> - This module explains how to build a simple WCF service and client.</p>
+<p><strong>Module 2: Configuring and Hosting WCF Services</strong> - This module explains how to create and configure a WCF service as a  managed application and select an appropriate hosting option.</p>
+<p><strong>Module 3: Endpoints and Behaviors</strong> - This module explains how to expose a WCF service over different  endpoints and add run-time functionality by using behaviors.</p>
+<p><strong>Module 4: Debugging and Diagnostics</strong> - This module explains how to improve debugging capabilities by examining  messages and service activity.</p>
+<p><strong>Module 5: Designing and Defining Contracts</strong> - This module explains how to define service, operation, and data contracts to meet application requirements.</p>
+<p><strong>Module 6: Handling Errors</strong> - This module explains how to add error handling to a WCF application.</p>
+<p><strong>Module 7: Improving WCF Service Quality</strong> - This module explains how to address service quality issues such as  performance, availability, concurrency, and instance management.</p>
+<p><strong>Module 8: Implementing WCF Security</strong> - This module explains how to implement security in a WCF application.</p>
+<p><strong>Module 9: Implementing Transactions</strong> - This  module explains how to protect data integrity through correct use of  transactions.</p>

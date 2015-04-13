@@ -1,0 +1,8 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Validate projects and validation groups.</li>
+    <li>Use forecast models.</li>
+    <li>Set up project invoicing parameters, funding sources, and funding limits.</li>
+    <li>Describe and run an advanced time and material project.</li>
+    <li>Describe and run an advanced fixed-price project.</li>
+</ul>

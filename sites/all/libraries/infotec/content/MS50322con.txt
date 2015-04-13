@@ -1,0 +1,49 @@
+<p><strong>Lesson 1: Installing Windows 7</strong></p>
+<ul>
+  <li>Introduction to Windows 7</li>
+  <li>Installing Windows 7 Using Image-Based Installation</li>
+  <li>Migrating User Settings</li>
+</ul>
+<p><strong>Lesson 2: Configure Hardware and Software</strong></p>
+<ul>
+  <li>Configure Devices</li>
+  <li>Configure Application Compatibility</li>
+</ul>
+<p><strong>Lesson 3: Configure the Network</strong></p>
+<ul>
+  <li>Configure General Network Settings</li>
+  <li>Managing Wireless Networks</li>
+  <li>Sharing Resources</li>
+  <li>Configure TCP/IP</li>
+  <li>Troubleshooting Network Connectivity</li>
+  <li>Configure Windows Firewall</li>
+  <li>Configure Remote Management</li>
+</ul>
+<p><strong>Lesson 4: Sharing and Securing Resources</strong></p>
+<ul>
+  <li>Configure Shared Resources</li>
+  <li>Configuring HomeGroup Settings</li>
+  <li>Configure User Account Control (UAC)</li>
+  <li>Configure Authentication and Authorization</li>
+  <li>Configure BranchCache</li>
+</ul>
+<p><strong>Lesson 5: Windows 7 and Mobile Computing</strong></p>
+<ul>
+  <li>Configure BitLocker and BitLocker To Go</li>
+  <li>Configuring DirectAccess</li>
+  <li>Configure Mobility Options</li>
+  <li>Configure Offline Files</li>
+  <li>Configure Remote Connections</li>
+</ul>
+<p><strong>Lesson 6: Monitoring and Maintaining Windows 7</strong></p>
+<ul>
+  <li>Configure Updates</li>
+  <li>Manage Disks</li>
+  <li>Monitor Systems</li>
+  <li>Configure Performance Settings</li>
+</ul>
+<p><strong>Lesson 7: Backup and Recovery</strong></p>
+<ul>
+  <li>Configure Backup</li>
+  <li>Configuring System Recovery Options</li>
+</ul>

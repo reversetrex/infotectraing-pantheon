@@ -1,0 +1,1 @@
+<p>The SNAF course is a five-day, leader-led, lab-intensive course. The course takes a task-oriented approach to teaching the skills to configure, operate, and manage Cisco Adaptive Security Appliance product family.</p>

@@ -1,0 +1,8 @@
+<ul>
+  <li>Module 1: Introduction to Network Security Principles </li>
+  <li>Module 2: Perimeter Security </li>
+  <li>Module 3: Network Security Using Cisco IOS Firewalls </li>
+  <li>Module 4: Site-to-Site VPNs </li>
+  <li>Module 5: Network Security Using Cisco IOS IPS </li>
+  <li>Module 6: LAN, SAN, Voice, and Endpoint Security Overview</li>
+</ul>

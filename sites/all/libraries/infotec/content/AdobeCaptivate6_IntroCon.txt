@@ -1,0 +1,75 @@
+<p><strong>Creating Effective eLearning lessons</strong></p>
+<ol>
+  <li>Education environment</li>
+  <li>Workspaces</li>
+  <li>Blank Projects</li>
+  <li>Default Workspaces</li>
+</ol>
+<p><strong>Recording demos and simulations</strong></p>
+<ol>
+  <li>Preparing to record</li>
+  <li>Multi-mode recording</li>
+  <li>Custom recording</li>
+  <li>Scripting</li>
+</ol>
+<p><strong>Captions, Styles and Timing</strong></p>
+<ol>
+  <li>Text captions and styles</li>
+  <li>Working with the timeline</li>
+  <li>Modifying text caption properties</li>
+  <li>Caption and object timings</li>
+</ol>
+<p><strong>Images and Drawing Objects</strong></p>
+<ol>
+  <li>Creating and editing images</li>
+  <li>Using the Library</li>
+  <li>Background color and images</li>
+</ol>
+<p><strong>Pointers, buttons and highlight boxes</strong></p>
+<ol>
+  <li>Mouse effects</li>
+  <li>Buttons</li>
+  <li>Highlight boxes</li>
+</ol>
+<p><strong>Rollover and zoom areas</strong></p>
+<ol>
+  <li>Rollover captions, images and slidelets</li>
+  <li>Zoom areas</li>
+</ol>
+<p><strong>Audio</strong></p>
+<ol>
+  <li>Voiceover audio</li>
+  <li>Sound effects</li>
+  <li>Text-to-speech</li>
+  <li>Importing audio</li>
+  <li>Add slide notes</li>
+</ol>
+<p><strong>Video, Animation, and Effects</strong></p>
+<ol>
+  <li>Video and Animation</li>
+  <li>Insert videos</li>
+  <li>Applying effects</li>
+</ol>
+<p><strong>Converting Demonstrations into Simulations</strong></p>
+<ol>
+  <li>Click Boxes and text entry boxes</li>
+  <li>Find and replace</li>
+</ol>
+<p><strong>Working with PowerPoint</strong></p>
+<ol>
+  <li>PowerPoint   collaboration</li>
+  <li>Rescaling</li>
+</ol>
+<p><strong>Introduction to Question Slides</strong></p>
+<ol>
+  <li>Setting up a quiz</li>
+  <li>Creating a quiz</li>
+  <li>Setting quiz preferences</li>
+</ol>
+<p><strong>Publishing</strong></p>
+<ol>
+  <li>Publishing</li>
+  <li>Creating a link to a website</li>
+  <li>Create a TOC</li>
+  <li>Publishing formats</li>
+</ol>

@@ -1,0 +1,14 @@
+<p>Upon successful completion of this course, students will have learned the following topics:</p>
+
+<ul>
+  <li>Building User-Defined Functions</li>
+  <li>Creating Custom Tags</li>
+  <li>Building Reusable Components</li>
+  <li>Creating Advanced ColdFusion Components</li>
+  <li>Improving the User Experience</li>
+  <li>Improving Performance</li>
+  <li>Working With PDF Files</li>
+  <li>ColdFusion Image Processing</li>
+  <li>Advanced ColdFusion Powered Ajax</li>
+  <li>Generating Non-HTML Content</li>
+</ul>

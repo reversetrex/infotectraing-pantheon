@@ -1,0 +1,63 @@
+<h2>Session 1</h2>
+  <h3>Section A: Organization</h3>
+  <ul>
+    <li>Computer Hardware Types</li>
+    <li>CPU</li>
+    <li>RAM</li>
+    <li>ROM</li>
+    <li>Erasable PROM</li>
+    <li>Memory Addressing</li>
+    <li>Cache Memory</li>
+    <li>Virtual Memory</li>
+  </ul>
+  <h3>Section B: Machine Operation</h3>
+  <ul>
+    <li>Hardware/Software</li>
+    <li>Machine Types</li>
+    <li>Execution Cycle</li>
+    <li>Scalar Processors</li>
+    <li>CPU Types</li>
+    <li>Capabilities</li>
+  </ul>
+  <h3>Section C: Operating Modes/Protection Mechanisms</h3>
+  <ul>
+    <li>Operating States</li>
+    <li>Operating Modes</li>
+    <li>Storage Types</li>
+    <li>Layering</li>
+    <li>Abstraction</li>
+    <li>Least Privilege</li>
+    <li>Accountability</li>
+    <li>Definitions</li>
+  </ul>
+  <h3>Section D: Evaluation Criteria</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Orange Book</li>
+    <li>TCSEC</li>
+    <li>Other Criteria</li>
+    <li>International Criteria</li>
+    <li>SEI-CMMI</li>
+  </ul>
+  <h3>Section E: Security Models</h3>
+  <ul>
+    <li>State Machine Model</li>
+    <li>Bell-LaPadula Model</li>
+    <li>Biba Model</li>
+    <li>Clark-Wilson Model</li>
+    <li>Information Flow Model</li>
+    <li>Noninterference Model</li>
+    <li>Graham-Denning Model</li>
+    <li>Harrison-Ruzzo-Ullman Model</li>
+    <li>Brewer-Nash Model</li>
+  </ul>
+  <h3>Section F: Common Flaws and Security Issues</h3>
+  <ul>
+    <li>Covert Channels</li>
+    <li>Initialization State</li>
+    <li>Parameter Checking</li>
+    <li>Maintenance Hooks</li>
+    <li>Programming</li>
+    <li>Timing Issues</li>
+    <li>EMR</li>
+  </ul>

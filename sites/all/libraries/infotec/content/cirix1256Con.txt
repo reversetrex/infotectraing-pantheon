@@ -1,0 +1,11 @@
+<p>Unit 1: Introducing and installing Citrix Presentation Server<strong></strong></p>
+<p>Unit 2: Installing and Configuring the Citrix Presentation Server Clients<strong></strong></p>
+<p>Unit 3: Configuring ICA Connections and Sessions<strong></strong></p>
+<p>Unit 4: Managing Server and Server Farm Settings<strong></strong></p>
+<p>Unit 5: Publishing Resources<strong></strong></p>
+<p>Unit 6: Configuring Citrix Presentation Server Policies<strong></strong></p>
+<p>Unit 7: Configuring Load manager<strong></strong></p>
+<p>Unit 8: Deploying applications with installation manager<strong></strong></p>
+<p>Unit 9: Configuring Printing<strong></strong></p>
+<p>Unit 10: Enabling Web Access to Published resources<strong></strong></p>
+<p>Unit 11: Securing Access to Published Resources</p>

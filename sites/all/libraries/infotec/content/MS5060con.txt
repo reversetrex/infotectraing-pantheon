@@ -1,0 +1,7 @@
+<ul>
+  <li><strong>Module 1: Introduction to the Windows SharePoint Services 3.0 Platform</strong></li>
+  <li><strong>Module 2: Planning the  Windows SharePoint Services 3.0 Environment</strong></li>
+  <li><strong>Module 3: Installing  Windows SharePoint Services 3.0</strong></li>
+  <li><strong>Module 4: Upgrading from  Windows SharePoint Services 2.0 to 3.0</strong></li>
+  <li><strong>Module 5: Managing Windows SharePoint Services 3.0</strong></li>
+</ul>

@@ -1,0 +1,7 @@
+Upon successful completion of this course, students will be able to:
+<ul>
+  <li>explore the new interface components of PowerPoint and customize the   PowerPoint environment.</li>
+  <li>enhance a presentation by applying custom layouts and themes.</li>
+  <li>create dynamic presentations by applying advanced text and graphic effects.</li>
+  <li>finalize a presentation by customizing slide shows, securing the presentation, and saving the presentation.</li>
+</ul>

@@ -1,0 +1,10 @@
+<p> After completing this course, the student should be able to: </p>
+<ul>
+  <li> Configure a Catalyst switch for basic operations, given a need for plug-and-play operationn </li>
+  <li> Configure and troubleshoot Virtual LANs (VLANs), given an operational access layer switch </li>
+  <li> Configure and troubleshoot Routing Information Protocol (RIP), Interior Gateway Routing Protocol (IGRP), Enhanced Interior Gateway Routing Protocol (EIGRP), and Open Shortest Path First (OSPF), given operational routers </li>
+  <li> Configure IP access lists, given a functioning router </li>
+  <li> Configure serial interfaces using PPP and High-Level Data Link Control (HDLC), given a functioning router </li>
+  <li> Configure Frame Relay, given functioning Cisco routers </li>
+  <li>Configure DDR between two routers with Basic Rate interface (BRI) or Primary Rate Interface (PRI), given a functioning remote access router and a physical ISDN connecti on</li>
+</ul>

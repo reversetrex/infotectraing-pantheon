@@ -1,0 +1,1 @@
+The goal of the IUWNE v1.0 is to provide students with information and practice activities to prepare them to help design, install, configure, monitor and conduct basic troubleshooting tasks of a Cisco WLAN in SMB and Enterprise installations.

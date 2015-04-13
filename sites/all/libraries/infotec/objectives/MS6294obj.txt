@@ -1,0 +1,16 @@
+<p>After  completing this course, students will be able to:</p>
+
+<ul>
+  <li>Prepare to deploy Windows 7 business desktops.</li>
+  <li>Assess and resolve application compatibility issues with Windows 7.</li>
+  <li>Determine the most appropriate method to deploy Windows 7 based upon specific business requirements.</li>
+  <li>Design a standard Windows 7 image by assessing and evaluating the business requirements.</li>
+  <li>Deploy Windows 7 by using WAIK.</li>
+  <li>Deploy Windows 7 by using WDS.</li>
+  <li>Deploy Windows 7 by using Lite Touch Installation.</li>
+  <li>Deploy Windows 7 by using Zero Touch Installation.</li>
+  <li>Migrate user state by using Windows Easy Transfer and User State Migration Tool 4.0.</li>
+  <li>Design, configure, and manage the Windows 7 client environment.</li>
+  <li>Plan and deploy applications and updates to Windows 7 client computers.</li>
+  <li>Plan  and deploy Windows 7 by using LTI. (Lab-Only Module)</li>
+</ul>

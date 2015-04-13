@@ -1,0 +1,215 @@
+<h2>Session 1</h2>
+  <h3>Section A: Getting Started</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Configuring Outlook</li>
+    <li>Adding an E-mail Account</li>
+    <li>POP and IMAP Settings</li>
+    <li>Interface Overview</li>
+    <li>Startup Options</li>
+  </ul>
+  <h3>Section B: Manipulate Outlook Options</h3>
+  <ul>
+    <li>General Options</li>
+    <li>Customizing the Quick Access Toolbar</li>
+    <li>Customizing the Ribbon</li>
+    <li>Language Options</li>
+  </ul>
+  <h3>Section C: Managing Outlook Views</h3>
+  <ul>
+    <li>The Navigation Pane</li>
+    <li>Arranging Content Panes</li>
+    <li>The Reading Pane</li>
+    <li>To-Do Bar Options</li>
+    <li>Screen Resolution Considerations</li>
+  </ul>
+  <h3>Section D: E-mail Organization Techniques</h3>
+  <ul>
+    <li>Organizing with Custom Folders</li>
+    <li>Using Categories</li>
+    <li>Read vs. Unread</li>
+    <li>Viewing Message Properties</li>
+    <li>E-mail Follow Up</li>
+  </ul>
+  <h3>Section E: Search and Filter Tools</h3>
+  <ul>
+    <li>Basic Searches</li>
+    <li>Changing Search Options</li>
+    <li>Recent Searches</li>
+    <li>Search Folders</li>
+  </ul>
+  <h3>Section F: Create and Format E-mails</h3>
+  <ul>
+    <li>Composing E-mail</li>
+    <li>Message Themes</li>
+    <li>Theme or Stationery Options</li>
+    <li>Formatting Text</li>
+    <li>Changing Sentence Case</li>
+    <li>Font Style and Justification</li>
+  </ul>
+  <h3>Section G: Insert Content and Graphical Elements</h3>
+  <ul>
+    <li>Quick Parts</li>
+    <li>Inserting Images</li>
+    <li>Inserting Charts</li>
+    <li>Paste Special</li>
+    <li>Inserting Hyperlinks</li>
+    <li>Inserting Symbols and Horizontal Lines</li>
+    <li>Creating a Signature</li>
+    <li>Managing Signatures</li>
+  </ul>
+  <h3>Section H: Message Send Options</h3>
+  <ul>
+    <li>Addressing Options</li>
+    <li>AutoComplete</li>
+    <li>Hiding Receiver Addresses</li>
+    <li>Specifying Sender Account</li>
+    <li>Sent Items Folder</li>
+    <li>Drafts Folder</li>
+    <li>Flagging Messages</li>
+    <li>Delivery Options</li>
+    <li>Voting and Tracking Options</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Managing E-mails and Mailboxes</h3>
+  <ul>
+    <li>Working with Attachments</li>
+    <li>Attaching Files to E-mail</li>
+    <li>Mailbox Size Considerations</li>
+    <li>Mailbox Cleanup</li>
+    <li>Save Attachments</li>
+    <li>Remove Attachments</li>
+    <li>Recover Attachments</li>
+    <li>Lost Attachments</li>
+    <li>Backing Up Outlook Data Files</li>
+    <li>Restore Outlook Data Files</li>
+  </ul>
+  <h3>Section B: Managing Conversations</h3>
+  <ul>
+    <li>Conversations View</li>
+    <li>Ignore Conversations</li>
+    <li>Clean Up Conversations</li>
+  </ul>
+  <h3>Section C: Managing Rules</h3>
+  <ul>
+    <li>Creating Mail Rules</li>
+    <li>Rule Exceptions</li>
+    <li>Manage and Edit Rules</li>
+  </ul>
+  <h3>Section D: Quick Steps</h3>
+  <ul>
+    <li>Quick Steps vs. Macros</li>
+    <li>Creating Quick Steps</li>
+    <li>Manage and Edit</li>
+    <li>Edit, Delete, and Duplicate</li>
+    <li>Reset to Defaults</li>
+  </ul>
+  <h3>Section E: Managing Junk Mail</h3>
+  <ul>
+    <li>Junk Mail</li>
+    <li>Junk E-mail Options</li>
+    <li>Safe Senders</li>
+    <li>Safe Recipients</li>
+    <li>Blocked Senders</li>
+    <li>International Options</li>
+    <li>Allow Specific Messages</li>
+  </ul>
+  <h3>Section F: RSS Feeds and Social Networking</h3>
+  <ul>
+    <li>RSS</li>
+    <li>RSS Subscription</li>
+    <li>Unsubscribe RSS Feeds</li>
+    <li>People Pane</li>
+    <li>Connect to Social Networks</li>
+    <li>Text Messaging</li>
+    <li>Third-Party Providers</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Working with Contacts</h3>
+  <ul>
+    <li>Contact Mode</li>
+    <li>Create New Contact</li>
+    <li>Add Contact Information</li>
+    <li>Contact List View Options</li>
+    <li>Forward Contacts</li>
+    <li>Update a Contact</li>
+    <li>Suggested Contacts</li>
+    <li>Import Contact List</li>
+  </ul>
+  <h3>Section B: Business Cards and Contact Groups</h3>
+  <ul>
+    <li>Modify a Business Card</li>
+    <li>Create New Contact Group</li>
+    <li>Manage Contact Groups</li>
+    <li>Forward Contact Groups</li>
+    <li>Update Contacts and Groups</li>
+    <li>Add Notes to Groups</li>
+  </ul>
+  <h3>Section C: Working with the Calendar Pane</h3>
+  <ul>
+    <li>Arrange Calendar Views</li>
+    <li>Calendar Options</li>
+    <li>Holidays</li>
+    <li>Calendar Color</li>
+    <li>Display and Hide Calendars</li>
+    <li>E-mail Calendars</li>
+    <li>Calendar Groups</li>
+  </ul>
+  <h3>Section D: Managing Appointments and Events</h3>
+  <ul>
+    <li>Create a New Appointment</li>
+    <li>Appointment Viewing Options</li>
+    <li>Recurring Appointments</li>
+    <li>Set Reminders</li>
+    <li>Add Mail to Calendars</li>
+    <li>Forward Appointments</li>
+  </ul>
+  <h3>Section E: Meeting Requests</h3>
+  <ul>
+    <li>Create Meeting Request</li>
+    <li>Attach File</li>
+    <li>Add Attendees</li>
+    <li>Add Resources</li>
+    <li>Change Meeting Time</li>
+    <li>Set Response Options</li>
+    <li>Update Meeting Request</li>
+    <li>Cancel Meeting</li>
+    <li>Propose New Meeting Time</li>
+  </ul>
+  <h3>Section F: Managing Tasks</h3>
+  <ul>
+    <li>Task Options</li>
+    <li>Create a New Task</li>
+    <li>Assign Task</li>
+    <li>Task Status Report</li>
+    <li>Update Assigned Task</li>
+    <li>Move to Another Folder</li>
+    <li>Task Views</li>
+    <li>Saved Views</li>
+  </ul>
+  <h3>Section G: Working with Notes</h3>
+  <ul>
+    <li>Launch Notes</li>
+    <li>Create and Save Notes</li>
+    <li>Organize Notes</li>
+    <li>Notes Views</li>
+    <li>Categorize Notes</li>
+  </ul>
+  <h3>Section H: Working with Journals</h3>
+  <ul>
+    <li>Launch the Journal</li>
+    <li>Manual Journal Entry</li>
+    <li>Journal Options</li>
+    <li>Journal Views</li>
+    <li>Edit Journal Entries</li>
+    <li>Memory Options</li>
+  </ul>
+  <h3>Section I: Spelling and Printing</h3>
+  <ul>
+    <li>Spell Check</li>
+    <li>Spell Check Language Options</li>
+    <li>Spell Check Options</li>
+    <li>Print E-mail</li>
+    <li>Print Outlook Items</li>
+    <li>Print Attachments</li>
+  </ul>

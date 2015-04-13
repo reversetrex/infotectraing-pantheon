@@ -1,0 +1,24 @@
+<p><strong> Unit 1: Introduction to COM+ Services <br>
+</strong>This Unit covers the evolution of applications from monolithic applications to client/server applications to component-based applications and the supporting application infrastructure that COM+ services provides. The Unit also covers the COM+ runtime architecture and how it uses surrogates, context, and interception to provide services to components. </p>
+<p><strong> Unit 2: Configuring Just-in-Time Activation and Synchronization <br>
+</strong>This Unit describes the attributes that you can assign to components and how to write a serviced component. This Unit also describes how to access the object context from within code, JIT activation, synchronization, the relationship between synchronization and JIT activation, and how you can set JIT activation and synchronization for a component.</p>
+<p><strong> Unit 3: Using ADO.NET to Work With Data <br>
+</strong>This Unit describes how to run a query and retrieve a result set by using ADO.NET. The Unit also covers how to pass parameters to a stored procedure, create typed <strong>DataSet</strong> objects, and use construction strings to specify connection information to establish a connection to a data source.</p>
+<p><strong> Unit 4: Transaction Services <br>
+</strong>This Unit describes transaction processing, how it is implemented in .NET Enterprise Services, and how you add attributes to code to enable transaction processing.</p>
+<p><strong> Unit 5: Securing Enterprise Applications <br>
+</strong>This Unit explains how to implement role-based security in serviced components by using .NET Enterprise Services.</p>
+<p><strong> Unit 6: State Management <br>
+</strong>This Unit describes how to manage state in .NET Enterprise Services. It explains how to use the Shared Property Manager (SPM) to store state, use ASP.NET applications to store application and session state, and use ASP.NET caching.</p>
+<p><strong> Unit 7: Compensating Resource Managers <br>
+</strong>This Unit describes the architecture of CRMs and how to implement CRMs.</p>
+<p><strong> Unit 8: Loosely Coupled Events <br>
+</strong>This Unit describes the architecture of LCEs and the LCE system. This Unit also describes how to configure and implement publishers, subscribers, and event classes.</p>
+<p><strong> Unit 9: Queued Components <br>
+</strong>In this Unit, you will learn the benefits of asynchronous messaging in a distributed systems environment. You will also learn how the COM+ Queued Components service allows developers to call methods on serviced components in an asynchronous fashion by using the underlying services of Windows XP Message Queuing. Finally, you will learn how messages can be sent and received with the protection of a transaction.</p>
+<p><strong> Unit 10: Debugging COM+ Applications <br>
+</strong>In this Unit, you will learn how to debug applications that use .NET Enterprise Services.</p>
+<p><strong> Unit 11: Deploying and Administering COM+ Applications <br>
+</strong>This Unit introduces the <strong>COMAdmin</strong> objects and additional techniques and tools for deploying and administering COM+ applications. It describes the advantages and drawbacks of each technique so that students can select the one most appropriate for your application. <strong>&nbsp;</strong></p>
+<p><strong> Unit 12: COM+ 1.5 Enhancements</strong><br>
+This Unit explains how to use new COM+ version 1.5 features that help you manage, scale, and maximize the uptime of your COM+ application more efficiently. The Unit also explains how to use .NET Enterprise Services without having to implement serviced components. </p>

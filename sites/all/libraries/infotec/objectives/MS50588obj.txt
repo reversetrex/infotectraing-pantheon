@@ -1,0 +1,11 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Gain an understanding of how Office 365 can make them productive with Outlook, Lync and SharePoint integrated.</li>
+    <li>Access and work with mail using Outlook Web Access (OWA).</li>
+    <li>Work with new features available using Exchange 2010 with Outlook 2010.</li>
+    <li>Contact a Co-Worker from within Outlook using Lync.</li>
+    <li>Collaborate with people inside and outside the company using Lync.</li>
+    <li>Collaborate with others through SharePoint.</li>
+    <li>Work with a Team Site and view information within Outlook.</li>
+    <li>Update a document using SharePoint Web Apps.</li>
+</ul>

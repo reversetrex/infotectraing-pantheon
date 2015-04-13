@@ -1,0 +1,3 @@
+Citrix XenApp 6.5 Basic Administration provides the foundation necessary for administrators to effectively centralize and manage applications in the datacenter and instantly deliver them as a service to users anywhere. You will receive training for installing and configuring Citrix XenApp 6.5 for Windows Server 2008 R2, Citrix Receiver and plug-ins, as well as for using administrative consoles and tools to configure resources, policies, server and farm settings, printers, virtualized applications, and more.<br/><br/>
+
+This course includes an exam voucher for Exam A20 Citrix XenApp 6.5 Administration, the requirement for the CCA for Citrix XenApp 6.

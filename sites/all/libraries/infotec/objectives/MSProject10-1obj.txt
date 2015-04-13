@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Identify the basic features and components of  the Microsoft Project environment.</li>
+  <li>Create a new project plan file and enter project information.</li>
+  <li>Manage tasks by organizing tasks and setting task relationships.</li>
+  <li>Manage resources for a project.</li>
+  <li>Finalize a project plan.</li>
+</ul>

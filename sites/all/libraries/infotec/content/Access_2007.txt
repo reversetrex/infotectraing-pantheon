@@ -1,0 +1,305 @@
+<h2>Session 1</h2>
+  <h3>Section A: Understanding Access</h3>
+  <ul>
+    <li>What Is Access?</li>
+    <li>Access vs. Excel</li>
+    <li>Components, Objects, and Terms</li>
+    <li>Changes In 2007</li>
+  </ul>
+  <h3>Section B: Getting Started</h3>
+  <ul>
+    <li>Application Overview</li>
+    <li>Using Templates</li>
+    <li>Using the Ribbon</li>
+    <li>The Navigation Pane</li>
+    <li>Shortcut to Forms</li>
+    <li>Finding Help</li>
+  </ul>
+  <h3>Section C: Using the Navigation Pane Effectively</h3>
+  <ul>
+    <li>Group View Options</li>
+    <li>Item View Options</li>
+    <li>Organizing Items</li>
+    <li>Navigation Options</li>
+    <li>Table Views</li>
+    <li>Query and Form Views</li>
+    <li>Report and Macro Views</li>
+  </ul>
+  <h3>Section D: Data Entry</h3>
+  <ul>
+    <li>Working with Records</li>
+    <li>Entering and Editing Records Data</li>
+    <li>Deleting Records</li>
+    <li>Sorting Data In Records</li>
+    <li>Finding Data in Records</li>
+    <li>Entering Data In Forms</li>
+  </ul>
+  <h3>Section E: Database Design</h3>
+  <ul>
+    <li>Design Steps</li>
+    <li>Purpose</li>
+    <li>Tables</li>
+    <li>Fields</li>
+    <li>Relationships</li>
+    <li>Primary Key</li>
+    <li>Making the Relationship</li>
+    <li>Naming Conventions</li>
+    <li>Design Cleanup</li>
+    <li>Example: Purpose and Tables</li>
+    <li>Example: Primary Key and Relationships</li>
+  </ul>
+  <h3>Section F: Creating Databases and Tables</h3>
+  <ul>
+    <li>Create Blank Database</li>
+    <li>Datasheet View</li>
+    <li>Saving Tables</li>
+    <li>Table Templates</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Working with Tables</h3>
+  <ul>
+    <li>Design View</li>
+    <li>Text and Memo Data Types</li>
+    <li>Number Data Types</li>
+    <li>AutoNumber Data Types</li>
+    <li>Yes/No Data Types</li>
+    <li>Data Beyond the Database</li>
+    <li>Creating Tables</li>
+    <li>Setting Primary Keys</li>
+  </ul>
+  <h3>Section B: Field Properties</h3>
+  <ul>
+    <li>Field Properties Overview</li>
+    <li>Modifying Fields</li>
+    <li>Text Field Properties</li>
+    <li>Number Field Properties</li>
+    <li>Validation Rules</li>
+    <li>Arranging and Deleting Fields</li>
+    <li>Viewing Changes</li>
+    <li>Validation Text</li>
+    <li>More Field Properties</li>
+    <li>Memo Fields</li>
+    <li>Attachment Fields</li>
+    <li>Input Masks</li>
+  </ul>
+  <h3>Section C: Lookup Fields</h3>
+  <ul>
+    <li>Creating Lookups</li>
+    <li>Design View Lookups</li>
+    <li>Lookup Properties</li>
+  </ul>
+  <h3>Section D: Relationship Theory</h3>
+  <ul>
+    <li>Relationship Basics</li>
+    <li>Beyond Relationship Basics</li>
+    <li>Relationship Types</li>
+    <li>Putting Relationship Theory Together</li>
+  </ul>
+  <h3>Section E: Creating Relationships</h3>
+  <ul>
+    <li>Viewing Relationships</li>
+    <li>Building and Modifying Relationships</li>
+    <li>Relationship Reports</li>
+    <li>Joining Table Properties</li>
+  </ul>
+  <h3>Section F: Analyzing Design</h3>
+  <ul>
+    <li>Cleaning Up</li>
+    <li>Formatting Datasheets</li>
+    <li>Hiding Columns</li>
+    <li>Rearranging Fields</li>
+    <li>Performance Analyzer</li>
+  </ul>
+  <h3>Section G: Subdatasheets and Filters</h3>
+  <ul>
+    <li>Adding Subdatasheets</li>
+    <li>Subdatasheet Display</li>
+    <li>Removing Subdatasheets</li>
+    <li>Filtering by Selection</li>
+    <li>Number Filtering</li>
+    <li>Filtering by Form</li>
+    <li>Advanced Filters</li>
+    <li>Total Row Summaries</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Query Basics</h3>
+  <ul>
+    <li>Query Wizard</li>
+    <li>Selecting Data Sources</li>
+    <li>Selecting Fields</li>
+    <li>Sorting Fields</li>
+    <li>Arranging Fields</li>
+    <li>Criteria</li>
+    <li>Comparison Criteria</li>
+    <li>Range Criteria</li>
+  </ul>
+  <h3>Section B: Intermediate Queries</h3>
+  <ul>
+    <li>Field Properties</li>
+    <li>Query Properties</li>
+    <li>Unique List</li>
+    <li>Outputting All Fields</li>
+    <li>Removing Tables</li>
+    <li>Multiple Table Queries</li>
+    <li>Query Relationships</li>
+  </ul>
+  <h3>Section C: Calculation in Queries</h3>
+  <ul>
+    <li>Adding Fields</li>
+    <li>Calculation Fields</li>
+    <li>Null Values</li>
+    <li>Totals</li>
+    <li>Expression Builder</li>
+  </ul>
+  <h3>Section D: Special Queries</h3>
+  <ul>
+    <li>Crosstab Queries</li>
+    <li>Modifying Crosstab Queries</li>
+    <li>Finding Duplicate Records</li>
+    <li>Finding Unmatched Records</li>
+    <li>Parameter Queries</li>
+    <li>Range Parameters</li>
+    <li>SQL View</li>
+  </ul>
+  <h3>Section E: Action Queries</h3>
+  <ul>
+    <li>Updating Queries</li>
+    <li>Creating Table Copies</li>
+    <li>Creating Table Queries</li>
+    <li>Saving Action Queries</li>
+    <li>Archiving Records</li>
+    <li>Deleting Queries</li>
+    <li>Deleting Tables</li>
+  </ul>
+  <h3>Section F: Concatenation</h3>
+  <ul>
+    <li>What is Concatenation?</li>
+    <li>Concatenating Data</li>
+    <li>Reviewing Concatenation</li>
+    <li>Concatenation Examples</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Importing/Exporting Data</h3>
+  <ul>
+    <li>Importing Data</li>
+    <li>Importing Objects</li>
+    <li>Importing from Excel</li>
+    <li>Making Changes</li>
+    <li>Exporting Data</li>
+    <li>Add-Ins</li>
+    <li>Save as PDF or XPS</li>
+  </ul>
+  <h3>Section B: Using Mail Merge</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Mail Merge Wizard</li>
+    <li>Creating a Merge Letter</li>
+    <li>Sharing Outlook Contacts</li>
+    <li>Importing Outlook Folders</li>
+    <li>Collaboration</li>
+  </ul>
+  <h3>Section C: Basic Forms</h3>
+  <ul>
+    <li>Lookup Tables</li>
+    <li>Form Wizard</li>
+    <li>Form Tools</li>
+    <li>Layout View</li>
+  </ul>
+  <h3>Section D: Form Controls</h3>
+  <ul>
+    <li>Design View</li>
+    <li>Controls</li>
+    <li>Move Controls</li>
+    <li>Selecting Multiple Controls</li>
+    <li>Arranging Controls</li>
+  </ul>
+  <h3>Section E: Form Design</h3>
+  <ul>
+    <li>Font Formatting</li>
+    <li>Conditional Formatting</li>
+    <li>Control Types</li>
+    <li>Query by Form</li>
+    <li>Check Boxes</li>
+    <li>Bind Controls</li>
+    <li>Properties</li>
+  </ul>
+  <h3>Section F: Special Forms</h3>
+  <ul>
+    <li>Split Forms</li>
+    <li>Subforms</li>
+    <li>Subform Relationships</li>
+    <li>Creating Subforms</li>
+    <li>PivotTable Forms</li>
+    <li>Calculations</li>
+    <li>Filtering PivotTables</li>
+  </ul>
+  <h3>Section G: Reports</h3>
+  <ul>
+    <li>AutoReports</li>
+    <li>Report Wizard</li>
+    <li>Grouping and Sorting</li>
+    <li>Adding Pictures</li>
+    <li>Page Breaks</li>
+    <li>Label Wizard</li>
+    <li>Charts</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Controlling Display and Data Entry</h3>
+  <ul>
+    <li>Form Properties</li>
+    <li>Display Options</li>
+    <li>Data Entry Options</li>
+    <li>Lock Controls</li>
+    <li>Bang and Dot Operator</li>
+    <li>Query Aliases</li>
+    <li>Query Parameters</li>
+    <li>Dynamic Reports</li>
+  </ul>
+  <h3>Section B: Access Automation</h3>
+  <ul>
+    <li>Remove Grouping</li>
+    <li>Control Wizard</li>
+    <li>Switchboard Manager</li>
+    <li>Edit Switchboard Pages</li>
+    <li>Edit Main Switchboard</li>
+    <li>Customize Switchboards</li>
+  </ul>
+  <h3>Section C: Custom Automation</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Unbound Forms</li>
+    <li>Add Record</li>
+    <li>Message Box</li>
+    <li>Close Form</li>
+    <li>Close Database</li>
+    <li>Modal Dialog Form</li>
+  </ul>
+  <h3>Section D: Working with the File</h3>
+  <ul>
+    <li>Custom Navigation Pane</li>
+    <li>Arranging Objects</li>
+    <li>Database Properties</li>
+    <li>Access Options</li>
+    <li>Current Database Options</li>
+    <li>Compact and Repair</li>
+    <li>Back Up Database</li>
+    <li>Database Splitter</li>
+    <li>Linked Table Manager</li>
+  </ul>
+  <h3>Section E: Security</h3>
+  <ul>
+    <li>Security Types</li>
+    <li>Password Protection</li>
+    <li>User-Level Permissions</li>
+    <li>Creating User-Level Permissions</li>
+    <li>Security Tips</li>
+  </ul>
+  <h3>Section F: Sharing Information</h3>
+  <ul>
+    <li>Printing Tables</li>
+    <li>Printing Forms</li>
+    <li>Printing Reports</li>
+    <li>Output as File</li>
+    <li>Database Documenter</li>
+    <li>Save as Previous Version</li>
+  </ul>

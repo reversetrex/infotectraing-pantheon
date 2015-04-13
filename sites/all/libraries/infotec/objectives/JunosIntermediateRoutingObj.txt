@@ -1,0 +1,26 @@
+<p>After successfully completing this course, you should be able to:</p>
+<ul>
+  <li>Describe typical uses of static, aggregate, and generated routes</li>
+  <li>Configure and monitor static, aggregate, and generated routes</li>
+  <li>Explain the purpose of Martian routes and add new entries to the default list</li>
+  <li>Describe typical uses of routing instances</li>
+  <li>Configure and share routes between routing instances</li>
+  <li>Describe load-balancing concepts and operations</li>
+  <li>Implement and monitor Layer 3 load balancing</li>
+  <li>Illustrate benefits of filter-based forwarding</li>
+  <li>Configure and monitor filter-based forwarding</li>
+  <li>Explain the operations of OSPF</li>
+  <li>Describe the role of the designated router</li>
+  <li>List and describe OSPF area types</li>
+  <li>Configure, monitor, and troubleshoot OSPF</li>
+  <li>Describe BGP and its basic operations</li>
+  <li>Name and describe common BGP attributes</li>
+  <li>List the steps in the BGP route selection algorithm</li>
+  <li>Describe BGP peering options and the default route advertisement rules</li>
+  <li>Configure and monitor BGP</li>
+  <li>Describe IP tunneling concepts and applications</li>
+  <li>Explain the basic operations of generic routing encapsulation (GRE) and IP over IP (IP-IP) tunnels</li>
+  <li>Configure and monitor GRE and IP-IP tunnels</li>
+  <li>Describe various high availability features supported by the Junos OS</li>
+  <li>Configure and monitor some of the highlighted high availability features</li>
+</ul>

@@ -1,0 +1,31 @@
+<p><strong>Module 1: Overview</strong> - This module gives an overview of SharePoint 2007 web development.</p>
+
+<p><strong>Module 2: ASPNET</strong> - This module explores the basic components of ASPNET, including controls, master pages, data access, and web parts.</p>
+
+<p><strong>Module 3: Localization</strong> - This module explains localization, and  more specifically, SharePoint localization.</p>
+
+<p><strong>Module 4: CSS</strong> - This module explains CSS and how to use it with SharePoint.</p>
+
+<p><strong>Module 5: XSLT</strong> - This module explains what XSLT is and covers its elements and functions.</p>
+
+<p><strong>Module 6: AJAX</strong> - This module introduces AJAX and Client Side Scripts.</p>
+
+<p><strong>Module 7: SharePoint Architecture</strong> - This module explains SharePoint architecture, the role of IIS and ASP.NET, and content databases.</p>
+
+<p><strong>Module 8: In Context Web Applications</strong> - This module explains web applications and how to create them.</p>
+
+<p><strong>Module 9: Debugging SharePoint</strong> - This module covers SharePoint debugging and the logs directory.</p>
+
+<p><strong>Module 10: In Browser Customizations</strong> - This module explains how to use the SharePoint UI to customize pages.</p>
+
+<p><strong>Module 11: SharePoint Designer</strong> - This module describes reports, data views, and workflows using SharePoint Designer.</p>
+
+<p><strong>Module 12: SharePoint Web Development</strong> - This module covers web development using SharePoint, including user controls and pages.</p>
+
+<p><strong>Module 13: Using CAML</strong> - This module explains the use of CAML for creating site definitions such as templates and themes.</p>
+
+<p><strong>Module 14: Features</strong> - This module covers the many features of SharePoint.</p>
+
+<p><strong>Module 15: Making An Internet Site</strong> - This module explains how to create an Internet site.</p>
+
+<p><strong>Module 16: Content Deployment Features</strong> - This module explains how to deploy content and how to create and use variations.</p>

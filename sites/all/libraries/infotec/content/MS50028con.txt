@@ -1,0 +1,21 @@
+<p><strong>Module 1: Installing System Center  Operations Manager</strong> - This  module explains how to install management servers and configure a clustered  Root Management Server.</p>
+
+<p><strong>Module 2: Using the Operations Console</strong> - This  module explains how to use the Operations Console, create Operator Accounts, use the Web Console and create Views.</p>
+
+<p><strong>Module 3: Configuring Management Group and Agent Settings</strong> - This module explains how to define the default management group and agent settings, override the default settings for a management server and agents, and create notifications to be sent when alerts appear.</p>
+
+<p><strong>Module 4: Agent Installation</strong> - This module explains how to install and configure the agent.</p>
+
+<p><strong>Module 5: Management Packs</strong> - This module explains how to import, export, and manage management packs.</p>
+
+<p><strong>Module 6: Reporting</strong> - This module explains how to install and configure Reporting Services and build the appropriate models for Operations Manager monitoring.</p>
+
+<p><strong>Module 7: Agentless Exception Monitoring</strong> - This module explains how to configure the settings and group policy options for  Agentless Exception Monitoring.</p>
+
+<p><strong>Module 8: Audit Collection Services</strong> - This module explains how to configure Audit Collection Services so that security  auditing can be centralized within the organization.</p>
+
+<p><strong>Module 9: Using Operations Manager 2007 Command Shell</strong> - This module explains how to use the new Windows PowerShell-based commands to manage the management group.</p>
+
+<p><strong>Module 10: Complex Environments</strong> - This module explains how to multi-home agents, work with agents in untrusted domains and configure a hierarchy of management groups.</p>
+
+<p><strong>Module 11: Migrating from MOM 2005 to Operations Manager 2007</strong> - This module explains how to use the tools required to migrate the agents and setting from the MOM 2005 management group to the Operations Manager 2007  management group.</p>

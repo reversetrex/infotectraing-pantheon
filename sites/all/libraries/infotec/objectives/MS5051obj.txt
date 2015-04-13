@@ -1,0 +1,9 @@
+<ul>
+  <li>Use the Microsoft Exchange Server 2007 Management Pack for Microsoft Operations Manager (MOM) 2005 to monitor Exchange servers.</li>
+  <li>Monitor and troubleshoot client performance and connectivity.</li>
+  <li>Identify and resolve issues related to access of resources and messages.</li>
+  <li>Monitor and troubleshoot mail flow.</li>
+  <li>Monitor and troubleshoot Mailbox servers.</li>
+  <li>Monitor and troubleshoot external and additional services.</li>
+  <li>Identify  trends in a messaging system.</li>
+</ul>

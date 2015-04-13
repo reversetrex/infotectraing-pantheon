@@ -1,0 +1,3 @@
+This three-day, instructor-led course offers Microsoft Exchange 2000 Server or Microsoft Exchange Server 2003 administrators with the skills they need to manage a Microsoft Exchange Server 2007 infrastructure. This course focuses on the new features and administrative tasks in Exchange Server 2007.<br><br>
+
+The student will learn skills that enable them to deploy and manage an Exchange Server 2007 environment. This course’s aim is not to provide detailed design skills, but will cover planning skills at a level sufficient to enable decision making during the implementation process.

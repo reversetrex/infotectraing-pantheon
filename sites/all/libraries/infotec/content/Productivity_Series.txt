@@ -1,0 +1,172 @@
+<h2>The Art of Communication Course Session 1</h2>
+  <h3>Section A: Communicate</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Introduction</li>
+  </ul>
+  <h3>Section B: Four Basics of Communication</h3>
+  <ul>
+    <li>Objectives</li>
+    <li>Audience</li>
+    <li>Technique</li>
+    <li>Summary and Call to Action</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Communicating Better: Writing</h3>
+  <ul>
+    <li>Reader's Point of View and the Main Idea</li>
+    <li>Brainstorming</li>
+    <li>Outlining and Aerobic Writing</li>
+    <li>Organizing the Document</li>
+    <li>Revising</li>
+    <li>Visual Clarity and Headlines</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section D: Speaking Better: Presenting</h3>
+  <ul>
+    <li>Outlines and First Impressions</li>
+    <li>BEST Recipe and Signpost Phrases</li>
+    <li>Plan Your Conclusion</li>
+    <li>Delivery</li>
+    <li>Visual Aids and Room Choreography</li>
+    <li>Curing Fear and Self-Consciousness</li>
+    <li>Answering Questions: Q-BEST-Q Recipe</li>
+    <li>Asking Questions</li>
+    <li>Use Mistakes to Build Credibility</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section E: Interacting Better: Meetings</h3>
+  <ul>
+    <li>Meetings are Costly Investments</li>
+    <li>Think Purposes, Not Meetings</li>
+    <li>Forecast Your Meetings</li>
+    <li>Leading Meetings</li>
+    <li>Public Minutes</li>
+    <li>Ending and Last Words</li>
+    <li>Assessment</li>
+  </ul>
+<h2>The Art of Stress Management Course Session 1</h2>
+  <h3>Section A: Recognizing Stress</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>What is Stress?</li>
+    <li>Conditions of Stress</li>
+    <li>Signs of Stress</li>
+    <li>Stages of Stress</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Coping with Stress</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Change Attitudes and Perceptions</li>
+    <li>Change Interaction with Environment</li>
+    <li>Change Physical Abilities to Cope</li>
+    <li>Change Your Environment</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Building Mental Fitness</h3>
+  <ul>
+    <li>Relating to Others</li>
+    <li>Mental Fitness</li>
+    <li>The Triple A Workout: Awareness</li>
+    <li>The Triple A Workout: Attitude</li>
+    <li>The Triple A Workout: Action</li>
+    <li>Reminders</li>
+    <li>Assessment</li>
+  </ul>
+<h2>The Art of Organization Course Session 1</h2>
+  <h3>Section A: Why Get Organized?</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Benefits to Getting Organized</li>
+    <li>Tips to Make Organizing Easier</li>
+    <li>Defining Clutter</li>
+  </ul>
+  <h3>Section B: Challenges to Getting Organized</h3>
+  <ul>
+    <li>Fear of Dumping</li>
+    <li>Fear of Becoming Rigid and Inflexible</li>
+    <li>Lack of Knowledge</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Getting Started: Procedures</h3>
+  <ul>
+    <li>Objectives and Goal Setting</li>
+    <li>Start with Secondary Work Areas</li>
+    <li>Reduce, Refer, and Rearrange</li>
+    <li>Put Like Things Together</li>
+    <li>Stay Focused</li>
+    <li>Primary Work Area: Arrangement</li>
+    <li>Primary Work Area: Drawers and Desktop</li>
+    <li>Your Filing System</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section D: Staying Organized: Processes</h3>
+  <ul>
+    <li>Use Your Desktop as a Clearing House</li>
+    <li>Decision Making vs. Paper Shuffling</li>
+    <li>Create a Tracking System</li>
+    <li>Tie Up Loose Ends</li>
+    <li>Process Information Systematically</li>
+    <li>Managing the Reading</li>
+    <li>Stay on Top</li>
+    <li>Assessment</li>
+  </ul>
+<h2>Attitude for Success Course Session 1</h2>
+  <h3>Section A: Attitude Advantages</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Attitude Influences Everything</li>
+    <li>The Components of Attitude</li>
+    <li>Good Attitude Advantages</li>
+    <li>Factors that Impact Attitude</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Adjusting Your Attitude</h3>
+  <ul>
+    <li>Use the Flipside Technique</li>
+    <li>Play Your Winners</li>
+    <li>Simplify</li>
+    <li>Insulate</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Attitude and Success</h3>
+  <ul>
+    <li>Give Your Positive Attitude to Others</li>
+    <li>Look Better to Yourself</li>
+    <li>Accept the Physical Connection</li>
+    <li>Clarify Your Mission</li>
+    <li>Reminders</li>
+    <li>Assessment</li>
+  </ul>
+<h2>Manage Time Course Session 1</h2>
+  <h3>Section A: The Tests of Time</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Identify the Time You Control</li>
+    <li>Analyze Your Use of Time</li>
+    <li>The Tests of Time</li>
+    <li>Your Energy Cycles</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Stop Wasting Your Time</h3>
+  <ul>
+    <li>Time Wasters: An Overview</li>
+    <li>Disorganization</li>
+    <li>Procrastination</li>
+    <li>Cannot Say No</li>
+    <li>Environmental Time Wasters</li>
+    <li>Planning and Prioritizing</li>
+    <li>Planning Tips</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Becoming a Time Manager</h3>
+  <ul>
+    <li>Focusing on Goals</li>
+    <li>Establishing Priorities</li>
+    <li>Delegating</li>
+    <li>Personalize: Use Techniques To Suit You</li>
+    <li>Control Your Schedule</li>
+    <li>Reminders</li>
+    <li>Assessment</li>
+  </ul>

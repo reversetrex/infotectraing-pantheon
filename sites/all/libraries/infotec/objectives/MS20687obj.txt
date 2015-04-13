@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Plan and perform the installation of Windows 8.</li>
+    <li>Install Windows 8 on computers that are running an existing operating system.</li>
+    <li>Configure disks, partitions, volumes, and device drivers in a Windows 8 system.</li>
+    <li>Configure network connectivity.</li>
+    <li>Install, configure, and maintain wireless network connections.</li>
+    <li>Implement Windows 8 technologies to secure network connections.</li>
+    <li>Share files and printers.</li>
+    <li>Implement tools and technologies that can help secure Windows 8 desktops.</li>
+    <li>Configure and control applications in Windows 8.</li>
+    <li>Optimize and maintain Windows 8 based computers.</li>
+    <li>Configure mobile computer settings and to enable remote access.</li>
+    <li>Create and configure virtual machines in Hyper-V for Windows 8 and describe how to use it to support legacy applications.</li>
+    <li>Determine how to recover Windows 8 from various failures.</li>
+    <li>Describe how to use Windows PowerShell to manage Windows 8.</li>
+</ul>

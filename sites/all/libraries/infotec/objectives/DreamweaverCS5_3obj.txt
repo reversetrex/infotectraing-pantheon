@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Establish database connectivity.</li>
+  <li>Work with recordsets.</li>
+  <li>Create interactive page elements.</li>
+  <li>Administer database records.</li>
+  <li>Create a user authentication system.</li>
+  <li>Administer websites.</li>
+</ul>

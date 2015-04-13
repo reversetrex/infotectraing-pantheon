@@ -1,0 +1,20 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Understand what HTML is, how it is used, and how it came to be.</li>
+  <li>Use a text editor to set up both global and content structures of an HTML 
+document.</li>
+  <li>Create links to locations within a site and out to other sites on the Internet.</li>
+  <li>Efficiently format Web page content by using both non-deprecated HTML tags and 
+Cascading Style Sheets.</li>
+  <li>Incorporate graphics into Web pages as embedded images, links, and backgrounds.</li>
+  <li>Generate unordered, ordered, and nested lists in HTML documents.</li>
+  <li>Build and format tables for presenting data.</li>
+  <li>Create well-formed code that conforms to the XHTML standard.</li>
+  <li>Modify tables and create nested tables.</li>
+  <li>Control the sizing, spacing, and alignment of images, and understand how image maps work.</li>
+  <li>Create Web forms with a variety of different controls.</li>
+  <li>Modify form attributes to make forms more usable and navigable.</li>
+  <li>Apply the meta tag and understand how JavaScript is embedded into HTML documents.</li>
+  <li>Create framed pages.</li>
+  <li>Use style sheets (CSS) to design Web documents.</li>
+</ul>

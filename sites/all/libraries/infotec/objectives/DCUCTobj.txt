@@ -1,0 +1,6 @@
+<p>Upon completing this course, the learner will be able to meet these overall objectives:</p>
+<ul>
+ <li>Describe the Cisco UCS B-series architecture, installation, and configuration, and the process and tools for determining related issues.</li>
+ <li>Describe troubleshooting processes on the standalone Cisco UCS C-Series deployments.</li>
+ <li>Describe the valid Cisco UCS C-Series integrated architecture and the process of determining issues related to integration of Cisco UCS C-Series server with Cisco UCS Manager.</li>
+</ul>

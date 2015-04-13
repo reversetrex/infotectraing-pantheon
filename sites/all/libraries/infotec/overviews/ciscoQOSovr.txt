@@ -1,0 +1,5 @@
+The Implementing Cisco Quality of Service (QOS) v2.1 course provides students with in-depth knowledge of IP QoS requirements, conceptual models using Differentiated Services (DiffServ), Integrated Services (IntServ) and Best Effort (over provisioning), and the implementation of IP QoS on Cisco IOS switch and router platforms.<br><br>
+ 
+The curriculum covers the theory of IP QoS, design issues, and configuration of various QoS mechanisms to facilitate the creation of effective administrative policies providing QoS. Case studies and lab exercises included in the course help students to apply the concepts mastered in individual modules to real-life scenarios.<br><br>
+ 
+The course also gives students design and usage rules for various advanced IP QoS features and the integration of IP QoS with underlying Layer 2 QoS mechanisms, allowing them to design and implement efficient, optimized, and trouble-free multi-service networks.

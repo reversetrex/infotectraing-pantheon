@@ -1,0 +1,83 @@
+<p><strong>1. Course Introduction</strong></p>
+<ul type="disc">
+  <li>Introductions and course logistics</li>
+  <li>Course objectives</li>
+</ul>
+<p><strong>2. VMware vCloud Director Architecture Review</strong></p>
+<ul type="disc">
+  <li>vCloud Director prerequisites</li>
+  <li>Components of VMware cloud infrastructure</li>
+  <li>Logical constructs in vCloud Director</li>
+  <li>Cloud architecture fundamentals</li>
+</ul>
+<p><strong>3. VMware vCloud Architecture Models</strong></p>
+<ul type="disc">
+  <li>Service provider (public cloud) model</li>
+  <li>Enterprise (private cloud) model</li>
+  <li>Hybrid model</li>
+  <li>Management clusters and resource groups</li>
+  <li>Load balancing</li>
+  <li>Roles and communications in multicell architectures</li>
+</ul>
+<p><strong>4. Designing Networks</strong></p>
+<ul type="disc">
+  <li>Types of vCloud Director networks</li>
+  <li>vCloud Director Network Isolated networks</li>
+  <li>vCloud Director network pools</li>
+  <li>vCloud Director network management</li>
+  <li>vCloud Director network security</li>
+</ul>
+<p><strong>5. Designing Storage</strong></p>
+<ul type="disc">
+  <li>vCloud storage resources</li>
+  <li>Storage tiering</li>
+  <li>Segmenting storage based on speed</li>
+  <li>Storage leases</li>
+  <li>Catalog storage</li>
+  <li>Thin provisioning</li>
+  <li>VMware Storage vMotion</li>
+</ul>
+<p><strong>6. Designing Providers</strong></p>
+<ul type="disc">
+  <li>Consumable resources</li>
+  <li>Virtual datacenters</li>
+  <li>Resource pools</li>
+  <li>Organization and provider virtual datacenters</li>
+  <li>Providers and networking</li>
+  <li>Providers and storage</li>
+</ul>
+<p><strong>7. Designing Organizations</strong></p>
+<ul type="disc">
+  <li>Organization creation and resource pools in the provider virtual datacenters</li>
+  <li>Accessing multiple provider virtual datacenters from one organization</li>
+  <li>Organization administrator rights and responsibilities</li>
+  <li>vApps</li>
+  <li>Catalogs</li>
+  <li>Organization networks and external networks</li>
+</ul>
+<p><strong>8. Designing Security</strong></p>
+<ul type="disc">
+  <li>Authentication and authorization</li>
+  <li>Role-based access controls</li>
+  <li>Organization administrators</li>
+  <li>Organization security and LDAP integration</li>
+  <li>Predefined roles</li>
+  <li>Custom roles</li>
+</ul>
+<p><strong>9. Designing Chargeback</strong></p>
+<ul type="disc">
+  <li>Modules of consumption</li>
+  <li>vCenter Chargeback metrics</li>
+  <li>vCenter Chargeback server configuration</li>
+  <li>vCenter Chargeback data collectors</li>
+</ul>
+<p><strong>10. VMware vCloud Architecture Design Review</strong></p>
+<ul type="disc">
+  <li>Multitenancy</li>
+  <li>Network design</li>
+  <li>Storage design</li>
+  <li>Provider design</li>
+  <li>Organization design</li>
+  <li>Security design</li>
+  <li>Chargeback design</li>
+</ul>

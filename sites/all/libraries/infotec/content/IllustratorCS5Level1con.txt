@@ -1,0 +1,52 @@
+<p><strong>Lesson 1: Getting Acquainted with Adobe  Illustrator CS5</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Examine Imaging Concepts</li>
+  <li><strong>Topic 1B: </strong>Explore the Interface</li>
+  <li><strong>Topic 1C: </strong>Customize the Interface</li>
+</ul>
+<p><strong>Lesson 2: Creating Shapes in a Document</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Create a Document</li>
+  <li><strong>Topic 2B: </strong>Draw Basic Shapes</li>
+  <li><strong>Topic 2C: </strong>Save a Document</li>
+</ul>
+<p><strong>Lesson 3: Creating Custom Paths</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Draw Paths</li>
+  <li><strong>Topic 3B: </strong>Modify Paths</li>
+</ul>
+<p><strong>Lesson 4: Working with Text</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Insert Text</li>
+  <li><strong>Topic 4B: </strong>Flow Text on a Path</li>
+  <li><strong>Topic 4C: </strong>Import Body Text</li>
+  <li><strong>Topic 4D: </strong>Format Text with Styles</li>
+  <li><strong>Topic 4E: </strong>Thread Text</li>
+  <li><strong>Topic 4F: </strong>Apply Hyphenation</li>
+  <li><strong>Topic 4G: </strong>Insert Typographic Characters</li>
+</ul>
+<p><strong>Lesson 5: Working with Objects</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Import Graphics</li>
+  <li><strong>Topic 5B: </strong>Manipulate Objects</li>
+</ul>
+<p><strong>Lesson 6: Enhancing Documents</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Format Objects</li>
+  <li><strong>Topic 6B: </strong>Apply Strokes</li>
+  <li><strong>Topic 6C: </strong>Apply Gradients</li>
+  <li><strong>Topic 6D: </strong>Apply Graphic Styles</li>
+  <li><strong>Topic 6E: </strong>Apply an Envelope to Text</li>
+</ul>
+<p><strong>Lesson 7: Proofing a Document</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Wrap Text</li>
+  <li><strong>Topic 7B: </strong>Find and Replace Text</li>
+  <li><strong>Topic 7C: </strong>Fix Spelling Errors</li>
+</ul>
+<p><strong>Lesson 8: Saving Images for Web and Print</strong></p>
+<ul>
+  <li><strong>Topic 8A: </strong>Export Images for Print</li>
+  <li><strong>Topic 8B: </strong>Save Images for the Web</li>
+  <li><strong>Topic 8C: </strong>Save Images as PDFs</li>
+</ul>

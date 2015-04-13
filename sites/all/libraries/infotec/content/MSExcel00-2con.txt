@@ -1,0 +1,40 @@
+<p><strong> Unit 1: Creating Charts </strong></p>
+<ul>
+  <li> Creating a chart sheet </li>
+  <li>Creating an embedded chart </li>
+  <li>Comparing chart sheets with embedded charts </li>
+</ul>
+<p><strong> Unit 2: Modifying Charts </strong></p>
+<ul>
+  <li> Chart types </li>
+  <li>Modifying embedded charts </li>
+  <li>Adding and deleting chart items </li>
+  <li>Moving and sizing chart items </li>
+</ul>
+<p><strong> Unit 3: Formatting a Chart </strong></p>
+<ul>
+  <li> Formatting chart text </li>
+  <li>Formatting labels </li>
+  <li>Formatting the chart </li>
+  <li>Printing a chart sheet </li>
+</ul>
+<p><strong> Unit 4: Using Graphic Objects </strong></p>
+<ul>
+  <li> Adding graphic objects </li>
+  <li>Formatting graphic objects </li>
+  <li>Using graphic objects to enhance worksheets and charts </li>
+</ul>
+<p><strong> Unit 5: Sorting Data </strong></p>
+<ul>
+  <li> Single-level sorting </li>
+  <li>Multiple-level sorting </li>
+  <li>Sorting options </li>
+  <li>Design considerations </li>
+</ul>
+<p><strong> Unit 6: Filtering Data </strong></p>
+<ul>
+  <li> Filtering a list </li>
+  <li>Custom criteria </li>
+  <li>Multiple-condition criteria </li>
+  <li>Managing a filtered list</li>
+</ul>

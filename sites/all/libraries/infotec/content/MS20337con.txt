@@ -1,0 +1,87 @@
+<p><strong>Module 1: Voice Architecture</strong> - This module introduce Enterprise Voice features of Lync Server 2013 and discusses all components required to for implementation. A high level architectural design is provided and all relevant components such as mediation servers, gateways, SIP trunks, and PBX are discussed. This module provides students with the technical foundation to plan and deploy the Enterprise Voice workload.</p>
+<p>Lessons</p>
+<ul>
+  <li>Architecture and Server Roles</li>
+  <li>Voice Features of Lync Server 2013</li>
+  <li>Site Topologies</li>
+</ul>
+<p><strong>Module 2: Configuring Basic Enterprise Voice Functionality</strong> - Basic enterprise voice functionality provides a seamless ability for employees to make and receive phone calls from legacy phones, IP phones, Lync clients, and even mobile devices. A caller just needs to know one number for calling employee or if integrated with Active Directory, just the name. This module discuss configuration items relevant to Enterprise Voice. At the end of the module, students will have an in-depth understanding of configuration items such as trunks, routes, voice policies, and dial plans. Students will be able to configure Enterprise voice, implement routing and normalization and enable users for Enterprise Voice functionality.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Lync Voice Routing</li>
+  <li>Configuring Enterprise Voice</li>
+  <li>Defining Voice Policies</li>
+  <li>Assigning DID Numbers</li>
+  <li>How to Design a Dial Plan</li>
+</ul>
+<p><strong>Module 3: Designing Exchange Server 2013 Unified Messaging Integration with Lync Server 2013</strong> - This module discusses the process for integrating Exchange Server 2013 Unified Messaging (UM) with Lync Server 2013. Students also learn about UM dial plan requirements and how to create and configure a UM dial plan. Students learn how to enable a user for UM integration with Lync Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Exchange 2013 Unified Messaging</li>
+  <li>Integrating Unified Messaging with Lync Server 2013</li>
+</ul>
+<p><strong>Module 4: Voice Applications</strong> - Basic enterprise voice functionality provides a seamless ability for employees to make and receive phone calls from legacy phones, IP phones, Lync clients, and even mobile devices. A caller just needs to know one number for calling employee or if integrated with Active Directory, just the name. This module discuss configuration items relevant to Enterprise Voice. At the end of the module, students will have an in-depth understanding of configuration items such as trunks, routes, voice policies, and dial plans. Students will be able to configure Enterprise voice, implement routing and normalization and enable users for Enterprise Voice functionality.</p>
+<p>Lessons</p>
+<ul>
+  <li>Call Park Service</li>
+  <li>Managing Calls to Unassigned Numbers</li>
+  <li>PSTN Conferencing</li>
+  <li>Overview of Response Group Services</li>
+  <li>Implementing Response Group Services</li>
+</ul>
+<p><strong>Module 5: Configuring and Deploying Emergency Calling</strong> - This module covers the Location Information Server (LIS) and how to implement Emergency dialing and Enhanced 911 (E9-1-1) where appropriate. The module discusses the implementation and configuration of Emergency Services for a Lync infrastructure and explores various configuration aspects of Emergency Services, such as location services, call routing and E9-1-1.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introducing Location Information Server</li>
+  <li>Overview of Setup and Call Flow</li>
+  <li>Designing Location Policies</li>
+  <li>Implementing LIS</li>
+  <li>Address Discovery</li>
+  <li>User Experience</li>
+</ul>
+<p><strong>Module 6: PSTN Integration</strong> - This module discusses how to connect Microsoft Lync Server 2013 to a public switched telephone network (PSTN) using an existing Public Branch Exchange (PBX), gateway or Internet Telephone Service Provider (ITSP). Connection to the PSTN allows enterprise users to make calls to and receive calls from outside external numbers using the same Lync client used for internal calls. Later lessons will cover Lync 2013 features to improve managing and interacting with external users connected through the PSTN.</p>
+<p>Lessons</p>
+<ul>
+  <li>Connecting to the PSTN</li>
+  <li>Connecting to the Existing PBX</li>
+  <li>M:N Interworking Routing</li>
+  <li>Call Routing Reliability</li>
+</ul>
+<p><strong>Module 7: Lync Server 2013 and Networking</strong> - This module focuses on network requirements planning, including Quality of Service (QoS), capacity, conferencing traffic, Edge placement, and bandwidth management. The module also discusses how to plan and deploy Call Admission Control (CAC). Students will learn about Lync networking dependencies, design guidelines, and best practices. The module also provides background information on CAC and QoS, and design and configuration information. At the end of the module, students will understand the networking requirements for Lync Enterprise Voice, and know how to successfully design, implement and configure Lync for both QoS and CAC.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning for Media Requirements</li>
+  <li>Call Admission Control</li>
+  <li>Planning for Call Admission Control</li>
+  <li>Media Bypass</li>
+</ul>
+<p><strong>Module 8: Phones and Devices</strong> - This module discusses selecting, deploying and configuring phones and devices to use with Lync. At the end of the module the student will be able to deploy and configure Lync phones and devices.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Phones and Devices</li>
+  <li>Device Deployment</li>
+  <li>Lync Server 2013 Phone Management</li>
+  <li>Analog Device Support</li>
+</ul>
+<p><strong>Module 9: Lync Online Configuration and Migration</strong> - This module introduces Lync Online and hybrid scenarios as well as explaining how to migrate users to Office 365. The different Lync online deployment architectures and the differences in feature set and functionality are discussed.</p>
+<p>Lessons</p>
+<ul>
+  <li>Office 365 Architecture</li>
+  <li>Deploying Lync Online</li>
+  <li>Lync Hybrid Scenarios</li>
+</ul>
+<p><strong>Module 10: Quality of Experience</strong> - This module explains the requirements for quality of experience (QoE) monitoring. Students learn to interpret and use QoE reports to better manage and deliver the Lync Server 2013 user experience.</p>
+<p>Lessons</p>
+<ul>
+  <li>Voice Quality Concepts</li>
+  <li>Exploring Lync Monitoring Server Components</li>
+  <li>Exploring Lync Monitoring Server Reports</li>
+  <li>RTP and RTCP Collected Information</li>
+</ul>
+<p><strong>Module 11: Voice Resiliency</strong> - This module examines the capabilities of Lync Server 2013 for providing voice resiliency across the enterprise. The module explores multiple failure scenarios, such as central site, branch, and WAN failover.</p>
+<p>Lessons</p>
+<ul>
+  <li>Voice Resiliency in Lync Server 2013</li>
+  <li>Lync Pool Resilience</li>
+  <li>Branch Office Resilience</li>
+</ul>

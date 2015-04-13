@@ -1,0 +1,14 @@
+<p> At the end of the course, students will be able to: </p>
+<ul>
+  <li> Describe SQL Server architecture. </li>
+  <li> Plan for a SQL Server installation, and then install an instance of SQL Server. </li>
+  <li> Manage files and databases, including determining resource requirements. </li>
+  <li> Choose a login security method, configure login security, plan and implement database permissions, and describe how to secure SQL Server in an enterprise network. </li>
+  <li> Perform and automate administrative tasks and create custom administrative tools. </li>
+  <li> Back up databases and implement a backup strategy. </li>
+  <li> Restore databases. </li>
+  <li> Monitor and optimize SQL Server performance. </li>
+  <li> Transfer and migrate data into databases. </li>
+  <li> Maintain the high availability of SQL Server. </li>
+  <li>Describe how to replicate data from one SQL Server to another.</li>
+</ul>

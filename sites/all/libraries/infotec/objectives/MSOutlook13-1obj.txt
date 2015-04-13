@@ -1,0 +1,11 @@
+<p>In this course, you will become familiar with the Outlook 2013 interface, and then use Outlook to manage your email communications, including composing, reading, and responding to emails; schedule appointments and meetings; manage contact information; schedule tasks and create notes; and customize the Outlook environment to suit your personal preferences. You will:</p>
+<ul>
+  <li>Perform basic functions in the Outlook 2013 interface.</li>
+  <li>Compose email messages.</li>
+  <li>Read and respond to email messages.</li>
+  <li>Manage email messages.</li>
+  <li>Manage your calendar.</li>
+  <li>Manage your contacts.</li>
+  <li>Work with tasks and notes.</li>
+  <li>Customize the Outlook environment.</li>
+</ul>

@@ -1,0 +1,1 @@
+This three-day instructor-led workshop will provide the student with a focused, hands-on environment to experience the new features and functionality of the Microsoft Visual Studio 2005 product. Students will spend 70–80 percent of their time writing code using the Visual Studio 2005 Beta 1 release.

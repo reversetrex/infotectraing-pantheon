@@ -1,0 +1,363 @@
+  <h2>Session 1</h2>
+    <h3>Section A: Introduction</h3>
+    <ul>
+      <li>Course Overview</li>
+      <li>Excel 2010 Introduction</li>
+      <li>Quick Access Toolbar</li>
+      <li>Toolbar Customization</li>
+      <li>Additional Customization Buttons</li>
+    </ul>
+    <h3>Section B: Navigating Excel</h3>
+    <ul>
+      <li>Ribbon Organization</li>
+      <li>Function Grouping</li>
+      <li>Multiple Function Access</li>
+      <li>The Document Window</li>
+      <li>Basic Navigation</li>
+      <li>Workbook Options</li>
+    </ul>
+    <h3>Section C: Excel 2010 Shortcuts</h3>
+    <ul>
+      <li>Best Practice Guidelines</li>
+      <li>Common Hot Keys</li>
+      <li>Speed Keys</li>
+      <li>Function Keys</li>
+      <li>CTRL Keys</li>
+      <li>ALT Keys</li>
+      <li>Visible Speed Keys</li>
+    </ul>
+    <h3>Section D: Creating and Manipulating Data</h3>
+    <ul>
+      <li>Entering Data</li>
+      <li>Auto Fill a Series</li>
+      <li>Creating Custom Lists</li>
+      <li>Fill Adjacent Cells</li>
+      <li>Fill Non-Adjacent Cells</li>
+      <li>Auto Fill on Multiple Sheets</li>
+    </ul>
+    <h3>Section E: Managing Worksheets</h3>
+    <ul>
+      <li>Copying/Moving Worksheets</li>
+      <li>Renaming Worksheets</li>
+      <li>Inserting/Deleting Worksheets</li>
+      <li>Hiding Worksheets</li>
+    </ul>
+    <h3>Section F: Data Validation</h3>
+    <ul>
+      <li>Range Criteria</li>
+      <li>List Criteria</li>
+      <li>Extending the List</li>
+      <li>Input Message</li>
+      <li>Validation Error Alerts</li>
+      <li>Validation by Character</li>
+    </ul>
+    <h3>Section G: Modifying Cell Content</h3>
+    <ul>
+      <li>Copy/Paste Options</li>
+      <li>Paste</li>
+      <li>Inserting Columns</li>
+      <li>Transporting Data</li>
+      <li>Copy Cell Formatting</li>
+      <li>Removing Duplicates</li>
+    </ul>
+    <h3>Section H: Changing Views</h3>
+    <ul>
+      <li>Zoom</li>
+      <li>Workbook Views</li>
+      <li>Page Layout</li>
+      <li>Freeze Panes</li>
+      <li>Split Windows</li>
+      <li>Viewing Multiple Windows</li>
+    </ul>
+  <h2>Session 2</h2>
+    <h3>Section A: Formatting Data</h3>
+    <ul>
+      <li>Formatting Worksheets</li>
+      <li>Cell/Font Color</li>
+      <li>Background Images</li>
+      <li>Watermarks</li>
+      <li>Worksheet Tab Color</li>
+    </ul>
+    <h3>Section B: Formatting Numbers</h3>
+    <ul>
+      <li>Modifying Cell Formats</li>
+      <li>Format Painter</li>
+      <li>Date Formatting</li>
+      <li>Formatting Multiple Cells</li>
+      <li>Numerical Cell Values</li>
+      <li>Special Formats</li>
+    </ul>
+    <h3>Section C: Formatting Text and Tables</h3>
+    <ul>
+      <li>Formatting Fonts / Fills</li>
+      <li>Cell Height/Width</li>
+      <li>Noncompatible Commands</li>
+      <li>Cell Alignment</li>
+      <li>Inserting Comments</li>
+      <li>Merge and Center</li>
+      <li>Tables</li>
+    </ul>
+    <h3>Section D: Understanding Formulas</h3>
+    <ul>
+      <li>Operations</li>
+      <li>Arithmetic Operations</li>
+      <li>Additional Operation Symbols</li>
+      <li>SUM Function</li>
+      <li>Ranges in Functions</li>
+      <li>AutoSum</li>
+      <li>Average</li>
+      <li>Min/Max Functions</li>
+      <li>Count Formula</li>
+      <li>AutoCalculate</li>
+      <li>Modifying AutoCalculate</li>
+      <li>Copying Formulas</li>
+      <li>Cell Multiplication</li>
+      <li>Relative Cell References</li>
+      <li>Absolute Cell References</li>
+    </ul>
+  <h2>Session 3</h2>
+    <h3>Section A: Referencing Formulas</h3>
+    <ul>
+      <li>Totaling Multiple Sheets</li>
+      <li>AutoFit Multiple Cells</li>
+      <li>Linked Formulas</li>
+      <li>Grand Totals</li>
+      <li>Sparkline Graphics</li>
+      <li>Sparkline Colors</li>
+      <li>Consolidation</li>
+      <li>Consolidating Data</li>
+      <li>Linking to Source Data</li>
+      <li>Hierarchical Outline</li>
+      <li>Consistency</li>
+    </ul>
+    <h3>Section B: Ranges and Dates</h3>
+    <ul>
+      <li>Naming Ranges</li>
+      <li>Adding Named Ranges</li>
+      <li>Dates</li>
+      <li>Date Speed Keys</li>
+      <li>Formula Calculations</li>
+      <li>Formula Auditing</li>
+      <li>The Watch Window</li>
+      <li>Formula Evaluation</li>
+    </ul>
+    <h3>Section C: Subtotals</h3>
+    <ul>
+      <li>Using Subtotals</li>
+      <li>Subtotal Options</li>
+      <li>Using Data Hierarchy</li>
+      <li>Selecting Visible Data</li>
+    </ul>
+    <h3>Section D: Using VLOOKUP</h3>
+    <ul>
+      <li>VLOOKUP</li>
+      <li>VLOOKUP Type I</li>
+      <li>VLOOKUP's Three Arguments</li>
+      <li>VLOOKUP Type I Methodology</li>
+      <li>VLOOKUP Type II</li>
+    </ul>
+    <h3>Section E: Using Nested Formulas</h3>
+    <ul>
+      <li>Nested Formulas</li>
+      <li>Absolute Numbers</li>
+      <li>Nested Absolutes</li>
+      <li>Nested Formula Logic</li>
+      <li>FIND</li>
+      <li>INDIRECT</li>
+      <li>ROW/COL</li>
+    </ul>
+    <h3>Section F: Conditional Logic</h3>
+    <ul>
+      <li>The IF Formula</li>
+      <li>The IF Statement</li>
+      <li>Nested IF</li>
+      <li>Nested IF Syntax</li>
+    </ul>
+    <h3>Section G: More Conditional Logic</h3>
+    <ul>
+      <li>Insert Wizard</li>
+      <li>AND</li>
+      <li>OR</li>
+      <li>NOT</li>
+      <li>IFERROR</li>
+      <li>SUMIF / AVERAGEIF / COUNTIF</li>
+      <li>SUMIFS</li>
+      <li>AVERAGEIFS</li>
+      <li>COUNTIFS</li>
+    </ul>
+  <h2>Session 4</h2>
+    <h3>Section A: Financial Formulas</h3>
+    <ul>
+      <li>Working with Financial Formulas</li>
+      <li>Future Value Function</li>
+      <li>Function Categories</li>
+      <li>Calculating Interest Rate</li>
+      <li>Calculating Total Payment</li>
+      <li>Calculating Monthly Payment</li>
+      <li>Using Goal Seek</li>
+    </ul>
+    <h3>Section B: What-If Functions</h3>
+    <ul>
+      <li>Solver Add-in</li>
+      <li>Using Solver</li>
+      <li>Constraints</li>
+      <li>Reports</li>
+      <li>Comparing Options</li>
+      <li>Scenario Manager</li>
+      <li>Scenario Report</li>
+      <li>Data Tables</li>
+      <li>Applying Data Tables</li>
+      <li>Comparing Data Tables</li>
+    </ul>
+    <h3>Section C: Working with Text Formulas</h3>
+    <ul>
+      <li>Concatenate</li>
+      <li>Text to Columns</li>
+      <li>Extraction Formulas</li>
+      <li>Combining with Previous Formulas</li>
+      <li>UPPER/LOWER/PROPER</li>
+      <li>Converting Formulas with Function Keys</li>
+    </ul>
+    <h3>Section D: Paste Special</h3>
+    <ul>
+      <li>Pasting Values</li>
+      <li>Pasting Formats</li>
+      <li>Quick Multiplication</li>
+      <li>Addition</li>
+      <li>TRIM</li>
+      <li>Substitute</li>
+    </ul>
+    <h3>Section E: Introduction to Charts</h3>
+    <ul>
+      <li>Charts</li>
+      <li>Chart Types</li>
+      <li>Instant Chart</li>
+      <li>Updating Charts</li>
+      <li>Add Secondary Y/Value Axis</li>
+      <li>Adding Data Labels</li>
+      <li>Fill</li>
+      <li>Picture Fill</li>
+      <li>Line/Scatter Charts</li>
+    </ul>
+    <h3>Section F: Formatting Charts</h3>
+    <ul>
+      <li>Chart Styles</li>
+      <li>3-D Charts</li>
+      <li>Quick Layouts</li>
+      <li>Formatting Chart Labels</li>
+      <li>Layout</li>
+      <li>Chart Title</li>
+      <li>Legends</li>
+    </ul>
+    <h3>Section G: Conditional Formatting</h3>
+    <ul>
+      <li>Conditional Formatting Options</li>
+      <li>Selecting Cells to Format</li>
+      <li>Top/Bottom Rules</li>
+      <li>Data Bars/Color Scales/Icon Sets</li>
+      <li>Managing Rules</li>
+      <li>Wildcards</li>
+      <li>Alternative Row Shading via Formulas</li>
+    </ul>
+    <h3>Section H: Adding Graphics to Spreadsheets</h3>
+    <ul>
+      <li>Inserting Pictures</li>
+      <li>Modifying Pictures</li>
+      <li>Inserting Shapes</li>
+      <li>Inserting SmartArt</li>
+      <li>Modifying SmartArt</li>
+      <li>Themes</li>
+    </ul>
+  <h2>Session 5</h2>
+    <h3>Section A: Outlining, Sorting, and Filtering</h3>
+    <ul>
+      <li>Grouping</li>
+      <li>Ungrouping</li>
+      <li>Sorting Data</li>
+      <li>Sorting Levels</li>
+      <li>Filtering Data</li>
+      <li>Selecting Filtered Rows</li>
+      <li>Advanced Filtering</li>
+    </ul>
+    <h3>Section B: PivotTables and PivotCharts</h3>
+    <ul>
+      <li>PivotTables</li>
+      <li>Creating PivotTables</li>
+      <li>PivotTable Layout</li>
+      <li>Defaults</li>
+      <li>Updating/Modifying Data</li>
+      <li>Calculated Fields</li>
+      <li>Calculated Items</li>
+      <li>Filtering PivotTables</li>
+      <li>Slicer</li>
+      <li>PivotCharts</li>
+    </ul>
+    <h3>Section C: Protecting Data</h3>
+    <ul>
+      <li>Locking Cells</li>
+      <li>Protect Workbook</li>
+      <li>Hiding Cells</li>
+      <li>Hiding Worksheets</li>
+    </ul>
+    <h3>Section D: Introduction to Backstage</h3>
+    <ul>
+      <li>Document Properties</li>
+      <li>Titles/Tags/Categories</li>
+      <li>Related Dates / People</li>
+      <li>Formatting Comments</li>
+      <li>Document Inspector</li>
+      <li>Sparklines/Slicer</li>
+      <li>Compatibility Checker</li>
+      <li>Document Inspection</li>
+    </ul>
+    <h3>Section E: Collaboration</h3>
+    <ul>
+      <li>Sharing Documents</li>
+      <li>Sharing Workbooks</li>
+      <li>Protecting Shared Workbooks</li>
+      <li>Tracking Changes</li>
+      <li>Accept/Reject Changes</li>
+      <li>Information Rights Management</li>
+      <li>Document Signature</li>
+      <li>Mark as Final</li>
+    </ul>
+    <h3>Section F: Saving Workbooks</h3>
+    <ul>
+      <li>Save as Previous Version</li>
+      <li>File Sharing with Previous Excel Version</li>
+      <li>Customization/Compatibility</li>
+      <li>Excel Options</li>
+      <li>Templates</li>
+      <li>Opening/Deleting Templates</li>
+      <li>Save as a Web Page</li>
+      <li>Single File Web Page</li>
+    </ul>
+    <h3>Section G: Printing Workbooks</h3>
+    <ul>
+      <li>Page Orientation</li>
+      <li>Margins</li>
+      <li>Print Area/Page Breaks</li>
+      <li>Page Sailing</li>
+      <li>Headers/Footers</li>
+      <li>Row/Column Headings</li>
+      <li>Other Print Options</li>
+    </ul>
+    <h3>Section H: Macros with VB for Applications</h3>
+    <ul>
+      <li>Macros</li>
+      <li>Recordable Macros</li>
+      <li>Non-Recordable Macros</li>
+      <li>Creating a Macro</li>
+      <li>Naming Macros</li>
+      <li>Shortcut Keys</li>
+      <li>Storage Options</li>
+      <li>Recording a Macro</li>
+      <li>Testing Macros</li>
+      <li>Editing Macros with Visual Basic</li>
+      <li>Testing Edited Macros</li>
+      <li>Relative Reference Macros</li>
+      <li>Assigning Buttons to Macros</li>
+      <li>Modifying Button Icons</li>
+      <li>Macro-Enabled Workbooks</li>
+      <li>Save Workspace</li>
+    </ul>

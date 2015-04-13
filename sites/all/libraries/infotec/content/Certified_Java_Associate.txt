@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<h2>Session 1</h2>
+  <h3>Section A: Creating and Compiling Java Programs</h3>
+  <ul>
+    <li>Development Tools Needed</li>
+    <li>Writing a Simple Java Program</li>
+    <li>Classes</li>
+    <li>Creating a New Java Class</li>
+    <li>Understanding Java Classes</li>
+    <li>Streams</li>
+    <li>Writing Code in Notepad</li>
+    <li>Command Line Code Execution</li>
+    <li>Using a Package</li>
+    <li>Compiling a Package using -d Option</li>
+    <li>Primary Java Packages</li>
+    <li>Primary Java Platforms</li>
+  </ul>
+  <h3>Section B: Working with Variables and References</h3>
+  <ul>
+    <li>Variables and References</li>
+    <li>Declaring and Initializing Variables</li>
+    <li>Assignment Operators</li>
+    <li>Primitive Variables</li>
+    <li>Variable Considerations</li>
+    <li>Capturing User Input</li>
+    <li>Importing Classes</li>
+    <li>Performing Mathematical Calculations</li>
+    <li>Understanding Enums</li>
+    <li>Using Java Documentation</li>
+  </ul>
+  <h3>Section C: Branching and Loops</h3>
+  <ul>
+    <li>Branching with IF Statements</li>
+    <li>Creating Compound Logical Statements</li>
+    <li>Switch Case Break Statements</li>
+    <li>For Loops</li>
+    <li>While Loops</li>
+    <li>Do…While Loops</li>
+    <li>Understanding Endless Loops</li>
+    <li>Break and Continue Statements</li>
+  </ul>
+  <h3>Section D: Working with Arrays</h3>
+  <ul>
+    <li>Arrays Defined</li>
+    <li>Declaring Arrays</li>
+    <li>Initializing Individual Array Indexes</li>
+    <li>Looping through Arrays</li>
+    <li>Looping For…Each</li>
+  </ul>
+  <h3>Section E: Working with Functions</h3>
+  <ul>
+    <li>Creating Functions</li>
+    <li>Sending Arguments to Main</li>
+    <li>Returning Values with a Function</li>
+    <li>Function Parameter Types and Usage</li>
+    <li>Functions and Scope Considerations</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Object-Oriented Programming Basics</h3>
+  <ul>
+    <li>Object-Oriented Programming</li>
+    <li>Class Attributes and Behaviors</li>
+    <li>Objects</li>
+    <li>The String Class</li>
+    <li>Concatenation Operator</li>
+    <li>charAt()</li>
+    <li>indexOf()</li>
+    <li>trim()</li>
+    <li>substring()</li>
+    <li>replace()</li>
+    <li>length()</li>
+    <li>The StringBuffer Class</li>
+    <li>append()</li>
+    <li>reverse()</li>
+    <li>deleteCharAt()</li>
+  </ul>
+  <h3>Section B: Creating Custom Classes</h3>
+  <ul>
+    <li>Private vs. Public Classes</li>
+    <li>Implementing a Class</li>
+    <li>Class Rules</li>
+    <li>Creating Setters and Getters</li>
+    <li>Creating and Using the Constructor</li>
+    <li>Static Methods and Classes</li>
+    <li>Adding a Static Property</li>
+    <li>Altering Public and Private</li>
+    <li>Polymorphism</li>
+    <li>Classes and Variable Scope</li>
+  </ul>
+  <h3>Section C: Understanding Subclassing</h3>
+  <ul>
+    <li>Creating a Subclass</li>
+    <li>Using the Superclass Constructor</li>
+    <li>Overriding Methods</li>
+    <li>Inheritance Rules to Consider</li>
+    <li>Instantiating Subclasses</li>
+  </ul>
+  <h3>Section D: Interfaces and Abstract Classes</h3>
+  <ul>
+    <li>Creating an Interface</li>
+    <li>Implementing the Interface</li>
+    <li>Writing Method Implementations</li>
+    <li>Writing a Test Class</li>
+    <li>Overriding Interface Methods</li>
+    <li>Modifying the Test Class</li>
+    <li>Creating an Abstract Class</li>
+    <li>Extending an Abstract Class</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Understanding UML</h3>
+  <ul>
+    <li>Uniform Modeling Language</li>
+    <li>UML Perspectives and Views</li>
+    <li>Basic Object-Oriented Programming Terms</li>
+    <li>UML Class Diagrams</li>
+    <li>UML Inheritance Diagrams</li>
+  </ul>
+  <h3>Section B: Java Integration Technologies</h3>
+  <ul>
+    <li>Remote Method Invocation</li>
+    <li>RMI Interfaces and Classes</li>
+    <li>Remote Object Implementation</li>
+    <li>Java Database Connectivity</li>
+    <li>Sample JDBC Code</li>
+    <li>Database Connection Considerations</li>
+    <li>Understanding JNDI</li>
+    <li>Java Messaging Service</li>
+    <li>Messaging Process Diagrams</li>
+  </ul>
+  <h3>Section C: HTML and JavaScript</h3>
+  <ul>
+    <li>HTML and JavaScript Overview</li>
+    <li>Understanding HTML Structure</li>
+    <li>Understanding JavaScript Structure</li>
+    <li>HTML Advantages and Disadvantages</li>
+    <li>JavaScript Advantages and Disadvantages</li>
+    <li>HTML and JavaScript Coding Example</li>
+  </ul>
+  <h3>Section D: Java 2 Micro Edition</h3>
+  <ul>
+    <li>Using the Java Wireless Toolkit</li>
+    <li>Creating the MIDlet</li>
+    <li>Deploying the MIDlet</li>
+  </ul>
+  <h3>Section E: Applets and GUI Interfaces</h3>
+  <ul>
+    <li>Creating a Java Applet</li>
+    <li>Analyzing and Compiling the Applet Code</li>
+    <li>Creating GUI Interfaces with SWING</li>
+    <li>Coding the Default Constructor</li>
+    <li>Instantiating SWING Components</li>
+    <li>Compiling the GUI Interface</li>
+  </ul>
+  <h3>Section F: Java Server Technologies</h3>
+  <ul>
+    <li>Server-Side Technologies</li>
+    <li>Enterprise JavaBeans</li>
+    <li>Servlets</li>
+    <li>Java Server Pages</li>
+    <li>JAX-RPC</li>
+    <li>SOAP Defined</li>
+    <li>UDDI</li>
+  </ul>
+  
+
+</body>
+</html>

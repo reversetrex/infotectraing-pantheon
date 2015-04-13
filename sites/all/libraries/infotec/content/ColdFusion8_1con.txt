@@ -1,0 +1,108 @@
+<p><strong>Unit 1: Introduction to ColdFusion</strong></p>
+
+<ul>
+  <li>Core technologies of ColdFusion</li>
+  <li>The Internet and how it works</li>
+  <li>DNS servers and URLs</li>
+  <li>Web servers and browsers</li>
+  <li>HTML</li>
+  <li>Web server extensions</li>
+</ul>
+
+<p><strong>Unit 2: Building the Databases</strong></p>
+
+<ul>
+  <li>Databases and related terms</li>
+  <li>Creating tables</li>
+  <li>Table Relationships</li>
+</ul>
+
+<p><strong>Unit 3: Accessing the ColdFusion  Administrator</strong></p>
+
+<ul>
+  <li>Configuring the ColdFusion Application Server</li>
+</ul>
+
+<p><strong>Unit 4: Introduction to SQL and SQL Data Manipulation</strong></p>
+
+<ul>
+  <li>The basics of SQL</li>
+  <li>ColdFusion database manipulation</li>
+</ul>
+
+<p><strong>Unit 5: Using ColdFusion</strong></p>
+
+<ul>
+  <li>Creating ColdFusion templates</li>
+  <li>Variables</li>
+  <li>CFML functions and tags</li>
+</ul>
+
+<p><strong>Unit 6: CFML Basics</strong></p>
+
+<ul>
+  <li>CFML program flow language elements</li>
+  <li>If statements</li>
+  <li>Loops and switch statements</li>
+</ul>
+
+<p><strong>Unit 7: Creating Data-Driven Pages</strong></p>
+
+<ul>
+  <li>The use of CFQUERY to create queries</li>
+  <li>Formatting techniques</li>
+</ul>
+
+<p><strong>Unit 8: The Basics of Structured  Development</strong></p>
+
+<ul>
+  <li>ColdFusion Components from the ground up</li>
+  <li>How to build ColdFusion Components</li>
+  <li>Introspection: getting information about Components</li>
+</ul>
+
+<p><strong>Unit 9: Using Forms to Add or Change Data</strong></p>
+
+<ul>
+  <li>Using forms to add, update and delete data in database tables</li>
+  <li>Form Validation Methods</li>
+</ul>
+
+<p><strong>Unit 10: Beyond HTML Forms: ColdFusion-Powered  Ajax</strong></p>
+
+<ul>
+  <li>Using Extended Controls to add advanced functionality to forms</li>
+  <li>Using ColdFusion to generate AJAX (Asynchronous JavaScript and XML)</li>
+</ul>
+
+<p><strong>Unit 11: Graphing, Printing, and Reporting</strong></p>
+
+<ul>
+  <li>How to use the CFCHART tag to create business graphics</li>
+  <li>Bar charts, pie charts, etc</li>
+  <li>Using the cfdocument tag to generate dynamic documents</li>
+  <li>Using the ColdFusion Report Builder</li>
+</ul>
+
+<p><strong>Unit 12: Debugging and Troubleshooting</strong></p>
+
+<ul>
+  <li>Troubleshooting ColdFusion application development</li>
+  <li>Tips and techniques that help the developer avoid problems</li>
+</ul>
+
+<p><strong>Unit 13: Introducing the Web Application Framework</strong></p>
+
+<ul>
+  <li>Working with the Web Application Framework</li>
+  <li>Sophisticated parameter and variable manipulation</li>
+  <li>Customized error message handling</li>
+  <li>The use of the application component to establish application-wide settings and options</li>
+</ul>
+
+<p><strong>Unit 14: Working with Sessions</strong></p>
+
+<ul>
+  <li>How to use CLIENT and SESSION variables</li>
+  <li>HTTP cookies</li>
+</ul>

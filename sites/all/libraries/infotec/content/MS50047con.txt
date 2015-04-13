@@ -1,0 +1,21 @@
+<p><strong>Module 1: SharePoint Technologies Server Farm Architecture</strong> - This module explains the server role architecture of Microsoft Office SharePoint Server 2007 and Windows SharePoint Services 3.0.</p>
+
+<p><strong>Module 2: Configuring SharePoint Technologies Farms</strong> - This module describes how to configure SharePoint Technologies server farms.</p>
+
+<p><strong>Module 3: Securing Microsoft SharePoint Technologies Systems</strong> - This module describes how to secure SharePoint Technologies server farm deployments.</p>
+
+<p><strong>Module 4: Microsoft SharePoint Technologies Solution Architecture</strong> - This module describes the key solution architecture and information architecture issues in SharePoint Technologies deployments.</p>
+
+<p><strong>Module 5: Backup, Restore, and Disaster Recovery for Microsoft SharePoint Technologies</strong> - This module describes how to recover from, and minimize the impact of, disastrous data loss and  mis-configuration.</p>
+
+<p><strong>Module 6: Microsoft SharePoint Technologies Operations</strong> - This module discusses farm management, migration, and how to use SCOM 2007 with MOSS and WSS.</p>
+
+<p><strong>Module 7: Capacity Planning and Sizing for Microsoft  SharePoint Technologies</strong> - This module describes how to plan capacity for and right-size a SharePoint Technologies deployment.</p>
+
+<p><strong>Module 8: Search and Indexing</strong> - This module describes the architecture and configuration of the search and indexing features in Office SharePoint Server 2007.</p>
+
+<p><strong>Module 9: Customizing and Extending Microsoft SharePoint Technologies</strong> - This module describes the opportunities to customize and extend a SharePoint Technologies solution.</p>
+
+<p><strong>Module 10: Configuring the Business Data Catalog</strong> - This module describes how to configure the Business Data Catalog to access line-of-business application data from Office SharePoint Server 2007.</p>
+
+<p><strong>Module 11: Configuring Forms and Excel Services</strong> - This module describes how to configure InfoPath Forms and Excel Services in an Office SharePoint Server 2007 deployment.</p>

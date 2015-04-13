@@ -1,0 +1,15 @@
+<p><strong>Module 1: Microsoft Dynamics CRM Components</strong> - This module lays the foundation for the remainder of the course and examines the primary components that are leveraged by Microsoft Dynamics CRM 4.0.</p>
+
+<p><strong>Module 2: Planning the Microsoft Dynamics CRM Installation</strong> - This module examines the hardware and software requirements that must be in place prior to installing Microsoft Dynamics CRM4.0, as well as appropriate licensing plans.</p>
+
+<p><strong>Module 3: Microsoft Dynamics CRM Server Installation</strong> - This module examines the hardware and software requirements that must be in place prior to installing Microsoft Dynamics CRM 4.0, as well as appropriate licensing plans.</p>
+
+<p><strong>Module 4: Microsoft Dynamics CRM E-Mail Router</strong> - This module discusses the key features in the Microsoft Dynamics CRM 4.0 E-mail  Router functionality and the steps to follow to install the Microsoft Dynamics  E-mail Router.</p>
+
+<p><strong>Module 5: Microsoft Dynamics CRM for Microsoft Office Outlook</strong> - This module examines the primary components of Microsoft Dynamics CRM for Microsoft Office Outlook, reviews the two types of access that are available with 4.0, and examines the steps to successfully install Microsoft Dynamics CRM Office Outlook.</p>
+
+<p><strong>Module 6: Redeploying Microsoft Dynamics CRM 4.0 </strong>- This module provides information about redeploying Microsoft Dynamics CRM 4.0.</p>
+
+<p><strong>Module 7: Upgrading to Microsoft Dynamics CRM 4.0</strong> - This module provides information about upgrading a Microsoft Dynamics CRM 3.0  deployment to Microsoft Dynamics CRM 4.0.</p>
+
+<p><strong>Module 8: Uninstalling and Repairing Microsoft Dynamics CRM 4.0</strong> - This module provides information about repairing and uninstalling Microsoft Dynamics CRM 4.0.</p>

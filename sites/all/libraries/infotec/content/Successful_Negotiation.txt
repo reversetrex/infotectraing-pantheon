@@ -1,0 +1,33 @@
+<h2>Session 1</h2>
+  <h3>Section A: Successful Negotiation</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Misconceptions</li>
+    <li>Course Overview</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: Negotiation: What and Why?</h3>
+  <ul>
+    <li>Destination</li>
+    <li>Identify Opportunities</li>
+    <li>Win/Win Philosophy</li>
+    <li>Give/Get Principle</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: The Negotiating Process</h3>
+  <ul>
+    <li>Six Steps</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Strategies and Tactics</h3>
+  <ul>
+    <li>Preparation and Planning</li>
+    <li>Will and Skill</li>
+    <li>Negotiating Strategies</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section E: Conclusion</h3>
+  <ul>
+    <li>Things to Remember</li>
+    <li>Successful Negotiation</li>
+  </ul>

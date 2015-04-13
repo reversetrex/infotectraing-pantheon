@@ -1,0 +1,112 @@
+<p><strong>Module 1 Overview</strong></p>
+<ul>
+ <li>Explain the primary benefits of Data ONTAP clustering</li>
+ <li>Indentify the scope of Data ONTAP concepts such as node virtual storage servers (Vservers), administrative Vservers, and data Vservers</li>
+</ul>
+<p><strong>Module 2 Installation and Configuration</strong></p>
+<ul>
+ <li>Configure nodes and install the operating system</li>
+ <li>Create a cluster to the Expand a cluster two nodes</li>
+ <li>Set the dates, times, and time zones of the nodes in the cluster</li>
+</ul>
+<p><strong>Module 3 Cluster Administration Basics</strong></p>
+<ul>
+ <li>Describe and utilize the various tools to manage a cluster</li>
+ <li>Determine which commands are available for a command directory</li>
+ <li>Determine whether parameters are required or optional for a command</li>
+ <li>Switch among privilege levels</li>
+ <li>Describe the Vserver administrative roles</li>
+ <li>Explore policies and job schedules</li>
+ <li>Discuss the enhanced node-locked licensing model</li>
+</ul>
+<p><strong>Module 4 Architecture</strong></p>
+<ul>
+ <li>Show the end-to-end path of a file write request through a cluster</li>
+ <li>Answer questions about replicated database (RDB) concepts</li>
+ <li>Identify the differences between a vol0 root volume and a data virtual storage server (Vserver) root volume</li>
+</ul>
+<p><strong>Module 5 Physical Data Storage</strong></p>
+<ul>
+ <li>Draw the connections from a high-availability (HA) pair of controllers to the disk shelves</li>
+ <li>Discuss storage and RAID concepts</li>
+ <li>Create aggregates</li>
+ <li>List the steps that are required to enable storage failover (SFO)</li>
+ <li>Explain and enable ―two-node HA‖ mode for two-node clusters</li>
+ <li>Create a flash pool</li>
+</ul>
+<p><strong>Module 6 Logical Data Storage</strong></p>
+<ul>
+ <li>Create a volume</li>
+ <li>Build a namespace by using multiple volumes</li>
+ <li>Configure FlexCache storage</li>
+ <li>Create an infinite volume</li>
+</ul>
+<p><strong>Module 7 Physical Networking</strong></p>
+<ul>
+ <li>Draw the connections of the network cables from the three networks to a controller</li>
+ <li>Explain port roles</li>
+ <li>Create an interface group</li>
+ <li>Configure virtual LAN (VLAN) tagged ports</li>
+ <li>Identify supported cluster interconnect switches</li>
+ <li>Discuss switchless two-node clusters and single-node clusters</li>
+</ul>
+<p><strong>Module 8 Logical Networking</strong></p>
+<ul>
+ <li>Create NAS data logical interfaces (LIFs)</li>
+ <li>Create a LIF failover group</li>
+ <li>Migrate and revert a NAS data LIF</li>
+ <li>Configure DNS load balancing</li>
+</ul>
+<p><strong>Module 9 NAS Protocols</strong></p>
+<ul>
+ <li>Create an export policy for a data Vserver</li>
+ <li>Create an NFS configuration for a data Vserver</li>
+ <li>Create a CIFS domain, server, and share</li>
+ <li>Mount exports and shares to NFS and CIFS clients</li>
+ <li>Create name mapping rules between NFS and CIFS</li>
+</ul>
+<p><strong>Module 10 SAN Protocols</strong></p>
+<ul>
+ <li>Explain the differences between the supported SAN protocols</li>
+ <li>Identify the components that implement scalable SAN on a cluster</li>
+ <li>Configure iSCSI on a cluster and create a LUN</li>
+ <li>Configure a Windows iSCSI initiator</li>
+ <li>Create a portset and an igroup</li>
+</ul>
+<p><strong>Module 11 Storage Efficiency</strong></p>
+<ul>
+ <li>Discuss the storage-efficiency features that are built into clustered Data ONTAP</li>
+ <li>Identify the commands that are needed to manage storage efficiency</li>
+</ul>
+<p><strong>Module 12 Data Protection: Snapshot and SnapMirror Copies</strong></p>
+<ul>
+ <li>Create a Snapshot copy of a volume and create Snapshot policies</li>
+ <li>Create load-sharing (LS) and data-protection (DP) mirror copies</li>
+ <li>Manually and automatically replicate mirror copies</li>
+ <li>Promote an LS mirror copy to replace its read/write volume</li>
+ <li>Restore a Snapshot copy to be a read/write volume</li>
+ <li>Configure Vserver and cluster peering for data protection</li>
+</ul>
+<p><strong>Module 13 Data Protection: Backups and Disaster Recovery</strong></p>
+<ul>
+ <li>Configure and replicate to SnapVault backups</li>
+ <li>Answer questions about NDMP backup</li>
+ <li>Discuss disaster recovery in a clustered Environment</li>
+</ul>
+<p><strong>Module 14 Cluster Management</strong></p>
+<ul>
+ <li>Explain how to configure and use the AutoSupport tool</li>
+ <li>Demonstrate the use of the cluster Event Management System (EMS)</li>
+ <li>Nondisruptively upgrade the Data ONTAP software</li>
+ <li>Scale the cluster’s storage capacity by adding disks to an aggregate</li>
+ <li>Configure the Storage QoS feature</li>
+ <li>Identify any offline storage</li>
+ <li>Review the required steps for forcing a system core dump</li>
+</ul>
+<p><strong>Module 15 Recommended Practices</strong></p>
+<ul>
+ <li>Identify some recommended practices for clustered Data ONTAP high availability</li>
+ <li>List some of the ways to balance clustered Data ONTAP resources</li>
+ <li>Describe some of the methods for managing a cluster</li>
+ <li>Enumerate some of the ways to protect and recover a cluster from a disaster</li>
+</ul>

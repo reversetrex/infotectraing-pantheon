@@ -1,0 +1,231 @@
+<p><strong>Module 1: Cisco Data Center Network Services</strong></p>
+<ul>
+  <li>Examining Functional Layers of the Data Center
+    <ul>
+      <li>Traditional Isolated LAN and SAN Networks</li>
+      <li>LAN Core, Aggregation, and Access Layers</li>
+      <li>Core and Access Layers in a LAN Collapsed Core Design</li>
+      <li>Core and Edge Layers in a Data Center SAN Design</li>
+      <li>Collapsed-Core SAN Design</li>
+    </ul>
+ </li>
+  <li>Reviewing the Cisco Nexus Product Family
+    <ul>
+      <li>Cisco Nexus Data Center Product Portfolio</li>
+      <li>Cisco Nexus 7000 Series Chassis Options</li>
+      <li>Cisco Nexus 7000 Series Supervisor Module</li>
+      <li>Cisco Nexus 7000 Series Licensing Options</li>
+      <li>Cisco Nexus 7000 Series Fabric Modules</li>
+      <li>Cisco Nexus 7000 Series I/O Modules</li>
+      <li>Cisco Nexus 7000 Series Power Supply Options</li>
+      <li>Cisco Nexus 5000 Series Chassis Options</li>
+      <li>Cisco Nexus 5010 and 5020 Switches Features</li>
+      <li>Cisco Nexus 5010 and 5020 Expansion Modules</li>
+      <li>Cisco Nexus 5500 Platform Switches Features</li>
+      <li>Cisco Nexus 5500 Platform Switches Expansion Modules</li>
+      <li>Cisco Nexus 5000 Switch Series Software Licensing</li>
+      <li>Cisco Nexus 2000 Series Fabric Extenders Function in the Cisco Data Center</li>
+      <li>Cisco Nexus 2000 Series Fabric Extenders Features</li>
+    </ul>
+ </li>
+  <li>Reviewing the Cisco MDS Product Family
+    <ul>
+      <li>Cisco MDS 9000 Series Product Suite</li>
+      <li>Cisco MDS 9500 Series Chassis Options</li>
+      <li>Cisco MDS 9500 Series Supervisor Modules</li>
+      <li>Cisco MDS 9500 Series Licensing Options</li>
+      <li>Cisco MDS 9000 Series Switching Modules</li>
+      <li>Cisco MDS 9500 Series Power Supply Options</li>
+      <li>Cisco MDS 9100 Series Switches</li>
+      <li>Cisco MDS 9222i Switch</li>
+    </ul>
+ </li>
+  <li>Monitoring the Cisco Nexus 7000 and 5000 Series Switches
+    <ul>
+      <li>Connecting to the Console Port</li>
+      <li>Running the Initial Setup Script</li>
+      <li>Connecting to the Cisco Nexus 7000 CMP</li>
+      <li>Connecting to the Switch Using SSH to Connect to the Management VRF</li>
+      <li>Reviewing the ISSU on the Cisco Nexus Switches</li>
+      <li>Verifying VLANs</li>
+      <li>Examining the Operational Plane</li>
+      <li>Reviewing Cisco NX-OS Default Control Plane Policing</li>
+      <li>Using Important CLI Commands</li>
+    </ul>
+ </li>
+  <li>Describing vPCs and Cisco FabricPath in the Data Center
+    <ul>
+      <li>Virtual Port Channels</li>
+      <li>Verifying vPCs</li>
+      <li>Cisco FabricPath</li>
+      <li>Verifying Cisco FabricPath</li>
+    </ul>
+ </li>
+  <li>Using OTV on Cisco Nexus 7000 Series Switches
+    <ul>
+      <li>OTV on the Cisco Nexus 7000 Series Switches</li>
+      <li>Verifying OTV on the Cisco Nexus 7000 Series Switches</li>
+    </ul>
+ </li>
+</ul>
+<p><strong>Module 2: Cisco Data Center Virtualization</strong></p>
+<ul>
+  <li>Virtualizing Network Devices
+    <ul>
+      <li>Describing VDCs on the Cisco Nexus 7000 Series Switch</li>
+      <li>Verifying VDCs on the Cisco Nexus 7000 Series Switch</li>
+      <li>Navigating Between VDCs on the Cisco Nexus 7000 Series Switch</li>
+      <li>Describing NIV on Cisco Nexus 7000 and 5000 Series Switches</li>
+    </ul>
+ </li>
+  <li>Virtualizing Storage
+    <ul>
+      <li>LUN Storage Virtualization</li>
+      <li>Storage-System Virtualization</li>
+    </ul>
+ </li>
+  <li>Virtualizing Server Solutions
+    <ul>
+      <li>Benefits of Server Virtualization</li>
+      <li>Available Data Center Server Virtualization Solutions</li>
+    </ul>
+ </li>
+  <li>Using the Cisco Nexus 1000V Series Switch
+    <ul>
+      <li>Limitations of VMware vSwitch</li>
+      <li>Advantages of VMware vDS</li>
+      <li>How the Cisco Nexus 1000V Series Switch Brings Network Visibility to the VM Level</li>
+      <li>How the VSM and VEM Integrate with VMware ESX or ESXi and vCenter</li>
+    </ul>
+ </li>
+  <li>Verifying Setup and Operation of the Cisco Nexus 1000V Series Switch
+    <ul>
+      <li>Verify the Initial Configuration and Module Status on the Cisco Nexus 1000V Series Switch</li>
+      <li>Verifying the VEM Status on the ESX or ESXi Host</li>
+      <li>Validating VM Port Groups</li>
+    </ul>
+ </li>
+</ul>
+<p><strong>Module 3: Cisco Data Center Storage Networking</strong></p>
+<ul>
+  <li>Comparing Storage-Connectivity Options in the Data Center
+    <ul>
+      <li>Comparing Block- and File-Based Network Storage</li>
+      <li>NFS, Fibre Channel, iSCSI, and SCSI</li>
+      <li>SCSI Evolution from DAS to SAN</li>
+    </ul>
+ </li>
+  <li>Describing Fibre Channel Storage Networking
+    <ul>
+      <li>Fibre Channel SAN Topologies</li>
+      <li>Fibre Channel Port Types</li>
+      <li>Fibre Channel Addressing</li>
+      <li>Fibre Channel Layered Model</li>
+      <li>FCNS and the FLOGI process</li>
+      <li>Fibre Channel Zoning and LUN Masking</li>
+    </ul>
+ </li>
+  <li>Verifying Fibre Channel Communications on Cisco MDS 9000 Series Multilayer Switches
+    <ul>
+      <li>Configure a Cisco MDS 9000 Series Multilayer Switch from the CLI Setup Script</li>
+      <li>Update the Cisco NX-OS on a Cisco MDS 9000 Series Multilayer Switch</li>
+      <li>Update Licensed Features on the Cisco MDS 9000 Series Multilayer Switch</li>
+      <li>Verify Initiator and Target Fabric Login</li>
+      <li>Verify Fibre Channel Zoning on a Cisco MDS 9000 Series Multilayer Switch</li>
+      <li>Collect Technical Support Data on a Cisco MDS 9000 Series Multilayer Switch</li>
+    </ul>
+ </li>
+</ul>
+<p><strong>Module 4: Cisco Data Center Unified Fabric</strong></p>
+<ul>
+  <li>Describing DCB
+    <ul>
+      <li>Unified Fabric Benefits</li>
+      <li>IEEE Standards That Enable FCoE</li>
+      <li>Priority Flow Control</li>
+      <li>Enhanced Transmission Selection</li>
+      <li>DCB Exchange</li>
+    </ul>
+ </li>
+  <li>Identifying Connectivity Options for FCoE on the Cisco Nexus 5000 Series Switch
+    <ul>
+      <li>SFP modules</li>
+      <li>Cabling Requirements and Distance Limitations for Common SFP and SFP+ Transceivers</li>
+      <li>Connecting the Cisco UCS P81E Virtual Interface Card to Cisco Nexus 5500UP Unified Fabric Switches</li>
+      <li>Connecting the Cisco Nexus 5500UP Unified Fabric Switch to Northbound LAN and SAN Fabrics</li>
+    </ul>
+ </li>
+  <li>Describing Enhanced FCoE Scalability with Cisco Nexus 2232 10GE Fabric Extenders
+    <ul>
+      <li>Scaling the Data Center Virtualized Access Layer with the Cisco Nexus 2232 10GE Fabric Extenders</li>
+      <li>Cisco Nexus 2232 10GE Fabric Extender-to-Cisco Nexus 5500 Switch Connectivity</li>
+      <li>Adapter FEX on the Cisco Nexus 2232 10GE Fabric Extender</li>
+      <li>Verifying Adapter FEX on the Cisco Nexus 2232 10GE Fabric Extender</li>
+    </ul>
+ </li>
+</ul>
+<p><strong>Module 5: Cisco UCS</strong></p>
+<ul>
+  <li>Describing the Cisco UCS B-Series Product Family
+    <ul>
+      <li>Cisco UCS 6100 and 6200 Series Fabric Interconnects</li>
+      <li>Cisco UCS 5108 Blade Server Chassis</li>
+      <li>Cisco UCS B200 M3 Blade Server</li>
+      <li>Cisco UCS B230 M2 Blade Server</li>
+      <li>Cisco UCS B250 M2 Extended Memory Blade Server</li>
+      <li>Cisco UCS B440 M2 High-Performance Blade Server</li>
+      <li>Mezzanine Card Options for Cisco UCS B-Series Blade Servers</li>
+      <li>Memory Population Guidelines for Cisco UCS B-Series Blade Servers</li>
+    </ul>
+ </li>
+  <li>Describing the Cisco UCS C-Series Product Family
+    <ul>
+      <li>Cisco UCS C-Series Product Family</li>
+      <li>Cisco UCS C200 M2 High-Density Rack Server</li>
+      <li>Cisco UCS C210 M2 General-Purpose Rack Server</li>
+      <li>Cisco UCS C220 M3 Rack Server</li>
+      <li>Cisco UCS C240 M3 Rack Server</li>
+      <li>Cisco UCS C250 M2 Extended-Memory Rack Server</li>
+      <li>Cisco UCS C260 M2 Rack Server</li>
+      <li>Cisco UCS C460 M2 High-Performance Rack Server</li>
+      <li>PCIe Adapter Options for Cisco UCS C-Series Rack Servers</li>
+      <li>RAID Adapter Options for Cisco UCS C-Series Rack Servers</li>
+      <li>Memory Population Guidelines for Cisco UCS C-Series Rack Servers</li>
+    </ul>
+ </li>
+  <li>Connecting Cisco UCS B-Series Blade Servers
+    <ul>
+      <li>Chassis-to-Fabric Interconnect Physical Connectivity</li>
+      <li> I/O Module Architectures</li>
+      <li> Cisco Integrated Management Controller Chip on Cisco UCS B-Series Blade Servers</li>
+      <li> Three Basic Port Personalities in the Fabric Interconnect</li>
+      <li> Discovery Process</li>
+    </ul>
+ </li>
+  <li>Setting up an Initial Cisco UCS B-Series Cluster
+    <ul>
+      <li> Cabling a Cisco UCS Fabric Interconnect Cluster</li>
+      <li> Initial Setup Script for the Primary Peer</li>
+      <li> Initial Setup Script for the Secondary Peer</li>
+      <li> Verifying a Fabric Interconnect Cluster</li>
+    </ul>
+ </li>
+  <li>Describing Cisco UCS Manager Operations
+    <ul>
+      <li> Cisco UCS Manager</li>
+      <li> Layout of the Cisco UCS Manager GUI</li>
+      <li> Navigation Window Tabs</li>
+      <li> Device Discovery in Cisco UCS Manager</li>
+      <li> Verifying Device Discovery in UCS Manager</li>
+    </ul>
+ </li>
+  <li>Describing Cisco UCS Manager Pools, Policies, Templates, and Service Profiles
+    <ul>
+      <li> Benefits of Stateless Computing</li>
+      <li> Using Identity Pools in Service Profiles</li>
+      <li> Using Service Profile Templates to Enable Rapid Provisioning and Consistent Application of Policy</li>
+      <li> Creation of Policies for Service Profiles and Service Profile Templates</li>
+      <li> Chassis and Blade Power Capping</li>
+    </ul>
+ </li>
+</ul>

@@ -1,0 +1,229 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction to PowerPoint</h3>
+  <ul>
+    <li>How to Create Effective Presentations</li>
+  </ul>
+  <h3>Section B: Effective Presentations</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Take AIM</li>
+    <li>Audience</li>
+    <li>Intent</li>
+    <li>Message</li>
+    <li>Presentation Structure</li>
+    <li>Visuals</li>
+    <li>Nonverbal Communication</li>
+    <li>Presentation Tips</li>
+  </ul>
+  <h3>Section C: Creating Presentations</h3>
+  <ul>
+    <li>Opening PowerPoint</li>
+    <li>New Presentations</li>
+    <li>Opening Templates</li>
+    <li>Interface Layout</li>
+    <li>Changing Views</li>
+    <li>Navigation</li>
+    <li>Saving a Presentation</li>
+    <li>File Extensions</li>
+    <li>PowerPoint Process</li>
+  </ul>
+  <h3>Section D: Creating Initial Content</h3>
+  <ul>
+    <li>Placeholders</li>
+    <li>Working with Text</li>
+    <li>Adding Slides</li>
+    <li>Changing Slide Layouts</li>
+    <li>Arranging Slides</li>
+    <li>Copying and Pasting</li>
+  </ul>
+  <h3>Section E: Themes</h3>
+  <ul>
+    <li>Live Preview</li>
+    <li>Theme Colors</li>
+    <li>Customizing Colors</li>
+    <li>Theme Fonts</li>
+    <li>Theme Effects</li>
+    <li>Saving Themes</li>
+    <li>Setting Default Themes</li>
+  </ul>
+  <h3>Section F: Customizing Slide Masters</h3>
+  <ul>
+    <li>Using Masters</li>
+    <li>Slide Master View</li>
+    <li>New Slide Master</li>
+    <li>New Layout</li>
+    <li>Headers and Footers</li>
+    <li>Renaming Layouts</li>
+    <li>Using New Layout</li>
+    <li>Preparing Templates</li>
+    <li>Saving Templates</li>
+  </ul>
+  <h3>Section G: Working with Text</h3>
+  <ul>
+    <li>Mini Toolbar</li>
+    <li>Paragraph Formatting</li>
+    <li>Font Formatting</li>
+    <li>Editing Master</li>
+    <li>Synonyms</li>
+    <li>Format Text Box</li>
+    <li>Turning Off Mini Toolbar</li>
+  </ul>
+  <h3>Section H: Working with Lists</h3>
+  <ul>
+    <li>Creating Bulleted Lists</li>
+    <li>Modifying Bulleted Lists</li>
+    <li>Customizing Bullets</li>
+    <li>Setting Tabs</li>
+    <li>Using the Ruler</li>
+    <li>Applying Indents</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Using Existing Content</h3>
+  <ul>
+    <li>Headings</li>
+    <li>Creating New Slides</li>
+    <li>Outline View</li>
+    <li>Bullets</li>
+    <li>Arranging Slides</li>
+    <li>Adding Slides</li>
+    <li>Saving as an RTF</li>
+    <li>Creating Word Handouts</li>
+    <li>Reusing Slides</li>
+    <li>Slide Libraries</li>
+  </ul>
+  <h3>Section B: Charts</h3>
+  <ul>
+    <li>Excel 2007</li>
+    <li>Inserting Charts</li>
+    <li>Excel Charts</li>
+    <li>Paste Special</li>
+    <li>Changing Chart Types</li>
+    <li>Selecting Data Sources</li>
+    <li>Layout Options</li>
+    <li>Chart Formatting</li>
+    <li>Chart Templates</li>
+  </ul>
+  <h3>Section C: Tables</h3>
+  <ul>
+    <li>Inserting Tables</li>
+    <li>Design Options</li>
+    <li>Merging Cells</li>
+    <li>Entering Text</li>
+    <li>Changing Table Settings</li>
+    <li>Copy and Paste</li>
+  </ul>
+  <h3>Section D: Shape Properties</h3>
+  <ul>
+    <li>Starting with Shapes</li>
+    <li>Fill Options</li>
+    <li>Texture Fill</li>
+    <li>Inserting Pictures</li>
+    <li>Shadows</li>
+    <li>3-D Effects</li>
+    <li>Modifying Text</li>
+  </ul>
+  <h3>Section E: Drawing Tools</h3>
+  <ul>
+    <li>Inserting Shapes</li>
+    <li>Arranging Shapes</li>
+    <li>Distributing Shapes</li>
+    <li>Selection Pane</li>
+  </ul>
+  <h3>Section F: SmartArt Diagrams</h3>
+  <ul>
+    <li>Converting Bulleted Lists</li>
+    <li>Working with the Text Pane</li>
+    <li>SmartArt Tools</li>
+    <li>Creating SmartArt</li>
+    <li>Adding Shapes</li>
+  </ul>
+  <h3>Section G: Pictures and Photo Albums</h3>
+  <ul>
+    <li>Creating Photo Albums</li>
+    <li>Album Layout</li>
+    <li>Captions</li>
+    <li>Inserting Pictures</li>
+    <li>Compressing Pictures</li>
+  </ul>
+  <h3>Section H: Backgrounds and Watermarks</h3>
+  <ul>
+    <li>Background Styles</li>
+    <li>Hiding Background Graphics</li>
+    <li>Inserting Watermarks</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Multimedia</h3>
+  <ul>
+    <li>Supported File Types</li>
+    <li>Inserting Sound Clips</li>
+    <li>Sound Tools</li>
+    <li>Modifying Sound Files</li>
+    <li>Sound Insert Options</li>
+    <li>Narration</li>
+    <li>Inserting Movies</li>
+    <li>Movie Tools</li>
+  </ul>
+  <h3>Section B: Animations</h3>
+  <ul>
+    <li>Creating Animations</li>
+    <li>Customizing Animations</li>
+    <li>Previewing Animation</li>
+    <li>Animating Text</li>
+    <li>Animation Settings</li>
+    <li>Animating SmartArt</li>
+    <li>Animating Charts</li>
+    <li>Motion Paths</li>
+  </ul>
+  <h3>Section C: Customizing Slide Shows</h3>
+  <ul>
+    <li>Transitions</li>
+    <li>Individual Transitions</li>
+    <li>Hiding Slides</li>
+    <li>Custom Show</li>
+  </ul>
+  <h3>Section D: Save for Web Viewing</h3>
+  <ul>
+    <li>Hyperlinks</li>
+    <li>Action Buttons</li>
+    <li>Saving as a Web Page</li>
+    <li>Viewing as a Web Page</li>
+  </ul>
+  <h3>Section E: Delivery Formats</h3>
+  <ul>
+    <li>Page Setup</li>
+    <li>Saving as a Picture</li>
+    <li>PowerPoint Show</li>
+    <li>PDF/XPS</li>
+    <li>Package for CD</li>
+    <li>CD Options</li>
+  </ul>
+  <h3>Section F: Proofing and Reviewing</h3>
+  <ul>
+    <li>Visual Check</li>
+    <li>Spell Check</li>
+    <li>AutoCorrect</li>
+    <li>Research</li>
+    <li>Comments</li>
+  </ul>
+  <h3>Section G: Prepare and Protect</h3>
+  <ul>
+    <li>Document Properties</li>
+    <li>Document Inspector</li>
+    <li>Encryptions and Passwords</li>
+    <li>Information Rights Management</li>
+    <li>Digital Signature</li>
+    <li>Mark as Final</li>
+    <li>Compatibility Checker</li>
+  </ul>
+  <h3>Section H: Prepare for the Presentation</h3>
+  <ul>
+    <li>Printing Tips</li>
+    <li>Optimization Tips</li>
+    <li>Running a Show</li>
+    <li>Speaker's Notes</li>
+    <li>Setting Up the Show</li>
+    <li>Rehearsing Timings</li>
+    <li>Using Presenters View</li>
+    <li>Print Options</li>
+    <li>Print Preview</li>
+  </ul>

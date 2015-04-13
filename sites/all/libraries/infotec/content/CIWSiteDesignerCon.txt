@@ -1,0 +1,19 @@
+<p>Unit 1: Overview of Web Design Concepts</p>
+<p>Unit 2: Navigation concepts</p>
+<p>Unit 3: Web Graphics</p>
+<p>Unit 4: Multimedia and the Web</p>
+<p>Unit 5: The Website Development Process</p>
+<p>Unit 6: HTML Standards and Compliance</p>
+<p>Unit 7: HTML Tables and Web Page Structure</p>
+<p>Unit 8: HTML Frames</p>
+<p>Unit 9: Metadata, Cookies and the Web</p>
+<p>Unit 10: Cascading Style Sheets</p>
+<p>Unit 11: JavaScript Fundamentals</p>
+<p>Unit 12: Dynamic HTML</p>
+<p>Unit 13: Extensible Markup Language (XML)</p>
+<p>Unit 14: Java Applets</p>
+<p>Unit 15: Databases</p>
+<p>Unit 16: HTTP Servers</p>
+<p>Unit 17: Standards Organizations</p>
+<p>Unit 18: Applications and tools</p>
+<p>Unit 19: Website Publishing</p>

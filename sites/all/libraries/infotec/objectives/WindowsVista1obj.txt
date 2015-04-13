@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+
+<ul>
+	<li>Identify the basic components and capabilities of personal computers.</li>
+	<li>Explore Windows Vista.</li>
+	<li>Customize the Windows Vista desktop.</li>
+	<li>Use common tools and programs available in Windows Vista.</li>
+	<li>Manage folders and files.</li>
+	<li>Browse the Internet using Internet Explorer 7.0.</li>
+</ul>

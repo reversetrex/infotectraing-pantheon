@@ -1,0 +1,49 @@
+<p><strong> Unit 1: Customizing the Work Area </strong></p>
+<ul>
+  <li> Working with built-in toolbars </li>
+  <li>Using custom toolbars </li>
+  <li>Creating and using styles </li>
+  <li>Using templates </li>
+</ul>
+<p><strong> Unit 2: Advanced Formula Construction </strong></p>
+<ul>
+  <li> Using names </li>
+  <li>Using the IF function </li>
+  <li>Using the VLOOKUP function </li>
+  <li>Using IS functions and the Auditing features </li>
+</ul>
+<p><strong> Unit 3: Using Pivot Tables </strong></p>
+<ul>
+  <li> Creating pivot tables </li>
+  <li>Modifying pivot tables </li>
+  <li>Grouping and summarizing data in a pivot table </li>
+</ul>
+<p><strong> Unit 4: Working with Multiple Worksheets </strong></p>
+<ul>
+  <li> Working with workbooks </li>
+  <li>Linking cells in different workbooks </li>
+  <li>Workbook versus links and workspaces </li>
+</ul>
+<p><strong> Unit 5: Consolidating and Analyzing Data </strong></p>
+<ul>
+  <li> Consolidating data from more than one worksheet </li>
+  <li>Using the Goal Seek and Solver utilities </li>
+  <li>Using Scenario Manager to view a worksheet with different input values </li>
+</ul>
+<p><strong> Unit 6: Using Protection and Display Options </strong></p>
+<ul>
+  <li> Using comments </li>
+  <li>Protecting workbooks </li>
+  <li>Using custom views </li>
+</ul>
+<p><strong> Unit 7: Introduction to Macros </strong></p>
+<ul>
+  <li> Running macros </li>
+  <li>Recording a macro </li>
+  <li>Viewing and editing VBA code </li>
+</ul>
+<p><strong> Unit 8: Working with Interactive Excel Web Documents </strong></p>
+<ul>
+  <li> Saving Excel worksheets as Web documents </li>
+  <li>Spreadsheet Web Components </li>
+</ul>

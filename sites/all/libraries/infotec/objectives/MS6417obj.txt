@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Configure and use Windows Server  as an application server with new Server Roles. </li>
+  <li>Use new features in IIS 7.0  Application Server, including the new modular configuration system. </li>
+  <li>Manage Web Applications with IIS  7.0. </li>
+  <li>Troubleshoot IIS 7.0-based Web  servers with automatic failed request tracing and other included features and tools. </li>
+  <li>Plan for Windows SharePoint  Services 3.0 implementation in a variety of network environments. </li>
+  <li>Configure and manage Windows  SharePoint Services 3.0 from initial setup through troubleshooting and day-to-day operation. </li>
+  <li>Use new features in Terminal  Services and describe Terminal Services Licensing. </li>
+  <li>Use and manage Terminal Services  remote programs and gateways, including troubleshooting and performance optimization. </li>
+  <li>Configure  disk storage in Windows Server 2008.</li>
+</ul>

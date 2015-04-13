@@ -1,0 +1,11 @@
+<p><strong>Module 1: Introduction to MOF</strong> - This module introduces you to the business and IT trends that created the need for MOF. After completing this  module, you will be able to describe the major challenges now facing IT operations, and the MOF approach to service management.</p>
+
+<p><strong>Module 2: Building on ITIL</strong> - This module provides a short introduction to ITIL and a high-level overview of how MOF builds on ITIL to apply it to the Microsoft technologies and their specific business context. After completing this module, you will be able to explain what ITIL is and  describe how MOF builds on ITIL.</p>
+
+<p><strong>Module 3: MOF Process Model</strong> - This module presents the MOF Process Model. It provides an overview of the Process Model quadrants, their  associated operations management reviews (OMRs), and service management functions (SMFs). After completing this module, you will be able to explain the  basics of the MOF Process Model, its four quadrants, and the mission of service  for each quadrant.</p>
+
+<p><strong>Module 4: MOF Model</strong> - This module provides an overview of the MOF Team Model. It describes the principles of a successful  team and presents the seven team role clusters and their goals for success.  This module also discusses the need for strong communication in a team. After completing this module, you will be able to explain the MOF Team Model and the mission, key responsibilities, and needed staff competencies for each role cluster.</p>
+
+<p><strong>Module 5: MOF Risk Management Discipline</strong> - This module introduces the MOF Risk Management Discipline and explains how and why risk management has been embedded in MOF. After completing this module, you will be able to explain what the MOF Risk Management Discipline is and why it was implemented, as well as describe how the MOF Risk Management Discipline is applied to operations.</p>
+
+<p><strong>Module 6: Course Summary</strong> - This module reviews the key lessons from the course, and provides next  steps and resource locations for learning more about MOF.</p>

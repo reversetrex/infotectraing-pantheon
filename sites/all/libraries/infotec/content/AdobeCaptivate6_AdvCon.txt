@@ -1,0 +1,66 @@
+<p><strong>Essentials Skills with a Twist</strong></p>
+<ol>
+  <li>Planning a project</li>
+  <li>Rehearsing a script</li>
+  <li>Record a custom simulation</li>
+</ol>
+<p><strong>Video Demos</strong></p>
+<ol>
+  <li>Record a video demo</li>
+  <li>Zoom and pan</li>
+  <li>Split a video</li>
+  <li>Trim a video</li>
+</ol>
+<p><strong>Custom Styles, Branching and Aggregating</strong></p>
+<ol>
+  <li>Create a caption style</li>
+  <li>Manipulating project assets</li>
+  <li>Branching</li>
+  <li>Publishing and Aggregating SWFs</li>
+</ol>
+<p><strong>Questions Pools</strong></p>
+<ol>
+  <li>Create a question slide</li>
+  <li>Working with question pools</li>
+</ol>
+<p><strong>Accessible eLearning</strong></p>
+<ol>
+  <li>Document information</li>
+  <li>Accessibility</li>
+  <li>Slide audio imports</li>
+  <li>Shortcut keys</li>
+</ol>
+<p><strong>Variables, Widgets and Interactions</strong></p>
+<ol>
+  <li>Project information</li>
+  <li>System variables: insert and edit</li>
+  <li>User variables</li>
+  <li>Widgets</li>
+</ol>
+<p><strong>Actions</strong></p>
+<ol>
+  <li>Objects: naming, controlling visibility, and grouping</li>
+  <li>Actions</li>
+  <li>Variables</li>
+</ol>
+<p><strong>Reviewing and Background Editing</strong></p>
+<ol>
+  <li>Sending a project for shared review</li>
+  <li>Review with comments</li>
+  <li>Image mask</li>
+  <li>Layers</li>
+</ol>
+<p><strong>Master slides, themes, and project templates</strong></p>
+<ol>
+  <li>Master slides</li>
+  <li>Applying a theme</li>
+  <li>Creating and editing a theme</li>
+  <li>Project templates</li>
+</ol>
+<p><strong>Reporting results</strong></p>
+<ol>
+  <li>Working with quiz results</li>
+  <li>Create a manifest file</li>
+  <li>Button interactions</li>
+  <li>LMS</li>
+</ol>

@@ -1,0 +1,102 @@
+<p><strong>Module 1: Overview and Planning - This module provides an overview of the installation process and describes the servers used in the Microsoft Dynamics AX 2012 environment.</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Server Setup</li>
+  <li>Domain Accounts</li>
+  <li>Planning</li>
+  <li>Architecture</li>
+  <li>Planning Hardware and Software</li>
+  <li>RAID Subsystem</li>
+  <li>Disaster Recovery</li>
+  <li>Staff Skills Review</li>
+  <li>Naming Convention</li>
+  <li>Components</li>
+</ul>
+<p><strong>Module 2: Installation - This module provides details on how to install Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Setup Utility</li>
+  <li>Install an Environment</li>
+  <li>Perform a Single-Computer Installation</li>
+  <li>Configuration Utilities</li>
+  <li>Install Microsoft Dynamics AX in Silent Mode</li>
+  <li>Office Add-Ins</li>
+  <li>Initialization Checklist</li>
+</ul>
+<p><strong>Module 3: Managing Users and Security - This module shows how to use manage users using the security framework for Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Security Overview</li>
+  <li>Authentication</li>
+  <li>Adding Users</li>
+  <li>Adding Active Directory Groups</li>
+  <li>Role Based Security</li>
+  <li>Extensible Data Security Framework</li>
+  <li>Customizing Security</li>
+</ul>
+<p><strong>Module 4: Services - This module reviews Services and the Application Integration Framework within Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Services Overview</li>
+  <li>Administration</li>
+  <li>Integration and Planning</li>
+  <li>Infrastructure and Deployment</li>
+  <li>Troubleshoot and Monitor Services</li>
+  <li>Security</li>
+</ul>
+<p><strong>Module 5: Workflow - This module shows how to setup and maintain Workflow in Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>General Features</li>
+  <li>Architecture</li>
+  <li>Create a Workflow</li>
+  <li>Graphical Workflow Editor</li>
+  <li>Configure an Approval Element</li>
+  <li>Configure Decisions</li>
+  <li>Configure a Parallel Activity</li>
+  <li>Configure a Sub Workflow</li>
+  <li>Configure Line-Item Workflows</li>
+  <li>Configure Tasks</li>
+  <li>Completing a Workflow   Configuration</li>
+  <li>Workflow Types</li>
+  <li>Administration</li>
+  <li>Inquiries and Reports</li>
+</ul>
+<p><strong>Module 6: Analytics - This module reviews installing and configuring cubes in Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Cube Overview</li>
+  <li>Installation and Deployment</li>
+  <li>Configuration</li>
+  <li>Security</li>
+</ul>
+<p><strong>Module 7: Reporting - This module reviews the SSRS reporting architecture within Microsoft Dynamics AX 2012.</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Planning Considerations for Reporting</li>
+  <li>Batch Support</li>
+  <li>Installation and Deployment</li>
+  <li>Configure Report Servers</li>
+  <li>Security Considerations</li>
+</ul>
+<p><strong>Module 8: Enterprise Portal - In this module Enterprise Portal concepts are discussed including: installation, security, deployment, authentication, configuration and administration.</strong></p>
+<ul>
+  <li>About Enterprise Portal</li>
+  <li>Installation</li>
+  <li>Security and Authentication</li>
+  <li>Deployment</li>
+  <li>Configuration and Administration</li>
+</ul>
+<p><strong>Module 9: Administration - In this module concepts used to administer Microsoft Dynamics AX 2012 are discussed.</strong></p>
+<ul>
+  <li>Model Management</li>
+  <li>System Monitoring</li>
+  <li>System Administration</li>
+  <li>Set Up and Manage Emails</li>
+  <li>Set Up and Manage Batch Processing</li>
+  <li>Set Up and Manage Alerts</li>
+</ul>
+<p><strong>Module 10: Organization Model - This module reviews scenarios setup for the new organization hierarchy.</strong></p>
+<ul>
+  <li>About Organizations and Organizational Hierarchies</li>
+  <li>Plan the Organizational Hierarchy</li>
+  <li>Working with Legal Entities</li>
+  <li>Working with Operational Units</li>
+  <li>Working with Organizational Hierarchies</li>
+  <li>Organization Hierarchy Examples</li>
+</ul>

@@ -1,0 +1,28 @@
+<p><strong>Module 1:  Overview</strong></p>
+<blockquote>
+  <p>  A  simple introduction module.</p>
+</blockquote>
+<p><strong>Module 2:  Server Site Definitions</strong></p>
+<blockquote>
+  <p>  In  this module we will explore each of the site definitions that come with  SharePoint Server.</p>
+</blockquote>
+<p><strong>Module 3:  Workflows</strong></p>
+<blockquote>
+  <p>  In  this module we are going to take a look at implementing workflows with  SharePoint Designer 2010.</p>
+</blockquote>
+<p><strong>Module 4:  My Site</strong></p>
+<blockquote>
+  <p>  In  this module we will review the new Social Computing features in SharePoint 2010  and the SharePoint Server feature called My Sites.</p>
+</blockquote>
+<p><strong>Module 5:  Site Administration</strong></p>
+<blockquote>
+  <p> In  this module we are going to take a quick look at some basic site administration  tasks. These are tasks that can be done  by site &quot;owners&quot;.</p>
+</blockquote>
+<p><strong>Module 6:  Site Customization</strong></p>
+<blockquote>
+  <p>  In  this module we will take a very brief look at some of the ways to customize  your site via the browser and as an end user. There are many more ways at a developer level to customize SharePoint  sites, but this module is focused at an end user level.</p>
+</blockquote>
+<p><strong>Module 7:  Site Collection Administration</strong></p>
+<blockquote>
+  <p>In this module we  take a look at all site collection settings and describe what a site collection  administrator is, and what they can do.</p>
+</blockquote>

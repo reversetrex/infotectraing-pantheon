@@ -1,0 +1,56 @@
+<p><strong>Lesson 1: Streamlining Workflow</strong></p>
+<ul>
+  <li><strong>Topic 1A:</strong>Update Workbook Properties</li>
+  <li><strong>Topic 1B:</strong>Create a Macro</li>
+  <li><strong>Topic 1C:</strong>Edit a Macro</li>
+  <li><strong>Topic 1D:</strong>Apply Conditional Formatting</li>
+  <li><strong>Topic 1E:</strong>Add Data Validation Criteria</li>
+</ul>
+<p><strong>Lesson 2: Collaborating with Other Users</strong></p>
+<ul>
+  <li><strong>Topic 2A:</strong>Protect Files</li>
+  <li><strong>Topic 2B:</strong>Share a Workbook</li>
+  <li><strong>Topic 2C:</strong>Set Revision Tracking</li>
+  <li><strong>Topic 2D:</strong>Review Tracked Revisions</li>
+  <li><strong>Topic 2E:</strong>Merge Workbooks</li>
+  <li><strong>Topic 2F:</strong>Administer Digital Signatures</li>
+  <li><strong>Topic 2G:</strong>Restrict Document Access</li>
+</ul>
+<p><strong>Lesson 3: Auditing Worksheets</strong></p>
+<ul>
+  <li><strong>Topic 3A:</strong>Trace Cells</li>
+  <li><strong>Topic 3B:</strong>Troubleshoot Invalid Data and Formula Errors</li>
+  <li><strong>Topic 3C:</strong>Watch and Evaluate Formulas</li>
+  <li><strong>Topic 3D:</strong>Create a Data List Outline</li>
+</ul>
+<p><strong>Lesson 4: Analyzing Data</strong></p>
+<ul>
+  <li><strong>Topic 4A:</strong>Create a Trendline</li>
+  <li><strong>Topic 4B:</strong>Create Sparklines</li>
+  <li><strong>Topic 4C:</strong>Create Scenarios</li>
+  <li><strong>Topic 4D:</strong>Perform a What-If Analysis</li>
+  <li><strong>Topic 4E:</strong>Perform a Statistical Analysis with the  Analysis ToolPak</li>
+</ul>
+<p><strong>Lesson 5: Working with Multiple Workbooks</strong></p>
+<ul>
+  <li><strong>Topic 5A:</strong>Create a Workspace</li>
+  <li><strong>Topic 5B:</strong>Consolidate Data</li>
+  <li><strong>Topic 5C:</strong>Link Cells in Different Workbooks</li>
+  <li><strong>Topic 5D:</strong>Edit Links</li>
+</ul>
+<p><strong>Lesson 6: Importing and Exporting Data</strong></p>
+<ul>
+  <li><strong>Topic 6A:</strong>Export Excel Data</li>
+  <li><strong>Topic 6B:</strong>Import a Delimited Text File</li>
+</ul>
+<p><strong>Lesson 7: Integrating Excel Data with the Web</strong></p>
+<ul>
+  <li><strong>Topic 7A:</strong>Publish a Worksheet to the Web</li>
+  <li><strong>Topic 7B:</strong>Import Data from the Web</li>
+  <li><strong>Topic 7C:</strong>Create a Web Query</li>
+</ul>
+<p><strong>Lesson 8: Structuring Workbooks with XML</strong></p>
+<ul>
+  <li><strong>Topic 8A:</strong>Develop XML Maps</li>
+  <li><strong>Topic 8B:</strong>Import and Export XML Data</li>
+</ul>

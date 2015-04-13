@@ -1,0 +1,39 @@
+<p><strong>Module 1: Introduction to Windows  SharePoint Services 3.0</strong></p>
+<ul>
+  <li>Windows SharePoint Services Environment </li>
+  <li>Overview of Windows SharePoint Services  Components </li>
+  <li>Overview of Site Components </li>
+  <li>Windows SharePoint Services Administration </li>
+</ul>
+
+<p><strong>Module 2: Planning and Installing  Microsoft Windows SharePoint Services 3.0 </strong></p>
+<ul>
+  <li>Planning Windows SharePoint Services 3.0  Installation </li>
+  <li>Planning Windows SharePoint Services  Topology </li>
+  <li>Performing New Windows SharePoint Services  3.0 Installation </li>
+  <li>Upgrading Windows SharePoint Services 2.0  to Windows SharePoint Services 3.0</li>
+</ul>
+
+<p><strong>Module 3: Administering and Managing  Windows SharePoint Services Servers </strong></p>
+<ul>
+  <li>Configuring Server Security </li>
+  <li>Managing Web Applications </li>
+  <li>Managing Sites </li>
+  <li>Maintaining the Server </li>
+  <li>Monitoring Performance </li>
+</ul>
+
+<p><strong>Module 4: Windows SharePoint Services 3.0  Site Administration </strong></p>
+<ul>
+  <li>Administering Windows SharePoint Services  Site </li>
+  <li>Controlling Access to Windows SharePoint  Services </li>
+  <li>Customizing Sites </li>
+</ul>
+
+<p><strong>Module 5: Working with Windows SharePoint  Services 3.0Lessons </strong></p>
+<ul>
+  <li>Working with Windows SharePoint Services  Sites </li>
+  <li>Creating and Managing Lists and Surveys </li>
+  <li>Managing Libraries </li>
+  <li>Working  with Microsoft Office 2007</li>
+</ul>

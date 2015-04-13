@@ -1,0 +1,9 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> manage symbols and instances. </li>
+  <li> organize large projects more easily using scenes and labels. </li>
+  <li> create interactive components in Flash and establish a navigation structure. </li>
+  <li> import audio into a Flash movie and control the different types of sounds. </li>
+  <li> work with video objects for creating dynamic animations in Flash. </li>
+  <li> publish a Flash movie and configure it for a quick and easy download. </li>
+</ul>

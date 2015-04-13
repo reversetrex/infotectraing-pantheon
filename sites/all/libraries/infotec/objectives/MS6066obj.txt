@@ -1,0 +1,11 @@
+<ul>
+  <li>Create a Windows Forms application  by using the new features of Windows Mobile 6.</li>
+  <li> Build an application that adapts to  different hardware capabilities.</li>
+  <li> Create a Windows Mobile 6 application that uses a SQL Server 2005 Compact Edition database.</li>
+  <li>Synchronize data between SQL Server  2005 Compact Edition and SQL Server 2005 by using replication</li>
+  <li>Build an application that detects network availability and queues Web service calls until a network is available.</li>
+  <li>Implement application security features in Windows Mobile 6.</li>
+  <li>Enhance an application by using multimedia and location-aware capabilities.</li>
+  <li>Implement Office Mobile functionality in an application.</li>
+  <li>Create  a digitally-signed Cab file.</li>
+</ul>

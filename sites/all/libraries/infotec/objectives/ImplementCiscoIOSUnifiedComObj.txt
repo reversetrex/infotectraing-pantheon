@@ -1,0 +1,12 @@
+<p>Candidates achieving the CCNA Voice  certification should be capable of performing the following tasks:</p>
+
+<ul>
+  <li>Describe the components of the Cisco Unified Communications Architecture. </li>
+  <li>Describe PSTN components and technologies. </li>
+  <li>Describe how to interconnect VoIP with service provider networks. </li>
+  <li>Implement a UC 500 system using Cisco Configuration Assistant. </li>
+  <li>Implement Cisco Unified Communications Manager Express to support endpoints using Cisco CLI Commands. </li>
+  <li>Implement Cisco Unified Communications Manager Express to connect to service provider networks using CLI commands. </li>
+  <li>Implement Cisco Unity Express in a Cisco Unified Communications Manager Express environment using CLI commands. </li>
+  <li>Perform basic maintenance and operations tasks to support UC 500 and Cisco Unified Communications Manager express deployments.</li>
+</ul>

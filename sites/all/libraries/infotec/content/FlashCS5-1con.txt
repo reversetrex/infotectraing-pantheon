@@ -1,0 +1,46 @@
+<p><strong>Lesson 1: Getting Started with Flash CS5</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Identify Components of the Flash CS5  Interface</li>
+  <li><strong>Topic 1B: </strong>Customize the Flash CS5 Interface</li>
+  <li><strong>Topic 1C: </strong>Introduce Rich Media Design Principles</li>
+</ul>
+<p><strong>Lesson 2: Adding Shapes, Colors, and Lines  with Drawing and Painting Tools</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Identify Flash Drawing and Painting  Components</li>
+  <li><strong>Topic 2B: </strong>Apply and Customize Colors</li>
+  <li><strong>Topic 2C: </strong>Use Drawing and Painting Tools</li>
+  <li><strong>Topic 2D: </strong>Work with Interacting Objects</li>
+</ul>
+<p><strong>Lesson 3: Creating Symbols and Instances</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Create Symbols</li>
+  <li><strong>Topic 3B: </strong>Create Symbol Instances</li>
+</ul>
+<p><strong>Lesson 4: Identifying Image Types</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Identify Copyright and Citation  Requirements</li>
+  <li><strong>Topic 4B: </strong>Compare Vector and Bitmap Images</li>
+  <li><strong>Topic 4C: </strong>Optimize Bitmap Images for Flash</li>
+</ul>
+<p><strong>Lesson 5: Manipulating Objects</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Select Objects Using the Selection Tools</li>
+  <li><strong>Topic 5B: </strong>Transform Objects</li>
+  <li><strong>Topic 5C: </strong>Organize Objects with Layers</li>
+</ul>
+<p><strong>Lesson 6: Working with Text</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Add Text to a Document</li>
+  <li><strong>Topic 6B: </strong>Create Text Fields</li>
+</ul>
+<p><strong>Lesson 7: Using Animation Basics to Create  Animations</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Create Animations with Frames and Keyframes</li>
+  <li><strong>Topic 7B: </strong>Create Tween Animations</li>
+</ul>
+<p><strong>Lesson 8: Getting Started with  ActionScript</strong></p>
+<ul>
+  <li><strong>Topic 8A: </strong>An Introduction to ActionScript</li>
+  <li><strong>Topic 8B: </strong>Coding with Basic ActionScript</li>
+  <li><strong>Topic 8C: </strong>Use Code Snippets</li>
+</ul>

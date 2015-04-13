@@ -1,0 +1,9 @@
+<ul>
+  <li> Describe advanced IP addressing to include variable-length subnet mask, route summarization, classless interdomain routing (CIDR), basic IP version 6, and using Network Address Translation (NAT) with route maps </li>
+  <li> Identify advanced IP routing principles, including static and dynamic routing characteristics and the concepts of classless routing and network boundary summarization </li>
+  <li> Configure Enhanced Interior Gateway Routing Protocol (EIGRP) for a scalable network </li>
+  <li> Configure Open Shortest Path First (OSPF) for a scalable multiarea network </li>
+  <li> Configure Intermediate System-to-Intermediate System (IS-IS) for a scalable multiarea network </li>
+  <li> Manipulate routing updates and packet flow using redistribution, distribution lists, administrative distance, route maps, and policy-based routing </li>
+  <li> Configure basic Border Gateway Protocol (BGP) for internal and external Border Gateway Protocol connections </li>
+</ul>

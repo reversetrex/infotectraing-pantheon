@@ -1,0 +1,110 @@
+<p><strong>Lesson 1: Introduction to JavaScript</strong></p>
+<ul>
+  <li>Origins of JavaScript</li>
+  <li> JavaScript Characteristics</li>
+  <li> Common Programming Concepts</li>
+  <li> Java and JavaScript</li>
+  <li> Server-Side vs. Client-Side Applications</li>
+  <li> Annotating Code with Comments</li>
+</ul>
+<p><strong>Lesson 2: Working with Variables and Data</strong></p>
+<ul>
+  <li>Communicating with the User</li>
+  <li> Using Data More Than Once: Variables</li>
+  <li> JavaScript Expressions</li>
+  <li> Operators</li>
+  <li> Inline Scripting, Simple User Events, and 
+    the onLoad and onUnload Event
+    Handlers</li>
+  <li> Keywords and Reserved Words</li>
+</ul>
+<p><strong>Lesson 3: Functions, Methods and Events</strong></p>
+<ul>
+  <li>Functions</li>
+  <li> Defining a Function</li>
+  <li> Calling a Function</li>
+  <li> User and JavaScript Event Handlers</li>
+  <li> Methods as Functions</li>
+</ul>
+<p><strong>Lesson 4: Controlling Program Flow</strong></p>
+<ul>
+  <li>Controlling Decisoinal Program Flow</li>
+  <li> The if...else Statement</li>
+  <li> The while Statement</li>
+  <li> The do...while Statement</li>
+  <li> The for Statement</li>
+  <li> The break Statement</li>
+  <li> The continue Statement</li>
+  <li> The switch Statement</li>
+</ul>
+<p><strong>Lesson 5: The JavaScript Object Model</strong></p>
+<ul>
+  <li>The JavaScript Object Model</li>
+  <li> Commonly Used Objects</li>
+  <li> The window Object</li>
+  <li> The document Statement</li>
+  <li> The with Object</li>
+  <li> The image Object</li>
+  <li> The history Object</li>
+  <li> The location Object</li>
+  <li> The navigator Object</li>
+</ul>
+<p><strong>Lesson 6: JavaScript Language Objects</strong></p>
+<ul>
+  <li>JavaScript Language Objects</li>
+  <li> The String Object</li>
+  <li> Additional String Object Methods</li>
+  <li> Evaluating Strings</li>
+  <li> Regular Expressions</li>
+  <li> The Array Object</li>
+  <li> The Date Object</li>
+  <li> Setting and Extracting Time Information</li>
+  <li> The Math Object</li>
+</ul>
+<p><strong>Lesson 7: Developing Interactive Forms</strong></p>
+<ul>
+  <li>Interactive Forms</li>
+  <li> Overview of Form Elements</li>
+  <li> Referring to form Element</li>
+  <li> The form Object</li>
+  <li> The button Object</li>
+  <li> The checkbox Object</li>
+  <li> The text and textarea Objects</li>
+  <li> The radio Object</li>
+  <li> The select Object</li>
+  <li> Multiple-Selection Lists</li>
+  <li> Form Validation</li>
+</ul>
+<p><strong>Lesson 8: Cookies and JavaScript Security</strong></p>
+<ul>
+  <li>Security and Cookies</li>
+  <li> What Are Cookies?</li>
+  <li> How Are Cookies Sent?</li>
+  <li> Who Can Send Cookies?</li>
+  <li> Storing Cookies</li>
+  <li> Why Use Cookies?</li>
+  <li> Assigning a Cookie</li>
+  <li> Testing for Cookie Presence</li>
+  <li> Clearing a Cookie</li>
+  <li> Controlling Cookies in the Browser</li>
+  <li> JavaScript Security Issues</li>
+</ul>
+<p><strong>Lesson 9: Controlling Frames in JavaScript</strong></p>
+<ul>
+  <li>Using Frames and Windows</li>
+  <li> Targeting Frames in JavaScript</li>
+  <li> Changing Two or More Frames</li>
+  <li> Frames, Functions and Variables</li>
+  <li> Targeting Windows</li>
+  <li> Windows, Functions and Variables</li>
+</ul>
+<p><strong>Lesson 10: Custom JavaScript Objects</strong></p>
+<ul>
+  <li>Creating Custom Objects</li>
+  <li> Custom Object Demonstration</li>
+  <li> Creating the Object: The Contructor</li>
+  <li> Creating an Instance of a Custom Object</li>
+  <li> Creating Object Methods</li>
+  <li> Creating Functions for Your Objects</li>
+  <li> Complex Custom Objects</li>
+</ul>

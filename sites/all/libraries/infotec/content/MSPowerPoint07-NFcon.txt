@@ -1,0 +1,26 @@
+<strong>Lesson 1: Exploring the PowerPoint Environment</strong>
+<ul>
+  <li>Topic 1A: Explore the User Interface</li>
+  <li>Topic 1B: Work with the Ribbon</li>
+  <li>Topic 1C: Work with Contextual Tabs</li>
+  <li>Topic 1D: Use the PowerPoint Galleries</li>
+  <li>Topic 1E: Customize the PowerPoint Interface</li>
+</ul>
+<strong>Lesson 2: Enhancing the Presentation Layouts</strong>
+<ul>
+  <li>Topic 2A: Create Custom Slide Layouts</li>
+  <li>Topic 2B: Work with Themes</li>
+</ul>
+<strong>Lesson 3: Creating Dynamic Presentations</strong>
+<ul>
+  <li>Topic 3A: Apply Rich Text and Typography Effects</li>
+  <li>Topic 3B: Enhance Presentations with Graphic Effects</li>
+  <li>Topic 3C: Enhance Table Layout</li>
+  <li>Topic 3D: Work with Charts</li>
+</ul>
+<strong>Lesson 4: Finalizing the Presentation</strong>
+<ul>
+  <li>Topic 4A: Customize Slide Shows</li>
+  <li>Topic 4B: Secure Presentations</li>
+  <li>Topic 4C: Save a Presentation</li>
+</ul>

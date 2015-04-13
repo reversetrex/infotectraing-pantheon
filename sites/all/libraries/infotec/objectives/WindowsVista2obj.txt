@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+
+<ul>
+	<li>Customize the Windows Vista environment.</li>
+	<li>Work with Windows Vista applications.</li>
+	<li>Work with Internet Explorer 7.0.</li>
+	<li>Manage network communication and sharing.</li>
+	<li>Back up and restore files and folders.</li>
+	<li>Enhance system performance using technologies available in Windows Vista.</li>
+</ul>

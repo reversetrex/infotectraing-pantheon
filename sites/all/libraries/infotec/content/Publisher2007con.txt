@@ -1,0 +1,45 @@
+<p><strong>Lesson 1: Creating a Basic Publication</strong></p>
+  Topic 1A: Explore the Microsoft Office Publisher 2007 Environment <br />
+  Topic 1B: Create a Publication from a Publication Design <br />
+  Topic 1C: Add Design Object Placeholders <br />
+  Topic 1D: Add Content to a Publication <br />
+  Topic 1E: Save a Publication <br />
+  Topic 1F: Create Business Information Data<br />
+
+<p><strong>Lesson 2: Modifying a Publication's Layout and Structure</strong></p>
+  Topic 2A: Insert Text in a File <br />
+  Topic 2B: Organize Text Boxes and Picture Frames in the Layout <br />
+  Topic 2C: Connect Text Boxes <br />
+  Topic 2D: Divide Text Boxes into Columns <br />
+  Topic 2E: Organize Pages in the Publication <br />
+  Topic 2F: Insert Common Layout Elements<br />
+
+<p><strong>Lesson 3: Editing Content in a Publication</strong></p>
+  Topic 3A: Edit Text in a Publication <br />
+  Topic 3B: Research Information <br />
+  Topic 3C: Find and Replace Text <br />
+  Topic 3D: Spell Check the Publication <br />
+  Topic 3E: Save Reusable Content<br />
+
+<p><strong>Lesson 4: Formatting a Publication</strong></p>
+  Topic 4A: Format Text <br />
+  Topic 4B: Apply Schemes <br />
+  Topic 4C: Insert Symbols <br />
+  Topic 4D: Format Paragraphs <br />
+  Topic 4E: Create Paragraph Styles <br />
+  Topic 4F: Format Text Boxes<br />
+
+<p><strong>Lesson 5: Formatting Pictures in a Publication</strong></p>
+  Topic 5A: Format Picture Frames <br />
+  Topic 5B: Customize Picture Appearance <br />
+  Topic 5C: Insert WordArt <br />
+  Topic 5D: Insert a Design Gallery Object<br />
+
+<p><strong>Lesson 6: Preparing a Publication for Distribution</strong></p>
+  Topic 6A: Check the Design of a Publication <br />
+  Topic 6B: Manage Pictures in a Publication <br />
+  Topic 6C: Save a Publication for Distribution <br />
+  Topic 6D: Preview and Print a Publication <br />
+  Topic 6E: Compose a Publication for Email <br />
+  Topic 6F: Create a Website <br />
+  Topic 6G: Publish a Web Page

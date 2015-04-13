@@ -1,0 +1,10 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Explain how XML is integrated into the .NET Framework and the classes associated with XML in the .NET Framework. </li>
+  <li>Parse and read XML in the .NET Framework. </li>
+  <li>Write and validate an XML document. </li>
+  <li>Manipulate cached XML documents in memory. </li>
+  <li>Query XML documents. </li>
+  <li>Transform XML documents. </li>
+  <li>Create new XML schemas programmatically. </li>
+</ul>

@@ -1,0 +1,19 @@
+<ul>
+  <li> Discuss basic networking concepts, including network types, network operating systems, server types, topologies, and planning in network design. <br>
+  </li>
+  <li> Explain the significance of the OSI Model, label the seven layers of the OSI Model and describe the services provided by each layer of the OSI Model. <br>
+  </li>
+  <li> Discuss network adapter configuration, NDIS and ODI models, and troubleshoot network adapter problems. <br>
+  </li>
+  <li> Discuss the concept of protocols and channel access methods, and discuss transport, remove access, and security protocols. <br>
+  </li>
+  <li> Illustrate the basic properties, purpose, and functionality of network cabling, identify the characteristics and appropriate implementation techniques for various types of cables and connectors, and discuss Ethernet, Token Ring and other devices. <br>
+  </li>
+  <li> Discuss internetworking, describe and contrast the functions of bridges, switches, and routers, and discuss routing protocols. <br>
+  </li>
+  <li> Describe the properties, benefits, and potential issues involved with POTS, ISDN, cable modem, xDSL, satellite, and wireless remote access methods, configure Windows XP/Server 2003 with a modem, establish a dial-up network connection by using Windows XP/Server2003, discuss Remote Access Service (RAS) and remote access clients, and discuss WAN connectivity.<br>
+  </li>
+  <li> Discuss the environmental factors that affect computer networks, define physical and logical indicators of network trouble, identify the function of common network tools, and discuss the science of troubleshooting.<br>
+  </li>
+  <li> Discuss the evolution of TCP/IP and the fundamentals of TCP/IP.</li>
+</ul>

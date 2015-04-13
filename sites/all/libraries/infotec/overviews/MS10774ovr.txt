@@ -1,0 +1,1 @@
+This 5-day instructor led course provides students with the technical skills required to write basic Transact-SQL queries for Microsoft SQL Server 2012. This course is the foundation for all SQL Server-related disciplines; namely, Database Administration, Database Development and Business Intelligence. This course helps people prepare for exam 70-461.

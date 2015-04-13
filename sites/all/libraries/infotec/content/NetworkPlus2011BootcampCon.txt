@@ -1,0 +1,295 @@
+<p><strong>Module 1: Network Media and Devices</strong></p>
+<ol type="a">
+  <li>Topologies and the OSI Mode
+    <ul>
+      <li>Key Features of Networks</li>
+      <li>Network Topologies</li>
+      <li>The OSI Model</li>
+      <li>TCP/IP Protocol Suite</li>
+    </ul>
+  </li>
+  <li>Labs </li>
+  <ul>
+    <li>Matching Components to the OSI Model</li>
+  </ul>
+  <li>Cabling and Connectors
+    <ul>
+      <li>Selecting Network Cable</li>
+      <li>Twisted Pair Cable (UTP / STP / ScTP)</li>
+      <li>Coaxial Cable</li>
+      <li>Fiber Optic Cable</li>
+      <li>Repeaters</li>
+      <li>Media Converters</li>
+      <li>Serial Cable</li>
+    </ul>
+  </li>
+  <li>Labs
+    <ul>
+      <li>Configuring a Network Adapter</li>
+      <li>Using VirtualBox</li>
+      <li>ARP and Packet Analysis</li>
+    </ul>
+  </li>
+  <li>Ethernet
+    <ul>
+      <li>IEEE 802 Standards</li>
+      <li>Media Characteristics</li>
+      <li>Ethernet (IEEE 802.3)</li>
+      <li>MAC Addressing</li>
+      <li>Network Adapters</li>
+      <li>Protocol Analyzer</li>
+    </ul>
+  </li>
+  <li>Bridge and Switches
+    <ul>
+      <li>Hubs</li>
+      <li>Bridges</li>
+      <li>Switches</li>
+      <li>Virtual LANs (VLAN)</li>
+      <li>Spanning Tree Protocol (STP)</li>
+    </ul>
+  </li>
+</ol>
+<p><strong>Module 2: Addressing and Routing</strong></p>
+<ol type="a">
+  <li>Internet Protocol
+    <ul>
+      <li>Internet Protocol Basics</li>
+      <li>Configuring TCP/IP</li>
+      <li>IP Routing Basics</li>
+      <li>ICMP</li>
+    </ul>
+  </li>
+  <li>Labs
+    <ul>
+      <li>Binary to Decimal Conversions</li>
+      <li>ANDing</li>
+      <li>IP Address Configuration</li>
+    </ul>
+  </li>
+  <li>Addressing Schemes
+    <ul>
+      <li>IP Addressing Schemes</li>
+      <li>Creating Subnets</li>
+      <li>Internet Addressing</li>
+    </ul>
+  </li>
+  <li>Labs
+    <ul>
+      <li>Understanding IP Addressing</li>
+      <li>Subnet Addressing</li>
+      <li>IP Addressing Schemes</li>
+    </ul>
+  </li>
+  <li>DHCP and APIPA
+    <ul>
+      <li>Static versus Dynamic IP Addressing</li>
+      <li>Configuring DHCP</li>
+    </ul>
+  </li>
+  <li>Labs </li>
+  <ul>
+    <li>Configuring DHCP Clients and Servers</li>
+  </ul>
+  <li>IPv6
+    <ul>
+      <li>IPv6 Address Format</li>
+      <li>IPv6 Addressing Schemes</li>
+    </ul>
+  </li>
+  <li>Labs </li>
+  <ul>
+    <li>IPv6 Addressing</li>
+  </ul>
+  <li>Routing
+    <ul>
+      <li>Routing Basics</li>
+      <li>Routing Algorithms and Metrics</li>
+      <li>Routing Protocols</li>
+      <li>Installing and Configuring Routers</li>
+      <li>Routing Troubleshooting Tools</li>
+      <li>Internet Group Management Protocol</li>
+    </ul>
+  </li>
+  <li>Labs
+    <ul>
+      <li>Configuring Routing</li>
+      <li>Designing a Routed Internetwork</li>
+    </ul>
+  </li>
+</ol>
+<p><strong>Module 3: Network Applications</strong></p>
+ <ol type="a">
+   <li>Transport Protocols
+     <ul>
+       <li>Transmission Control Protocol (TCP)</li>
+       <li>User Datagram Protocol (UDP)</li>
+       <li>TCP/IP Ports</li>
+       <li>Port Scanners</li>
+     </ul>
+   </li>
+   <li>Labs </li>
+   <ul>
+     <li>TCP and Port Scanning</li>
+   </ul>
+   <li>Name Resolution
+     <ul>
+       <li>Host Names</li>
+       <li>Name Resolution Methods</li>
+       <li>Configuring DNS Servers</li>
+       <li>Name Resolution Troubleshooting</li>
+     </ul>
+   </li>
+   <li>Labs </li>
+   <ul>
+     <li>Name Resolution</li>
+   </ul>
+   <li>Web Services
+     <ul>
+       <li>TCP/IP Services</li>
+       <li>World Wide Web (HTTP)</li>
+       <li>File Transfer Protocol (FTP)</li>
+       <li>Network Time Protocol (NTP)</li>
+     </ul>
+   </li>
+   <li>Communication Services
+     <ul>
+       <li>Email (SMTP / POP3 / IMAP)</li>
+       <li>Conferencing and VoIP Protocols</li>
+     </ul>
+   </li>
+   <li>Labs </li>
+   <ul>
+     <li>Configuring Email Services</li>
+   </ul>
+   <li>WAN Technologies
+     <ul>
+       <li>WAN Basics</li>
+       <li>Telecommunications Networks</li>
+       <li>Packet-switched WAN</li>
+       <li>Services</li>
+       <li>Local Loop Services</li>
+       <li>Installing Modems</li>
+     </ul>
+   </li>
+   <li>Labs </li>
+   <ul>
+     <li>Designing a WAN</li>
+   </ul>
+   <li>Remote Access
+     <ul>
+       <li>Remote Connectivity Protocols</li>
+       <li>Virtual Private Networks</li>
+       <li>Remote Access Servers</li>
+     </ul>
+   </li>
+ </ol>
+<p><strong>Module 4: Network Security</strong></p>
+   <ol type="a">
+     <li>Security Fundamentals
+       <ul>
+         <li>Security Basics</li>
+         <li>Social Engineering</li>
+         <li>Malware</li>
+         <li>Network Attack Strategies</li>
+         <li>Policies and Procedures</li>
+         <li>Device Security</li>
+         <li>Training</li>
+       </ul>
+     </li>
+     <li>Security Appliances
+       <ul>
+         <li>Secure Network Topologies</li>
+         <li>Network Address Translation</li>
+         <li>Firewalls and Proxy Servers</li>
+         <li>Intrusion Detection Systems</li>
+         <li>Vulnerability Assessments and Pentests</li>
+       </ul>
+     </li>
+     <li>Labs </li>
+     <ul>
+       <li>Configuring Firewalls and IDS</li>
+     </ul>
+     <li>Authentication
+       <ul>
+         <li>Authentication Technologies</li>
+         <li>Encryption and PKI</li>
+         <li>Authentication Protocols</li>
+         <li>Network Access Control</li>
+       </ul>
+     </li>
+     <li>Labs
+       <ul>
+         <li>Authentication Methods and VPNs</li>
+         <li>Configuring Certificate Services and HTTPS</li>
+         <li>Designing a Secure Network</li>
+       </ul>
+     </li>
+     <li>Installing Wireless Networks
+       <ul>
+         <li>Wi-Fi (IEEE 802.11)</li>
+         <li>Setting Up a Wireless Network</li>
+         <li>Wireless Security</li>
+         <li>Wireless WANs</li>
+       </ul>
+     </li>
+     <li>Labs
+       <ul>
+         <li>Configuring a Wireless Network</li>
+       </ul>
+     </li>
+   </ol>
+<p><strong>Module 5: Management, Monitoring, Troubleshooting</strong></p>
+<ol type="a">
+  <li>Configuration Management
+    <ul>
+      <li>Configuration Management Concepts</li>
+      <li>Documentation</li>
+    </ul>
+  </li>
+  <li>Installing Wired Networks
+    <ul>
+      <li>Planning a SOHO Network Installation</li>
+      <li>Wiring Standards</li>
+      <li>Wiring Distribution</li>
+      <li>Cable Testing Tools</li>
+    </ul>
+  </li>
+  <li>Labs </li>
+  <ul>
+    <li>Designing a LAN</li>
+  </ul>
+  <li>Deploying Virtual Networks
+    <ul>
+      <li>Virtualization Technologies</li>
+      <li>Virtual Platform Applications</li>
+      <li>Cloud Computing</li>
+    </ul>
+  </li>
+  <li>Monitoring and Management Tools
+    <ul>
+      <li>Performance Management Appliances</li>
+      <li>Network Monitoring Utilities</li>
+      <li>Simple Network Management Protocol</li>
+      <li>Remote Administration Tools</li>
+    </ul>
+  </li>
+  <li>Labs
+    <ul>
+      <li>Performance Testing and Monitoring</li>
+      <li>Monitoring and Management Tools</li>
+    </ul>
+  </li>
+  <li>Network Troubleshooting
+    <ul>
+      <li>Troubleshooting Procedures</li>
+      <li>Troubleshooting Common Connectivity Scenarios</li>
+    </ul>
+  </li>
+  <li>Labs
+    <ul>
+      <li>Troubleshooting</li>
+      <li>Troubleshooting Scenarios</li>
+    </ul>
+  </li>
+</ol>

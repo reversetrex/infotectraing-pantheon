@@ -1,0 +1,35 @@
+{
+  "name": "ecpi/infotec",
+  "description": "infotec client bridge module",
+  "minimum-stability": "1.0.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Greg Bellucci",
+      "email": "gbellucci@ecpi.edu",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "phpclasses/ccheckmail": ">=1.0.0"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http:\/\/www.phpclasses.org\/"
+    },
+    {
+      "packagist": false
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "./classes/bridge",
+      "./classes/configure",
+      "./classes/logger",
+      "./classes/json",
+      "./classes/dmanager",
+      "./classes/phpmailer"
+    ]
+  }
+}

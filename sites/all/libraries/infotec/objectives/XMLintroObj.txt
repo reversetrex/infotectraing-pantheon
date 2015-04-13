@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Explore the capabilities of the Extensible Markup Language and examine an environment used to develop XML documents.</li>
+  <li>Create a well-formed XML document.</li>
+  <li>Validate an XML document.</li>
+  <li>Access XML documents with APIs.</li>
+  <li>Format and transform XML documents.</li>
+  <li>Link XML documents.</li>
+</ul>

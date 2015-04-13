@@ -1,0 +1,11 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Create a Web site that includes new and existing Web pages. </li>
+  <li> Add images to Web pages. </li>
+  <li> Add links to Web pages. </li>
+  <li> Add and format tables. </li>
+  <li> Format a Web page. </li>
+  <li> Design layouts for your Web pages. </li>
+  <li> Use Navigation view to structure a Web site. </li>
+  <li>Publish a FrontPage web.</li>
+</ul>

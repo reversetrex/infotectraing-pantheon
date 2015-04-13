@@ -1,0 +1,14 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan the components of a BI solution.</li>
+  <li>Plan a BI infrastructure.</li>
+  <li>Design a data warehouse.</li>
+  <li>Design an ETL solution.</li>
+  <li>Plan analytical data models.</li>
+  <li>Plan a BI delivery solution.</li>
+  <li>Design a Reporting Services solution.</li>
+  <li>Design an Excel reporting solution.</li>
+  <li>Plan a SharePoint Server BI solution.</li>
+  <li>Monitor and optimize a BI solution.</li>
+  <li>Plan for BI operations.</li>
+</ul>

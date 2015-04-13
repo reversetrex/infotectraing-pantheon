@@ -1,0 +1,127 @@
+<p><strong>Module 1: Introducing  Active Directory Domain Services</strong></p>
+<p>This module provides an overview  of Active Directory components and concepts and steps through the basics of  installing and configuring an Active Directory domain.</p>
+<ul>
+  <li>Overview of Active Directory, Identity, and  Access</li>
+  <li>Active Directory Components and Concepts</li>
+  <li>Install Active Directory Domain Services</li>
+</ul>
+
+<p><strong>Module 2:  Administering Active Directory Securely and Efficiently</strong></p>
+<p>This module explains how to work  securely and efficiently in Active Directory using Administration Tools and  some best practices as well as use of Windows PowerShell.</p>
+<ul>
+  <li>Work with Active Directory Administration Tools</li>
+  <li>Custom Consoles and Least Privilege</li>
+  <li>Find Objects in Active Directory</li>
+  <li>Use Windows PowerShell to Administer Active Directory</li>
+</ul>
+
+<p><strong>Module 3: Managing  Users and Service Accounts</strong></p>
+<p>This module explains how to  create, manage and support user and Managed Service Accounts in Active  Directory.</p>
+<ul>
+  <li>Create and Administer User Accounts</li>
+  <li>Configure User Object Attributes</li>
+  <li>Automate User Account Creation</li>
+  <li>Create and Configure Managed Service Accounts</li>
+</ul>
+
+<p><strong>Module 4: Managing  Groups</strong></p>
+<p>This module explains how to  create, modify, delete, and support group objects in Active Directory.</p>
+<ul>
+  <li>Overview of Groups</li>
+  <li>Administer Groups</li>
+  <li>Best Practices for Group Management</li>
+</ul>
+
+<p><strong>Module 5: Managing  Computer Accounts</strong></p>
+<p>This module explains how to create and configure computer  accounts.</p>
+<ul>
+  <li>Create Computers and Join the Domain</li>
+  <li>Administer Computer Objects and Accounts</li>
+  <li>Perform an Offline Domain Join</li>
+</ul>
+
+<p><strong>Module 6:  Implementing a Group Policy Infrastructure</strong></p>
+<p>This module explains what Group  Policy is, how it works, and how best to implement Group Policy in your  organization.</p>
+<ul>
+  <li>Understand Group Policy</li>
+  <li>Implement GPOs</li>
+  <li>Manage Group Policy Scope</li>
+  <li>Group Policy Processing</li>
+  <li>Troubleshoot Policy Application</li>
+</ul>
+
+<p><strong>Module 7: Managing  User Desktop with Group Policy</strong></p>
+<p>This module explains how to  manage and configure desktop environments using Administrative templates and  Group Policy Preferences as well as how to deploy software using Group Policy.</p>
+<ul>
+  <li>Implement Administrative Templates</li>
+  <li>Configure Group Policy Preferences</li>
+  <li>Manage Software with GPSI</li>
+  <li>Lab : Manage Administrative Templates and Central Store</li>
+  <li>Manage Administrative  Templates</li>
+</ul>
+
+<p><strong>Module 8: Managing  Enterprise Security and Configuration with Group Policy Settings</strong></p>
+<p>This module explains how to use  Group Policy to manage a variety of components and features  of Windows. It will also explain how to audit  files and folders and how to restrict access to applications using application  control policies.</p>
+<ul>
+  <li>Manage Group Membership by Using Group Policy Settings</li>
+  <li>Manage Security Settings</li>
+  <li>Auditing</li>
+  <li>Software Restriction Policy and Applocker</li>
+</ul>
+
+<p><strong>Module 9: Securing  Administration</strong></p>
+<p>This module explains how to administer Active Directory  Domain Services Securely.</p>
+<ul>
+  <li>Delegate Administrative Permissions</li>
+  <li>Audit Active Directory Administration</li>
+</ul>
+
+<p><strong>Module 10: Improving  the Security of Authentication in an AD DS Domain</strong></p>
+<p>This module explains the  domain-side components of authentication, including the policies that specify  password requirements and the auditing of authentication-related activities.</p>
+<ul>
+  <li>Configure Password and Lockout Policies</li>
+  <li>Audit Authentication</li>
+  <li>Configure Read-Only Domain Controllers</li>
+</ul>
+
+<p><strong>Module 11:  Configuring Domain Name System</strong></p>
+<p>This module explains how to  implement DNS to support name resolution both within your AD DS domain and  outside your domain and your intranet.</p>
+<ul>
+  <li>Install and Configure DNS in an AD DS Domain</li>
+  <li>Integration of AD DS, DNS, and Windows</li>
+  <li>Advanced DNS Configuration and Administration</li>
+</ul>
+
+<p><strong>Module 12:  Administering AD DS Domain Controllers</strong></p>
+<p>This module explains how to add  Windows Server 2008 domain controllers to a forest or domain, how to prepare a  Microsoft Windows Server 2003 forest or domain for its first Windows Server  2008 DC, how to manage the roles performed by DCs, and how to migrate the  replication of SYSVOL from the File Replication Service (FRS) used in previous  versions of Windows to the Distributed File System Replication (DFS-R)  mechanism that provides more robust and manageable replication.</p>
+<ul>
+  <li>Domain Controller Installation Options</li>
+  <li>Install a Server Core Domain Controller</li>
+  <li>Manage Operations Masters</li>
+  <li>Configure Global Catalog</li>
+  <li>Configure DFS-R Replication of SYSVOL</li>
+</ul>
+
+<p><strong>Module 13: Managing  Sites and Active Directory Replication</strong></p>
+<p>This module explains how to  create a distributed directory service that supports domain controllers in  portions of your network that are separated by expensive, slow, or unreliable  links and how to configure replication amongst those servers.</p>
+<ul>
+  <li>Configure Sites and Subnets</li>
+  <li>Configure Replication</li>
+</ul>
+
+<p><strong>Module 14: Directory  Service Continuity</strong></p>
+<p>This module explains about the  technologies and tools that are available to help ensure the health and  longevity of the directory service. You will explore tools that help you  monitor performance in real time, and you will learn to log performance over  time so that you can keep an eye on performance trends in order to spot  potential problems.</p>
+<ul>
+  <li>Monitor Active Directory</li>
+  <li>Manage the Active Directory Database</li>
+  <li>Active Directory Recycle Bin</li>
+  <li>Back Up and Restore AD DS and Domain Controllers</li>
+</ul>
+
+<p><strong>Module 15: Managing  Multiple Domains and Forests</strong></p>
+<p>This module explains how to raise  the domain and forest functionality levels within your environment, how to  design the optimal AD DS infrastructure for your enterprise, how to migrate  objects between domains and forests, and how to enable authentication and  resources access across multiple domains and forests.</p>
+<ul>
+  <li>Configure Domain and Forest Functional Levels</li>
+  <li>Manage Multiple Domains and Trust Relationships</li>
+  <li>Move Objects between Domains and Forests</li>
+</ul>

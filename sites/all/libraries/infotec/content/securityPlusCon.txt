@@ -1,0 +1,105 @@
+<p><strong>Unit 1: Security overview</strong><br />
+  Topic A: Introduction to network security<br />
+  Topic B: Understanding security threats<br />
+  Topic C: Creating a secure network strategy<br />
+  Topic D: Windows Server 2003 server access control<br />
+  <strong><br />
+  Unit 2: Authentication</strong><br />
+  Topic A: Introduction to authentication<br />
+  Topic B: Kerberos<br />
+  Topic C: Challenge Handshake Authentication Protocol<br />
+  Topic D: Digital certificates<br />
+  Topic E: Security tokens<br />
+  Topic F: Biometrics<br />
+  <strong><br />
+  Unit 3: Attacks and malicious code</strong><br />
+  Topic A: Denial of service attacks<br />
+  Topic B: Man-in-the-middle attacks<br />
+  Topic C: Spoofing<br />
+  Topic D: Replays<br />
+  Topic E: TCP session hijacking<br />
+  Topic F: Social engineering<br />
+  Topic G: Attacks against encrypted data<br />
+  Topic H: Software exploitation<br />
+  <strong><br />
+  Unit 4: Remote access</strong><br />
+  Topic A: Securing remote communications<br />
+  Topic B: Authentication<br />
+Topic C: Virtual private networks<br>
+Topic D: Telecommuting vulnerabilities<br />
+                    <strong><br />
+  Unit 5: E-mail</strong><br />
+  Topic A: Secure e-mail and encryption<br />
+  Topic B: PGP and S/MIME encryption<br />
+  Topic C: E-mail vulnerabilities<br />
+  <br />
+  <strong>Unit 6: Web security</strong><br />
+  Topic A: SSL/TLS protocol<br />
+  Topic B: Vulnerabilities of Web tools<br />
+  Topic C: Configuring Internet Explorer security<br />
+  <br />
+  <strong>Unit 7: Directory and file transfer services</strong><br />
+  Topic A: Introduction to directory services<br />
+  Topic B: File transfer services<br />
+  Topic C: File sharing<br />
+  <br />
+  <strong>Unit 8: Wireless and instant messaging</strong><br />
+  Topic A: IEEE 802.11<br />
+  Topic B: WAP 1.x and WAP 2.0<br />
+  Topic C: Wired equivalent privacy<br />
+  Topic D: Instant messaging<br />
+  <br />
+  <strong>Unit 9: Network devices</strong><br />
+  Topic A: Understanding firewalls<br />
+  Topic B: Routers<br />
+  Topic C: Switches<br />
+  Topic D: Telecom, cable modem, and wireless devices<br />
+  Topic E: Securing remote access<br />
+  Topic F: Intrusion detection systems<br />
+  Topic G: Network monitoring<br />
+  <strong><br />
+  Unit 10: Transmission and storage media</strong><br />
+  Topic A: Transmission media<br />
+  Topic B: Storage media<br />
+  <br />
+  <strong>Unit 11: Network security topologies</strong><br />
+  Topic A: Security topologies<br />
+  Topic B: Network Address Translation<br />
+  Topic C: Tunneling<br />
+  Topic D: Virtual Local Area Networks<br />
+  <br />
+  <strong>Unit 12: Intrusion detection</strong><br />
+  Topic A: Intrusion detection systems<br />
+  Topic B: Network-based and host-based IDS<br />
+  Topic C: Active and passive detection<br />
+  Topic D: Honeypots<br />
+  Topic E: Incident response<br />
+  <strong><br />
+  Unit 13: Security baselines</strong><br />
+  Topic A: OS/NOS hardening<br />
+  Topic B: Network hardening<br />
+  Topic C: Application hardening<br />
+  Topic D: Workstations and servers<br />
+  <br />
+  <strong>Unit 14: Cryptography</strong><br />
+  Topic A: Concepts of cryptography<br />
+  Topic B: Public Key Infrastructure (PKI)<br />
+  Topic C: Key management and life cycle<br />
+  Topic D: Setting up a certificate server<br />
+  <br />
+  <strong>Unit 15: Physical security</strong><br />
+  Topic A: Access control<br />
+  Topic B: Environment<br />
+  <br />
+  <strong>Unit 16: Disaster recovery and business continuity</strong><br />
+  Topic A: Disaster recovery<br />
+  Topic B: Business continuity<br />
+  Topic C: Policies and procedures<br />
+  Topic D: Privilege management<br />
+  <br />
+  <strong>Unit 17: Computer forensics and advanced topics</strong><br />
+  Topic A: Understanding computer forensics<br />
+  Topic B: Risk identification<br />
+  Topic C: Education and training<br />
+  Topic D: Auditing<br />
+Topic E: Documentation</p>

@@ -1,0 +1,93 @@
+<p><strong>Module 1: Architecture and Design Approach for Microsoft Lync Server 2013</strong> - This module will help you to plan and design a Lync Server 2013 implementation that meets organizational and user needs. This module equips you with knowledge about Lync Server 2013 key features and functionality and introduces you to Microsoft Solutions Framework (MSF), which recommends a structured approach to project management and execution.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Lync Server 2013 Architecture</li>
+  <li>Overview of Lync Server 2013 Core Capabilities</li>
+  <li>Introduction to the Lync Server 2013 Design Process</li>
+  <li>Assessing Infrastructure Requirements and Updating the Design</li>
+  <li>Planning for all Microsoft Solutions Framework Phases</li>
+</ul>
+<p><strong>Module 2: Designing a Lync Server 2013 Topology</strong> - This module explains how to design a complex Microsoft Lync Server 2013 topology including defining network sites and network regions, and sizing and placing server roles.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning Infrastructure Requirements for Lync Server 2013</li>
+  <li>Using the Lync Server 2013 Planning Tool</li>
+  <li>Using Topology Builder</li>
+  <li>Planning the Server Infrastructure</li>
+  <li>Designing Documentation Using Microsoft Office</li>
+</ul>
+<p><strong>Module 3: Configuring Users and Rights in Microsoft Lync Server 2013</strong> - The purpose of this module is to introduce you to the methods available for configuring and managing users in Microsoft Lync Server 2013. You will learn about the configuration management options in Lync Server 2013, including the Lync Server Control Panel and the Lync Server Management Shell.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Lync Server 2013</li>
+  <li>Introduction to Role Based Access Control</li>
+</ul>
+<p><strong>Module 4: Client and Device Deployment and Management</strong> - Microsoft Lync Server 2013 introduces new ways of creating and defining client and user policies, as well as new procedures for deploying clients and devices. In this module, you will learn how to plan for introducing Lync Server 2013 clients into your network and the various phone devices that are supported. You will also learn how to effectively manage the desktop clients and devices.</p>
+<p>Lessons</p>
+<ul>
+  <li>Prepare for client deployment.</li>
+  <li>Deploy and manage clients.</li>
+  <li>Prepare for device deployment.</li>
+  <li>Deploy and manage IP phones.</li>
+</ul>
+<p><strong>Module 5: Conferencing in Lync Server 2013</strong> - Conferencing is a core feature of Microsoft Lync Server 2013. This module introduces conferencing in Lync Server 2013, discusses dial-in conferencing in Lync Server 2013, and describes how to manage and administer conferencing policies.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Conferencing in Lync Server 2013</li>
+  <li>Designing for Audio\Video and Web Conferencing</li>
+  <li>Dial-In Conferencing in Lync Server 2013</li>
+  <li>Managing and Administering Conferencing</li>
+</ul>
+<p><strong>Module 6: Designing and Deploying External Access</strong> - This module discusses how to design the Microsoft Lync Server 2013 external access components and capabilities so that it meets the organization’s needs. This module also discusses how you can design a solution for external scenarios that support a variety of internal and external users connected to the Internet, to their corporate network or to a public switched telephone network (PSTN).</p>
+<p>Lessons</p>
+<ul>
+  <li>Conferencing and External Capabilities of Lync Server 2013</li>
+  <li>Planning for IM and Presence Federation</li>
+  <li>Designing Edge Services</li>
+</ul>
+<p><strong>Module 7: Deploying Microsoft Lync Server 2013 Persistent Chat</strong> - This module describes how to plan, design and deploy Lync Server 2013 Persistent Chat to the enterprise. It describes the fundamental process required to create and manage a Lync Server 2013 Persistent Chat room.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Persistent Chat Architecture in Lync Server 2013</li>
+  <li>Designing Lync Server 2013 Persistent Chat</li>
+  <li>Deploying and Configuring Lync Server 2013 Persistent Chat</li>
+</ul>
+<p><strong>Module 8: Monitoring and Archiving</strong> - This module discusses the features and configuration of both the Monitoring and Archiving services. You will learn how to interpret the QoE reports and use this information to better manage and deliver a high-quality user experience for Lync Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>The Archiving Service</li>
+  <li>The Monitoring Service</li>
+  <li>Configuring Archiving and Monitoring</li>
+</ul>
+<p><strong>Module 9: Administration and Maintenance of Lync Server 2013</strong> - This module introduces Lync Server 2013 administration tools and operational best practices needed to maintain Lync Server 2013 in the enterprise. It will also introduce basic techniques and tools to help when troubleshooting Lync Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Lync Server 2013 troubleshooting tools</li>
+  <li>Understanding Lync Server 2013 Operational Tasks</li>
+  <li>Developing Lync Server 2013 Troubleshooting Techniques</li>
+</ul>
+<p><strong>Module 10: High Availability in Lync Server 2013</strong> - This module describes the requirements for high availability with Lync Server 2013. Finally, this module discusses how to plan and design for load balancing with Lync Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>High Availability in Lync Server 2013</li>
+  <li>Configuring High Availability in Lync Server 2013</li>
+  <li>Planning for Load Balancing</li>
+  <li>Designing Load Balancing</li>
+</ul>
+<p><strong>Module 11: Disaster Recovery in Lync Server 2013</strong> - This module describes new disaster recovery features in Lync Server 2013. This module also discusses the tools and methods for successfully backing up and restoring a Lync Server 2013 environment, as well as how to back up and restore, and export and import, critical Lync Server 2013 data. Finally, this module discusses designing for Branch Site Resiliency in Lync Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Disaster Recovery in Lync Server 2013</li>
+  <li>Tools for Backing Up and Restoring Lync Server 2013</li>
+  <li>Critical Lync Server 2013 Data to Back Up and Restore</li>
+  <li>Critical Lync Server 2013 Data to Export and Import</li>
+  <li>Designing Branch Site Resiliency</li>
+</ul>
+<p><strong>Module 12: Planning a Migration to Lync Server 2013</strong> - In this module, you will learn about coexistence and migration to Microsoft Lync Server 2013. You will also learn how to design the infrastructure migration strategy and the migration strategy for Lync Server 2013 clients and devices.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Coexistence and Migration</li>
+  <li>Migration Steps</li>
+  <li>Planning for Clients and Devices</li>
+  <li>Designing a Client Migration and Device Migration Strategy</li>
+</ul>

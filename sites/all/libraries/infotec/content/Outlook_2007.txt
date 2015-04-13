@@ -1,0 +1,191 @@
+<h2>Session 1</h2>
+  <h3>Section A: Learning to be Efficient</h3>
+  <ul>
+    <li>What is Outlook Really?</li>
+    <li>New Features</li>
+    <li>Outlook Editions</li>
+    <li>Edition-Specific Features</li>
+    <li>Edition Version Summary</li>
+  </ul>
+  <h3>Section B: Outlook Interface</h3>
+  <ul>
+    <li>Getting Started</li>
+    <li>Navigation Pane</li>
+    <li>Information and Reading Panes</li>
+    <li>To-Do Bar</li>
+  </ul>
+  <h3>Section C: Outlook Today</h3>
+  <ul>
+    <li>The Ideal Assistant</li>
+    <li>Customizing Outlook Today</li>
+  </ul>
+  <h3>Section D: Configuring E-mail Accounts</h3>
+  <ul>
+    <li>How E-mail Works</li>
+    <li>Account Settings</li>
+    <li>Manual Configuration</li>
+    <li>Changing E-mail Accounts</li>
+  </ul>
+  <h3>Section E: Creating E-mail</h3>
+  <ul>
+    <li>Creating Messages</li>
+    <li>Addressing the Message</li>
+    <li>E-mail Options</li>
+  </ul>
+  <h3>Section F: E-mail Extras</h3>
+  <ul>
+    <li>Formatting</li>
+    <li>Voting Buttons</li>
+    <li>Attachments</li>
+    <li>Importance and Sensitivity</li>
+    <li>Spell Check</li>
+    <li>Saving a Draft</li>
+  </ul>
+  <h3>Section G: Hyperlinks and Quick Parts</h3>
+  <ul>
+    <li>Using Hyperlinks</li>
+    <li>Using Quick Parts</li>
+    <li>Bookmark Hyperlinks</li>
+  </ul>
+  <h3>Section H: Setting E-mail Defaults</h3>
+  <ul>
+    <li>E-mail Settings</li>
+    <li>Mail Format</li>
+    <li>Themes and Fonts</li>
+    <li>Setting up E-mail Signatures</li>
+    <li>Creating Multiple Signatures</li>
+  </ul>
+  <h3>Section I: Securing E-mail</h3>
+  <ul>
+    <li>Digital Signatures</li>
+    <li>Encrypting Messages</li>
+    <li>IRM</li>
+    <li>Configuring IRM</li>
+    <li>The Trust Center</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Receiving E-mail</h3>
+  <ul>
+    <li>Replying to Messages</li>
+    <li>Forwarding Messages</li>
+    <li>Voting</li>
+    <li>Receiving Attachments</li>
+    <li>Sent Items</li>
+    <li>Recall and Resent Messages</li>
+    <li>Vote Tally</li>
+  </ul>
+  <h3>Section B: Working Offline</h3>
+  <ul>
+    <li>Send/Receive Settings</li>
+    <li>Send/Receive Groups</li>
+    <li>Out of Office Assistant</li>
+    <li>Downloading the Address Book</li>
+  </ul>
+  <h3>Section C: Changing Views</h3>
+  <ul>
+    <li>Sorting</li>
+    <li>Customizing Views</li>
+    <li>Fields</li>
+    <li>Views Dialog Box</li>
+  </ul>
+  <h3>Section D: Organizing Information</h3>
+  <ul>
+    <li>Organizing with Categories</li>
+    <li>Quick Click</li>
+    <li>Organizing with Flags</li>
+    <li>Custom Flags</li>
+  </ul>
+  <h3>Section E: Managing Junk Mail</h3>
+  <ul>
+    <li>Junk Mail Tactics</li>
+    <li>Junk Mail Folder</li>
+    <li>Junk Mail Settings</li>
+  </ul>
+  <h3>Section F: Customizing Folders</h3>
+  <ul>
+    <li>Folder Settings</li>
+    <li>Deleting Items</li>
+    <li>Creating Folders</li>
+    <li>Organizing Folders</li>
+    <li>Recover Deleted Items</li>
+    <li>Saving in Different File Types</li>
+  </ul>
+  <h3>Section G: Managing Data Files</h3>
+  <ul>
+    <li>Creating a Personal Folder Set</li>
+    <li>Personal Folder Properties</li>
+  </ul>
+  <h3>Section H: Rules and Alerts</h3>
+  <ul>
+    <li>Automated Features</li>
+    <li>Rules</li>
+    <li>Alerts</li>
+    <li>Ordering Rules</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Archiving</h3>
+  <ul>
+    <li>Activating Archiving</li>
+    <li>AutoArchive Settings</li>
+    <li>Manual Archiving</li>
+  </ul>
+  <h3>Section B: Searching</h3>
+  <ul>
+    <li>Search Options</li>
+    <li>Simple Searches</li>
+    <li>Query Searches</li>
+    <li>Using Search Folders</li>
+    <li>Category Searches</li>
+    <li>Custom Search Folders</li>
+  </ul>
+  <h3>Section C: Contact Basics</h3>
+  <ul>
+    <li>Creating Contacts</li>
+    <li>Modifying Contacts</li>
+    <li>Adding Contacts</li>
+    <li>Contact Views</li>
+  </ul>
+  <h3>Section D: Advanced Contacts</h3>
+  <ul>
+    <li>Modifying Contacts</li>
+    <li>Business Card Options</li>
+    <li>Distribution Lists</li>
+    <li>Secondary Address Books</li>
+  </ul>
+  <h3>Section E: Calendars and Scheduling</h3>
+  <ul>
+    <li>Calendar Views and Entries</li>
+    <li>Creating Appointments</li>
+    <li>Creating Events</li>
+    <li>Recurring Events</li>
+    <li>Creating Events from E-mail</li>
+  </ul>
+  <h3>Section F: Calendar Defaults and Permissions</h3>
+  <ul>
+    <li>Calendar Settings</li>
+    <li>Assigning Delegate Permissions</li>
+    <li>Viewing People's Calendars</li>
+  </ul>
+  <h3>Section G: Collaboration</h3>
+  <ul>
+    <li>Group Calendars</li>
+    <li>Send a Calendar via E-mail</li>
+    <li>Publish Calendars Online</li>
+  </ul>
+  <h3>Section H: Meetings</h3>
+  <ul>
+    <li>Scheduling Meetings</li>
+    <li>Responding to Requests</li>
+    <li>Tracking Responses</li>
+    <li>Recurring Meetings</li>
+    <li>Proposing New Meeting Times</li>
+  </ul>
+  <h3>Section I: Tasks and Journal</h3>
+  <ul>
+    <li>Creating Tasks</li>
+    <li>Assigning Tasks</li>
+    <li>Recurring Tasks</li>
+    <li>Responding to Assigned Tasks</li>
+    <li>Task Views</li>
+    <li>Tracking with the Journal</li>
+  </ul>

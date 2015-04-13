@@ -1,0 +1,8 @@
+<h2>Session 1</h2>
+  <h3>Section A: Effective Criticism</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>The Art of Giving Criticism</li>
+    <li>The Art of Taking Criticism</li>
+    <li>Artful Criticism</li>
+  </ul>

@@ -1,0 +1,13 @@
+<p>After completing this course, students will  be able to:</p>
+<ul>
+  <li>Describe the key  features, editions, and hardware requirements of Windows 7.</li>
+  <li>Describe and choose  the various versions of Windows 7.</li>
+  <li>Perform a clean  install of Windows 7.</li>
+  <li>Create an image for deployment.</li>
+  <li>Configure hardware devices.</li>
+  <li>Configure software for compatibility.</li>
+  <li>Configure networking including sharing resources.</li>
+  <li>Configure DirectAccess for the network.</li>
+  <li>Monitor and  configure system performance.</li>
+  <li>Perform backups and configure system restore.</li>
+</ul>

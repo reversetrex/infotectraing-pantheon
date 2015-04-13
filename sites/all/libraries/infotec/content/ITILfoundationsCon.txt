@@ -1,0 +1,12 @@
+<ul>
+  <li>Services Management as a practice</li>
+  <li>The Service Lifecycle</li>
+  <li>Generic Concepts and Definitions</li>
+  <li>Key Principles and Models</li>
+  <li>Processes</li>
+  <li>Functions</li>
+  <li>Roles</li>
+  <li>Technology Architecture</li>
+  <li>Qualifications Scheme</li>
+  <li>Mock Exam</li>
+</ul>

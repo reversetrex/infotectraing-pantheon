@@ -1,0 +1,27 @@
+<ul>
+  <li>Lesson 1: Intrusion Prevention Overview </li>
+  <li>Lesson 2: Getting Started with the IPS Command Line Interface </li>
+  <li>Lesson 2: Lab Exercise Getting Started with the IPS Command Line Interface </li>
+  <li>Lesson 3: Using the IPS Device Manager </li>
+  <li>Lesson 3: Lab Exercise Using the IPS Device Manager </li>
+  <li>Lesson 4: Basic Sensor Configuration </li>
+  <li>Lesson 4: Lab Exercise Basic Sensor Configuration </li>
+  <li>Lesson 5: Cisco Intrusion Prevention System Signatures and Alarms </li>
+  <li>Lesson 5: Lab Exercise Signatures and Alarms </li>
+  <li>Lesson 6: Signature Engines </li>
+  <li>Lesson 7: Signature Configuration </li>
+  <li>Lesson 7: Lab Exercise Signature Configuration </li>
+  <li>Lesson 8: Tuning the Sensor </li>
+  <li>Lesson 8: Lab Exercise Tuning the Sensor Using IDM </li>
+  <li>Lesson 9: Alarm Monitoring and Management </li>
+  <li>Lesson 9: Lab Exercise Alarm Monitoring and Management </li>
+  <li>Lesson 10: Configuring Blocking </li>
+  <li>Lesson 10: Lab Exercise Configuring Blocking </li>
+  <li>Lesson 11: Cisco Intrusion Detection System Module </li>
+  <li>Lesson 12: Capturing Network Traffic </li>
+  <li>Lesson 13: Maintaining Sensors </li>
+  <li>Lesson 14: Verifying System Configuration </li>
+  <li>Lesson 14: Lab Exercise Verifying System Configuration </li>
+  <li>Lesson 14: Lab Exercise Verifying System Configuration (2)</li>
+  <li>Lesson 15: Configuring Anomoly Detection, Passive OS fingerprinting,and CSA Collaboration</li>
+</ul>

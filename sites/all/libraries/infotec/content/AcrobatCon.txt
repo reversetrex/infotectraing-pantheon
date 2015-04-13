@@ -1,0 +1,44 @@
+<p> <strong>Unit 1: Getting Started</strong></p>
+<ul>
+  <li>Topic A: The Acrobat environment</li>
+  <li>Topic B: Advanced navigation</li>
+  <li>Topic C: Finding text</li>
+  <li>Topic D: Organizing PDF documents</li>
+  <li>Topic E: Getting help</li>
+</ul>
+<p><strong>Unit 2: Converting documents to PDF</strong></p>
+<ul>
+  <li>Topic A: Printing to PDF from any application</li>
+  <li>Topic B: Acrobat and Microsoft applications</li>
+  <li>Topic C: The Create PDF commands</li>
+</ul>
+<p><strong>Unit 3: Modifying PDF documents</strong></p>
+<ul>
+  <li>Topic A: Modifying document pages</li>
+  <li>Topic B: Modifying content</li>
+  <li>Topic C: Moving PDF content to other programs</li>
+  <li>Topic D: Password protection</li>
+</ul>
+<p><strong>Unit 4: PDF document navigation tools</strong></p>
+<ul>
+  <li>Topic A: Bookmarks</li>
+  <li>Topic B: Working with links</li>
+</ul>
+<p><strong>Unit 5: Ensuring PDF print quality</strong></p>
+<ul>
+  <li>Topic A: Preflighting</li>
+  <li>Topic B: PDF/X Standards</li>
+</ul>
+<p><strong>Unit 6: Document review techniques</strong></p>
+<ul>
+  <li>Topic A: Initiating document reviews</li>
+  <li>Topic B: Reviewer tools</li>
+  <li>Topic C: Viewing comments and markups</li>
+  <li>Topic D: Digital signatures </li>
+</ul>
+<p><strong> Unit 7: Interactive PDF forms</strong></p>
+<ul>
+  <li>Topic A: Creating a form</li>
+  <li>Topic B: Form fields</li>
+  <li>Topic C: Testing a form </li>
+</ul>

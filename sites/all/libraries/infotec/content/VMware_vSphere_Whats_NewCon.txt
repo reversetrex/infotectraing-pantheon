@@ -1,0 +1,53 @@
+<p><strong>1. Course Introduction</strong></p>
+<ul>
+  <li>Introductions and course logistics</li>
+  <li>Course objectives</li>
+  <li>Other vSphere 5 learning resources</li>
+</ul>
+<p><strong>2. Introduction to VMware vSphere 5.0</strong></p>
+<ul>
+  <li>Key enhancements in ESXi, vCenter Server, and VMware   vSphere Update Manager</li>
+  <li>Upgrade vSphere components from vSphere 4.1 to vSphere  5.0, including vCenter Server, Update Manager, and ESXi</li>
+</ul>
+<p><strong>3. Virtual Machine Management</strong></p>
+<ul>
+  <li>Describe new virtual machine version 8 hardware features</li>
+  <li>Explain virtual machine snapshot consolidation</li>
+  <li>Describe the vCenter Solutions Manager</li>
+  <li>Upgrade a virtual machine to version 8 hardware</li>
+  <li>Install, register, and use the vSphere Web Client</li>
+</ul>
+<p><strong>4. Network Management</strong></p>
+<ul>
+  <li>Describe the ESXi firewall</li>
+  <li>Describe new features of vNetwork distributed switches including NetFlow, port mirroring, and Link Layer Discovery  Protocol</li>
+  <li>Describe enhancements to network I/O control, including 802.1p  priority tagging and user-defined virtual machine resource pools</li>
+  <li>Configure the ESXi firewall</li>
+  <li>Configure and test port mirroring</li>
+</ul>
+<p><strong>5. Storage Management</strong></p>
+<ul>
+  <li>Describe new storage features, including VMFS-5, Fibre  Channel over Ethernet software adapters, policy-driven storage  vStorage API for Storage Awareness, and VMware vSphere 
+    Storage Appliance</li>
+  <li>Describe enhanced features, including snapshot support for  vSphere Storage vMotion, solid-state disk support, and new  primitives in the vStorage API for Array Integration</li>
+  <li>Upgrade VMFS-3 to VMFS-5</li>
+  <li>Create user-defined storage capabilities and virtual machine  storage profiles</li>
+</ul>
+<p><strong>6. Scalability</strong></p>
+<ul>
+  <li>Describe scaling enhancements to resource pools and VMware  vSphere vMotion</li>
+  <li>Describe Storage DRS operation</li>
+  <li>Create a datastore cluster</li>
+  <li>Configure Storage DRS</li></ul>
+<p><strong>7. High Availability</strong></p>
+<ul>
+  <li>Describe enhancements to VMware Fault Tolerance and  Enhanced vMotion Compatibility features</li>
+  <li>Explain the new master-slave architecture of vSphere HA</li>
+  <li>View the new informational displays to monitor vSphere HA  cluster activity</li>
+</ul>
+<p><strong>8. New VMware vSphere Deployment Alternatives</strong></p>
+<ul>
+  <li>Configure and use the Linux-based vCenter Server Appliance</li>
+  <li>Use Image Builder to create an installation image profile</li>
+  <li>Use Auto Deploy to deploy a stateless ESXi host</li>
+</ul>

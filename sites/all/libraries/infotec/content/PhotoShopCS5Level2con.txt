@@ -1,0 +1,32 @@
+<p><strong>Lesson 1: Enhancing Images</strong></p>
+<ul>
+	<li>Topic 1A: Create Gradients</li>
+    <li>Topic 1B: Retouch Images</li>
+	<li>Topic 1C: Adjust Tonal Range Using Adjustment Layers</li>
+</ul>
+<p><strong>Lesson 2: Working with Vector Paths</strong></p>
+<ul>
+	<li>Topic 2A: Create Vector Paths</li>
+    <li>Topic 2B: Edit Paths</li>
+</ul>
+<p><strong>Lesson 3: Working with Shape Layers and Masks</strong></p>
+<ul>
+	<li>Topic 3A: Work with Shape Layers</li>
+    <li>Topic 3B: Work with Masks</li>
+    <li>Topic 3C: Apply Special Effects to a Layer</li>
+</ul>
+<p><strong>Lesson 4: Automating Tasks</strong></p>
+<ul>
+	<li>Topic 4A: Work with Actions</li>
+    <li>Topic 4B: Automate Tasks Using Adobe Bridge</li>
+</ul>
+<p><strong>Lesson 5: Working with Video Files</strong></p>
+<ul>
+	<li>Topic 5A: Edit Video Files</li>
+    <li>Topic 5B: Export Video Files</li>
+</ul>
+<p><strong>Lesson 6: Integrating with Other Adobe Applications</strong></p>
+<ul>
+	<li>Topic 6A: Integrate with Adobe Illustrator</li>
+    <li>Topic 6B: Edit a Photoshop File in Adobe Acrobat</li>
+</ul>

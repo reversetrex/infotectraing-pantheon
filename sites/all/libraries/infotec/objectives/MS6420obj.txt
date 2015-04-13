@@ -1,0 +1,18 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the fundamentals of an enterprise networking environment.</li>
+  <li>Describe the typical roles of IT Professionals in an enterprise environment.</li>
+  <li>Describe TCP/IPv4 configurations, protocols, and tools.</li>
+  <li>Describe the fundamentals of communication technologies.</li>
+  <li>Create an IPv4 address range and subnet.</li>
+  <li>Configure IPv6 addresses.</li>
+  <li>Administer a Windows 2008 server.</li>
+  <li>Describe basic security concepts for server roles.</li>
+  <li>Describe how to secure network traffic by using certificates.</li>
+  <li>Configure Windows Firewall.</li>
+  <li>Configure and troubleshoot remote access.</li>
+  <li>Describe routing concepts, protocols, and quality of service.</li>
+  <li>Configure and test network load balancing.</li>
+  <li>Configure network print resources and printing pools.</li>
+  <li>Describe the functions included with Windows Server Virtualization (WSV).</li>
+</ul>

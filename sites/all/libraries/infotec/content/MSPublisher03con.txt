@@ -1,0 +1,58 @@
+<p><strong> Unit 1: Creating a Basic Publication </strong></p>
+<ul>
+  <li> Examine the Publisher Environment </li>
+  <li>Create a Publication from a Publication Design </li>
+  <li>Replace Design Object Placeholders </li>
+  <li>Save a Publication </li>
+  <li>Create a Blank Publication </li>
+  <li>Display Ruler Guides </li>
+  <li>Add Text </li>
+  <li>Insert a Picture from a File </li>
+</ul>
+<p><strong> Unit 2: Modifying a Publication's Layout and Structure </strong></p>
+<ul>
+  <li> Insert and Delete Pages </li>
+  <li>Insert a Text File </li>
+  <li>Size Text Boxes and Picture Frames </li>
+  <li>Move Text Boxes and Picture Frames </li>
+  <li>Connect Text Boxes </li>
+  <li>Divide Text Boxes into Columns </li>
+  <li>Move a Page </li>
+  <li>Create and Use a Master Page </li>
+</ul>
+<p><strong> Unit 3: Editing Content in a Publication </strong></p>
+<ul>
+  <li> Edit Text in a Publication </li>
+  <li>Research Information </li>
+  <li>Find and Replace Text </li>
+  <li>Check Spelling </li>
+</ul>
+<p><strong> Unit 4: Formatting a Publication </strong></p>
+<ul>
+  <li> Format Text </li>
+  <li>Apply Schemes </li>
+  <li>Insert Symbols </li>
+  <li>Indent Paragraphs </li>
+  <li>Change Spacing Between Paragraphs </li>
+  <li>Control Paragraph Flow </li>
+  <li>Create Paragraph Styles </li>
+  <li>Format Text Boxes </li>
+</ul>
+<p><strong> Unit 5: Formatting Pictures in a Publication </strong></p>
+<ul>
+  <li> Format Picture Frames </li>
+  <li>Crop a Picture </li>
+  <li>Wrap Text Around a Picture </li>
+  <li>Insert WordArt </li>
+  <li>Insert a Design Gallery Object </li>
+</ul>
+<p><strong> Unit 6: Preparing a Publication for Distribution </strong></p>
+<ul>
+  <li> Check the Design of a Publication </li>
+  <li>Verify Pictures </li>
+  <li>Create a Newsletter to Email </li>
+  <li>Create a Web Page </li>
+  <li>Publish a Web Site </li>
+  <li>Preview and Print a Publication </li>
+  <li>Templates </li>
+</ul>

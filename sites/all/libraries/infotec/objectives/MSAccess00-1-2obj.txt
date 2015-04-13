@@ -1,0 +1,17 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Understand database concepts and terminology in Access 2000. </li>
+  <li> Design and create tables. </li>
+  <li> Enter and manipulate data in tables. </li>
+  <li> Use Access queries to select and analyze information in a table. </li>
+  <li> Create data forms for viewing and inputting data. </li>
+  <li> Create reports that summarize and group data. </li>
+  <li> Perform database maintenance procedures. </li>
+  <li> Normalize tables through fifth normal form. </li>
+  <li> Establish relationships between tables and enforce referential integrity. </li>
+  <li> Maintain data integrity in tables by setting properties, creating a Lookup list, and creating indexes. </li>
+  <li> Use queries to calculate expressions and extract data from multiple tables. </li>
+  <li> Improve form designs by adding bound controls, calculated fields, and a combo box. </li>
+  <li> Create and modify data access pages, and integrate data with other applications. </li>
+  <li> Create and modify reports with the Report Wizard and Design view, add a subreport. And add a calculated control. </li>
+</ul>

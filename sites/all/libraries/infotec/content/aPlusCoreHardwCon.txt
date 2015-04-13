@@ -1,0 +1,116 @@
+<p>Unit 1: Identifying Personal Computer Components </p>
+<ul>
+  <li> Identifying Components of Motherboards </li>
+  <li> Identifying Purposes and Characteristics of Processors </li>
+  <li> Identifying Purposes and Characteristics of Memory </li>
+  <li> Identifying Purposes and Characteristics of Storage Devices </li>
+  <li> Identifying Purposes and Characteristics of Power Supplies </li>
+  <li> Identifying Purposes and Characteristics of Display Devices </li>
+  <li> Identifying Input Devices </li>
+  <li> Identifying Purposes and Characteristics of Adapter Cards </li>
+  <li> Identifying Characteristics of Ports and Cables </li>
+  <li> Identifying Purposes and Characteristics of Cooling Systems&nbsp;</li>
+</ul>
+<p> Unit 2: Effectively Working with Personal Computer Components </p>
+<ul>
+  <li> Installing, Configuring, and Optimizing PC Components </li>
+  <li> Identifying Tools and Diagnostics for PC Components </li>
+  <li> Performing Preventative Maintenance on Personal Computers &nbsp;</li>
+</ul>
+<p> Unit 3: Understanding Laptops and Portable Devices </p>
+<ul>
+  <li> Understanding Laptop Architecture </li>
+  <li> Managing Power and Removing Devices </li>
+  <li> Troubleshooting and Performing Preventative Maintenance on Laptops </li>
+</ul>
+<p> Unit 4: Understanding Operating Systems </p>
+<ul>
+  <li> Understanding Operating Systems </li>
+  <li> Using Operating Systems </li>
+</ul>
+<p> Unit 5: Understanding Basics of Installing, Configuring, Optimizing, and Upgrading Operating Systems </p>
+<ul>
+  <li> Installing Operating Systems </li>
+  <li> Upgrading the Operating Systems </li>
+  <li> Installing Device Drivers </li>
+  <li> Optimizing Windows 2000 and Windows XP </li>
+</ul>
+<p> Unit 6: Identifying Operating System Troubleshooting and Diagnostic Procedures </p>
+<ul>
+  <li> Troubleshooting Steps </li>
+  <li> Understanding Boot Sequences </li>
+  <li> Identifying Windows </li>
+  <li> Identifying Windows-based Troubleshooting Utilities </li>
+  <li> Identifying Diagnostic Resources </li>
+  <li> Performing Preventative Maintenance on Operating Systems &nbsp;</li>
+</ul>
+<p> Unit 7: Understanding the Basics of Printers and Scanners </p>
+<ul>
+  <li> Understanding Printer and Scanner Fundamentals </li>
+  <li> Installing, Configuring, and Upgrading Printers and Scanners </li>
+  <li> Troubleshooting Printers and Scanners </li>
+</ul>
+<p> Unit 8: Networking Fundamentals </p>
+<ul>
+  <li> Understanding Networking Principles </li>
+  <li> Installing, Configuring, and Troubleshooting Networks </li>
+</ul>
+<p> Unit 9: Understanding Network Security Fundamentals </p>
+<ul>
+  <li> Understanding Security </li>
+  <li> Security Solutions </li>
+  <li> Identifying Security Problem Areas </li>
+</ul>
+<p> Unit 10: Identifying Safety and Environmental Issues </p>
+<ul>
+  <li> Understanding Safety and Environmental Issues </li>
+  <li> Applying Proper Safety and Disposal Procedures </li>
+</ul>
+<p> Unit 11: Understanding Professionalism and Communication </p>
+<ul>
+  <li> Using Good Communication Skills </li>
+  <li> Using Appropriate Behavior </li>
+  <li> Putting It all in Perspective </li>
+</ul>
+<p> Unit 12: Working with Personal Computer Components </p>
+<ul>
+  <li> Removing, Installing, and Configuring Components </li>
+  <li> Using Tools and Diagnostic Procedures for Personal Computer Components </li>
+  <li> Performing Preventative Maintenance for Personal Computer Components </li>
+</ul>
+<p> Unit 13: Working with Laptops and Portable Devices </p>
+<ul>
+  <li> Using Laptops and Portable Devices </li>
+  <li> Removing Devices and Video Sharing </li>
+  <li> Troubleshooting Laptops </li>
+</ul>
+<p> Unit 14: Installing, Configuring, Optimizing and Upgrading Operating Systems </p>
+<ul>
+  <li> Using Operating Systems </li>
+  <li> Optimizing Operating Systems </li>
+  <li> Troubleshooting windows </li>
+  <li> Performing Preventative Maintenance </li>
+</ul>
+<p> Unit 15: Installing, Configuring, Optimizing, and Upgrading Printers and Scanners </p>
+<ul>
+  <li> Understanding Printer and Scanner Processes </li>
+  <li> Installing, Configuring, Optimizing, and Upgrading Printers and Scanners </li>
+  <li> Using Printer and Scanner Troubleshooting Tools and Techniques </li>
+  <li> Performing Preventative Maintenance </li>
+</ul>
+<p> Unit 16: Installing, Configuring, Optimizing and Upgrading Network Systems </p>
+<ul>
+  <li> Understanding Networking </li>
+  <li> Working with Additional Network Components </li>
+  <li> Using Network Tools and Diagnostics </li>
+  <li> Performing Preventative Network Maintenance </li>
+</ul>
+<p> Unit 17: Installing, Configuring, Upgrading, and Optimizing Security Systems </p>
+<ul>
+  <li> Understanding Security Baselines </li>
+  <li> Hardening a System </li>
+  <li> Auditing and Logging </li>
+  <li> Updating Your Operating Systems </li>
+  <li> Revisiting Social Engineering </li>
+  <li> Recognizing Common Attacks </li>
+</ul>

@@ -1,0 +1,9 @@
+You've used Office 2007 or Office 2010 to create various types of business materials from documents in Microsoft Word to spreadsheets in Excel to presentations in PowerPoint. Perhaps you use Outlook to manage your calendar, contacts, and email or Access to manage inventory and trouble tickets.
+<br><br>
+However you use Office, the fact is the Office suite of applications is the de-facto standard for business productivity software. Each new release of Office builds upon the successes of the previous generations.
+<br><br>
+This course builds upon the foundational Microsoft Office 2007/2010 knowledge and skills you've already acquired. It focuses on the enhanced features you'll want to leverage to improve the way you manage, organize, present, and distribute your company's data and information.
+<br><br>
+You'll explore a variety of enhancements, from Word's ability to edit PDF files to the new Flash Fill functionality in Excel that dramatically increases the speed at which you can add data to a spreadsheet. You'll discover how the cloud has been deeply integrated into your Office experience and how collaborating with colleagues has never been easier.
+<br><br>
+This Microsoft Office 2013: Transition from Office 2007/2010 course will help you bridge the gap from the version you already know and love to the latest release of Microsoft's flagship productivity suite.

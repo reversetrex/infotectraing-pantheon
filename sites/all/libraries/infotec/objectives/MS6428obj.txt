@@ -1,0 +1,11 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Configure the TS role.</li>
+  <li>Manage TS licensing.</li>
+  <li>Administer TS connection properties using the Terminal Services Configuration snap in and Group Policy.</li>
+  <li>Configure TS Easy Print and TS RemoteApp programs.</li>
+  <li>Configure the TS Web Access role service.</li>
+  <li>Configure a TS session broker for a load-balanced TS farm.</li>
+  <li>Configure and troubleshoot TS Gateway.</li>
+  <li>Maintain TS connections post installation and configure WSRM for TS.</li>
+</ul>

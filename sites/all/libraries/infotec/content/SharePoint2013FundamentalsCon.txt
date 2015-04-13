@@ -1,0 +1,49 @@
+<p><strong>Module 1: Course Overview</strong></p>
+<p><strong>Module 2: SharePoint 2013 Introduction</strong></p>
+<p><strong>Module 3: Collaboration Experience</strong></p>
+<ul>
+  <li>View a basic Team Site</li>
+  <li>Navigate a site</li>
+  <li>Observe the Ribbon</li>
+</ul>
+<p><strong>Module 4: Working with Apps</strong></p>
+<ul>
+  <li>Observe add an app</li>
+  <li>Visit the SharePoint Store</li>
+  <li>Add, modify, and delete content in a library</li>
+  <li>Upload files</li>
+  <li>Use a Site Notebook</li>
+</ul>
+<p><strong>Module 5: Create an App</strong></p>
+<ul>
+  <li>Create and use a Picture Library</li>
+  <li>Create and use a Calendar List</li>
+  <li>Create and use a Tasks List</li>
+</ul>
+<p><strong>Module 6: List Views</strong></p>
+<ul>
+  <li>Observe default Public views</li>
+  <li>Create several new views using various options</li>
+  <li>Sort and filter lists using columns</li>
+  <li>Delete a view</li>
+</ul>
+<p><strong>Module 7: Office Integration</strong></p>
+<ul>
+  <li>Connect the SharePoint Calendar with Outlook</li>
+  <li>Sync files for offline use</li>
+  <li>Export a list to Excel</li>
+  <li>Open with Access</li>
+</ul>
+<p><strong>Module 8: Pages</strong></p>
+<ul>
+  <li>Create a Wiki page</li>
+  <li>Embed video on a page</li>
+  <li>Create a Wiki page link</li>
+</ul>
+<p><strong>Module 9: Customize settings as a Site Member</strong></p>
+<ul>
+  <li>Observe Newsfeed and modify Regional Settings</li>
+  <li>Create and test alerts at several levels</li>
+  <li>Perform a Basic Search</li>
+</ul>
+<p><strong>Module 10: Class Wrap-Up</strong></p>

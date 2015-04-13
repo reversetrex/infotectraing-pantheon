@@ -1,0 +1,14 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Apply a framework to a design.</li>
+  <li>Design a storage solution to use vSphere in an enterprise.</li>
+  <li>Design a network to use vSphere in an enterprise.</li>
+  <li>Design compute resources for an enterprise.</li>
+  <li>Design virtual machines to run applications in a virtual infrastructure.</li>
+  <li>Design a virtual datacenter for an enterprise.</li>
+  <li>Incorporate management and monitoring features in the design.</li>
+  <li>Design goals, requirements, constraints, and risks.</li>
+  <li>Useful information for making design decisions.</li>
+  <li>Recognize and analyze best practice recommendations.</li>
+  <li>Analyze alternative design choices.</li>
+</ul>

@@ -1,0 +1,60 @@
+<p><strong>Lesson 1:  Understanding Windows SharePoint Services 3.0</strong></p>
+<ul>
+  <li> Topic 1A:  Introduction to Windows SharePoint Services</li>
+  <li> Topic 1B: The Windows  SharePoint Services Team Site</li>
+</ul>
+
+<p><strong>Lesson 2: Working  with Lists</strong></p>
+    <ul>
+      <li>Topic 2A: Add List  Items</li>
+      <li> Topic 2B: Modify List  Items</li>
+      <li> Topic 2C: Change a  List View</li>
+      <li> Topic 2D: Create a  Personal View</li>
+    </ul>
+	
+<p><strong>Lesson 3: Working  with Libraries</strong></p>
+<ul>
+  <li>Topic 3A: Add  Documents to a Library</li>
+  <li> Topic 3B: Create Wiki  Pages</li>
+  <li> Topic 3C: Open and  Edit Library Files</li>
+</ul>
+
+<p><strong>Lesson 4: Communicating with Team Members</strong></p>
+<ul>
+  <li>Topic 4A: Participate  in a Discussion Board</li>
+  <li> Topic 4B: Contribute  to Blogs</li>
+  <li> Topic 4C: Collaborate  via the People and Groups List</li>
+</ul>
+
+<p><strong>Lesson 5: Working  Remotely with SharePoint Content</strong></p>
+<ul>
+  <li>Topic 5A: View  SharePoint Content from Mobile Devices</li>
+  <li> Topic 5B: Work with  SharePoint Content Offline in Microsoft Office 2007</li>
+</ul>
+
+<p><strong>Lesson 6: Customizing Your SharePoint Environment</strong></p>
+<ul>
+  <li>Topic 6A: Customize  Personal and Regional Settings</li>
+  <li> Topic 6B: Create an  Alert</li>
+  <li> Topic 6C: Subscribe  to an RSS Feed</li>
+  <li> Topic 6D: Create a  Personal Page View with Web Parts</li>
+  <li> Topic 6E: Request  Access to SharePoint Resources</li>
+</ul>
+
+<p><strong>Lesson 7: Creating a  Team Site</strong></p>
+<ul>
+  <li>Topic 7A: Create a  Site</li>
+  <li> Topic 7B: Create a  Workspace</li>
+  <li> Topic 7C: Add a List</li>
+  <li> Topic 7D: Create a  Public View</li>
+  <li> Topic 7E: Add a  Library</li>
+  <li> Topic 7F: Create a  Survey</li>
+  <li> Topic 7G: Grant  Access to a SharePoint Site</li>
+</ul>
+
+<p><strong>Lesson 8: Performing  Basic Site Administration</strong></p>
+<ul>
+  <li>Topic 8A: Manage  Users and Groups</li>
+  <li>Topic 8B: Manage Site  Look and Feel</li>
+  <li>Topic 8C: Perform Basic Content Management</li>
+</ul>

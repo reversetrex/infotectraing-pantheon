@@ -1,0 +1,11 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon completion of this course, students will be able to: </p>
+<ul>
+  <li> Design an application by defining application objectives and requirements and by using external data sources. </li>
+  <li> Navigate from one form to another in data-entry mode by using a command button. </li>
+  <li> Automate a form designed as dialog box by using a macro group. </li>
+  <li> Create and modify a Switchboard form by using the Switchboard Manager. </li>
+  <li> Customize forms by creating custom toolbars and menus. </li>
+  <li> Create a form to use as a splash screen on application startup by setting properties and writing Visual Basic for Application code. </li>
+  <li> Identify elements of Visual Basic for Applications syntax and decide where to place code by examining a standard function, a module-level function, and an event procedure, including an event procedure to display a Web page in a Web Browser control on a form. </li>
+  <li> Secure an application by defining application-level and file-level security, by creating a workgroup information file, and by setting a database password. </li>
+</ul>

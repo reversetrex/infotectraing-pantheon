@@ -1,0 +1,35 @@
+<p><strong>Lesson 1: Getting Started with Visio 2010</strong></p>
+<ul>
+	<li><strong>Topic 1A:</strong> Explore the Visio Interface</li>
+    <li><strong>Topic 1B:</strong> Customize the Visio Interface</li>
+    <li><strong>Topic 1C:</strong> Create a New Diagram</li>
+</ul>
+
+<p><strong>Lesson 2: Creating a Route Map</strong></p>
+<ul>
+	<li><strong>Topic 2A:</strong> Add Shapes to a Diagram</li>
+    <li><strong>Topic 2B:</strong> Manipulate Shapes</li>
+    <li><strong>Topic 2C:</strong> Add Text</li>
+    <li><strong>Topic 2D:</strong> Format Text</li>
+    <li><strong>Topic 2E:</strong> Change the Stacking Order</li>
+</ul>
+
+<p><strong>Lesson 3: Modifying Diagram Shapes</strong></p>
+<ul>
+	<li><strong>Topic 3A:</strong> Manage Shapes</li>
+    <li><strong>Topic 3B:</strong> Format Shapes</li>
+</ul>
+
+<p><strong>Lesson 4: Creating Process Diagrams</strong></p>
+<ul>
+	<li><strong>Topic 4A:</strong> Create a Flowchart</li>
+    <li><strong>Topic 4B:</strong> Apply Page Styles</li>
+    <li><strong>Topic 4C:</strong> Create a Cross-Functional Flowchart</li>
+    <li><strong>Topic 4D:</strong> Create a Workflow Diagram</li>
+</ul>
+
+<p><strong>Lesson 5: Representing an Organization Hierarchy</strong></p>
+<ul>
+	<li><strong>Topic 5A:</strong> Create an Organization Chart</li>
+    <li><strong>Topic 5B:</strong> Modify an Organization Chart</li>
+</ul>

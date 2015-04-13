@@ -1,0 +1,362 @@
+<p><strong>Module 1: Introduction to XenServer</strong></p>
+<ul>
+ <li>XenServer Product Line</li>
+ <li>Product Simplification</li>
+ <li>Product Simplification</li>
+ <li>Architectural Changes</li>
+ <li>Virtual Appliances and Broader Vendor Support</li>
+ <li>Microsoft System Center Integration</li>
+ <li>XenDesktop Integration</li>
+ <li>Enhanced Operating System Support</li>
+ <li>Other Enhancements and Improvements</li>
+ <li>XenServer Architecture Overview</li>
+ <li>XenCenter Overview</li>
+ <li>Resource Pools</li>
+ <li>XenServer Storage Overview</li>
+ <li>XenServer Networking Overview</li>
+ <li>Provisioning Services Overview</li>
+</ul>
+<p><strong>Module 2: Installing and Configuring XenServer</strong></p>
+<ul>
+ <li>XenServer Installation</li>
+ <li>Virtual Machine Storage</li>
+ <li>Installing Single and Multiple Disk Systems</li>
+ <li>Installing XenServer</li>
+ <li>Pre-Installation Checklist</li>
+ <li>XenServer Installation Process</li>
+ <li>IntelliCache</li>
+ <li>Configuring NTP</li>
+ <li>XenCenter Installation and Management</li>
+ <li>Consoles</li>
+ <li>XenCenter Consoles</li>
+ <li>XenServer Licensing Components</li>
+ <li>License File Management</li>
+ <li>Citrix License Server Virtual Appliance</li>
+ <li>Obtaining License Files</li>
+ <li>License Management Console</li>
+ <li>Managing XenServer Users</li>
+ <li>Key Benefits of Active Directory Integration</li>
+ <li>Configuring Active Directory Integration</li>
+ <li>End-User Authentication Using Active Directory</li>
+ <li>Active Directory Integration</li>
+ <li>External Authentication Process</li>
+ <li>Role-Based Access Control</li>
+ <li>Roles</li>
+ <li>Security Logs</li>
+</ul>
+<p><strong>Module 3: XenServer Networking</strong></p>
+<ul>
+ <li>XenServer Networking Overview</li>
+ <li>Network Stacks Supported by XenServer</li>
+ <li>Network Components and Architecture</li>
+ <li>Network Architecture Diagram</li>
+ <li>Network Adapter Drivers</li>
+ <li>Private-Server and External Networks</li>
+ <li>VLAN Support and Components</li>
+ <li>Initial Network Setup</li>
+ <li>NIC Bond</li>
+ <li>NIC Bonding Architecture</li>
+ <li>Load Balancing</li>
+ <li>NIC Bond Configuration for Resource Pools</li>
+</ul>
+<p><strong>Module 4: XenServer Storage Repositories</strong></p>
+<ul>
+ <li>Storage Technologies</li>
+ <li>Virtual Disk Image Formats</li>
+ <li>Storage Technology Comparison</li>
+ <li>XenServer Storage Architecture</li>
+ <li>Storage Repository Architecture</li>
+ <li>Multiple Storage Repositories</li>
+ <li>Local Storage Repositories</li>
+ <li>Virtual Disk Size</li>
+ <li>Storage Capability Comparison</li>
+ <li>NFS Storage Overview</li>
+ <li>NFS Architecture</li>
+ <li>NFS Virtual Disks</li>
+ <li>NFS Remote Storage Configuration and Recommendations</li>
+ <li>iSCSI Storage Overview</li>
+ <li>iSCSI Architecture</li>
+ <li>iSCSI Adapters</li>
+ <li>iSCSI Setup Configuration and Recommendations</li>
+ <li>Resizing a Storage Repository</li>
+ <li>Resizing a Storage Repository - iSCSI</li>
+ <li>Resizing a Storage Repository - HBA</li>
+ <li>Fibre Channel SANs Overview</li>
+ <li>Fibre Channel Architecture</li>
+ <li>LUN Device Path</li>
+ <li>Dedicated NIC Bonds for Remote Storage</li>
+ <li>Dedicated Remote Storage Interface Configuration</li>
+ <li>Storage Multipathing</li>
+ <li>Citrix StorageLink Overview</li>
+ <li>Citrix StorageLink Storage Repository</li>
+ <li>StorageLink Supported Array Types</li>
+ <li>Upgrading to StorageLink with XenServer</li>
+</ul>
+<p><strong>Module 5: Creating and Managing Virtual Machines</strong></p>
+<ul>
+ <li>Windows Virtual Machine Architecture</li>
+ <li>Virtual Memory and Disk Size Limits for Windows Virtual Machines</li>
+ <li>Virtual Device Support for Windows Virtual Machines</li>
+ <li>Installation from an ISO</li>
+ <li>ISO Libraries</li>
+ <li>To Create a Windows Virtual Machine</li>
+ <li>Linux Distributions</li>
+ <li>Creating Linux Virtual Machines</li>
+ <li>XenServer Tools</li>
+ <li>XenServer Tools for Windows Virtual Machines</li>
+ <li>XenServer Tools for Linux Virtual Machines</li>
+ <li>To Install XenServer Tools</li>
+ <li>Life Cycle Operations</li>
+ <li>Suspend and Resume</li>
+ <li>Deleting a Virtual Machine</li>
+ <li>Virtual Machine Templates</li>
+ <li>Virtual Machine Snapshots</li>
+ <li>To Create a Template from a Windows Virtual Machine</li>
+ <li>Creating a Template from a Linux Virtual Machine</li>
+ <li>Exporting a Virtual Machine</li>
+ <li>Copying a Virtual Machine</li>
+ <li>Assigning Resources to a Virtual Machine</li>
+ <li>Importing a Virtual Machine</li>
+ <li>Modifying Virtual Machine or Template Resources</li>
+ <li>Virtual Disks</li>
+ <li>Virtual Disk Sizes</li>
+ <li>Virtual NICs</li>
+ <li>Virtual CPUs</li>
+ <li>Memory</li>
+ <li>Virtual Appliance Packages</li>
+ <li>To Create Virtual Appliances</li>
+ <li>Exporting an Appliance Package</li>
+ <li>To Export an Appliance Package</li>
+ <li>Importing an Appliance Package</li>
+ <li>To Import an Appliance Package</li>
+ <li>XenConvert Overview</li>
+ <li>Physical Machine Conversion</li>
+ <li>Converting from Physical to Virtual Machine</li>
+ <li>Performing a PV Conversion</li>
+ <li>Dynamic Memory Control</li>
+ <li>Dynamic Memory Control Optimization</li>
+ <li>Static Memory Range</li>
+ <li>DMC Behavior when Launching New Virtual Machines</li>
+</ul>
+<p><strong>Module 6: Installing and Configuring Provisioning Services</strong></p>
+<ul>
+ <li>Provisioning Services Technology</li>
+ <li>Provisioning Services for XenServer</li>
+ <li>Citrix Provisioning Services Components</li>
+ <li>Citrix Provisioning Services Infrastructure</li>
+ <li>Provisioning Services Administration</li>
+ <li>Administrative Roles</li>
+ <li>Key Services</li>
+ <li>DHCP Deployment Options</li>
+ <li>DHCP Configuration</li>
+ <li>Installation Planning</li>
+ <li>Provisioning Services Farm Design</li>
+ <li>Farms</li>
+ <li>SQL Database Server</li>
+ <li>SQL Database Authentication and Configuration</li>
+ <li>Configuration Wizard User Permissions</li>
+ <li>Service Account Permissions</li>
+ <li>Sites</li>
+ <li>Stores</li>
+ <li>Storage Requirements</li>
+ <li>Sample vDisk Storage Requirements</li>
+ <li>Provisioning Services Installation</li>
+ <li>Provisioning Services Configuration</li>
+ <li>Store Configuration</li>
+ <li>Provisioning Services Hosts in the Console</li>
+ <li>Target Device Connections</li>
+ <li>Server Properties</li>
+ <li>Target Device Collection</li>
+ <li>Target Device Template</li>
+ <li>Target Device Properties</li>
+ <li>Target Device Additions to the Database</li>
+ <li>Auto-Add Wizard</li>
+ <li>Active Directory Integration</li>
+ <li>Domain Password Validation Process</li>
+ <li>Automatic Password Renegotiation</li>
+ <li>To Integrate Active Directory</li>
+ <li>To Reset Computer Accounts for Target Devices</li>
+</ul>
+<p><strong>Module 7: Managing vDisks and Target Devices</strong></p>
+<ul>
+ <li>vDisk Image Modes</li>
+ <li>Standard Image Mode</li>
+ <li>Private Image Mode</li>
+ <li>Write Caches</li>
+ <li>Write-Cache Types</li>
+ <li>Cache on Server Disk</li>
+ <li>Cache on Server Disk: Local Storage</li>
+ <li>Cache on Server Disk: Shared Storage</li>
+ <li>Cache on Target Device Hard Drive</li>
+ <li>Cache on Target Device Hard Drive: Local Storage</li>
+ <li>Cache on Target Device Hard Drive: Shared Storage</li>
+ <li>Target Device-based RAM Cache</li>
+ <li>Target Device RAM</li>
+ <li>Cache Persistent on Server</li>
+ <li>Microsoft Licensing for Provisioning Services</li>
+ <li>Master Target Device</li>
+ <li>Preparing a Master Target Device</li>
+ <li>Preparing the Hard Disk of the Master Target Device</li>
+ <li>Configuring the BIOS of a Master Target Device</li>
+ <li>To Configure the BIOS of a Master Target Device</li>
+ <li>Installing Master Target Device Software</li>
+ <li>Imaging a Windows Target Device with XenConvert</li>
+ <li>vDisk File Creation</li>
+ <li>vDisk Lifecycle Operations</li>
+ <li>VHD Formats</li>
+ <li>Create vDisks Automatically Using Imaging Wizard</li>
+ <li>To Create a New vDisk Automatically Using the Imaging Wizard</li>
+ <li>Creating a vDisk Manually</li>
+ <li>vDisk Management</li>
+ <li>Assigning vDisks to Target Devices</li>
+ <li>To Assign a vDisk to a Single Target Device</li>
+ <li>vDisk Versions</li>
+ <li>vDisk Backup</li>
+ <li>vDisk Updates</li>
+ <li>Autoupdate Tool</li>
+ <li>vDisk Update Management Requirements</li>
+ <li>To Install Updates Automatically</li>
+ <li>Incremental Update Rollback</li>
+ <li>vDisk Replication</li>
+ <li>vDisk Inventory Service</li>
+ <li>High Availability Overview</li>
+ <li>Provisioning Services Failover</li>
+ <li>Configuring the Boot File for High Availability</li>
+ <li>Adding Provisioning Services Hosts to the Boot File</li>
+ <li>Enabling High Availability on vDisks</li>
+ <li>To Provide Provisioning Services Hosts with Access to Stores</li>
+ <li>Considerations for Offline Database Support</li>
+ <li>To Enable Offline Database Support</li>
+ <li>Stream Logging</li>
+ <li>To Enable Logging</li>
+ <li>Troubleshoot vDisk Images</li>
+</ul>
+<p><strong>Module 8: Implementing Resource Pools</strong></p>
+<ul>
+ <li>Resource Pools</li>
+ <li>Pool Member Types</li>
+ <li>Resource Pool Communication</li>
+ <li>Homogeneous Pools</li>
+ <li>Heterogeneous Pools</li>
+ <li>Shared Configurations</li>
+ <li>Adding a Host to a Resource Pool</li>
+ <li>To Add a Member to a Resource Pool</li>
+ <li>To Remove a Secondary Member from a Resource Pool</li>
+ <li>XenMotion</li>
+ <li>Migrating a Virtual Machine or Template</li>
+ <li>Pool Member Failure Overview</li>
+ <li>Failure Detection Process</li>
+ <li>To Promote a Secondary Member to a Master</li>
+</ul>
+<p><strong>Module 9: Distributed Virtual Switching</strong></p>
+<ul>
+ <li>Distributed Virtual Switching Features</li>
+ <li>Distributed Virtual Switching Components</li>
+ <li>vSwitch Controller Virtual Appliance Deployment</li>
+ <li>Accessing the vSwitch Controller</li>
+ <li>vSwitch Controller Configuration</li>
+ <li>High Availability</li>
+ <li>Monitoring Network Activity</li>
+ <li>Viewing Flow Statistics</li>
+ <li>Exporting NetFlow Statistics</li>
+ <li>Managing Address Groups and Virtual</li>
+ <li>Machine Groups</li>
+ <li>Distributed Virtual Switching Policy</li>
+ <li>Configuration Hierarchy</li>
+ <li>Access Control List Policies</li>
+ <li>Access Control Policies Hierarchy</li>
+ <li>Defining Access Control List Rules</li>
+ <li>Access Control List Rule Enforcement Order</li>
+ <li>Configuring Fail Modes</li>
+ <li>Setting Up Port Configuration Policies</li>
+ <li>Configuring QoS</li>
+ <li>Configuring RSPAN</li>
+ <li>To Configure RSPAN</li>
+ <li>Configuring Mac Address Spoof Checking</li>
+ <li>Cross-Server Private Networks</li>
+ <li>Cross-Server Private Network</li>
+ <li>Requirements</li>
+ <li>XenMotion with Cross-Server Private</li>
+ <li>Networks</li>
+ <li>Recovering from a Failed vSwitch Controller</li>
+</ul>
+<p><strong>Module 10: Workload Balancing</strong></p>
+<ul>
+ <li>Workload Balancing Overview</li>
+ <li>Workload Balancing Key Concepts</li>
+ <li>Workload Balancing Components</li>
+ <li>To Download the Workload Balancing Virtual Appliance</li>
+ <li>Import Considerations for the Workload</li>
+ <li>Balancing Virtual Appliance</li>
+ <li>Workload Balancing Configuration</li>
+ <li>To Update Workload Balancing Credentials</li>
+ <li>Connecting to the Workload Balancing</li>
+ <li>Virtual Appliance</li>
+ <li>Workload Balancing Access Control</li>
+ <li>Permissions</li>
+ <li>Workload Balancing Settings</li>
+ <li>Critical Thresholds</li>
+ <li>Critical Threshold Evaluation and Edit</li>
+ <li>Metric Weighting</li>
+ <li>Fixed and Scheduled Optimization Modes</li>
+ <li>Optimization Recommendations</li>
+ <li>Workload Balancing Power Management</li>
+ <li>Power Management Behavior</li>
+ <li>Power Management and Virtual Machine Consolidation</li>
+ <li>To Apply Optimization Recommendations Automatically</li>
+ <li>Optimal Server Selection</li>
+ <li>Host Exclusion from Recommendations</li>
+</ul>
+<p><strong>Module 11: Configuring High Availability</strong></p>
+<ul>
+ <li>High Availability Requirements</li>
+ <li>High Availability Considerations</li>
+ <li>Restart Priorities</li>
+ <li>Server Failure Tolerance</li>
+ <li>Overcommitting</li>
+ <li>Host Fencing</li>
+ <li>Disaster Recovery</li>
+ <li>Disaster Preparedness and Response</li>
+ <li>Backup and Recovery of XenServer Hosts 
+ and Virtual Machines</li>
+ <li>Metadata</li>
+ <li>Backing Up a Pool Installation</li>
+ <li>To Restore a Pool Installation</li>
+ <li>Backing Up Virtual Machines as Snapshots</li>
+ <li>To Take a Snapshot of a Virtual Machine</li>
+ <li>To Restore a Running XenServer Host</li>
+ <li>Listing Snapshots Using the Command-line Interface</li>
+ <li>Deleting a Snapshot</li>
+ <li>Restoring a Virtual Machine from a Snapshot</li>
+</ul>
+<p><strong>Module 12: Managing and Troubleshooting XenServer</strong></p>
+<ul>
+ <li>Command-line Interface Overview</li>
+ <li>Command-line Interface Operations Targets</li>
+ <li>Command-line Interface Basics</li>
+ <li>Command-line Interface Shortcuts</li>
+ <li>XenServer Menu-Driven Text Console</li>
+ <li>Monitoring XenServer</li>
+ <li>Using the XenTop Utility to Monitor Host and Virtual Machine Performance</li>
+ <li>Logging to a Remote Syslog Server</li>
+ <li>To Log Using a Remote Syslog Server</li>
+ <li>Events and Alerts</li>
+ <li>Alert Customization</li>
+ <li>Persistent XenServer Performance Statistics</li>
+ <li>Performance Statistics in XenCenter</li>
+ <li>XenServer Logs and Reports</li>
+ <li>XenCenter Event Logs</li>
+ <li>Server Status Reports</li>
+ <li>Xen-Bugtool Utility</li>
+ <li>XenServer Crashdump Overview</li>
+ <li>Generating the Crashdump File in the Command-Line Interface</li>
+ <li>Running a Network Trace and Triggering a Memory Dump</li>
+ <li>XenServer Updates and Hotfixes</li>
+ <li>Update or Hotfix Considerations</li>
+ <li>To Update XenServer Hosts Using XenCenter</li>
+ <li>To Update Hosts or Pool Using the Command-line Interface</li>
+ <li>Rolling Pool Upgrade</li>
+ <li>Planning a Rolling Upgrade</li>
+ <li>Workload Balancing Reports Overview</li>
+ <li>Workload Balancing Reports</li>
+</ul>

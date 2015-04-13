@@ -1,0 +1,32 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Configure Data Center Process Automation
+    	<ul>
+        	<li>Implement workflows</li>
+            <li>Implement service offerings</li>
+        </ul>
+    </li>
+    <li>Deploy Resource Monitoring
+    	<ul>
+        	<li>Deploy end-to-end monitoring</li>
+            <li>Configure end-to-end monitoring</li>
+            <li>Create monitoring reports and dashboards</li>
+        </ul>
+    </li>
+    <li>Monitor Resources
+    	<ul>
+        	<li>Monitor Network Devices</li>
+            <li>Monitor Servers</li>
+            <li>Monitor the virtualization layer</li>
+            <li>Monitor application health</li>
+        </ul>
+    </li>
+    <li>Configure and Maintain Service Manager
+    	<ul>
+        	<li>Implement service level management</li>
+            <li>Manage problems and incidents</li>
+            <li>Manage cloud resources</li>
+        </ul>
+    </li>
+    <li>Manage Configuration and Protection</li>
+</ul>

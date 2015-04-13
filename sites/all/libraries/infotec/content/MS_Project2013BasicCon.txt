@@ -1,0 +1,29 @@
+<p><strong>Lesson 1: </strong>Starting a Project</p>
+<ul>
+  <li><strong>Topic A: </strong>Project Management 101</li>
+  <li><strong>Topic B: </strong>Navigate and Customize the Project 2013 Interface</li>
+  <li><strong>Topic C: </strong>Add Tasks to a Project</li>
+  <li><strong>Topic D: </strong>Add Resources to a Project</li>
+  <li><strong>Topic E: </strong>Save a Project</li>
+</ul>
+<p><strong>Lesson 2: </strong>Working with Project Calendars</p>
+<ul>
+  <li><strong>Topic A: </strong>Manage Project Time Frames</li>
+  <li><strong>Topic B: </strong>Change Working Time</li>
+</ul>
+<p><strong>Lesson 3: </strong>Working with Project Tasks</p>
+<ul>
+  <li><strong>Topic A: </strong>Manage Project Tasks</li>
+  <li><strong>Topic B: </strong>Add Summary Tasks and Milestones</li>
+</ul>
+<p><strong>Lesson 4: </strong>Working with Project Resources</p>
+<ul>
+  <li><strong>Topic A: </strong>Manage Project Resources</li>
+  <li><strong>Topic B: </strong>Allocate and Level Work Resources</li>
+</ul>
+<p><strong>Lesson 5: </strong>Delivering a Project Plan</p>
+<ul>
+  <li><strong>Topic A: </strong> Print Project Views</li>
+  <li><strong>Topic B: </strong>Share Projects</li>
+  <li><strong>Topic C: </strong>Export Projects</li>
+</ul>

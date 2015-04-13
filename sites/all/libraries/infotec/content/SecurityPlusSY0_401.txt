@@ -1,0 +1,529 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Security Knowledge</li>
+    <li>Knowledge Domains</li>
+    <li>Exam Prerequisites</li>
+    <li>Take the Exam</li>
+    <li>Exam Preparation Tips</li>
+  </ul>
+  <h3>Section B: Principles and Concepts</h3>
+  <ul>
+    <li>CIA - Confidentiality</li>
+    <li>CIA - Integrity</li>
+    <li>CIA - Availability</li>
+    <li>AAA</li>
+    <li>Authentication</li>
+    <li>Authentication Factors</li>
+    <li>Authorization</li>
+    <li>Accounting</li>
+    <li>CHAP</li>
+    <li>Identification</li>
+    <li>Least Privilege</li>
+    <li>Attack Surface</li>
+    <li>Defense in Depth</li>
+    <li>Threats and Risks</li>
+    <li>Types of Attackers</li>
+    <li>Safety Controls</li>
+  </ul>
+  <h3>Section C: Assessment Tools</h3>
+  <ul>
+    <li>Vulnerabilities</li>
+    <li>Threats</li>
+    <li>Risks</li>
+    <li>Assessment Techniques</li>
+    <li>Assessment Tools</li>
+    <li>Protocol Analyzer</li>
+  </ul>
+  <h3>Section D: Risk Mitigation</h3>
+  <ul>
+    <li>Risk Mitigation Process</li>
+    <li>Quantitative vs. Qualitative</li>
+    <li>ALE</li>
+    <li>Failure Realities</li>
+    <li>Risk Response</li>
+    <li>Risk Mitigation Strategies</li>
+    <li>Threat Vector</li>
+  </ul>
+  <h3>Section E: Incident Response</h3>
+  <ul>
+    <li>Incident Response Policy</li>
+    <li>Incident Response Policy Contents</li>
+    <li>Preparation</li>
+    <li>Incident Identification</li>
+    <li>Containment</li>
+    <li>Eradication</li>
+    <li>Recovery and Reconstitution Procedures</li>
+    <li>Follow-Up</li>
+    <li>Additional Considerations</li>
+  </ul>
+  <h3>Section F: Security Policies</h3>
+  <ul>
+    <li>Common Security Policies</li>
+    <li>Acceptable Use Policy</li>
+    <li>Due Care Policy</li>
+    <li>Privacy</li>
+    <li>Separation of Duties</li>
+    <li>Need to Know</li>
+    <li>Password Management</li>
+    <li>Service Level Agreement</li>
+    <li>Disposal and Destruction</li>
+    <li>Additional Policy Concerns</li>
+    <li>SANS.ORG Policy Project</li>
+  </ul>
+  <h3>Section G: Security Awareness Training</h3>
+  <ul>
+    <li>Education</li>
+    <li>Communication</li>
+    <li>User Awareness Training</li>
+    <li>Types of Training</li>
+    <li>User Behaviors</li>
+    <li>Threat Awareness</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Risk Management Best Practices</h3>
+  <ul>
+    <li>Business Continuity Concepts</li>
+    <li>Threats to Continuity</li>
+    <li>Business Impact Analysis</li>
+    <li>Operations Continuity</li>
+    <li>Disaster Recovery</li>
+    <li>Remove Single Points of Failure</li>
+    <li>IT Contingency Plan</li>
+    <li>Continuity Documentation</li>
+    <li>Continuity of Operations</li>
+    <li>Succession Plan</li>
+    <li>Fault Tolerance</li>
+  </ul>
+  <h3>Section B: Network Infrastructure Devices</h3>
+  <ul>
+    <li>Ethernet Switch</li>
+    <li>Ports</li>
+    <li>Ethernet Speeds</li>
+    <li>PoE Switches</li>
+    <li>Management Methods</li>
+    <li>Multilayer Switches</li>
+    <li>Routers</li>
+    <li>Routing Tables</li>
+    <li>IPv4 Entries</li>
+    <li>How Routing Works</li>
+    <li>Static Routing</li>
+    <li>Dynamic Routing</li>
+    <li>Secure Configuration</li>
+  </ul>
+  <h3>Section C: Network Services</h3>
+  <ul>
+    <li>Connection Points</li>
+    <li>Unified Threat Management</li>
+    <li>Resolve Computer Names</li>
+    <li>DNS Server Role</li>
+    <li>Configure DNS Zone</li>
+    <li>Create a DNS Host Record</li>
+  </ul>
+  <h3>Section D: VLAN and Network Design</h3>
+  <ul>
+    <li>Subnetting</li>
+    <li>Network Perimeters</li>
+    <li>DMZ</li>
+    <li>VLAN Defined</li>
+    <li>VLAN Example</li>
+    <li>VLAN Tagging</li>
+    <li>VLAN Trunk Example</li>
+    <li>Layered Security</li>
+    <li>Network Access Control</li>
+    <li>Telephony</li>
+  </ul>
+  <h3>Section E: TCP/IP Networking</h3>
+  <ul>
+    <li>TCP/IP Suite</li>
+    <li>TCP/IP Architecture</li>
+    <li>IPv4</li>
+    <li>IPv4 Addressing</li>
+    <li>IPv4 Address Classes</li>
+    <li>IPv4 Address Types</li>
+    <li>IPv4 Reserved Addresses</li>
+    <li>IPv4 Subnetting</li>
+    <li>IPv6</li>
+    <li>IPv6 Addressing</li>
+    <li>Transmission Methods</li>
+    <li>OSI Model</li>
+    <li>OSI vs. TCP/IP</li>
+    <li>OSI Protocols</li>
+  </ul>
+  <h3>Section F: Common Network Protocols</h3>
+  <ul>
+    <li>HTTP</li>
+    <li>HTTPS Connections</li>
+    <li>FTP, SFTP, and FTPS</li>
+    <li>IPSec</li>
+    <li>Secure Shell</li>
+    <li>SCP</li>
+    <li>Additional Protocols</li>
+    <li>ICMP</li>
+  </ul>
+  <h3>Section G: Protocol Ports</h3>
+  <ul>
+    <li>Port Numbers</li>
+    <li>Protocol Port Numbers</li>
+    <li>Angry Scanner</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Understanding Firewalls</h3>
+  <ul>
+    <li>Network Firewalls</li>
+    <li>Firewalls Defined</li>
+    <li>Packet Filtering Firewalls</li>
+    <li>Stateful Inspection Firewalls</li>
+    <li>Proxy Firewalls</li>
+    <li>Personal Firewalls</li>
+    <li>Web Security Gateways</li>
+    <li>Rules-Based Management</li>
+    <li>Windows Firewall Features</li>
+    <li>Windows Firewall Rules</li>
+  </ul>
+  <h3>Section B: Security-Related Network Tools</h3>
+  <ul>
+    <li>Spam</li>
+    <li>Spam Filtering</li>
+    <li>Application-Aware Devices</li>
+    <li>Protocol Analyzers</li>
+    <li>Install Wireshark</li>
+    <li>Create a Capture with Wireshark</li>
+    <li>Analyze a Capture</li>
+    <li>Further Analysis of a Capture</li>
+    <li>View Reports in Wireshark</li>
+  </ul>
+  <h3>Section C: Wireless Networking</h3>
+  <ul>
+    <li>Original 802.11</li>
+    <li>802.11b and 802.11a</li>
+    <li>802.11g</li>
+    <li>802.11n</li>
+    <li>802.11ac</li>
+    <li>Wireless Access Point</li>
+    <li>Wireless LAN Routers</li>
+    <li>Wireless Bridges</li>
+    <li>Wireless Repeaters</li>
+    <li>Wireless Controllers</li>
+    <li>Wireless Security Solutions</li>
+    <li>802.1X and EAP</li>
+    <li>False Assurance of Wi-Fi Security</li>
+    <li>Cell Size Adjustment Myths</li>
+  </ul>
+  <h3>Section D: Application Servers</h3>
+  <ul>
+    <li>Web Applications Defined</li>
+    <li>Web App Implementations</li>
+    <li>Application Tiers</li>
+    <li>SharePoint Farms</li>
+    <li>Security Issues in Web Applications</li>
+  </ul>
+  <h3>Section E: Data and Database Servers</h3>
+  <ul>
+    <li>Data Storage Methods</li>
+    <li>Managing Shares</li>
+    <li>Database Servers</li>
+    <li>What is SQL?</li>
+    <li>SQL Versions</li>
+    <li>Select Statements</li>
+    <li>Select in Apps</li>
+  </ul>
+  <h3>Section F: Understanding Authentication</h3>
+  <ul>
+    <li>Authentication Defined</li>
+    <li>Credential Types</li>
+    <li>Weak Authentication Methods</li>
+    <li>Strong Authentication Methods</li>
+    <li>Passwords and Authentication</li>
+    <li>Other Authentication Credentials</li>
+    <li>Single Sign-On</li>
+    <li>Enterprise Trust</li>
+    <li>Access Control</li>
+    <li>Account Policy Enforcement</li>
+    <li>Additional Authorization Factors</li>
+  </ul>
+  <h3>Section G: Authentication Services</h3>
+  <ul>
+    <li>RADIUS Servers</li>
+    <li>User Directories</li>
+    <li>Active Directory</li>
+    <li>RADIUS Server Selection</li>
+    <li>TACACS and TACACS+</li>
+    <li>Additional Protocols</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Cryptography Basics</h3>
+  <ul>
+    <li>Cryptography Defined</li>
+    <li>Simple Encryption</li>
+    <li>Cryptography Concepts</li>
+    <li>Uses of Cryptography</li>
+    <li>Types of Encryption</li>
+    <li>Symmetric Encryption</li>
+    <li>Symmetric Algorithms</li>
+    <li>Symmetric Encryption in Action</li>
+    <li>Asymmetric Encryption</li>
+    <li>ECC and Quantum Cryptography</li>
+    <li>Steganography</li>
+    <li>Additional Cryptography Concepts</li>
+  </ul>
+  <h3>Section B: Cryptography Tools</h3>
+  <ul>
+    <li>Symmetric Ciphers</li>
+    <li>Asymmetric Ciphers</li>
+    <li>Hashing Algorithms</li>
+    <li>Authentication and Encryption</li>
+    <li>Algorithm Strengths</li>
+    <li>Data Encryption Options</li>
+    <li>Transport Encryption</li>
+    <li>Cipher Suites</li>
+    <li>CrypTool</li>
+    <li>Caesar Encryption</li>
+  </ul>
+  <h3>Section C: Public Key Infrastructure</h3>
+  <ul>
+    <li>PKI</li>
+    <li>PKI Trust Models</li>
+    <li>PKI Management</li>
+    <li>Setup and Initialization</li>
+    <li>Administration</li>
+    <li>Key Management</li>
+    <li>Administrative Responsibilities</li>
+    <li>User Certificates</li>
+    <li>Key Escrow and Recovery</li>
+    <li>Key Recovery Agent</li>
+    <li>Securing Web Server</li>
+    <li>Commercial Certificate</li>
+    <li>HTTPS Connections</li>
+  </ul>
+  <h3>Section D: Authentication and Cryptography Attacks</h3>
+  <ul>
+    <li>Password Attacks</li>
+    <li>Weak Authentication</li>
+    <li>Connect to FTP Server</li>
+    <li>Cryptography Attacks</li>
+  </ul>
+  <h3>Section E: Wired Network Attacks</h3>
+  <ul>
+    <li>DoS Attack</li>
+    <li>TCP Three-Way Handshake</li>
+    <li>Smurf Attack</li>
+    <li>Ping of Death Attacks</li>
+    <li>DDoS Attacks</li>
+    <li>DDoS Attack Protection</li>
+    <li>Xmas Attack</li>
+    <li>Man-in-the-Middle Attack</li>
+    <li>IP Address Spoofing</li>
+    <li>ARP Poisoning</li>
+    <li>Spoofing Attack</li>
+    <li>Replay Attack</li>
+    <li>TCP/IP Hijacking</li>
+  </ul>
+  <h3>Section F: Wireless Network Attacks</h3>
+  <ul>
+    <li>Inherent Wi-Fi Threats</li>
+    <li>Wi-Fi Attack Methods</li>
+    <li>Mobile Device Attack</li>
+    <li>Weak Wireless Security</li>
+    <li>Wireless Security Solutions</li>
+    <li>Enterprise Wireless Security</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Application Vulnerabilities</h3>
+  <ul>
+    <li>Buffer Overflow Defined</li>
+    <li>Buffer Overflow Dependencies</li>
+    <li>Cross-Site Scripting</li>
+    <li>Code Attacks</li>
+    <li>Web Server Exploits</li>
+  </ul>
+  <h3>Section B: Database Attacks</h3>
+  <ul>
+    <li>DBMS Vulnerabilities</li>
+    <li>DBMS Security</li>
+    <li>Additional Database Concerns</li>
+    <li>SQL Injection in OWASP</li>
+    <li>SQL Server Management Studio</li>
+    <li>Permission Management</li>
+  </ul>
+  <h3>Section C: Server Vulnerabilities</h3>
+  <ul>
+    <li>Transitive Access</li>
+    <li>Privilege Escalation</li>
+    <li>Client-Side Attacks</li>
+    <li>Escalation Batch File</li>
+    <li>Run Batch File</li>
+  </ul>
+  <h3>Section D: Malware Issues</h3>
+  <ul>
+    <li>Viruses Defined</li>
+    <li>Worms Defined</li>
+    <li>Types of Viruses</li>
+    <li>Indications of Viral Infection</li>
+    <li>Virus Phases</li>
+    <li>Trojan Horses Defined</li>
+    <li>Common Trojan Horse Programs</li>
+    <li>Additional Malware</li>
+    <li>Antimalware</li>
+    <li>Windows Defender</li>
+  </ul>
+  <h3>Section E: Social Engineering</h3>
+  <ul>
+    <li>What is Social Engineering?</li>
+    <li>Example Attacks</li>
+    <li>Dumpster Diving</li>
+    <li>Shoulder Surfing</li>
+    <li>Eavesdropping, Inside Attacks</li>
+    <li>Outside Attacks</li>
+    <li>Phishing Attacks</li>
+    <li>Whaling and Vishing</li>
+    <li>Identify Theft</li>
+    <li>Countermeasures</li>
+  </ul>
+  <h3>Section F: Additional Attacks</h3>
+  <ul>
+    <li>Spam and Spim</li>
+    <li>Malicious Insider Threat</li>
+    <li>Scanning Defined</li>
+    <li>Scanning Methods</li>
+    <li>Password Attacks</li>
+    <li>SHA-1 Hash Generator</li>
+  </ul>
+  <h3>Section G: Covering Tracks and Backdoors</h3>
+  <ul>
+    <li>Owning the Box</li>
+    <li>Rootkit Limitations</li>
+    <li>Backdoors</li>
+    <li>Install Telnet</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: Detecting Attacks</h3>
+  <ul>
+    <li>Control Types</li>
+    <li>Log Analysis</li>
+    <li>Configure Audit Logs</li>
+    <li>Event Viewer</li>
+    <li>Set an Alert</li>
+  </ul>
+  <h3>Section B: Automated Detecting</h3>
+  <ul>
+    <li>Intrusion Monitoring Systems</li>
+    <li>Intrusion Detection Systems</li>
+    <li>IDS Intrusion Detection</li>
+    <li>Intrusion Prevention Systems</li>
+    <li>IDS States</li>
+    <li>Indications of Intrusion</li>
+    <li>IPS Implementations</li>
+    <li>IPS Responses</li>
+    <li>WIPS</li>
+    <li>WIPS Device Detection</li>
+    <li>Detection and Prevention Controls</li>
+  </ul>
+  <h3>Section C: Physical Security</h3>
+  <ul>
+    <li>Locks</li>
+    <li>Authentication</li>
+    <li>Security Personnel</li>
+    <li>Video Surveillance</li>
+    <li>Fasteners</li>
+    <li>Premises Access Control</li>
+    <li>Device and Cable Access</li>
+    <li>Control Types</li>
+  </ul>
+  <h3>Section D: Environmental Controls</h3>
+  <ul>
+    <li>Fire Suppression</li>
+    <li>Fire Extinguisher Ratings</li>
+    <li>Contents of a Fire Extinguisher</li>
+    <li>Fire Safety Guidelines</li>
+    <li>HVAC</li>
+    <li>Shielding</li>
+    <li>Monitoring Systems</li>
+    <li>NOC Controls</li>
+  </ul>
+  <h3>Section E: Secure Administration</h3>
+  <ul>
+    <li>Security Posture</li>
+  </ul>
+  <h3>Section F: Server Hardening</h3>
+  <ul>
+    <li>User Rights Assignment</li>
+    <li>Password Policy Baseline</li>
+    <li>Permissions Baselines</li>
+    <li>Application Rights Baseline</li>
+    <li>Service Management</li>
+    <li>Management Interfaces and Applications</li>
+    <li>Manage Access Control</li>
+    <li>Password Protection</li>
+    <li>Disabling Unnecessary Accounts</li>
+  </ul>
+  <h3>Section G: Network Interface Security</h3>
+  <ul>
+    <li>Port Security</li>
+    <li>Port Security Violation Modes</li>
+    <li>Port-Based Authentication</li>
+    <li>802.1X Components</li>
+    <li>802.1X Demonstrated</li>
+    <li>Typical 802.1X Deployment</li>
+    <li>Looping in Switched Networks</li>
+    <li>Spanning Tree Protocol</li>
+    <li>Preventing Bridging</li>
+    <li>Router Security</li>
+  </ul>
+<h2>Session 7</h2>
+  <h3>Section A: Vulnerability Scan</h3>
+  <ul>
+    <li>Vulnerability Scanning</li>
+    <li>Scanning Tools</li>
+    <li>Penetration Testing</li>
+    <li>Vulnerability Scanner</li>
+    <li>Port Scanner</li>
+    <li>Port Scanner Results</li>
+  </ul>
+  <h3>Section B: Application Security</h3>
+  <ul>
+    <li>Application Security Methods</li>
+    <li>Preventing XSS</li>
+    <li>Validation Methods</li>
+    <li>NoSQL vs. SQL</li>
+  </ul>
+  <h3>Section C: Update and Patch Management</h3>
+  <ul>
+    <li>Patch Management</li>
+    <li>Microsoft Updates</li>
+    <li>Windows Update</li>
+    <li>Group Policy</li>
+  </ul>
+  <h3>Section D: Virtualization and Cloud Computing</h3>
+  <ul>
+    <li>Virtual Machine</li>
+    <li>Virtualization Solutions</li>
+    <li>Virtualization Risks</li>
+    <li>Virtualization Features</li>
+    <li>Cloud Computing</li>
+    <li>Third-Party Security</li>
+    <li>Interoperability Agreements</li>
+  </ul>
+  <h3>Section E: General Hardening and Forensics</h3>
+  <ul>
+    <li>OS Hardening</li>
+    <li>Group Policy Security</li>
+    <li>Application Control</li>
+    <li>Data Policies</li>
+    <li>Forensic Procedures</li>
+  </ul>
+  <h3>Section F: Static Devices</h3>
+  <ul>
+    <li>Static Environments</li>
+    <li>Security Methods</li>
+    <li>Firmware at Website</li>
+  </ul>
+  <h3>Section G: Mobile Security Concepts</h3>
+  <ul>
+    <li>The Situation</li>
+    <li>Mobile Device Protection</li>
+    <li>Mobile Device Management</li>
+    <li>Application Security</li>
+    <li>Bring Your Own Device</li>
+    <li>BYOD Concerns</li>
+  </ul>

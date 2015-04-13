@@ -1,0 +1,36 @@
+<p><strong>Lesson 1: </strong>Getting to Know PCs and the Windows 8.1 User Interface</p>
+<ul>
+  <li><strong>Topic A: </strong>Identify Components of a Personal Computer</li>
+  <li><strong>Topic B: </strong>Sign In to Windows 8.1</li>
+  <li><strong>Topic C: </strong>Navigate the Start Screen</li>
+</ul>
+<p><strong>Lesson 2: </strong>Using Windows Store Apps and Navigation Features</p>
+<ul>
+  <li><strong>Topic A: </strong>Access and Identify the Charms</li>
+  <li><strong>Topic B: </strong>Windows Store Apps and Common Navigation Features</li>
+  <li><strong>Topic C: </strong>Multitask with Apps</li>
+</ul>
+<p><strong>Lesson 3: </strong>Working with Desktop Applications</p>
+<ul>
+  <li><strong>Topic A: </strong>Navigate the Desktop</li>
+  <li><strong>Topic B: </strong>Manage Files and Folders with File Explorer</li>
+  <li><strong>Topic C: </strong>Elements of a Desktop Window</li>
+  <li><strong>Topic D: </strong>Create and Modify Files with Desktop Applications</li>
+</ul>
+<p><strong>Lesson 4: </strong>Using Internet Explorer 11</p>
+<ul>
+  <li><strong>Topic A: </strong>Navigate Internet Explorer 11</li>
+  <li><strong>Topic B: </strong>Browse the Web</li>
+  <li><strong>Topic C: </strong>Use Internet Explorer 11 on the Desktop</li>
+</ul>
+<p><strong>Lesson 5: </strong>Customizing the Windows 8.1 Environment</p>
+<ul>
+  <li><strong>Topic A: </strong>Customize the Start Screen</li>
+  <li><strong>Topic B: </strong>Customize the Desktop</li>
+</ul>
+<p><strong>Lesson 6: </strong>Using Windows 8.1 Security Features</p>
+<ul>
+  <li><strong>Topic A: </strong>Set Privacy Levels and Passwords</li>
+  <li><strong>Topic B: </strong>Use Windows Defender</li>
+  <li><strong>Topic C: </strong>Store and Share Files with SkyDrive</li>
+</ul>

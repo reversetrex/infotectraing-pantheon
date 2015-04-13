@@ -1,0 +1,176 @@
+<p><strong>Part I: Programming in Access VBA</strong></p>
+<p><strong>Chapter 1: The Basics</strong></p>
+<ul>
+  <li>Macros and VBA Modules in Access</li>
+  <li>Exploring the Visual Basic Editor in Access</li>
+  <li>Saving Your Code</li>
+</ul>
+<p><strong>Chapter 2: Variables, Arrays, Constants and Data Types</strong></p>
+<ul>
+  <li>Variables</li>
+  <li>Data Types</li>
+  <li>VBA Data Types</li>
+  <li>Arrays</li>
+  <li>User-Defined Types</li>
+  <li>Constants</li>
+  <li>Reserved Words</li>
+</ul>
+<p><strong>Chapter 3: Modules, Functions and Subroutines</strong></p>
+<ul>
+  <li>Modules</li>
+  <li>The Difference Between Subroutines and Functions</li>
+  <li>Writing a Simple Subroutine</li>
+  <li>Writing a Simple Function</li>
+  <li>Public and Private Functions and Subroutines</li>
+  <li>Argument Data Types</li>
+  <li>Optional Arguments</li>
+  <li>Passing Arguments by Value</li>
+</ul>
+<p><strong>Chapter 4: Programming Basics: Decisions and Looping</strong></p>
+<ul>
+  <li>Decisions</li>
+  <li>Looping</li>
+</ul>
+<p><strong>Chapter 5: Strings and Functions and Message Boxes</strong></p>
+<ul>
+  <li>Strings</li>
+  <li>Functions</li>
+  <li>Conversion Functions</li>
+  <li>Format Function</li>
+  <li>Date and Time Functions</li>
+  <li>The SendKeys Command</li>
+  <li>Message Boxes</li>
+</ul>
+<p><strong>Chapter 6: Operators</strong></p>
+<ul>
+  <li>Arithmetic Operators</li>
+  <li>Comparison Operators</li>
+  <li>Concatenation Operator</li>
+  <li>Logical Operators</li>
+  <li>Other Operators</li>
+</ul>
+<p><strong>Chapter 7: Debugging</strong></p>
+<ul>
+  <li>Types of Errors</li>
+  <li>Design Time, Runtime, and Break Mode</li>
+  <li>Breakpoints</li>
+  <li>Using Stop Statements</li>
+  <li>Running Selected Parts of our Code</li>
+  <li>The Debug Window</li>
+  <li>Events That Can Cause Problems When Debugging</li>
+  <li>Using Message Boxes in Debugging</li>
+  <li>Avoiding Bugs</li>
+</ul>
+<p><strong>Chapter 8: Errors and the Error Function</strong></p>
+<ul>
+  <li>The Resume Statement</li>
+  <li>Implications of Error Trapping</li>
+  <li>Generating Your Own Errors</li>
+</ul>
+<p><strong>Chapter 9: Forms and Reports</strong></p>
+<ul>
+  <li>Forms</li>
+  <li>Reports</li>
+</ul>
+<p><strong>Chapter 10: Common Dialog Control</strong></p>
+<ul>
+  <li>The Open File Dialog</li>
+  <li>The Print Dialog</li>
+</ul>
+<p><strong>Chapter 11: Working with the Ribbon</strong></p>
+<ul>
+  <li>Creating a Ribbon Customization</li>
+  <li>Using the Custom UI Editor</li>
+  <li>Creating Code for Your Custom Buttons</li>
+  <li>Images</li>
+  <li>How You Can Use VBA Code with the Ribbon</li>
+  <li>More on the Ribbon</li>
+</ul>
+<p><strong>Chapter 12: SQL Queries</strong></p>
+<ul>
+  <li>Using the Query Design Window</li>
+  <li>Select Query</li>
+  <li>Union Query</li>
+  <li>The Delete Query</li>
+  <li>Make Table Query</li>
+  <li>Append Query</li>
+  <li>Update Query</li>
+  <li>Pass-Through Query</li>
+  <li>Using Custom Functions within Queries</li>
+</ul>
+<p><strong>Chapter 13: Table Macros</strong></p>
+<ul>
+  <li>Creating a Table Macro</li>
+</ul>
+<p><strong>Part II: Object Models</strong></p>
+<p><strong>Chapter 14: The Access Object Models</strong></p>
+<ul>
+  <li>Properties and Methods Explained</li>
+  <li>Using the Object Browser</li>
+  <li>Hierarchy</li>
+</ul>
+<p><strong>Chapter 15: The Main Objects</strong></p>
+<ul>
+  <li>Application Object</li>
+  <li>Me Object</li>
+  <li>CurrentDb Object</li>
+  <li>Recordset Object</li>
+</ul>
+<p><strong>Chapter 16: The DoCmd Object</strong></p>
+<ul>
+  <li>DoCmd Methods</li>
+</ul>
+<p><strong>Chapter 17: Using Access to Interact with Other Office Programs</strong></p>
+<ul>
+  <li>Driving Microsoft Outlook</li>
+  <li>Driving Access from Other Office Programs</li>
+</ul>
+<p><strong>Part III: Advanced Techniques in Access VBA</strong></p>
+<p><strong>Chapter 18: Charts and Graphs</strong></p>
+<ul>
+  <li>Working with the Series Collection Object</li>
+  <li>Exporting a Chart as a Picture File</li>
+</ul>
+<p><strong>Chapter 19: Working with External Databases</strong></p>
+<ul>
+  <li>Linking to Other Access Databases</li>
+  <li>ODBC Links and DSNs</li>
+  <li>Using a DSN</li>
+  <li>Problems Using Linked Tables</li>
+  <li>Using Pass-Through Queries</li>
+  <li>Using ADO</li>
+</ul>
+<p><strong>Chapter 20: API Calls</strong></p>
+<ul>
+  <li>What Is an API Call?</li>
+  <li>Using an API Call</li>
+</ul>
+<p><strong>Chapter 21: Class Modules</strong></p>
+<ul>
+  <li>Creating a Data Services Layer</li>
+  <li>Inserting a Class Module</li>
+  <li>Creating An Object</li>
+  <li>Creating a Collection</li>
+  <li>Using the PNames Collection</li>
+  <li>Using the PNames Collection as a Multi-tier Application</li>
+</ul>
+<p><strong>Chapter 22: Animation</strong></p>
+<p><strong>Part IV: Access VBA in Action - Some of the following topics will be covered, depending on student interest and time available.</strong></p>
+<p><strong>Chapter 23: Getting the Login ID</strong></p>
+<p><strong>Chapter 24: Securing Your Database</strong></p>
+<p><strong>Chapter 25: Creating Audit Trails on Tables</strong></p>
+<p><strong>Chapter 26: Creating and Editing Queries in VBA</strong></p>
+<p><strong>Chapter 27: Search and Replace in Queries</strong></p>
+<p><strong>Chapter 28: Using the DateAdd Function</strong></p>
+<p><strong>Chapter 29: Monitoring Table Statistics</strong></p>
+<p><strong>Chapter 30: Handling Large Text Files</strong></p>
+<p><strong>Chapter 31: Create and Change Table Structures</strong></p>
+<p><strong>Chapter 32: Create an Objects Inventory</strong></p>
+<p><strong>Chapter 33: Manipulate Charts Colors</strong></p>
+<p><strong>Chapter 34: Drill Down on Charts</strong></p>
+<p><strong>Chapter 35: Use Excel For Output</strong></p>
+<p><strong>Chapter 36: Using FTP in VBA</strong></p>
+<p><strong>Chapter 37: What Happens When the 2-GB Limit is Reached</strong></p>
+<p><strong>Chapter 38: Creating Menu Structures with the Ribbon</strong></p>
+<p><strong>Chapter 39: Make Controls on Forms Interactive</strong></p>
+<p><strong>Chapter 40: Set Up Levels of User Security</strong></p>

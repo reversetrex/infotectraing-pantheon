@@ -1,0 +1,74 @@
+<p><strong>Module 1: Windows Store App Essentials - This module describes the essential Windows Store app features.</strong></p>
+<ul>
+  <li>Review of Windows Store App Essentials - Presentation</li>
+  <li>Review of Windows Store App Essentials and the Windows 8 Ecosystem</li>
+</ul>
+<p><strong>Module 2: Implementing Animations and Transitions - This module explains how to add animations and transitions to improve the user experience by using JavaScript APIs and CSS.</strong></p>
+<ul>
+  <li>Using Animation</li>
+  <li>Working with Transitions and Transformations</li>
+</ul>
+<p><strong>Module 3: Implementing Globalization and Localization - This module explains how to localize the Windows Store application User Interface.</strong></p>
+<ul>
+  <li>Working with Resource Files</li>
+  <li>Implementing Culture-Specific Formatting</li>
+</ul>
+<p><strong>Module 4: Branding and a Seamless User Interface - This module explains how to brand Windows Store app   and improve the loading experience with a splash screen.</strong></p>
+<ul>
+  <li>Customizing the Splash Screen</li>
+  <li>Branding the User Interface</li>
+</ul>
+<p><strong>Module 5: Advanced Data Scenarios in a Windows Store App - This module explains how to use various storage mechanisms, choose a suitable caching strategy for a Windows Store app, and use advanced file access methods.</strong></p>
+<ul>
+  <li>Windows Store App Storage Options</li>
+  <li>Implementing Data Caching</li>
+  <li>Advanced File Functionality</li>
+</ul>
+<p><strong>Module 6: Creating Reusable Controls and Components - This module explains how to create custom controls,   extend templated controls, and create and consume WinMD components.</strong></p>
+<ul>
+  <li>Creating Custom Controls</li>
+  <li>Extending Existing Controls</li>
+  <li>Consuming WinMD Components</li>
+</ul>
+<p><strong>Module 7: Implementing Advanced Contract Scenarios - This module explains how to implement the Print and Settings contracts and the Play To API.</strong></p>
+<ul>
+  <li>The Print Contract</li>
+  <li>The Play To Contract</li>
+</ul>
+<p><strong>Module 8: The Windows Push Notification Service (WNS) - This module explains how to work with the Push Notification Service (WNS).</strong></p>
+<ul>
+  <li>The Push Notification Service (WNS)</li>
+  <li>Communicating with the Push Notification Service (WNS)</li>
+</ul>
+<p><strong>Module 9: Capturing Media - This module explains how to capture media with the camera and microphone.</strong></p>
+<ul>
+  <li>Using CameraCaptureUI to Capture Pictures, Videos or Audio</li>
+  <li>Using MediaCapture to Capture Pictures, Video, or Audio</li>
+</ul>
+<p><strong>Module 10: Background Tasks - This module explains how to create and consume background tasks.</strong></p>
+<ul>
+  <li>Creating Background Tasks</li>
+  <li>Consuming Background Tasks in a Windows Store App</li>
+</ul>
+<p><strong>Module 11: Working with Sensors and Devices - This module explains how to discover device capabilities, interact with devices, and act upon sensor data.</strong></p>
+<ul>
+  <li>Working with Sensors</li>
+  <li>Working with Devices</li>
+</ul>
+<p><strong>Module 12: Generating Revenue with your App - This module explains how implement trial licensing and in-app purchasing and advertising.</strong></p>
+<ul>
+  <li>Implementing Trial Functionality in a Windows Store App</li>
+  <li>Implement In-App Purchases</li>
+  <li>Advertising in a Windows Store App</li>
+</ul>
+<p><strong>Module 13: Securing Windows Store App Data - This module explains how to manage Windows authentication and web authentication in Windows Store apps.</strong></p>
+<ul>
+  <li>Managing Windows Authentication</li>
+  <li>Managing Web Authentication</li>
+  <li>Encryption in Windows Store Apps</li>
+</ul>
+<p><strong>Module 14: Tracing and Profiling Windows Store Apps - This module explains how to diagnose problems and monitor Windows Store app behavior by using tracing and profiling tools and APIs.</strong></p>
+<ul>
+  <li>Tracing a Windows Store App</li>
+  <li>Profiling a Windows Store App</li>
+</ul>

@@ -1,0 +1,44 @@
+<p><strong>Unit 1 - Being Proactive, Part 1</strong></p>
+<blockquote>
+Proactively monitor log files, hardware, file systems, and system and network performance
+</blockquote>
+<p><strong>Unit 2 - Being Proactive, Part 2</strong></p>
+<blockquote>
+Several approaches to managing configuration changes and developing a recovery plan
+</blockquote>
+<p><strong>Unit 3 - Basic Troubleshooting Techniques and Procedures</strong></p>
+<blockquote>
+An introduction to troubleshooting methods, best practices, and tools
+</blockquote>
+<p><strong>Unit 4 - Booting Issues</strong></p>
+<blockquote>
+Use recovery runlevels and rescue mode; work with advanced GRUB features
+</blockquote>
+<p><strong>Unit 5 - Hardware Issues</strong></p>
+<blockquote>
+Preempting hardware failures (looking for the signs); protecting against hardware failures; redundant configurations; tools to help identify hardware failures and intermittent problems
+</blockquote>
+<p><strong>Unit 6 - File System Issues</strong></p>
+<blockquote>
+Locate unauthorized changes; audit software; file system tuning and repair; file recovery
+</blockquote>
+<p><strong>Unit 7 - Disk Issues</strong></p>
+<blockquote>
+Rescuing LVM volumes; maintenance of LUKS-encrypted volumes
+</blockquote>
+<p><strong>Unit 8 - Networking Issues</strong></p>
+<blockquote>
+Manual configuration of network cards; connectivity issues; network diagnostic tools; monitor packets; tune kernel parameters; troubleshoot SAN communication
+</blockquote>
+<p><strong>Unit 9 - Application Issues</strong></p>
+<blockquote>
+An overview of tools and techniques for troubleshooting applications; some common application problems and how to solve them
+</blockquote>
+<p><strong>Unit 10 - Security Issues</strong></p>
+<blockquote>
+Working effectively with (and not against) security tools, including SELinux, authentication, and firewall
+</blockquote>
+<p><strong>Unit 11 - Red Hat Resources</strong></p>
+<blockquote>
+Support options; Knowledgebase; certified training; initiating support calls; TAM support; developer support; Bugzilla; support workflow; diagnostic and information-gathering tools.
+</blockquote>

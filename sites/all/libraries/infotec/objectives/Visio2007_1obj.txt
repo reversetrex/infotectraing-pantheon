@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>explore the Visio 2007 interface. </li>
+  <li>create a route map. </li>
+  <li>enhance a basic diagram. </li>
+  <li>create process diagrams. </li>
+  <li>create an organization chart.</li>
+</ul>

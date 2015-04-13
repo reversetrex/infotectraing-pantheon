@@ -1,0 +1,678 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>A+</li>
+    <li>Prerequisites</li>
+    <li>Knowledge Domains 220-801</li>
+    <li>Knowledge Domains 220-802</li>
+    <li>Why Understand PCs</li>
+    <li>Preparing for the Exam</li>
+    <li>Viewing the Objectives</li>
+  </ul>
+  <h3>Section B: PC Components</h3>
+  <ul>
+    <li>Inside a Game System</li>
+    <li>Inside a PC</li>
+  </ul>
+  <h3>Section C: Motherboards</h3>
+  <ul>
+    <li>The Motherboard</li>
+    <li>Motherboard Sizes</li>
+    <li>Mini and Micro ATX</li>
+    <li>ITX</li>
+    <li>AT AT/ATX Board Overview</li>
+    <li>Power Connections and Types</li>
+    <li>Fan Connectors</li>
+    <li>Front Panel Connectors</li>
+    <li>Front Panel Connectors Example</li>
+    <li>Jumpers</li>
+    <li>Motherboards Bonus Round</li>
+  </ul>
+  <h3>Section D: Motherboard Expansion Slots</h3>
+  <ul>
+    <li>CPU Sockets</li>
+    <li>Bus Speeds</li>
+    <li>Chipsets</li>
+    <li>Chipset Examples</li>
+    <li>Expansion Slots</li>
+    <li>RAM Slots</li>
+    <li>Various Chipsets</li>
+    <li>Motherboard Expansion Slots Bonus Round</li>
+  </ul>
+  <h3>Section E: Computer Processors</h3>
+  <ul>
+    <li>CPU Types</li>
+    <li>CPU Speeds</li>
+    <li>CPU Caches</li>
+    <li>Hyperthreading</li>
+    <li>CPU Cores</li>
+    <li>Integrated GPUs</li>
+    <li>Virtualization</li>
+    <li>Intel Sockets</li>
+    <li>AMD Sockets</li>
+    <li>CPU-Z</li>
+    <li>Computer Processors Bonus Round</li>
+  </ul>
+  <h3>Section F: Processor Installation and Care</h3>
+  <ul>
+    <li>Pin Alignment</li>
+    <li>Heat Sinks</li>
+    <li>Cooling Fans</li>
+    <li>Liquid Cooling</li>
+    <li>Core Temp Monitoring</li>
+    <li>Processor Installation/Care Bonus Round</li>
+  </ul>
+  <h3>Section G: System Memory</h3>
+  <ul>
+    <li>Random Access Memory</li>
+    <li>DRAM</li>
+    <li>Parity vs. Non-Parity</li>
+    <li>ECC vs. Non-ECC</li>
+    <li>RAM Channels</li>
+    <li>RAM Design</li>
+    <li>Older RAM Types</li>
+    <li>Newer RAM Types</li>
+    <li>RAMBUS</li>
+    <li>CPU-Z Memory and SPD Tabs</li>
+    <li>System Memory Bonus Round</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Expansion Cards</h3>
+  <ul>
+    <li>Sound Cards</li>
+    <li>Video Cards</li>
+    <li>Network Cards</li>
+    <li>Peripheral Cards</li>
+    <li>Universal Serial Bus</li>
+    <li>Storage Cards</li>
+    <li>Modem Cards</li>
+    <li>Multimedia Cards</li>
+    <li>Riser Cards</li>
+    <li>Expansion Cards Bonus Round</li>
+  </ul>
+  <h3>Section B: BIOS Settings</h3>
+  <ul>
+    <li>Basic Input Output System</li>
+    <li>BIOS Component Information</li>
+    <li>Monitoring in the BIOS</li>
+    <li>Built-In Diagnostics</li>
+    <li>BIOS Updates</li>
+    <li>BIOS Settings Bonus Round</li>
+  </ul>
+  <h3>Section C: Basic Storage Devices</h3>
+  <ul>
+    <li>Nonvolatile Storage</li>
+    <li>Internal Connections</li>
+    <li>External Connections</li>
+    <li>Hard Drives</li>
+    <li>Removable Media Drives</li>
+    <li>Selecting Storage</li>
+    <li>Basic Storage Devices Bonus Round</li>
+  </ul>
+  <h3>Section D: Advanced Storage Devices</h3>
+  <ul>
+    <li>RAID</li>
+    <li>RAID Implementation</li>
+    <li>RAID Levels</li>
+    <li>RAID 0</li>
+    <li>RAID 1</li>
+    <li>RAID 5</li>
+    <li>RAID 10</li>
+    <li>Hot-Swappable Drives</li>
+    <li>Advanced Storage Devices Bonus Round</li>
+  </ul>
+  <h3>Section E: Optical Media</h3>
+  <ul>
+    <li>Compact Disc</li>
+    <li>Burn a CD</li>
+    <li>Digital Video Disc</li>
+    <li>Blu-Ray</li>
+    <li>Optical Media Bonus Round</li>
+  </ul>
+  <h3>Section F: External Connectors</h3>
+  <ul>
+    <li>USB Versions</li>
+    <li>USB Connector Types</li>
+    <li>FireWire</li>
+    <li>SATA</li>
+    <li>Display Connectors</li>
+    <li>Networking Connectors</li>
+    <li>External Connectors Bonus Round</li>
+  </ul>
+  <h3>Section G: Power Supplies</h3>
+  <ul>
+    <li>Power Supply Overview</li>
+    <li>Modular Power Supplies</li>
+    <li>Power Connections and Types</li>
+    <li>Connector Names</li>
+    <li>Dual Voltage</li>
+    <li>Selecting a Power Supply</li>
+    <li>Power Supplies Bonus Round</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Building the Machine</h3>
+  <ul>
+    <li>What is a Dream Machine?</li>
+    <li>Graphics / CAD / CAM Workstation</li>
+    <li>Audio / Video Workstation</li>
+    <li>Virtualization Workstation</li>
+    <li>Thin Client</li>
+    <li>Standard Thick Client</li>
+    <li>Home Server PC</li>
+    <li>Home Theater PC</li>
+    <li>Gaming PC</li>
+    <li>Building the Machine Bonus Round</li>
+  </ul>
+  <h3>Section B: Display Devices</h3>
+  <ul>
+    <li>Display Types</li>
+    <li>Refresh Rates</li>
+    <li>Defining Resolution</li>
+    <li>Resolutions</li>
+    <li>Brightness and Lumens</li>
+    <li>Native Resolution</li>
+    <li>Analog vs. Digital</li>
+    <li>Multiple Display</li>
+    <li>Privacy / Anti-Glare Filters</li>
+    <li>Display Devices Bonus Round</li>
+  </ul>
+  <h3>Section C: Connectors</h3>
+  <ul>
+    <li>Display Connectors</li>
+    <li>Display Cables</li>
+    <li>Device Connectors</li>
+    <li>Device Pin Arrangements</li>
+    <li>Device Cable Types</li>
+    <li>Connectors Bonus Round</li>
+  </ul>
+  <h3>Section D: Peripherals</h3>
+  <ul>
+    <li>Output Devices</li>
+    <li>Multimedia Devices</li>
+    <li>User Input Devices</li>
+    <li>KVM</li>
+    <li>Media Input Devices</li>
+    <li>Peripherals Bonus Round</li>
+  </ul>
+  <h3>Section E: Networking Hardware</h3>
+  <ul>
+    <li>Hub</li>
+    <li>Switch</li>
+    <li>Router</li>
+    <li>Access Point</li>
+    <li>Specialty Devices</li>
+    <li>Networking Tools</li>
+    <li>Networking Hardware Bonus Round</li>
+  </ul>
+  <h3>Section F: Network Cabling</h3>
+  <ul>
+    <li>Cable Types</li>
+    <li>Network Media</li>
+    <li>Ethernet Cabling</li>
+    <li>Cable Speeds</li>
+    <li>Cable Lengths</li>
+    <li>Fiber Optics</li>
+    <li>Wireless Medium</li>
+    <li>Cable Interference</li>
+    <li>Lightning</li>
+    <li>Interception</li>
+    <li>Network Cabling Bonus Round</li>
+  </ul>
+  <h3>Section G: Wireless Communications</h3>
+  <ul>
+    <li>802.11</li>
+    <li>Typical Small Wireless LAN</li>
+    <li>Enterprise Wireless LAN</li>
+    <li>Wireless LAN Security</li>
+    <li>Wireless / Cellular Cards</li>
+    <li>Wireless Communications Bonus Round</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Network Design</h3>
+  <ul>
+    <li>Topologies</li>
+    <li>Implementing Topologies</li>
+    <li>Bus</li>
+    <li>Star</li>
+    <li>Hybrid</li>
+    <li>Mesh</li>
+    <li>Network Design Models</li>
+    <li>Layered Network</li>
+    <li>Network Scopes</li>
+    <li>Small Network</li>
+    <li>Network Design Bonus Round</li>
+  </ul>
+  <h3>Section B: TCP/IP Introduction</h3>
+  <ul>
+    <li>IPv4</li>
+    <li>IPv4 Addressing</li>
+    <li>Address Classes</li>
+    <li>Reserved Addresses</li>
+    <li>Subnetting</li>
+    <li>IPv6</li>
+    <li>IPv6 Addressing</li>
+    <li>TCP/IP Introduction</li>
+  </ul>
+  <h3>Section C: IP Network Services</h3>
+  <ul>
+    <li>Name Resolution</li>
+    <li>Client-Side DNS</li>
+    <li>Gateways</li>
+    <li>Dynamic Host Configuration Protocol</li>
+    <li>DHCP Operations</li>
+  </ul>
+  <h3>Section D: TCP/IP Protocols</h3>
+  <ul>
+    <li>TCP vs. UDP</li>
+    <li>Traditional Internet Protocols</li>
+    <li>Remote Management Protocols</li>
+    <li>Service Protocols</li>
+    <li>Infrastructure Protocols</li>
+    <li>TCP/IP Protocols Bonus Round</li>
+  </ul>
+  <h3>Section E: Internet Connectivity</h3>
+  <ul>
+    <li>Internet Connection Types</li>
+    <li>Designing the Internet Connection</li>
+    <li>Wireless Backhaul</li>
+    <li>Redundant Internet Provisioning</li>
+    <li>Internet-Based WANs</li>
+    <li>Internet Connectivity Bonus Round</li>
+  </ul>
+  <h3>Section F: Laptop Hardware</h3>
+  <ul>
+    <li>Laptop Expansion Slots</li>
+    <li>Laptop Memory</li>
+    <li>Laptop Hardware</li>
+    <li>Laptop Hardware Layout</li>
+    <li>Internal Components</li>
+    <li>Laptop Hardware Bonus Round</li>
+  </ul>
+  <h3>Section G: Laptop Displays</h3>
+  <ul>
+    <li>Display Types</li>
+    <li>Display Characteristics</li>
+    <li>Physical Screen Elements</li>
+    <li>Screen Replacement</li>
+    <li>Laptop Displays Bonus Round</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Laptop Operations</h3>
+  <ul>
+    <li>Laptop Cleaning</li>
+    <li>Laptop Care</li>
+    <li>Docking Stations and Port Replicators</li>
+    <li>Laptop Locks</li>
+    <li>Function Keys</li>
+    <li>Laptop Operations Bonus Round</li>
+  </ul>
+  <h3>Section B: Understanding Printers</h3>
+  <ul>
+    <li>Impact Printers</li>
+    <li>Thermal Printers</li>
+    <li>Inkjet Printers</li>
+    <li>Inkjet Calibration</li>
+    <li>Laser Printers</li>
+    <li>Laser Printing Process</li>
+    <li>Selecting a Printer</li>
+    <li>Understanding Printers Bonus Round</li>
+  </ul>
+  <h3>Section C: Printer Installation</h3>
+  <ul>
+    <li>Printer Connections</li>
+    <li>Print Hardware/Print Server</li>
+    <li>Printer Drivers</li>
+    <li>Printer Sharing</li>
+    <li>Printer Installation Bonus Round</li>
+  </ul>
+  <h3>Section D: Printer Maintenance</h3>
+  <ul>
+    <li>Printer Maintenance Tasks</li>
+  </ul>
+  <h3>Section E: Safety Procedures</h3>
+  <ul>
+    <li>Electrostatic Discharge</li>
+    <li>Discarding Equipment</li>
+    <li>Personal Safety</li>
+    <li>Electrical Safety</li>
+    <li>Safety Procedures Bonus Round</li>
+  </ul>
+  <h3>Section F: Environmental Controls</h3>
+  <ul>
+    <li>MSDS</li>
+    <li>Climate Control</li>
+    <li>Dust and Debris</li>
+    <li>Power Management</li>
+    <li>Component Handling</li>
+    <li>Compliance with Regulations</li>
+    <li>Environmental Controls Bonus Round</li>
+  </ul>
+  <h3>Section G: Communicate Professionally</h3>
+  <ul>
+    <li>General Communication Guides</li>
+    <li>Avoid Distractions</li>
+    <li>Difficult Situations and Customers</li>
+    <li>RELATE</li>
+    <li>Setting Expectations</li>
+    <li>Communicate Professionally Bonus Round</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: Communicate Clearly</h3>
+  <ul>
+    <li>Things to Avoid</li>
+    <li>Methods for Clarity</li>
+    <li>Top Ten Presentation Tips</li>
+    <li>Have a Great Opening</li>
+    <li>Use a Powerful Closing</li>
+    <li>Learn How to Persuade</li>
+    <li>Speak as Yourself</li>
+    <li>Smile</li>
+    <li>Use Position Programming</li>
+    <li>Listen to the Audience</li>
+    <li>Avoid Rhetorical Questions</li>
+    <li>Know Your Audience</li>
+    <li>Creation Process</li>
+  </ul>
+  <h3>Section B: Communicate Accurately</h3>
+  <ul>
+    <li>Confidential Materials</li>
+    <li>First Response</li>
+    <li>Chain of Custody</li>
+    <li>Documentation</li>
+  </ul>
+  <h3>Section C: Mobile Device Hardware</h3>
+  <ul>
+    <li>Mobile Devices</li>
+    <li>Tablets vs. Laptops</li>
+    <li>Mobile Device Hardware Bonus</li>
+  </ul>
+  <h3>Section D: Mobile Device Operating Systems</h3>
+  <ul>
+    <li>Mobile Operating Systems</li>
+    <li>Application Sources</li>
+    <li>Screen Orientation</li>
+    <li>Screen Calibration</li>
+    <li>GPS</li>
+    <li>Mobile Device OS Bonus Round</li>
+  </ul>
+  <h3>Section E: Mobile Connectivity</h3>
+  <ul>
+    <li>Connectivity Options</li>
+    <li>E-Mail Configuration</li>
+    <li>Updating an Application</li>
+    <li>Mobile Connectivity Bonus Round</li>
+  </ul>
+  <h3>Section F: Mobile Device Security</h3>
+  <ul>
+    <li>Access Security</li>
+    <li>Antivirus</li>
+    <li>Remote Support</li>
+    <li>Patching</li>
+  </ul>
+  <h3>Section G: Content Synchronization</h3>
+  <ul>
+    <li>Data for Synchronization</li>
+    <li>Synchronization Connections</li>
+    <li>Content Synchronization Bonus Round</li>
+  </ul>
+<h2>Session 7</h2>
+  <h3>Section A: Microsoft Operating Systems</h3>
+  <ul>
+    <li>DOS - The Precursor</li>
+    <li>Windows 3.1 - The GUI</li>
+    <li>Windows 95</li>
+    <li>Windows NT</li>
+    <li>Windows Evolution</li>
+    <li>Windows 7 Aero Interface</li>
+    <li>Windows XP</li>
+    <li>Microsoft Operating Systems Bonus Round</li>
+  </ul>
+  <h3>Section B: Windows 7 Features</h3>
+  <ul>
+    <li>32-Bit vs. 64-Bit</li>
+    <li>Graphical Features</li>
+    <li>Security Features</li>
+    <li>Management Features</li>
+    <li>File Structure and Paths</li>
+    <li>Windows 7 Features Bonus Round</li>
+  </ul>
+  <h3>Section C: Installation Planning</h3>
+  <ul>
+    <li>Upgrades vs. Clean Installs</li>
+    <li>Windows 7 Requirements</li>
+    <li>Boot Methods</li>
+    <li>Installation Types</li>
+    <li>Partitioning Disks</li>
+    <li>File Systems</li>
+    <li>Planning Tasks</li>
+    <li>Installation Planning Bonus Round</li>
+  </ul>
+  <h3>Section D: Performing Installations</h3>
+  <ul>
+    <li>Install Windows 7 in a Virtual Machine</li>
+    <li>Create Partitions</li>
+    <li>Continue with Installation</li>
+  </ul>
+  <h3>Section E: Windows Administration Tools</h3>
+  <ul>
+    <li>Tool Explanations</li>
+    <li>Touring Computer Management</li>
+    <li>Accessing Task Scheduler</li>
+    <li>Configuring Data Sources</li>
+    <li>Windows Administration Bonus Round</li>
+  </ul>
+  <h3>Section F: Control Panel</h3>
+  <ul>
+    <li>Internet Options</li>
+    <li>Display</li>
+    <li>User Accounts</li>
+    <li>Folder Options</li>
+    <li>System</li>
+    <li>Security Center and Power Options</li>
+    <li>Control Panel Bonus Round</li>
+  </ul>
+  <h3>Section G: Control Panel Differences</h3>
+  <ul>
+    <li>Unique to Windows XP</li>
+    <li>Unique to Windows Vista</li>
+    <li>Unique to Windows 7</li>
+    <li>Control Panel Differences Bonus Round</li>
+  </ul>
+<h2>Session 8</h2>
+  <h3>Section A: Windows Disk Management</h3>
+  <ul>
+    <li>Drive Status</li>
+    <li>Create an Array</li>
+    <li>Windows Disk Management Bonus Round</li>
+  </ul>
+  <h3>Section B: Windows Configuration Management</h3>
+  <ul>
+    <li>Msconfig/General</li>
+    <li>Boot</li>
+    <li>Services</li>
+    <li>Startup</li>
+    <li>Tools</li>
+  </ul>
+  <h3>Section C: Process Management</h3>
+  <ul>
+    <li>Task Manager</li>
+    <li>Applications</li>
+    <li>Processes</li>
+    <li>Services</li>
+    <li>Performance</li>
+    <li>Networking</li>
+    <li>Users</li>
+    <li>Process Management Bonus Round</li>
+  </ul>
+  <h3>Section D: Run Line Utilities</h3>
+  <ul>
+    <li>Available Utilities</li>
+    <li>Regedit</li>
+    <li>MMC</li>
+    <li>Notepad</li>
+    <li>Explorer</li>
+  </ul>
+  <h3>Section E: Network Configuration</h3>
+  <ul>
+    <li>Network Types</li>
+    <li>Shares</li>
+    <li>Establishing Network Connections</li>
+    <li>Firewall and Proxy Settings</li>
+    <li>Remote Desktop</li>
+    <li>Network Card Properties</li>
+    <li>Configuring Alt IP Address</li>
+    <li>Network Configuration Bonus Round</li>
+  </ul>
+  <h3>Section F: System Migrations</h3>
+  <ul>
+    <li>System Migration Tools</li>
+    <li>WET Wizard</li>
+  </ul>
+  <h3>Section G: Windows Command Prompt</h3>
+  <ul>
+    <li>Networking Commands</li>
+    <li>OS Commands</li>
+    <li>Getting Help</li>
+    <li>Navigating Folder Trees</li>
+    <li>Windows Command Prompt Bonus Round</li>
+  </ul>
+<h2>Session 9</h2>
+  <h3>Section A: Preventative Maintenance</h3>
+  <ul>
+    <li>Best Practices</li>
+    <li>Tools</li>
+    <li>Backup and Restore</li>
+    <li>CHKDSK</li>
+    <li>DEFRAG</li>
+    <li>Preventative Maintenance Bonus Round</li>
+  </ul>
+  <h3>Section B: Client Virtualization</h3>
+  <ul>
+    <li>Virtualization</li>
+    <li>Virtual Desktops</li>
+    <li>Resource Requirements</li>
+    <li>Emulator Requirements</li>
+    <li>Security Requirements</li>
+    <li>Network Requirements</li>
+    <li>Hypervisors</li>
+    <li>Client Virtualization Bonus Round</li>
+  </ul>
+  <h3>Section C: Security Concepts</h3>
+  <ul>
+    <li>CIA</li>
+    <li>AAA</li>
+    <li>Authorization</li>
+    <li>Least Privilege</li>
+    <li>Attack Surface</li>
+    <li>Defense-in-Depth</li>
+  </ul>
+  <h3>Section D: Security Threats</h3>
+  <ul>
+    <li>Threats and Risks</li>
+    <li>Social Engineering</li>
+    <li>Shoulder Surfing</li>
+    <li>Phishing</li>
+    <li>Malware</li>
+    <li>Denial of Service</li>
+  </ul>
+  <h3>Section E: Security Solutions</h3>
+  <ul>
+    <li>Physical Security</li>
+    <li>Biometrics</li>
+    <li>Digital Security</li>
+    <li>User Education</li>
+    <li>Security Tools</li>
+    <li>Malware Removal</li>
+    <li>Event Viewer</li>
+    <li>Security Solutions Bonus Round</li>
+  </ul>
+  <h3>Section F: Security Settings</h3>
+  <ul>
+    <li>Users and Groups</li>
+    <li>NTFS vs. Share Permissions</li>
+    <li>Moving vs. Copying Folders and Files</li>
+    <li>Shared Files and Folders</li>
+    <li>User Authentication</li>
+    <li>System Files and Folders</li>
+    <li>Security Settings Bonus Round</li>
+  </ul>
+  <h3>Section G: Workstation and Data Security</h3>
+  <ul>
+    <li>Best Practices</li>
+    <li>Disabling Autorun</li>
+    <li>Setting Password Policies</li>
+    <li>Data Destruction</li>
+    <li>Workstation / Data Security Bonus Round</li>
+  </ul>
+<h2>Session 10</h2>
+  <h3>Section A: Network Security</h3>
+  <ul>
+    <li>Securing a SOHO Wireless Network</li>
+    <li>Understanding SSID Broadcasting</li>
+    <li>Understanding MAC Filtering</li>
+    <li>Dangers of Trusting the Antennas</li>
+    <li>Wireless Encryption Options</li>
+    <li>Securing a SOHO Wired Network</li>
+    <li>Network Security Bonus Round</li>
+  </ul>
+  <h3>Section B: Troubleshooting Theory</h3>
+  <ul>
+    <li>Troubleshooting</li>
+    <li>CompTIA Troubleshooting Process</li>
+    <li>Identify the Problem</li>
+    <li>Establish a Theory</li>
+    <li>Test the Theory</li>
+    <li>Establish a Plan</li>
+    <li>Verify Full System Functionality</li>
+    <li>Document</li>
+    <li>Troubleshooting Theory Bonus Round</li>
+  </ul>
+  <h3>Section C: Troubleshooting System Problems</h3>
+  <ul>
+    <li>System Problems</li>
+    <li>Common System Symptoms</li>
+    <li>System Repair Tools</li>
+  </ul>
+  <h3>Section D: Troubleshooting Storage Problems</h3>
+  <ul>
+    <li>Storage Problems</li>
+    <li>Common Storage Symptoms</li>
+    <li>Storage Repair Tools</li>
+    <li>File Recovery Software</li>
+    <li>Storage Problems Bonus Round</li>
+  </ul>
+  <h3>Section E: Troubleshooting Display Problems</h3>
+  <ul>
+    <li>Display Problems</li>
+    <li>Common Display Symptoms</li>
+    <li>Acquiring Video Drivers</li>
+  </ul>
+  <h3>Section F: Troubleshooting Network Problems</h3>
+  <ul>
+    <li>Network Problems</li>
+    <li>Common Network Symptoms</li>
+    <li>Network Repair Tools</li>
+    <li>Using PING</li>
+    <li>TRACERT Command</li>
+    <li>NET Command</li>
+    <li>Network Problems Bonus Round</li>
+  </ul>
+  <h3>Section G: Troubleshooting OS Problems</h3>
+  <ul>
+    <li>Common OS Symptoms</li>
+    <li>OS Repair Tools</li>
+    <li>OS Security Issue Symptoms</li>
+    <li>Troubleshooting OS Problems Bonus Round</li>
+  </ul>
+  <h3>Section H: Troubleshooting Additional Devices</h3>
+  <ul>
+    <li>Common Laptop Symptoms</li>
+    <li>Laptop Disassembly Process</li>
+    <li>Common Printer Symptoms</li>
+    <li>Printer Repair Tools</li>
+    <li>Start/Stop Print Spooler</li>
+  </ul>
+  <h3>Section I: Game Over</h3>
+  <ul>
+    <li>Tom Versus Virus</li>
+  </ul>

@@ -1,0 +1,1 @@
+You will examine advanced security concepts, principles, and implementations that pertain to enterprise-level security.

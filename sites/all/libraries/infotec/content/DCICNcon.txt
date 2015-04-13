@@ -1,0 +1,203 @@
+<p><strong>1: Simple Network Design</strong></p>
+<ul>
+ <li>Understanding the Functions of Networking
+  <ul>
+   <li>What Is a network?</li>
+   <li>Common Physical Components of a Network</li>
+   <li>Interpreting a Network Diagram</li>
+   <li>Resource-Sharing Functions and Benefits</li>
+   <li>Network User Applications</li>
+   <li>Impact of User Applications on the Network</li>
+   <li>Characteristics of a Network</li>
+   <li>Physical Topologies</li>
+   <li>Connection to the Internet</li>
+  </ul>
+ </li>
+ <li>Understanding the Host-to-Host Communications Model
+  <ul>
+   <li>Understanding Host-to-Host Communications</li>
+   <li>OSI Reference Model</li>
+   <li>OSI Model Layers and Their Functions</li>
+   <li>Encapsulation and De-Encapsulation</li>
+   <li>Peer-to-Peer Communication</li>
+   <li>TCP/IP Suite</li>
+  </ul>
+ </li>
+ <li>Describing Ethernet Connections
+  <ul>
+   <li>Ethernet LAN Hardware</li>
+   <li>Ethernet Transceivers and Cables</li>
+   <li>UTP Implementation</li>
+  </ul>
+ </li>
+ <li>Describing Ethernet Communications Standards
+  <ul>
+   <li>Definition of a LAN</li>
+   <li>Components of a LAN</li>
+   <li>Functions of a LAN</li>
+   <li>Ethernet</li>
+   <li>Ethernet LAN Standards</li>
+   <li>Role of CSMA/CD in Ethernet</li>
+   <li>Ethernet Frames</li>
+   <li>Ethernet Frame Addressing</li>
+   <li>Ethernet Addresses</li>
+   <li>MAC Addresses and Binary-Hexadecimal Numbers</li>
+  </ul>
+ </li>
+ <li>Describing OSI Network Layer Addressing
+  <ul>
+   <li>IP Overview</li>
+   <li>IP Addressing</li>
+   <li>Public and Private IP Addresses</li>
+   <li>DHCP Method</li>
+   <li>Domain Name System</li>
+   <li>Using Common Host Tools to Determine the IP Address of a Host</li>
+  </ul>
+ </li>
+ <li>Describing the TCP/IP Transport Layer
+  <ul>
+   <li>Transport Layer Functions</li>
+   <li>Reliable vs. Best–Effort</li>
+   <li>UDP Characteristics</li>
+   <li>TCP Characteristics</li>
+   <li>TCP/IP Applications</li>
+   <li>Mapping Layer 3 to Layer 4</li>
+   <li>Mapping Layer 4 to Applications</li>
+   <li>Establishing a Connection with a Peer System</li>
+   <li>Flow Control</li>
+   <li>TCP Acknowledgment</li>
+   <li>Windowing</li>
+   <li>TCP Sequence Number and Acknowledgment Numbers</li>
+  </ul>
+ </li>
+ <li>Describing the Packet Delivery Process
+  <ul>
+   <li>Layer 1 Devices and Their Function</li>
+   <li>Layer 2 Devices and Their Function</li>
+   <li>Layer 2 Addressing</li>
+   <li>Layer 3 Devices and Their Function</li>
+   <li>Layer 3 Addressing</li>
+   <li>Mapping Layer 2 Addressing to Layer 3 Addressing</li>
+   <li>ARP Table</li>
+   <li>Host-to-Host Packet Delivery</li>
+   <li>Function of the Default Gateway</li>
+   <li>Using Common Host Tools to Determine the Path Between Two Hosts Across a Network</li>
+  </ul>
+ </li>
+</ul>
+<p><strong>2: Switched Network Implementation</strong></p>
+<ul>
+ <li>Describing Switching
+  <ul>
+   <li>Understanding the Challenges of Shared LANs</li>
+   <li>Solving Network Challenges with Switched LAN Technology</li>
+  </ul>
+ </li>
+ <li>Describing the Packet Delivery Process
+  <ul>
+   <li>Layer 2 Addressing</li>
+   <li>Layer 3 Addressing</li>
+   <li>Host-to-Host Packet Delivery</li>
+  </ul>
+ </li>
+ <li>Describing Cisco NX-OS Software
+  <ul>
+   <li>Cisco NX-OS Software Architecture</li>
+   <li>Cisco NX-OS Process Recovery</li>
+  </ul>
+ </li>
+ <li>Operating Cisco NX-OS Software
+  <ul>
+   <li>Describing the Features of the CLI</li>
+   <li>Identifying the Help Functions of the CLI</li>
+   <li>Describing the Startup</li>
+   <li>Characteristics of the Switch</li>
+   <li>Describing Configuration Management</li>
+  </ul>
+ </li>
+ <li>Implementing VLANs and Trunks
+  <ul>
+   <li>Understanding VLANs</li>
+   <li>Understanding Trunking with 802.1Q</li>
+   <li>Understanding VTP</li>
+   <li>Configuring VTP, Trunks, and VLANs</li>
+  </ul>
+ </li>
+ <li>Building a Redundant Switched Topology
+  <ul>
+   <li>Recognizing Issues of a Redundant Switched Topology</li>
+   <li>Resolving Issues with STP</li>
+   <li>Describing 802.1w RSTP</li>
+   <li>Describing 802.1s MSTP</li>
+   <li>Describing LAN Port Channels</li>
+   <li>Verifying LAN Port Channels</li>
+  </ul>
+ </li>
+</ul>
+<p><strong>3: IP Addressing</strong></p>
+<ul>
+ <li>Describing an IP Addressing Scheme
+  <ul>
+   <li>Describing Routing</li>
+   <li>Understanding Numbering Systems</li>
+   <li>Constructing a Network Addressing Scheme</li>
+  </ul>
+ </li>
+ <li>Transitioning to IPv6
+  <ul>
+   <li>Reasons for Using IPv6</li>
+   <li>Understanding IPv6 Addresses</li>
+   <li>Assigning IPv6 Addresses</li>
+   <li>Strategies for Implementing IPv6</li>
+  </ul>
+ </li>
+</ul>
+<p><strong>4: Routing on the Cisco Nexus Switch</strong></p>
+<ul>
+ <li>Exploring the Packet Delivery Process
+  <ul>
+   <li>Host-to-Host Packet Delivery</li>
+   <li>Cisco NX-OS Tools</li>
+  </ul>
+ </li>
+ <li>Exploring the Routing Process on Cisco Nexus Switches
+  <ul>
+   <li>Traditional Inter-VLAN Routing</li>
+   <li>Multilayer Switching</li>
+   <li>Routing Tables</li>
+   <li>Distance Vector Routing Protocols</li>
+   <li>Link-State Routing Protocols</li>
+  </ul>
+ </li>
+ <li>Exploring Routing Protocols on Cisco Nexus Switches
+  <ul>
+   <li>Routing Information Protocol</li>
+   <li>Open Shortest Path First</li>
+   <li>Enhanced Interior Gateway Routing Protocol</li>
+  </ul>
+ </li>
+ <li>Exploring ACLs on Cisco Nexus Switches
+  <ul>
+   <li>Understanding ACLs</li>
+   <li>ACL Processing</li>
+   <li>Configuring ACLs</li>
+   <li>Understanding Object Groups</li>
+  </ul>
+ </li>
+</ul>
+<p> <strong>Course Labs</strong></p>
+<ul>
+ <li>Lab 1-1: Using Windows Applications as Network Tools</li>
+ <li>Lab 1-2: Observing the TCP Three-Way Handshake</li>
+ <li>Lab 1-3: Observing Extended PC Network Information</li>
+ <li>Lab 2-1: Connecting to Cisco Nexus Switches</li>
+ <li>Lab 2-2: Configuring Cisco Nexus Switches</li>
+ <li>Lab 2-3: Configuring VLANs and Trunks</li>
+ <li>Lab 2-4: Verifying and Configuring Spanning Tree</li>
+ <li>Lab 2-5: Configuring EtherChannel</li>
+ <li>Lab 3-1: Converting Decimal to Binary and Binary to Decimal</li>
+ <li>Lab 3-2: Classifying Network Addressing</li>
+ <li>Lab 3-3: Computing Usable Subnetworks and Hosts</li>
+ <li>Lab 3-4: Calculating Subnet Masks</li>
+ <li>Lab 4-1: Configuring Multilayer Switching</li>
+</ul>

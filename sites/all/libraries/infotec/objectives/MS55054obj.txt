@@ -1,0 +1,20 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Understand the discipline of project management as it applies to using Microsoft Project 2013.</li>
+  <li>Create a Work Breakdown Structure.</li>
+  <li>Identify Task Types &amp; Relationships.</li>
+  <li>Define Resources within Project.</li>
+  <li>Make Work Package Estimates.</li>
+  <li>Create an Initial Schedule.</li>
+  <li>Create a Resource Leveled Schedule.</li>
+  <li>Create Projects from templates, Excel files.</li>
+  <li>Create Global templates.</li>
+  <li>Create formulas and graphical indicators.</li>
+  <li>The steps to record a macro.</li>
+  <li>Format Output and Print Reports.</li>
+  <li>Integrate Multiple Projects.</li>
+  <li>Set up a Project with a Calendar, Start date, and scheduling method.</li>
+  <li>Understand Manually Schedule vs. Auto Schedule.</li>
+  <li>Manage multiple projects.</li>
+  <li>Be able to create a master project list with shared resources.</li>
+</ul>

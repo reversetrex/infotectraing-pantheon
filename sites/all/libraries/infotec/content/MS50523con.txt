@@ -1,0 +1,50 @@
+<p><strong>Module 1: Introduction to the Optimized Desktop</strong></p>
+<p>This module introduces the typical desktop challenges facing users and administrators, and then describes the products and technologies that constitute the Windows Optimized Desktop. The module then covers desktop and application virtualization technologies. The module also provides an overview of rich desktop and thin client environments, and how these approaches are used to deliver Windows Optimized Desktop experiences.</p>
+<ul>
+  <li>What is the Optimized Desktop?</li>
+  <li>Desktop and Application Virtualization Options</li>
+  <li>The Rich Desktop Experience</li>
+  <li>Thin Client Technologies</li>
+</ul>
+<p><strong>Module 2: Planning for Deployment</strong></p>
+<p>This module covers all of the key planning tasks that you should complete before you deploy the Windows Optimized   Desktop. The module introduces you to the planning process, including reviewing planning documentation and tools to assess existing environments and application compatibility. It goes on to discuss desktop deployment scenarios, and strategies that you can use to deploy both rich desktops and thin clients. The module then describes the Microsoft tools and technologies for deploying rich Windows 7 and Microsoft Office 2010 desktops. Finally, the module provides an overview of Windows and Office activation processes, the technologies that are used, and tools for managing activation in the enterprise.</p>
+<ul>
+  <li>Introduction to the Planning Process</li>
+  <li>Desktop Deployment Scenarios</li>
+  <li>Strategies for Deploying Rich Desktops and Thin Clients</li>
+  <li>Tools and Technologies for Deploying Rich Desktops</li>
+  <li>Windows and Microsoft Office Activation Overview</li>
+</ul>
+<p><strong>Module 3: Preparing for Deployment</strong></p>
+<p>This module provides students with information about all of the key deployment preparation tasks, including   preparing boot images, enabling relevant networking infrastructure, preparing operating system images, and adding hardware drivers. The module then covers the   configuration of the Microsoft Deployment Toolkit (MDT), and also describes the main configuration tasks that are required when you use Microsoft System Center Configuration Manager to support deployment of the Windows Optimized Desktop by using the MDT integration tools.</p>
+<ul>
+  <li>Using and Modifying Boot Images</li>
+  <li>Network considerations</li>
+  <li>Working with Operating System Images</li>
+  <li>Hardware Driver Considerations</li>
+  <li>Configuring the Microsoft Deployment Toolkit</li>
+  <li>Configuring System Center Configuration Manager</li>
+</ul>
+<p><strong>Module 4: Deploying Windows 7 and Microsoft Office 2010 to New Computers</strong></p>
+<p>This module explains how to deploy   Windows 7 and Microsoft Office 2010 to new or bare-metal computers by using the   Microsoft Deployment Toolkit (MDT) and Microsoft System Center Configuration   Manager. The module provides an overview of the deployment process and typical   post-deployment tasks. It also explains the steps that you must perform to   deploy the Windows Optimized Desktop by using the MDT and compares these steps   with the steps that you use to deploy by using System Center Configuration   Manager with MDT integration. Finally, the module describes the main tasks that   you must perform when you use System Center Configuration Manager without the MDT for Windows and Office 2010 deployments.</p>
+<ul>
+  <li>Deployment Overview</li>
+  <li>Using the Microsoft Deployment Toolkit to Deploy Windows 7 and Microsoft Office 2010</li>
+  <li>Using the Microsoft Deployment Toolkit and System Center Configuration Manager to Deploy Windows 7 and   Microsoft Office 2010</li>
+  <li>Using System Center Configuration Manager to Deploy Windows 7 and Microsoft Office 2010</li>
+</ul>
+<p><strong>Module 5: Deploying Desktop Security</strong></p>
+<p>This module covers the security tools and technologies that are used in deployments of the Windows Optimized Desktop. The module starts with an overview of the security technologies in the Windows Optimized Desktop, including the Microsoft Security Compliance Manager (SCM). The module then introduces Microsoft Forefront Endpoint Protection 2010 and its   deployment and management. The module also describes how to configure BitLocker Drive Encryption during deployment of the operating system, and discusses configuration issues with BitLocker.</p>
+<ul>
+  <li>Securing the Optimized Desktop</li>
+  <li>Deploying Microsoft Forefront Endpoint Protection 2010</li>
+  <li>Configuring BitLocker During Operating System Deployment</li>
+</ul>
+<p><strong>Module 6: Upgrading and Migrating to Windows 7 and Microsoft Office 2010</strong></p>
+<p>This module covers the process of upgrading and migrating to Windows 7 and Microsoft Office in refresh computer   and replace computer scenarios. The module starts with an overview of upgrade   and migration options for operating systems and applications. It then discusses the challenges of migrating from Windows XP and Windows Vista, moving from a 32-bit to a 64-bit platform, and moving from the 2003 or 2007 Microsoft Office systems to Office 2010. The module goes on to discuss the backup and restore of user settings and data by using the User State Migration Tool (USMT). Finally, the module describes how to use the Microsoft Deployment Toolkit (MDT) to upgrade and migrate to Windows 7 and Office 2010.</p>
+<ul>
+  <li>Overview of OS and application upgrade and migration</li>
+  <li>User state and USMT</li>
+  <li>Windows and Office Migration Issues</li>
+  <li>Using MDT to upgrade and migrate to Windows 7 and Office 2010</li>
+</ul>

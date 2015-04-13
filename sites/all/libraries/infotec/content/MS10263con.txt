@@ -1,0 +1,74 @@
+<p><strong>Module 1: Service-Oriented Architecture</strong></p>
+<ul>
+	<li>What Is SOA?</li>
+    <li>The Benefits of SOA</li>
+    <li>Scenarios and Standards</li>
+    <li>Introduction to WCF</li>
+</ul>
+
+<p><strong>Module 2: Getting Started with Microsoft Windows Communication Foundation Development</strong></p>
+<p>This module describes how to implement a WCF service from the beginning, including defining a contract, implementing   the contract, hosting the service, configuring endpoints, and configuring   bindings. It also explains how to create a proxy to a WCF service using a channel factory, and using the Add Service Reference dialog box in Visual Studio 2010.</p>
+<ul>
+	<li>Service Contract and Implementation</li>
+    <li>Hosting WCF Services</li>
+    <li>WCF Behaviors</li>
+    <li>Consuming WCF Services</li>
+</ul>
+
+<p><strong>Module 3: Hosting Microsoft Windows Communication Foundation Services</strong></p>
+<p>This module explains how to host WCF services using Windows Services, Internet Information Services (IIS) and Windows   Process Activation Service (WAS), and Windows Server AppFabric. This module describes how to choose the appropriate host,   and how to configure it properly for your service's optimal operation.</p>
+<ul>
+	<li>WCF Service Hosts</li>
+    <li>ServiceHost</li>
+    <li>Hosting WCF Services in Windows Services</li>
+    <li>IIS, WAS, and AppFabric</li>
+    <li>Configuring WCF Hosts</li>
+    <li>Service Hosting Best Practices</li>
+</ul>
+
+<p><strong>Module 4: Defining and Implementing Microsoft Windows Communication Foundation Contracts</strong></p>
+<p>This module describes how to define WCF service contracts, data contracts, and message contracts. This module explains how to design WCF contracts appropriately, and how to modify WCF contracts according to the selected messaging pattern.</p>
+<ul>
+	<li>What Is a Contract?</li>
+    <li>Contract Types</li>
+    <li>Messaging Patterns</li>
+    <li>Designing WCF Contracts</li>
+</ul>
+
+<p><strong>Module 5: Endpoints and Behaviors</strong></p>
+<p>This module describes how to expose multiple endpoints from a WCF service, how to automatically discover services and make services discoverable, how to configure instancing and concurrency modes for services, and how to improve service reliability with transactions and message queues.</p>
+<ul>
+	<li>Multiple Endpoints and Interoperability</li>
+    <li>WCF Discovery</li>
+    <li>WCF Default Endpoints</li>
+    <li>Instancing and Concurrency</li>
+    <li>Reliability</li>
+</ul>
+
+<p><strong>Module 6: Testing and Troubleshooting Microsoft Windows Communication Foundation Services</strong></p>
+<p>This module describes how to diagnose errors and problem root causes in WCF services, and how to configure services to   expose fault information. It also explains how to use tracing, message logging, and other diagnostic and governance tools for monitoring services at runtime.</p>
+<ul>
+	<li>Errors and Symptoms</li>
+    <li>WCF Faults</li>
+    <li>Debugging and Diagnostics Tools</li>
+    <li>Runtime Governance</li>
+</ul>
+
+<p><strong>Module 7: Security</strong></p>
+<p>This module explains how to design secure applications, how to implement WCF security on both the message level and the transport level, how to integrate authentication and authorization into service code, and how to apply claim-based identity management in federated scenarios.</p>
+<ul>
+	<li>Introduction to Application Security</li>
+    <li>The WCF Security Model</li>
+    <li>Transport and Message Security</li>
+    <li>Authentication and Authorization</li>
+    <li>Claim-Based Identity</li>
+</ul>
+
+<p><strong>Module 8: Introduction to Advanced Microsoft Windows Communication Foundation Topics</strong></p>
+<p>This module explains how to improve service throughput and responsiveness using the asynchronous invocation pattern,   and how to extend WCF services using inspectors, behaviors, and host extensions. It also describes how to use the WCF routing service for improving service reliability, and how to use Workflow Services to orchestrate long-running, durable, service work.</p>
+<ul>
+	<li>The Asynchronous Invocation Pattern</li>
+    <li>Extending WCF</li>
+    <li>Routing</li>
+    <li>Workflow Services</li>
+</ul>

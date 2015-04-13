@@ -1,0 +1,9 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Develop a data access page. </li>
+  <li> Develop a data access page, a PivotTable, and a PivotChart. </li>
+  <li> Import XML data and export Access data. </li>
+  <li> Use VBA to automate a business process. </li>
+  <li> Create and modify a database switchboard, and set and modify your startup options. </li>
+  <li> Distribute a database and add security features to it. </li>
+</ul>

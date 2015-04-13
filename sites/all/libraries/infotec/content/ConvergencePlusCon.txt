@@ -1,0 +1,45 @@
+<p><strong>Unit 1: The Public Switched Telephone Network</strong></p>
+<ul>
+  <li>Topic A: Making the call</li>
+  <li> Topic B: PSTN wiring and hardware</li>
+  <li> Topic C: Interoffice communication </li>
+</ul>
+<p><strong>Unit 2: Networking fundamentals</strong></p>
+<ul>
+  <li>Topic A: The OSI model</li>
+  <li> Topic B: TCP/IP networking basics</li>
+  <li> Topic C: Networking hardware</li>
+  <li> Topic D: Networking architecture </li>
+</ul>
+<p><strong>Unit 3: Merging data and voice traffic</strong></p>
+<ul>
+  <li>Topic A: Reasons to merge IP and voice traffic</li>
+  <li> Topic B: Adding voice traffic to an IP network</li>
+  <li> Topic C: IP telephony hardware and software</li>
+  <li> Topic D: VoIP applications </li>
+</ul>
+<p><strong>Unit 4: Merging data and video</strong></p>
+<ul>
+  <li>Topic A: Reasons to merge IP and multimedia traffic</li>
+  <li> Topic B: Adding multimedia traffic to an IP network</li>
+  <li> Topic C: Network video hardware and software </li>
+</ul>
+<p><strong>Unit 5: Systems management</strong></p>
+<ul>
+  <li>Topic A: Administering a converged network</li>
+  <li> Topic B: Network engineering</li>
+  <li> Topic C: Troubleshooting and maintenance </li>
+</ul>
+<p><strong>Unit 6: Security</strong></p>
+<ul>
+  <li>Topic A: Network security concepts</li>
+  <li> Topic B: Security devices and tools </li>
+</ul>
+<p><strong>Appendix A: Certification exam objectives map</strong></p>
+<ul>
+  <li>Topic A: Comprehensive exam objectives</li>
+</ul>
+<p><strong>Appendix B: CompTIA Convergence+ acronyms</strong></p>
+<ul>
+  <li>Topic A: Acronym list</li>
+</ul>

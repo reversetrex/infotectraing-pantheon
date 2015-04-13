@@ -1,0 +1,19 @@
+<p><strong>After  completing this course, students will be able to</strong>:</p>
+<ul>
+  <li>Explore ASP.NET Web applications in  Microsoft Visual Studio 2010.</li>
+  <li>Create Web applications by using Microsoft Visual Studio 2010 and Microsoft .NET–based languages.</li>
+  <li>Create a Microsoft ASP.NET Web Form.</li>
+  <li>Add functionality to a Microsoft ASP.NET Web Form.</li>
+  <li>Implement master pages and user  controls.</li>
+  <li>Validate user input.</li>
+  <li>Debug Microsoft ASP.NET Web  applications.</li>
+  <li>Manage data in an ASP.NET 3.5 Web  application.</li>
+  <li>Manage data access tasks by using  LINQ.</li>
+  <li>Manage data by using ASP.NET Dynamic  Data.</li>
+  <li>Create a Microsoft ASP.NET AJAX  application.</li>
+  <li>Consume and Windows Communication  Foundation (WCF) services.</li>
+  <li>Manage state in Web applications.</li>
+  <li>Configure and deploy a Microsoft  ASP.NET Web application.</li>
+  <li>Secure a Microsoft ASP.NET Web  application.</li>
+  <li>Implement new  technologies supported by Visual Studio 2010 for Web development.</li>
+</ul>

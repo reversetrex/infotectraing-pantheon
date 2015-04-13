@@ -1,0 +1,67 @@
+<p><strong>Module 1: Introduction to Planning a Windows Mobile Infrastructure </strong></p>
+<ul>
+  <li>Overview of Windows Mobile </li>
+  <li>Understanding Mobile Phone  Connectivity </li>
+  <li>Customizing Mobile Devices </li>
+</ul>
+
+<p><strong>Module 2: Using Windows Mobile in the Business Environment </strong></p>
+<ul>
+  <li>Preparing for the Implementation  of Windows Mobile </li>
+  <li>Enterprise Data Access Considerations </li>
+  <li>Connecting to Resources by Using Windows Mobile </li>
+</ul>
+
+<p><strong>Module 3: Implementing ActiveSync </strong></p>
+<ul>
+  <li>Selecting a Synchronization Method </li>
+  <li>Configuring Desktop Synchronization </li>
+  <li>Troubleshooting ActiveSync Problems </li>
+</ul>
+
+<p><strong>Module 4: Implementing Microsoft System Center Mobile Device Manager </strong></p>
+<ul>
+  <li>Overview of Microsoft System Center Mobile Device Manager </li>
+  <li>Understanding the Working of Microsoft System Center Mobile Device Manager </li>
+  <li>Planning the Microsoft System Center Mobile Device Manager Infrastructure </li>
+  <li>Enrolling Devices in Microsoft System Center Mobile Device Manager </li>
+  <li>Managing Group Policy by Using Microsoft System Center Mobile Device Manager </li>
+</ul>
+
+<p><strong>Module 5: Planning the Exchange Server Infrastructure to Support Windows Mobile </strong></p>
+<ul>
+  <li>Evaluating Server Requirements for a Windows Mobile Infrastructure </li>
+  <li>Planning for a Single Server Infrastructure </li>
+  <li>Planning for Securing Internet Connectivity </li>
+  <li>Configuring Exchange Server 2007 for Mobile Messaging </li>
+  <li>Configuring Device Policies </li>
+  <li>Managing Exchange ActiveSync </li>
+</ul>
+
+<p><strong>Module 6: Managing Security for Windows Mobile Devices</strong></p>
+<ul>
+  <li>Configuring ISA Server for  Mobility </li>
+  <li>Managing Mobile Devices by Using  CSPs </li>
+</ul>
+
+<p><strong>Module 7: Configuring SQL Server for Windows Mobile</strong></p>
+<ul>
+  <li>Configuring Microsoft SQL Server  2005 Compact Edition for Mobility </li>
+  <li>Providing Mobile Users Access to  Enterprise Data </li>
+</ul>
+
+<p><strong>Module 8: Application Configuration for Windows Mobile</strong></p>
+<ul>
+  <li>Applications for Windows Mobile </li>
+  <li>Installing and Removing  Applications </li>
+  <li>Configuring SharePoint Team Site </li>
+  <li>Accessing SharePoint Team Site </li>
+</ul>
+
+<p><strong>Module 9: Working with Advanced  Windows Mobile Features</strong></p>
+<ul>
+  <li>Using Certificates on Windows Mobile </li>
+  <li>Troubleshooting Common Problems While Installing Certificates </li>
+  <li>Troubleshooting Common Issues With System Center Mobile Device Manager </li>
+  <li>Installing  and Configuring Self Service Portal</li>
+</ul>

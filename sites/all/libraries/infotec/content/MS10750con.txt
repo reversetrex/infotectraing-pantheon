@@ -1,0 +1,114 @@
+<p><strong>Module 1: Introduction to the Private Cloud</strong></p>
+<p>This module gives students an overview of a private cloud infrastructure, including what it is, the business and technical drivers behind implementing it, and how they can use System Center 2012 to monitor and operate it. Students will understand the key concepts of a private cloud and verify key components of System Center 2012.</p>
+<ul>
+  <li>Overview of the Cloud Computing Model</li>
+  <li>Requirements for the Private Cloud</li>
+  <li>Operating a Private Cloud Infrastructure with System Center</li>
+  <li>Verifying the Health of the Private Cloud Infrastructure</li>
+  <li>Verifying the Health and Configuration of System Center</li>
+  <li>Verifying the Compliance of the Private Cloud Infrastructure</li>
+</ul>
+
+<p><strong>Module 2: Configuring and Optimizing Business Unit Clouds</strong></p>
+<p>In this module, students will learn how to configure a new business unit cloud within Virtual Machine Manager.</p>
+<ul>
+  <li>Overview of System Center Virtual Machine Manager</li>
+  <li>Managing a Virtual Environment with Virtual Machine Manager</li>
+  <li>Creating Business Unit Clouds</li>
+</ul>
+
+<p><strong>Module 3: Deploying Cloud Services</strong></p>
+<p>In this module, students will learn to deploy pre-packaged applications and create a new service template to deploy a service into the cloud.</p>
+<ul>
+  <li>Overview of Service Templates</li>
+  <li>VMM Machine Profiles</li>
+  <li>Configuring SQL Server Profiles</li>
+  <li>Configuring Application Profiles</li>
+  <li>Overview of Web Deploy Packages</li>
+  <li>Overview of Server App-V</li>
+  <li>Overview of Data Tier Application Packages</li>
+</ul>
+
+<p><strong>Module 4: Monitoring Private Cloud Services</strong></p>
+<p>In this module, the students are given an overview of System Center Operations Manager. The students are also shown how Operations Manager is used to monitor the various services that underpin the private cloud. The students are then shown how to deploy agents to key service components running within the private cloud. Custom monitoring is then applied to these components which include the creation of a distributed application model to give a holistic view of the health of the private cloud infrastructure.</p>
+<ul>
+  <li>Overview of System Center Operations Manager</li>
+  <li>Agent Deployment in Operations Manager</li>
+  <li>Configuring Custom Monitoring</li>
+  <li>Monitoring the Network Infrastructure</li>
+  <li>Monitoring Distributed Applications</li>
+</ul>
+
+<p><strong>Module 5: Configuring Application Performance Monitoring</strong></p>
+<p>This module gives students a deep insight into the Application Performance Monitoring (APM) feature of Operations Manager. A .NET  application has been installed into the lab environment that will be used for this module. Students will learn to configure APM to monitor the performance and availability of this application. A break in the application is then instigated where students will see how Operations Manager detects and reports this with the Alerting and Diagnostics tools that are built into Operations Manager.</p>
+<ul>
+  <li>Application Performance Monitoring</li>
+  <li>Advanced Monitoring in Application Performance Monitoring</li>
+  <li>Viewing Application Performance in Operations Manager</li>
+</ul>
+
+<p><strong>Module 6: Operating and Extending Service Management in the Cloud</strong></p>
+<p>Students will learn about the core functionality of Service Manager and learn how to create and manage change requests, incidents, and release records. Students will also learn about the security model behind Service Manager so that they can customize and extend the integral functionality of the service.</p>
+<ul>
+  <li>Overview of Service Manager</li>
+  <li>Configuring Security and User   Roles</li>
+  <li>Configuring Work Items</li>
+  <li>Configuring Incident Queues</li>
+  <li>Configuring Service Offerings</li>
+</ul>
+
+<p><strong>Module 7: Problem Management in the Cloud</strong></p>
+<p>Students will learn what problem management is and how they can use it within a service management framework. Additionally, students will understand its implementation as a manual feature of Service Manager. Finally, students will learn how to create a custom event monitor in Operations Manager and then use it to identify and route incidents and problems to Service Manager.</p>
+<ul>
+  <li>Overview of Problem Management</li>
+  <li>Creating Custom Rules</li>
+</ul>
+
+<p><strong>Module 8: Automatic Incident Creation, Remediation and Change Requests</strong></p>
+<p>In this module, students will learn about Orchestrator and how it integrates with Operations Manager and Service   Manager.</p>
+<ul>
+  <li>Overview of System Center Orchestrator 2012</li>
+  <li>Integrating Orchestrator with Operations Manager and Service Manager</li>
+</ul>
+
+<p><strong>Module 9: Automating Self Service Provisioning</strong></p>
+<p>In this module, students learn about automating self service provisioning using the System Center Cloud Service   Process Pack, including the configuration items that are created and the request items that are contained in the System Center Cloud Service Process Pack.</p>
+<ul>
+  <li>Installing and Configuring the System Center Cloud Services Process Pack</li>
+  <li>Cloud Services Configuration Items</li>
+  <li>Cloud Services Request Items</li>
+</ul>
+
+<p><strong>Module 10: Private Cloud Protection and Recovery</strong></p>
+<p>In this module students will learn how to protect the resources in the private cloud by using Data Protection Manager. They will also learn how to implement a recovery action by using Orchestrator to recover a database.</p>
+<ul>
+  <li>Protecting Data in the Private Cloud</li>
+  <li>Recovering Data in the Private Cloud</li>
+</ul>
+
+<p><strong>Module 11: Configuring Compliance in the Cloud</strong></p>
+<p>In this module students will learn how to implement IT Governance, Risk Management, and Compliance (GRC) in a private cloud environment using System Center 2012. They will learn how to implement Software Update Compliance in Virtual Machine Manager to verify whether key private cloud infrastructure is correctly updated with the latest software updates and how they can implement the IT GRC Management Pack in Service Manager to check for compliance across key Service Components and remediate non-compliant items.</p>
+<ul>
+  <li>Implementing IT Governance, Risk Management, and Compliance (GRC)</li>
+  <li>Implementing Software Update   Compliance</li>
+</ul>
+
+<p><strong>Module 12: Configuring SLAs, Dashboards and Widgets</strong></p>
+<p>In this module, students will be able to describe and use various methods for surfacing service and performance-related data from Operations Manager and Service Manager to SharePoint and Microsoft Excel.</p>
+<ul>
+  <li>Understanding Service Level Tracking in Operations Manager</li>
+  <li>Configuring and Deploying Widgets and Dashboards in Operations Manager</li>
+  <li>Publishing Real-Time State with Microsoft Visio</li>
+  <li>PerformancePoint Overview</li>
+  <li>Configuring Service Manager Analytics</li>
+  <li>Viewing Data with Excel</li>
+</ul>
+
+<p><strong>Module 13: Optimizing Cloud Resources</strong></p>
+<p>In this module, students learn how to optimize cloud resources using various tools from components such as the Microsoft online Management Pack Catalog, Operations Manager, Service Manager, and Orchestrator.</p>
+<ul>
+  <li>Updating Management Packs through the Catalog</li>
+  <li>Configuring Operations Manager Groom Setting</li>
+  <li>Configuring Service Manager Groom Settings</li>
+  <li>Orchestrator Log Overview</li>
+</ul>

@@ -1,0 +1,17 @@
+<p><strong>Module 1: Installing and Configuring SQL Server 2005</strong> - This module explains how to  plan for and install SQL Server 2005, how to manage a SQL Server 2005  installation, and how to use the SQL Server 2005 administrative tools.</p>
+
+<p><strong>Module 2: Managing Databases and Files</strong> - This module explains how to manage databases and files.</p>
+
+<p><strong>Module 3: Disaster Recovery</strong> - This module explains how to plan and implement a backup and restore strategy.</p>
+
+<p><strong>Module 4: Managing Security</strong> - This module explains how to manage principals, securables, and permissions, and how to implement cryptography in a SQL Server database.</p>
+
+<p><strong>Module 5: Monitoring SQL Server</strong> - This module explains how to monitor SQL Server performance and activity.</p>
+
+<p><strong>Module 6: Transferring Data</strong> - This  module explains how to transfer and transform data.</p>
+
+<p><strong>Module 7: Automating Administrative Tasks</strong> - This module explains how to use the SQL Server Agent to automate administrative  tasks.</p>
+
+<p><strong>Module 8: Implementing Replication</strong> - This module explains the purpose of replication, introduces the concepts underpinning replication, and describes how to implement replication in several common scenarios.</p>
+
+<p><strong>Module 9: Maintaining High Availability</strong> - This  module explains how to implement high availability technologies with SQL Server 2005.</p>

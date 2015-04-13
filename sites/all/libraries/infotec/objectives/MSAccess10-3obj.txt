@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be  able to:</p>
+<ol>
+  <li>Restructure data into appropriate tables to ensure data dependency and minimize redundancy.</li>
+  <li>Write advanced queries to analyze and summarize data.</li>
+  <li>Create and revise Microsoft Office Access 2010 macros.</li>
+  <li>Customize reports by using various  Microsoft Office Access 2010 features.</li>
+  <li>Maintain their  databases using Microsoft Office Access 2010 tools.</li>
+</ol>

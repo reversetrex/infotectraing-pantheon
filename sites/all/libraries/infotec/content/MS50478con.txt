@@ -1,0 +1,80 @@
+<p><strong>Module 1: Overview</strong></p>
+<blockquote>
+  <p>  A simple introduction module.</p>
+</blockquote>
+<p><strong>Module 2: Collaboration Experience</strong></p>
+<blockquote>
+  <p>  In this module we take a look at the new features introduced in  SharePoint 2010 from a collaboration and UI perspective.</p>
+</blockquote>
+<p><strong>Module 3: Object Model</strong></p>
+<blockquote>
+  <p>  In this model we explore the SharePoint Server programming model. We will  explore several basic SharePoint assemblies and classes.</p>
+</blockquote>
+<p><strong>Module 4: Client Object Model</strong></p>
+<blockquote>
+  <p>  In this module we will explore the various Client Object Models. This  includes the Client (.NET), ECMAScript and Silverlight Object Models.</p>
+</blockquote>
+<p><strong>Module 5: SharePoint Permissions</strong></p>
+<blockquote>
+  <p>  In this module we take a look at SharePoint permissions. We will explore  the default groups, how SharePoint gets usernames and groups from an authentication  system, as well has what type of permissions we can assign to those users and  groups. We will explore setting up custom permission levels and how permissions  are inherited. We will follow that up with SharePoint Security Trimming.</p>
+</blockquote>
+<p><strong>Module 6: Authentication with  Custom and Claims</strong></p>
+<blockquote>
+  <p>  In this module we will explore how to setup Forms based authentication,  how claims based authentication works and how to use the Secure Store Service  in our own applications.</p>
+</blockquote>
+<p><strong>Module 7: Features and Solutions</strong></p>
+<blockquote>
+  <p>  In this module we explore Features and Solutions.</p>
+</blockquote>
+<p><strong>Module 8: Sandboxed Solutions</strong></p>
+<blockquote>
+  <p>  In this module we are going to take a look at SandBoxed Solutions,  Solution validators and Full Trust Proxies.</p>
+</blockquote>
+<p><strong>Module 9: Web Services</strong></p>
+<blockquote>
+  <p>  In this module we explore the web services that come out of the box with  SharePoint.</p>
+</blockquote>
+<p><strong>Module 10: LINQ and REST</strong></p>
+<blockquote>
+  <p>  In this module we are going to take a look at the new REST and LINQ  features of SharePoint 2010.</p>
+</blockquote>
+<p><strong>Module 11: Web Parts</strong></p>
+<blockquote>
+  <p>  In this module we explore Web Parts. We will take a look at basic web  parts and then transition to more complex topics like Tool Parts and Web Part  Connections.</p>
+</blockquote>
+<p><strong>Module 12: Custom Site Definitions</strong></p>
+<blockquote>
+  <p>  In this module we explore Site Definitions and Collaborative Markup  Language (CAML).</p>
+</blockquote>
+<p><strong>Module 13: Content Types</strong></p>
+<blockquote>
+  <p>  In this module we explore content types, content type lineage and content  type hubs.</p>
+</blockquote>
+<p><strong>Module 14: Custom Field Types</strong></p>
+<blockquote>
+  <p>  In this module we explore how to create your own column types for your  lists. SharePoint calls these Custom Field Types.</p>
+</blockquote>
+<p><strong>Module 15: Events and TimerJobs</strong></p>
+<blockquote>
+  <p>  In this module we will explore SharePoint Events and how to create and  assign them to lists and sites. We will also explore how to create custom Timer  Jobs to implement your own monitoring applications.</p>
+</blockquote>
+<p><strong>Module 16: Service Applications</strong></p>
+<blockquote>
+  <p>  In this module we are going to take a look at Service Applications that  come out of the box with SharePoint and how to build your own service  applications.</p>
+</blockquote>
+<p><strong>Module 17: Workflows With  SharePoint Designer</strong></p>
+<blockquote>
+  <p>  In this module we are going to take a look at implementing workflows with  SharePoint Designer 2010.</p>
+</blockquote>
+<p><strong>Module 18: Workflows With  VisualStudio</strong></p>
+<blockquote>
+  <p>  In this module we will explore how to use Windows Workflow Foundation to  create highly customized and reusable workflows.</p>
+</blockquote>
+<p><strong>Module 19: Business Connectivity  Services</strong></p>
+<blockquote>
+  <p>  In this module we are going to take a look at the new Business  Connectivity Services.</p>
+</blockquote>
+<p><strong>Module 20: Extending the User  Interface</strong></p>
+<blockquote>
+  <p>In  this module we are going to take a look at extending the new Ribbon and how to  work with the new Dialog platform.</p>
+</blockquote>

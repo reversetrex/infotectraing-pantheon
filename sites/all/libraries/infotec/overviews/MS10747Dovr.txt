@@ -1,0 +1,1 @@
+This course describes how to configure and manage a System Center 2012 R2 Configuration Manager site and its associated site systems. The course focuses on day-to-day management tasks for System Center 2012 R2 Configuration Manager.

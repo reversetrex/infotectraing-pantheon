@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Design and manage features and solutions.</li>
+  <li>Develop code for custom server-side components.</li>
+  <li>Manage and customize authentication and authorization.</li>
+  <li>Create custom sites and lists and manage the site lifecycle.</li>
+  <li>Explain the capabilities and design choices for SharePoint apps.</li>
+  <li>Use the client-side object model and the REST API.</li>
+  <li>Develop provider-hosted and auto-hosted SharePoint apps.</li>
+  <li>Distribute and deploy SharePoint apps.</li>
+  <li>Create custom workflows to automate business processes.</li>
+  <li>Use fields and content types to manage taxonomy.</li>
+  <li>Customize the appearance and behavior of user interface elements.</li>
+  <li>Customize navigation and site branding.</li>
+</ul>

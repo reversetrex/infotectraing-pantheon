@@ -1,0 +1,153 @@
+<p><strong>Chapter 1: Preparing your First jQuery Mobile Project</strong></p>
+<ul>
+<li>Important preliminary points</li>
+<li>Building an HTML page</li> 
+<li>Getting jQuery Mobile</li>
+<li>Implementing jQuery Mobile</li> 
+<li>Working with data attributes</li> 
+</ul>
+
+<p><strong>Chapter 2: Working with jQuery Mobile Pages</strong></p>
+<ul>
+<li>Important preliminary points</li>
+<li>Adding multiple pages to one file</li>
+<li>jQuery Mobile, links, and you</li> 
+<li>Working with multiple files</li> 
+<li>jQuery Mobile and URLs</li> 
+<li>Additional customization</li>
+<li>Page titles</li>
+<li>Prefetching content</li> 
+<li>Changing page transitions</li>
+</ul>
+
+<p><strong>Chapter 3: Enhancing Pages with Headers, Footers, and Toolbars</strong></p>
+<ul>
+<li>Important preliminary points</li>
+<li>Adding headers</li>
+<li>Icon sneak peak</li> 
+<li>Working with back buttons</li> 
+<li>Working with footers</li>
+<li>Creating fixed and full screen headers and footers</li>
+<li>Full screen positioning</li>
+<li>Working with navigation bars</li> 
+<li>Persisting navigation bar footers across multiple pages</li>
+</ul>
+
+<p><strong>Chapter 4: Working with Lists</strong></p>
+<ul>
+<li>Creating lists</li>
+<li>Working with list feature</li>
+<li>Creating Inset lists</li>
+<li>Creating list dividers</li>
+<li>Creating lists with count bubbles</li>
+<li>Using thumbnails and icons</li> 
+<li>Creating Split Button lists</li> 
+<li>Using a search filter</li>
+</ul>
+
+<p><strong>Chapter 5: Getting Practical - Building a Simple Hotel Mobile Site</strong></p> 
+<ul>
+<li>Welcome to Hotel Camden</li>
+<li>The home page</li> 
+<li>Finding the hotel</li> 
+<li>Listing the hotel rooms</li> 
+<li>Contacting the hotel</li>
+</ul>
+
+<p><strong>Chapter 6: Working with Forms and jQuery Mobile</strong></p>
+<ul>
+<li>Before you begin</li> 
+<li>What jQuery Mobile does with forms</li>
+<li>Working with radio buttons and checkboxes</li> 
+<li>Working with select menus</li> 
+<li>Search, toggle, and slider fields</li> 
+<li>Search fields</li> 
+<li>Flip toggle fields</li> 
+<li>Slider fields</li> 
+<li>Using native form controls</li> 
+<li>Working with "mini" fields</li> 
+</ul>
+
+<p><strong>Chapter 7: Creating Modal Dialogs, Grids, and Collapsible Blocks</strong></p>
+<ul>
+<li>Creating dialogs</li>
+<li>Laying out content with grids</li> 
+<li>Working with collapsible content</li> 
+</ul>
+
+<p><strong>Chapter 8: jQuery Mobile Configuration, Utilities, and JavaScript methods</strong></p> 
+<ul>
+<li>Configuring jQuery Mobile</li>
+<li>Using jQuery Mobile utilities</li> 
+<li>Page methods and utilities</li> 
+<li>Path and URL related utilities</li> 
+<li>Miscellaneous utilities</li> 
+<li>jQuery widget and form utilities</li> 
+</ul>
+
+<p><strong>Chapter 9: Working with Events</strong></p>
+<ul>
+<li>Working with physical events</li> 
+<li>Handling page events</li> 
+<li>What about $(document).ready?</li>
+<li>Creating a real example</li> 
+</ul>
+
+<p><strong>Chapter 10: Moving further with the Notekeeper Mobile Application</strong></p> 
+<ul>
+<li>What is a mobile application?</li>
+<li>Designing your first mobile application</li> 
+<li>Listing out the requirements</li>
+<li>Building your wireframes</li>
+<li>Designing the add note wireframe</li>
+<li>Display notes wireframe</li>
+<li>View note/delete button wireframe</li>
+<li>Writing the HTML</li>
+<li>Adding functionality with JavaScript</li>
+<li>Storing Notekeeper data</li>
+<li>Using localStorage</li>
+<li>Effective use of boilerplates</li>
+<li>Building the Add Note feature</li>
+<li>Adding bindings</li>
+<li>Collecting and storing the data</li>
+<li>Building the Display Notes feature</li>
+<li>Dynamically adding notes to our listview</li>
+<li>Viewing a note</li>
+<li>Using the Live function</li>
+<li>Dynamically creating a new page</li>
+<li>Deleting a note</li>
+</ul>
+
+<p><strong>Chapter 11: Enhancing jQuery Mobile</strong></p> 
+<ul>
+<li>What's possible?</li> 
+<li>The visual building blocks of jQuery Mobile</li> 
+<li>Border-radius</li>
+<li>Applying drop shadows</li>
+<li>Using text-shadow</li>
+<li>Using box-shadow</li>
+<li>CSS gradients</li>
+<li>The basics of jQuery Mobile theming</li>
+<li>Bars (.ui-bar-?)</li>
+<li>Content blocks (.ui-body-?)</li>
+<li>Buttons and listviews (.ui-btn-?)</li>
+<li>Mixing and matching swatches</li>
+<li>Site-wide active state</li>
+<li>Default icons</li>
+<li>Creating and using a custom theme</li>
+<li>What's ThemeRoller?</li>
+<li>Using ThemeRoller</li>
+<li>Preview</li>
+<li>Colors</li>
+<li>Inspector</li>
+<li>Tools</li>
+<li>Creating a theme for Notekeeper</li>
+<li>Exporting your theme</li>
+<li>Creating and using custom icons</li>
+<li>CSS Sprites</li>
+<li>Designing your first icon</li>
+<li>High and low resolution</li>
+<li>Updating the Notekeeper app</li>
+<li>Adding our custom theme</li>
+<li>Adding our custom icon</li>
+</ul>

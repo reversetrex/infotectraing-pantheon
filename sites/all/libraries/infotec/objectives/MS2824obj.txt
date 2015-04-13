@@ -1,0 +1,16 @@
+<p> After completing this course, students will gain the skills to: </p>
+<ul>
+  <li> Describe the functionality provided by ISA Server 2004, and explain valid deployment scenarios for ISA Server 2004. </li>
+  <li>Install and maintain ISA Server 2004, and install and configure ISA Server clients. </li>
+  <li>Configure secure access to Internet resources for internal network clients using ISA Server 2004. </li>
+  <li>Configure ISA Server 2004 as a firewall between the Internet and the internal network. </li>
+  <li>Configure secure access to internal network resources for Internet clients who are using Web and server publishing rules. </li>
+  <li>Configure ISA Server to provide secure access to Exchange Server for servers and clients located on the Internet. </li>
+  <li>Implement application and Web filters on ISA Server 2004. </li>
+  <li>Implement a virtual private network for remote clients and remote networks using ISA Server 2004. </li>
+  <li>Implement Web proxy caching on ISA Server 2004. </li>
+  <li>Monitor server performance, security, and usage on ISA Server 2004. </li>
+  <li>Plan an ISA Server 2004 Enterprise Edition deployment and install ISA Server 2004 Enterprise Edition </li>
+  <li>Implement ISA Server 2004 Enterprise Edition in a back-to-back firewall scenario </li>
+  <li>Implement ISA Server 2004 Enterprise Edition in a site-to-site VPN scenario </li>
+</ul>

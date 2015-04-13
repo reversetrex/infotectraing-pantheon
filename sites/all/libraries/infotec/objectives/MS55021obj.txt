@@ -1,0 +1,18 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Describe Microsoft’s virtualization technologies.</li>
+    <li>Implement Hyper-V.</li>
+    <li>Design and Manage virtual machine storage solutions.</li>
+    <li>Design and Manage virtual networks.</li>
+    <li>Design the Hyper-V host architecture.</li>
+    <li>Design the virtual machine architecture.</li>
+    <li>Design a Windows Server 2012 Hyper-V Virtualization Infrastructure.</li>
+    <li>Describe and manage Hyper-V Snapshots</li>
+    <li>Describe Hyper-V host and virtual machine high availability.</li>
+    <li>Describe storage options for Virtual Machines.</li>
+    <li>Describe the different types of virtual hard disks.</li>
+    <li>Describe the Hyper-V integration services.</li>
+    <li>Describe Live Migration.</li>
+    <li>Understand Storage Migration.</li>
+    <li>Understand Virtual Machine Import.</li>
+</ul>

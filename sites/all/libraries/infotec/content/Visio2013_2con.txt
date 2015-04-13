@@ -1,0 +1,37 @@
+<p><strong>Lesson 1: </strong>Enhancing the Look of Drawings</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a Microsoft Account and Sign in to Visio</li>
+  <li><strong>Topic B: </strong>Work with Shape Styles</li>
+  <li><strong>Topic C: </strong>Use 3D Shapes</li>
+  <li><strong>Topic D: </strong>Apply Backgrounds, Borders, and Titles</li>
+  <li><strong>Topic E: </strong>Define Shape Styles</li>
+</ul>
+<p><strong>Lesson 2: </strong>Creating Shapes, Stencils, and Templates</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Simple Custom Shapes</li>
+  <li><strong>Topic B: </strong>Create Custom Stencils</li>
+  <li><strong>Topic C: </strong>Create Custom Templates</li>
+</ul>
+<p><strong>Lesson 3: </strong>Connecting Drawings to External Data</p>
+<ul>
+  <li><strong>Topic A: </strong>Make an Organization Chart from an Excel Spreadsheet</li>
+  <li><strong>Topic B: </strong>Generate a Pivot Diagram from an Excel Spreadsheet</li>
+  <li><strong>Topic C: </strong>Create a Gantt Chart from a Project File</li>
+  <li><strong>Topic D: </strong>Create a Timeline from a Project File</li>
+  <li><strong>Topic E: </strong>Connect a Map to an Access Database</li>
+</ul>
+<p><strong>Lesson 4: </strong>Leveraging Development Tools</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Macros</li>
+  <li><strong>Topic B: </strong>Modify ShapeSheets</li>
+  <li><strong>Topic C: </strong>Build Advanced Shapes</li>
+</ul>
+<p><strong>Lesson 5: </strong>Sharing Drawings</p>
+<ul>
+  <li><strong>Topic A: </strong>Save and Share Drawings with OneDrive</li>
+  <li><strong>Topic B: </strong>Review Drawings</li>
+  <li><strong>Topic C: </strong>Insert Drawings into Other Office Files</li>
+  <li><strong>Topic D: </strong>Export Drawings</li>
+  <li><strong>Topic E: </strong>Print Drawings</li>
+</ul>
+<p><strong>Appendix A: </strong>Using Diagram Standards</p>

@@ -1,0 +1,38 @@
+<h2>Session 1</h2>
+  <h3>Section A: Why Get Organized?</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Benefits to Getting Organized</li>
+    <li>Tips to Make Organizing Easier</li>
+    <li>Defining Clutter</li>
+  </ul>
+  <h3>Section B: Challenges to Getting Organized</h3>
+  <ul>
+    <li>Fear of Dumping</li>
+    <li>Fear of Becoming Rigid and Inflexible</li>
+    <li>Lack of Knowledge</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Getting Started: Procedures</h3>
+  <ul>
+    <li>Objectives and Goal Setting</li>
+    <li>Start with Secondary Work Areas</li>
+    <li>Reduce, Refer, and Rearrange</li>
+    <li>Put Like Things Together</li>
+    <li>Stay Focused</li>
+    <li>Primary Work Area: Arrangement</li>
+    <li>Primary Work Area: Drawers and Desktop</li>
+    <li>Your Filing System</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section D: Staying Organized: Processes</h3>
+  <ul>
+    <li>Use Your Desktop as a Clearing House</li>
+    <li>Decision Making vs. Paper Shuffling</li>
+    <li>Create a Tracking System</li>
+    <li>Tie Up Loose Ends</li>
+    <li>Process Information Systematically</li>
+    <li>Managing the Reading</li>
+    <li>Stay on Top</li>
+    <li>Assessment</li>
+  </ul>

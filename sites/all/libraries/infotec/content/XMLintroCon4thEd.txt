@@ -1,0 +1,44 @@
+<p><strong>Lesson 1: Creating an XML  Document</strong></p>
+<blockquote>
+  <p>
+    Topic 1A: Introduction to XML<br />
+    Topic 1B: Create XML Elements<br />
+    Topic 1C: Create Additional XML  Components<br />
+    Topic 1D: Implement Namespaces<br />
+    Topic 1E: Implement XInclude <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Validating an XML  Document</strong></p>
+<blockquote>
+  <p>
+    Topic 2A: Create a DTD<br />
+    Topic 2B: Validate XML with a DTD<br />
+    Topic 2C: Create a Schema<br />
+    Topic 2D: Validate XML with a  Schema<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Formatting and  Transforming XML Documents</strong></p>
+<blockquote>
+  <p>
+    Topic 3A: Display an XML Document  Using Cascading Style Sheets (CSS) <br />
+    Topic 3B: Transform XML to XML<br />
+    Topic 3C: Transform XML into HTML<br />
+    Topic 3D: Create an XSL-FO  Document<br />
+    Topic 3E: Display XML Data Using  XSL-FO<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Linking XML Documents</strong></p>
+<blockquote>
+  <p>
+    Topic 4A: Link to an External  Document<br />
+    Topic 4B: Link to External  Sources Using the HTML Namespace <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Accessing XML Documents</strong></p>
+<blockquote>
+  <p>
+    Topic 5A: Access an XML Document  Using XQuery<br />
+    Topic 5B: Access an XML Document  Using DOM<br />
+    Topic 5C: Access an XML  Document Using SAX<br />
+  </p>
+</blockquote>

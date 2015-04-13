@@ -1,0 +1,10 @@
+<h2>Session 1</h2>
+  <h3>Section A: Job Hunting in a Digital World</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Know Your Talents</li>
+    <li>Building Your Brand</li>
+    <li>Best Appearance Online</li>
+    <li>Preparing Your Online Resume</li>
+    <li>Putting it all Together</li>
+  </ul>

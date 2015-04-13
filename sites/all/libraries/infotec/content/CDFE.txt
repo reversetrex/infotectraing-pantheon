@@ -1,0 +1,458 @@
+<h2>Session 1</h2>
+  <h3>Section A: Course Overview</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Disclaimers and Prerequisites</li>
+    <li>Using the Student Guide</li>
+    <li>Computer Forensics Defined</li>
+    <li>Digital Evidence</li>
+    <li>E-Discovery Process</li>
+    <li>CDFE Course Objectives</li>
+  </ul>
+  <h3>Section B: Digital Forensics Incidents</h3>
+  <ul>
+    <li>Digital Incidents Overview</li>
+    <li>Charles Lund</li>
+    <li>Cybercrime.gov Web Site</li>
+    <li>Latest Press Releases</li>
+    <li>Computer Crime Cases</li>
+    <li>Legal Resources and Legislation</li>
+    <li>Computer Fraud and Abuse Act</li>
+    <li>Robert Morris</li>
+  </ul>
+  <h3>Section C: Type of Investigations</h3>
+  <ul>
+    <li>Criminal Incidents</li>
+    <li>Council of Europe on Cybercrime</li>
+    <li>Dealing with Foreign Countries</li>
+    <li>Civil Incidents</li>
+    <li>Types of Criminal Incidents</li>
+    <li>Computer Fraud</li>
+    <li>CFO Takeover Case</li>
+    <li>Investigating Fraud</li>
+    <li>Items to Investigate</li>
+  </ul>
+  <h3>Section D: Internal and External Threats</h3>
+  <ul>
+    <li>Internal Threats</li>
+    <li>Internal Threat Example</li>
+    <li>External Threats Defined</li>
+    <li>External Threat Types</li>
+    <li>Investigative Challenges</li>
+    <li>Media Volume</li>
+    <li>Using Forensics Tools</li>
+    <li>Attorneys vs. Investigators</li>
+  </ul>
+  <h3>Section E: Understanding the Assessment</h3>
+  <ul>
+    <li>Digital Incident Responses</li>
+    <li>Digital Incident Assessment</li>
+    <li>Assessment Considerations</li>
+    <li>Incident Types</li>
+    <li>Parties Involved</li>
+    <li>Confidential Informants</li>
+    <li>Operational Security</li>
+  </ul>
+  <h3>Section F: Assessment Equipment Needs</h3>
+  <ul>
+    <li>Incident/Equipment Location</li>
+    <li>Available Response Resources</li>
+    <li>Securing Digital Evidence</li>
+    <li>Proof of Secure Evidence</li>
+    <li>Chain of Custody</li>
+    <li>Incident Response Seizure Form</li>
+    <li>Chain of Custody Form</li>
+    <li>Evidence Placement</li>
+    <li>Kinds of Digital Evidence</li>
+  </ul>
+  <h3>Section G: File Storage Concepts</h3>
+  <ul>
+    <li>File Storage Overview</li>
+    <li>Disk-Based Operating Systems</li>
+    <li>Understanding FAT and NTFS</li>
+    <li>Storage Concepts</li>
+    <li>Directories Defined</li>
+    <li>File Saving Process</li>
+    <li>NTFS File Structure</li>
+    <li>Stream Explorer Demo</li>
+  </ul>
+  <h3>Section H: Disk Storage Concepts</h3>
+  <ul>
+    <li>Understanding Disk Storage</li>
+    <li>Disk Read/Write Process</li>
+    <li>Hard Disk Breakdown</li>
+    <li>Master Boot Record</li>
+    <li>Slack Space</li>
+    <li>File Management</li>
+    <li>Word Size</li>
+    <li>Memory</li>
+    <li>Understanding File Formats</li>
+    <li>Quick View Plus</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Acquisition and Authentication</h3>
+  <ul>
+    <li>Digital Acquisition Overview</li>
+    <li>Digital Acquisition</li>
+    <li>Copying vs. Duplicating</li>
+    <li>Authentication</li>
+    <li>Generic Hash Demo</li>
+    <li>Text to Hex Demo</li>
+    <li>Creating a Hash</li>
+    <li>View MD5 Hash Result</li>
+    <li>Hash Extraction Reasons</li>
+    <li>eXpress CheckSum Calculator</li>
+  </ul>
+  <h3>Section B: Acquisition Procedures/Analysis Tools</h3>
+  <ul>
+    <li>Acquisition Procedures</li>
+    <li>On-Scene Acquisitions</li>
+    <li>ICS DriveLocks</li>
+    <li>RoadMASSter and ImageMASSter</li>
+    <li>Logicube and Paraben Duplicators</li>
+    <li>Laboratory Acquisitions</li>
+    <li>After Documentation</li>
+    <li>Logical Review</li>
+    <li>Acquisition Options</li>
+  </ul>
+  <h3>Section C: Duplication Demo</h3>
+  <ul>
+    <li>Innovision USB Write Blocker</li>
+    <li>Write-Protecting a Device</li>
+    <li>Cloning Disks with WinHex</li>
+    <li>FTK Imager</li>
+    <li>Specify Evidence Information</li>
+    <li>Image Destination Considerations</li>
+    <li>Creating the Image</li>
+    <li>dd.exe Overview</li>
+    <li>Creating a dd.exe Image</li>
+    <li>FTK Imager Results</li>
+    <li>WinHex Physical Hash</li>
+    <li>View dd.exe Image Results</li>
+    <li>Compare FTK and WinHex Physical Hashes</li>
+  </ul>
+  <h3>Section D: Investigation Analysis and Disk Cleaning</h3>
+  <ul>
+    <li>DC3 Operations</li>
+    <li>Analysis Phase</li>
+    <li>Disk Redactor and Disk Wipe</li>
+    <li>Review Cleaned Drive and Other Tools</li>
+    <li>FTK Overview</li>
+    <li>Case Log Options/Processes to Perform</li>
+    <li>Refining and Adding Evidence</li>
+    <li>Indexing Items</li>
+    <li>Alert Files and Bad Extensions</li>
+    <li>Encrypted, OLE, and Ignorable Files</li>
+    <li>Explore Tab</li>
+    <li>Graphics and E-Mail Tabs</li>
+    <li>Search Tab</li>
+    <li>Bookmark Tab and Summary</li>
+  </ul>
+  <h3>Section E: Assessment Rules</h3>
+  <ul>
+    <li>Assessment Overview</li>
+    <li>Forensic Science</li>
+    <li>Digital Forensics</li>
+    <li>Scientific Method</li>
+    <li>Cardinal Rules</li>
+    <li>The ALPHA 5 System</li>
+    <li>Examinations</li>
+    <li>ALPHA 5 Steps</li>
+  </ul>
+  <h3>Section F: Assessment Details</h3>
+  <ul>
+    <li>Assessment</li>
+    <li>Acquisition</li>
+    <li>Authentication</li>
+    <li>Analysis and Reporting</li>
+    <li>Archive</li>
+    <li>The 20 Basic Steps</li>
+    <li>Steps 2 and 3</li>
+    <li>Steps 4 - 6</li>
+    <li>Steps 7 and 8</li>
+    <li>Boot Record Data with WinHex</li>
+    <li>Steps 9 - 14</li>
+    <li>Manual and FTK Data Carving</li>
+    <li>Steps 15 - 17</li>
+    <li>Steps 18 - 20</li>
+  </ul>
+  <h3>Section G: Digital Evidence Protocols</h3>
+  <ul>
+    <li>Digital Evidence Overview</li>
+    <li>Digital Evidence Concepts</li>
+    <li>Levels of Proof</li>
+    <li>Court Example</li>
+    <li>Types of Data</li>
+    <li>Ntuser.dat Analysis</li>
+    <li>Residual Data - Free Space</li>
+    <li>Free Space</li>
+    <li>Residual Data - File Slack</li>
+    <li>File Slack - Partial Artifacts</li>
+    <li>File Slack - Results</li>
+    <li>Residual Data - RAM Slack</li>
+  </ul>
+  <h3>Section H: Digital Evidence Protocols Continued</h3>
+  <ul>
+    <li>Swap Files</li>
+    <li>PageFile.sys</li>
+    <li>PageFile.sys Results and Searches</li>
+    <li>Residual Data - Temp Files</li>
+    <li>Residual Data - Unallocated Space</li>
+    <li>Electronic Mail</li>
+    <li>Background Data</li>
+    <li>Metadata</li>
+    <li>Viewing Photo Exifdata</li>
+    <li>Viewing File Metadata</li>
+    <li>Admissibility</li>
+    <li>Digital Evidence Summary</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: The Role of Evidence</h3>
+  <ul>
+    <li>Lesson Objectives</li>
+    <li>Evidence</li>
+    <li>Types of Evidence</li>
+    <li>Electronic Files</li>
+    <li>Documentation Process</li>
+    <li>Writings or Recordings</li>
+    <li>Best Evidence Rule</li>
+  </ul>
+  <h3>Section B: Authenticity and Alteration</h3>
+  <ul>
+    <li>Authenticity and Alteration Decoded</li>
+    <li>Layman's Analogies</li>
+    <li>Forensic Report Template</li>
+    <li>Filling Out the Report</li>
+    <li>Common Assaults</li>
+  </ul>
+  <h3>Section C: Theoretical Background</h3>
+  <ul>
+    <li>Forensic Theory Overview</li>
+    <li>Locard's Exchange Principle</li>
+    <li>Recovery</li>
+    <li>Classification</li>
+    <li>Reconstruction</li>
+    <li>Temporal Aspects</li>
+    <li>TimeStomp</li>
+    <li>Using TimeStomp</li>
+  </ul>
+  <h3>Section D: Tracking Down the Suspect</h3>
+  <ul>
+    <li>Behavioral Evidence Analysis</li>
+    <li>Equivocal Forensic Analysis</li>
+    <li>Isiscan.com</li>
+    <li>Stages of Digital Evidence Examination</li>
+    <li>Victimology</li>
+    <li>Cybertrails</li>
+    <li>eMailTrackerPro</li>
+    <li>CentralOps.net</li>
+    <li>Questions on Cybertrails</li>
+    <li>Incident Scene Characteristics</li>
+  </ul>
+  <h3>Section E: Laboratory Validation</h3>
+  <ul>
+    <li>QA Objectives</li>
+    <li>Protocols</li>
+    <li>Quality Assurance</li>
+    <li>Standard Operating Procedures</li>
+    <li>Reports</li>
+  </ul>
+  <h3>Section F: Examination Review</h3>
+  <ul>
+    <li>Peer Review</li>
+    <li>Peer Review Details</li>
+    <li>Consistency</li>
+    <li>Accuracy</li>
+    <li>Research</li>
+    <li>Validation</li>
+    <li>Relevance</li>
+    <li>Liability and Legal Considerations</li>
+    <li>Peer Review Wrap-up</li>
+    <li>Annual Review</li>
+  </ul>
+  <h3>Section G: Deviation Policies and Lab Intake</h3>
+  <ul>
+    <li>Deviation</li>
+    <li>Deviation Guidelines</li>
+    <li>Deviation Consultation</li>
+    <li>Lab Intake</li>
+    <li>Tracking</li>
+  </ul>
+  <h3>Section H: Archiving Evidence and Legal Discovery</h3>
+  <ul>
+    <li>Storage</li>
+    <li>Discovery</li>
+    <li>Proficiency Results</li>
+    <li>Procedure Importance</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Duplication Part I</h3>
+  <ul>
+    <li>Lesson Objectives</li>
+    <li>Read-Only Technology</li>
+    <li>Duplication</li>
+    <li>RAID Reconstructor</li>
+    <li>UFS Explorer and Win Hex</li>
+    <li>Duplication Process</li>
+    <li>Duplication Tools</li>
+    <li>Hashing and Duplicating a Drive Review</li>
+    <li>Generic Hash Demo</li>
+    <li>Text to Hex Demo</li>
+    <li>Creating a Hash</li>
+  </ul>
+  <h3>Section B: Duplication Part II</h3>
+  <ul>
+    <li>View MD5 Hash Result</li>
+    <li>Hash Extraction Reasons</li>
+    <li>eXpress CheckSum Calculator</li>
+    <li>ICS DriveLocks</li>
+    <li>RoadMASSter and ImageMASSter</li>
+    <li>Logicube and Paraben Duplicators</li>
+    <li>Innovision USB Write Blocker</li>
+    <li>Write-Protecting a Device</li>
+    <li>Cloning Disks with WinHex</li>
+    <li>FTK Imager</li>
+    <li>Specify Evidence Information</li>
+  </ul>
+  <h3>Section C: Duplication Part III</h3>
+  <ul>
+    <li>Image Destination Considerations</li>
+    <li>Creating the Image</li>
+    <li>dd.exe Overview</li>
+    <li>Creating a dd.exe Image</li>
+    <li>FTK Imager Results</li>
+    <li>WinHex Physical Hash</li>
+    <li>View dd.exe Image Results</li>
+    <li>Compare Physical Hashes</li>
+  </ul>
+  <h3>Section D: The Examination</h3>
+  <ul>
+    <li>Examination Preparation</li>
+    <li>Recording the Logical Drive Structure</li>
+    <li>Logical Drive Structure</li>
+    <li>Logical Review Process</li>
+    <li>National Software Reference Library</li>
+    <li>File Extensions</li>
+  </ul>
+  <h3>Section E: Searches, Keywords, and Reports</h3>
+  <ul>
+    <li>Searches</li>
+    <li>Logical Review</li>
+    <li>Live Search</li>
+    <li>Search Results</li>
+    <li>Internet Keyword Search</li>
+    <li>Bookmarks and Importing</li>
+    <li>Import Results</li>
+    <li>View Reports and Log Files</li>
+    <li>FTK Log</li>
+  </ul>
+  <h3>Section F: Data Carving, Headers, and Reports</h3>
+  <ul>
+    <li>Data Carving</li>
+    <li>Hex Workshop</li>
+    <li>Hex Workshop Changes</li>
+    <li>Encoded Files</li>
+    <li>Reports</li>
+    <li>Redacted Reports</li>
+    <li>Redacted Report Findings</li>
+    <li>Redacted Time Zone Report</li>
+    <li>Module Wrap-up</li>
+  </ul>
+  <h3>Section G: eDiscovery</h3>
+  <ul>
+    <li>eDiscovery Overview</li>
+    <li>ESI</li>
+    <li>eDiscovery Notification</li>
+    <li>Data Retention</li>
+    <li>eDiscovery Liaison</li>
+    <li>Forms of eDiscovery</li>
+    <li>Metadata</li>
+    <li>Data Retention Architecture</li>
+    <li>Safe Harbor</li>
+    <li>Spoliation</li>
+    <li>Tools for eDiscovery</li>
+    <li>Guidance Software eDiscovery Suite</li>
+    <li>eDiscovery Importance</li>
+  </ul>
+  <h3>Section H: Cryptography</h3>
+  <ul>
+    <li>Cryptography Overview</li>
+    <li>Cryptography Background</li>
+    <li>Steganography</li>
+    <li>BlindSide</li>
+    <li>JPHS</li>
+    <li>Stego Suite</li>
+    <li>Encryption and Decryption</li>
+    <li>CrypTool Encryption</li>
+    <li>CrypTool Decryption</li>
+    <li>Concepts</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Passwords and Password Attacks</h3>
+  <ul>
+    <li>Passwords</li>
+    <li>Password Cracking</li>
+    <li>Passware Kit</li>
+    <li>Passware</li>
+    <li>Cain and Abel Password Cracking</li>
+    <li>Brute Force Attack</li>
+    <li>Rainbow Attack</li>
+    <li>Rainbow Tables</li>
+    <li>Password Cracking Results</li>
+    <li>Cryptography to Password Cracking</li>
+  </ul>
+  <h3>Section B: Data Carving and Registry Overview</h3>
+  <ul>
+    <li>Lesson Objectives</li>
+    <li>Scientific Procedure</li>
+    <li>Preparation</li>
+    <li>File Date/Time Stamps</li>
+    <li>File Signatures</li>
+    <li>Data Carving</li>
+    <li>Thumbs.db Data Carving</li>
+    <li>Registry</li>
+    <li>Registry Overview</li>
+    <li>Registry Editor</li>
+    <li>AccessData Registry Viewer</li>
+  </ul>
+  <h3>Section C: ADS and User Files</h3>
+  <ul>
+    <li>Alternate Data Streams</li>
+    <li>ADS Demo in Notepad</li>
+    <li>Attaching an .exe File</li>
+    <li>Stream Explorer</li>
+    <li>Unique ID Numbers</li>
+    <li>Decode GUID</li>
+    <li>Historical Files Part I</li>
+    <li>NTUSER.DAT</li>
+    <li>Log Files</li>
+    <li>Event Viewer</li>
+    <li>Resplendent Registrar Tool</li>
+    <li>Windows Explorer, Vista</li>
+    <li>Windows Explorer, XP</li>
+  </ul>
+  <h3>Section D: File Options</h3>
+  <ul>
+    <li>Historical Files Part II</li>
+    <li>index.dat</li>
+    <li>IE and Mozilla History View</li>
+    <li>Link File Extractor</li>
+    <li>Recent Document History</li>
+    <li>Miscellaneous Folder</li>
+    <li>Cookie Viewer</li>
+    <li>Favorites</li>
+    <li>Registry History and Password Recovery</li>
+    <li>Recent Files</li>
+    <li>Hidden Files</li>
+  </ul>
+  <h3>Section E: Recycled Files and Rootkits</h3>
+  <ul>
+    <li>Deleted Files</li>
+    <li>Recycle Bin in XP</li>
+    <li>Recycle Bin in Vista</li>
+    <li>E-mail History</li>
+    <li>Outlook File Recovery</li>
+    <li>Webmail</li>
+    <li>AFX Windows Rootkit 2003</li>
+    <li>Rootkit Discovery</li>
+  </ul>

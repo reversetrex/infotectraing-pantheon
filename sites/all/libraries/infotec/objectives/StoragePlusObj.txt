@@ -1,0 +1,18 @@
+<p>Upon successful completion of this course, students will be able  to:</p>
+<ul>
+  <li>Examine the fundamentals of storage and network technologies.</li>
+  <li>Describe physical networking hardware.</li>
+  <li>Examine disk technologies.</li>
+  <li>Identify removable media technologies.</li>
+  <li>Describe modular storage arrays and disk enclosures.</li>
+  <li>Examine storage network connectors and cabling.</li>
+  <li>Describe storage architectures.</li>
+  <li>Describe Ethernet network technologies.</li>
+  <li>Describe an FC SAN.</li>
+  <li>Describe storage management.</li>
+  <li>Describe storage network implementation.</li>
+  <li>Identify storage virtualization concepts, technologies, and techniques.</li>
+  <li>Examine storage network management.</li>
+  <li>Evaluate storage performance.</li>
+  <li>Describe  storage network security.</li>
+</ul>

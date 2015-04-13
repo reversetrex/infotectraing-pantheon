@@ -1,0 +1,98 @@
+<p><strong>1. Host Server Concepts</strong></p>
+<ul type="disc">
+  <li>Key Virtualization Terms</li>
+  <li>Hardware Configuration</li>
+  <li>Memory Considerations</li>
+  <li>CPU Considerations</li>
+  <li>Network Considerations</li>
+  <li>Virtual Machine Management</li>
+  <li>Virtual Machine Migration</li>
+  <li>Media Storage Considerations</li>
+  <li>Local Storage vs. SAN</li>
+  <li>Determining RAM Scalability</li>
+  <li>Determining CPU Scalability</li>
+  <li>Determining Network Interface Strategies</li>
+  <li>Determining HA Priority Levels</li>
+  <li>Storage Overcommitment Risks</li>
+</ul>
+<p><strong>2. XenServer Integration</strong></p>
+<ul type="disc">
+  <li>ISO Storage</li>
+  <li>Pre-Installation Considerations</li>
+  <li>Troubleshooting</li>
+  <li>Configuring XenServer Networking</li>
+  <li>Configuring XenServer Storage</li>
+  <li>Creating a Resource Pool</li>
+  <li>Testing High Availability</li>
+</ul>
+<p><strong>3. Project Planning and Implementation Strategies</strong></p>
+<ul type="disc">
+  <li>Project Roles</li>
+  <li>Project Documentation</li>
+  <li>Implementation Planning</li>
+  <li>Implementation Case Studies</li>
+  <li>Identifying Gaps in Documentation</li>
+  <li>Interpreting Project Documentation and Identifying Goals</li>
+</ul>
+<p><strong>4. Provisioning Services Integration</strong></p>
+<ul type="disc">
+  <li>Network Support of Streaming</li>
+  <li>Provisioning Services Optimizations</li>
+  <li>Streaming Other Workloads</li>
+  <li>Troubleshooting</li>
+  <li>Installing and Configuring Provisioning Services Server</li>
+  <li>Creating and Configuring the vDisk</li>
+  <li>Testing the Configuration</li>
+  <li>Adding Additional Server to Farm</li>
+  <li>Configuring Load Balancing and HA for Provisioning Services</li>
+</ul>
+<p><strong>5. XenApp Integration</strong></p>
+<ul type="disc">
+  <li>Application Delivery</li>
+  <li>XenApp Configurations</li>
+  <li>Provisioning Services with XenApp</li>
+  <li>XenApp Migration</li>
+  <li>Troubleshooting</li>
+  <li>Installing XenApp</li>
+  <li>Provisioning XenApp Servers</li>
+  <li>Configuring XenApp Servers</li>
+</ul>
+<p><strong>6. XenDesktop Integration</strong></p>
+<ul type="disc">
+  <li>Virtual Desktop Components</li>
+  <li>Desktop Groups</li>
+  <li>XenDesktop Management</li>
+  <li>NetScaler VPX</li>
+  <li>Troubleshooting</li>
+  <li>Installing the Desktop Delivery Controller</li>
+  <li>Installing the Additional Desktop Delivery Controllers</li>
+  <li>Configuring the XenDesktop Farm</li>
+  <li>Creating a Virtual Desktop VM</li>
+  <li>Provisioning the XenDesktop Pool</li>
+  <li>Configuring and Testing the Desktop Group</li>
+  <li>Configuring NetScaler VPX</li>
+</ul>
+<p><strong>7. Virtualized Environment Monitoring</strong></p>
+<ul type="disc">
+  <li>EdgeSight</li>
+  <li>EdgeSight for Load Testing</li>
+  <li>Installing EdgeSight for Load Testing</li>
+  <li>Installing and Configuring the EdgeSight Server</li>
+  <li>Installing EdgeSight Agent Database Server</li>
+  <li>Installing EdgeSight Agent on XenDesktop Desktops</li>
+  <li>Configuring EdgeSight</li>
+  <li>Testing the Monitoring Environment</li>
+</ul>
+<p><strong>8. Virtualized Environment Maintenance</strong></p>
+<ul type="disc">
+  <li>Workflow Studio Overview</li>
+  <li>Workflow Automation</li>
+  <li>Sample Maintenance Workflows</li>
+  <li>XenApp and XenDesktop Server Backup</li>
+  <li>Configuring a XenServer Metadata Backup Schedule</li>
+  <li>Performing a XenServer Hotfix Update</li>
+  <li>Performing a XenApp Application Update</li>
+  <li>Upgrading a Provisioned XenApp Server</li>
+  <li>Configuring Lab Manager</li>
+  <li>Configuring Citrix Receiver for Citrix Dazzle</li>
+</ul>

@@ -1,0 +1,29 @@
+<h2>Session 1</h2>
+  <h3>Section A: Understanding Conflict Mgmt.</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Objectives</li>
+    <li>Conflicts and Disagreements</li>
+    <li>MODI</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: The Nine Styles</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Firm Styles</li>
+    <li>Listen Up!</li>
+    <li>Neutral Styles</li>
+    <li>Listen Up!</li>
+    <li>Flexible Styles</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Steps for Managing Disagreement</h3>
+  <ul>
+    <li>Explore</li>
+    <li>Say What?</li>
+    <li>Plan and Prepare</li>
+    <li>Say What?</li>
+    <li>Implement</li>
+    <li>Summary</li>
+    <li>Assessment</li>
+  </ul>

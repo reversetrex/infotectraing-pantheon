@@ -1,0 +1,47 @@
+<p><strong>Module 1: Understanding Office 365 - This module explains how to Office 365 is designed to help you be more productive in your work day.</strong></p>
+<ul>
+  <li>What is Office 365?</li>
+  <li>What makes up Office 365?</li>
+  <li>How is Office 365 integrated?</li>
+</ul>
+<p><strong>Module 2: Accessing Office 365 Remotely - This module explains how to sign-in through the Office 365 web screens.</strong></p>
+<ul>
+  <li>Access the Office 365 web screens.</li>
+  <li>Review the general information.</li>
+</ul>
+<p><strong>Module 3: Working with Outlook Web Access (OWA) - This module explains how to work with e-Mail using Outlook Web Access (OWA).</strong></p>
+<ul>
+  <li>Review the User Interface.</li>
+  <li>Learn how to send and reply to mail.</li>
+  <li>Learn how to turn on out of office.</li>
+  <li>Learn how work with calendar.</li>
+</ul>
+<p><strong>Module 4: Using New Features in Outlook 2010 - This module explains how to utilize new features within Outlook 2010 when working with Office 365 Exchange.</strong></p>
+<ul>
+  <li>View Mail Tips. See when someone is out of the office when creating a message.</li>
+  <li>Ignore a message.</li>
+  <li>Find availability of rooms and people instantly.</li>
+</ul>
+<p><strong>Module 5: Using Lync to Collaborate with Others - This module explains how to utilize Lync to collaborate with others through instant message, call, video and sharing of information.</strong></p>
+<ul>
+  <li>Create a locate a contact.</li>
+  <li>Create customer contact   groups.</li>
+  <li>Communicate with a contact through instant message, call and video.</li>
+  <li>Share a program, desktop screen, PowerPoint presentation or document with contacts.</li>
+  <li>Create a group meeting instantly and proactively.</li>
+  <li>Record your meetings and locate them.</li>
+</ul>
+<p><strong>Module 6: Using SharePoint to locate and Share Information - This module explains how SharePoint can be a great source to locate and share information about yourself and the documents you work with.</strong></p>
+<ul>
+  <li>Navigate a Team Site.</li>
+  <li>Working with documents and view within Outlook.</li>
+  <li>Working with calendar and view within Outlook.</li>
+  <li>Collaborate on Documents.</li>
+  <li>Modify the My Site profile.</li>
+  <li>Search within a SharePoint Site.</li>
+</ul>
+<p><strong>Module 7: Using Web Apps with Documents - This module explains how you can view and modify a document in a web browser.</strong></p>
+<ul>
+  <li>View a document in a web browser</li>
+  <li>Modify a document in a web browser</li>
+</ul>

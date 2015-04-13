@@ -1,0 +1,11 @@
+<p>By the end of this course, you should be able to: </p>
+<ul>
+  <li>Describe how data flows through the network and protocol layers of clustered Data ONTAP</li>
+  <li>Define performance-related terms and describe basic methodologies</li>
+  <li>Identify the methods that can be used to monitor and analyze storage system performance</li>
+  <li>Explain how methods and tools can be used to collect performance data</li>
+  <li>Use command output to analyze system performance</li>
+  <li>Use command output from case studies to identify performance bottlenecks</li>
+  <li>Implement configuration for recommended practices for resiliency and performance</li>
+  <li>Locate resources and information that help you maximize system performance</li>
+</ul>

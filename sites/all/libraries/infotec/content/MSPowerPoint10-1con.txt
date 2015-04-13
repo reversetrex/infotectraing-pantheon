@@ -1,0 +1,73 @@
+<p><strong>Lesson 1: Getting Started with PowerPoint</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Identify the Elements of the User Interface <br />
+    <strong>Topic 1B: </strong>View a Presentation <br />
+    <strong>Topic 1C: </strong>Save a Presentation <br />
+    <strong>Topic 1D: </strong>Use Microsoft PowerPoint Help <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Creating a Basic Presentation</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Initiate a Presentation <br />
+    <strong>Topic 2B: </strong>Enter Text <br />
+    <strong>Topic 2C: </strong>Arrange Text <br />
+    <strong>Topic 2D: </strong>Format Text Placeholders <br />
+    <strong>Topic 2E: </strong>Add Slides to a Presentation <br />
+    <strong>Topic 2F: </strong>Arrange Slides <br />
+    <strong>Topic 2G: </strong>Work with Themes <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Formatting Text on Slides</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Apply Character Formats <br />
+    <strong>Topic 3B: </strong>Format Paragraphs <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Adding Graphical Objects to a Presentation</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Insert Images into a Presentation <br />
+    <strong>Topic 4B: </strong>Add Shapes <br />
+    <strong>Topic 4C: </strong>Add Visual Styles to Text in a Presentation <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Modifying Graphical Objects in Presentations</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Edit Graphical Objects on a Slide <br />
+    <strong>Topic 5B: </strong>Format Graphical Objects on a Slide <br />
+    <strong>Topic 5C: </strong>Group Graphical Objects on a Slide <br />
+    <strong>Topic 5D: </strong>Arrange Graphical Objects on a Slide <br />
+    <strong>Topic 5E: </strong>Apply an Animation Effect to a Graphical  Object <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Working with Tables</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 6A: </strong>Insert a Table in a Slide <br />
+    <strong>Topic 6B: </strong>Format Tables <br />
+    <strong>Topic 6C: </strong>Import Tables from Other Office Applications <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 7: Working with Charts</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 7A: </strong>Insert Charts in a Slide <br />
+    <strong>Topic 7B: </strong>Modify a Chart <br />
+    <strong>Topic 7C: </strong>Import Charts from Other Office Applications <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 8: Preparing to Deliver a Presentation</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 8A: </strong>Review the Content in a Presentation <br />
+    <strong>Topic 8B: </strong>Divide a Presentation into Sections <br />
+    <strong>Topic 8C: </strong>Add Transitions<br />
+    <strong>Topic 8D: </strong>Add Speaker Notes <br />
+    <strong>Topic 8E: </strong>Print a Presentation<br />
+    <strong>Topic 8F: </strong>Deliver a Presentation<br />
+  </p>
+</blockquote>

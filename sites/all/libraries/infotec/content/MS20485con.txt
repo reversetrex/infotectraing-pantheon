@@ -1,0 +1,113 @@
+<p><strong>Module 1: Windows Store App Essentials</strong></p>
+<blockquote>In this module, you will get an overview of the Windows 8.1 user experience and features, and will become acquainted with the Windows Store apps and the new user interface. You will review the process of developing apps by using XAML to create the user interface, and the WinRT API to interact with the platform.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Review Windows Store App Essentials</li>
+  <li>Review Windows Store App Essentials – Under the Hood</li>
+</ul>
+<p><strong>Module 2: Implementing Animations and Transitions</strong></p>
+<blockquote>In this module, you will learn how to add animations to your Windows Store apps, and how to take advantage of the functionality offered by the VisualStateManager class.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Using Animations</li>
+  <li>Working with Transitions and Transformations</li>
+</ul>
+<p><strong>Module 3: Implementing Globalization and Localization</strong></p>
+<blockquote>In this module you will learn how globalization prepares an app for a global audience. This involves changing culture-specific elements of the user interface, such as dates, times, currencies, languages, and more. Localization takes globalization further by supporting specific languages, cultures, and regions.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Working with Resource Files</li>
+  <li>Implementing Culture-Specific Formatting</li>
+</ul>
+<p><strong>Module 4: Branding and a Seamless UI</strong></p>
+<blockquote>This module explains how to brand your app and add a branded splash screen to improve user experience.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Branding</li>
+  <li>Customizing the Splash Screen</li>
+  <li>Branding Your App’s UI</li>
+</ul>
+<p><strong>Module 5: Advanced Data Scenarios in a Windows Store App</strong></p>
+<blockquote>In this module, you will learn about the new file storage capabilities of Windows 8.1.In addition, you will learn how to use the file storage capabilities in your apps. You will also learn how to design and implement more useful data storage through caching and how to set up file extensions, associations, and compression. These features will help you to provide a better experience to the user by increasing the responsiveness of your app, and lowering its resource usage.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Windows Store App Storage Options</li>
+  <li>Implementing Data Caching</li>
+  <li>Advanced File Functionality</li>
+</ul>
+<p><strong>Module 6: Creating Reusable Controls and Components</strong></p>
+<blockquote>In this module, you will learn how the Windows Runtime (WinRT) contains a rich set of XAML controls, such as GridView, ListView, FlipView, and AppBar. In many cases, you can use these controls to create fully functional apps. However, if the built-in controls do not contain the functionality that you need, you can create your own custom controls. You will be able to reuse these custom controls in other apps, like any other built-in control.<br /><br />
+You can also extend the WinRT itself to expose existing or new libraries to Windows Store apps. You can create custom WinRT components, which can be used from any supported programming language (C#, VB.NET, C++, or JavaScript).</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Working with Custom and Templated Controls</li>
+  <li>Creating and Using WinRT Components</li>
+</ul>
+<p><strong>Module 7: Implementing Advanced Contract Scenarios</strong></p>
+<blockquote>This module describes how to use two new contracts:
+<ul>
+	<li>The Play To contract enables media sharing with other devices, such as television sets.</li>
+    <li>The Print contract enables interaction with printing devices.</li>
+</ul>
+Windows Store apps can integrate with the contacts and calendar appointments managed by the operating system. You can create new contacts and calendar appointments, update and delete existing ones.<br /><br />
+Lastly, you will learn how to take advantage of several convenient Windows 8.1 application programming interface (APIs) to provide exciting, user friendly features in your apps. Windows RT has native APIs for working with Portable Document Format (PDF) files, creating screenshots of your app, and generating speech from text through speech synthesis.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>The Play To Contract</li>
+  <li>The Print Contract</li>
+  <li>Integrating Contacts and Calendars</li>
+  <li>Support PDF files and screenshots</li>
+  <li>Integrating Speech Synthesis</li>
+</ul>
+<p><strong>Module 8: The Windows Push Notification Service</strong></p>
+<blockquote>This module explains Windows Push Notifications.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to The Push Notification Service</li>
+  <li>Communicating with the WNS</li>
+</ul>
+<p><strong>Module 9: Capturing Media</strong></p>
+<blockquote>In this module, you will learn how to include media capturing functionality in your app. Learning to leverage the Windows Runtime (WinRT) media capturing APIs can help you create an exciting and successful app.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Using CameraCaptureUI to Capture Pictures, Videos or Audio</li>
+  <li>Using MediaCapture to Capture Pictures, Video, or Audio</li>
+</ul>
+<p><strong>Module 10: Background Tasks</strong></p>
+<blockquote>This module explains how to create, register, and use background tasks for Windows Store apps.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Creating Background Tasks</li>
+  <li>Using Background Tasks in a Windows Store App</li>
+</ul>
+<p><strong>Module 11: Working with Sensors and Devices</strong></p>
+<blockquote>This module describes some of the sensors and devices available to a Windows Store app and explains how to access them from your Windows Store app.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Working with Sensors</li>
+  <li>Working with Devices</li>
+</ul>
+<p><strong>Module 12: Generating Revenue with Your Windows Store App</strong></p>
+<blockquote>This module will introduce you to the options you have, as a developer, to make money with your Windows Store apps.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Implementing Trial Functionality in a Windows Store App</li>
+  <li>Implementing In-App Purchases</li>
+  <li>Advertising in a Windows Store App</li>
+</ul>
+<p><strong>Module 13: Securing Windows Store App Data</strong></p>
+<blockquote>In this module, you will learn how to create an application that is secure at the client and server side, and provides protection for your data. You will also learn how to implement a security protocol that lets you communicate with services such as Windows Azure and Microsoft SkyDrive.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Managing Windows Authentication</li>
+  <li>Managing Web Authentication</li>
+  <li>Encryption in Windows Store Apps</li>
+</ul>
+<p><strong>Module 14: Tracing and Profiling Windows Store Apps</strong></p>
+<blockquote>In this module, you will learn the techniques that help you to analyze your code for potential issues, create run time logs efficiently, and diagnose various types of performance problems in your Windows Store app.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Analyzing a Windows Store App</li>
+  <li>Tracing a Windows Store App</li>
+  <li>Profiling a Windows Store App</li>
+</ul>

@@ -1,0 +1,7 @@
+<p>To learn to use pivot tables in Excel, you will: </p>
+<ol>
+  <li>Create, add fields to, and delete fields from a Pivot table.</li>
+  <li>Change and reorganize pivot table data, alter Pivot table field information, and refresh pivot table data. </li>
+  <li>Group pivot table data.</li>
+  <li>Create Pivot Tables based on other Pivot Tables and Charts.</li>
+</ol>

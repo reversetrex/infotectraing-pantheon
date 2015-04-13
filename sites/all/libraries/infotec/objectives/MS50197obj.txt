@@ -1,0 +1,13 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Create a simple Silverlight 2.0 web application based on the Silverlight project template.</li>
+  <li>Understand Windows Presentation Foundation and how web browsers can display Silverlight 2.0 applications.</li>
+  <li>Create comprehensive user interfaces using XAML.</li>
+  <li>Utilize built in UI Automation mechanisms to provide accessibility options.</li>
+  <li>Understand resources and how they can provide styling and templating to the interface.</li>
+  <li>Use animation to provide an interactive and aesthetically pleasing user interface.</li>
+  <li>Develop a deep understanding of the Silverlight 2.0 framework and programming libraries.</li>
+  <li>Build dynamic data driven applications using the Silverlight service architecture.</li>
+  <li>Prepare and package Silverlight 2.0 applications so that they may be successfully deployed to the client.</li>
+</ul>

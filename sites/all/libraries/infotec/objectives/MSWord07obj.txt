@@ -1,0 +1,20 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> explore the various components of the Microsoft Office Word 2007 environment. </li>
+  <li> create a document. </li>
+  <li> edit documents by locating and modifying text. </li>
+  <li> format text. </li>
+  <li> format paragraphs. </li>
+  <li> add tables to a document. </li>
+  <li> add graphic elements to a document. </li>
+  <li> proof documents to make them more accurate. </li>
+  <li> control a document's page setup and its overall appearance<strong></strong></li>
+  <li> manage lists. </li>
+  <li> customize tables and charts. </li>
+  <li> present a professional appearance to your documents by customizing formatting. </li>
+  <li> customize styles for document elements. </li>
+  <li> modify pictures in a document. create customized graphic elements. </li>
+  <li> structure content using Quick Parts. </li>
+  <li> control text flow. automate common tasks. </li>
+  <li> automate document creation. perform mail merges<strong></strong></li>
+</ul>

@@ -1,0 +1,107 @@
+<p><strong> Unit 1: Introduction to Designing Business Solutions <br>
+</strong>This Unit describes the MSF Process Model and the key activities in designing an application model. It also introduces the case study that will be used throughout the course.</p>
+<p> Units </p>
+<ul>
+  <li> Overview of Microsoft Solutions Framework </li>
+  <li>Phases in the MSF Process Model </li>
+  <li>Introducing the Case Study&mdash;Adventure Works Cycles Application </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the MSF Process Model and the MSF Team Model. </li>
+  <li>Describe the MSF disciplines: risk management, readiness management, and project management. </li>
+  <li>Describe the key activities of each phase in the MSF Process Model and the deliverables associated with each phase. </li>
+  <li>Describe the Adventure Works Cycles case study that will be used throughout this course.</li>
+</ul>
+<p><strong> Unit 2: Gathering and Analyzing Information <br>
+</strong>This Unit describes the various types of information that you need to gather, sources of information, and some techniques for gathering information.</p>
+<p> Units </p>
+<ul>
+  <li> Using Modeling Notations </li>
+  <li>Creating Use Cases and Usage Scenarios </li>
+  <li>Gathering Information </li>
+  <li>Analyzing Information </li>
+  <li>Create an information gathering strategy. </li>
+  <li>Analyze and refine requirements by using use cases and usage scenarios. </li>
+  <li>Create internal project documents. </li>
+</ul>
+<p><strong> Unit 3: Envisioning the Solution <br>
+</strong>This Unit describes the responsibilities of team members during this phase, how to define the vision of a project, and how to analyze risks associated with a project.</p>
+<p> Units </p>
+<ul>
+  <li> The Envisioning Phase </li>
+  <li>Creating a Vision/Scope Document </li>
+  <li>Creating the Project Structure Document </li>
+  <li>Analyzing Risks </li>
+</ul>
+<p><strong> Unit 4: Creating the Conceptual Design <br>
+</strong>This Unit explains the purpose of the planning phase and the three design processes that occur during the planning phase: conceptual, logical, and physical design. It will also explain the purpose and benefits of the functional specification and the conceptual design process.</p>
+<p> Units </p>
+<ul>
+  <li> An Introduction to the Planning Phase </li>
+  <li>An Overview of the Functional Specification </li>
+  <li>An Overview of the Conceptual Design Process </li>
+  <li>Building the Conceptual Design </li>
+  <li>Optimizing the Conceptual Design </li>
+</ul>
+<p><strong> Unit 5: Creating the Logical Design <br>
+</strong>This Unit describes how to create the logical design for a business solution and how to use tools and techniques for documenting the output. It also covers how to optimize the logical design.</p>
+<p> Units </p>
+<ul>
+  <li> An Overview of Logical Design </li>
+  <li>Creating a Logical Design </li>
+  <li>Documenting Logical Design Output </li>
+  <li>Optimizing Logical Design </li>
+</ul>
+<p><strong> Unit 6: Creating the Physical Design <br>
+</strong>This Unit explains the purpose of the physical design, and the steps involved in completing the physical design.</p>
+<p> Units </p>
+<ul>
+  <li> An Overview of Physical Design </li>
+  <li>Physical Design Analysis </li>
+  <li>Physical Design Rationalization </li>
+  <li>Physical Design Implementation </li>
+</ul>
+<p><strong> Unit 7: Designing the Presentation Layer <br>
+</strong>This Unit defines and explains how to design the two parts of the presentation layer.</p>
+<p> Units </p>
+<ul>
+  <li> Basics of User Interface Design </li>
+  <li>Designing the User Interface </li>
+  <li>Designing User Process Components </li>
+</ul>
+<p><strong> Unit 8: Designing the Data Layer <br>
+</strong>This Unit explains how to design the data layer for a solution, how to optimize data access, and how to validate data.</p>
+<p> Units </p>
+<ul>
+  <li> Designing the Data Store </li>
+  <li>Optimizing Data Access </li>
+  <li>Implementing Data Validation </li>
+</ul>
+<p><strong> Unit 9: Designing Security Specifications <br>
+</strong>This Unit explains how to design security for an application.</p>
+<p> Units </p>
+<ul>
+  <li> Overview of Security in Application Development </li>
+  <li>Planning for Application Security </li>
+  <li>Using the .NET Framework Security Features </li>
+  <li>Designing Authorization, Authentication, and Auditing Strategies </li>
+</ul>
+<p><strong> Unit 10: Completing the Planning Phase <br>
+</strong>This Unit explains the tasks and plans required to complete the planning phase.</p>
+<p> Units </p>
+<ul>
+  <li> Incorporating Design Considerations </li>
+  <li>Planning for Administrative Features </li>
+  <li>Planning for Future Phases </li>
+  <li>Creating the Technical Specifications </li>
+</ul>
+<p><strong> Unit 11: Stabilizing and Deploying the Solution <br>
+</strong>This Unit explains how to stabilize and deploy a solution.</p>
+<p> Units </p>
+<ul>
+  <li> The MSF Stabilizing Phase </li>
+  <li>Testing and Piloting for Stabilization </li>
+  <li>The MSF Deploying Phase </li>
+  <li>Deploying to a Production Environment </li>
+</ul>

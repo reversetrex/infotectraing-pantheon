@@ -1,0 +1,15 @@
+<ul>
+  <li> Identify the systems administration and systems engineer tasks in Windows Server 2003 that are new or different from the tasks performed in Windows 2000. </li>
+  <li> Manage user, group, and computer accounts in a Windows Server 2003 Active Directory-based environment. </li>
+  <li> Manage access to shared resources. </li>
+  <li> Manage and maintain the server environment in a Windows Server 2003 environment. </li>
+  <li> Manage the application server environment in a Windows Server 2003 environment. </li>
+  <li> Manage disaster recovery in a Windows Server 2003 environment. </li>
+  <li> Use Software Update Services to maintain software in a Windows Server 2003 environment. </li>
+  <li> Plan, implement, optimize, and troubleshoot name resolution in a Windows Server 2003 environment. </li>
+  <li> Plan a public key infrastructure (PKI) and an Internet Protocol Security (IPSec) deployment in a Windows Server 2003 environment. </li>
+  <li> Plan and troubleshoot local and remote network access in a Windows Server 2003 environment. </li>
+  <li> Implement Active Directory in a Windows Server 2003 environment. </li>
+  <li> Plan the placement of domain controllers, global catalog servers, and operations masters in a Windows Server 2003 environment. </li>
+  <li> Plan, implement, manage, and troubleshoot Group Policy in a Windows Server 2003 environment. </li>
+</ul>

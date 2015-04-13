@@ -1,0 +1,27 @@
+<strong>Introduction to the Cisco IP Phone</strong>
+<ol>
+  <li>Telephone  Features</li>
+  <li>Using Handset, Headset, and Speakerphone</li>
+  <li>Volume Control</li>
+</ol>
+<strong>Placing calls  and other basic phone tasks</strong>
+<ol>
+  <li>Making a call</li>
+  <li>Answering a  call</li>
+  <li>Ending a call</li>
+  <li>Muting a call</li>
+  <li>Putting on hold</li>
+  <li>Transferring a  call</li>
+  <li>Redialing a  number</li>
+  <li>Call forwarding (with voice mail)</li>
+  <li>Conference  calls </li>
+</ol>
+<strong>Using the  features buttons</strong>
+<ol>
+  <li>Using the LCD  screen</li>
+  <li>Using the  Message Buttons</li>
+  <li>Setting up  Voice Mail</li>
+  <li>Accessing Voice  mail</li>
+  <li>Using the  Settings button</li>
+  <li>Using the  Directories button</li>
+</ol>

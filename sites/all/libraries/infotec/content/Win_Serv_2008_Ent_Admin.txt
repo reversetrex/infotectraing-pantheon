@@ -1,0 +1,347 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Prerequisites</li>
+    <li>Exam Overview</li>
+    <li>Enterprise Implementations</li>
+    <li>Exam Prep</li>
+    <li>Certification Tracks</li>
+  </ul>
+  <h3>Section B: Planning IP Addresses</h3>
+  <ul>
+    <li>Global Planning</li>
+    <li>Local Planning</li>
+    <li>Segment Planning</li>
+    <li>Layered Networking</li>
+    <li>IPv4 Subnetting</li>
+    <li>Understanding Subnet Masks</li>
+    <li>IPv4 Security</li>
+  </ul>
+  <h3>Section C: IP Versions</h3>
+  <ul>
+    <li>IPv4 Features</li>
+    <li>IPv6 Features</li>
+    <li>Global Unicast Addresses</li>
+    <li>Link-Local Addresses</li>
+    <li>Unique Unicast Addresses</li>
+    <li>Special IPv6 Addresses</li>
+    <li>Understanding DHCP</li>
+  </ul>
+  <h3>Section D: DNS Name Resolution</h3>
+  <ul>
+    <li>DNS Overview</li>
+    <li>DNS Components</li>
+    <li>Recursive Queries</li>
+    <li>Iterative Queries</li>
+    <li>DNS Planning</li>
+    <li>DNS Delegation</li>
+  </ul>
+  <h3>Section E: WINS</h3>
+  <ul>
+    <li>WINS Overview</li>
+    <li>Components</li>
+    <li>Registration</li>
+    <li>Understanding WINS</li>
+    <li>Burst Handling</li>
+    <li>Name Resolution</li>
+    <li>NetBIOS Node Types</li>
+    <li>Client Records</li>
+    <li>Replication Types</li>
+  </ul>
+  <h3>Section F: Active Directory</h3>
+  <ul>
+    <li>Understanding AD</li>
+    <li>Requirements</li>
+    <li>Forests, Trees, and Domains</li>
+    <li>Understanding Forests</li>
+    <li>Understanding Trees</li>
+    <li>Understanding Domains</li>
+    <li>Functional Levels</li>
+    <li>Domain Controllers</li>
+  </ul>
+  <h3>Section G: Domain Controller Roles</h3>
+  <ul>
+    <li>Operations Masters</li>
+    <li>OM Scopes</li>
+    <li>PDC Emulator</li>
+    <li>RID Pool</li>
+    <li>Infrastructure Master</li>
+    <li>Domain Naming Master</li>
+    <li>Schema Master</li>
+    <li>Global Catalogs</li>
+    <li>AD Design Tips</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: AD Replication and Sites</h3>
+  <ul>
+    <li>AD Replication Overview</li>
+    <li>AD Sites</li>
+    <li>Sites and Site Links</li>
+    <li>Intrasite Replication</li>
+    <li>Inter-site Replication</li>
+    <li>Replication Type Comparison</li>
+    <li>Inter-Site Topology Generator</li>
+    <li>Replication Conflicts</li>
+  </ul>
+  <h3>Section B: AD Server Placement</h3>
+  <ul>
+    <li>Planning</li>
+    <li>Understanding RODC</li>
+    <li>RODC Limitations</li>
+    <li>RODC Features</li>
+    <li>Password Replication</li>
+    <li>Installing RODC</li>
+  </ul>
+  <h3>Section C: Planning for Administration</h3>
+  <ul>
+    <li>Enterprise Admin Responsibilities</li>
+    <li>Server and Desktop Admins</li>
+    <li>ITIL and MOF</li>
+    <li>Service Level Agreements</li>
+    <li>Change Management</li>
+  </ul>
+  <h3>Section D: Group Policy Architecture</h3>
+  <ul>
+    <li>Group Policies Defined</li>
+    <li>Group Policy Examples</li>
+    <li>Group Policy Applications</li>
+    <li>Group Policy Exceptions</li>
+    <li>Group Policy Components</li>
+    <li>Procession Order</li>
+    <li>Multiple Local Group Policies</li>
+    <li>Filtering GPO Procession</li>
+  </ul>
+  <h3>Section E: GPO Applications</h3>
+  <ul>
+    <li>ADM and ADMX Files</li>
+    <li>Security Policies</li>
+    <li>Security Templates</li>
+    <li>Printer Location Policies</li>
+    <li>Device Installation Policies</li>
+    <li>GPO Planning</li>
+  </ul>
+  <h3>Section F: Resolution Isolation</h3>
+  <ul>
+    <li>Understanding Isolation</li>
+    <li>Server Isolation</li>
+    <li>Isolation Example</li>
+    <li>Domain Isolation</li>
+    <li>Isolation Methods</li>
+  </ul>
+  <h3>Section G: Remote Access</h3>
+  <ul>
+    <li>Remote Access Roles</li>
+    <li>Roles Related to Remote Access</li>
+    <li>RRAS Authentication</li>
+    <li>VPN Connections</li>
+    <li>Tunneling</li>
+    <li>VPN Servers</li>
+    <li>Dial-Up</li>
+  </ul>
+  <h3>Section H: Network Access Policies</h3>
+  <ul>
+    <li>Network Access Protection (NAP)</li>
+    <li>NAP Benefits</li>
+    <li>NAP Enforcement Methods</li>
+    <li>NAP Platform Architecture</li>
+    <li>NAP Architecture Interactions</li>
+    <li>NAP Infrastructure Functionality</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Perimeter Networks</h3>
+  <ul>
+    <li>Internet Threats</li>
+    <li>Internet Security</li>
+    <li>Internal Network</li>
+    <li>NAT Security</li>
+    <li>Planning Perimeter Networks</li>
+    <li>Perimeter Services</li>
+  </ul>
+  <h3>Section B: Migrating Domains and Forests</h3>
+  <ul>
+    <li>New Forests</li>
+    <li>Backward Compatibility</li>
+    <li>Object Migration</li>
+    <li>Domain Preparation</li>
+    <li>Transitioning to Server 2008</li>
+    <li>Cross-Forest</li>
+  </ul>
+  <h3>Section C: Deploying the Branch Office</h3>
+  <ul>
+    <li>Branch Offices</li>
+    <li>Connections</li>
+    <li>Remote Administration</li>
+    <li>Local Services</li>
+    <li>Security Concerns</li>
+  </ul>
+  <h3>Section D: Public Key Infrastructure</h3>
+  <ul>
+    <li>PKI Overview</li>
+    <li>Defense-in-Depth</li>
+    <li>EFS and PKI</li>
+    <li>Encryption Types</li>
+    <li>New Features</li>
+    <li>Usage Scenarios</li>
+  </ul>
+  <h3>Section E: Certificate Services</h3>
+  <ul>
+    <li>Components of PKI</li>
+    <li>Certificate Authority Types</li>
+    <li>Digital Certificates</li>
+    <li>Certificate Types and Templates</li>
+    <li>Certificate Snap-In</li>
+    <li>Secure Sockets Layer</li>
+    <li>IPSec and S/MIME</li>
+  </ul>
+  <h3>Section F: Interoperability Planning</h3>
+  <ul>
+    <li>Interoperability Needs</li>
+    <li>Understanding EAP</li>
+    <li>Application Authentication</li>
+    <li>UNIX Compatibility</li>
+    <li>Mac OS Compatibility</li>
+    <li>Other Platforms</li>
+    <li>Interoperability Tools</li>
+  </ul>
+  <h3>Section G: Application Deployment</h3>
+  <ul>
+    <li>Deployment Methods</li>
+    <li>MSI Overview</li>
+    <li>Creating MSI Packages</li>
+    <li>Application Shares</li>
+    <li>Distributing Applications</li>
+    <li>Package Properties</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Virtualization for Applications</h3>
+  <ul>
+    <li>SoftGrid</li>
+    <li>Benefits</li>
+    <li>Components</li>
+    <li>Virtualization Diagram</li>
+    <li>Functionality</li>
+  </ul>
+  <h3>Section B: Web-Based Applications</h3>
+  <ul>
+    <li>IIS 6.0</li>
+    <li>IIS 7.0</li>
+    <li>IIS Deployment</li>
+    <li>IIS Manager</li>
+    <li>AppCmd.exe</li>
+    <li>Install IIS</li>
+  </ul>
+  <h3>Section C: Remote Connections</h3>
+  <ul>
+    <li>Remote Desktop</li>
+    <li>Remote Desktop Benefits</li>
+    <li>Configuring Remote Desktop</li>
+    <li>Connecting Remote Desktop</li>
+    <li>Terminal Services Overview</li>
+    <li>Components</li>
+  </ul>
+  <h3>Section D: Licensing Terminal Services</h3>
+  <ul>
+    <li>Deploying Terminal Services</li>
+    <li>Installing TS</li>
+    <li>TS Profile Properties</li>
+    <li>Connecting to TS</li>
+  </ul>
+  <h3>Section E: Server Virtualization</h3>
+  <ul>
+    <li>Server Virtualization Overview</li>
+    <li>Hypervisor</li>
+    <li>Virtualization Benefits</li>
+    <li>Scenarios</li>
+    <li>Hyper-V</li>
+    <li>Architecture</li>
+  </ul>
+  <h3>Section F: Planning Virtualization</h3>
+  <ul>
+    <li>System Requirements</li>
+    <li>Hyper-V Features</li>
+    <li>Planning Virtualization Implementation</li>
+    <li>Using Hyper-V</li>
+    <li>Creating Snapshots</li>
+    <li>Reverting Snapshots</li>
+  </ul>
+  <h3>Section G:  Troubleshooting Virtualization</h3>
+  <ul>
+    <li>Performance Problems</li>
+    <li>Display and NIC Problems</li>
+    <li>Troubleshooting Tips</li>
+    <li>Hyper-V Settings</li>
+    <li>Virtual Machine Settings</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Windows System Update Services</h3>
+  <ul>
+    <li>Update Services Overview</li>
+    <li>WSUS Process</li>
+    <li>WSUS Requirements</li>
+    <li>WSUS and Group Policies</li>
+    <li>Configuring WSUS</li>
+  </ul>
+  <h3>Section B: Users and Groups</h3>
+  <ul>
+    <li>User Names</li>
+    <li>Passwords</li>
+    <li>Distribution Groups</li>
+    <li>Group Scopes</li>
+    <li>Default Groups</li>
+    <li>AD Special Identities</li>
+    <li>Automation</li>
+    <li>User Properties</li>
+    <li>User Profiles</li>
+    <li>Working with Groups</li>
+  </ul>
+  <h3>Section C: Data Access</h3>
+  <ul>
+    <li>Authentication</li>
+    <li>Share Permissions</li>
+    <li>NTFS Permissions</li>
+    <li>Permission Storage</li>
+    <li>Using ACL Editor</li>
+    <li>Command Line Permissions</li>
+    <li>Security Templates</li>
+  </ul>
+  <h3>Section D: Data Redundancy</h3>
+  <ul>
+    <li>Distributed File System</li>
+    <li>DFS Operations</li>
+    <li>DFS Scenarios</li>
+    <li>DFS Namespaces</li>
+    <li>DFS Server Requirements</li>
+    <li>Namespace Deployment</li>
+  </ul>
+  <h3>Section E: Collaboration</h3>
+  <ul>
+    <li>Collaboration Solutions</li>
+    <li>File Sharing</li>
+    <li>Strategic Use</li>
+    <li>Resource Manager</li>
+    <li>Installing File Services</li>
+    <li>File Screening</li>
+    <li>Configuring File Screening</li>
+    <li>Test File Screening</li>
+  </ul>
+  <h3>Section F: Data Recovery</h3>
+  <ul>
+    <li>Backup Tools</li>
+    <li>Backup Planning</li>
+    <li>Backup Permissions</li>
+    <li>System State</li>
+    <li>Backup Types</li>
+    <li>Backup Scheduling</li>
+    <li>Recovering Data</li>
+    <li>Shadow Copies</li>
+    <li>Scheduling Shadow Copies</li>
+  </ul>
+  <h3>Section G: High Availability</h3>
+  <ul>
+    <li>Understanding Availability</li>
+    <li>Clustering</li>
+    <li>RAID</li>
+    <li>Multiple Servers</li>
+    <li>Load Balancing</li>
+    <li>Planning Downtime</li>
+  </ul>

@@ -1,0 +1,63 @@
+<p><strong>Lesson 1: Tracking Work Activities Using the Journal</strong></p>
+
+<ul>
+	<li>Record a Journal Entry Automatically</li>
+	<li>Manually Record a Journal Entry</li> 
+	<li>Modify a Journal Entry</li>
+</ul>
+
+<p><strong>Lesson 2: Setting Calendar Options</strong></p>
+
+<ul>
+	<li>Set Work Days and Times</li> 
+	<li>Display Other Time Zones</li> 
+	<li>Set Free/Busy Options</li>
+</ul>
+
+<p><strong>Lesson 3: Setting Message Options</strong></p>
+
+<ul>
+	<li>Modify Message Settings</li> 
+	<li>Modify Delivery Options</li> 
+	<li>Modify Message Formats</li>
+	<li>Notify Others that You will be Out of the Office</li> 
+	<li>Create and Modify a Distribution List</li> 
+	<li>Insert a Hyperlink</li>
+</ul>
+
+<p><strong>Lesson 4: Sharing Folder Information</strong></p>
+
+<ul>
+	<li>Specify Folder Permissions</li>
+	<li>Access Another User's Folder</li> 
+	<li>Delegate Access To Folders</li>
+</ul>
+
+<p><strong>Lesson 5: Managing Tasks</strong></p>
+
+<ul>
+	<li>Assign a Task</li>
+	<li>Reply to a Task Request</li>
+	<li>Send a Task Update</li>
+	<li>Track Assigned Tasks</li>
+</ul>
+
+<p><strong>Lesson 6: Customizing Outlook</strong></p>
+
+<ul>
+	<li>Customize the Toolbar</li>
+	<li>Create a New Toolbar</li>
+	<li>Customize the Menu</li>
+	<li>Create a Folder Home Page</li>
+</ul>
+
+<p><strong>Lesson 7: Locating Outlook Items</strong></p>
+
+<ul>
+<li>Sort Messages Using Multiple Criteria</li>
+<li>Find Messages</li>
+<li>Find Messages Using Multiple Criteria</li>
+<li>Filter Messages</li>
+<li>Organize Messages</li>
+<li>Manage Junk Email</li>
+</ul>

@@ -1,0 +1,312 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Benefits</li>
+    <li>Editions</li>
+    <li>Versions</li>
+  </ul>
+  <h3>Section B: Designing Reports</h3>
+  <ul>
+    <li>Defining the Purpose</li>
+    <li>Planning the Layout</li>
+    <li>Examples of Reports</li>
+    <li>Choosing Data</li>
+    <li>Laying Out the Report</li>
+    <li>The Workbench</li>
+  </ul>
+  <h3>Section C: Data Connections</h3>
+  <ul>
+    <li>Database Expert</li>
+    <li>Data Source Options</li>
+    <li>Access/Excel Connections</li>
+    <li>ODBC Connections</li>
+    <li>Selecting Database Objects</li>
+    <li>Database Object Types</li>
+  </ul>
+  <h3>Section D: Relational Database Review</h3>
+  <ul>
+    <li>Simple Databases</li>
+    <li>Relational Database</li>
+    <li>Fields and Records</li>
+    <li>Table Relationships</li>
+    <li>Data Types</li>
+    <li>Xtreme Sample Database</li>
+  </ul>
+  <h3>Section E: Interface Overview</h3>
+  <ul>
+    <li>Toolbars</li>
+    <li>Start Page and Report Tabs</li>
+    <li>Design/Preview Views</li>
+    <li>Field Explorer</li>
+    <li>Report/Repository Explorers</li>
+    <li>Sample Reports</li>
+  </ul>
+  <h3>Section F: Creating Basic Reports</h3>
+  <ul>
+    <li>Blank Report</li>
+    <li>Placing Fields on Reports</li>
+    <li>Previewing Field Data</li>
+    <li>Selecting/Sizing Fields</li>
+    <li>Aligning, Moving, and Using Guides</li>
+    <li>Customizing Layout Options</li>
+    <li>Creating Report Titles</li>
+    <li>Finishing Touches</li>
+  </ul>
+  <h3>Section G: Previewing, Saving, and Deleting</h3>
+  <ul>
+    <li>Saving Reports</li>
+    <li>Previewing Reports</li>
+    <li>Deleting Fields</li>
+  </ul>
+  <h3>Section H: Working with Text Objects</h3>
+  <ul>
+    <li>What is Concatenation?</li>
+    <li>Adding Text Fields</li>
+    <li>Concatenating Text and Data</li>
+    <li>Editing Concatenations</li>
+    <li>Creating a Form Letter</li>
+    <li>Formatting Fields</li>
+    <li>Special Fields</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Basic Formatting</h3>
+  <ul>
+    <li>Template Expert</li>
+    <li>Page Margins and Orientation</li>
+    <li>Font and Alignment</li>
+    <li>Formatting Multiple Selections</li>
+    <li>Format Painter</li>
+    <li>Formatting Editor Options</li>
+    <li>Customizing Formatting Editor</li>
+    <li>Preview Formatting</li>
+  </ul>
+  <h3>Section B: Adding Graphical Elements</h3>
+  <ul>
+    <li>Inserting Lines</li>
+    <li>Border Styles and Colors</li>
+    <li>Drawing/Formatting Boxes</li>
+    <li>Inserting Pictures</li>
+  </ul>
+  <h3>Section C: Filtering Records</h3>
+  <ul>
+    <li>Case Sensitivity</li>
+    <li>Select Expert</li>
+    <li>Select Statements</li>
+    <li>And Statements</li>
+    <li>Or Statements</li>
+    <li>Editing Formulas</li>
+    <li>Formula Workshop</li>
+    <li>Help Menu Options</li>
+  </ul>
+  <h3>Section D: Grouping and Sorting</h3>
+  <ul>
+    <li>Insert Group</li>
+    <li>Insert Group Options</li>
+    <li>Keeping Groups Together</li>
+    <li>Group Tree</li>
+    <li>Reordering Groups</li>
+    <li>Grouping Multiple Fields</li>
+    <li>Changing/Deleting Fields</li>
+    <li>Record Sort Expert</li>
+  </ul>
+  <h3>Section E: Advanced Grouping Options</h3>
+  <ul>
+    <li>Inserting Summaries</li>
+    <li>Adding Labels</li>
+    <li>Formatting Calculations</li>
+    <li>Modifying Labels and Calculations</li>
+    <li>Creating a Grand Total</li>
+    <li>Group Sort Expert</li>
+    <li>Grouping on Data Fields</li>
+  </ul>
+  <h3>Section F: Conditional Formatting</h3>
+  <ul>
+    <li>Conditional Highlighting</li>
+    <li>Reordering Highlight Conditions</li>
+    <li>Removing Highlight Conditions</li>
+    <li>Conditional Formatting Formulas</li>
+    <li>Formatting Groups</li>
+  </ul>
+  <h3>Section G: Running Totals</h3>
+  <ul>
+    <li>Running Total Fields</li>
+    <li>Running Totals by Group</li>
+    <li>Running Total Counts</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Formula Overview</h3>
+  <ul>
+    <li>Formula Uses</li>
+    <li>Function Basics</li>
+    <li>Syntax Rules</li>
+    <li>Formula Workshop</li>
+    <li>Formula Editor</li>
+  </ul>
+  <h3>Section B: Creating Formulas</h3>
+  <ul>
+    <li>New Formula Field/Workshop</li>
+    <li>Multiplying Fields</li>
+    <li>Calculating Tax</li>
+    <li>Adding Fields</li>
+    <li>Spot Checking Calculations</li>
+  </ul>
+  <h3>Section C: Manipulating Data with Formulas</h3>
+  <ul>
+    <li>Date Added</li>
+    <li>Date Add Arguments</li>
+    <li>Concatenated Formulas</li>
+    <li>Converting Dates to Text</li>
+    <li>Boolean Fields</li>
+    <li>Nested If-Then-Else Statements</li>
+  </ul>
+  <h3>Section D: Basic Parameters</h3>
+  <ul>
+    <li>Parameter Uses</li>
+    <li>Considerations</li>
+    <li>Characteristics and Options</li>
+    <li>Value Choices</li>
+    <li>Static List Parameters</li>
+    <li>Dynamic List Parameters</li>
+    <li>Exporting Data</li>
+    <li>Importing Data</li>
+  </ul>
+  <h3>Section E: Advanced Parameter Applications</h3>
+  <ul>
+    <li>Creating Dynamic Fields</li>
+    <li>Range of Dates</li>
+    <li>Range of Values</li>
+    <li>Minimums and Maximums</li>
+    <li>Default Values/Edit Masks</li>
+    <li>Selection Formulas</li>
+    <li>Sort Parameters</li>
+  </ul>
+  <h3>Section F: Formula Timing</h3>
+  <ul>
+    <li>Passes</li>
+    <li>Pass Phase 1</li>
+    <li>Pass Phase 2</li>
+    <li>Specifying When Formulas Run</li>
+    <li>Variables</li>
+    <li>Declaring Variables</li>
+    <li>Setting Variables</li>
+    <li>Using Variables</li>
+  </ul>
+  <h3>Section G: Controlling Formula Runtime</h3>
+  <ul>
+    <li>Sample Report</li>
+    <li>Manual Running Totals</li>
+    <li>Resetting Running Totals</li>
+    <li>Displaying Variable Values</li>
+    <li>Suppressing Details</li>
+    <li>Refreshing the Report</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Drill-Down Summary Reports</h3>
+  <ul>
+    <li>Starting a New Report</li>
+    <li>Grouping Using Formulas</li>
+    <li>Advanced Grouping Formulas</li>
+    <li>Summarizing Groups</li>
+    <li>Hiding Sections</li>
+    <li>Viewing Hidden Sections</li>
+  </ul>
+  <h3>Section B: Charts</h3>
+  <ul>
+    <li>Standard Report Wizard</li>
+    <li>Manipulating Charts</li>
+    <li>Chart Options/Types</li>
+    <li>Data, Axes, and Options</li>
+    <li>Color Highlights and Text</li>
+    <li>Format Editor and Options</li>
+    <li>Arrange and Drill Down</li>
+    <li>Saving as Templates</li>
+  </ul>
+  <h3>Section C: Maps</h3>
+  <ul>
+    <li>Placement, Layout, and Data</li>
+    <li>Types</li>
+    <li>Titles and Legends</li>
+    <li>Preview, Pan, and Zoom</li>
+    <li>Map Context Menu</li>
+    <li>Layer Control</li>
+    <li>Zoom and Drill</li>
+  </ul>
+  <h3>Section D: Advanced Database Concepts</h3>
+  <ul>
+    <li>Using SQL</li>
+    <li>Entering SQL Queries</li>
+    <li>Linking Tables</li>
+    <li>Joins</li>
+    <li>Verifying Database Connections</li>
+    <li>Checking Dependencies</li>
+    <li>Performance Information</li>
+  </ul>
+  <h3>Section E: Subreports</h3>
+  <ul>
+    <li>Subreport Uses</li>
+    <li>Linked vs. Unlinked</li>
+    <li>How Linked Subreports Work</li>
+    <li>Creating an Unlinked Subreport</li>
+    <li>Creating a Linked Subreport</li>
+    <li>Subreport Context Menu</li>
+    <li>On-demand Subreports</li>
+  </ul>
+  <h3>Section F: Cross-Tab Reports</h3>
+  <ul>
+    <li>Elements and Features</li>
+    <li>Cross-Tab Report Creation Wizard</li>
+    <li>Rows and Columns</li>
+    <li>Summary Fields and Grid Styles</li>
+    <li>Resizing/Aligning Fields</li>
+    <li>Contents, Labels, and Column Options</li>
+    <li>Modifying Reports</li>
+    <li>Customizing Report Style</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Report Alerts</h3>
+  <ul>
+    <li>Creating Alerts</li>
+    <li>Alert Name and Status</li>
+    <li>Setting Alert Conditions</li>
+    <li>Triggering Alerts</li>
+    <li>Conditional Alerts</li>
+  </ul>
+  <h3>Section B: Standard Report Wizard</h3>
+  <ul>
+    <li>Using Report Wizard</li>
+    <li>Adding Fields and Grouping</li>
+    <li>Group Sorting and Charts</li>
+    <li>Filtering and Templates</li>
+    <li>Review of Experts</li>
+  </ul>
+  <h3>Section C: Exporting Reports</h3>
+  <ul>
+    <li>Export Formats</li>
+    <li>Exporting to E-mail</li>
+    <li>Export Destinations</li>
+    <li>Exporting to Excel</li>
+    <li>Exporting to PDF</li>
+    <li>Exporting to HTML</li>
+    <li>Copying Report Objects</li>
+    <li>Exporting Report Definitions</li>
+  </ul>
+  <h3>Section D: Crystal Reports Settings</h3>
+  <ul>
+    <li>Layout Options</li>
+    <li>Database Options</li>
+    <li>Formula Editor Options</li>
+    <li>Reporting Options</li>
+    <li>Field Options</li>
+    <li>Font Options</li>
+  </ul>
+  <h3>Section E: Templates</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Formattable/ Unformattable Objects</li>
+    <li>Creating New Templates</li>
+    <li>Inserting Template Field Objects</li>
+    <li>Formatting/Moving Fields</li>
+    <li>Adding Special Fields</li>
+    <li>Graphics and Summary Info</li>
+    <li>Saving and Applying Templates</li>
+  </ul>

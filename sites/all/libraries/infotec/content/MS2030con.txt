@@ -1,0 +1,198 @@
+<p><strong>Unit 1: Introduction to Microsoft SQL Server Reporting Services</strong></p>
+<p> The information in this Unit introduces the role Reporting Services plays in an organization&rsquo;s reporting lifecycle, the key features offered by Reporting Services, and the components that make up the Reporting Services architecture.</p>
+<p> Units </p>
+<ul>
+  <li> Overview of Microsoft SQL Server Reporting Services </li>
+  <li> Tour of Reporting Services </li>
+  <li> Overview of Reporting Services Architecture </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the scenarios in which Reporting Services can be used. This includes being able to: </li>
+  <li> Describe the reporting lifecycle. </li>
+  <li> Describe the key features of Reporting Services. </li>
+  <li> Describe the process of scheduling a report. This includes being able to: </li>
+  <li> Describe the process of report delivery. </li>
+  <li> Describe the authoring process. </li>
+  <li> Describe the process of managing reports. </li>
+  <li> Describe the architecture of Reporting Services. This includes being able to: </li>
+  <li> Describe the Reporting Services platform. </li>
+  <li> Describe Reporting Services components and software prerequisites. </li>
+  <li> Describe single server deployment. </li>
+  <li> Describe Web farm deployment. </li>
+</ul>
+<p><strong> Unit 2: Authoring Basic Reports </strong></p>
+<p> In this Unit, students learn about the fundamentals of report authoring, including how to configure data sources and data sets, create tabular reports, summarize data, and apply basic formatting.</p>
+<p> Units </p>
+<ul>
+  <li> Creating a Basic Table Report </li>
+  <li> Formatting Report Pages </li>
+  <li> Calculating Values </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Create a basic report. This includes being able to: </li>
+  <li> Use Report Designer. </li>
+  <li> Describe the options for creating a report. </li>
+  <li> Describe the purpose of Report Definition Language. </li>
+  <li> Access data using a data source and a data set. </li>
+  <li> Create a table. </li>
+  <li> Create groups. </li>
+  <li> Apply basic report formatting. This includes being able to: </li>
+  <li> Describe the report page structure. </li>
+  <li> Add items to a report. </li>
+  <li> Create report headers and footers. </li>
+  <li> Use calculated values in a report. This includes being able to: </li>
+  <li> Create new fields based on data set fields. </li>
+  <li> Create expressions as the value of individual text boxes. </li>
+  <li> Use aggregate functions. </li>
+  <li> Describe the common aggregate functions. </li>
+  <li> Use conditional expressions to create dynamic formatting. </li>
+</ul>
+<p><strong> Unit 3: Enhancing Basic Reports </strong></p>
+<p> This Unit introduces some techniques for enhancing a basic report using document maps, actions, and data regions. Document maps provide navigation through a contents page, actions provide a mechanism for creating custom actions (jumping from one report to another for example), and data regions allow data to be displayed in formats such as a matrix or a list.</p>
+<p> Units </p>
+<ul>
+  <li> Interactive Navigation </li>
+  <li> Displaying Data </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Create interactive navigation using report links. This includes being able to: </li>
+  <li> Allow the user to navigate to an appropriate level of detail. </li>
+  <li> Create a document map. </li>
+  <li> Create links and custom report actions. </li>
+  <li> Display data using data regions. This includes being able to: </li>
+  <li> Describe the data regions available within the Report Designer. </li>
+  <li> Create a table data region. </li>
+  <li> Create a chart data region. </li>
+  <li> Create a list data region. </li>
+  <li> Create a matrix data region. </li>
+  <li> Choose data regions for a particular report. </li>
+  <li> Create a subreport data region. </li>
+</ul>
+<p><strong> Unit 4: Manipulating Data Sets </strong></p>
+<p> In this Unit, data sets are covered in greater depth, including the use of alternative data sources and interacting with a data set through parameters. Student will learn how to dynamically modify the data set underlying a data region allowing parameters to be sent to the underlying query. This Unit presents various best practices for dealing with static and dynamic parameter lists when interacting with stored procedures.</p>
+<p> Units </p>
+<ul>
+  <li> Defining Report Data </li>
+  <li> Using Parameters and Filters </li>
+  <li> Using Parameter Lists </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the features of a data set. This includes being able to: </li>
+  <li> Connect to a data source. </li>
+  <li> Query a data source using a data set. </li>
+  <li> Use parameters to restrict query results. This includes being able to: </li>
+  <li> Describe why report parameters are used. </li>
+  <li> Use report parameters. </li>
+  <li> Use query parameters. </li>
+  <li> Describe the use of filters. </li>
+  <li> Create a data filter. </li>
+  <li> Use parameter lists with a report. This includes being able to: </li>
+  <li> Pass parameters to a stored procedure. </li>
+  <li> Create a dynamic parameter list. </li>
+  <li> Allow the user to display all items in a data set. </li>
+  <li> Simulate the effect of a multi-select parameter list. </li>
+</ul>
+<p><strong> Unit 5: Managing Content </strong></p>
+<p> This Unit introduces the management of content in the Reporting Services database. The Unit discusses the process of deploying reports together with the various mechanisms that can be used in deployment. Students learn about the report execution models supported by Reporting Services, including the caching of report instances. Finally, students learn about using subscriptions for report delivery.</p>
+<p> Units </p>
+<ul>
+  <li> Publishing Content </li>
+  <li> Executing Reports </li>
+  <li> Creating Cached Instances </li>
+  <li> Creating Snapshots and Report History </li>
+  <li> Creating Report Subscriptions </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Publish content to the Report Server. This includes being able to: </li>
+  <li> Publish a report using the Report Designer. </li>
+  <li> Publish a report using Report Manager. </li>
+  <li> Update a data source. </li>
+  <li> Update a report. </li>
+  <li> Configure report properties. </li>
+  <li> Execute reports on-demand. This includes being able to: </li>
+  <li> Describe the process of report execution. </li>
+  <li> Describe how a report on-demand is executed. </li>
+  <li> Describe how session caching works. </li>
+  <li> Create a linked report. </li>
+  <li> Created cached instances of reports. This includes being able to: </li>
+  <ul>
+    <li> Describe the processing steps when executing a cached report. </li>
+    <li> Describe the use of query parameters on a cached instance. </li>
+    <li> Describe the use of filters on a cached instance. </li>
+    <li> Configure a cached instance of a report. </li>
+    <li> Create snapshot reports and report history. This includes being able to: </li>
+    <li> Describe how a snapshot report is executed. </li>
+    <li> Use query parameters on a snapshot report. </li>
+    <li> Use filters on a snapshot report. </li>
+    <li> Configure a snapshot report. </li>
+    <li> Describe the purpose of report history. </li>
+    <li> Configure report history. </li>
+    <li> Deliver reports using subscriptions. This includes being able to: </li>
+    <li> Describe the purpose of subscriptions. </li>
+    <li> Create a standard subscription. </li>
+    <li> Create a data-driven subscription. </li>
+  </ul>
+</ul>
+<p><strong> Unit 6: Administering Reporting Services </strong></p>
+<p> This Unit introduces the administration of the Reporting Services server, the administration of individual jobs, and the administration of the database. In this Unit, students will learn how to administer the Reporting Services server, monitor and optimize the performance of the Report Server, maintain the Reporting Services databases, and keep the system secure.</p>
+<p> Units </p>
+<ul>
+  <li> Server Administration </li>
+  <li> Performance and Reliability Monitoring </li>
+  <li> Database Administration </li>
+  <li> Security Administration </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Use configuration files to administer the Report Server. This includes being able to: </li>
+  <li> Describe the Report Server configuration files. </li>
+  <li> Assign security accounts for the Report Server. </li>
+  <li> Monitor the performance and reliability of the Report Server. This includes being able to: </li>
+  <li> Describe the purpose of the Report Server trace files. </li>
+  <li> Configure the level of tracing. </li>
+  <li> View report execution log information. </li>
+  <li> Utilize Report Server performance counters. </li>
+  <li> Apply timeouts to long-running queries or reports. </li>
+  <li> Suspend jobs. </li>
+  <li> Administer the ReportServer and ReportServerTempDB databases. This includes being able to: </li>
+  <li> Describe how Report Server stores information. </li>
+  <li> Estimate required disk space for a Report Server installation. </li>
+  <li> Define a backup and restore strategy. </li>
+  <li> Administer the Reporting Services security model. This includes being able to: </li>
+  <li> Describe the Report Server authorization model. </li>
+  <li> Assign roles. </li>
+  <li> Modify and create item-level roles. </li>
+  <li> Secure individual items using roles. </li>
+  <li> Modify and create system-level roles. </li>
+  <li> Secure the Report Server site. </li>
+</ul>
+<p><strong> Unit 7: Programming Reporting Services </strong></p>
+<p> This Unit introduces the programmatic control of Reporting Services. In this Unit, students will learn how to query Reporting Services information programmatically and how to automate their report management tasks. They will also learn how to render reports without relying on Report Manager and how to create custom code to extend the feature set of the Report Server. </p>
+<p> Units </p>
+<ul>
+  <li> Querying Server Information </li>
+  <li> Automating Report Management </li>
+  <li> Rendering ReportsCreating Custom Code </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Retrieve information about the server. This includes being able to: </li>
+  <li> Describe Web services. </li>
+  <li> Describe what information is available using the Report Server Web service. </li>
+  <li> Retrieve server information using the Report Server Web service. </li>
+  <li> Automate report management tasks. This includes being able to: </li>
+  <li> Describe report management automation. </li>
+  <li> Automate tasks using Web services. </li>
+  <li> Automate tasks using scripting. </li>
+  <li> Render reports programmatically. This includes being able to: </li>
+  <li> Render reports from a Web page. </li>
+  <li> Render reports programmatically using the Report Server Web service. </li>
+  <li> Create custom code and call the custom functionality from reports. This includes being able to: </li>
+  <li> Describe Reporting Services extensions. </li>
+  <li> Describe the uses for custom assemblies. </li>
+</ul>

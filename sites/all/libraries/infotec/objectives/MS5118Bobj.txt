@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Install Windows Vista in an Enterprise.</li>
+  <li>Describe and troubleshoot the Windows Vista boot process.</li>
+  <li>Configure and troubleshoot network connections.</li>
+  <li>Manage Windows Vista desktop systems.</li>
+  <li>Manage user profiles and data for Windows Vista portable and desktop computers.</li>
+  <li>Maintain and monitor Windows Vista performance and health.</li>
+  <li>Configure and troubleshoot Windows Vista Security feature settings.</li>
+  <li>Configure security settings to protect data on Windows Vista desktops.</li>
+  <li>Configure security for Windows Vista networks.</li>
+  <li>Configure Windows Vista to support remote users.</li>
+  <li>Troubleshoot operating system and application issues.</li>
+  <li>Troubleshoot hardware on Windows Vista computers.</li>
+  <li>Manage applications using Group Policy.</li>
+</ul>

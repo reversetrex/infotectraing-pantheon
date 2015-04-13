@@ -1,0 +1,13 @@
+<p><strong>Module 1: Configuring Terminal Services Core Functionality</strong> - This module explains how to install TS and configure the core  functionality.</p>
+
+<p><strong>Module 2: Configuring and  Managing Terminal Services Licensing</strong> - This module explains how to configure and manage TS Licensing.</p>
+
+<p><strong>Module 3: Configuring and  Troubleshooting Terminal Services Connections</strong> - This module explains how to configure and troubleshoot connection properties by using TS.</p>
+
+<p><strong>Module 4: Configuring Terminal  Services RemoteApp and Easy Print</strong> - This module explains how to configure TS Easy Print and TS RemoteApp.</p>
+
+<p><strong>Module 5: Configuring Terminal  Services Web Access and Session Broker</strong> - This module explains how to configure TS Web Access.</p>
+
+<p><strong>Module 6: Configuring and  Troubleshooting Terminal Services Gateway</strong> - This module explains how to configure and troubleshoot TS Gateway  connections.</p>
+
+<p><strong>Module 7: Managing and  Monitoring Terminal Services</strong> - This  module explains how to manage and monitor TS connections post installation and  configuration. The students will also be introduced to configuring WSRM for TS.</p>

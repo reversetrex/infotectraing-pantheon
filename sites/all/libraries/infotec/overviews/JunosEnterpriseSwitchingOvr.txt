@@ -1,0 +1,3 @@
+Junos Enterprise Switching is a two-day course that provides you with intermediate switching knowledge and configuration examples. This course includes an overview of switching concepts and operations, virtual LANs (VLANs), the Spanning Tree Protocol (STP), port and device security features, and high availability (HA) features.
+<br><br>
+Through demonstrations and hands-on labs, you will gain experience in configuring and monitoring the Junos operating system and in monitoring device operations. This course uses Juniper Networks EX Series Ethernet Switches for the hands-on component, but the lab environment does not preclude the course from being applicable to other Juniper hardware platforms running the Junos OS. This course is based on the Junos OS Release 12.2R1.8.

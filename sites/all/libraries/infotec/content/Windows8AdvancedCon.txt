@@ -1,0 +1,32 @@
+<p><strong>Unit 1: Advanced system settings</strong></p>
+<ul>
+  <li>Topic A: Control Panel</li>
+  <li>Topic B: File and folder management</li>
+  <li>Topic C: Task Manager</li>
+  <li>Topic D: Windows updates</li>
+</ul>
+<p><strong>Unit 2: Devices</strong></p>
+<ul>
+  <li>Topic A: Devices</li>
+  <li>Topic B: Printers</li>
+  <li>Topic C: Disk maintenance</li>
+</ul>
+<p><strong>Unit 3: Networking</strong></p>
+<ul>
+  <li>Topic A: Networking basics</li>
+  <li>Topic B: Resource sharing</li>
+  <li>Topic C: Remote Desktop</li>
+</ul>
+<p><strong>Unit 4: Security</strong></p>
+<ul>
+  <li>Topic A: Security threats</li>
+  <li>Topic B: Windows Defender</li>
+  <li>Topic C: Windows Firewall</li>
+  <li>Topic D: Internet Explorer security and privacy</li>
+</ul>
+<p><strong>Unit 5: Troubleshooting</strong></p>
+<ul>
+  <li>Topic A: Troubleshooting basics</li>
+  <li>Topic B: Remote Assistance</li>
+  <li>Topic C: System Restore</li>
+</ul>

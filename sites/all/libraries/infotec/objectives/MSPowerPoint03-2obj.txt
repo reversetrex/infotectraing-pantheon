@@ -1,0 +1,9 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>Create a design template.</li>
+  <li>Create organization charts and diagrams.</li>
+  <li>Add special effects to a Microsoft Office PowerPoint 2003 slide.</li>
+  <li>Create a Web-based Microsoft Office PowerPoint 2003 presentation.</li>
+  <li>Use a Microsoft Office PowerPoint 2003 presentation for collaborative workgroup review.</li>
+  <li>Use functionality that will enable you to deliver live, self-service, and online presentations.</li>
+</ul>

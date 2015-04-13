@@ -1,0 +1,105 @@
+<p><strong>Module 1: Introduction to Database Development</strong> - This module introduces database development and the key tasks that a database developer would typically perform.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to the SQL Server Platform</li>
+  <li>Working with SQL Server Tools</li>
+  <li>Configuring SQL Server Services</li>
+</ul>
+<p><strong>Module 2: Designing and Implementing Tables</strong> - This module explains how to design, create, and alter tables. Also it focusses on working with schemas.</p>
+<p>Lessons</p>
+<ul>
+  <li>Designing Tables</li>
+  <li>Working with Schemas</li>
+  <li>Creating and Altering Tables</li>
+</ul>
+<p><strong>Module 3: Ensuring Data Integrity through Constraints</strong> - This module explains how to enforce data integrity, and implement domain integrity to maintain high quality data. Also it focusses on implementing Entity and Referential Integrity.</p>
+<p>Lessons</p>
+<ul>
+  <li>Enforcing Data Integrity</li>
+  <li>Implementing Domain Integrity</li>
+  <li>Implementing Entity and Referential Integrity</li>
+</ul>
+<p><strong>Module 4: Introduction to Indexing</strong> - This module describes the concept of an index and discusses selectivity, density and statistics. It covers appropriate data type choices and choices around composite index structures.</p>
+<p>Lessons</p>
+<ul>
+  <li>Core Indexing Concepts</li>
+  <li>Single Column and Composite Indexes</li>
+  <li>SQL Server Table Structures</li>
+  <li>Working with Clustered Indexes</li>
+</ul>
+<p><strong>Module 5: Advanced Indexing</strong> - This module explains covering indexes and the INCLUDE clause as well as the use of padding, hints and statistics. The module also covers the use of the Database Engine Tuning Advisor and index-related dynamic management views to assess indexing strategies.</p>
+<p>Lessons</p>
+<ul>
+  <li>Execution Plan Core Concepts</li>
+  <li>Common Execution Plan Elements</li>
+  <li>Working with Execution Plans</li>
+  <li>Designing Effective Nonclustered Indexes</li>
+  <li>Performance Monitoring</li>
+</ul>
+<p><strong>Module 6: Columnstore Indexes</strong> - This module explains columnstore indexes, introduces clustered and nonclustered columnstore indexes, and discusses considerations for using columnstore indexes.</p>
+<p>Lessons</p>
+<ul>
+  <li>Columnstore Indexes</li>
+  <li>Best Practices for Columnstore Indexes</li>
+</ul>
+<p><strong>Module 7: Designing and Implementing Views</strong> - This module introduces Views, and explains how to create and manage Views. Also it focusses on the performance consideration for Views.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Views</li>
+  <li>Creating and Managing Views</li>
+  <li>Performance Considerations for Views</li>
+</ul>
+<p><strong>Module 8: Designing and Implementing Stored Procedures</strong> - This module describes the potential advantages of the use of stored procedures along with guidelines on creating them.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Stored Procedures</li>
+  <li>Working With Stored Procedures</li>
+  <li>Implementing Parameterized Stored Procedures</li>
+  <li>Controlling Execution Context</li>
+</ul>
+<p><strong>Module 9: Designing and Implementing User-Defined Functions</strong> - This module explains how to design and implement user-defined functions that enforce business rules or data consistency, and modify and maintain existing functions written by other developers.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Functions</li>
+  <li>Designing and Implementing Scalar Functions</li>
+  <li>Designing and Implementing Table-Valued Functions</li>
+  <li>Implementation Considerations for Functions</li>
+  <li>Alternatives to Functions</li>
+</ul>
+<p><strong>Module 10: Responding to Data Manipulation via Triggers</strong> - This module, explains what DML triggers are and how they enforce data integrity. Also it focusses on the different types of triggers available, and how to define triggers in a database.</p>
+<p>Lessons</p>
+<ul>
+  <li>Designing DML Triggers</li>
+  <li>Implementing DML Triggers</li>
+  <li>Advanced Trigger Concepts</li>
+</ul>
+<p><strong>Module 11: Using In-Memory Tables</strong> - This module covers the creation of in-memory tables and native stored procedures and discusses the advantages and disadvantages of using in-memory tables.</p>
+<p>Lessons</p>
+<ul>
+  <li>Memory-Optimized Tables</li>
+  <li>Native Stored Procedures</li>
+</ul>
+<p><strong>Module 12: Implementing Managed Code in SQL Server</strong> - This module explains how to use CLR integrated code to create user-defined database objects that are managed by the .NET Framework.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to SQL CLR Integration</li>
+  <li>Importing and Configuring Assemblies</li>
+  <li>Implementing SQL CLR Integration</li>
+</ul>
+<p><strong>Module 13: Storing and Querying XML Data in SQL Server</strong> - This module introduces XML and shows how XML data can be stored within SQL Server and then queried, including queries written in a language called XQuery.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to XML and XML Schemas</li>
+  <li>Storing XML Data and Schemas in SQL Server</li>
+  <li>Implementing the XML Data Type</li>
+  <li>Using the T-SQL FOR XML Statement</li>
+  <li>Getting Started with XQuery</li>
+  <li>Shredding XML</li>
+</ul>
+<p><strong>Module 14: Working with SQL Server Spatial Data</strong> - This module introduces Spatial Data, and explains how to work with SQL Server Spatial Data Types.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Spatial Data</li>
+  <li>Working with SQL Server Spatial Data Types</li>
+  <li>Using Spatial Data in Applications</li>
+</ul>

@@ -1,0 +1,203 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Collecting Initial Information</li>
+    <li>Accessibility</li>
+    <li>Producing Accessible Content</li>
+    <li>Identify Considerations</li>
+    <li>Development Decisions</li>
+    <li>Rich Media Targets</li>
+    <li>Identifying Criteria for Rich Media</li>
+    <li>Consistency Across Platforms</li>
+    <li>Project Considerations</li>
+  </ul>
+  <h3>Section B: The Flash Interface</h3>
+  <ul>
+    <li>Flash Workspace</li>
+    <li>Panels in Flash</li>
+    <li>Templates, Properties Panel, Hand Tool</li>
+    <li>Zoom, Keyboard Shortcuts</li>
+    <li>Deleting Presets and Preferences</li>
+    <li>Adjusting Document Properties</li>
+    <li>Design Principles</li>
+  </ul>
+  <h3>Section C: Paths and Text</h3>
+  <ul>
+    <li>Pen Tool</li>
+    <li>Creating Readable Text</li>
+    <li>Text</li>
+    <li>Advanced TLF Text Options</li>
+    <li>Text Menu</li>
+    <li>Threaded Text Blocks</li>
+  </ul>
+  <h3>Section D: Drawing Tools</h3>
+  <ul>
+    <li>Line Tool</li>
+    <li>Rectangle Tool</li>
+    <li>Primitive Shapes</li>
+    <li>PolyStar Tool, Pencil Tool</li>
+    <li>Brush Tool, Spray Brush, Deco</li>
+  </ul>
+  <h3>Section E: More Creation Tools</h3>
+  <ul>
+    <li>Object Drawing Mode</li>
+    <li>Paint Bucket, Ink Bottle</li>
+    <li>Eraser, Objects on Stage, Free Transform</li>
+    <li>3D Tools</li>
+    <li>3D Translation, Lasso Tool</li>
+    <li>Magic Wand Tool</li>
+    <li>Align Panel</li>
+    <li>Align To Stage</li>
+    <li>Working in Color</li>
+    <li>Gradients</li>
+    <li>Additional Information</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Symbols</h3>
+  <ul>
+    <li>Learn Links, Symbols</li>
+    <li>Instances of Symbols, Editing Symbols</li>
+    <li>Symbol as Movie Clip, Display Options</li>
+    <li>Symbol Filters</li>
+    <li>Symbol Editing</li>
+  </ul>
+  <h3>Section B: Timeline</h3>
+  <ul>
+    <li>Layers in Timeline</li>
+    <li>Layers Folders in Timeline</li>
+    <li>Frames in Timeline, Button Intro</li>
+    <li>Button Creation</li>
+    <li>Keyframes</li>
+    <li>Testing Button</li>
+    <li>Project Panel</li>
+  </ul>
+  <h3>Section C: Library</h3>
+  <ul>
+    <li>The Library</li>
+  </ul>
+  <h3>Section D: Animation</h3>
+  <ul>
+    <li>Shape Tween</li>
+    <li>Shape Hints</li>
+    <li>Motion Tweens Intro</li>
+    <li>Easing</li>
+    <li>Motion Editor</li>
+    <li>Motion Presets</li>
+    <li>Car Drawing</li>
+    <li>Motion Guide</li>
+    <li>Swap Bitmap</li>
+  </ul>
+  <h3>Section E: Masks</h3>
+  <ul>
+    <li>Mask Introduction</li>
+    <li>Mask Car Demo</li>
+    <li>Text Mask</li>
+    <li>Break Apart</li>
+  </ul>
+  <h3>Section F: Advanced Animation</h3>
+  <ul>
+    <li>Bone Tool Introduction</li>
+    <li>Create an Armature</li>
+    <li>Armatures and Shape Tweens</li>
+    <li>Joint Rotation and Other Options</li>
+    <li>Bind Tool</li>
+    <li>Frame-by-Frame Animation</li>
+    <li>Onion Skin</li>
+  </ul>
+  <h3>Section G: Layout</h3>
+  <ul>
+    <li>Snap to Pixels</li>
+    <li>Rulers, Guides</li>
+    <li>Webpage Example</li>
+    <li>Header</li>
+    <li>Buttons</li>
+    <li>Background Tween, Distribute to Layers</li>
+    <li>Animating Webpage</li>
+    <li>Intro to ActionScript</li>
+    <li>Additional Information</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Storyboard</h3>
+  <ul>
+    <li>Storyboards in Flash</li>
+  </ul>
+  <h3>Section B: Copyright</h3>
+  <ul>
+    <li>Copyright Introduction</li>
+    <li>Copyright Summary</li>
+    <li>Cite Internet Content</li>
+  </ul>
+  <h3>Section C: Import</h3>
+  <ul>
+    <li>Import Graphics</li>
+    <li>Set Image as Background</li>
+    <li>Import and Edit Photos</li>
+    <li>Animate Photos</li>
+    <li>Import and Animate PSD File</li>
+    <li>Add Text</li>
+    <li>Trace Image to Vector Shapes</li>
+    <li>Add Vector Graphic to Background</li>
+    <li>Set Up Accessibility</li>
+  </ul>
+  <h3>Section D: Video</h3>
+  <ul>
+    <li>Intro to Video</li>
+    <li>Adobe Media Encoder</li>
+    <li>Presets, Output File</li>
+    <li>Export Source and Output</li>
+    <li>Advanced Settings for Exporting</li>
+    <li>Import Video Files</li>
+    <li>Placing Video on the Stage</li>
+    <li>Embed Video in Timeline</li>
+  </ul>
+  <h3>Section E: Audio</h3>
+  <ul>
+    <li>Import Sound</li>
+    <li>Stream Options, Looping</li>
+    <li>Event Sounds</li>
+    <li>Button Sounds</li>
+    <li>File Size, Compression, Bit Rate</li>
+    <li>Publish Settings</li>
+  </ul>
+  <h3>Section F: ActionScript</h3>
+  <ul>
+    <li>Object-Oriented Programming</li>
+    <li>ActionScript Actions</li>
+    <li>Basic Website Construction Intro</li>
+    <li>Adding Buttons</li>
+    <li>Labels</li>
+    <li>Code Snippets</li>
+    <li>Import Pictures</li>
+    <li>Script Assist Mode</li>
+    <li>Audio Control</li>
+    <li>Import Video</li>
+  </ul>
+  <h3>Section G: Publish</h3>
+  <ul>
+    <li>Publish Settings Dialog Box</li>
+    <li>SWC and HQX</li>
+    <li>Publish for Web</li>
+    <li>Cutting File Size</li>
+    <li>Bandwidth Profiler</li>
+    <li>Simulate Download</li>
+    <li>File Compression</li>
+    <li>Add Load Image Button</li>
+    <li>Dynamic Image Loading</li>
+    <li>Empty Movie Clip</li>
+    <li>ProLoader</li>
+    <li>Other Publish Settings</li>
+    <li>GIF Image Settings</li>
+    <li>JPEG, PNG, Projector Settings</li>
+    <li>HTML Wrapper Settings</li>
+    <li>Profile, Target, and Script</li>
+    <li>Export Movie</li>
+    <li>Publish Settings for AIR Apps</li>
+  </ul>
+  <h3>Section H: Accessibility and Testing</h3>
+  <ul>
+    <li>Metadata in SWF</li>
+    <li>Technical Test</li>
+    <li>Usability Test</li>
+    <li>Flash File Types</li>
+    <li>Additional Information</li>
+  </ul>

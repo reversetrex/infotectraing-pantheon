@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Initiate a project.</li>
+  <li>Explore the Adobe Photoshop CS5 environment.</li>
+  <li>Determine the resolution and graphic type.</li>
+  <li>Work with selections.</li>
+  <li>Work with multiple layers.</li>
+  <li>Enhance images with paint and filters.</li>
+  <li>Identify the characteristics of various image modes and color adjustment options.</li>
+  <li>Save images for web and print.</li>
+</ul>

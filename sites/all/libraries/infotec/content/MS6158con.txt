@@ -1,0 +1,58 @@
+<p><strong>Module 1: Introduction to SQL  Server 2008</strong></p>
+<ul>
+  <li>The Evolution of SQL Server</li>
+  <li>Preparing for SQL Server 2008</li>
+</ul>
+
+<p><strong>Module 2: SQL Server 2008 Manageability Enhancements</strong></p>
+<ul>
+  <li>Configuration Servers</li>
+  <li>Policy-Based Management</li>
+</ul>
+
+<p><strong>Module 3: SQL Server 2008 Performance Enhancements</strong></p>
+<ul>
+  <li>Managing Workloads with Resource Governor</li>
+  <li>Monitoring Performance with the Data Collector</li>
+  <li>Managing Performance with Plan Freezing</li>
+</ul>
+
+<p><strong>Module 4: SQL Server 2008 Security Enhancements</strong></p>
+<ul>
+  <li>Encrypting Databases</li>
+  <li>Auditing All Actions</li>
+</ul>
+
+<p><strong>Module 5: SQL Server 2008 Database Development Enhancements</strong></p>
+<ul>
+  <li>Developer Tool Enhancements</li>
+  <li>Data Type Enhancements</li>
+  <li>Working with Spatial Data</li>
+</ul>
+
+<p><strong>Module 6: SQL Server 2008 Availability Enhancements</strong></p>
+<ul>
+  <li>Always On Technologies</li>
+  <li>Transactional Peer-to-Peer Replication</li>
+</ul>
+
+<p><strong>Module 7: SQL Server 2008 Data Warehousing Enhancements</strong></p>
+<ul>
+  <li>ETL Enhancements</li>
+  <li>Using Partitioned Tables</li>
+  <li>Optimizing Data Storage</li>
+</ul>
+
+<p><strong>Module 8: SQL Server 2008 Reporting Services Enhancements</strong></p>
+<ul>
+  <li>Reporting Services </li>
+  <li>Architecture and Management</li>
+  <li>Authoring Reports</li>
+  <li>Report Processing and Rendering </li>
+</ul>
+
+<p><strong>Module 9: SQL Server 2008 Analysis Services Enhancements</strong></p>
+<ul>
+  <li>Multidimensional Analysis with SQL Server Analysis Services</li>
+  <li>Data Mining with SQL Server Analysis Services</li>
+</ul>

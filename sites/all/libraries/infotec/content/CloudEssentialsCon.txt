@@ -1,0 +1,53 @@
+<p><strong>Lesson 1: Introduction to Cloud Computing</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Overview of Cloud Computing</li>
+  <li><strong>Topic 1B: </strong>Evolution of the Cloud</li>
+  <li><strong>Topic 1C: </strong>Specialized Cloud Services</li>
+</ul>
+<p><strong>Lesson 2: Business Value of Cloud Computing</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Business Need for Cloud Computing</li>
+  <li><strong>Topic 2B: </strong>Cloud Scalability</li>
+  <li><strong>Topic 2C: </strong>Cloud Security</li>
+  <li><strong>Topic 2D: </strong>Impact of Cloud Computing on Business</li>
+</ul>
+<p><strong>Lesson 3: Technical Perspectives of Cloud Computing</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>The Cloud Deployment Models</li>
+  <li><strong>Topic 3B: </strong>Network Requirements for Cloud Deployment</li>
+  <li><strong>Topic 3C: </strong>Automation and Self-Service in Cloud Computing</li>
+  <li><strong>Topic 3D: </strong>Federated Cloud Services</li>
+  <li><strong>Topic 3E: </strong>Standardization</li>
+</ul>
+<p><strong>Lesson 4: Technical Challenges of Cloud Computing</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Cloud Storage</li>
+  <li><strong>Topic 4B: </strong>Application Performance</li>
+  <li><strong>Topic 4C: </strong>Data Integration</li>
+  <li><strong>Topic 4D: </strong>Security Risks and Mitigation</li>
+  <li><strong>Topic 4E: </strong>Application Architecture and the Development Process</li>
+</ul>
+<p><strong>Lesson 5: Steps to Successful Adoption of Cloud Services</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Steps to Adopting Cloud Services</li>
+  <li><strong>Topic 5B: </strong>Organizational Capability to Adopt Cloud Services</li>
+  <li><strong>Topic 5C: </strong>Cloud Vendor Roles and Capabilities</li>
+  <li><strong>Topic 5D: </strong>Migrating Applications to the Cloud</li>
+</ul>
+<p><strong>Lesson 6: ITIL and Cloud Computing</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Overview of ITIL</li>
+  <li><strong>Topic 6B: </strong>Planning Service  Strategy</li>
+  <li><strong>Topic 6C: </strong>Designing Cloud Service</li>
+  <li><strong>Topic 6D: </strong>Transitioning to Live Environment</li>
+  <li><strong>Topic 6E: </strong>Running a Cloud Service Operation</li>
+  <li><strong>Topic 6F: </strong>Continual Service Improvement with Cloud</li>
+</ul>
+<p><strong>Lesson 7: Identifying Risks and Consequences</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Organizational Risks</li>
+  <li><strong>Topic 7B: </strong>Technical Risks</li>
+  <li><strong>Topic 7C: </strong>Legal Risks</li>
+  <li><strong>Topic 7D: </strong>Cost Evaluation for Cloud Computing</li>
+  <li><strong>Topic 7E: </strong>Identify Maintenance Aspects of Strategic Flexibility</li>
+</ul>

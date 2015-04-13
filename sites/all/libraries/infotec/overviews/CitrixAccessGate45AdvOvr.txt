@@ -1,0 +1,1 @@
+This course introduces administrators and other IT professionals to Citrix Access Gateway 4.5 Advanced Edition and prepares them to install, configure and administer the product. Interactive instructor-led discussion and hands-on labs and exercises guide learners through administrator tasks, preparing them to manage Citrix Access Gateway 4.5 Advanced Edition deployments.

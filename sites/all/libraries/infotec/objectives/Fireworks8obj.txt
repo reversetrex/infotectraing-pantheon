@@ -1,0 +1,11 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> get familiar with the Fireworks environment. </li>
+  <li> create vector graphics. </li>
+  <li> transform vector images and apply Live Filters. </li>
+  <li> enhance bitmap images. </li>
+  <li> add text to a web page. </li>
+  <li> optimize graphics for the web. </li>
+  <li> create hotspots for images and link them to web pages. </li>
+  <li> explore the techniques of slicing to optimize sections of a web page. </li>
+</ul>

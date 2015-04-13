@@ -1,0 +1,103 @@
+<p><strong>Day 1</strong></p>
+<p><strong>Module 1: Overview of Managing Unified Access with Cisco Prime Infrastructure</strong></p>
+<p><strong>Cisco Prime Infrastructure Overview</strong></p>
+<ul>
+  <li>Key Features and Licensing</li>
+  <li>Lifecycles Mapped to Organizational Roles</li>
+  <li>Device Integration and  Management</li>
+</ul>
+<p><strong>Cisco Prime Infrastructure Setup</strong></p>
+<ul>
+  <li>Technical Requirements</li>
+  <li>Deployment Options</li>
+  <li>VMware Deployment Steps Using OVA</li>
+  <li>Troubleshooting Install</li>
+  <li>Auto Deploy</li>
+</ul>
+<p><strong>Initial System Administration Tasks in Administer Lifecycle</strong></p>
+<ul>
+  <li>License Management</li>
+  <li>User Management</li>
+  <li>Interface Overview and Management</li>
+  <li>System Operations</li>
+</ul>
+<p><strong>Module 2: Design Lifecycle Features and Functions</strong></p>
+<p><strong>Operational Roles and Features in Design Phase</strong></p>
+<ul>
+  <li>Design and Pre-deployment Engineer and Tasks</li>
+  <li>Design Lifecycle Features</li>
+</ul>
+<p><strong>Creating Sites and Maps</strong></p>
+<ul>
+  <li>Create Sites</li>
+  <li>Endpoint Association</li>
+  <li>Create Maps</li>
+</ul>
+<p><strong>Cisco Prime Infrastructure Templates</strong></p>
+<ul>
+  <li>Day Zero Configuration and Guided Workflows</li>
+  <li>Default Templates</li>
+  <li>CLI Templates</li>
+  <li>Wireless Templates</li>
+  <li>Using Composite Templates</li>
+</ul>
+<p><strong>Creating Sites</strong></p>
+<ul>
+  <li>Plug and Play device deployment</li>
+  <li>Creating Sites</li>
+  <li>Setup Virtual Domains</li>
+</ul>
+<p><strong>Creating Maps</strong></p>
+<ul>
+  <li>Creating Maps</li>
+  <li>Using the Mapping Features</li>
+</ul>
+<p><strong>Day 2</strong></p>
+<p><strong>Module 3: Deploy Lifecycle Features and Functions</strong></p>
+<p><strong>Operational Roles and Features in Deployment Phase</strong></p>
+<ul>
+  <li>Deployment Engineer and Tasks</li>
+  <li>Deploy Lifecycle Features</li>
+</ul>
+<p><strong>Deploying Device Configurations</strong></p>
+<ul>
+  <li>Create Deployment Tasks</li>
+  <li>Schedule a Deployment</li>
+  <li>Using the Automated Deployment Profiles</li>
+</ul>
+<p><strong>Module 4: Operate Lifecycle Features and Functions</strong></p>
+<p><strong>Operational Roles and Features in Operation Phase</strong></p>
+<ul>
+  <li>Operations Workforce and Tasks</li>
+  <li>Operate Lifecycle Features</li>
+</ul>
+<p><strong>Discovery and Management Functionalities for Network Engineers and Administrators</strong></p>
+<p><strong>Device Work Center Network Assurance</strong></p>
+<p><strong>Day 3</strong></p>
+<p><strong>Monitoring and Management Functionalities for Network Operations Center</strong></p>
+<ul>
+  <li>Alarms and Events</li>
+  <li>Monitoring</li>
+  <li>Maps</li>
+  <li>Context Aware for location</li>
+  <li>Clean Air</li>
+  <li>wIPS</li>
+</ul>
+<p><strong>Troubleshooting and Problem Isolation Functionalities for Helpdesk and Support</strong></p>
+<ul>
+  <li>Clients and Users</li>
+  <li>Operational Tasks</li>
+  <li>Common Scenarios</li>
+</ul>
+<p><strong>Module 5: Report Lifecycle Features and Functions</strong></p>
+<p><strong>Operational Roles and Features in Reporting Phase</strong></p>
+<ul>
+  <li>Who in the IT Workforce Needs Reports?</li>
+  <li>Which Reports They Need?</li>
+</ul>
+<p><strong>Cisco Prime Infrastructure Reports</strong></p>
+<ul>
+  <li>Reports Dashboard</li>
+  <li>Scheduling Reports</li>
+  <li>Compliance Reports</li>
+</ul>

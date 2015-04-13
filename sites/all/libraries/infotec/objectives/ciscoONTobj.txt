@@ -1,0 +1,9 @@
+<p> After completing this course the student should be able to: </p>
+<ul>
+  <li> Explain the Cisco hierarchical network model as it pertains to an end-to-end enterprise network </li>
+  <li>Describe specific requirements for implementing a VOIP network </li>
+  <li>Describe the need to implement QoS and the methods for implementing QoS on a converged network using Cisco's routers and Catalyst Switches </li>
+  <li>Explain the key IP QoS mechanisms used to implement the DiffServ QoS model </li>
+  <li>Configure Auto QoS for Enterprise </li>
+  <li>Describe and configure wireless security and basic wireless management </li>
+</ul>

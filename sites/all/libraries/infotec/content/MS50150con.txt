@@ -1,0 +1,303 @@
+<p><strong>Module 1: Introduction to the .NET  Framework</strong> - This module  explains how to develop applications in a variety of languages for the .NET  Framework, and how various runtime mechanisms facilitate the execution of  managed programs.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Introduction  to the .NET Framework<br />
+    Common  Language Runtime Components – Garbage collector (GC), Common Type System (CTS),  Just-in-Time compiler (JIT) <br />
+    An Overview  of Managed Languages<br />
+    Microsoft  Intermediate Language (IL)<br />
+    Native Image  Generator (NGEN)<br />
+    An Overview  of the Framework Class Library (FCL)<br />
+    .NET Version  Evolution – from .NET 1.0 to .NET 3.5 <br />
+  </p>
+</blockquote>
+<p><strong>Module 2: Introduction to C# 3.0</strong> - This module  explains how to make the first steps in the Visual Studio Integrated  Development Environment (IDE) and use the Framework Class Library (FCL) to  develop simple C# applications.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    C# 3.0:  Overview and Design Goals<br />
+    The Visual  Studio Integrated Development Environment<br />
+    &quot;Hello  World&quot; in C#<br />
+    Namespaces  and References – Importing types, multi-targeting support, target platform<br />
+    Console  Operations<br />
+    String  Formatting<br />
+    Disassembling  .NET – ILDASM, .NET Reflector<br />
+    Lab : Basic  Operations<br />
+    Simple  console operations<br />
+    String  output formatting<br />
+  </p>
+</blockquote>
+<p><strong>Module 3: The .NET Type System</strong> - This module  explains how to choose and use the proper category of types – reference types  or value types – for the task at hand, how to convert between different types  and be wary of performance penalties introduced by boxing and unboxing.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    The Common  Type System<br />
+    The Common  Language Specification<br />
+    Primitives  and Built-in Types<br />
+    Value Types  and Reference Types<br />
+    Boxing and  Unboxing<br />
+    System.Object  Class Members<br />
+    Type  Conversions<br />
+    Lab :  Reviewing Reference Types and Value Types<br />
+    Class  exercise – comparing operations on value types and reference types <br />
+    Lab :  Reviewing Object Equality<br />
+    Class  exercise – comparing equality operations on value types and reference types <br />
+  </p>
+</blockquote>
+<p><strong>Module 4: C# Classes</strong> - This module  explains how to design and implement C# c lasses with a variety of member  types, and accommodate for the coding guidelines of .NET Framework types.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Class  Members<br />
+    Access  Modifiers<br />
+    Nested Types<br />
+    Fields<br />
+    Constructors  and Static Constructors<br />
+    Constants  and Readonly Fields<br />
+    Properties  and Automatic Properties<br />
+    Object  Initializer Syntax<br />
+    Methods and  Static Methods<br />
+    Static  Classes<br />
+    Extension  Methods<br />
+    Partial  Types and Partial Methods<br />
+    The new  Operator<br />
+    Parameter  Modifiers<br />
+    Variable  Parameter Lists<br />
+    The Entry  Point and its Parameters<br />
+    Destructors<br />
+    Lab : Basic  Class<br />
+    Rectangle  class – methods, static methods, fields, properties<br />
+    Linked list,  partial methods, and extension methods<br />
+  </p>
+</blockquote>
+<p><strong>Module 5: Garbage Collection</strong> - This module  explains how to interact with the .NET garbage collector (a service that  automatically reclaims unused memory), and how to use finalization to execute  cleanup code for unmanaged resources.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Destructor  and Finalization<br />
+    Tracing  Garbage Collection<br />
+    Interacting  with the Garbage Collector<br />
+    Generations<br />
+    Weak  References<br />
+  </p>
+</blockquote>
+<p><strong>Module 6: XML Documentation</strong> - This module  explains how to document code while developing it and how to generate  professional-looking external documentation from XML comments.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    XML Overview<br />
+    XML  Documentation in Comments<br />
+    Auxiliary  Tools – Sandcastle, DocumentX!<br />
+  </p>
+</blockquote>
+<p><strong>Module 7: Arrays and Strings</strong> - This module  explains how to declare and use arrays and strings.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Array  Definition and Usage – Multi-dimensional, jagged, System.Array<br />
+    Casting and  Enumerating Arrays<br />
+    String Class  Members<br />
+    String  Immutability<br />
+    StringBuilder<br />
+    String  Literals<br />
+    Lab : Name  Processing<br />
+    Reading,  sorting, and writing strings and files<br />
+  </p>
+</blockquote>
+<p><strong>Module 8: Object Oriented Programming in C#</strong> - This module  explains how to use inheritance and polymorphism in C# classes, including up-and down-casts.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Inheritance  and Polymorphism<br />
+    Up Casts and  Down Casts<br />
+    Inheritance  and Overriding Subtleties<br />
+    Lab : Shapes<br />
+    Shape  inheritance hierarchy<br />
+    Extending  the hierarchy – a compound shape (Composite design pattern)<br />
+  </p>
+</blockquote>
+<p><strong>Module 9: Structures and Enumerations</strong> - This module  explains how to implement user-defined value types (structures) in .NET  applications with the motivation for doing so, and how to design enumeration  types for convenient usage.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    User-Defined  Value Types<br />
+    Field  Initialization<br />
+    Nullable  Types<br />
+    Enumerations  and Flags<br />
+  </p>
+</blockquote>
+<p><strong>Module 10: Indexers</strong> - This module  explains how to implement indexed class properties emulating array access  syntax.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Indexers<br />
+    Consuming  Indexers from Other .NET Languages<br />
+    Lab :  Receptionist Scheduling<br />
+    Indexer  access to classes<br />
+    Multi-parameter  indexers<br />
+  </p>
+</blockquote>
+<p><strong>Module 11: Exception Handling</strong> - This module  explains how to design error-reporting using exceptions in managed  applications, how to throw, catch and handle exceptions in a resource-oriented  environment, and how to declare user-defined exceptions.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Error  Reporting Alternatives<br />
+    Throwing and  Catching Exceptions<br />
+    Exception  Types and Objects<br />
+    Inner  Exceptions<br />
+    User-Defined  Exceptions<br />
+    Resource  Management<br />
+    Checked and  Unchecked Arithmetic<br />
+    Exception  Design Guidelines and Performance<br />
+    Lab :  Incorporating Exception Handling<br />
+    Adding  exception handling to Lab 4<br />
+  </p>
+</blockquote>
+<p><strong>Module 12: Interfaces</strong> - This module  explains how to declare interfaces, how to implement them explicitly or implicitly, and how to use system interfaces that are part of the .NET  Framework.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Interface  Declaration and Implementation<br />
+    Explicit  Interface Implementation<br />
+    System  Interfaces<br />
+    Extending  Interfaces using Extension Methods<br />
+    Lab :  Enumeration Capabilities<br />
+    Providing  enumeration via foreach to the class from Lab 7 in Module 10<br />
+    Providing  find (with a comparer) capabilities to the class from Lab 4 <br />
+  </p>
+</blockquote>
+<p><strong>Module 13: Operator Overloading</strong> - This module  explains how to add user-defined operators to types, in order to provide a more  convenient syntactic usage form.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Overloading  Operators<br />
+    Operator  Names in the CLS<br />
+    User-Defined  Conversions – Implicit and explicit, sequence of conversions<br />
+  </p>
+</blockquote>
+<p><strong>Module 14: Delegates and Events</strong> - This module  explains how to declare and define delegates as multi-function pointers, how delegates are implemented, how to use anonymous methods (closures) for improving  programming productivity, and how to use events to implement common design  patterns.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Delegate  Definition and Usage<br />
+    Delegate  Implementation<br />
+    Multi-cast  Delegates<br />
+    Anonymous  Methods<br />
+    Lambda  Functions<br />
+    Events<br />
+    Event Design  Patterns<br />
+    Lab : Sorting  with Delegates<br />
+    Sort  criteria implementation using delegates<br />
+    Lab :  Event-Based Chat System<br />
+    Client and  server event-based chat<br />
+  </p>
+</blockquote>
+<p><strong>Module 15: Preprocessor Directives</strong> - This module  explains how to use preprocessor directives to conditionally compile code into  C# applications.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Preprocessing  Directives<br />
+    Defining and  Undefining Preprocessor Directives<br />
+  </p>
+</blockquote>
+<p><strong>Module 16: Improved C++</strong> - This module  explains how to avoid common pitfalls when transitioning from C++ to C#.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Control Flow  Statements<br />
+    Switch  Blocks<br />
+  </p>
+</blockquote>
+<p><strong>Module 17: Metadata and Reflection</strong> - This module  explains how to use Reflection to obtain run-time information about types,  methods, properties and fields, and how to create object instances and interact  with them at run-time without requiring early-binding during compilation.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Metadata  Tables<br />
+    Reflection  Types<br />
+    System.Activator<br />
+    Lab :  Self-Registration with Interfaces<br />
+    Self-registered  singleton repository using a marker interface<br />
+  </p>
+</blockquote>
+<p><strong>Module 18: Attributes</strong> - This module  explains how to decorate code elements with framework-defined and custom  attributes, how to design and implement custom attribute types, how to query  attributes using Reflection and how to design aspect-oriented applications  using attributes. </p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Attribute  Class<br />
+    Attribute  Examples<br />
+    Applying Attributes<br />
+    User-Defined  Attributes and Attribute Usage<br />
+    Querying  Attributes with Reflection<br />
+    Lab :  Logging with Attributes<br />
+    Primitive  object serialization for logging purposes<br />
+    Lab :  Self-Registration with Attributes<br />
+    Self-registration  (see Lab 12) with attributes instead of a marker interface<br />
+  </p>
+</blockquote>
+<p><strong>Module 19: Generics</strong> - This module  explains how to design and implement generic types and methods for the widest  range of data types, how to use constraints to limit the application of generic  code, how to interrogate generic types at run-time using Reflection and how  .NET generics compare to C++ templates.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Motivation  for Generics<br />
+    Generic  Constraints<br />
+    Generic  Interfaces, Methods, and Delegates<br />
+    .NET  Generics vs. C++ Templates<br />
+    Generics and  Reflection<br />
+  </p>
+</blockquote>
+<p><strong>Module 20: Generic Collections</strong> - This module  explains how to use the system generic collections to obtain better performance  with value types and reference types, and how to use generic system interfaces.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Built-in  Generic Collections<br />
+    Generic  System Interfaces<br />
+    Collection  Initializers<br />
+    Lab :  Implementing a Generic Collection<br />
+    Implementing  IList on the collection from Lab 4<br />
+  </p>
+</blockquote>
+<p><strong>Module 21: Deployment, Versioning, and  Configuration</strong> - This module  explains how to deploy, version, configure and register .NET assemblies in a  private or shared configuration scenario, how to control versioning and binding  policy through application configuration files, and how to create multi-module (and even multi-language) assemblies.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Deployment  and Versioning of .NET Assemblies<br />
+    Private and  Shared Assemblies – The Global Assembly Cache (GAC)<br />
+    Application  Configuration Files<br />
+    Versioning  Policies<br />
+    Friend  Assemblies<br />
+    Multi-Module  Assemblies<br />
+    Lab :  Creating and Registering Assemblies<br />
+    Creating a  privately deployed assembly<br />
+    Using  probing configuration to access an assembly at a sub-directory<br />
+    Registering  a shared assembly in the GAC<br />
+    Controlling  versioning (binding) policy using application configuration<br />
+  </p>
+</blockquote>
+<p><strong>Module 22: Unsafe Code and Interoperability</strong> - This module  explains how to use the .NET interoperability features to integrate managed and  unmanaged code within the same application, and how to use unsafe code (C#  pointers) to obtain performance and interoperability benefits.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    .NET  Interoperability Options<br />
+    Introduction  to Platform Invoke (P/Invoke)<br />
+    Unsafe Code  – C# Pointers<br />
+    Lab :  Calling Exported C Functions from C#<br />
+    Calling a  custom exported C function from C<br />
+    Calling a  Win32 API (requiring a reverse P/Invoke callback)<br />
+  </p>
+</blockquote>
+<p><strong>Module 23: Introduction to  Language-Integrated Query (LINQ)</strong> - This module  explains how to use Language-Integrated Query (LINQ) constructs and associated  language features to increase productivity and model declarative data-driven  applications instead of implementing them in the standard imperative manner.</p>
+<p><strong>Lessons and Labs</strong></p>
+<blockquote>
+  <p>
+    Anonymous  Types and Implicit Variables<br />
+    Expression  Trees<br />
+    Query  Operators and the Query Pattern<br />
+    Language-Integrated  Query Keywords and Query Translation<br />
+    LINQ to  Objects<br />
+    Lab : Using  LINQ<br />
+    Implementing  extension methods<br />
+    Implementing  custom query operators<br />
+    Implementing  the query pattern<br />
+    Writing  declarative LINQ queries against object models<br />
+  </p>
+</blockquote>

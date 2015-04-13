@@ -1,0 +1,16 @@
+ <p> As a result of this training, the students will be able to: </p>
+   <ul>
+     <li> Use RMAN to backup all your 9.x and 10g databases to disk or tape </li>
+     <li>Use RMAN to backup Automatic Storage Management (ASM) files </li>
+     <li>Use RMAN to restore and recover all your 9.x and 10g databases </li>
+     <li>Tune RMAN operations (disk and tape) </li>
+     <li>Perform full and incremental backups (to disk or tape) of databases, tablespaces and datafiles </li>
+     <li>Perform complete and incomplete (point in time) recoveries </li>
+     <li>Backup and Recover the control file </li>
+     <li>Use the new Oracle10g features such as compressed backups, change tracking and recovery through database incarnations </li>
+     <li>Create RMAN scripts </li>
+     <li>Allocate channels to employ parallelism and other tuning techniques </li>
+     <li>Generate RMAN reports to determine what can be recovered, what needs to be backed up and more. </li>
+     <li>Maintain the RMAN recovery catalog and target database control file </li>
+     <li>Use special RMAN features such as backup set duplexing, restore validation and more<strong></strong></li>
+   </ul>

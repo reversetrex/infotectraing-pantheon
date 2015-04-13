@@ -1,0 +1,181 @@
+<p><strong>Introduction to PL/SQL</strong></p>
+<ul>
+ <li>PL/SQL Overview</li>
+ <li>Benefits of PL/SQL Subprograms</li>
+ <li>Overview of the Types of PL/SQL blocks</li>
+ <li>Creating and Executing an Anonymous Block</li>
+ <li>Displaying Output from a PL/SQL Block</li>
+</ul>
+<p><strong>PL/SQL Identifiers</strong></p>
+<ul>
+ <li>PL/SQL datatypes</li>
+ <li>Using the Declarative Section of a block</li>
+ <li>Storing Data in Variables</li>
+ <li>Scalar Data Types</li>
+ <li>%TYPE Attribute</li>
+ <li>Using Sequences in PL/SQL Expressions</li>
+</ul>
+<p><strong>Executable Statements</strong></p>
+<ul>
+ <li>Describing Basic PL/SQL Block Syntax Guidelines</li>
+ <li>Commenting Code</li>
+ <li>SQL Functions in PL/SQL</li>
+ <li>Data Type Conversion</li>
+ <li>Nested Blocks</li>
+ <li>Operators in PL/SQL</li>
+ <li>Retrieving Data with SELECT Statements in PL/SQL</li>
+ <li>Making Changes to Database Data Using PL/SQL</li>
+ <li>SQL Cursors</li>
+ <li>Using SQL Cursor Attributes</li>
+ <li>Transaction Processing in PL/SQL</li>
+</ul>
+<p><strong>Control Structures</strong></p>
+<ul>
+ <li>Using IF Statements</li>
+ <li>Using CASE Statements</li>
+ <li>Simple Loop Statement</li>
+ <li>While Loop Statement</li>
+ <li>For Loop Statement</li>
+ <li>The Continue Statement</li>
+</ul>
+<p><strong>Composite Data Types </strong></p>
+<ul>
+ <li>Using PL/SQL Records</li>
+ <li>Using the %ROWTYPE Attribute</li>
+ <li>Inserting and Updating with PL/SQL Records</li>
+ <li>Using PL/SQL Tables (Associative Arrays)</li>
+</ul>
+<p><strong>Explicit Cursors</strong></p>
+<ul>
+ <li>Understanding Explicit Cursors</li>
+ <li>Declaring the Cursor</li>
+ <li>Opening the Cursor</li>
+ <li>Fetching data from the Cursor</li>
+ <li>Closing the Cursor</li>
+ <li>Cursor FOR loop</li>
+ <li>Explicit Cursor Attributes</li>
+ <li>FOR UPDATE Clause</li>
+ <li>WHERE CURRENT Clause</li>
+</ul>
+<p><strong>Exception Handling</strong></p>
+<ul>
+ <li>Understanding Exceptions and Exception Handling</li>
+ <li>Coding for Predefined Oracle Server Errors</li>
+ <li>Coding for Non-Predefined Oracle Server Errors</li>
+ <li>Coding for User-Defined Exceptions</li>
+ <li>Exception Propogation</li>
+ <li>Calling the RAISE_APPLICATION_ERROR Procedure</li>
+</ul>
+<p><strong>Stored Procedures</strong></p>
+<ul>
+ <li>Modular Development</li>
+ <li>Understanding the PL/SQL Execution Environment</li>
+ <li>Advantages of Using PL/SQL Subprograms</li>
+ <li>Anonymous Blocks verses Stored Subprograms</li>
+ <li>Using the CREATE Procedure Command</li>
+ <li>Using Parameters</li>
+ <li>Understanding Parameters Modes</li>
+ <li>Viewing Information About Stored Procedures Using the Data Dictionary Views</li>
+</ul>
+<p><strong>Stored Functions</strong></p>
+<ul>
+ <li>Using the CREATE Function Command</li>
+ <li>Calling User-Defined Functions in SQL Statements</li>
+ <li>Controlling Side Effects When Calling Functions from SQL Expressions</li>
+ <li>Viewing Information About Stored Functions Using the Data Dictionary Views</li>
+</ul>
+<p><strong>Managing Dependencies</strong></p>
+<ul>
+ <li>Define Schema Object Dependencies</li>
+ <li>Querying information about dependencies from the USER_DEPENDENCIES View</li>
+ <li>Status for a Schema Object</li>
+ <li>Invalidation of Dependent Objects</li>
+ <li>Fine-Grained Dependency Management in Oracle Database 11g</li>
+ <li>Recompiling a PL/SQL Program Unit</li>
+</ul>
+<p><strong>BREAK HERE  FOR PART 2:</strong></p>
+<p><strong>Packages</strong></p>
+<ul>
+ <li>Advantages of Packages</li>
+ <li>Describing Packages</li>
+ <li>The Components of a Package</li>
+ <li>Using the CREATE Package and CREATE Package Body Commands</li>
+ <li>The Scope of a Package’s Components</li>
+ <li>Invoking the Elements in a Package</li>
+ <li>Persistent State of Packages</li>
+ <li>Using the Data Dictionary to View Package Source Code</li>
+ <li>Overloading Subprograms in PL/SQL</li>
+ <li>Using Forward Declarations</li>
+ <li>Using Package Functions in SQL</li>
+ <li>Using PL/SQL Tables of Records in Packages</li>
+</ul>
+<p><strong>DML Triggers</strong></p>
+<ul>
+ <li>Identifying Scenarios for Implementing Triggers</li>
+ <li>Trigger Events</li>
+ <li>Trigger Bodies</li>
+ <li>Using the CREATE TRIGGER Statement to Create DML Triggers</li>
+ <li>Statement Level Triggers Versus Row Level Triggers</li>
+ <li>Disabling Triggers</li>
+</ul>
+<p><strong>Compound, DDL, and Event Database Triggers</strong></p>
+<ul>
+ <li>Working With Compound Triggers</li>
+ <li>Identifying the Timing-Point of a Table Compound Trigger</li>
+ <li>Structure of Compound Triggers</li>
+ <li>Using a Compound Trigger to Resolve the Mutating Table Error</li>
+ <li>Creating Triggers on DDL Statements</li>
+ <li>Creating Database-Event and System-Event Triggers</li>
+ <li>System Privileges Required for Trigger Management</li>
+</ul>
+<p><strong>Oracle-Supplied Packages</strong></p>
+<ul>
+ <li>Examples of Some of the Oracle-Supplied Packages</li>
+ <li>Using the DBMS_OUTPUT Package</li>
+ <li>Using the UTL_FILE Package</li>
+ <li>Using the UTL_MAIL Package</li>
+ <li>Using the DBMS_METADATA Package</li>
+ <li>Using the UTL_COMPRESS Package</li>
+ <li>Using the DBMS_CRYPTO Package</li>
+ <li>Using the DBMS_SCHEDULER Package</li>
+ <li>Using the DBMS_PIPE Package</li>
+</ul>
+<p><strong>Dynamic SQL and Bulk Processing</strong></p>
+<ul>
+ <li>Using the EXECUTE IMMEDIATE Command</li>
+ <li>Cursor Variables</li>
+ <li>Using Native Dynamic SQL to Compile PL/SQL Code</li>
+ <li>Context Switches</li>
+ <li>Bulk Processing</li>
+ <li>Using the FORALL Statement</li>
+</ul>
+<p><strong>Design Considerations</strong></p>
+<ul>
+ <li>Autonomous Transactions</li>
+ <li>The NOCOPY Compiler Hint</li>
+ <li>The PARALLEL_ENABLE Hint</li>
+ <li>Security Options for Stored PL/SQL Units</li>
+ <li>Using the Cross-Session PL/SQL Function Result Cache</li>
+ <li>Using the DETERMINISTIC Clause with Functions</li>
+ <li>Improving Performance Using Bulk Binding</li>
+</ul>
+<p><strong>The PL/SQL Compiler</strong></p>
+<ul>
+ <li>Using the PL/SQL Compiler</li>
+ <li>Initialization Parameters for PL/SQL Compilation</li>
+ <li>PL/SQL Compile Time Warnings</li>
+ <li>Compile Time Warning Messages Categories</li>
+ <li>Using PLSQL_WARNINGS Initialization Parameter to Set the Warning Messages Levels</li>
+ <li>Using the DBMS_WARNING Package to Set the Warning Messages Levels</li>
+ <li>Querying the Compiler Warnings from the Data Dictionary Views</li>
+</ul>
+<p><strong>Managing PL/SQL Code</strong></p>
+<ul>
+ <li>Conditional Compilation</li>
+ <li>Using Selection Directives</li>
+ <li>Using Predefined and User-Defined Inquiry Directives</li>
+ <li>The PLSQL_CCFLAGS Parameter and the Inquiry Directive</li>
+ <li>Using Conditional Compilation Error Directives to Raise User-Defined Errors</li>
+ <li>Using the DBMS_DB_VERSION Package</li>
+ <li>Using DBMS_PREPROCESSOR Procedures to Print or Retrieve Source Text</li>
+</ul>

@@ -1,0 +1,7 @@
+<p><strong>6460:</strong></p>
+
+<p>This instructor-led course provides students with the knowledge and skills to build and configure a Windows Presentation Foundation (WPF) solution.</p>
+
+<p><strong>6461:</strong></p>
+
+<p>This instructor-led course provides students with the knowledge and skills to build and configure a Windows Communication Foundation (WCF) solution.</p>

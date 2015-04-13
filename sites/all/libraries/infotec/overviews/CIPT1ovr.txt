@@ -1,0 +1,1 @@
+This course provides learners with the necessary knowledge and skills to install, configure, and maintain a Cisco IP Telephony solution based on Cisco CallManager 5.0, the call routing and signaling component of the Cisco IP Telephony solution.

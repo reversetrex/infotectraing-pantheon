@@ -1,0 +1,61 @@
+<p><strong>Module 1: Project Validation - This module discusses the project validation system.</strong></p>
+<ul>
+  <li>Project Validation Parameters</li>
+  <li>Enable Validation for Workers</li>
+  <li>Validation Groups</li>
+  <li>Enable Project Assignments</li>
+</ul>
+<p><strong>Module 2: Project Forecasting - This module discusses forecasting within the Project management and   accounting module. It describes how the concepts are closely linked within this module and how they can be used in all types of projects.</strong></p>
+<ul>
+  <li>Forecast Models</li>
+  <li>Enter Forecasts</li>
+  <li>Forecast Scheduling</li>
+  <li>Forecasting Hours</li>
+</ul>
+<p><strong>Module 3: Advanced Project Invoicing - This module describes advanced features of project invoicing in the Project management and accounting module of Microsoft Dynamics AX 2012, including funding sources, funding limits, funding rules and allocations. The module also covers grants, which are most often used by the public sector and research facilities.</strong></p>
+<ul>
+  <li>Project Invoicing Parameters</li>
+  <li>Funding Sources</li>
+  <li>Funding Limits</li>
+  <li>Funding Rules</li>
+  <li>Fixed-Rate Agreements</li>
+  <li>Grant Management</li>
+  <li>Invoice Approval</li>
+</ul>
+<p><strong>Module 4: Advanced Internal Project - This module describes the accounting principles involved with running advanced internal projects in the Microsoft Dynamics AX Project management and accounting module.</strong></p>
+<ul>
+  <li>Internal Projects with Work in Progress (WIP)</li>
+  <li>Internal Project with WIP Example</li>
+  <li>Investment Projects</li>
+  <li>Investment Project Example</li>
+</ul>
+<p><strong>Module 5: Advanced Time and Material Project - This module describes the accounting principles involved with running advanced time and material projects in the Microsoft Dynamics AX Project management and accounting module.</strong></p>
+<ul>
+  <li>Time and Material Project with WIP</li>
+  <li>Example: Time and Material Project with WIP</li>
+  <li>Post Costs Form</li>
+  <li>Time and Material Project with Accruals</li>
+  <li>Example: Time and Material Project with Accruals</li>
+  <li>Reversing Accrued Revenue</li>
+</ul>
+<p><strong>Module 6: Advanced Fixed-Price Projects - This module describes the handling of advanced fixed-price projects. Its main focus is on how to deal with work in process (WIP), and how to use the estimate system for revenue accruals on these projects.</strong></p>
+<ul>
+  <li>Completed Contract Assessment Principle</li>
+  <li>Completed Percentage Principle</li>
+  <li>The Estimate Process</li>
+  <li>Period Types</li>
+  <li>Cost Templates</li>
+  <li>Estimate Projects</li>
+  <li>Creating Estimates</li>
+</ul>
+<p><strong>Module 7: Fixed-Price Project with Completed Contract - This module describes the accounting principles involved with running the advanced fixed-price project with the completed contract method of revenue recognition.</strong></p>
+<ul>
+  <li>Fixed-Price Project with Completed Contract Example</li>
+</ul>
+<p><strong>Module 8: Fixed-Price Project with Completed Percentage - This module describes the accounting principles involved with running advanced fixed-price projects with the completed percentage method of revenue recognition.</strong></p>
+<ul>
+  <li>Fixed-Price Project with Completed Percentage and Sales Value</li>
+  <li>Fixed-Price Project with Completed Percentage and Sales Value Example</li>
+  <li>Fixed-Price Project with Completed Percentage and Production Plus (+) Profit</li>
+  <li>Fixed-Price Project with Completed Percentage and Production Plus (+) Profit Example</li>
+</ul>

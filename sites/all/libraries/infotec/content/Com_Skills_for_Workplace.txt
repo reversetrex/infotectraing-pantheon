@@ -1,0 +1,11 @@
+<h2>Session 1</h2>
+  <h3>Section A: Communication Skills for the Workplace</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Learn to Listen</li>
+    <li>Breaking Down the Barriers</li>
+    <li>Public Speaking</li>
+    <li>Building Communication Skills Early</li>
+    <li>Writing</li>
+    <li>Review</li>
+  </ul>

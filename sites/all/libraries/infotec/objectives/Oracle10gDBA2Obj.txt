@@ -1,0 +1,13 @@
+<p> As a result of this training, the students will be able to: </p>
+<ul>
+  <li> Use RMAN to create and manage backup sets and image copies</li>
+  <li>Recover the database to a previous point in time</li>
+  <li>Use Oracle Secure Backup to backup and recover a database</li>
+  <li>Use Oracle's Flashback technology to recover your database </li>
+  <li>Detect block corruptions and take appropriate measures to correct them</li>
+  <li>Use the various Database advisors and views to monitor and improve database performance </li>
+  <li>Control database resource usage with the Resource Manager </li>
+  <li>Simplify management tasks by using the Scheduler</li>
+  <li>Review database log files for diagnostic purposes</li>
+  <li>Customize language-dependent behavior for the database and individual sessions <strong></strong></li>
+</ul>

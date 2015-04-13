@@ -1,0 +1,92 @@
+<p><strong>Principles of WLAN Communication</strong></p>
+<ul>
+ <li>802.11 Working Group</li>
+ <li>OSI reference model and the 802.11 PHY and MAC</li>
+ <li>Communication sublayers and data units</li>
+ <li>WLAN architecture components</li>
+ <li>Organization of station forwarding</li>
+ <li>Addressing and internetworking operation</li>
+ <li>Modern WLAN product architectures</li>
+</ul>
+<p><strong>Physical (PHY) and MAC Layer Formats and Technologies</strong></p>
+<ul>
+ <li>Physical layer functions</li>
+ <li>Preamble function and format</li>
+ <li>Header purpose and structure</li>
+ <li>Analysis of PHY problems</li>
+ <li>Physical PPDU formats</li>
+ <li>802.11b</li>
+ <li>802.11a</li>
+ <li>802.11g</li>
+ <li>802.11n</li>
+ <li>MAC frame components</li>
+ <li>MAC encapsulation</li>
+ <li>Fields and subfields of the MAC header</li>
+ <li>Frame Control</li>
+ <li>Frame types and subtypes and their uses</li>
+ <li>Addressing</li>
+ <li>Frame body</li>
+ <li>Data frame format</li>
+ <li>Control frame format</li>
+ <li>Management frame format</li>
+ <li>Information elements and fields</li>
+</ul>
+<p><strong>Protocol Operation</strong></p>
+<ul>
+ <li>Beaconing and synchronization</li>
+ <li>Scanning</li>
+ <li>Client state machine</li>
+ <li>802.11 contention</li>
+ <li>QoS</li>
+ <li>Admission control</li>
+ <li>Band steering and airtime fairness mechanisms</li>
+ <li>Fragmentation</li>
+ <li>Acknowledgments and Block acknowledgments</li>
+ <li>Protection mechanisms and backward compatibility</li>
+ <li>Power management</li>
+ <li>Dynamic Frequency Selection (DFS) and Transmit Power Control (TPC)</li>
+ <li>Security components, methods, and exchanges</li>
+ <li>Roaming procedures exchanges</li>
+ <li>Future protocol enhancements</li>
+</ul>
+<p><strong>802.11n</strong></p>
+<ul>
+ <li>Transmit beamforming</li>
+ <li>Spatial multiplexing</li>
+ <li>Maximal Ratio Combining (MRC)</li>
+ <li>Space-Time Block Coding</li>
+ <li>40 MHz channels</li>
+ <li>Frame aggregation</li>
+ <li>HT-OFDM format</li>
+ <li>Modulation and Coding Schemes (MCS)</li>
+ <li>HT frame formatting</li>
+ <li>And More</li>
+</ul>
+<p><strong>Protocol Analysis Tools and Methodology</strong></p>
+<ul>
+ <li>Troubleshooting methodology</li>
+ <li>Protocol analyzer types</li>
+ <li>Analysis NIC/adapter selection and constraints</li>
+ <li>Interpreting results based on location</li>
+ <li>Analyzer settings and features</li>
+ <li>Filtering and channel scanning</li>
+ <li>Interpreting decodes</li>
+ <li>Using advanced analysis features</li>
+ <li>Assessing WLAN health and behavior factors</li>
+ <li>Evaluating network statistics</li>
+ <li>Troubleshooting common problems</li>
+ <li>Wired analysis to support wireless network issues</li>
+</ul>
+<p><strong>Spectrum Analysis Tools and Methodology</strong></p>
+<ul>
+ <li>Radio frequency behavior review</li>
+ <li>Visualizing RF domains using spectrum measurement tools</li>
+ <li>Spectrum analyzer types and operation</li>
+ <li>Analyzer specifications and characteristics</li>
+ <li>Understanding spectrum data presentation</li>
+ <li>Interpreting plots and charts</li>
+ <li>Common WLAN spectrum analyzer features</li>
+ <li>Identifying transmit patterns</li>
+ <li>Device classification and network impact</li>
+ <li>Recognizing transmit signatures</li>
+</ul>

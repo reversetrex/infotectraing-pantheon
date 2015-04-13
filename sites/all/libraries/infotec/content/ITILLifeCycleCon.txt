@@ -1,0 +1,343 @@
+<p><strong>CHAPTER 1: LIFECYCLE  CERTIFICATION COURSE</strong></p>
+<blockquote>
+  <p>
+    Welcome!<br />
+    Housekeeping<br />
+    Course Organization<br />
+    Agenda - Overview<br />
+    Courseware Usage<br />
+    Courseware Conventions<br />
+    ITIL Lifecycle Exam<br />
+    ITIL Qualification Scheme<br />
+    Getting Started<br />
+    Free Stuff<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 2: SERVICE OPERATION</strong></p>
+<blockquote>
+  <p>
+    Service Operation &amp; the Service Lifecycle<br />
+    Managing Through the Lifecycle<br />
+    Purpose, Goals &amp; Objectives of Service  Operation<br />
+    The Scope of Service Operation<br />
+    Service Operation - Value to the Business<br />
+    The Principle of Service Operation<br />
+    Organizing Service Operation<br />
+    Achieving Balance in Service Operation<br />
+    Balancing Stability &amp; Responsiveness<br />
+    Balancing QoS &amp; CoS<br />
+    Balancing Reactive &amp; Proactive<br />
+    Providing Service<br />
+    Service Operation &amp; Transition &amp; Design<br />
+    Operation Health<br />
+    Service Operation Communication<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 3: CHECKPOINT</strong></p>
+<blockquote>
+  <p>
+    Exercise<br />
+    Quiz<br />
+    Quiz - Answer Key<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 4: SERVICE OPERATION  PROCESSES</strong></p>
+<blockquote>
+  <p>
+    The Service Operation Model<br />
+    The Process of Service Operation<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 5: EVENT MANAGEMENT</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Objective<br />
+    Scope<br />
+    Value to the Business<br />
+    Concepts<br />
+    Activities of Event Management<br />
+    Event Occurrence &amp; Notification<br />
+    Event Detection &amp; Filtering<br />
+    Event Significance &amp; Correlation<br />
+    Event Response Trigger &amp; Selection<br />
+    Event Review &amp; Closure<br />
+    Process Relationships<br />
+    Information<br />
+    Metrics &amp; Measures<br />
+    Challenges<br />
+    Summary
+  </p>
+</blockquote>
+<p><strong>CHAPTER 6: INCIDENT  MANAGEMENT</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Objective<br />
+    Scope<br />
+    Value to the Business<br />
+    Concepts<br />
+    Activities of Incident Management<br />
+    Incident Logging<br />
+    Incident Categorization<br />
+    Categorization<br />
+    Incident Priority<br />
+    Incident Escalation<br />
+    Incident Diagnosis<br />
+    Incident Resolution &amp; Recovery<br />
+    Incident Closure<br />
+    Expanded Incident Lifecycle<br />
+    Incident Management - Roles<br />
+    Process Relationships<br />
+    Information<br />
+    Metrics &amp; Measures<br />
+    Challenges<br />
+    Summary<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 7: REQUEST  FULFILLMENT</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Objective<br />
+    Text<br />
+    Value to the Business<br />
+    Concepts<br />
+    Activities of Request Fulfillment<br />
+    Menu Selection<br />
+    Financial Approval<br />
+    Other Approval<br />
+    Fulfillment<br />
+    Closure<br />
+    Process Relationships<br />
+    Information<br />
+    Metrics &amp; Measures<br />
+    Challenges<br />
+    Summary<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 8: PROBLEM  MANAGEMENT</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Objective<br />
+    Scope<br />
+    Concepts<br />
+    Value to the Business<br />
+    Activities of Problem Management<br />
+    Managing the Problem<br />
+    Problem Analysis Techniques<br />
+    Managing the Known Errors<br />
+    Relationships<br />
+    Information<br />
+    Metrics &amp; Measures<br />
+    Challenges<br />
+    Summary<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 9: ACCESS MANAGEMENT</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Objective<br />
+    Scope<br />
+    Value to the Business<br />
+    Concepts<br />
+    Activities of Access Management<br />
+    Access Request<br />
+    Access Verification<br />
+    Provide Rights<br />
+    Monitor Identity Status<br />
+    Log &amp; Track Access<br />
+    Remove or Restrict Rights<br />
+    Process Relationships<br />
+    Information<br />
+    Metrics &amp; Measures<br />
+    Challenges<br />
+    Summary<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 10: NON-SERVICE  OPERATION PROCESSES</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Change Management<br />
+    Configuration Management<br />
+    Release &amp; Deployment Management<br />
+    Knowledge Management<br />
+    Capacity Management<br />
+    Availability Management<br />
+    IT Service Continuity Management<br />
+    Financial Management<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 11: CHECKPOINT</strong></p>
+<blockquote>
+  <p>
+    Exercise<br />
+    Quiz<br />
+    Quiz - Answer Key<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 12: COMMON  ACTIVITIES</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Service Operation Common Activities<br />
+    Monitoring &amp; Control<br />
+    Control Loop<br />
+    IT Operations<br />
+    Mainframe Management<br />
+    Server Management &amp; Support<br />
+    Network Management<br />
+    Storage &amp; Archive<br />
+    Database Management<br />
+    Directory Services Management<br />
+    Desktop Support<br />
+    Middleware Management<br />
+    Internet/Web Management<br />
+    Facilities &amp; Datacenter Management<br />
+    Data Center Strategies<br />
+    IT Security Management<br />
+    Improvement of Operational Activities<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 13: CHECKPOINT</strong></p>
+<blockquote>
+  <p>
+    Exercise<br />
+    Quiz<br />
+    Quiz - Answer Key<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 14: SERVICE  OPERATION FUNCTIONS</strong></p>
+<blockquote>
+  <p>
+    Functions of Service Operation<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 15: SERVICE DESK</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Service Desk<br />
+    Service Desk - Role<br />
+    Service Desk - Objectives<br />
+    Service Desk - Organizational Structures<br />
+    Service Desk - Staffing<br />
+    Service Desk - Metrics<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 16: TECHNICAL  MANAGEMENT</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Technical Management<br />
+    Technical Management - Role<br />
+    Technical Management - Objectives<br />
+    Technical Management - Organizational  Structures<br />
+    Technical Management - Design, Maintenance  &amp; Support<br />
+    Technical Management - Metrics<br />
+    Technical Management - Documentation<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 17: APPLICATION  MANAGEMENT</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Application Management<br />
+    Application Management - Role<br />
+    Application Management - Objectives<br />
+    Application Management - Principles<br />
+    Application Lifecycle<br />
+    Application Management - Generic Activities<br />
+    Application Management<br />
+    Application Management - Roles &amp;  Responsibilities<br />
+    Application Management - Metrics<br />
+    Application Management - Documentation<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 18: OPERATIONS  MANAGEMENT</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    IT Operations<br />
+    IT Operations - Role<br />
+    IT Operations - Objectives<br />
+    IT Operations - Organizational Structures<br />
+    IT Operations - Metrics<br />
+    Operations Management - Documentation<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 19: CHECKPOINT</strong></p>
+<blockquote>
+  <p>
+    Exercise<br />
+    Quiz<br />
+    Quiz - Answer Key<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 20: SERVICE  OPERATION CONSIDERATIONS</strong></p>
+<blockquote>
+  <p>
+    Service Operation Considerations<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 21: SERVICE  OPERATION ORGANIZATIONAL STRUCTURES</strong></p>
+<blockquote>
+  <p>
+    Organizational Structures<br />
+    Specialization Based Structures<br />
+    Activity Based Structures<br />
+    Process Based Structures<br />
+    Geography Based Structures<br />
+    Hybrid Structures<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 22: SERVICE  OPERATION ROLES</strong></p>
+<blockquote>
+  <p>
+    Introduction<br />
+    Service Operation - Roles<br />
+    Service Desk<br />
+    Technical Management<br />
+    IT Operations<br />
+    Application Management<br />
+    Event Management<br />
+    Incident Management<br />
+    Request Fulfillment<br />
+    Problem Management<br />
+    Access Management<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 23: TECHNOLOGY  CONSIDERATIONS</strong></p>
+<blockquote>
+  <p>
+    Service Operation - Technology Considerations<br />
+    Event Management Desired Features<br />
+    Incident Management Desired Features<br />
+    Request Fulfillment Desired Features<br />
+    Problem Management Desired Features<br />
+    Access Management Desired Features<br />
+    Service Desk Desired Features<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 24: IMPLEMENTING SERVICE OPERATION</strong></p>
+<blockquote>
+  <p>
+    Service Operation Implementation<br />
+    Managing Change in Service Operation<br />
+    Service Operation &amp; Project Management<br />
+    Assessing &amp; Managing Risk<br />
+    Involvement in Design &amp; Transition<br />
+    Planning &amp; Implementing Technology<br />
+  </p>
+</blockquote>
+<p><strong>CHAPTER 25: CHECKPOINT</strong></p>
+<blockquote>
+  <p>
+    Exercise<br />
+    Quiz<br />
+    Quiz - Answer Key<br />
+  </p>
+</blockquote>

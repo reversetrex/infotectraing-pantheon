@@ -1,0 +1,172 @@
+<h2>Session 1</h2>
+  <h3>Section A: Intellectual Property</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Basic Copyright Definition</li>
+    <li>Fair Use Doctrine</li>
+    <li>Fair Use Guidelines in Education</li>
+    <li>Derivative Works, Release Forms</li>
+    <li>Image Release</li>
+    <li>Public Domain</li>
+  </ul>
+  <h3>Section B: Project Concept</h3>
+  <ul>
+    <li>Project Purpose</li>
+    <li>What a Client Wants, Target Audience</li>
+    <li>Age, Occupation, Gender</li>
+    <li>Education, Residence, Culture</li>
+    <li>Income, Computer Literacy</li>
+    <li>Project Scope</li>
+    <li>Deadlines, Deliverables, and Needs</li>
+    <li>Project Genre, Concept</li>
+  </ul>
+  <h3>Section C: Production Process</h3>
+  <ul>
+    <li>Production Process Overview</li>
+    <li>Preproduction, Production</li>
+    <li>Postproduction Process</li>
+  </ul>
+  <h3>Section D: Preproduction</h3>
+  <ul>
+    <li>Treatment, Synopsis, Premise</li>
+    <li>Script</li>
+    <li>Three-Act Structure</li>
+    <li>Character Development</li>
+    <li>Shooting Script, Shot List, Scheduling</li>
+    <li>Budget and Schedule, Conclusion</li>
+  </ul>
+  <h3>Section E: Production</h3>
+  <ul>
+    <li>Production Plan</li>
+    <li>Storyboarding</li>
+    <li>Rule of Thirds</li>
+    <li>Camera Shots</li>
+    <li>Extreme Shots</li>
+    <li>Depth of Field, Over the Shoulder, Cross</li>
+    <li>Point-of-View Shot</li>
+    <li>Angle of View</li>
+    <li>Camera Moves</li>
+    <li>Zoom</li>
+    <li>Closing Shot</li>
+    <li>Shooting Fundamentals, Production Log</li>
+    <li>Coverage, Continuity, Cuts, and Cutaways</li>
+    <li>A-Roll and B-Roll</li>
+  </ul>
+  <h3>Section F: Postproduction</h3>
+  <ul>
+    <li>Postproduction Overview</li>
+    <li>Editing, Sound Elements</li>
+    <li>Editing Terms</li>
+    <li>Credits, Exporting</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Understanding the Interface</h3>
+  <ul>
+    <li>Windows, Monitors, Timeline</li>
+    <li>Project Window, Workspace</li>
+    <li>Customize Workspace, Timecode</li>
+    <li>Introduction to Titles</li>
+    <li>Capture Panel, Preferences</li>
+    <li>Effects Panel</li>
+    <li>Tools Panel</li>
+  </ul>
+  <h3>Section B: Building a Slideshow</h3>
+  <ul>
+    <li>New Project</li>
+    <li>Sequence Settings</li>
+    <li>Import Video, Arranging Assets</li>
+    <li>Move Clip, Sizing a Still Image</li>
+    <li>Animation</li>
+    <li>Adjusting Keyframes, Interpolation</li>
+    <li>Audio</li>
+    <li>Transitions</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Compositing Basics</h3>
+  <ul>
+    <li>Import Clips</li>
+    <li>Drag and Drop in Timeline</li>
+    <li>Trim Clips and JKL</li>
+    <li>Lift, Extract, and Delete Clips</li>
+    <li>Trimming in Source Monitor</li>
+    <li>Insert and Overwrite Edits</li>
+    <li>Adding B-Roll Footage</li>
+    <li>Freeze Frame</li>
+  </ul>
+  <h3>Section B: The Interview</h3>
+  <ul>
+    <li>Warp Stabilizer and Nested Sequences</li>
+    <li>Transition on Sequence</li>
+    <li>Insert Edit in Project Window</li>
+    <li>Add Text</li>
+    <li>Point and Paragraph Text</li>
+    <li>Path Text and Effects for Text or Shapes</li>
+    <li>Picking Fonts and Safe Areas</li>
+    <li>Add Effects</li>
+    <li>Applying Effects</li>
+    <li>Term Compositing and Opacity Keyframes</li>
+  </ul>
+  <h3>Section C: Nested Sequences and Titles</h3>
+  <ul>
+    <li>Lower Thirds and Import PSD File</li>
+    <li>Animating Text</li>
+    <li>Text Dissolve</li>
+    <li>Nested Sequence Effects and Clip Speed</li>
+  </ul>
+  <h3>Section D: Lower Thirds</h3>
+  <ul>
+    <li>Proper Lower Third Information</li>
+    <li>Rolling Credit</li>
+    <li>Crawling Text</li>
+    <li>Enhancing Crawling Text</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Picture in Picture</h3>
+  <ul>
+    <li>Working with Picture in Picture</li>
+    <li>Effects in PiP, Basic 3D Effect</li>
+    <li>Closing Shot</li>
+    <li>Graphics Logo, Effects for Graphics</li>
+    <li>Graphics Effects, Adjusting Keyframes</li>
+  </ul>
+  <h3>Section B: Adding Audio</h3>
+  <ul>
+    <li>Importing, Working with Audio</li>
+    <li>Adjusting Audio Basics</li>
+    <li>Adjusting Audio in Keyframes</li>
+    <li>Audio Crossfades</li>
+    <li>Audio Narration</li>
+    <li>Rendering Audio and Video</li>
+    <li>Nested Sequence</li>
+    <li>Adjustment Layers</li>
+  </ul>
+  <h3>Section C: Chroma Key</h3>
+  <ul>
+    <li>Working with Chroma Key</li>
+    <li>Ultra Key</li>
+    <li>Changing Speed</li>
+    <li>Time Remapping</li>
+  </ul>
+  <h3>Section D: Cuts-Only Editing</h3>
+  <ul>
+    <li>Storyboard in Project Panel</li>
+    <li>Rough Cut in Project Window</li>
+    <li>Preliminary Cut</li>
+    <li>Tools for Trimming</li>
+    <li>Ripple Tool</li>
+    <li>Rolling Edit</li>
+    <li>Slip and Slide Tools, Trim Monitor</li>
+    <li>Benefits of Cuts-Only Editing</li>
+    <li>J and L Cut</li>
+    <li>Adding a Sound Effect</li>
+    <li>Audio Mixer, Narration</li>
+  </ul>
+  <h3>Section E: Export Media</h3>
+  <ul>
+    <li>Export Media, File Formats</li>
+    <li>Export Settings</li>
+    <li>Export a Frame or Range</li>
+    <li>Export a Batch</li>
+    <li>Export Clip, Multiple Playback</li>
+    <li>Metadata, Web-Ready</li>
+  </ul>

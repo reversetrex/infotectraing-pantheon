@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course will understand:</p>
+<ul type="disc">
+  <li>Introduction to Service Transition</li>
+  <li>Service Transition Principles</li>
+  <li>Management and control of all Service Transition activities</li>
+  <li>Service Transition Related activities around communications, commitment and organizational change</li>
+  <li>Organizing Service Transition</li>
+  <li>Control and coordination of Service Transition technology related activities Analysis, justification and selection of the implementation approaches, challenges, critical success factors and risks</li>
+</ul>

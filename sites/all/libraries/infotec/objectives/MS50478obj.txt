@@ -1,0 +1,1 @@
+<p>After completing this course, students will be able to  extend many of the core features that SharePoint Foundation provides. These  include event handlers, site definitions, features, solutions and web parts.</p>

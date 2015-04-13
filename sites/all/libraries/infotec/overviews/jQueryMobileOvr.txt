@@ -1,0 +1,1 @@
+Developing Mobile Web Sites with jQuery Mobile will teach you how to create mobile-optimized sites with the easiest, most practical HTML/JavaScript framework available and to add the framework to your HTML pages to create rich, mobile-optimized Web pages.

@@ -1,0 +1,143 @@
+<p> <strong>Oracle Flashback Technology </strong></p>
+<ul>
+  <li>About Flashback Technology </li>
+  <li>Flashback Query </li>
+  <li>Select...As Of Timestamp</li>
+  <li>Select...As Of SCN </li>
+  <li>Flashback Table </li>
+  <li>Flashback Versions Query </li>
+  <li>Flashback Transaction Query </li>
+  <li>Guarantee Undo Retention </li>
+</ul>
+<p> <strong>Managing Resources </strong></p>
+<ul>
+  <li>Database Resource Manager Architecture </li>
+  <li>Consumer Groups </li>
+  <li>Resource Plans </li>
+  <li>Automatic &amp; Adaptive Consumer Group Mapping </li>
+  <li>Enabling &amp; Monitoring The Resource Manager </li>
+  <li>Explicit Consumer Group Switching </li>
+</ul>
+<p> <strong>Automating Tasks With The Database Scheduler (Basic) </strong></p>
+<ul>
+  <li>Scheduler Architecture </li>
+  <li>Manage Programs </li>
+  <li>Manage Schedules </li>
+  <li>Manage Jobs </li>
+</ul>
+<p> <strong>Automating Tasks With The Database Scheduler (Advanced) </strong></p>
+<ul>
+  <li>Manage Job Classes </li>
+  <li>Manage Windows &amp; Window Groups </li>
+  <li>Manage Chains </li>
+  <li>About Events &amp; The Scheduler </li>
+</ul>
+<p> <strong>Globalization Support Objectives </strong></p>
+<ul>
+  <li>Globalization Settings </li>
+  <li>Nls_Lang </li>
+  <li>Nls_Language &amp; Nls_Territory </li>
+  <li>Date &amp; Time Localization </li>
+  <li>Linguistic Indexes </li>
+  <li>About Locale Builder </li>
+</ul>
+<p> <strong>Handling Database Corruption </strong></p>
+<ul>
+  <li>About Database Corruption </li>
+  <li>Db_Block_Checksum </li>
+  <li>Analyze...Validate Structure </li>
+  <li>Dbverify </li>
+  <li>Using Dbms_Repair() </li>
+</ul>
+<p> <strong>Diagnostic Sources </strong></p>
+<ul>
+  <li>More About The Trace &amp; Alert Files </li>
+  <li>Diagnostic Highlights From EM </li>
+  <li>Configuring The Alert Log </li>
+  <li>Managing Policies </li>
+</ul>
+<p> <strong>Securing The Oracle Listener </strong></p>
+<ul>
+  <li>Managing &amp; Monitoring The Listener </li>
+  <li>Secure The Listener </li>
+  <li>Secure External Procedure Calls </li>
+</ul>
+<p> <strong>Monitoring &amp; Managing Memory </strong></p>
+<ul>
+  <li>Automatic Shared Memory Management </li>
+  <li>Using EM &amp; The Memory Advisors </li>
+  <li>Monitor In Memory Access Mode </li>
+</ul>
+<p> <strong>Monitoring &amp; Managing Storage </strong></p>
+<ul>
+  <li>About Resumable Space Allocation </li>
+  <li>Table Management </li>
+  <li>Using The Segment Advisor </li>
+</ul>
+<p> <strong>Managing Redo Log Storage &amp; Monitoring Instance Recovery </strong></p>
+<ul>
+  <li>About Redo Data </li>
+  <li>Tune Redo Writing &amp; Archiving </li>
+  <li>More About Instance Recovery </li>
+  <li>Log_Checkpoints_To_Alert </li>
+</ul>
+<p> <strong>Flashback Database </strong></p>
+<ul>
+  <li>About Flashback Database </li>
+  <li>Configuring The Flash Recovery Area </li>
+  <li>Performing Database Flashback </li>
+  <li>Monitoring Flashback Performance </li>
+  <li>Flashback Database Considerations </li>
+</ul>
+<p> <strong>Configuring RMAN </strong></p>
+<ul>
+  <li>About Database Backup &amp; Recovery Structures </li>
+  <li>RMAN Architecture </li>
+  <li>Launch &amp; Use RMAN </li>
+  <li>Configure RMAN </li>
+  <li>Allocate RMAN Channels </li>
+</ul>
+<p> <strong>Backup With RMAN </strong></p>
+<ul>
+  <li>About Backup File Types </li>
+  <li>Performing Full Backups </li>
+  <li>Performing Incremental Backups </li>
+  <li>Establishing A Backup Retention Policy </li>
+  <li>Generate Catalog Reports</li>
+  <li> Report Unrecoverable </li>
+  <li>Report Need Backup </li>
+  <li>Report Schema </li>
+  <li>List Incarnation </li>
+</ul>
+<p> <strong>Backup With RMAN Using EM </strong></p>
+<ul>
+  <li>Monitoring The Flash Recovery Area </li>
+  <li>About EM &amp; RMAN </li>
+  <li>Scheduling Backups With RMAN </li>
+  <li>Manage Current Backups </li>
+  <li>Backup Reports </li>
+  <li>Manage Restore Points </li>
+</ul>
+<p> <strong>Non-Critical Recovery Operations </strong></p>
+<ul>
+  <li>About The Recovery Process </li>
+  <li>Recover Temporary Tablespaces </li>
+  <li>Recover Read-Only Tablespaces </li>
+  <li>Recover Index Tablespaces </li>
+  <li>Recover Redo Log Group Member </li>
+  <li>Recreate The Password File </li>
+</ul>
+<p> <strong>Database Recovery Operations </strong></p>
+<ul>
+  <li>Control File Recovery </li>
+  <li>Complete Media Recovery</li>
+  <li>Incomplete Media Recovery </li>
+  <li>Performing Block Media Recovery </li>
+  <li>Recovery Using EM </li>
+</ul>
+<p> <strong>Automatic Storage Management </strong></p>
+<ul>
+  <li>ASM And The Broader Database Architecture </li>
+  <li>Defining An ASM Instance </li>
+  <li>Configuring Storage In The ASM Instance </li>
+</ul>

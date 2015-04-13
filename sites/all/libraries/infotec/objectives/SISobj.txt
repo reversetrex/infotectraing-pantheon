@@ -1,0 +1,10 @@
+<ul>
+  <li>Detail the core issues of cryptography, including public and private key.</li>
+  <li>Harden SuSe Linux 10 Server computers.</li>
+  <li>Harden Windows Server 2003 computers.</li>
+  <li>Utilize ethical hacking attack techniques.</li>
+  <li>Secure DNS and web servers, and examine Internet and WWW security.</li>
+  <li>Perform a risk analysis.</li>
+  <li>Create a security policy.</li>
+  <li>Analyze  packet signatures.</li>
+</ul>

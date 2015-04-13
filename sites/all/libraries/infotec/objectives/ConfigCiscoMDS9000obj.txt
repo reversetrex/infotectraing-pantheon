@@ -1,0 +1,9 @@
+<p>Upon completing this course, the learner will be able to meet these overall objectives:</p>
+<ul>
+   <li>Describe the MDS 9000 Series switch platform, Cisco NX-OS, and the features of Cisco Prime DCNM.</li>
+   <li>Explain the techniques and information that will enable you to perform the initial software configuration of a Cisco MDS 9000 Series switch, upgrade the system software, and enable licensing.</li>
+   <li>Explain the configurations involved in building a Cisco Fibre Channel SAN fabric including interfaces, VSANs, domains, port channels, device aliases, NPV, NPIV, and zones.</li>
+   <li>Describe the FCoE protocol and the use of FCoE modules on the Cisco MDS 9500 Series Multilayer Director and Cisco MDS 9700 Series Multilayer Director as a Fibre Channel forwarder in a single-hop and multihop design.</li>
+   <li>Describe the process of configuring security features on Cisco MDS 9000 Series switches to prevent unauthorized access, intrusion, and data theft, and to preserve data integrity in an enterprise SAN environment.</li>
+   <li>Describe the steps for basic FCIP configuration, high availability implementation, and achieving a fault tolerant SAN extension using the IVR feature.</li>
+</ul>

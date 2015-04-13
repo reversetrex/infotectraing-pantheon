@@ -1,0 +1,1 @@
+This instructor-led course provides to teach Active Directory Technology Specialists with the knowledge and skills to configure Active Directory Domain Services in a distributed environment, implement Group Policies, perform backup and restore, and monitor and troubleshoot Active Directory related issues.

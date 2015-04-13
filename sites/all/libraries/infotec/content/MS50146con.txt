@@ -1,0 +1,23 @@
+<p><strong>Module 1: Overview</strong> - This  module introduces the student to the objectives of the course.</p>
+
+<p><strong>Module 2: Document Policies</strong> - This  module explains how to create and use the object model to create basic  information policies and how to create a custom policy resource for the Bar  Code policy feature.</p>
+
+<p><strong>Module 3: Records Management</strong> - This  module reviews configuring and sending documents to the document center, explores the Hold center, and shows how to create and query Record Routing  entries.</p>
+
+<p><strong>Module 4: Content Management</strong> - This  module explains how to use the browser to implement a content deployment  strategy, how to add an action, how to create a variation, how to create  content and set up a Path and Job, and how to create Web applications and site collections.</p>
+
+<p><strong>Module 5: InfoPath Forms Services</strong> - This  module demonstrates how to create an InfoPath Form from scratch, reviews  default forms loaded by MOSS, and shows how to integrate a form view into your  ASP.NET Web forms.</p>
+
+<p><strong>Module 6: Excel Services</strong> - This  module explores how to create an Excel file and publish it to a document library, how to use the Excel Services Web service and create an Excel  Snapshot, how to create a UDF, and how to install the EWA Companion.</p>
+
+<p><strong>Module 7: Business Data Catalog</strong> - This module shows how to define and modify an application definition for SharePoint, how to create a BDC file, how to use the BDC Web Service, and how to set up BDC  Indexing.</p>
+
+<p><strong>Module 8: Business Intelligence</strong> - This  module explores the Report Center and explains how  to use Filter Web parts.</p>
+
+<p><strong>Module 9: Document Converters</strong> - This  module explains creating and using document converters.</p>
+
+<p><strong>Module 10: User Profiles</strong> - This  module explores User profile settings, demonstrates how to find details about  the User Profile Web Service API, and shows how to import BDC data into SharePoint Profile.</p>
+
+<p><strong>Module 11: Audiences</strong> - This module explores how to create audience via the Central  Administration console, and how to create audience programmatically. </p>
+
+<p><strong>Module 12: Search</strong> - This  module explores how to use the Search API, the Search Query API, and the Search Web Service API; how to use Search via the browser and through SPQuery; how to  modify Relevance settings and to create Best Bets; how to update the Thesaurus; and how to get a typical search result .xml.</p>

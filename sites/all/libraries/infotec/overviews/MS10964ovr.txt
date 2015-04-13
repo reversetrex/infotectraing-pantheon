@@ -1,0 +1,21 @@
+This course equips students with the skills they require to deploy and configure System Center 2012 R2 Operations Manager. Using hands-on labs, students learn the following:<br /><br />
+<ul>
+  <li>How to architect and implement a System Center 2012 R2 Operations Manager Management Group.</li>
+  <li>How to upgrade and migrate from an existing Operations Manager 2007 R2 Management Group to System Center 2012 Operations Manager, System Center 2012 SP1 Operations Manager and System Center 2012 R2 Operations Manager.</li>
+  <li>Understand the key elements of Management Packs including Object Discoveries, Rules, Monitors, Targeting and Run As Accounts and Run As Profiles. This includes authoring Management Packs.</li>
+  <li>How to configure fabric and application monitoring in System Center 2012 R2 Operations Manager including both datacenter and cloud resources such as networking, storage and compute.</li>
+  <li>How to configure monitoring of .NET and Java based applications using Application Performance Monitoring.</li>
+  <li>How to configure end-to-end service monitoring including synthetic transactions and Distributed Application Diagrams.</li>
+  <li>How to configure Dashboards, Service Level Tracking Reporting and the SharePoint Web Part to enable visualization of key performance and availability metrics.</li>
+  <li>How to customize the Operations Manager Console to meet the needs of different application support teams.</li>
+  <li>How to integrate Operations Manager with other System Center 2012 R2 components and extend monitoring to include key business processes and procedures.</li>
+  <li>How to troubleshoot an Operations Manager Management Group and perform disaster recovery procedures such as database and management server recovery.</li>
+  <li>How to use new features in System Center 2012 R2 including:
+    <ul>
+      <li>Integration with System Center Advisor.</li>
+      <li>Integration with Team Foundation Server.</li>
+      <li>IntelliTrace.</li>
+      <li>Managing Windows Azure.</li>
+    </ul>
+  </li>
+</ul>

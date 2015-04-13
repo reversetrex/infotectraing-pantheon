@@ -1,0 +1,217 @@
+<p><strong>MS6419</strong>:</p>
+<p><strong>Module 1: Introduction to Managing Microsoft Windows Server 2008  Environment</strong></p>
+<blockquote>
+  <p>  The module explains server roles, Active Directory, the Windows  Server 2008 Administrative Tools and Remote Desktop.</p>
+</blockquote>
+<p>  <strong>Module 2: Creating Active Directory Domain Services User and Computer  Objects</strong></p>
+<blockquote>
+  <p>  This module explains how to manage user accounts, create  computer accounts and manage AD DS objects.</p>
+</blockquote>
+<p>  <strong>Module 3: Creating Groups and Organizational Units</strong></p>
+<blockquote>
+  <p>  This module introduces groups and how to manage them.</p>
+</blockquote>
+<p>  <strong>Module 4: Managing Access to Resources in Active Directory  Domain Services</strong></p>
+<blockquote>
+  <p>  The module explains how to manage access and assign and manage  permissions.</p>
+</blockquote>
+<p>  <strong>Module 5: Configuring Active Directory Objects and Trusts</strong></p>
+<blockquote>
+  <p>  This module explains how to delegate administrative access to AD  DS objects and how to configure AD DS Trusts.</p>
+</blockquote>
+<p>  <strong>Module 6: Creating and Configuring Group Policy</strong></p>
+<blockquote>
+  <p>  This module explains how to configure and manage Group Policy  Objects.</p>
+</blockquote>
+<p><strong>Module 7: Configuring User and Computer Environments  Using Group Policy</strong></p>
+<blockquote>
+  <p>  This module explains how to configure user environments  using group policy.</p>
+</blockquote>
+<p><strong>Module 8: Implementing Security Using Group Policy</strong></p>
+<blockquote>
+  <p>  This module explains how to configure security policies,  implement password policies, restrict access to software and user security  templates.</p>
+</blockquote>
+<p><strong>Module 9: Configuring Server Security Compliance</strong></p>
+<blockquote>
+  <p>  This module explains how to secure a windows  infrastructure, configure an audit policy, manage WSUS and plan for a security  update.</p>
+</blockquote>
+<p><strong>Module 10: Configuring and Managing Storage Technologies</strong></p>
+<blockquote>
+  <p>  This module explains how to manage storage using File  Server Resource Manager, configure quota management, implement file screening  and manage storage reports.</p>
+</blockquote>
+<p>  <strong>Module 11: Configuring and Managing Distributed File System</strong></p>
+<blockquote>
+  <p>  This module explains how to  configure DFS namespaces and replication.</p>
+</blockquote>
+<p><strong>Module 12: Configuring Network Access Protection</strong></p>
+<blockquote>
+  <p>  This module explains how to configure, monitor and  troubleshoot NAP.</p>
+</blockquote>
+<p><strong>Module 13: Configuring Availability of Network Resources</strong></p>
+<blockquote>
+  <p>  This module explains how to configure shadow copies and  provide server and service availability.</p>
+</blockquote>
+<p><strong>Module 14: Monitoring and Maintaining Windows Server 2008  Servers</strong></p>
+<blockquote>
+  <p>  This module explains how to monitor and maintain Windows  Server 2008 servers.</p>
+</blockquote>
+<p><strong>Module 15: Managing Windows Server 2008 Backup and  Restore</strong></p>
+<blockquote>
+  <p>This module explains  how to back up and restore Windows Server 2008 servers.</p>
+</blockquote>
+<p><strong>MS6421</strong>:</p>
+<p><strong>Module 1: Installing and Configuring Servers</strong></p>
+<blockquote>
+  <p>  This module explains how to identify the appropriate usage scenario and  installation type for a server and then install and configure appropriate  server roles and features.<strong></strong></p>
+</blockquote>
+<p><strong>Module 2:  Configuring and Troubleshooting DNS</strong></p>
+<blockquote>
+  <p>  This module explains how to configure, manage and troubleshoot DNS  server and zone properties to be used in a secure environment.</p>
+</blockquote>
+<p><strong>Module 3:  Configuring and Managing WINS</strong></p>
+<blockquote>
+  <p>  This module explains how to configure, manage and troubleshoot WINS  servers.</p>
+</blockquote>
+<p><strong>Module 4:  Configuring and Troubleshooting DHCP</strong></p>
+<blockquote>
+  <p>  This module explains how to configure, manage and troubleshoot a DHCP  environment supporting an IPV4 infrastructure.</p>
+</blockquote>
+<p><strong>Module 5: Configuring  and Troubleshooting IPv6 TCP/IP</strong></p>
+<blockquote>
+  <p>  This module explains how to configure and troubleshoot static and  dynamic IPv6 addresses, including subnet prefix lengths, gateways and DNS  servers.</p>
+</blockquote>
+<p><strong>Module 6:  Configuring and Troubleshooting Routing and Remote Access</strong></p>
+<p><strong>Module 7:  Installing, Configuring, and Troubleshooting the Network Policy Server Role  Service</strong></p>
+<blockquote>
+  <p>  This module explains how to install, configure and troubleshoot the  Network Policy Server Role service.</p>
+</blockquote>
+<p><strong>Module 8:  Configuring Network Access Protection</strong></p>
+<blockquote>
+  <p>  This module explains how to configure and manage NAP for DHCP, VPN, and  802.1X.</p>
+</blockquote>
+<p><strong>Module 9:  Configuring IPsec</strong></p>
+<blockquote>
+  <p>  This module explains how to configure and test IPsec.</p>
+</blockquote>
+<p><strong>Module 10:  Monitoring and Troubleshooting IPsec</strong></p>
+<blockquote>
+  <p>  This module explains how to monitor and troubleshoot IPsec.</p>
+</blockquote>
+<p><strong>Module 11:  Configuring and Managing Distributed File System</strong></p>
+<blockquote>
+  <p>  This module explains how to configure and manage Distributed File  System.</p>
+</blockquote>
+<p><strong>Module 12:  Configuring and Managing Storage Technologies</strong></p>
+<blockquote>
+  <p>  This module explains how to configure and troubleshoot file system  storage technologies included with Windows Server 2008.</p>
+</blockquote>
+<p><strong>Module 13:  Configuring Availability of Network Resources and Content</strong></p>
+<blockquote>
+  <p>  This module explains how to describe and configure backup and recovery  methods.</p>
+</blockquote>
+<p><strong>Module 14:  Configuring Server Security Compliance</strong></p>
+<blockquote>
+  <p>  This module explains how to configure and analyze server security and  security update compliance.</p>
+</blockquote>
+<p><strong>MS6425:</strong></p>
+<p><strong>Module 1: Implementing Active Directory Domain Services</strong></p>
+<blockquote>
+  <p>  This module explains how to install and configure Active Directory  Domain Services and install and configure a read-only domain controller.</p>
+</blockquote>
+<p><strong>Module 2:  Configuring Domain Name Service for Active Directory Domain Services</strong></p>
+<blockquote>
+  <p>  This module explains how to configure Domain Name Services (DNS) for  Active Directory Domain Services.</p>
+</blockquote>
+<p><strong>Module 3:  Configuring Active Directory Objects and Trusts</strong></p>
+<blockquote>
+  <p>  This module explains how to configure Active Directory Objects and  Trusts.</p>
+</blockquote>
+<p><strong>Module 4:  Configuring Active Directory Sites and Replication</strong></p>
+<blockquote>
+  <p>  This module explains how to configure Active Directory sites and  replication.</p>
+</blockquote>
+<p><strong>Module 5:  Creating and Configuring Group Policy</strong></p>
+<blockquote>
+  <p>  This module explains how to create and configure Group Policy.</p>
+</blockquote>
+<p><strong>Module 6:  Configuring User Environments Using Group Policy</strong></p>
+<blockquote>
+  <p>  This module explains how to configure user environments using Group  Policy.</p>
+</blockquote>
+<p><strong>Module 7:  Implementing Security Using Group Policy</strong></p>
+<blockquote>
+  <p>  This module explains how to implement security using Group Policy.</p>
+</blockquote>
+<p><strong>Module 8:  Implementing an Active Directory Domain Services Monitoring Plan</strong></p>
+<blockquote>
+  <p>  This module explains how to implement Active Directory Domain Services  monitoring plan.</p>
+</blockquote>
+<p><strong>Module 9:  Implementing an Active Directory Domain Services Maintenance Plan</strong></p>
+<blockquote>
+  <p>  This module explains how to implement an Active Directory Domain  Services maintenance plan.<strong></strong></p>
+</blockquote>
+<p><strong>Module 10:  Troubleshooting Active Directory, DNS, and Replication Issues</strong></p>
+<blockquote>
+  <p>  This module explains how to troubleshoot Active Directory Domain  Services, Domain Name Service, and Active Directory replication.</p>
+</blockquote>
+<p><strong>Module 11:  Troubleshooting Group Policy Issues</strong></p>
+<blockquote>
+  <p>  This module explains how to troubleshoot the application of Group  Policy objects.</p>
+</blockquote>
+<p><strong>Module 12:  Implementing an Active Directory Domain Services</strong> Infrastructure</p>
+<blockquote>
+  <p>This module explains how to  implement an Active Directory Domain Services Infrastructure.</p>
+</blockquote>
+<p><strong>MS6426:</strong></p>
+<ul>
+  <li>Module 1:  Exploring IDA Solutions</li>
+  <li> Module 2:  Configuring AD CS</li>
+  <li> Module 3:  Deploying and Managing Certificates</li>
+  <li> Module 4:  Configuring AD LDS</li>
+  <li> Module 5: Configuring  AD FS</li>
+  <li> Module 6:  Configuring AD RMS</li>
+  <li> Module 7:  Maintaining Access Management Solutions</li>
+  <li>Module 8:  Troubleshooting IDA Solutions</li>
+</ul>
+<p><strong>MS6430:</strong></p>
+<p><strong>Module 1: Planning Windows Server 2008 Deployment</strong></p>
+<blockquote>
+  <p>  This module explains how to plan the deployment of Windows  Server 2008 servers.</p>
+</blockquote>
+<p><strong>Module 2: Planning Network Infrastructure for Windows  Server 2008</strong></p>
+<blockquote>
+  <p>  This module explains how to plan the network infrastructure  for Windows Server 2008 servers.</p>
+</blockquote>
+<p><strong>Module 3: Planning for Active Directory</strong></p>
+<blockquote>
+  <p>  This module explains how to plan the Active Directory environment.</p>
+</blockquote>
+<p><strong>Module 4: Planning for Group Policy</strong>This module explains how to plan for  Group Policy in a Windows Server 2008 network.</p>
+<p><strong>Module 5: Planning Application Servers</strong></p>
+<blockquote>
+  <p>  This module explains how to plan for application servers in  a Windows Server 2008 network.</p>
+</blockquote>
+<p><strong>Module 6: Planning File and Print Services</strong></p>
+<blockquote>
+  <p>  This module explains how to plan for File and Print  services in your Windows Server 2008 environment.</p>
+</blockquote>
+<p><strong>Module 7: Planning Server and Network Security</strong></p>
+<blockquote>
+  <p>This module explains how to plan for  server and network security in a Windows Server 2008 network.</p>
+</blockquote>
+<p><strong>Module 8: Planning Server Administration</strong></p>
+<blockquote>
+  <p>  This module explains how to plan for effective  administration of a Windows Server 2008 network.</p>
+</blockquote>
+<p><strong>Module 9: Planning and Implementing Monitoring and  Maintenance</strong></p>
+<blockquote>
+  <p>  This module explains how to plan for and implement  monitoring and maintenance in a Windows Server 2008 network.</p>
+</blockquote>
+<p><strong>Module 10: Planning High Availability and Disaster Recovery</strong></p>
+<blockquote>
+  <p>  This module explains how to plan for high availability and  disaster recovery in a Windows Server 2008 environment.</p>
+</blockquote>
+<p><strong>Module 11: Planning Virtualization</strong></p>
+<blockquote>
+  <p>This module explains  how to plan virtualization to increase the efficiency and availability of  applications and services.</p>
+</blockquote>

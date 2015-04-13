@@ -1,0 +1,36 @@
+<p><strong>Unit 1: Integrating Access into Your Business</strong></p>
+<ul>
+  <li>Topic 1A: Import XML Data into an Access Database</li>
+  <li>Topic 1B: Export Access Data to XML Format</li>
+  <li>Topic 1C: Export Data to the Outlook Address Book</li>
+  <li>Topic 1D: Collect Data Through Email Messages</li>
+</ul>
+<p><strong>Unit 2: Automating a Business Process with VBA</strong></p>
+<ul>
+  <li>Topic 2A: Create a Standard Module</li>
+  <li>Topic 2B: Develop Code</li>
+  <li>Topic 2C: Call a Procedure from a Form</li>
+  <li>Topic 2D: Run the Procedure</li>
+</ul>
+<p><strong>Unit 3: Managing Switchboards</strong></p>
+<ul>
+  <li>Topic 3A: Create a Database Switchboard</li>
+  <li>Topic 3B: Modify a Database Switchboard</li>
+  <li>Topic 3C: Set the Startup Options</li>
+</ul>
+<p><strong>Unit 4: Distributing and Securing Databases</strong></p>
+<ul>
+  <li>Topic 4A: Split a Database</li>
+  <li>Topic 4B: Implement Security</li>
+  <li>Topic 4C: Set Passwords</li>
+  <li>Topic 4D: Convert an Access Database to an ACCDE File</li>
+  <li>Topic 4E: Package a Database with a Digital Signature</li>
+</ul>
+<p><strong>Unit 5: Sharing Databases Using a SharePoint Site</strong></p>
+<ul>
+  <li>Topic 5A: Export a Table to a SharePoint List</li>
+  <li>Topic 5B: Import Data from a SharePoint List</li>
+  <li>Topic 5C: Publish a Database to a SharePoint Site</li>
+  <li>Topic 5D: Move a Database to a SharePoint Site</li>
+  <li>Topic 5E: Work Offline </li>
+</ul>

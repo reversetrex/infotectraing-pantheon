@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Personalize your email.</li>
+  <li>Organize Outlook items.</li>
+  <li>Manage Outlook data files.</li>
+  <li>Work with contacts.</li>
+  <li>Save and archive email messages.</li>
+  <li>Create a custom form.</li>
+  <li>Work offline and remotely.</li>
+</ul>

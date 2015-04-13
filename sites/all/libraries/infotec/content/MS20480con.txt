@@ -1,0 +1,79 @@
+<p><strong>Module 1: Overview of HTML and CSS - This module provides an overview of HTML and CSS, and describes how to use Visual Studio 2012 to build a Web application.</strong></p>
+<ul>
+  <li>Overview of HTML</li>
+  <li>Overview of CSS</li>
+  <li>Creating a Web Application by Using Visual Studio 2012</li>
+</ul>
+<p><strong>Module 2: Creating and Styling HTML5 Pages - This module describes the new features of HTML5, and explains how to create and style HTML5 pages.</strong></p>
+<ul>
+  <li>Creating an HTML5 Page</li>
+  <li>Styling an HTML5 Page</li>
+</ul>
+<p><strong>Module 3: Introduction to JavaScript - This module provides an introduction to the JavaScript language, and shows how to use JavaScript to add interactivity to HTML5 pages.</strong></p>
+<ul>
+  <li>Overview of JavaScript Syntax</li>
+  <li>Programming the HTML DOM with JavaScript</li>
+  <li>Introduction to jQuery</li>
+</ul>
+<p><strong>Module 4: Creating Forms to Collect Data and Validate User Input - This module describes the new input types available with HTML5, and explains how to create forms to collect and validate user input by using the new HTML5 attributes and JavaScript code.</strong></p>
+<ul>
+  <li>Overview of Forms and Input Types</li>
+  <li>Validating User Input by Using HTML5 Attributes</li>
+  <li>Validating User Input by Using JavaScript</li>
+</ul>
+<p><strong>Module 5: Communicating with a Remote Data Source - This module describes how to send and receive data to and from a remote data source by using an XMLHTTPRequest object and by performing jQuery AJAX operations.</strong></p>
+<ul>
+  <li>Sending and Receiving Data by Using XMLHTTPRequest</li>
+  <li>Sending and Receiving Data by Using jQuery AJAX operations</li>
+</ul>
+<p><strong>Module 6: Styling HTML5 by Using CSS3 - This module describes how to style HTML5 pages and elements by using the new features available in CSS3.</strong></p>
+<ul>
+  <li>Styling Text</li>
+  <li>Styling Block Elements</li>
+  <li>CSS3 Selectors</li>
+  <li>Enhancing Graphical Effects by Using CSS3</li>
+</ul>
+<p><strong>Module 7: Creating Objects and Methods by Using JavaScript - This module explains how to write well-structured and easily-maintainable JavaScript code, and how to apply object-oriented principles to JavaScript code in a Web application.</strong></p>
+<ul>
+  <li>Writing Well-Structured JavaScript</li>
+  <li>Creating Custom Objects</li>
+  <li>Extending Objects</li>
+</ul>
+<p><strong>Module 8: Creating Interactive Pages using HTML5 APIsThis module describes how to use some common HTML5   APIs to add interactive features to a Web application. This module also explains how to debug and profile a Web application.</strong></p>
+<ul>
+  <li>Interacting with Files</li>
+  <li>Incorporating Multimedia</li>
+  <li>Reacting to Browser Location and Context</li>
+  <li>Debugging and Profiling a Web Application</li>
+</ul>
+<p><strong>Module 9: Adding Offline Support to Web Applications - This module describes how to add offline support to a Web application, to enable the application to continue functioning in a user's browser even if the browser is disconnected from the network.</strong></p>
+<ul>
+  <li>Reading and Writing Data Locally</li>
+  <li>Adding Offline Support by Using the Application Cache</li>
+</ul>
+<p><strong>Module 10: Implementing an Adaptive User Interface - This module describes how to create HTML5 pages   that can dynamically detect and adapt to different devices and form factors.</strong></p>
+<ul>
+  <li>Supporting Multiple Form Factors</li>
+  <li>Creating an Adaptive User Interface</li>
+</ul>
+<p><strong>Module 11: Creating Advanced Graphics - This module describes how to create advanced graphics for an HTML5 Web application by using a Canvas element, and by using Scalable Vector Graphics.</strong></p>
+<ul>
+  <li>Creating Interactive Graphics by Using Scalable Vector Graphics</li>
+  <li>Programmatically Drawing Graphics by Using a Canvas</li>
+</ul>
+<p><strong>Module 12: Animating the User Interface - This module describes how to enhance the user experience in an HTML5 Web application by adding animations.</strong></p>
+<ul>
+  <li>Applying CSS Transitions</li>
+  <li>Transforming Elements</li>
+  <li>Applying CSS Key-frame Animations</li>
+</ul>
+<p><strong>Module 13: Implementing Real-Time Communications by Using Web Sockets - This module explains how to use Web Sockets to transmit and receive data between an HTML5 Web application and a server.</strong></p>
+<ul>
+  <li>Introduction to Web Sockets</li>
+  <li>Sending and Receiving Data by Using Web Sockets</li>
+</ul>
+<p><strong>Module 14: Creating a Web Worker Process - This module describes how to use Web Worker Processes to perform long-running operations asynchronously and improve the responsiveness of an HTML5 Web application.</strong></p>
+<ul>
+  <li>Introduction to Web Workers</li>
+  <li>Performing Asynchronous Processing by Using a Web Worker</li>
+</ul>

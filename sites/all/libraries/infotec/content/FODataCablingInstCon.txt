@@ -1,0 +1,45 @@
+<p><strong> UNIT 1</strong></p>
+<ul>
+  <li> Introduction to the Course </li>
+  <li>Theory: Safety Overview </li>
+  <li>Theory: Basic Electricity </li>
+  <li>Theory: Basic Standards and Practices </li>
+  <li>Lab 1: Cable Identification </li>
+  <li>Lab 2: Cable Examinations </li>
+  <li>Lab 3: Tool Identification </li>
+</ul>
+<p><strong> UNIT 2</strong></p>
+<ul>
+  <li> Quiz One </li>
+  <li>Theory: Facility Issues </li>
+  <li>Theory: Cable Ratings and Performance </li>
+  <li>Theory: Cable Installation and Management </li>
+  <li>Lab 5: Terminating CAT5 with RJ45/T568B Jacks </li>
+  <li>Lab 7: Terminating CAT5 with RJ45/T568B Plugs </li>
+  <li>Lab 9: Placing a RG-6 BNC Connector on a Coaxial Cable </li>
+  <li>Lab 10: Installing RG-6 F Connectors on a Coaxial Cable </li>
+</ul>
+<p><strong> UNIT 3</strong></p>
+<ul>
+  <li> Quiz Two </li>
+  <li>Theory: Testing and Troubleshooting </li>
+  <li>Theory: Industry Standards </li>
+  <li>Theory: Pulling Cable </li>
+  <li>Lab 13: Installing a Punch-Down Modular Outlet </li>
+  <li>Lab 16: Powering the Tester </li>
+  <li>Lab 17: Certifying Twisted Pair Cabling </li>
+  <li>Lab 18: Autotest on Twisted Pair Cabling </li>
+  <li>Lab 19: Pulling CAT5 Cable </li>
+  <li>Lab 20: Terminating CAT5 to a 110-Type Block </li>
+</ul>
+<p><strong> UNIT 4</strong></p>
+<ul>
+  <li> Final Quiz </li>
+  <li>Theory: Understanding Blueprints </li>
+  <li>Lab 26: Identifying Blueprint Symbols </li>
+  <li>Lab 21: Terminating CAT5 to a 66 M1-50 Block </li>
+  <li>Lab 22: Testing CAT5 Terminations between Blocks </li>
+  <li>Lab 23: Altering and Testing Block Terminations </li>
+  <li>Lab 24: Differentiating Between T568A and T568B </li>
+  <li>ETA Written Examination </li>
+</ul>

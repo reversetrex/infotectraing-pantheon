@@ -1,0 +1,39 @@
+<p><strong><u>MS50207</u>:</strong></p>
+
+<p><strong>Module 1: Introduction to SharePoint Designer</strong> - This module provides an overview of SharePoint Designer and common tasks you can perform with it. It also provides an  explanation of the relationship between Windows SharePoint Services 3.0 and  Microsoft Office SharePoint Server 2007.</p>
+
+<p><strong>Module 2: The SharePoint Designer Workspace</strong> - This  module explains how to work with the SharePoint Designer workspace, toolbars,  and task panes.</p>
+
+<p><strong>Module 3: SharePoint Sites</strong> - This  module explains how to create site hierarchies and delete sites.</p>
+
+<p><strong>Module 4: Web Page Content</strong> - This  module explains how to work with Web pages by inserting text, ScreenTips,  hyperlinks, Web components, and images. It also explains how to add client-side  interactivity, create and edit tables, change the default page for a Web site,  and reset a page to the site definition.</p>
+
+<p><strong>Module 5: Web Pages</strong> - This module explains how to create Basic Meeting Workspace sites, Web Part pages, and  ASP.NET pages. It also explains how to delete Web pages</p>
+
+<p><strong>Module 6: Lists and Libraries</strong> - This module explains how to work with lists  and list view pages.</p>
+
+<p><strong>Module 7: Web Parts</strong> - This module explains how to add Web  Part zones and Web Parts, and modify Web Part properties. It also explains how to create and customize Web Parts.</p>
+
+<p><strong><u>MS50208</u>:</strong></p>
+
+<p><strong>Module 1: Master Pages</strong> - This module explains what master pages are and how  to work with them.</p>
+
+<p><strong>Module 2: Cascading Style Sheets</strong> - This  module provides an overview of the Page Editor Options dialog box. It also  explains how to identify styles used on sites, and how to work with styles. It  explains how to work with the Style Application toolbar and with CSS files. Finally, it explores core.css and default master page.</p>
+
+<p><strong>Module 3: Site Definitions and Templates</strong> - This module provides an overview of site definitions and templates, and how to  use them, such as creating and exploring site templates and testing site template solutions.</p>
+
+<p><strong>Module 4: SharePoint Site Management</strong> - This module explains how to configure and identify Contributor Settings; create reports; back up, restore, export, and import sites; and copy lists, libraries, and documents between sites.</p>
+
+<p><strong>Module 5: Usability and Accessibility</strong> - This  module identifies usability issues and describes how to address these issues,  choose color schemes that are user friendly, ensure that your site meets  accessibility standards, and explains how to generate accessibility and  compatibility reports.</p>
+
+<p><strong><u>MS50209</u>:</strong></p>
+
+<p><strong>Module 1: Data Views</strong> - This  module explains how to create, customize, and format Data Views and how to  apply conditional formatting. It explains how to configure Data Views for  editing and how to convert List View Web Parts (LVWPs) to Data View Web Parts (DVWP). It also discusses how to deploy Web Parts.</p>
+
+<p><strong>Module 2: Data Sources</strong> - This  module describes how to connect different elements in different ways, how to  work with XML data, how to use linked sources, and how to display the contents  of a list on another site.</p>
+
+<p><strong>Module 3: Controls</strong> - This  module describes how to insert and modify controls and how to use different kinds of controls. It also explains how to manage content placeholders and content regions.</p>
+
+<p><strong>Module 4: Web Content Management in a SharePoint Server Environment</strong> - This  module provides an overview of Web content management and page models. It also describes how to create and modify page layout, restore a page layout to an earlier version, and detach and reattach a page layout.</p>
+
+<p><strong>Module 5: Workflows</strong> - This  module provides an overview of workflows and describes how to work with them.</p>

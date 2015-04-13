@@ -1,0 +1,223 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Keeping Current with Dreamweaver</li>
+    <li>Welcome Screen</li>
+    <li>Document Toolbar</li>
+    <li>Menus and Panels</li>
+    <li>Insert Panel</li>
+    <li>Expand and Collapse Button</li>
+    <li>Files Panel</li>
+    <li>Files Panel Organization</li>
+    <li>Dreamweaver Workspace</li>
+    <li>Document Window</li>
+    <li>Custom Workspaces</li>
+    <li>Properties Inspector</li>
+    <li>Workspace Layout</li>
+  </ul>
+  <h3>Section B: Planning a Website</h3>
+  <ul>
+    <li>Designer and Client Questionnaire</li>
+    <li>Project Requirements</li>
+    <li>Page Elements</li>
+    <li>Website Flowchart</li>
+    <li>Know Your Target Audience</li>
+    <li>Website Planning</li>
+    <li>Website Wireframe</li>
+    <li>Website Storyboard</li>
+    <li>Project Management</li>
+    <li>Copyrighted Material</li>
+    <li>Target Resolution</li>
+    <li>Defining Your Website</li>
+    <li>Manage Sites</li>
+    <li>Filenames</li>
+  </ul>
+  <h3>Section C: Design and Consistency</h3>
+  <ul>
+    <li>Graphic Design Elements</li>
+    <li>Graphic Design Principles</li>
+    <li>Symmetry and Consistency</li>
+    <li>Website Usability</li>
+    <li>Design and Consistency Example</li>
+    <li>Creating Files</li>
+    <li>Page Titles</li>
+    <li>HTML Page Properties</li>
+    <li>CSS Page Properties</li>
+  </ul>
+  <h3>Section D: Formatting Text</h3>
+  <ul>
+    <li>Paragraphs and Line Breaks</li>
+    <li>Paragraph Alignment</li>
+    <li>Headings</li>
+    <li>Lists</li>
+    <li>Import Text</li>
+    <li>Character Formatting</li>
+    <li>Custom Font Stack</li>
+  </ul>
+  <h3>Section E: File Formats</h3>
+  <ul>
+    <li>File Size and Image Quality</li>
+    <li>GIF</li>
+    <li>JPG</li>
+    <li>PNG</li>
+    <li>Other File Types</li>
+    <li>Background Images (HTML)</li>
+    <li>Background Images (CSS)</li>
+    <li>Foreground Images</li>
+    <li>Navigation Bar</li>
+    <li>Alt Tag and Tag Editor</li>
+    <li>Image Maps</li>
+    <li>Editing Images</li>
+    <li>Changing Image Size</li>
+    <li>Image Editing Tools</li>
+    <li>Photoshop Smart Objects</li>
+    <li>Fireworks Smart Objects</li>
+    <li>Adobe InContext Editing</li>
+  </ul>
+  <h3>Section F: Creating a Link</h3>
+  <ul>
+    <li>Document-Relative Links</li>
+    <li>HTML Code</li>
+    <li>Image Link</li>
+    <li>Email Link</li>
+    <li>Image Map</li>
+    <li>Named Anchor</li>
+    <li>Absolute Links</li>
+    <li>Site-Relative Links</li>
+    <li>Target Links</li>
+  </ul>
+  <h3>Section G: HTML Syntax</h3>
+  <ul>
+    <li>HTML</li>
+    <li>HTML Tags</li>
+    <li>HTML Element Types</li>
+    <li>Standard HTML Tags</li>
+    <li>HTML4</li>
+    <li>Creating an HTML4 Document</li>
+    <li>Div Tags</li>
+    <li>HTML5</li>
+    <li>HTML5 Advantages</li>
+    <li>New Elements</li>
+    <li>Creating an HTML5 Document</li>
+    <li>HTML Code View</li>
+    <li>Code View and Design View</li>
+    <li>Tag Inspector</li>
+    <li>Edit Head Content</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: CSS Fundamentals</h3>
+  <ul>
+    <li>What Is CSS?</li>
+    <li>Anatomy of a Style Rule</li>
+    <li>CSS Styles Panel</li>
+    <li>Tag Selectors and Lists</li>
+    <li>Class Selectors and Headings</li>
+    <li>Pseudo Class Selectors and Links</li>
+    <li>ID Selectors and Footers</li>
+    <li>Descendant Selectors</li>
+    <li>Group Selectors</li>
+    <li>Reviewing Embedded Style Rules</li>
+    <li>Setting Up External Style Sheets</li>
+    <li>Style Sheets</li>
+    <li>Multiple Class Selectors</li>
+  </ul>
+  <h3>Section B: CSS Version 3</h3>
+  <ul>
+    <li>Web Safe Fonts</li>
+    <li>Web Fonts</li>
+    <li>Add a Web Font Kit</li>
+    <li>Drop Shadows in CSS3</li>
+    <li>Transitions in CSS3</li>
+    <li>Organize Webpage Layouts</li>
+    <li>Media Queries</li>
+    <li>Multiscreen Preview</li>
+    <li>Create a New Media Query</li>
+    <li>Media Queries in Code View</li>
+    <li>CSS Positioning</li>
+  </ul>
+  <h3>Section C: HTML Layouts</h3>
+  <ul>
+    <li>Customizing HTML Layouts</li>
+    <li>Div Tags</li>
+    <li>Column Property</li>
+    <li>Fluid Grid Layouts</li>
+    <li>Overlapping Div Tags</li>
+    <li>Print Safe</li>
+  </ul>
+  <h3>Section D: Tables</h3>
+  <ul>
+    <li>Tables in HTML</li>
+    <li>Editing Tables</li>
+    <li>Applying Style Rules to a Table</li>
+    <li>Import Tabular Data</li>
+    <li>Insert Tabular Data</li>
+    <li>Import Excel Document</li>
+  </ul>
+  <h3>Section E: Templates</h3>
+  <ul>
+    <li>Create a Template</li>
+    <li>Editable Regions</li>
+    <li>Editing Editable Regions</li>
+    <li>Editing Optional Regions</li>
+    <li>Page from Template</li>
+    <li>Assets Panel</li>
+    <li>CSS Starter Layout</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Form Objects</h3>
+  <ul>
+    <li>Insert a Form</li>
+    <li>Text Fields</li>
+    <li>Check Boxes</li>
+    <li>Radio Buttons</li>
+    <li>List Menus</li>
+    <li>Text Areas</li>
+    <li>Buttons</li>
+    <li>Form Properties</li>
+    <li>Submit Form</li>
+  </ul>
+  <h3>Section B: Interactivity</h3>
+  <ul>
+    <li>Rollover Images</li>
+    <li>Flash Content</li>
+    <li>HTML5 Video</li>
+    <li>HTML5 Video Codecs</li>
+    <li>Insert HTML5 Video</li>
+    <li>HTML5 Audio</li>
+    <li>Insert HTML5 Audio</li>
+  </ul>
+  <h3>Section C: Uploading and Downloading</h3>
+  <ul>
+    <li>Web Publishing</li>
+    <li>Site Setup</li>
+    <li>Local Network Server</li>
+    <li>Connect to Remote Host</li>
+    <li>Check In and Check Out</li>
+    <li>Synchronize Files</li>
+    <li>Cloaking</li>
+  </ul>
+  <h3>Section D: Managing a Website</h3>
+  <ul>
+    <li>Library Items</li>
+    <li>Adobe BrowserLab</li>
+    <li>CSS Inspection Mode</li>
+    <li>CSS Visual Aids</li>
+    <li>Check Links Sitewide</li>
+    <li>Check Spelling</li>
+    <li>Edit Browser List</li>
+    <li>Related Files Toolbar</li>
+    <li>Assets Panel</li>
+    <li>Integration with Apache Subversion</li>
+    <li>Subversion Tools</li>
+    <li>Website Testing</li>
+  </ul>
+  <h3>Section E: Accessibility Standards</h3>
+  <ul>
+    <li>Accessibility</li>
+    <li>Accessibility 1</li>
+    <li>Accessibility 2</li>
+    <li>Accessibility 3</li>
+    <li>Accessibility 4</li>
+    <li>Accessibility 5</li>
+    <li>Accessibility 6</li>
+  </ul>

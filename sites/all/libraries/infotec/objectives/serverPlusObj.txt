@@ -1,0 +1,15 @@
+<ul>
+  <li> Explain various motherboard buses and describe how clock frequency affects performance; identify common server processors and various types of memory; and configure the BIOS and identify common server configuration items.<br>
+  </li>
+  <li> Optimize server placement and diagram server plans; plan the server environment and physical site readiness; and implement sound physical server security practices.<br>
+  </li>
+  <li> Prepare for a server upgrade, verify availability of system resources, and adequately test and pilot the server upgrade; upgrade the processor and memory; and upgrade the BIOS, power supply, UPS, and adapters.<br>
+  </li>
+  <li> Discuss general network operating system (NOS) characteristics and versions, list NOS hardware requirements, and perform NOS installations and upgrades; and identify the major NOS characteristics and versions, list hardware requirements, perform an installation and a proper shutdown of each NOS.<br>
+  </li>
+  <li> Identify and understand major network operating system services; discuss other NOS services such as e-mail, Web, FTP, and fax; and discuss the different ways that servers run network applications and specify the functions of the server as a network device, router, and firewall.<br>
+  </li>
+  <li> Describe the primary types of hardware used to back up critical data; discuss the primary types of software used to back up critical data, and the strategies to their use; describe the need for high server availability/redundancy, and identify key areas for SNMP monitoring; and determine key server management and disaster recovery strategies for preserving system uptime.<br>
+  </li>
+  <li> Effectively use performance monitoring tools; establish a baseline; and recognize acceptable and unacceptable performance thresholds, and provide solutions to performance bottlenecks.</li>
+</ul>

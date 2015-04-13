@@ -1,0 +1,14 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan and implement an IPv4 network and configure and manage DHCP.</li>
+  <li>Implement name resolution by using DNS.</li>
+  <li>Implement IPv6 and integrate IPv6 and IPv4 networks.</li>
+  <li>Implement and manage the IP Address Management feature in Windows Server 2012.</li>
+  <li>Implement and manage remote access technologies in Windows Server 2012 such as DirectAccess, VPNs and Web Application Proxy</li>
+  <li>Implement network security by using Windows Firewall with Advanced Security and IPsec in Windows Server 2012.</li>
+  <li>Implement and manage Network Access Protection (NAP).</li>
+  <li>Implement network services for branch offices.</li>
+  <li>Implement network infrastructure for file and data services.</li>
+  <li>Implement and manage networking in Hyper-V.</li>
+  <li>Virtualize the physical network infrastructure in Windows Server 2012 and Windows Server 2012 R2 using Hyper-V Network Virtualization and the built in Gateway.</li>
+</ul>

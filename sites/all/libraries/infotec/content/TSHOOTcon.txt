@@ -1,0 +1,18 @@
+<ul>
+  <li>Module 0: Curriculum Overview</li>
+  <li>Module 1: Planning Maintenance for Complex Networks</li>
+  <li>Module 2: Selecting Maintenance and Troubleshooting Tools and Applications</li>
+  <li>Module 3: Planning Troubleshooting Processes for Complex Enterprise Networks</li>
+  <li>Module 4: Maintaining and Troubleshooting Campus Switching-Based Problems</li>
+  <li>Module 5: Maintaining and Troubleshooting Routing Based Solutions</li>
+  <li>Module 6: Maintaining and Troubleshooting Network Security Solutions</li>
+  <li>Module 7: Maintaining and Troubleshooting Integrated, Complex Enterprise Networks</li>
+  <li>E-Learning TSHOOT-01: Troubleshooting Performance Problems on Switches</li>
+  <li>E-Learning TSHOOT-02: Troubleshooting Wireless Connectivity</li>
+  <li>E-Learning TSHOOT-03: Troubleshooting Voice over IP</li>
+  <li>E-Learning TSHOOT-04: Troubleshooting Video</li>
+  <li>E-Learning TSHOOT-05: Troubleshooting Multicast</li>
+  <li>E-Learning TSHOOT-06: Troubleshooting NAT and PAT</li>
+  <li>E-Learning TSHOOT-07: Troubleshooting DHCP</li>
+  <li>E-Learning TSHOOT-08: Troubleshooting IPv6, OSPFv3, and RIPng</li>
+</ul>

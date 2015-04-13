@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to: </p>
+<ul>
+  <li>Identify the components of a  Windows Mobile infrastructure. </li>
+  <li>Use Windows Mobile in a business  environment. </li>
+  <li>Implement ActiveSync for Windows  Mobile. </li>
+  <li>Implement System Center Mobile  Device Manager. </li>
+  <li>Configure Exchange Server 2007  for Windows Mobile. </li>
+  <li>Configure the security framework  for Windows Mobile. </li>
+  <li>Configure SQL Server for Windows  Mobile. </li>
+  <li>Configure applications on  Windows Mobile devices. </li>
+  <li>Use  and manage advanced Windows Mobile features.</li>
+</ul>

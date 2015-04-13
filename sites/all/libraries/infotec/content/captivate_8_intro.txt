@@ -1,0 +1,102 @@
+<h3>Introduction</h3>
+<ul>
+  <li>Education through pictures</li>
+  <li>Planning eLearning Projects</li>
+  <li>The Perfect Project Size</li>
+  <li>Designing Slides in Captivate</li>
+  <li>Fonts and Learning</li>
+</ul>
+<h3>Module 1: Exploring Captivate</h3>
+<ul>
+  <li>The Captivate Interface</li>
+  <li>Previewing</li>
+</ul>
+<h3>Module 2: New Projects</h3>
+<ul>
+  <li>Soft Skills eLearning</li>
+  <li>Buttons</li>
+</ul>
+<h3>Module 3: Recording Screen Actions</h3>
+<ul>
+  <li>Resolution and Recording Size</li>
+  <li>The Development Process</li>
+  <li>Preparing to Record</li>
+  <li>Multimode Recordings</li>
+  <li>Custom Recordings</li>
+  <li>Panning</li>
+  <li>Manual Recordings</li>
+</ul>
+<h3>Module 4: Captions, Styles, and Timing</h3>
+<ul>
+  <li>Text Captions</li>
+  <li>Caption Styles</li>
+  <li>Callouts</li>
+  <li>The Timeline</li>
+</ul>
+<h3>Module 5: Images and Smart Shapes</h3>
+<ul>
+  <li>Images</li>
+  <li>The Library</li>
+  <li>Image Editing</li>
+  <li>Smart Shapes</li>
+  <li>Background Editing</li>
+  <li>Integrating Photoshop</li>
+  <li>Image Slideshows</li>
+</ul>
+<h3>Module 6: Pointer, Paths, Boxes, and Buttons</h3>
+<ul>
+  <li>Mouse Effects</li>
+  <li>Pointer Paths and Types</li>
+  <li>Highlight Boxes</li>
+  <li>Image Buttons</li>
+</ul>
+<h3>Module 7: Rollovers and Zoom Area</h3>
+<ul>
+  <li>Rollover Captions</li>
+  <li>Rollover Images</li>
+  <li>Rollover Slidelets</li>
+  <li>Zoom Areas</li>
+</ul>
+<h3>Module 8: Audio</h3>
+<ul>
+  <li>Object Audio</li>
+  <li>Slide Notes</li>
+  <li>Recording Audio</li>
+  <li>Slide Audio</li>
+  <li>Silence</li>
+  <li>Text-to-Speech</li>
+</ul>
+<h3>Module 9: Video, Animation, and Effects</h3>
+<ul>
+  <li>Video</li>
+  <li>Animation</li>
+  <li>Text Animation</li>
+  <li>Object Effects</li>
+</ul>
+<h3>Module 10: Adding Interactivity</h3>
+<ul>
+  <li>Demonstrations versus Simulations</li>
+  <li>Find and Replace</li>
+  <li>Click Boxes</li>
+  <li>Text Entry Boxes</li>
+</ul>
+<h3>Module 11: Working With PowerPoint</h3>
+<ul>
+  <li>Starting with PowerPoint</li>
+  <li>PowerPoint Collaboration</li>
+  <li>Rescaling Projects</li>
+</ul>
+<h3>Module 12: Introduction to Question Slides</h3>
+<ul>
+  <li>Quiz Setup</li>
+  <li>Creating a Quiz</li>
+</ul>
+<h3>Module 13: Finishing Touches</h3>
+<ul>
+  <li>URL Actions</li>
+  <li>Skins</li>
+  <li>Table of Contents</li>
+  <li>Preloaders</li>
+  <li>Publishing</li>
+  <li>Round Tripping</li>
+</ul>

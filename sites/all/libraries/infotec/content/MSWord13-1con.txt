@@ -1,0 +1,58 @@
+<p><strong>Lesson 1: </strong>Getting Started with Word</p>
+<ul>
+  <li><strong>Topic A: </strong>Identify the Components of the Word Interface</li>
+  <li><strong>Topic B: </strong>Create a Word Document</li>
+  <li><strong>Topic C: </strong>Help</li>
+</ul>
+<p><strong>Lesson 2: </strong>Editing a Document</p>
+<ul>
+  <li><strong>Topic A: </strong>Navigate and Select Text</li>
+  <li><strong>Topic B: </strong>Modify Text</li>
+  <li><strong>Topic C: </strong>Find and Replace Text</li>
+</ul>
+<p><strong>Lesson 3: </strong>Formatting Text and Paragraphs</p>
+<ul>
+  <li><strong>Topic A: </strong>Apply Character Formatting</li>
+  <li><strong>Topic B: </strong>Align Text Using Tabs</li>
+  <li><strong>Topic C: </strong>Display Text as List Items</li>
+  <li><strong>Topic D: </strong>Control Paragraph Layout</li>
+  <li><strong>Topic E: </strong>Apply Borders and Shading</li>
+  <li><strong>Topic F: </strong>Apply Styles</li>
+  <li><strong>Topic G: </strong>Manage Formatting</li>
+</ul>
+<p><strong>Lesson 4: </strong>Adding Tables</p>
+<ul>
+  <li><strong>Topic A: </strong>Insert a Table</li>
+  <li><strong>Topic B: </strong>Modify a Table</li>
+  <li><strong>Topic C: </strong>Format a Table</li>
+  <li><strong>Topic D: </strong>Convert Text to a Table</li>
+</ul>
+<p><strong>Lesson 5: </strong>Managing Lists</p>
+<ul>
+  <li><strong>Topic A: </strong>Sort a List</li>
+  <li><strong>Topic B: </strong>Renumber a List</li>
+  <li><strong>Topic C: </strong>Customize a List</li>
+</ul>
+<p><strong>Lesson 6: </strong>Inserting Graphic Objects</p>
+<ul>
+  <li><strong>Topic A: </strong>Insert Symbols and Special Characters</li>
+  <li><strong>Topic B: </strong>Add Images to a Document</li>
+</ul>
+<p><strong>Lesson 7: </strong>Controlling Page Appearance</p>
+<ul>
+  <li><strong>Topic A: </strong>Apply a Page Border and Color</li>
+  <li><strong>Topic B: </strong>Add a Watermark</li>
+  <li><strong>Topic C: </strong>Add Headers and Footers</li>
+  <li><strong>Topic D: </strong>Control Page Layout</li>
+</ul>
+<p><strong>Lesson 8: </strong>Proofing a Document</p>
+<ul>
+  <li><strong>Topic A: </strong>Check Spelling and Grammar</li>
+  <li><strong>Topic B: </strong>Other Proofing Tools</li>
+  <li><strong>Topic C: </strong>Check Accessibility</li>
+</ul>
+<p><strong>Lesson 9: </strong>Customizing the Word Environment</p>
+<ul>
+  <li><strong>Topic A: </strong>Customize the Word Interface</li>
+  <li><strong>Topic B: </strong>Additional Save Options</li>
+</ul>

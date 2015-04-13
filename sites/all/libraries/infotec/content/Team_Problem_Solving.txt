@@ -1,0 +1,39 @@
+<h2>Session 1</h2>
+  <h3>Section A: Team Problem Solving</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+    <li>Fact File</li>
+  </ul>
+  <h3>Section B: Problem Recognition</h3>
+  <ul>
+    <li>Process</li>
+    <li>Gathering Information</li>
+    <li>Fact File</li>
+  </ul>
+  <h3>Section C: Problem Labeling</h3>
+  <ul>
+    <li>Data Collection</li>
+    <li>Labeling Techniques</li>
+    <li>Defining the Label</li>
+    <li>Fact File</li>
+  </ul>
+  <h3>Section D: Problem-Cause Analysis</h3>
+  <ul>
+    <li>Root Cause</li>
+    <li>Techniques</li>
+    <li>Fact File</li>
+  </ul>
+  <h3>Section E: Optional Solutions</h3>
+  <ul>
+    <li>Confirming Root Cause</li>
+    <li>Search for Solutions</li>
+    <li>Fact File</li>
+  </ul>
+  <h3>Section F: Resolving the Problem</h3>
+  <ul>
+    <li>Decision Making</li>
+    <li>Fact File</li>
+    <li>Action Planning</li>
+    <li>The Six Steps</li>
+  </ul>

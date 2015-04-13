@@ -1,0 +1,33 @@
+<p><strong>Lesson 1: Developing Macros</strong></p>
+<ul>
+  <li>Create a Macro with the Macro Recorder</li>
+  <li>Edit a Macro</li>
+  <li>Debug a Macro</li>
+  <li>Customize Toolbars, Menus, and Hotkeys</li>
+</ul>
+<p><strong>Lesson 2: Formatting Worksheets</strong></p>
+<ul>
+  <li>Sort Data</li>
+  <li>Insert Rows and Columns</li>
+  <li>Insert Text</li>
+  <li>Format Text</li>
+  <li>Duplicate Data</li>
+  <li>Generate a Report</li>
+</ul>
+<p><strong>Lesson 3: Creating an Interactive Worksheet</strong></p>
+<ul>
+  <li>Determine Dialog Box Type</li>
+  <li>Capture User Input</li>
+</ul>
+<p><strong>Lesson 4: Working with Multiple Worksheets</strong></p>
+<ul>
+  <li>Insert, Copy, and Delete Worksheets</li>
+  <li>Rename Worksheets</li>
+  <li>Modify the Order of Worksheets</li>
+  <li>Print Worksheets</li>
+</ul>
+<p><strong>Lesson 5: Performing Calculations</strong></p>
+<ul>
+  <li>Create User-defined Functions</li>
+  <li>Automate SUM Functions</li>
+</ul>

@@ -1,0 +1,109 @@
+<p><strong>HTML Level 1</strong></p>
+<p><strong>Lesson 1: HTML 4.0</strong></p>
+<ul>
+  <li>The Basics</li>
+  <li>Web Browsers</li>
+  <li>What is HTML?</li>
+  <li>HTML as a Markup Language</li>
+  <li>What Does HTML Look Like?</li>
+  <li>Nesting Tags</li>
+</ul>
+<p><strong>Lesson 2: HTML Structure</strong></p>
+<ul>
+  <li>Global Structure</li>
+  <li>The HTML, BODY, HEAD, TITLE Elements</li>
+  <li>Creating an HTML Document</li>
+  <li>Basic Content Structure</li>
+  <li>Headings</li>
+  <li>Paragraphs</li>
+  <li>Horizontal Rules</li>
+  <li>Divisions</li>
+  <li>Line Breaks</li>
+</ul>
+<p><strong>Lesson 3: Links</strong></p>
+<ul>
+  <li>Local Links and Navigation Bars</li>
+  <li>Remote Links</li>
+  <li>E-mail Links</li>
+  <li>Named Anchors (Bookmarks)</li>
+</ul>
+<p><strong>Lesson 4: Formatting</strong></p>
+<ul>
+  <li>Block-level Formatting</li>
+  <li>Inline Formatting</li>
+  <li>HTML Entities</li>
+  <li>Using Colors</li>
+  <li>Introduction to Cascading Style Sheets</li>
+  <li>Embedded Styles</li>
+  <li>Inline Styles</li>
+</ul>
+<p><strong>Lesson 5: Graphics</strong></p>
+<ul>
+  <li>Embedding Images in a Web Page</li>
+  <li>The "alt" Attribute and Accessibility</li>
+  <li>Graphic Formats (GIF, JPEG, and PNG)</li>
+  <li>Using Graphics as Links</li>
+  <li>Using Background Images</li>
+</ul>
+<p><strong>Lesson 6: Lists</strong></p>
+<ul>
+  <li>Creating Unordered (Bulleted) Lists</li>
+  <li>Creating Ordered (Numbered) Lists</li>
+  <li>Nesting Lists</li>
+</ul>
+<p><strong>Lesson 7: Tables</strong></p>
+<ul>
+  <li>Creating and Modifying Tables</li>
+  <li>Table Coding Guidelines</li>
+  <li>Working Around Browser Inconsistencies</li>
+  <li>Formatting Tables</li>
+  <li>Table Headers and Captions</li>
+  <li>Spanning Rows and Columns</li>
+</ul>
+
+<p><strong>HTML Level 2</strong></p>
+<p><strong>Lesson 1: The New HTML</strong></p>
+<ul>
+  <li>Authoring with HTML 4.01</li>
+  <li>The Advent of XHTML</li>
+</ul>
+<p><strong>Lesson 2: Advanced Tables</strong></p>
+<ul>
+  <li>Adding Images and Links</li>
+  <li>Adding Color to Tables</li>
+  <li>Creating Nested Tables</li>
+  <li>Using Tables for Page Layout</li>
+</ul>
+<p><strong>Lesson 3: Graphics and Image Maps</strong></p>
+<ul>
+  <li>Sizing, Spacing and Aligning Images</li>
+  <li>Creating Image Maps</li>
+</ul>
+<p><strong>Lesson 4: Creating Forms</strong></p>
+<ul>
+  <li>Introduction to Forms</li>
+</ul>
+<p><strong>Lesson 5: Creating Forms, Part 2</strong></p>
+<ul>
+  <li>Applying Other Input Types</li>
+  <li>Setting Input Type Attributes</li>
+  <li>Creating a Text Area Field</li>
+  <li>Creating Select Lists</li>
+</ul>
+<p><strong>Lesson 6: Applying the Meta Tag and JavaScript</strong></p>
+<ul>
+  <li>The <meta> Tag</li>
+  <li>JavaScript in HTML Documents</li>
+</ul>
+<p><strong>Lesson 7: Frames</strong></p>
+<ul>
+  <li>Introduction to Frames</li>
+  <li>Applying Frame Attributes</li>
+  <li>Using Nested Framesets</li>
+</ul>
+<p><strong>Lesson 8: Introduction to Cascading Style Sheets</strong></p>
+<ul>
+  <li>Introduction to CSS</li>
+  <li>Working with Properties and Selectors</li>
+  <li>Linked (external) Style Sheets</li>
+</ul>

@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to create and engage in basic management of a project using Microsoft Project Professional 2013. They will:</p>
+<ul>
+  <li>Create a new project plan.</li>
+  <li>Manage time in a project plan.</li>
+  <li>Manage tasks in a project plan.</li>
+  <li>Manage resources in a project plan.</li>
+  <li>Share a project plan.</li>
+</ul>

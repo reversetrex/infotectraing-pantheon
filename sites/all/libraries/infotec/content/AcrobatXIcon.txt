@@ -1,0 +1,36 @@
+<p><strong>Lesson 1: </strong>Accessing PDF Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Open a PDF Document</li>
+  <li><strong>Topic B: </strong>Browse a PDF Document</li>
+</ul>
+<p><strong>Lesson 2: </strong>Creating and Saving PDF Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Create and Save a PDF Document from an Existing Document</li>
+  <li><strong>Topic B: </strong>Create a PDF Document from a Web Page</li>
+  <li><strong>Topic C: </strong>Combine Multiple PDF Documents</li>
+</ul>
+<p><strong>Lesson 3: </strong>Navigating Content in a PDF Document</p>
+<ul>
+  <li><strong>Topic A: </strong>Perform a Search in a PDF Document</li>
+  <li><strong>Topic B: </strong>Search Multiple PDF Documents</li>
+  <li><strong>Topic C: </strong>Work with Bookmarks</li>
+  <li><strong>Topic D: </strong>Create Links and Buttons</li>
+</ul>
+<p><strong>Lesson 4: </strong>Modifying PDF Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Manipulate PDF Document Pages</li>
+  <li><strong>Topic B: </strong>Edit Content in a PDF Document</li>
+  <li><strong>Topic C: </strong>Add Page Elements</li>
+</ul>
+<p><strong>Lesson 5: </strong>Reviewing PDF Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Add Comments and Markup</li>
+  <li><strong>Topic B: </strong>Compare PDF Documents</li>
+  <li><strong>Topic C: </strong>Initiate and Manage a Review</li>
+</ul>
+<p><strong>Lesson 6: </strong>Converting PDF Files</p>
+<ul>
+  <li><strong>Topic A: </strong>Reduce the File Size of a PDF Document</li>
+  <li><strong>Topic B: </strong>Optimize PDF Files</li>
+  <li><strong>Topic C: </strong>Convert and Reuse PDF Document Content</li>
+</ul>

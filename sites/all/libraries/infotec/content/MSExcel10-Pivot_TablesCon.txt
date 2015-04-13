@@ -1,0 +1,18 @@
+<p><strong>Lesson 1: Building a PivotTable</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Insert a PivotTable</li>
+  <li><strong>Topic 1B: </strong>Create a PivotTable Based on External Data</li>
+  <li><strong>Topic 1C: </strong>Categorize PivotTable Data</li>
+  <li><strong>Topic 1D: </strong>Customize a PivotTable</li>
+</ul>
+<p><strong>Lesson 2: Analyzing Data Using PivotTables</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Create Custom Calculations in a PivotTable</li>
+  <li><strong>Topic 2B: </strong>Restructure a PivotTable</li>
+</ul>
+<p><strong>Lesson 3: Presenting PivotTable Data Visually</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Format a PivotTable</li>
+  <li><strong>Topic 3B: </strong>Present a PivotTable in a PivotChart</li>
+  <li><strong>Topic 3C: </strong>Print PivotTables and PivotCharts</li>
+</ul>

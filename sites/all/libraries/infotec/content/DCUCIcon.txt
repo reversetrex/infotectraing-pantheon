@@ -1,0 +1,51 @@
+<p><strong>Lesson 1: Review of Data Center Unified Computing Implementation E-Learning</strong></p>
+<ul>
+  <li>Topic 1A: Brief Survey of Cisco Data Center  Unified Computing Implementation E-Learning</li>
+</ul>
+<p><strong>Lesson 2: Installation of Cisco UCS C-Series Rack-Mount Servers</strong></p>
+<ul>
+  <li>Topic 2A: Updating Firmware Components of the  Cisco UCS C-Series Rack-Mount Servers</li>
+</ul>
+<p><strong>Lesson 3: Cisco IMC Configuration</strong></p>
+<ul>
+  <li>Topic 3A: Configuring Cisco IMC</li>
+  <li>Topic 3B: Provisioning Server Hardware with  Cisco IMC</li>
+</ul>
+<p><strong>Lesson 4: Cisco UCS B-Series Hardware and Management</strong></p>
+<ul>
+  <li>Topic 4A: Describing Cisco UCS B-Series  Hardware Components</li>
+  <li>Topic 4B: Assembling B-Series Architecture  and Features</li>
+  <li>Topic 4C: Installing Cisco UCS B-Series  Hardware</li>
+</ul>
+<p><strong>Lesson 5: Cisco UCS Connectivity Configuration and Management</strong></p>
+<ul>
+  <li>Topic 5A: Configuring Cisco UCS B-Series  Physical Connectivity</li>
+  <li>Topic 5B: Exploring the Cisco UCS B-Series  User Interfaces</li>
+  <li>Topic 5C: Configuring Compute Node LAN  Connectivity</li>
+  <li>Topic 5D: Configuring Compute Node SAN  Connectivity</li>
+</ul>
+<p><strong>Lesson 6: Server Resources Implementation</strong></p>
+<ul>
+  <li>Topic 6A: Creating Identity and Resource  Pools</li>
+  <li>Topic 6B: Creating Service Profiles</li>
+  <li>Topic 6C: Creating Service Profile Templates  and Cloning Service Profiles</li>
+  <li>Topic 6D: Managing Service Profiles</li>
+</ul>
+<p><strong>Lesson 7: Virtual Server Networking</strong></p>
+<ul>
+  <li>Topic 7A: Evaluating the Cisco Nexus 1000V  Switch</li>
+  <li>Topic 7B: Working with VMware Ethernet  Networking</li>
+  <li>Topic 7C: Characterizing Cisco Nexus 1000V  Architecture</li>
+  <li>Topic 7D: Installing and Configuring the  Cisco Nexus 1000V Switch</li>
+  <li>Topic 7E: Configuring Basic Cisco Nexus 1000V  Networking</li>
+  <li>Topic 7F: Configuring Cisco UCS Manager for  VMware PTS</li>
+</ul>
+<p><strong>Lesson 8: Cisco Unified Computing System Management and Maintenance</strong></p>
+<ul>
+  <li>Topic 8A: Implementing Cisco Unified  Computing System Startup and Shutdown Procedures</li>
+  <li>Topic 8B: Configuring Role-Based Access  Control</li>
+  <li>Topic 8C: Backing up and Restoring the Cisco  UCS Manager Database</li>
+  <li>Topic 8D: Managing High Availability</li>
+  <li>Topic 8E: Monitoring System Events</li>
+  <li>Topic 8F: Managing and Upgrading Cisco UCS  B-Series Firmw</li>
+</ul>

@@ -1,0 +1,11 @@
+<p>Upon completing this course, you will be able to create and deliver engaging multimedia presentations that convey the key points of your message through the use of text, graphics, and animations. You will:</p>
+<ul>
+  <li>Identify the basic features and functions of PowerPoint 2013.</li>
+  <li>Develop a PowerPoint presentation.</li>
+  <li>Perform advanced text editing.</li>
+  <li>Add graphical elements to a presentation.</li>
+  <li>Modify objects in a presentation.</li>
+  <li>Add tables to a presentation.</li>
+  <li>Add charts to a presentation.</li>
+  <li>Prepare to deliver a presentation.</li>
+</ul>

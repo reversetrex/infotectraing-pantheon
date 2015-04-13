@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, you will be able to create and develop Excel worksheets and workbooks in order to work with and analyze the data that is critical to the success of your organization. You will:</p>
+<ul>
+  <li>Get started with Microsoft Office Excel 2013.</li>
+  <li>Perform calculations.</li>
+  <li>Modify a worksheet.</li>
+  <li>Format a worksheet.</li>
+  <li>Print workbooks.</li>
+  <li>Manage workbooks.</li>
+</ul>

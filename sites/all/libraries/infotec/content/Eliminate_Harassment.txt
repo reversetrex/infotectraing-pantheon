@@ -1,0 +1,29 @@
+<h2>Session 1</h2>
+  <h3>Section A: Setting the Tone</h3>
+  <ul>
+    <li>Leadership Responsibility</li>
+    <li>Lead by Example</li>
+    <li>Title VII</li>
+  </ul>
+  <h3>Section B: Types of Harassment</h3>
+  <ul>
+    <li>Quid Pro Quo</li>
+    <li>Hostile Work Environment</li>
+  </ul>
+  <h3>Section C: Supervisor Liabilities</h3>
+  <ul>
+    <li>Sufficient Action</li>
+    <li>How to Identify Sexual Harassment</li>
+  </ul>
+  <h3>Section D: Take Action</h3>
+  <ul>
+    <li>Addressing Harassment</li>
+    <li>Harassment Training</li>
+    <li>How to Respond</li>
+    <li>Investigation Process</li>
+    <li>Right and Wrong Questions</li>
+  </ul>
+  <h3>Section E: Systematic Process</h3>
+  <ul>
+    <li>Documentation and Consistency</li>
+  </ul>

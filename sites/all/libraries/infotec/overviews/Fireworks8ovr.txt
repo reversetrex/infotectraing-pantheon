@@ -1,0 +1,1 @@
+Students will learn to create and edit vector and bitmap graphics, apply interesting effects, as well as add graphical text to web pages.

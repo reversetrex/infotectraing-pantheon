@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+    <li>Describe data warehouse concepts and architecture considerations.</li>
+    <li>Select an appropriate hardware platform for a data warehouse.</li>
+    <li>Design and implement a data warehouse.</li>
+    <li>Implement Data Flow in an SSIS Package.</li>
+    <li>Implement Control Flow in an SSIS Package.</li>
+    <li>Debug and Troubleshoot SSIS packages.</li>
+    <li>Implement an ETL solution that supports incremental data extraction.</li>
+    <li>Implement an ETL solution that supports incremental data loading.</li>
+    <li>Implement data cleansing by using Microsoft Data Quality Services.</li>
+    <li>Implement Master Data Services to enforce data integrity.</li>
+    <li>Extend SSIS with custom scripts and components.</li>
+    <li>Deploy and Configure SSIS packages.</li>
+    <li>Describe how BI solutions can consume data from the data warehouse.</li>
+</ul>

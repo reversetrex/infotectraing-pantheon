@@ -1,0 +1,11 @@
+<p><strong>Module 1: A  Troubleshooting Methodology</strong> - This module explains what a troubleshooting methodology is, its role in an enterprise, and how it can be  used to improve the support function within an organization.</p>
+
+<p><strong>Module 2: Troubleshooting Operating Systems</strong> - This module explains how to identify and troubleshoot issues that affect the operating system's ability  to boot and the services that it is running.</p>
+
+<p><strong>Module 3: Troubleshooting Hardware</strong> - This module explains how to troubleshoot hardware-related problems and how to use Windows Vista tools to troubleshoot device problems.</p>
+
+<p><strong>Module 4: Troubleshooting Networks</strong> - This module explains how to identify the most likely cause of network problems in a number of given  network scenarios.</p>
+
+<p><strong>Module 6: Troubleshooting Applications</strong> - After completing this module, students will be able to troubleshoot problems that are caused by some applications which are not compatible with Windows Vista.</p>
+
+<p><strong>Module 7: Maintaining and Optimizing Windows Vista</strong> - After completing this module, students will be able to identify tools that can be used to maintain a healthy operating system and optimize its performance.</p>

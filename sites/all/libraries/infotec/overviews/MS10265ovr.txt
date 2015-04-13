@@ -1,0 +1,1 @@
+In this course, experienced developers who know the basics of data access (CRUD) in Windows client and Web application environments will learn to optimize their designs and develop better performing data access code by using the ADO.NET Entity Framework, LINQ, WCF Data Services, the Sync Framework, and ADO.NET.

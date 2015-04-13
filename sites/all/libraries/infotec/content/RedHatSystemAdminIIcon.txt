@@ -1,0 +1,17 @@
+<ol>
+ <li><strong>Automate installation with Kickstart</strong> - Automate the installation of Red Hat Enterprise Linux systems with Kickstart.</li>
+ <li><strong>Use regular expressions with grep</strong> - Write regular expressions that, when partnered with grep, will allow you to quickly isolate or locate content within text files.</li>
+ <li><strong>Create and Edit text files with vim</strong> - Introduce the vim text editor, with which you can open, edit, and save text files.</li>
+ <li><strong>Schedule future Linux tasks</strong> - Schedule tasks to automatically execute in the future.</li>
+ <li><strong>Manage priority of Linux processes</strong> - Influence the relative priorities at which Linux processes run.</li>
+ <li><strong>Control access to files with access control lists (ACL)</strong> - Manage file security using POSIX access control lists.</li>
+ <li><strong>Manage SELinux security</strong> - Manage the Security Enhanced Linux (SELinux) behavior of a system to keep it secure in case of a network service compromise.</li>
+ <li><strong>Connect to network-defined users and groups</strong> - Configure systems to use central identity management services.</li>
+ <li><strong>Add disks, partitions, and file systems to a Linux system</strong> - Manage simple partitions and file systems.</li>
+ <li><strong>Manage logical volume management (LVM) storage</strong> - Manage logical volumes from the command line.</li>
+ <li><strong>Access networked attached storage with network file system (NFS)</strong> - Access (secure) NFS shares.</li>
+ <li><strong>Access networked storage with SMB</strong> - Use autofs and the command line to mount and unmount SMB file systems.</li>
+ <li><strong>Control and troubleshoot the Red Hat Enterprise Linux boot process</strong></li>
+ <li> <strong>Limit network communication with firewall</strong> - Configure a basic firewall.</li>
+ <li><strong>Comprehensive review</strong> - Practice and demonstrate knowledge and skills learned in this course.</li>
+</ol>

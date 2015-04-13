@@ -1,0 +1,11 @@
+<p>After attending this course, students will be able to:</p>
+<ul>
+  <li>Select SQL Server services to support an organization&rsquo;s business needs.</li>
+  <li>Design a data modeling strategy.</li>
+  <li>Design a transaction strategy for a SQL  Server solution.</li>
+  <li>Design a Notification Services solution.</li>
+  <li>Design a Service Broker solution.</li>
+  <li>Plan for source control, unit testing, and deployment to meet an organization&rsquo;s needs.</li>
+  <li>Evaluate advanced query techniques.</li>
+  <li>Evaluate advanced XML techniques.</li>
+</ul>

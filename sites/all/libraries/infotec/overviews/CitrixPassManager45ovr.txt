@@ -1,0 +1,1 @@
+This course introduces administrators and IT Professionals to Citrix Password Manager 4.5 and prepares them to install, administer and support the product. Interactive instructor-led discussion and hands-on labs and exercises guide learners through administrator tasks preparing them to manage Citrix Password Manager 4.5 deployments.

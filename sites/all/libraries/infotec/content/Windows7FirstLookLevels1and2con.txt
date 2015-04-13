@@ -1,0 +1,114 @@
+<p><strong><u>Level 1</u></strong></p>
+
+<p><strong>Lesson 1: Exploring Windows 7</strong></p>
+
+<ul>
+  <li>Topic  1A: Identify Personal Computer Functionality</li>
+  <li>Topic  1B: Log On to Windows 7</li>
+  <li>Topic  1C: Explore the Desktop</li>
+  <li>Topic  1D: Work with Windows</li>
+  <li>Topic  1E: Access the Help and Support Feature</li>
+  <li>Topic  1F: Turn Off the Personal Computer</li>
+</ul>
+
+<p><strong>Lesson 2: Customizing the Windows 7 Desktop</strong></p>
+
+<ul>
+  <li>Topic  2A: Customize the Start Menu</li>
+  <li>Topic  2B: Customize the Taskbar</li>
+  <li>Topic  2C: Personalize the Desktop</li>
+  <li>Topic  2D: Add Gadgets to the Desktop</li>
+</ul>
+
+<p><strong>Lesson 3: Managing Folders and Files</strong></p>
+
+<ul>
+  <li>Topic  3A: Navigate to Folders Using Windows Explorer</li>
+  <li>Topic  3B: Work with Folders and Files</li>
+  <li>Topic  3C: Secure Folders and Files</li>
+  <li>Topic  3D: Organize Folders and Files</li>
+  <li>Topic  3E: Search for Folders and Files</li>
+</ul>
+
+<p><strong>Lesson 4: Using Common Tools and Programs in Windows 7</strong></p>
+
+<ul>
+  <li>Topic  4A: Create a Document in WordPad</li>
+  <li>Topic  4B: Work with the Calculator</li>
+  <li>Topic  4C: Capture Screens Using the Snipping Tool</li>
+  <li>Topic  4D: Customize a Graphic with the Paint Tool</li>
+</ul>
+
+<p><strong>Lesson 5: Browsing the Internet</strong></p>
+
+<ul>
+  <li>Topic  5A: Get Familiar with the Internet </li>
+  <li>Topic  5B: Browse Websites Using Internet Explorer 8</li>
+  <li>Topic  5C: Download and Install a Gadget</li>
+</ul>
+
+<p><strong><u>Level 2</u></strong></p>
+
+<p><strong>Lesson 1: Customizing the Windows 7 Environment</strong></p>
+
+<ul>
+  <li>Topic  1A: Apply Aero Features</li>
+  <li>Topic  1B: Modify Display Settings</li>
+</ul>
+
+<p><strong>Lesson 2: Configuring User Accounts</strong></p>
+
+<ul>
+  <li>Topic  2A: Create a User Account</li>
+  <li>Topic  2B: Manage User Accounts</li>
+</ul>
+
+<p><strong>Lesson 3: Working with Applications in Windows 7</strong></p>
+
+<ul>
+  <li>Topic  3A: Schedule Tasks</li>
+  <li>Topic  3B: Work with Media Files</li>
+  <li>Topic  3C: Explore Games</li>
+  <li>Topic  3D: Manage Programs</li>
+</ul>
+
+<p><strong>Lesson 4: Working with Devices</strong></p>
+
+<ul>
+  <li>Topic  4A: Modify Device Settings</li>
+  <li>Topic  4B: Configure Removable Devices</li>
+</ul>
+
+<p><strong>Lesson 5: Managing Networks</strong></p>
+
+<ul>
+  <li>Topic  5A: An Overview of Networks</li>
+  <li>Topic  5B: Share Files and Folders</li>
+  <li>Topic  5C: Manage Offline Files</li>
+</ul>
+
+<p><strong>Lesson 6: Securing System Data</strong></p>
+
+<ul>
+  <li>Topic  6A: Back Up Data</li>
+  <li>Topic  6B: Restore Data</li>
+  <li>Topic  6C: Apply Security Settings</li>
+</ul>
+
+<p><strong>Lesson 7: Enhancing System Performance</strong></p>
+
+<ul>
+  <li>Topic  7A: Improve Processing Speed</li>
+  <li>Topic  7B: Optimize Power Consumption</li>
+  <li>Topic  7C: Configure Windows Update Settings</li>
+  <li>Topic  7D: Troubleshoot Problems</li>
+</ul>
+
+<p><strong>Lesson 8: Working with Internet Explorer 8</strong></p>
+
+<ul>
+  <li>Topic  8A: Manage Favorites</li>
+  <li>Topic  8B: Manage History Files</li>
+  <li>Topic  8C: Configure Pop-Up Settings</li>
+  <li>Topic  8D: Configure Internet Security and Privacy Settings</li>
+</ul>

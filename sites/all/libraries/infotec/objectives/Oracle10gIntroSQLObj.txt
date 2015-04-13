@@ -1,0 +1,14 @@
+<ul>
+  <li> Describe a relational database </li>
+  <li> Construct basic queries </li>
+  <li> Use SQL functions </li>
+  <li> Combine data from multiple data sources using joins and subqueries </li>
+  <li> Write basic reports </li>
+  <li> Use DML commands such as insert, update, and delete </li>
+  <li> Understand transaction processing in an Oracle database </li>
+  <li> Create and manage objects such as tables, indexes, and views </li>
+  <li> Manage user access </li>
+  <li> Enforce business rules using integrity constraints </li>
+  <li> Write queries using analytical functions such as CUBE and ROLLUP </li>
+  <li>Write hierarchical queries</li>
+</ul>

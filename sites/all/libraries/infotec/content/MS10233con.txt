@@ -1,0 +1,124 @@
+<p><strong>Module 1: Introduction to Designing a Microsoft Exchange Server 2010 Deployment</strong></p>
+
+<p>This module explains how to gather  business and technical requirements, and information about the current  messaging system, to prepare for designing a messaging system. It also provides  an overview of Service Level Management and how it can impact the design of the  messaging system.</p>
+
+<ul>
+  <li>Gathering  Business Requirements</li>
+  <li>Identifying  Additional Requirements</li>
+  <li>Introduction  to Service Level Management</li>
+  <li>Analyzing  the Current Messaging Environment</li>
+</ul>
+
+<p><strong>Module 2:  Designing Microsoft Exchange Server 2010 Integration with the Current Infrastructure</strong></p>
+
+<p>This module explains how to design  the integration of Exchange Server with the current infrastructure. It  describes how to design the network infrastructure, the Active Directory  infrastructure, and the DNS infrastructure. Additionally, this module explains  how to plan the administration of Exchange Server 2010.</p>
+
+<ul>
+  <li>Designing  the Network Infrastructure</li>
+  <li>Designing  the Active Directory Infrastructure</li>
+  <li>Designing  the DNS Infrastructure</li>
+  <li>Planning  Exchange Server Administration</li>
+</ul>
+
+<p><strong>Module 3:  Planning and Deploying Mailbox Services</strong></p>
+
+<p>This module explains how to design  the deployment of the Mailbox server services in Exchange Server 2010. It  provides an overview of the Mailbox services in Exchange Server 2010. The  module then describes how to design Mailbox server, recipient management, and a  public folder architecture.</p>
+
+<ul>
+  <li>Overview  of Mailbox Services in Exchange Server 2010</li>
+  <li>Designing  Mailbox Servers</li>
+  <li>Designing  Recipient Management</li>
+  <li>Designing  Public Folder Architecture</li>
+  <li>Lab: Planning and Deploying Mailbox Services</li>
+</ul>
+
+<p><strong>Module 4:  Planning and Deploying Client Access Services in Exchange Server 2010</strong></p>
+
+<p>This module explains how to plan and  deploy client access services in Exchange Server 2010. It provides an overview  of the Client Access server role and then describes how to design the Client  Access server deployment, client access, and client access policies.</p>
+
+<ul>
+  <li>Overview  of the Client Access Server Role</li>
+  <li>Designing  the Client Access Server Deployment</li>
+  <li>Designing  Client Access</li>
+  <li>Designing  Client Access Policies</li>
+</ul>
+
+<p><strong>Module 5: Planning and Deploying Message  Transport in Exchange Server 2010</strong></p>
+
+<p>This module explains how to design  the Hub Transport server and Edge Transport Server deployments. It also  describes how to design message routing in Exchange Server 2010. The module  then explains how to design the Hub Transport servers and the Edge Transport servers.</p>
+
+<ul>
+  <li>Designing  Message Routing for Exchange Server 2010</li>
+  <li>Designing  Hub Transport Servers</li>
+  <li>Designing  the Message Routing Perimeter</li>
+</ul>
+
+<p><strong>Module 6:  Planning and Deploying Messaging Security</strong></p>
+
+<p>This module explains how to plan and  deploy messaging security. It describes how to design message security  restrictions, SMTP connector security, and explains how to secure message  routing between partner organizations. The module then describes how to design  antivirus and anti-spam solutions.</p>
+
+<ul>
+  <li>Designing  Message Security</li>
+  <li>Designing  Antivirus and Anti-Spam Solutions</li>
+</ul>
+
+<p><strong>Module 7: Planning and Deploying Messaging Compliance</strong></p>
+
+<p>This module explains how to plan and  deploy a messaging policy and compliance solution. It describes how to design  transport rules, message classifications, and message moderation. Then the  module describes how to design the AD RMS integration with Exchange Server  2010. Finally, the module explains how to design message journaling, archiving,  and messaging records management.</p>
+
+<ul>
+  <li>Designing  Transport Compliance</li>
+  <li>Designing  AD RMS Integration with Exchange Server 2010</li>
+  <li>Designing  Message Journaling and Archiving</li>
+  <li>Designing  Messaging Records Management</li>
+</ul>
+
+<p><strong>Module 8: Planning and Deploying High Availability</strong></p>
+
+<p>This module explains how to plan a  highly available Exchange Server 2010 deployment. It provides an introduction  to high availability in Exchange Server 2010. It also describes how to design  high availability for mailbox databases and the other Exchange Server 2010  server roles. Finally, the module explains how to design site resilience.</p>
+
+<ul>
+  <li>Introduction  to High Availability Planning in Exchange Server 2010</li>
+  <li>Designing  High Availability for Mailbox Databases</li>
+  <li>Designing  High Availability for Other Server Roles</li>
+  <li>Designing  Site Resilience</li>
+</ul>
+
+<p><strong>Module 9:  Planning a Disaster Recovery Solution</strong></p>
+
+<p>This module explains how to plan a  disaster recovery solution for Exchange Server 2010. It describes how to plan  for disaster mitigation and then explains how to design Exchange Server backup  and recovery.</p>
+
+<ul>
+  <li>Planning  for Disaster Mitigation</li>
+  <li>Planning Exchange  Server Backup</li>
+  <li>Planning  Exchange Server Recovery</li>
+</ul>
+
+<p><strong>Module 10: Planning Microsoft Exchange Server 2010 Monitoring and Troubleshooting</strong></p>
+
+<p>This module explains how to develop  a plan for monitoring and troubleshooting the Exchange Server environment. It  first describes the various options for monitoring the different server roles  in Exchange Server 2010. The module then describes the available  troubleshooting tools and explains how to plan for troubleshooting issues in  message delivery, client access, and databases.</p>
+
+<ul>
+  <li>Planning  Exchange Server Monitoring</li>
+  <li>Planning  Exchange Server Troubleshooting</li>
+</ul>
+
+<p><strong>Module 11: Upgrading to Microsoft Exchange Server 2010</strong></p>
+
+<p>This  module explains how to plan and implement an upgrade from Exchange Server 2003  or Exchange Server 2007 to Exchange Server 2010. It first provides an overview  of the various upgrading scenarios. The module then describes how to plan the  upgrade from Exchange Server 2003 to Exchange Server 2010 and from Exchange  Server 2007 to Exchange Server 2010.</p>
+
+<ul>
+  <li>Overview  of Upgrading to Exchange Server 2010</li>
+  <li>Planning the Upgrade from Exchange Server 2003 to Exchange Server 2010</li>
+  <li>Planning  the Upgrade from Exchange Server 2007 to Exchange Server 2010</li>
+</ul>
+
+<p><strong>Module 12: Integrating Microsoft Exchange Server 2010 with Other Messaging Systems</strong></p>
+
+<p>This module explains how to  integrate Exchange Server 2010 with other messaging systems and with federated  partners. It first describes the various coexistence scenarios and then  explains how to design Exchange Server 2010 integration with other messaging  systems. The modules also describes how to design the integration of Exchange Server 2010 with federated partners and with Exchange Online.</p>
+
+<ul>
+  <li>Designing  Exchange Server 2010 Integration with Other Messaging Systems</li>
+  <li>Designing  Exchange Server 2010 Integration with Federated Partners</li>
+  <li>Designing Exchange  Server 2010 Integration with Exchange Online</li>
+</ul>

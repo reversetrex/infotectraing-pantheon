@@ -1,0 +1,47 @@
+<p><strong>Lesson 1: Exchanging Project Plan Data with Other Applications</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Import Project Information<br />
+    <strong>Topic 1B: </strong>Export Project Plan Cost Data to an Excel  Workbook<br />
+    <strong>Topic 1C: </strong>Copy a Picture of the Project Plan Information<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Updating a Project Plan</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Enter Task Progress<br />
+    <strong>Topic 2B: </strong>Enter Overtime Work<br />
+    <strong>Topic 2C: </strong>Edit Tasks<br />
+    <strong>Topic 2D: </strong>Reschedule a Task<br />
+    <strong>Topic 2E: </strong>Filter Tasks<br />
+    <strong>Topic 2F: </strong>Set an Interim Plan<br />
+    <strong>Topic 2G: </strong>Create a Custom Table<br />
+    <strong>Topic 2H: </strong>Create a Custom Field<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Managing Project Costs</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Update Cost Rate Tables<br />
+    <strong>Topic 3B: </strong>Group Costs<br />
+    <strong>Topic 3C: </strong>Link Documents to a Project Plan<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Reporting Project Data Visually</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Create a Visual Report<br />
+    <strong>Topic 4B: </strong>Customize a Visual Report<br />
+    <strong>Topic 4C: </strong>Create a Visual Report Template<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Reusing Project Plan Information</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Create a Project Plan Template<br />
+    <strong>Topic 5B: </strong>Create a Custom View<br />
+    <strong>Topic 5C: </strong>Make Custom Views Available to Other Project  Plans<br />
+    <strong>Topic 5D: </strong>Share Resources<br />
+    <strong>Topic 5E: </strong>Create a Master Project<br />
+  </p>
+</blockquote>

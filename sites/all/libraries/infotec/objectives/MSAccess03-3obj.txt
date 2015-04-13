@@ -1,0 +1,10 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Restructure an existing set of data to improve the design of a database. </li>
+  <li> Use a variety of techniques to summarize and present data with queries. </li>
+  <li> Create and revise basic Access macros. </li>
+  <li> Create macros that improve data entry efficiency and integrity. </li>
+  <li> Improve the effectiveness of data entry in forms. </li>
+  <li> Improve the effectiveness of data displayed in reports. </li>
+  <li> Maintain an Access database by using various utility tools. </li>
+</ul>

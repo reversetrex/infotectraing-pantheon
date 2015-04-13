@@ -1,0 +1,10 @@
+; Infotec (c) 2015
+name = infotec
+description = Infotec Proprietary Data Bridge Interface Module. (Infotec (c) 2015)
+core = 7.x
+version = 7.x-0.1-dev
+stylesheets[all][] = templates/css/infotec.css
+stylesheets[all][] = js/ui/jquery-ui.min.css
+stylesheets[all][] = js/ui/jquery-ui.theme.min.css
+
+

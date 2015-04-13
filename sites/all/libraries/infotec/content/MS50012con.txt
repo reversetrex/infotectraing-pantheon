@@ -1,0 +1,19 @@
+<p><strong>Module 1: Introduction to the MOF Changing Quadrant</strong> - This module provides a context  for the course by describing the Microsoft IT life cycle frameworks and reviewing the MOF models.</p>
+
+<p><strong>Module 2: Change Management</strong> - This module describes the activities involved in change management in sufficient detail to prepare  students to be able to manage the simplest types of changes.</p>
+
+<p><strong>Module 3: Release Planning, Building, and Testing</strong> - This  module describes the process for preparing changes for release into the  production environment, focusing on planning, building, and testing.</p>
+
+<p><strong>Talkeetna Round 3:</strong> Complex changes introduce business-driven changes. The scenario involves a major change that hinders business growth if incorrectly implemented. The business pushes for added capacity and applies pressure to ensure that the change is implemented within strict time frames.</p>
+
+<p><strong>Module 4: Rollout - Planning, Preparation, and Deployment</strong> - This module describes the process for rolling out a release into the production environment after it has been built and accepted.</p>
+
+<p><strong>Module 5: Configuration Management</strong> - This module discusses the configuration management process, including setup  activities and the four basic configuration management activities: establishing configuration items (CIs), accessing CIs, changing Us, and reviewing Us.</p>
+
+<p><strong>Talkeetna Round 4:</strong> Business as Usual expects students to integrate the instruction they have received on the three changing quadrant SMFs. This round puts a greater emphasis on release  management. It also introduces an unanticipated change driven by business  requirements. In addition, standard and minor changes continue, with the occasional major change also being deployed during this time.</p>
+
+<p><strong>Module 6: Emergency Changes</strong> - This  module describes how emergency changes are different from other changes.</p>
+
+<p><strong>Talkeetna Round 5:</strong> Operational  Excellence involves implementing a plan for major changes. In this round, students  are given the opportunity to revisit the challenges of earlier rounds and  implement better solutions, based on what they have learned. Again, multiple  changes of varying importance and urgency must be made.</p>
+
+<p><strong>Module 7: Course Summary</strong> - This module reviews the major learning of the course, and allows  students to ask any questions they have about the material. In addition,  pointers are provided to additional resources and follow-up activities.</p>

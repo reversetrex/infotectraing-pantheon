@@ -1,0 +1,73 @@
+<p><strong>Module 1: Overview</strong> - A simple introduction module.</p>
+<p><strong>Module 2: 2010 Changes</strong> - In this module we are  going to take a look at some of the major changes between SharePoint Designer  2007 and SharePoint Designer 2010.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>The changes to SharePoint Designer 2010</li>
+</ul>
+<p><strong>Module 3: User  Interface</strong> - In this module we take a look at common features of the  basic team site. Throughout this course we will create and manage several  different pieces of content and the team site will be our site of choice for  doing this!  Understanding this site is  the center piece of starting your journey of understanding SharePoint and  applying it to you everyday life!</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>New SharePoint Features</li>
+  <li>Lab : SharePoint Designer Interface</li>
+  <li>Explore new interface of SharePoint Designer</li>
+  <li>Review new work areas of Designer</li>
+  <li>Browse Site Pages</li>
+  <li>Browse Master Pages</li>
+  <li>Browse Lists and Libraries</li>
+  <li>Browse Workflows</li>
+  <li>Browse Content Types</li>
+  <li>Browse Data Sources</li>
+  <li>Browse Entities</li>
+  <li>Explore Site Structure</li>
+  <li>Lab : SharePoint Designer (Basics)</li>
+  <li>Create a new site</li>
+  <li>Create a new page</li>
+  <li>Create a new master page</li>
+  <li>Attach a master page</li>
+  <li>Create a list</li>
+  <li>Change list settings</li>
+  <li>Create Content Type</li>
+  <li>Create/Modify CSS</li>
+  <li>Lab : SharePoint Designer (Basics)</li>
+  <li>Check-In/Check-Out</li>
+  <li>Add Web Parts</li>
+  <li>Add Web Part Zone</li>
+  <li>Adding Images (_images directory)</li>
+  <li>Reset to Site Definition</li>
+</ul>
+<p><strong>Module 4: Data Views</strong> - In this module we are going to take a look at Data Views and  Data Sources.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Data Sources and Data Views</li>
+  <li>Lab : Data Views</li>
+  <li>Create/Manage Data Views</li>
+  <li>Create/Manage Data Sources</li>
+  <li>Merge Two Data Sources</li>
+  <li>Link Two Data Sources</li>
+</ul>
+<p><strong>Module 5: External Content Types</strong> - In this module we are going to take a look at the new  Business Connectivity Services (BCS), the replacement/new version of Business  Data Catalog (BDC).</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Business Connectivity Services</li>
+  <li>Lab : External Content Types</li>
+  <li>Explore External Content Types</li>
+  <li>Create a new External Content Type</li>
+  <li>Create an External List</li>
+</ul>
+<p><strong>Module 6: Workflows</strong> - In this module we are going to take a look at implementing  workflows with SharePoint Designer 2010.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Lab : Built In Activities (2007)</li>
+  <li>Use one of each Built-In Activity (2007)</li>
+  <li>Lab : Built In Activities (2010)</li>
+  <li>Use one of each Built-In Activity (2010)</li>
+  <li>Lab : Looping Workflow</li>
+  <li>Create a looping set of workflows</li>
+  <li>Lab : Create a looping set of workflows</li>
+  <li>Create Reusable Workflows (Site/Global)</li>
+  <li>Export a workflow to Visio</li>
+  <li>Import a workflow from Visio</li>
+  <li>Save as Template</li>
+  <li>Lab : Modify OOB Workflow</li>
+  <li>Modify  Out Of Box Workflows</li>
+</ul>

@@ -1,0 +1,1 @@
+The goal of this course is to help application developers understand the Microsoft .NET Framework. In addition to offering an overview of the .NET Framework and an introduction to key concepts and terminology, the course provides a series of labs, which introduce and explain .NET Framework features that are used to code, debug, tune, and deploy applications.

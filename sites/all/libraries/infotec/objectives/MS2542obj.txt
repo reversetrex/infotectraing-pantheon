@@ -1,0 +1,9 @@
+<p> After completing this workshop, students will be able to: </p>
+<ul>
+  <li> Minimize and handle database operation conflicts. </li>
+  <li> Handle large objects. </li>
+  <li> Enhance database performance. </li>
+  <li> Create managed code objects for SQL Server 2005. </li>
+  <li> Query XML by using XPath. </li>
+  <li> Transform XML by using XSLT style sheets. </li>
+</ul>

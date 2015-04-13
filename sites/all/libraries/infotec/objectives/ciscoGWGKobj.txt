@@ -1,0 +1,8 @@
+<p> After completing this course the student should be able to: </p>
+<ul>
+  <li> Given a customer CallManager based IPC network, students will be able to implement H.323, SIP and MGCP controlled gateways including SRST and RSVP support. </li>
+  <li> Given a customer IPC solution requiring integration with the PSTN and PBXs, students will implement the appropriate interconnections. Given a customer multi-site IPC network including H.323 / SIP controlled gateways, SRST gateways and CallManager Express, students will implement a dial plan. </li>
+  <li> Given a customer CallManager deployment, students will implement media resources, call applications and fax on gateways. </li>
+  <li> Given a customer IPC network, students will implement basic and advanced gatekeeper functionality and gatekeeper redundancy on IOS routers. </li>
+  <li> Given an existing voice ready customer network, the student will identify and describe the different IP-IP Gateway deployment models and explain the features supported for enterprise customers. </li>
+</ul>

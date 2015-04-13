@@ -1,0 +1,11 @@
+<p><strong>Module 1: Silverlight Development Basics</strong></p>
+
+<blockquote>This module explains how to start developing Silverlight applications, which tools are needed, the purpose and motivation of XAML, which user controls are available out of the box and how to  use them.</blockquote>
+
+<p><strong>Module 2: Advanced Silverlight Development</strong></p>
+
+<blockquote>This module explains how to access XAML objects from managed code, create new XAML objects dynamically, develop user controls and custom controls, create control templates and styles, use data binding and customize user control states with the VisualStateManager.</blockquote>
+
+<p><strong>Module 3: Miscellaneous Topics</strong></p>
+
+<blockquote>This module explains how a Silverlight application can access network resources, how to access HTML DOM objects from  Silverlight applications and expose Silverlight functionality to the hosting HTML page, how to access isolated storage files, how to localize Silverlight  applications, how to use DeepZoom in Silverlight applications, and how to create interactive media applications.</blockquote>

@@ -1,0 +1,172 @@
+<p><strong>Module 1: ITIL/MOF Overview</strong></p>
+<p>This module describes the correspondence between MOF and ITIL processes and their implementation in System Center Service Manager 2010.</p>
+<ul>
+  <li>ITIL/MOF Overview: Why People and Processes Matter; IT Service Lifecycle; Manage Layer; Change and Configuration Management</li>
+</ul>
+
+<p><strong>Module 2: Change Management</strong></p>
+<p>This module describes the Change Management processes in ITIL and MOF.</p>
+<ul>
+  <li>The Change Management SMF Processes and Workflow</li>
+  <li>Change Management in Service Manager</li>
+</ul>
+
+<p><strong>Module 3: Configuration Management</strong></p>
+<p>This module describes the ITIL and MOF Configuration Management processes.</p>
+<ul>
+  <li>ITIL Definition of Configuration Management</li>
+  <li>ITIL Configuration Management Workflow</li>
+  <li>The Purpose of the Configuration Management SMF</li>
+  <li>System Center Service Manager CMDB</li>
+  <li>System Center Configuration Manager Integration</li>
+  <li>System Center Operation Manager Integration</li>
+</ul>
+
+<p><strong>Module 4: Service Desk</strong></p>
+<p>This module describes the Service Desk and Customer Service SMF processes.</p>
+<ul>
+  <li>ITIL Definition of Service Desk</li>
+  <li>MOF Operate Phase</li>
+  <li>The Goals of the Customer Service SMF</li>
+  <li>The Purpose of the Customer Service SMF</li>
+  <li>Key Role Types in the Customer Service SMF</li>
+  <li>The Customer Service SMF Processes and Workflow</li>
+</ul>
+
+<p><strong>Module 5: Incident Management</strong></p>
+<p>This module describes the Incident Management processes in System Center Service Manager 2010.</p>
+<ul>
+  <li>Incident Management in System Center Service Manager</li>
+  <li>Service Desk Scenario in Service Manager</li>
+</ul>
+
+<p><strong>Module 6: Problem Management</strong></p>
+<p>This module describes the Problem Management processes in System Center Service Manager 2010.</p>
+<ul>
+  <li>ITILs Definition of Problem Management</li>
+  <li>The ITIL Problem Management Process</li>
+  <li>The Goals of the Problem Management SMF</li>
+  <li>The Purpose of the Problem Management SMF</li>
+  <li>Key Role Types in the Problem Management SMF</li>
+  <li>The Problem Management SMF Processes and Workflow</li>
+</ul>
+
+<p><strong>Module 7: Reviews and Reports</strong></p>
+<p>This module describes how System Center Service Manager 2010 supports reporting.</p>
+<ul>
+  <li>Purpose of SMF Reviews</li>
+  <li>SCSM Data Warehouse and Reports</li>
+</ul>
+
+<p><strong>Module 8: Organizational Analysis</strong></p>
+<p>This module provides an understanding of the organization where Service Manager is implemented and how this will influence the implementation of Service Manager.</p>
+<ul>
+  <li>Overview of the Teams Used with Service Manager (MOF)</li>
+  <li>Description of Teams that Should Be in Place to Implement Service Manager</li>
+</ul>
+
+<p><strong>Module 9: Planning and Architecture Design</strong></p>
+<p>This module explains how to plan for a Service Manager implementation and explains the different architecture components together with performance and scale scenarios and best practices for hardware sizing.</p>
+<ul>
+  <li>Understanding the Quality of IT Processes</li>
+  <li>Understand the Requirements for the System Center Products that Service Manager will Integrate With Reporting and Data Warehouse Requirements</li>
+  <li>Self Service Portal Requirements</li>
+  <li>Service Manager Components</li>
+  <li>Inside Service Manager</li>
+  <li>Service Manager Scalability</li>
+  <li>Hardware Sizing</li>
+  <li>Implementation Scenarios</li>
+</ul>
+
+<p><strong>Module 10: Deploying Service Manager</strong></p>
+<p>This module explains how Service Manager should be deployed in an IT-environment.</p>
+<ul>
+  <li>Sizing the Environment (performance impact)</li>
+  <li>Installation and Setup</li>
+  <li>High Availability</li>
+  <li>SQL Best Practice</li>
+  <li>Troubleshooting</li>
+</ul>
+
+<p><strong>Module 11: Configuration Management and Connectors</strong></p>
+<p>This module explains how to implement configuration management and how to install and configure connectors for Service Manager.</p>
+<ul>
+  <li>Configuration Management with Service Manager</li>
+  <li>Connectors</li>
+  <li>Active Directory</li>
+  <li>Operations Manager</li>
+  <li>Configuration Manager</li>
+</ul>
+
+<p><strong>Module 12: Service Manager Management Packs</strong></p>
+<p>This module covers Service Manager Management Packs.</p>
+<ul>
+  <li>Explain the concepts of Management Packs and how they work</li>
+  <li>Explaining the different Management Packs Types</li>
+  <li>Explain the content and modules of a Management Pack</li>
+  <li>Explain the Incident Management Pack</li>
+  <li>Explain the Problem Management Pack</li>
+  <li>Explain the Change Management Pack</li>
+  <li>Explain Knowledge Management pack</li>
+</ul>
+
+<p><strong>Module 13: User Roles and Functions</strong></p>
+<p>This module covers configuring and supporting User roles and profiles.</p>
+<ul>
+  <li>Understand Security Scopes/UI Filters</li>
+  <li>User Role Profiles</li>
+  <li>Role Based Security</li>
+  <li>Creating User Roles and Scopes</li>
+</ul>
+
+<p><strong>Module 14: Using System Center Service Manager</strong></p>
+<p>This module covers common user scenarios.</p>
+<ul>
+  <li>How do you build the Incident process into Service Manager?</li>
+  <li>How do you build the Problem process into Service Manager?</li>
+  <li>How do you build the Change process into Service Manager?</li>
+</ul>
+
+<p><strong>Module 15: Data Warehouse and Reporting</strong></p>
+<p>This module shows the students how Data Warehouse and Reporting works with Service Manager.</p>
+<ul>
+  <li>Data Warehouse and Reports</li>
+  <li>Anatomy of ETL</li>
+  <li>Favorite Reports</li>
+  <li>Linked Reports</li>
+  <li>Scheduled Reports</li>
+  <li>Service Manager Dashboard</li>
+</ul>
+
+<p><strong>Module 16: Self Service Portal</strong></p>
+<p>This module explains how to work with Self Service Portal. It also describes how to configure and install Self Service Portal.</p>
+<ul>
+  <li>Self Service Portal Overview</li>
+  <li>How to configure Self Service Portal</li>
+  <li>End User Portal</li>
+  <li>Analyst Portal</li>
+</ul>
+
+<p><strong>Module 17: Maintaining Service Manager</strong></p>
+<p>This module shows the students how Maintain Service Manager.</p>
+<ul>
+  <li>How to Maintain Service Manager on a Daily Basis</li>
+  <li>Configuring Notifications for Service Manager</li>
+  <li>Workflow Status</li>
+  <li>Announcements</li>
+</ul>
+
+<p><strong>Module 18: Extending Service Manager</strong></p>
+<p>This module shows the students how extend Service Manager.</p>
+<ul>
+  <li>How to Extend the CMDB</li>
+  <li>Introducing the Authoring Console</li>
+  <li>Introducing Forms</li>
+  <li>Introducing the MP XML Structure</li>
+</ul>
+
+<p><strong>Module 19: Troubleshooting Service Manager</strong></p>
+<p>This module covers troubleshooting common errors in Service Manager.</p>
+<ul>
+  <li>Common Service Manager Error Scenarios and Remediation</li>
+</ul>

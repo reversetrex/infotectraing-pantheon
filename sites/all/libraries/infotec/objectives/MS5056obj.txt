@@ -1,0 +1,17 @@
+<ul>
+  <li> Describe potential security risks </li>
+  <li> Understand the malware protection features in Windows Vista </li>
+  <li> Understand the network protection features in Windows Vista </li>
+  <li> Describe the security enhancements in Microsoft Internet Explorer 7 </li>
+  <li> Describe how Windows Vista enhances user productivity </li>
+  <li> Describe the Windows Vista user interface (UI) enhancements </li>
+  <li> Understand the Microsoft Windows feature for mobile devices </li>
+  <li> Manage the Windows Vista boot process </li>
+  <li> Configure power management </li>
+  <li> Describe the benefits of enhanced monitoring and management </li>
+  <li> Describe Windows Vista system monitoring features. </li>
+  <li> Monitor and control applications. </li>
+  <li> Describe Group Policy enhancements in Windows Vista. </li>
+  <li> Understand the remote management features in Windows Vista </li>
+  <li> Automate management tasks.<strong></strong></li>
+</ul>

@@ -1,0 +1,11 @@
+<ul>
+  <li> Properly assemble a CAT5e cable with RJ-45 plugs. </li>
+  <li> Properly connect a patch panel to a hub. </li>
+  <li> Demonstrate proper mounting of a 110 block patch panel. </li>
+  <li> Demonstrate proper use or a tone generator to identify a single cable within a bundle. </li>
+  <li> Discover the source of excessive cross talk over UTP cables. </li>
+  <li> Locate the cause of excessive attenuation in a horizontal UTP cable. </li>
+  <li> Properly install a remodel box for use with data cabling. </li>
+  <li> Properly install a surface mount outlet box and raceway. </li>
+  <li> Demonstrate proper RG-6 coaxial cable end prep and connector crimping. </li>
+</ul>

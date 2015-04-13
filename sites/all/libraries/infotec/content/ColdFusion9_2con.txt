@@ -1,0 +1,52 @@
+<p><strong>Building  User-Defined Functions</strong>:</p>
+<blockquote>
+  <p> Introduces the &lt;cffunction&gt; tag  and explains how it can (and should) be used to extend the CFML language.</p>
+</blockquote>
+<p><strong>Creating Custom  Tags:</strong></p>
+<blockquote>
+  <p>Teaches  students how to write their own tags to extend the CFML language—tags written  in CFML itself.</p>
+</blockquote>
+<p><strong>Creating Advanced  ColdFusion Components</strong>:</p>
+<blockquote>
+  <p> Continues exploring ColdFusion  Components by introducing advanced topics, including persistence,  encapsulation, and inheritance.</p>
+</blockquote>
+<p><strong>Improving  Performance</strong>:</p>
+<blockquote>
+  <p> Developers are always looking for ways to tweak  their code, squeezing a bit more performance wherever possible. This section  provides tips, tricks, and techniques you can use to create applications that  will always be snappy and responsive.</p>
+</blockquote>
+<p><strong>Working With PDF  Files</strong>:</p>
+<blockquote>
+  <p> Adobe PDF files are the standard for high-fidelity  document distribution and online form processing, and ColdFusion features  extensive PDF integration as explained in this section.</p>
+</blockquote>
+<p><strong>ColdFusion Image  Processing</strong>:</p>
+<blockquote>
+  <p> Teaches you how to read, write, and manipulate  image files using ColdFusion tags and functions.</p>
+</blockquote>
+<p><strong>Advanced ColdFusion  Powered Ajax</strong>:</p>
+<blockquote>
+  <p> Explores Ajax user interface controls and  concepts.</p>
+</blockquote>
+<p><strong>Creating Presentations:</strong></p>
+<blockquote>
+  <p>Teaches  you how to use ColdFusion to build dynamic Acrobat Connect presentations.</p>
+</blockquote>
+<p><strong>Using Stored Procedures:</strong></p>
+<blockquote>
+  <p>Takes  advanced SQL one step further by teaching you how to create stored procedures  and how to integrate them into your ColdFusion applications.</p>
+</blockquote>
+<p><strong>Using Regular Expressions:</strong></p>
+<blockquote>
+  <p>Introduces the powerful and flexible world of regular expression manipulation  and processing. Regular expressions allow you to perform incredibly  sophisticated and powerful string manipulations with simple one-line  statements. ColdFusion supports the use of regular expressions in both find and  replace functions.</p>
+</blockquote>
+<p><strong>ColdFusion Scripting:</strong></p>
+<blockquote>
+  <p>Introduces  the &lt;CFSCRIPT&gt; tag and language, which can be used to replace blocks of  CFML code with a cleaner and more concise script-based syntax.  &lt;CFSCRIPT&gt; can also be used to create  ColdFusion Components and user-defined functions, both of which are explained  in this chapter, too.</p>
+</blockquote>
+<p><strong>Working with XML:</strong></p>
+<blockquote>
+  <p>Explains  what XML is and how to use it in your ColdFusion code.</p>
+</blockquote>
+<p><strong>Manipulating XML with XSLT  and XPath:</strong></p>
+<blockquote>
+  <p>Explains how to apply XSL  transformations to XML data, as well as how to extract data from an XML  document using XPath expressions.</p>
+</blockquote>

@@ -1,0 +1,47 @@
+<p><strong>1. Forefront Protection Overview</strong></p>
+<ol type="a">
+  <li>Microsoft Business Ready Security Strategy</li>
+  <li>Forefront Protection Suite Components</li>
+  <li>Licensing and Availability</li>
+</ol>
+<p><strong>2. Secure Mail Relay using Forefront Threat  Management Gateway 2010</strong></p>
+<ol type="a">
+  <li>Secure Mail Relay Overview</li>
+  <li>Solution Components</li>
+  <li>Configuring SMTP Protection</li>
+</ol>
+<p><strong>3. Forefront Protection 2010 for Exchange Server</strong></p>
+<ol type="a">
+  <li>Forefront Protection 2010 for Exchange Server (FPE) Overview</li>
+  <li>FPE Management</li>
+  <li>Deployment Considerations</li>
+  <li>Engine and Definition Updates</li>
+  <li>Antimalware Protection</li>
+  <li>Antispam Protection</li>
+  <li>Content Filtering</li>
+  <li>Operations</li>
+</ol>
+<p><strong>4. Forefront Online Protection for Exchange</strong></p>
+<ol type="a">
+  <li>Forefront Online Protection for Exchange (FOPE) Overview</li>
+  <li>Hybrid Scenario with Forefront Protection 2010 for Exchange Server</li>
+  <li>Deploying Forefront Online Protection for Exchange</li>
+</ol>
+<p><strong>5. Forefront Protection 2010 for SharePoint</strong></p>
+<ol type="a">
+  <li>Forefront Protection 2010 for SharePoint  (FPSP) Overview</li>
+  <li>Solution Components</li>
+  <li>Deployment Considerations</li>
+  <li>Engine and Definition Updates</li>
+  <li>Antimalware Scanning</li>
+  <li>Content Filtering</li>
+  <li>Operations</li>
+</ol>
+<p><strong>6. Forefront Protection Manager</strong></p>
+<ol type="a">
+  <li>Forefront Protection Manager (FPM) Overview</li>
+  <li>Deploying Forefront Protection Manager</li>
+  <li>Asset Discovery and Asset Groups</li>
+  <li>FPM Policy Management</li>
+  <li>Operations</li>
+</ol>

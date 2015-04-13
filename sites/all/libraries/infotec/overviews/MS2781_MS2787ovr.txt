@@ -1,0 +1,7 @@
+<p><strong>MS 2781</strong></p>
+
+<p>This part of the course provides students with the knowledge and skills to design server-side solutions for Microsoft SQL Server 2005. The course focuses on teaching database developers who work in enterprise environments to identify and place database technologies during design to achieve a suitable solution that meets the needs of an organization. Students will also learn to consider the solution from a system-wide view instead of from a single database or server perspective.</p>
+
+<p><strong>MS 2787</strong></p>
+
+<p>This part of the course enables database administrators who work with enterprise environments to design security for database systems using Microsoft SQL ServerT 2005. The course emphasizes that students should think about the whole environment, which includes business needs, regulatory requirements, network systems, and database considerations during design. Students will also learn how to monitor security and respond to threats.</p>

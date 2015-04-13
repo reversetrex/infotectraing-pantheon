@@ -1,0 +1,10 @@
+<h2>Session 1</h2>
+<h3>Section A: Emotional Self-Control</h3>
+<ul>
+  <li>Course Introduction</li>
+  <li>Under Pressure</li>
+  <li>Losing it</li>
+  <li>Empathetically Challenged</li>
+  <li>Nothing But Reaction</li>
+  <li>Conclusion</li>
+</ul>

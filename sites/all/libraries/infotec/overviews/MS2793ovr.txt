@@ -1,0 +1,1 @@
+This three-day instructor-led course teaches students how to implement a Reporting Services solution in an organization. The course discusses how to use the Reporting Services development tools to create reports, and how to use the Reporting Services management and administrative tools to manage a Reporting Services solution.

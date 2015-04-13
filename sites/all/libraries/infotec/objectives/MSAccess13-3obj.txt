@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Customize a form layout to improve usability and efficiency of data entry.</li>
+  <li>Add user interface features to validate data entry.</li>
+  <li>Use macros to improve user interface design.</li>
+  <li>Organize data into appropriate tables to ensure data dependency and minimize redundancy.</li>
+  <li>Lock down and prepare a database for distribution to multiple users.</li>
+  <li>Create and modify a database switchboard and set the startup options.</li>
+</ul>

@@ -1,0 +1,55 @@
+
+<p><strong> Unit 1: Excel Basics </strong></p>
+<ul>
+  <li> The Paper Spreadsheet </li>
+  <li>The Excel Program </li>
+  <li>The Workbook Environment </li>
+</ul>
+<p><strong> Unit 2: Entering Data and Navigating in a Worksheet </strong></p>
+<ul>
+  <li> Entering and Correcting Data </li>
+  <li>Saving a File </li>
+  <li>Using Formulas </li>
+  <li>Opening a Second File </li>
+  <li>Navigation and Movement Techniques </li>
+</ul>
+<p><strong> Unit 3: Modifying a Workbook </strong></p>
+<ul>
+  <li> Working with Ranges </li>
+  <li>Working with Functions </li>
+  <li>Editing Cell Contents </li>
+</ul>
+<p><strong> Unit 4: Moving and Copying Data </strong></p>
+<ul>
+  <li> Inserting Rows and Ranges </li>
+  <li>Moving Data </li>
+  <li>Copying Data </li>
+  <li>Absolute References </li>
+  <li>Using the Fill Series Feature </li>
+</ul>
+<p><strong> Unit 5: Formatting a Worksheet </strong></p>
+<ul>
+  <li> Formatting a Worksheet </li>
+  <li>Number Formats and Text Alignment </li>
+  <li>Copying and Pasting Formats </li>
+  <li>Special and Custom Formatting </li>
+</ul>
+<p><strong> Unit 6: Printing a Worksheet </strong></p>
+<ul>
+  <li> Checking Spelling </li>
+  <li>Using the Print Preview Command </li>
+  <li>Printing a Large Worksheet </li>
+  <li>Additional Print Options </li>
+</ul>
+<p><strong> Unit 7: Introduction to the Workbook Environment </strong></p>
+<ul>
+  <li> Using a Multiple-sheet Workbook </li>
+  <li>Creating a Chart </li>
+  <li>Outlining </li>
+  <li>Spreadsheet Solutions </li>
+</ul>
+<p><strong> Unit 8: Creating Excel Web Pages </strong></p>
+<ul>
+  <li> Using Excel as a Web Tool </li>
+  <li>Other Web Options </li>
+</ul>

@@ -1,0 +1,264 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>What You Will Learn</li>
+    <li>Excel 2007 Interface</li>
+    <li>Ribbon and Tabs</li>
+    <li>Document Windows</li>
+    <li>Navigation Tips</li>
+  </ul>
+  <h3>Section B: Creating and Manipulating Data</h3>
+  <ul>
+    <li>Entering Data</li>
+    <li>AutoFill a Series</li>
+    <li>Fill Non-Adjacent Cells</li>
+    <li>AutoFill on Multiple Sheets</li>
+    <li>Creating Custom Lists</li>
+    <li>Series Formatting</li>
+  </ul>
+  <h3>Section C: Managing Worksheets</h3>
+  <ul>
+    <li>Copying Worksheets</li>
+    <li>Inserting and Deleting Worksheets</li>
+    <li>Hiding Worksheets</li>
+  </ul>
+  <h3>Section D: Data Integrity</h3>
+  <ul>
+    <li>Validation Criteria</li>
+    <li>Character Validation</li>
+    <li>Drop-Down Lists</li>
+  </ul>
+  <h3>Section E: Modifying Cell Content</h3>
+  <ul>
+    <li>Cut, Copy, Paste</li>
+    <li>Transposing Data</li>
+    <li>Copy Cell Format Only</li>
+    <li>Removing Duplicates</li>
+    <li>Data Validation</li>
+  </ul>
+  <h3>Section F: Changing Views</h3>
+  <ul>
+    <li>Zoom Features</li>
+    <li>Workbook Views</li>
+    <li>Page Layout View</li>
+    <li>Repeating Cell Content</li>
+    <li>Freeze Panes</li>
+    <li>Split Windows</li>
+    <li>Viewing Multiple Windows</li>
+    <li>Saving Hot Links</li>
+    <li>Hiding the Ribbon</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Formatting Data</h3>
+  <ul>
+    <li>Formatting Worksheets</li>
+    <li>Worksheet Backgrounds</li>
+    <li>Watermarks</li>
+  </ul>
+  <h3>Section B: Modifying Rows and Columns</h3>
+  <ul>
+    <li>Inserting Rows</li>
+    <li>Inserting Columns</li>
+    <li>Cutting and Inserting Columns</li>
+    <li>Modifying Cell Width/Height</li>
+    <li>Inserting Multiple Rows and Columns</li>
+    <li>Inserting and Deleting Cells</li>
+    <li>Formatting Rows and Columns</li>
+    <li>Hiding/Unhiding Rows and Columns</li>
+  </ul>
+  <h3>Section C: Formatting Numbers</h3>
+  <ul>
+    <li>Currency Format</li>
+    <li>Format Painter</li>
+    <li>Formatting Dates</li>
+    <li>Special Formats</li>
+    <li>Cell Styles</li>
+  </ul>
+  <h3>Section D: Formatting Text and Tables</h3>
+  <ul>
+    <li>Fonts, Fills, and Alignment</li>
+    <li>Comments</li>
+    <li>Merging and Splitting Cells</li>
+    <li>Inserting Hyperlinks</li>
+    <li>Formatting as a Table</li>
+    <li>Summary Function</li>
+  </ul>
+  <h3>Section E: Understanding Formulas</h3>
+  <ul>
+    <li>Using Operations</li>
+    <li>Creating Formulas</li>
+    <li>AutoSum</li>
+    <li>Common Functions</li>
+    <li>Searching for Functions</li>
+    <li>Copying Formulas</li>
+    <li>Absolute Cell References</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Referencing Formulas</h3>
+  <ul>
+    <li>Dependent References</li>
+    <li>Multiple Sheet References</li>
+    <li>Consolidating Data</li>
+    <li>Consolidating with Links</li>
+  </ul>
+  <h3>Section B: Ranges and Dates</h3>
+  <ul>
+    <li>AutoSum</li>
+    <li>Cell Names</li>
+    <li>Formulas with Cell Names</li>
+    <li>COUNT</li>
+    <li>COUNTA</li>
+    <li>Date Formulas</li>
+  </ul>
+  <h3>Section C: Subtotals</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Subtotal Options</li>
+    <li>Selecting Visible Data</li>
+  </ul>
+  <h3>Section D: Lookups</h3>
+  <ul>
+    <li>Lookups Purpose</li>
+    <li>VLOOKUP</li>
+    <li>VLOOKUP Exact Match</li>
+    <li>HLOOKUP</li>
+    <li>HLOOKUP Exact Match</li>
+  </ul>
+  <h3>Section E: Conditional Logic</h3>
+  <ul>
+    <li>IF Syntax</li>
+    <li>IF Statement</li>
+    <li>Nested IF</li>
+    <li>Nested IF Syntax</li>
+  </ul>
+  <h3>Section F: More Conditional Logic</h3>
+  <ul>
+    <li>AND</li>
+    <li>OR</li>
+    <li>NOT</li>
+    <li>IFERROR</li>
+    <li>SUMIF</li>
+    <li>AVERAGEIF</li>
+    <li>COUNTIF</li>
+    <li>SUMIFS</li>
+    <li>AVERAGEIFS</li>
+    <li>COUNTIFS</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Financial Formulas</h3>
+  <ul>
+    <li>Future Value</li>
+    <li>Payment</li>
+    <li>Goal Seek</li>
+    <li>Changing Rate</li>
+    <li>Scenario Manager</li>
+  </ul>
+  <h3>Section B: Text Formulas</h3>
+  <ul>
+    <li>Case Formulas</li>
+    <li>Paste Column Widths</li>
+    <li>Operations in Paste Special</li>
+    <li>Skip Blanks</li>
+    <li>AutoCalculate</li>
+    <li>Fix Number Fields</li>
+    <li>Trim Spaces</li>
+    <li>Substitute Text</li>
+  </ul>
+  <h3>Section C: Introduction to Charts</h3>
+  <ul>
+    <li>Chart Types</li>
+    <li>Instant Chart</li>
+    <li>Update Chart</li>
+    <li>Column Chart</li>
+    <li>Picture Fill</li>
+    <li>Adjust Chart Size</li>
+    <li>Line Chart</li>
+    <li>Scatter Chart</li>
+  </ul>
+  <h3>Section D: Formatting Charts</h3>
+  <ul>
+    <li>Chart Styles</li>
+    <li>Chart Layouts</li>
+    <li>Add Labels</li>
+    <li>Axis Options</li>
+    <li>Chart Title</li>
+    <li>Legends</li>
+    <li>Data Labels</li>
+  </ul>
+  <h3>Section E: Conditional Formatting</h3>
+  <ul>
+    <li>Highlight Cells Rules</li>
+    <li>Top/Bottom Rules</li>
+    <li>Data Bars</li>
+    <li>Color Scales</li>
+    <li>Custom Formatting Rule</li>
+    <li>Text Formatting</li>
+  </ul>
+  <h3>Section F: Adding Graphics to Spreadsheets</h3>
+  <ul>
+    <li>Insert Pictures</li>
+    <li>Modifying Pictures</li>
+    <li>Insert Shapes</li>
+    <li>Insert SmartArt</li>
+    <li>Apply Themes</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Outlining, Sorting, and Filtering</h3>
+  <ul>
+    <li>Group and Ungroup</li>
+    <li>Sort Data</li>
+    <li>Sort Multiple Levels</li>
+    <li>Filter Data</li>
+    <li>Advanced Filter</li>
+    <li>Conditional Sorting and Filtering</li>
+    <li>Sorting and Filtering Data Attributes</li>
+  </ul>
+  <h3>Section B: PivotTables</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Creating PivotTables</li>
+    <li>Choosing Fields</li>
+    <li>Sub Fields</li>
+    <li>PivotTable Layout</li>
+    <li>Filtering PivotTables</li>
+    <li>Totals</li>
+    <li>Modifying PivotTable Data</li>
+    <li>PivotCharts</li>
+  </ul>
+  <h3>Section C: Protecting Data</h3>
+  <ul>
+    <li>Workbook Passwords</li>
+    <li>Protecting Workbooks</li>
+    <li>Hiding Worksheets</li>
+    <li>Unlocking Cells</li>
+  </ul>
+  <h3>Section D: Collaboration</h3>
+  <ul>
+    <li>Document Properties</li>
+    <li>Formatting Comments</li>
+    <li>Document Inspector</li>
+    <li>Sharing a Workbook</li>
+    <li>Track Changes</li>
+    <li>Accept/Reject Changes</li>
+    <li>Information Rights Management</li>
+    <li>Using IRM</li>
+    <li>Signature Line</li>
+    <li>Mark as Final</li>
+  </ul>
+  <h3>Section E: Saving a Workbook</h3>
+  <ul>
+    <li>Save As Previous Version</li>
+    <li>Templates</li>
+    <li>Save As PDF</li>
+    <li>Save As Web Page</li>
+    <li>Macro-Enabled Workbook</li>
+  </ul>
+  <h3>Section F: Printing</h3>
+  <ul>
+    <li>Page Orientation</li>
+    <li>Page Breaks</li>
+    <li>Print Area</li>
+    <li>Margins</li>
+    <li>Headers and Footers</li>
+    <li>Scaling</li>
+  </ul>

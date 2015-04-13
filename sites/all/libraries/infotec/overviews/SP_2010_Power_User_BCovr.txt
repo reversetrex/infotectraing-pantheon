@@ -1,0 +1,9 @@
+A student will first start out learning the basics to gain foundation building knowledge of SharePoint. This begins with a tour of the Web-based interface and exploring the various types of lists and libraries available for collaboration such as Contacts, Tasks, Links, Calendar and document libraries. Then the student will create one of each type of library, list and site using templates.<br /><br />
+
+In addition this course is for those users who have the responsibility to manage and customize SharePoint sites and site collections.<br /><br />
+
+The student will also be introduced to SharePoint Features and how to leverage them to provide additional plug-in like functionality to SharePoint sites and site collections. Site collection administrators will also learn how to create and customize content within SharePoint sites using content pages, wiki pages, Web Parts lists and document libraries.<br /><br />
+
+Finally students will learn how to secure sites, lists, libraries and the content within lists and libraries using the permissions infrastructure in SharePoint. In addition attendees will also learn about and use the new SharePoint metadata tagging capabilities.<br /><br />
+
+This course is for anyone who has little to no experience with SharePoint from an end user perspective. This includes users, power users, Web masters, site administrators, site collection administrators. 

@@ -1,0 +1,84 @@
+<p><strong><u>InDesign CS3: Level 1</u></strong></p>
+
+  <p><strong>Lesson 1: Managing the InDesign Environment</strong></p>
+    Topic 1A: Explore the InDesign Environment <br />
+    Topic 1B: Customize the Workspace <br />
+    Topic 1C: Set General and Interface Preferences<br />
+
+  <p><strong>Lesson 2: Designing Documents</strong></p>
+    Topic 2A: Create a New Document <br />
+    Topic 2B: Add Text and Graphics <br />
+    Topic 2C: Edit Text <br />
+    Topic 2D: Thread Text Frames <br />
+    Topic 2E: Convert Other Application Files to InDesign<br />
+
+  <p><strong>Lesson 3: Enhancing Documents</strong></p>
+    Topic 3A: Apply Colors and Swatches <br />
+    Topic 3B: Apply Fills, Gradients, and Strokes <br />
+    Topic 3C: Format Characters and Paragraphs <br />
+    Topic 3D: Create and Apply Styles <br />
+    Topic 3E: Search and Replace Text and Characters <br />
+    Topic 3F: Develop Layers <br />
+    Topic 3G: Apply Transparency and Transparency Flattener  Presets<br />
+
+  <p><strong>Lesson  4: Adding Tables</strong></p>
+    Topic 4A: Create a Table <br />
+    Topic 4B: Modify a Table Structure <br />
+    Topic 4C: Format a Table <br />
+    Topic 4D: Create Table and Cell Styles<br />
+
+  <p><strong>Lesson  5: Finalizing Documents</strong></p>
+    Topic 5A: Check Documents for Problems <br />
+    Topic 5B: Print a Document <br />
+    Topic 5C: Package Files <br />
+    Topic 5D: Prepare PDF Files for Web Distribution <br />
+    Topic 5E: Export PDF Files for Printing<br />
+
+  <p><strong><u>InDesign CS3: Level 2</u></strong></p>
+
+  <p><strong>Lesson 1: Managing Styles</strong></p>
+    Topic 1A: Manage Style  Overrides <br />
+    Topic 1B: Base One Style  on Another <br />
+    Topic 1C: Apply Styles  in a Sequence <br />
+    Topic 1D: Import Styles  from a Word Document <br />
+    Topic 1E: Redefine  Styles <br />
+	
+   <p><strong>Lesson 2: Developing  Complex Paths</strong></p>
+    Topic 2A: Create B&eacute;zier  Paths <br />
+    Topic 2B: Create  Compound Paths <br />
+    Topic 2C: Create  Clipping Paths <br />
+    Topic 2D: Create Type  Outlines<br />
+
+  <p><strong>Lesson 3: Handling Page  Elements</strong></p>
+    Topic 3A: Place Inline  Graphics <br />
+    Topic 3B: Manipulate  Graphics <br />
+    Topic 3C: Handle Text  Layout <br />
+    Topic 3D: Create  Duplicate Items <br />
+    Topic 3E: Create  Anchored Objects <br />
+    Topic 3F: Manage  Libraries <br />
+	
+   <p><strong>Lesson 4: Administering  External Files</strong></p>
+    Topic 4A: Locate Assets  Using Adobe Bridge <br />
+    Topic 4B: Merge Data <br />
+    Topic 4C: Import Layered  Files <br />
+    Topic 4D: Export PDF  Files <br />
+    Topic 4E: Export XHTML  Files<br />
+	
+  <p><strong>Lesson 5: Working with  XML</strong></p>
+    Topic 5A: Integrate XML  into a Document <br />
+    Topic 5B: Import XML <br />
+    Topic 5C: Export Documents  as XML Files <br />
+    Topic 5D: Create a  Snippet <br />
+	
+  <p><strong>Lesson 6: Managing Long  Documents</strong></p>
+    Topic 6A: Create  Hyperlinks <br />
+    Topic 6B: Insert  Footnotes <br />
+    Topic 6C: Insert Text  Variables <br />
+    Topic 6D: Create the  Table of Contents <br />
+    Topic 6E: Generate an  Index <br />
+    Topic 6F: Create  Document Sections <br />
+    Topic 6G: Create a Book<br />
+	
+  <p><strong>Lesson 7: Adjusting Print  Settings</strong></p>
+    Topic 7A: Create Print  Presets <br />
+    Topic 7B: Preview Print  Output

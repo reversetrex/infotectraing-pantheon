@@ -1,0 +1,1 @@
+The overall objective of this course is to bring database administrators beyond a basic understanding of their environment and to focus attention on more advanced skills needed to effectively configure, administer, monitor and tune the database within a large-scale enterprise.

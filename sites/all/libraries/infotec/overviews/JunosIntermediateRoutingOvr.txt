@@ -1,0 +1,3 @@
+This two-day course provides students with intermediate routing knowledge and configuration examples. The course includes an overview of protocol-independent routing features, load balancing and filter-based forwarding, OSPF, BGP, IP tunneling, and high availability (HA) features.
+<br><br>
+Through demonstrations and hands-on labs, you will gain experience in configuring and monitoring the Junos OS and monitoring device operations. This course uses Juniper Networks SRX Series Services Gateways for the hands-on component, but the lab environment does not preclude the course from being applicable to other Juniper hardware platforms running the Junos OS. This course is based on Junos OS Release 12.1R1.9.

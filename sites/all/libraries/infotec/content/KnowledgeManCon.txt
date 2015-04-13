@@ -1,0 +1,12 @@
+<ul>
+  <li><strong>Module I: Introduction to Knowledge Management</strong></li>
+  <li><strong>Module II: Knowledge and Learning</strong></li>
+  <li><strong>Module III: Organizational Learning and Learning Organizations</strong></li>
+  <li><strong>Module IV: Organizational Culture, Change Management and Communities of Practice</strong></li>
+  <li><strong>Module V: Enabling Technologies</strong></li>
+  <li><strong>Module VI: Knowledge Management Frameworks and Processes</strong></li>
+  <li><strong>Module VII: Knowledge Strategy</strong></li>
+  <li><strong>Module VIII: Knowledge Management Assessment and Planning</strong></li>
+  <li><strong>Module IX: Knowledge Management Measurements and Methodologies</strong></li>
+  <li><strong>Module X: Building a Business Case for Knowledge Management</strong></li>
+</ul>

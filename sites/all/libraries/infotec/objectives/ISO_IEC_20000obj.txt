@@ -1,0 +1,7 @@
+<p>Infotec&rsquo;s ISO/IEC 20000 Foundation course provides learners with an understanding of the key elements of the international standard for ITSM.  At the end of this course, the learner will be able to identify the:</p>
+<ul>
+ <li>Fundamentals of Quality Management Systems</li>
+ <li>What is ISO/IEC 20000?  What types of organizations seek certification?</li>
+ <li>ISO/IEC 20000: Part 1 – The requirements to meet the standard (&ldquo;shalls&rdquo;)</li>
+ <li>ISO/IEC 20000: Part 2 – Service Management best practices (&ldquo;shoulds&rdquo;)</li>
+</ul>

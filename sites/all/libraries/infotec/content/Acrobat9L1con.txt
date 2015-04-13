@@ -1,0 +1,58 @@
+<p><strong>Lesson 1: Accessing a PDF Document</strong></p>
+
+<ul>
+  <li>Topic 1A: Open a PDF Document</li>
+  <li>Topic 1B: Explore the Adobe Acrobat 9 Pro Interface</li>
+  <li>Topic 1C: Browse Through a PDF Document</li>
+</ul>
+
+<p><strong>Lesson 2: Creating PDF Documents</strong></p>
+
+<ul>
+  <li>Topic 2A: Create a PDF Document Using Microsoft Applications</li>
+  <li>Topic 2B: Create a PDF Document Using the Print Command</li>
+  <li>Topic 2C: Create a PDF Document from Web Pages</li>
+  <li>Topic 2D: Create a PDF Document Using Email Applications</li>
+  <li>Topic 2E: Create a PDF Document Using Acrobat</li>
+</ul>
+
+<p><strong>Lesson 3: Navigating to Specific Content in a PDF Document</strong></p>
+
+<ul>
+  <li>Topic 3A: Conduct a Simple Search</li>
+  <li>Topic 3B: Use Bookmarks</li>
+  <li>Topic 3C: Work with Links</li>
+  <li>Topic 3D: Define Articles</li>
+</ul>
+
+<p><strong>Lesson 4: Modifying PDF Documents</strong></p>
+
+<ul>
+  <li>Topic 4A: Manipulate PDF Document Pages</li>
+  <li>Topic 4B: Edit Content in a PDF Document</li>
+  <li>Topic 4C: Add Page Elements</li>
+  <li>Topic 4D: Extract Content from a PDF Document</li>
+</ul>
+
+<p><strong>Lesson 5: Working with Multiple PDF Documents</strong></p>
+
+<ul>
+  <li>Topic 5A: Organize PDF Documents into a Collection</li>
+  <li>Topic 5B: Redact PDF Documents</li>
+  <li>Topic 5C: Search Multiple PDF Documents</li>
+</ul>
+
+<p><strong>Lesson 6: Reviewing a PDF Document</strong></p>
+
+<ul>
+  <li>Topic 6A: Initiate a Review</li>
+  <li>Topic 6B: Review a PDF Document</li>
+  <li>Topic 6C: Compare PDF Documents</li>
+</ul>
+
+<p><strong>Lesson 7: Validating a PDF Document</strong></p>
+
+<ul>
+  <li>Topic 7A: Sign a PDF Document Digitally</li>
+  <li>Topic 7B: Verify a Digital ID</li>
+</ul>

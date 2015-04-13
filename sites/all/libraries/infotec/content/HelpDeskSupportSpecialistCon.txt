@@ -1,0 +1,16 @@
+<p> Unit 1: Introduction to End-User Computing</p>
+<p>Unit 2: Introduction to Computer User Support </p>
+<p>Unit 3: Customer Service Skills for User Support Agents</p>
+<p>Unit 4: Troubleshooting Computer Problems</p>
+<p>Unit 5: Common Support Problems</p>
+<p>Unit 6: Help Desk Operation</p>
+<p>Unit 7: User Support Management</p>
+<p>Unit 8: Product Evaluation Strategies and Support Standards </p>
+<p>Unit 9: User Needs Analysis and Assessment</p>
+<p>Unit 10: Installing End-User Computer Systems</p>
+<p>Unit 11: Training Computer Users </p>
+<p>Unit 12: Writing for End Users </p>
+<p>Unit 13: Computer Facilities Management <br>
+  <br>
+  Appendix A: User Support Information Resources<br>
+  Appendix B: Answers to Check Your Understanding </p>

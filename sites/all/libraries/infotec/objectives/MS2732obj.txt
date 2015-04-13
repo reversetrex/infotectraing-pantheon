@@ -1,0 +1,17 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Describe an Enterprise Project Management solution. </li>
+  <li> Plan a Project Server infrastructure. </li>
+  <li> Install and configure Project system servers. </li>
+  <li> Implement Project Server 2003. </li>
+  <li> Plan the Project Server deployment. </li>
+  <li> Plan client software distribution. </li>
+  <li> Deploy client software. </li>
+  <li> Plan Project Server 2003 operations. </li>
+  <li> Configure and manage resource and project data. </li>
+  <li> Configure and manage views and security. </li>
+  <li> Administer Project Server 2003. </li>
+  <li> Migrate project data. </li>
+  <li> Plan the testing of a Project Server 2003 deployment. </li>
+  <li>Troubleshoot Project Server 2003.</li>
+</ul>

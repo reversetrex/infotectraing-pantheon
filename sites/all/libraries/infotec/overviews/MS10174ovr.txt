@@ -1,0 +1,1 @@
+This  course teaches students how to install, configure and administer SharePoint, and also manage and monitor sites and users by using SharePoint 2010.

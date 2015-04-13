@@ -1,0 +1,40 @@
+<p><strong>Module 1 /  Security Threats and Controls</strong></p>
+<ul>
+  <li><strong>Security Controls</strong> • Why is Security Important? •  Security Policy • Security Controls • Identification • Authentication •  Authorization • Basic Authorization Policies • Accounting • <strong>Labs</strong> • Hyper-V</li>
+  <li><strong>Threats and Attacks</strong> • Vulnerability, Threat, and Risk  • Social Engineering • Phishing • Malware • Trojans and Spyware • Preventing  Malware • Anti-Virus Software • Removing Malware • <strong>Labs</strong> • Trojans and Malware Protection</li>
+  <li><strong>Network Attacks</strong> • Network Fundamentals • Sniffers and  Protocol Analyzers • ARP Attacks • IP Spoofing and Hijacking • Network Mappers  and Port Scanners • Denial of Service Attacks • <strong>Labs</strong> • Network Vulnerabilities</li>
+  <li><strong>Assessment Tools and Techniques</strong> • Vulnerability  Assessments and Pentests • Security Assessment Techniques • Vulnerability  Scanners • Honeypots and Honeynets • <strong>Labs</strong> • Baseline Security Analyzer</li>
+</ul>
+<p><strong>Module 2 /  Cryptography and Access Control</strong></p>
+<ul>
+  <li><strong>Cryptography</strong> • What is Cryptography? • Uses of  Cryptography • Cryptographic Hash Functions • Symmetric Encryption • Asymmetric  Encryption • Asymmetric Ciphers • Diffie-Hellman  • ECC and Quantum Cryptography • Cryptographic Attacks • Steganography • <strong>Labs</strong> • Steganography</li>
+  <li><strong>Public Key Infrastructure</strong> • PKI and  Certificates • Certificate Authorities • Implementing PKI • Key Management •  Creating Keys • Key Recovery Agents • Key Status and Revocation • Cryptographic  Standards • PGP / GPG • <strong>Labs</strong> •  Configuring Certificate Services</li>
+  <li><strong>Password Authentication</strong> • LAN Manager /  NTLM • Kerberos • PAP and CHAP • Password Protection • Password Attacks • <strong>Labs</strong> • Password Sniffing</li>
+  <li><strong>Strong Authentication</strong> • Token-based  Authentication • Biometric Authentication • Common Access Card • Extensible  Authentication Protocol • RADIUS and TACACS+ • Federation and Trusts</li>
+  <li><strong>Authorization and Account Management</strong> • Privilege  Policies • Directory Services • Lightweight Directory Access Protocol • Windows  Active Directory • Creating and Managing User Accounts • Managing Group  Accounts • Account Policy Enforcement • User Rights, Permissions, and Access  Reviews</li>
+</ul>
+<p><strong>Module 3 / Network Security</strong></p>
+<ul>
+  <li><strong>Secure  Network Design</strong> • Secure Network Topologies • Demilitarized Zones • Other  Security Zones • Network Device Exploitation • Switches and VLANs • Switch  Vulnerabilities and Exploits • Routers • Network Address Translation</li>
+  <li><strong>Security  Appliances and Applications</strong> • Basic Firewalls • Stateful Firewalls • Proxies  and Gateways • Implementing a Firewall or Gateway • Web and Email Security  Gateways • Intrusion Detection Systems • IDS Analysis Engines • Monitoring  System Logs</li>
+  <li><strong>Wireless  Network Security</strong> • Wireless LANs • WEP and WPA • Wi-Fi Authentication • Additional  Wi-Fi Security Settings • Wi-Fi Site Security</li>
+  <li><strong>VPN and  Remote Access Security</strong> • Remote Access • Virtual Private Networks • IPSec •  Remote Access Servers • Remote Administration Tools • Hardening Remote Access  Infrastructure • <strong>Labs</strong> • Configuring  a VPN</li>
+  <li><strong>Network  Application Security</strong> • Application Layer Security • DHCP Security • DNS  Security • SNMP Security • Storage Area Network Security • IPv4 versus IPv6 • Telephony  • <strong>Labs</strong> • Attacks Against DHCP and  DNS</li>
+</ul>
+<p><strong>Module 4 /  Host, Data, and Application Security</strong></p>
+<ul>
+  <li><strong>Host  Security</strong> • Computer Hardening • Host Security Management Plan • OS  Hardening • Patch Management • Network Access Control • Implementing Network  Access Control • <strong>Labs</strong> • Network  Access Protection</li>
+  <li><strong>Data  Security</strong> • Data Handling • Data Encryption • Data Loss Prevention • Backup  Plans and Policies • Backup Execution and Frequency • Restoring Data and  Verifying Backups • Data Wiping and Disposal • <strong>Labs</strong> • Data Leakage Prevention</li>
+  <li><strong>Web  Services Security</strong> • HyperText Transport Protocol • SSL / TLS • Web Servers  • Load Balancers • File Transfer • <strong>Labs</strong> • HTTP and HTTPS</li>
+  <li><strong>Web  Application Security</strong> • Web Application Technologies • Web Application  Databases • Web Application Exploits • Web Application Browser Exploits • Secure  Web Application Design • Auditing Web Applications • Web Browser Security • <strong>Labs</strong> • Web Application Vulnerabilities</li>
+  <li><strong>Virtualization  and Cloud Security</strong> • Virtualization Technologies • Virtual Platform  Applications • Virtualization Best Practices • Cloud Computing • Risks of Cloud  Computing</li>
+</ul>
+<p><strong>Module 5 / Operational Security</strong></p>
+<ul>
+  <li><strong>Site  Security</strong> • Site Layout and Access • Gateways and Locks • Alarm Systems • Surveillance  • Hardware Security • Environmental Controls • Hot and Cold Aisles • RFI / EMI  • Fire Prevention and Suppression</li>
+  <li><strong>Mobile  and Embedded Device Security</strong> • Static Environments • Mitigating Risk in  Static Environments • Mobile Device Security • Mobile Device Management • BYOD  Concerns • Mobile Application Security • Bluetooth and NFC</li>
+  <li><strong>Risk  Management</strong> • Business Continuity Concepts • Risk Calculation • Risk  Mitigation • Integration with Third Parties • Service Level Agreements • Change  and Configuration Management</li>
+  <li><strong>Disaster  Recovery</strong> • Disaster Recovery Planning • IT Contingency Planning • Clusters  and Sites</li>
+  <li><strong>Incident  Response and Forensics </strong>• Incident Response Procedures • Preparation • Detection,  and Analysis • Containment • Eradication, and Recovery • Forensic Procedures • Collection  of Evidence • Handling and Analyzing Evidence • <strong>Labs</strong> • Computer Forensic Tools</li>
+  <li><strong>Security Policies and Training</strong> • Corporate Security Policy • Operational  Policies • Privacy and Employee Policies • Standards and Best Practice • Security  Policy Training and User Habits • <strong>Labs</strong> • Scenario Questions</li>
+</ul>

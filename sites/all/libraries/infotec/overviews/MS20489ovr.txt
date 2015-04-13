@@ -1,0 +1,1 @@
+This course provides SharePoint developers the information needed to implement SharePoint solutions using Enterprise Search, Managed Metadata Service (MMS), Business Connectivity Services (BCS), Enterprise Content Management (ECM), Web Content Management (WCM), Social Computing features and SharePoint Apps.

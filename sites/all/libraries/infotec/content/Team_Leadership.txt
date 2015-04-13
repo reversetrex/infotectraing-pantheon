@@ -1,0 +1,39 @@
+<h2>Session 1</h2>
+  <h3>Section A: Team Building</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: Groups vs. Teams</h3>
+  <ul>
+    <li>Why Teams?</li>
+    <li>Team Leaders</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Planning and Organizing</h3>
+  <ul>
+    <li>Organizing</li>
+    <li>Leading Meetings</li>
+    <li>Content and Structure</li>
+    <li>Goals and Motivation</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: People Skills</h3>
+  <ul>
+    <li>Assertiveness</li>
+    <li>Coaching and Counseling</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section E: Solving Problems</h3>
+  <ul>
+    <li>Conflict</li>
+    <li>The Process</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section F: Teaming for Success</h3>
+  <ul>
+    <li>Building Teams</li>
+    <li>Successful Teams</li>
+    <li>Conclusion</li>
+  </ul>

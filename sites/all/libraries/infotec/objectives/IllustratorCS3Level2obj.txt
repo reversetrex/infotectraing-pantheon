@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>create a complex illustration. </li>
+  <li>enhance complex illustrations. </li>
+  <li>create a vector version of a raster graphic. </li>
+  <li>color an artwork using the Live Paint and Live Color features. </li>
+  <li>create special effects. </li>
+  <li>apply color management so that the colors on the screen and the output match as accurately as possible. </li>
+  <li>prepare documents for composite and commercial printing. </li>
+  <li>export graphics for the web and mobile. </li>
+</ul>

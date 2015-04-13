@@ -1,0 +1,55 @@
+<p> <strong>Unit 1: Motherboard architecture, processors, memory, and BIOS</strong><br>
+  Motherboard architecture<br>
+  Processors<br>
+  Memory<br>
+  CMOS, BIOS, and POST<br>
+  <br>
+  <strong>Unit 2: Storage</strong><br>
+  Hard disks<br>
+  The IDE interface<br>
+  The SCSI interface<br>
+  SCSI configuration <br>
+  Network storage<br>
+  RAID</p>
+<p><strong>Unit 3: Server planning</strong><br>
+  Planning physical site readiness<br>
+  Disaster planning<br>
+  <br>
+  <strong>Unit 4: Server power and rack installation</strong><br>
+  Server power<br>
+  The rack<br>
+  Network cabling<br>
+  <br>
+  <strong>Unit 5: Server upgrades</strong><br>
+  Preparing for a server upgrade<br>
+  Upgrading the processor and memory<br>
+  Topic C: Updating the BIOS, upgrading power supplies and adapters<br>
+  <strong><br>
+  Unit 6: Configuring a network operating system</strong><br>
+  General NOS configuration concepts<br>
+  Novell NetWare<br>
+  UNIX/Linux<br>
+  Windows NT Server<br>
+  Windows 2000 and Server 2003</p>
+<p><strong>Unit 7: Services and applications</strong><br>
+DHCP, DNS, and WINS<br>
+Other services<br>
+Application servers<br>
+<br>
+<strong>Unit 8: Disaster planning</strong><br>
+Backup hardware<br>
+Backup software and strategies<br>
+Server redundancy and other disaster precautions<br>
+Developing a disaster recovery plan<br>
+<br>
+<strong>Unit 9: Performance monitoring and optimization</strong><br>
+Monitoring the server<br>
+Establishing a baseline<br>
+Acceptable levels of performance<br>
+<strong><br>
+Unit 10: Troubleshooting and problem determination</strong><br>
+Troubleshooting<br>
+Diagnostic tools<br>
+Working remotely<br>
+Troubleshooting viruses and FRUs<br>
+Troubleshooting tips and getting help</p>

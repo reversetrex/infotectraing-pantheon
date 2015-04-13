@@ -1,0 +1,12 @@
+<p> Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li> use Microsoft InfoPath. </li>
+  <li> create forms. </li>
+  <li> distribute forms. </li>
+  <li> customize form layout. </li>
+  <li> manage controls. </li>
+  <li> manage views. </li>
+  <li> apply form security. </li>
+  <li> work with a database. </li>
+  <li> install InfoPath </li>
+</ul>

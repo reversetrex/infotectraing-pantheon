@@ -1,0 +1,1 @@
+This five-day instructor-led course provides students with the knowledge and skills to become a top-notch Microsoft SharePoint 2007 Developer. From AJAX to Event Handlers and Features, you will gain important insight into the internal workings of SharePoint 2007.

@@ -1,0 +1,8 @@
+LearnKey's Windows Server 2008 Applications Infrastructure Configuration 
+course is designed to meet the needs and skills of individuals who work 
+with or plan to work with: Windows Deployment Services, Terminal Services, 
+Web Services, and Media Services. Tom Carpenter covers all of the 
+objectives you will need in order to effectively take and pass exam 70-
+643. This will take you one step further to achieving your MCITP 
+certification from Microsoft.
+

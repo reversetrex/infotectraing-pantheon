@@ -1,0 +1,49 @@
+<p><strong>Module 1: FEP 2010 Overview</strong></p>
+<p>This module provides an overview of the FEP 2010 product. It drills down into the different protection technologies provided by the FEP client, and explores the client’s user interface. Finally it describes how the FEP client integrates with components that will be introduced in later modules to provide an overall solution.</p>
+<ul>
+  <li>Product focus and feature overview.</li>
+  <li>Protection technologies.</li>
+  <li>FEP client user interface.</li>
+  <li>FEP solution overview.</li>
+</ul>
+<p><strong>Module 2: System Center Configuration Manager 2007 Fundamentals</strong></p>
+<p>This module provides an overview of the System Center Configuration Manager 2007 (ConfigMgr) product with which FEP 2010 integrates. It is not intended to teach design or implementation skills in the product, but to provide a high level overview of the product, its features and components so that attendees can appreciate how FEP integrates with and leverages them. It also focuses only on the features that are leveraged by FEP, and does not cover the numerous other ConfigMgr features. It is provided as a self-contained module so that those experienced in the product have an option of skipping this module.</p>
+<ul>
+  <li>System Center suite and positioning of Configuration Manager 2007.</li>
+  <li>Configuration Manager 2007 features.</li>
+  <li>Configuration Manager 2007 concepts.</li>
+  <li>Feature drill-down: Software Distribution.</li>
+  <li>Feature drill-down: Software Update Management.</li>
+  <li>Feature drill-down: Desired Configuration Management.</li>
+</ul>
+<p><strong>Module 3: FEP Server Deployment</strong></p>
+<p>This module describes the server components of the FEP 2010 product and how they integrate into a ConfigMgr   infrastructure. It describes the different FEP management models and how these align with different ConfigMgr topologies, and the different configurations in which FEP server components can be deployed. Finally it looks at the ConfigMgr objects that are created during integration, and how these are used to manage and monitor FEP clients.</p>
+<ul>
+  <li>FEP server components and integration with ConfigMgr.</li>
+  <li>FEP management models.</li>
+  <li>FEP Server component deployment topologies.</li>
+  <li>ConfigMgr objects created by FEP.</li>
+</ul>
+<p><strong>Module 4: FEP Policy and Update Management</strong></p>
+<p>This module looks in detail at the two main management aspects of the FEP solution – management of FEP policies and management of definition updates.</p>
+<ul>
+  <li>Managing FEP policy.</li>
+  <li>Managing FEP definition updates.</li>
+</ul>
+<p><strong>Module 5: FEP Client Deployment</strong></p>
+<p>This module looks in detail at the considerations for deploying the FEP 2010 across the organization.</p>
+<ul>
+  <li>FEP client architecture.</li>
+  <li>Supported platforms and system requirements.</li>
+  <li>FEP client deployment methods.</li>
+  <li>FEP client deployment validation and troubleshooting.</li>
+</ul>
+<p><strong>Module 6: Monitoring, Alerting and Reporting</strong></p>
+<p>This module looks in detail at the monitoring aspects of a FEP 2010 solution – specifically the FEP Dashboard, FEP   alerts, and FEP reports. It explains how the ConfigMgr Desired Configuration Management (DCM) feature is used to collect data from clients as well as measure compliance with defined security baselines. Finally it examines how System Center Operations Manager can be used together with the FEP 2010 Security management pack to provide real-time monitoring of high-value endpoints (like servers).</p>
+<ul>
+  <li>FEP administrator roles and their interaction with the product.</li>
+  <li>FEP alerts.</li>
+  <li>FEP and Desired Configuration Management (DCM).</li>
+  <li>FEP reports.</li>
+  <li>Real-time monitoring with the System Center Operations Manager Security management pack.</li>
+</ul>

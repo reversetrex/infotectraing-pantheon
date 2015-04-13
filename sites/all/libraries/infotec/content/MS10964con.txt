@@ -1,0 +1,113 @@
+<p><strong>Module 1: Overview and Architecture</strong> - Before implementing Operations Manager it is important you understand the key features and functionality that it provides. This will help you understand how Operations Manager can be used to solve many common problems that arise in the cloud or datacenter such as ensuring service levels are maintained, and critical line-of –business applications are available and performing at optimum levels.</p>
+<p>Operations Manager is a comprehensive monitoring solution that requires careful planning before it is deployed into any IT environment. You must understand the hardware and software requirements of the solution and any security implications that may arise, such as monitoring computers in a trust boundary, perimeter network or public cloud. When you configure the storage for the Operations Manager databases, you should have a good understanding of the number of computers and devices that are monitored to appropriately size the databases.</p>
+<p>This module introduces students to the components contained in an Operations Manager Management Group and describes the dependency and relationships between the various components. Students will be shown how to plan for and design an Operations Manager Management Group.</p>
+<p>Lessons</p>
+<ul>
+  <li>Operations Manager in the Cloud and Data Center</li>
+  <li>Operations Manager Overview</li>
+  <li>Core Components and Topology </li>
+  <li>Key features of System Center 2012 R2 Operations Manager</li>
+  <li>Planning and Sizing System Center 2012 R2 Operations Manager</li>
+</ul>
+<p><strong>Module 2: Deploying a new System Center 2012 R2 Operations Manager Management Group</strong> - When planning a new deployment of Operations Manager, as well as the hardware and sizing requirements that you may have, you should also consider other factors. Factors including the security accounts that Operations Manager requires and the design of the Management Group should also be considered. For example, you may have a requirement to install two separate Management Groups in order to scale Operations Manager to meet your monitoring requirements.</p>
+<p>After installing Operations Manager you should also be aware of some of the most common settings that should be configured such as data retention (database grooming) settings and manual agent installation approval settings. You should also be aware of the agent deployment methods that are available including when you should use the console (or push) method or manual installation method of deploying an agent in Operations Manager.</p>
+<p>Lessons</p>
+<ul>
+  <li>Security Considerations</li>
+  <li>Management Group Design Considerations</li>
+  <li>Installing System Center 2012 R2 Operations Manager</li>
+  <li>Configuring Operations Manager Default Settings</li>
+  <li>Configuring Agentless Exception Monitoring (AEM)</li>
+  <li>Agent Deployment Methods</li>
+  <li>Configuring Audit Collection Services</li>
+</ul>
+<p><strong>Module 3: Upgrading Operations Manager</strong> - If you have already made investments in Operations Manager 2007 R2 it is important that you understand the upgrade path from Operations Manager 2007 R2 to System Center 2012 R2 Operations Manager.</p>
+<p>Upgrading the core components to System Center 2012 R2 Operations Manager can only be performed on an Operations Manager 2007 R2 or later environment. Earlier versions of Operations Manager such as Operations Manager 2007 SP1 must be upgraded to Operations Manager 2007 R2 before they can be upgraded to System Center 2012 Operations Manager.  Additionally the Operations Manager 2007 R2 installation must be running at least Cumulative Update 4.</p>
+<p>Before upgrading to System Center 2012 Operations Manager there are several important tasks that must be performed.  In this module we will cover the upgrade order that should be applied when you upgrade to System Center 2012 Operations Manager.</p>
+<p>Before the upgrade to System Center 2012 R2 Operations Manager can be performed, the Management Group must be running System Center 2012 SP1 Operations Manager.</p>
+<p>Lessons</p>
+<ul>
+  <li>Migration and Upgrade Planning</li>
+  <li>Upgrading to System Center 2012 R2 Operations Manager</li>
+  <li>Migrating to System Center 2012 R2 Operations Manager</li>
+</ul>
+<p><strong>Module 4: Configuring Fabric and Application Monitoring</strong> - With Operations Manager deployed and agents installed on the computers hosting the applications and services you need to monitor you must now install Management Packs to start monitoring them. Before you install Management Packs you should understand Management Pack concepts including all elements of a Management Pack.</p>
+<p>You should also understand how to configure fabric and application monitoring in Operations Manager for both your private and public cloud environments including how Operations Manager and Virtual Machine Manager is integrated and how you integrate Operations Manager with Windows Azure.</p>
+<p>You should also understand how to configure Management Packs to monitor applications that are running on your fabric such as Microsoft SQL Server, IIS Server and SharePoint Server. Finally, you should understand how to configure integration between Operations Manager and System Center Advisor so you can view Advisor alerts relating to your fabric components and applications.</p>
+<p>Lessons</p>
+<ul>
+  <li>Management Packs Fundamentals</li>
+  <li>Configuring Network Device Monitoring</li>
+  <li>Configuring Fabric Monitoring</li>
+  <li>Configuring Application Monitoring</li>
+</ul>
+<p><strong>Module 5: Application Performance Monitoring</strong> - Most organizations utilize the Microsoft .NET Framework to build custom applications such as for intranet web sites. As there will not be an available Management Pack for these custom applications you should understand how Application Performance Monitoring (APM) is configured in Operations Manager. APM provides extensive monitoring for .NET and Java based applications that include both Server and Client side monitoring.</p>
+<p>In addition to monitoring .NET applications directly through Operations Manager it is important that you understand how APM can be used with the full functionality of Visual Studio IntelliTrace Collector for gathering full application profiling traces. With System Center 2012 you can also integrate Operations Manager with Team Foundation Server. It is important that you understand how this integration is configured so that Operations Manager can be used to synchronize alerts with work items in Team Foundation Server.</p>
+<p>Lessons</p>
+<ul>
+  <li>Application Performance Monitoring</li>
+  <li>Using IntelliTrace</li>
+  <li>Team Foundation Server Integration</li>
+</ul>
+<p><strong>Module 6: End to End Service Monitoring</strong> - When monitoring key line of business applications, monitoring should be performed from both a data center perspective and an end-user perspective. In this module you will learn how you can create synthetic transactions to measure end-user performance.</p>
+<p>You will also learn how to combine component monitoring with synthetic transactions in distributed application models that describe the relationship between the various components of an application. This provides a single view for identifying route cause and impact of any potential service outage.</p>
+<p>Finally you will learn how to build rich Visio dashboards to show real-time health to external users.</p>
+<p>Lessons</p>
+<ul>
+  <li>Management Pack Templates</li>
+  <li>Distributed Application Models</li>
+  <li>Global Service Monitor</li>
+  <li>Real-time Visio Dashboards</li>
+</ul>
+<p><strong>Module 7: Scorecards, Dashboards and Reporting</strong> - Visualizing service and application health in Operations Manager is a key feature that enables at-a-glance views to be quickly and easily created.  These views (or dashboards) can instantly display performance and availability for one or more applications in a single pane.</p>
+<p>It is important that you understand how to create scorecards and dashboards in order to provide different types of users within the business with a view into how the monitored environment is performing. For example a Service Owner may just require a high-level view showing whether or not end users are able to access a service whereby an executive may just require a view showing whether a service is in or out of SLA.</p>
+<p>Reporting is also important in understanding how the monitored environment is performing. Certain personnel may not have access to the Operations Console or receive alerts by email, but they may still require access to important information about the health and performance of key applications and services. In this scenario, reports can be used to provide an interface into collected Operations Manager data.</p>
+<p>Service and application owners must also know that services supplied to the business are meeting service level agreements for performance and availability. Therefore, you must know how Service Level Tracking is configured and displayed in Operations Manager.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring and Managing Reporting in Operations Manager</li>
+  <li>Configuring Service Level Tracking</li>
+  <li>Configuring the Operations Manager SharePoint WebPart</li>
+  <li>Configuring Dashboards and Widgets</li>
+  <li>Creating Custom Dashboards</li>
+</ul>
+<p><strong>Module 8: Configuring and Customizing the Console</strong> - Application support teams that use Operations Manager can do so either via a locally installed console or through the Web Console. Typically within an application support team there are a number of roles that require different levels of permissions when using the Operations Console. These range from read-only users through to advanced operators. Further to this, all of these roles must be limited to only display data about the computers and applications that the operators are responsible for. In this module you will learn how to use the inbuilt role-based security within Operations Manager to provide granular access to data, views and tasks in Operations Manager.</p><p>Application support teams typically require customized views within the console for their key applications. You will also learn how to design and provision these views to relevant support teams.</p>
+<p>Whilst some team members may always have the console open, other teams may require a notification to be sent when an issue is detected. Operations manager uses Notifications and Notification Channels to achieve this functionality. This module describes how to configure these and send email alerts to key teams.</p>
+<p>Finally, in order to reduce workload on the various application support teams you will learn how to configure Diagnostic and Recovery tasks in Operations Manager. This will provide a method of diagnosing and automating the remediation of issues that have been detected.</p>
+<p>Lessons</p>
+<ul>
+  <li>Security, Scoping and User Roles</li>
+  <li>Creating Custom Views</li>
+  <li>Configuring Notification Subscriptions</li>
+  <li>Creating Diagnostic and Recovery Tasks</li>
+</ul>
+<p><strong>Module 9: Management Pack Authoring</strong> - For common applications such as Microsoft SQL Server and Microsoft Exchange Server there is already a fully developed Management Pack available. You can extend the default monitoring contained in Operations Manager by creating rules, monitors and groups within the Operators console.</p>
+<p>However it may be necessary to author a completely new management pack to monitor custom applications. To achieve this you would author the management pack in Visual studio, seal the management pack and the deploy it. The management pack should then automatically discover and monitor the components of the application.</p>
+<p>Management Pack authoring is a detailed topic that requires a base understanding of the core concepts before proceeding. This module will cover these topics including how you create a Management Pack in both the console and Visual Studio.</p>
+<p>Lessons</p>
+<ul>
+  <li>Management Packs Authoring Concepts</li>
+  <li>Authoring a Management Pack</li>
+</ul>
+<p><strong>Module 10: System Center Integration</strong> - System Center 2012 R2 consists of several components that provide complete management of the IT environment. This includes the server and desktop infrastructure and the networking infrastructure that binds them. You can also manage client devices by using System Center 2012 R2.</p>
+<p>You should integrate the System Center 2012 R2 components to provide seamless management of the IT environment from both a cloud and datacenter perspective. This provides easier and more flexible management of the cloud and datacenter environment and enables automation of many manual processes.</p>
+<p>In this module, you will learn several key features of other System Center 2012 R2 components. This includes the benefits that are achieved when integrating Operations Manager with them.</p>
+<p>Lessons</p>
+<ul>
+  <li>Integrating Operations Manager with Service Manager</li>
+  <li>Integrating Operations Manager with Data Protection Manager</li>
+  <li>Integrating Operations Manager with Orchestrator</li>
+</ul>
+<p><strong>Module 11: Troubleshooting, Tuning and Disaster Recovery</strong> - Your monitoring solution must be highly available to ensure your key line-of-business applications are available and performing at optimum levels at all times. Additionally, ensuring your system is fully optimized helps prevent outages and deterioration of performance of the monitoring solution. In this module you will learn how to optimize the data warehouse to ensure the correct volume of data is kept.</p>
+<p>As with all key systems it’s important to know where to look when troubleshooting problems. This includes using reports to understand performance and knowing which logs to investigate on both the management servers and agents.</p>
+<p>
+<p>To increase overall service availability you may also consider configuring SQL AlwaysOn for Operations Manager. This will increase the availability of the database layer.</p>
+<p>If a component within the Operations Manager environment fails it is equally important that you understand how to recover the failed component. In this final module you will learn how to optimize, troubleshoot and perform disaster recovery in Operations Manager.</p>
+<p>Lessons</p>
+<ul>
+  <li>Troubleshooting Operations Manager Core Components</li>
+  <li>Configuring SQL AlwaysOn for Operations Manager</li>
+  <li>Configuring Data Retention in Operations Manager</li>
+  <li>Using Reports to troubleshoot Operations Manager</li>
+  <li>Disaster Recovery</li>
+</ul>

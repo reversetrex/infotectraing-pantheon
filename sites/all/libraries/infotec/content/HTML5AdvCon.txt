@@ -1,0 +1,40 @@
+<p><strong>Lesson 1: Creating Web Page Layouts</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Group Content</li>
+  <li><strong>Topic 1B: </strong>Create Box Layouts</li>
+  <li><strong>Topic 1C: </strong>Create Multi-Column Layouts</li>
+</ul>
+
+<p><strong>Lesson 2: Managing CSS</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Apply Advanced CSS Selectors</li>
+  <li><strong>Topic 2B: </strong>Create an External CSS</li>
+  <li><strong>Topic 2C: </strong>Apply Browser-Specific CSS Code</li>
+</ul>
+
+<p><strong>Lesson 3: Testing a Website</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Test a Markup</li>
+  <li><strong>Topic 3B: </strong>Test CSS</li>
+</ul>
+
+<p><strong>Lesson 4: Creating Advanced Navigation</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Create CSS-Based Menus</li>
+  <li><strong>Topic 4B: </strong>Incorporate Images in CSS-Based Menus</li>
+  <li><strong>Topic 4C: </strong>Create Image Maps</li>
+</ul>
+
+<p><strong>Lesson 5: Incorporating Metacontent and Multimedia</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Define Metacontent</li>
+  <li><strong>Topic 5B: </strong>Embed Media Using Plug-Ins</li>
+  <li><strong>Topic 5C: </strong>Add Audio and Video</li>
+</ul>
+
+<p><strong>Lesson 6: Creating Basic Forms</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Create a Form with Basic Form Elements</li>
+  <li><strong>Topic 6B: </strong>Add Advanced Form Elements</li>
+  <li><strong>Topic 6C: </strong>Submit Forms</li>
+</ul>

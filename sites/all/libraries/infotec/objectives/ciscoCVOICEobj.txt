@@ -1,0 +1,10 @@
+<p> After completing this course the student should be able to: </p>
+<ul>
+  <li> Identify the components, processes, and features of traditional telephony networks that provide end-to-end call functionality </li>
+  <li>Describe two methods of call control used on voice and data networks and provide one example of a protocol for each </li>
+  <li>List at least five components or capabilities that are required to provide integrated voice and data services in campus LAN, enterprise, and service provider environments </li>
+  <li>Select the appropriate analog voice connection to a Cisco device given the types of analog connections and their susceptibility to line quality problems </li>
+  <li>Choose a voice compression scheme that best suits your needs given the fundamentals of digital voice encoding </li>
+  <li>Describe the appropriate signaling method to deploy in a telephony system given the type of signaling: between PBXs; between PBXs and central offices; or specialized, such as ISDN </li>
+  <li>Implement an effective method of transporting fax and modem traffic over a Voice over IP network given the standard implementations of fax and the methods used to transport modem traffic <strong></strong></li>
+</ul>

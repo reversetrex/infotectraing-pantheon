@@ -1,0 +1,10 @@
+<p><strong>Upon successful completion of this course, students will be able to:</strong>
+
+<ul>
+<li>Create web page layouts.</li>
+<li>Manage CSS.</li>
+<li>Test a website.</li>
+<li>Create advanced navigation.</li>
+<li>Incorporate metacontent and multimedia.</li>
+<li>Create basic forms.</li>
+</ul>

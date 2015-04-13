@@ -1,0 +1,68 @@
+<p><strong>1. Course Introduction</strong></p>
+<ul>
+  <li>Course goals, objectives, and outline</li>
+  <li>vCloud essentials</li>
+</ul>
+<p><strong>2. VMware vCloud Director Architecture and Components</strong></p>
+<ul>
+  <li>How VMware products use the cloud computing approach</li>
+  <li>vCloud Director components and functions</li>
+  <li>Integration with other VMware products</li>
+  <li>Licensing needs</li>
+</ul>
+<p><strong>3. VMware vCloud Networking</strong></p>
+<ul>
+  <li>Network types available in vCloud Director</li>
+  <li>Organization and vApp network traffic choices</li>
+  <li>The function of network pools</li>
+  <li>How to share content between organizations and vApps</li>
+</ul>
+<p><strong>4. VMware vCloud Providers</strong></p>
+<ul>
+  <li>Storage resources for vCloud Director</li>
+  <li>Configure and manage storage for providers</li>
+  <li>Provider space allocation to an organization</li>
+  <li>VMware vSphere Storage vMotion issues</li>
+  <li>Manage storage requirements for linked clones and shadow virtual machines</li>
+</ul>
+<p><strong>5. VMware vCloud Director Organizations</strong></p>
+<ul>
+  <li>Create and manage organizations</li>
+  <li>Resource allocations for an organization</li>
+  <li>Create and manage catalogs</li>
+</ul>
+<p><strong>6. Basic Security</strong></p>
+<ul>
+  <li>Role-based access</li>
+  <li>Create custom security roles</li>
+  <li>Configure LDAP integration with Microsoft Active Directory</li>
+  <li>Single sign-on</li>
+</ul>
+<p><strong>7. Managing Cloud Resources</strong></p>
+<ul>
+  <li>How vSphere fulfills vCloud Director requests</li>
+  <li>Manage provider and organization virtual data centers</li>
+</ul>
+<p><strong>8. Managing VMware vSphere Resources</strong></p>
+<ul>
+  <li>VMware vCenter Server instances</li>
+  <li>VMware ESXi hosts</li>
+  <li>vSphere datastores</li>
+  <li>Stranded items</li>
+  <li>Configure and manage resource pools at the vSphere level</li>
+</ul>
+<p><strong>9. Monitoring VMware vCloud Components</strong></p>
+<ul>
+  <li>Usage information at provider and organization virtual data centers</li>
+  <li>Analyze vCloud Director logs to monitor vCloud Director cells</li>
+</ul>
+<p><strong>10. Organization Users</strong></p>
+<ul>
+  <li>Catalog tasks available to organization users of various roles</li>
+  <li>vApp tasks available to organization users in various roles</li>
+</ul>
+<p><strong>11. VMware vCloud Director Installation</strong></p>
+<ul>
+  <li>Required prerequisites for a vCloud Director installation</li>
+  <li>Install vCloud Director</li>
+</ul>

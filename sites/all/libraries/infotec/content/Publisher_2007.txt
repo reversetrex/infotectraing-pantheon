@@ -1,0 +1,199 @@
+<h2>Session 1</h2>
+  <h3>Section A: Publisher Interface</h3>
+  <ul>
+    <li>Getting Started</li>
+    <li>Understanding the Interface</li>
+    <li>Exploring the Workspace</li>
+    <li>Task Pane</li>
+    <li>Toolbars</li>
+  </ul>
+  <h3>Section B: Customizing the Interface</h3>
+  <ul>
+    <li>Rules of Efficiency</li>
+    <li>Interface Options</li>
+    <li>Customize Toolbars</li>
+    <li>Using Print Preview</li>
+    <li>Linking Text Boxes</li>
+    <li>Zoom</li>
+    <li>Shortcuts</li>
+  </ul>
+  <h3>Section C: Design Gallery</h3>
+  <ul>
+    <li>Design Gallery Options</li>
+    <li>Design Sets and Wizards</li>
+    <li>Using a Wizard</li>
+    <li>Completing a Wizard</li>
+    <li>Editing Wizard Results</li>
+    <li>Using Colors</li>
+    <li>Using Fonts</li>
+    <li>Mixing Design Sets</li>
+  </ul>
+  <h3>Section D: Starting from Scratch</h3>
+  <ul>
+    <li>Page Setup Options</li>
+    <li>Columns, Rows, And Guides</li>
+    <li>Using Guides</li>
+    <li>Snap To</li>
+    <li>Adding Backgrounds</li>
+  </ul>
+  <h3>Section E: Master Pages</h3>
+  <ul>
+    <li>Master Page Overview</li>
+    <li>Create Master Pages</li>
+    <li>Master Page Toolbar</li>
+    <li>Headers and Footers</li>
+    <li>Send Objects to Master</li>
+    <li>Duplicate the Master</li>
+    <li>Insert Pages</li>
+    <li>Copy and Apply Master Page</li>
+    <li>Ignore Master Page</li>
+  </ul>
+  <h3>Section F: Working with Text</h3>
+  <ul>
+    <li>Text Basics</li>
+    <li>Using a Text Box</li>
+    <li>Linking Text Boxes</li>
+    <li>Importing Text from a File</li>
+    <li>Gridlines</li>
+    <li>Create Font Scheme</li>
+    <li>Alignment</li>
+    <li>Paragraph Formatting</li>
+    <li>Drop Cap</li>
+    <li>Write to Fit</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Personal Content</h3>
+  <ul>
+    <li>Business Information</li>
+    <li>Add, Change, or Remove</li>
+    <li>Apply to Publication</li>
+    <li>Content Library</li>
+    <li>Using the Content Library</li>
+  </ul>
+  <h3>Section B: Working with Pictures</h3>
+  <ul>
+    <li>Why Use Graphics?</li>
+    <li>Inserting Pictures</li>
+    <li>Inserting Clip Art</li>
+    <li>Picture Toolbar</li>
+    <li>Searching for Clip Art on the Web</li>
+    <li>Types of Graphics</li>
+    <li>Inserting Photos</li>
+    <li>Format Options</li>
+    <li>Add Text to Photo</li>
+  </ul>
+  <h3>Section C: Creating Graphics</h3>
+  <ul>
+    <li>Adding Your Own Objects</li>
+    <li>Edit Design Gallery Object</li>
+    <li>Inserting a Watermark</li>
+    <li>Creating WordArt</li>
+    <li>Modifying</li>
+    <li>Adding WordArt to Library</li>
+  </ul>
+  <h3>Section D: Drawing Shapes</h3>
+  <ul>
+    <li>Lines</li>
+    <li>Drawing Lines</li>
+    <li>Shapes and Fills</li>
+    <li>Arranging Shapes</li>
+    <li>Combine with Other Elements</li>
+    <li>Gradients</li>
+    <li>Group and Save as Image</li>
+    <li>Align or Distribute</li>
+    <li>Measurement Toolbar</li>
+  </ul>
+  <h3>Section E: Tables</h3>
+  <ul>
+    <li>Inserting a Table</li>
+    <li>Adding Text</li>
+    <li>Merging and Formatting</li>
+    <li>Moving and Resizing</li>
+  </ul>
+  <h3>Section F: Proofing and Print Options</h3>
+  <ul>
+    <li>Proofing</li>
+    <li>Spelling Options</li>
+    <li>Using Spelling</li>
+    <li>Setting Print Options</li>
+    <li>Additional Print Options</li>
+  </ul>
+  <h3>Section G: Preparing for Commercial Print</h3>
+  <ul>
+    <li>Commercial Print Options</li>
+    <li>Color Separations</li>
+    <li>Graphics Manager</li>
+    <li>Design Checker</li>
+    <li>Pack and Go</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Advanced Projects</h3>
+  <ul>
+    <li>Business Sets</li>
+    <li>Letterhead</li>
+    <li>Envelope</li>
+    <li>Business Card</li>
+    <li>Organize My Templates</li>
+    <li>Using My Templates</li>
+    <li>Save As New Folder</li>
+  </ul>
+  <h3>Section B: Publications via E-mail</h3>
+  <ul>
+    <li>E-mail from Template</li>
+    <li>Edit E-mail</li>
+    <li>E-mail Merge</li>
+    <li>Merge Steps</li>
+    <li>Filter and Sort</li>
+    <li>Insert Custom Field</li>
+    <li>Completing the Merge</li>
+  </ul>
+  <h3>Section C: Templates</h3>
+  <ul>
+    <li>Calendars</li>
+    <li>Business Forms</li>
+    <li>Signs</li>
+    <li>Postcard</li>
+    <li>Adding Text</li>
+    <li>Creating Labels</li>
+    <li>Mail Merge</li>
+    <li>Print Merged Labels</li>
+  </ul>
+  <h3>Section D: Sharing Publications</h3>
+  <ul>
+    <li>Sending an E-mail</li>
+    <li>Send as E-mail Attachment</li>
+    <li>Send as PDF Attachment</li>
+    <li>Pack and Go to Another PC</li>
+    <li>Publish as PDF or XPS</li>
+    <li>Publish for Web</li>
+  </ul>
+  <h3>Section E: The Research Task Pane</h3>
+  <ul>
+    <li>Research Options</li>
+    <li>Dictionary and Thesaurus</li>
+    <li>Translation</li>
+    <li>Company Research</li>
+  </ul>
+  <h3>Section F: Web Design Basics</h3>
+  <ul>
+    <li>Web Design 101</li>
+    <li>Functionality Rules</li>
+    <li>Text vs. Text Image</li>
+    <li>Graphics</li>
+    <li>Professionalism</li>
+  </ul>
+  <h3>Section G: Web Templates</h3>
+  <ul>
+    <li>Using Web Templates</li>
+    <li>Web Site Options</li>
+    <li>Add Masthead to Template</li>
+    <li>Add General Content</li>
+    <li>Add Relevant Content</li>
+    <li>Web Tools Toolbar</li>
+    <li>Form Control/Text Boxes</li>
+    <li>Submit Button</li>
+    <li>Preview</li>
+    <li>Hyperlinks and Hot Spots</li>
+    <li>Formatting Hot Spots</li>
+    <li>Convert to Web Publication</li>
+  </ul>

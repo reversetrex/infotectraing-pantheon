@@ -1,0 +1,11 @@
+<p><strong>Module 1: Managing a Windows Server 2008 Network Infrastructure Server  Lifecycle</strong> - This module explains how to create an effective plan for managing the  addition, removal, and migration of Windows Server 2008 Network Infrastructure Server roles.</p>
+
+<p><strong>Module 2: Monitoring Windows  Server 2008 Infrastructure Roles</strong> - This module explains how to develop effective baselines for monitoring  and managing Windows Server 2008 Network Infrastructure Server roles. It also explains how to evaluate performance baselines, establish effective monitoring  rules, and design acceptable thresholds and alarms when problems occur.</p>
+
+<p><strong>Module 3: Managing Network Access Protection</strong> - This module explains how to plan for the implementation of Network  Access Protection (NAP), create solutions by using NAP, and implement NAP.</p>
+
+<p><strong>Module 4: Managing Remote Access</strong> - This module explains how to plan for the implementation of a server  environment that is running the Routing and Remote Access Services (RRAS) role.</p>
+
+<p><strong>Module 5: Managing and  Maintaining DNS and DHCP Server Roles</strong> - This module explains how to evaluate and plan for the deployment of DNS  and DHCP infrastructure Windows Server 2008 roles throughout an enterprise environment.</p>
+
+<p><strong>Module 6: Maintaining Security  for Network Servers</strong> - This  module explains how to analyze network server security and enable the host  firewall with advanced security.</p>

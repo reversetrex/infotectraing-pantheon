@@ -1,0 +1,5 @@
+Learn the fundamental knowledge and skills that you need to build a Windows Server infrastructure with Windows Server 2012.
+<br><br>
+This five day course provides the networking, security, and system administration information that you need to implement a Windows Server infrastructure. It covers the basics of installation and configuration, storage, network infrastructure, network components, network protocols, server roles, Active Directory Domain Services (AD DS), Group Policy, IT security, server security, network security, security software, monitoring server performance, and maintaining a Windows Server.
+<br><br>
+This course includes the foundational level knowledge to prepare students to start a career or cross train in Microsoft Windows Server technologies.

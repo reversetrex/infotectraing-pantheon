@@ -1,0 +1,1 @@
+<p>This three-day instructor-led course provides students with the knowledge and skills to install, configure, and administer Microsoft Office Groove 20007. Students will become familiar with Groove 2007 Relay Server, Management Server, and Data Bridge Server, and will learn to create and configure templates and to configure Active Directory integration.</p>

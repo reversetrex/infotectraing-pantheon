@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Create and apply templates.</li>
+  <li>Create and modify charts.</li>
+  <li>Work with graphic objects.</li>
+  <li>Calculate with advanced formulas.</li>
+  <li>Sort and filter data.</li>
+  <li>Use Excel with the Web.</li>
+</ul>

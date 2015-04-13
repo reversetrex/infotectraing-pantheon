@@ -1,0 +1,8 @@
+<ol>
+  <li>Introducing Voice over IP</li>
+  <li>Configuring Voice Ports</li>
+  <li>Implementing VoIP Gateways</li>
+  <li>Implementing Dial Plans on Voice Gateways</li>
+  <li>Implementing H.323 Gatekeepers</li>
+  <li>Connecting to an ITSP</li>
+</ol>

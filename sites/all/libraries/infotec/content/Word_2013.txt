@@ -1,0 +1,142 @@
+<h2>Session 1</h2>
+  <h3>Section A: Tour of the Interface</h3>
+  <ul>
+    <li>Quick Access Toolbar</li>
+    <li>Title Bar, Learn the Ribbon</li>
+    <li>Show/Hide Paragraph</li>
+    <li>Modify Font, Paragraph</li>
+    <li>Modify Styles</li>
+    <li>Status Bar, Views, Create Document</li>
+    <li>Save Documents</li>
+    <li>Navigation Pane, Search Text</li>
+  </ul>
+  <h3>Section B: Navigation and Views</h3>
+  <ul>
+    <li>Navigation Tools and Tabs</li>
+    <li>Cut, Copy, Paste</li>
+    <li>Change Document Views</li>
+    <li>Outline View</li>
+    <li>Save Down</li>
+    <li>Compatibility Mode</li>
+  </ul>
+  <h3>Section C: Create a New Document</h3>
+  <ul>
+    <li>Create a New Document with a Template</li>
+    <li>Insert a Hyperlink</li>
+    <li>Insert a Quick Table</li>
+    <li>Insert Live Feeds</li>
+    <li>Open a PDF</li>
+    <li>Insert Pictures</li>
+    <li>Open Non-Native Files, Use Go To</li>
+    <li>Import Excel Table</li>
+    <li>Adjust Document</li>
+  </ul>
+  <h3>Section D: Modify a Document</h3>
+  <ul>
+    <li>Heading Styles, SmartArt</li>
+    <li>Insert Watermarks</li>
+    <li>Portrait vs. Landscape</li>
+    <li>Insert Headers, Footers</li>
+    <li>Insert Page Numbers</li>
+  </ul>
+  <h3>Section E: Table of Contents</h3>
+  <ul>
+    <li>Insert Table of Contents</li>
+    <li>Split the Window</li>
+    <li>Record Simple Macro</li>
+    <li>Macro Security</li>
+    <li>Show/Hide, Document Properties</li>
+  </ul>
+  <h3>Section F: Print</h3>
+  <ul>
+    <li>Configure to Print</li>
+    <li>Print Scale</li>
+    <li>Protect Documents with Password</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Advanced Formatting Options</h3>
+  <ul>
+    <li>Use Format Painter</li>
+    <li>Copy and Paste Text</li>
+    <li>Find and Replace Text</li>
+    <li>Insert Text, AutoCorrect</li>
+    <li>Insert Building Blocks</li>
+    <li>Insert Text Boxes</li>
+    <li>Insert Line Spacing</li>
+    <li>Clear Format</li>
+    <li>WordArt</li>
+    <li>Insert Paragraph Indentations</li>
+    <li>Insert Tabs, Signature Line</li>
+    <li>Insert Quick Parts</li>
+    <li>Insert Section Breaks</li>
+    <li>Create Multiple Columns with Sections</li>
+    <li>Prevent Paragraph Orphans</li>
+    <li>Add Titles to Sections</li>
+  </ul>
+  <h3>Section B: Create and Modify a Table</h3>
+  <ul>
+    <li>Create a Table</li>
+    <li>Convert Tables to Text</li>
+    <li>Define Table Dimensions</li>
+    <li>Set AutoFit Options</li>
+    <li>Modify a Table</li>
+    <li>Apply Styles to Tables</li>
+    <li>Sort Table Data</li>
+    <li>Merge Cells in Table</li>
+    <li>Create a Quick Table</li>
+    <li>Apply a Formula</li>
+  </ul>
+  <h3>Section C: Lists</h3>
+  <ul>
+    <li>Create and Modify Lists</li>
+    <li>Create a Numbered List</li>
+    <li>Modify Numbers</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Reference Tools</h3>
+  <ul>
+    <li>Footnotes</li>
+    <li>Insert Endnotes</li>
+    <li>Configure Endnote Formats</li>
+    <li>Insert Citation, Placeholders</li>
+    <li>Insert Bibliography</li>
+  </ul>
+  <h3>Section B: Captions</h3>
+  <ul>
+    <li>Add Captions, Change Format</li>
+    <li>Exclude Labels from Captions</li>
+  </ul>
+  <h3>Section C: Shapes and Images</h3>
+  <ul>
+    <li>Insert and Format a Shape</li>
+    <li>Position and Align Shapes</li>
+    <li>Insert an Image</li>
+    <li>Apply Artistic Effects</li>
+    <li>Remove the Background</li>
+    <li>Wrap Text around Images</li>
+    <li>Add Quick Styles to Images</li>
+  </ul>
+  <h3>Section D: Résumés</h3>
+  <ul>
+    <li>Views, Table Tools</li>
+    <li>Header, Footer, Indentation</li>
+    <li>Insert, Add Styles to Text</li>
+    <li>Format</li>
+  </ul>
+  <h3>Section E: Cover Pages and Thank You Letters</h3>
+  <ul>
+    <li>Cover Page</li>
+    <li>Bulleted Text</li>
+    <li>Date, Save, Compatibility Mode</li>
+    <li>Share Files Online</li>
+    <li>Thank You Letter</li>
+    <li>Themes</li>
+    <li>Print Options</li>
+  </ul>
+  <h3>Section F: Research Papers</h3>
+  <ul>
+    <li>Date, Time</li>
+    <li>Insert Citations</li>
+    <li>Chart Tools, Bibliography, Endnotes</li>
+    <li>Export as a PDF</li>
+  </ul>

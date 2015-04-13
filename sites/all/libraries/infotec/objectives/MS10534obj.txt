@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the Lync Server 2010 design process.</li>
+  <li>Design a Lync Server 2010 topology.</li>
+  <li>Design for conferencing and external scenarios.</li>
+  <li>Design for load balancing.</li>
+  <li>Design voice infrastructure.</li>
+  <li>Design a Mediation Server topology.</li>
+  <li>Create a network design for Lync Server 2010.</li>
+  <li>Design Response Group Services.</li>
+  <li>Design for Location Services.</li>
+  <li>Design Exchange Unified Messaging Integration with Lync Server 2010.</li>
+  <li>Design for resiliency.</li>
+  <li>Design for backup and disaster recovery.</li>
+  <li>Design for monitoring and archiving.</li>
+  <li>Plan a migration to Lync Server 2010.</li>
+</ul>

@@ -1,0 +1,1 @@
+<p>This two-day instructor-led course provides students with the knowledge and skills to deploy and administer Microsoft Forefront Server Security products. This two-day class includes lecture and hands-on labs (covering several server products) and was developed by Microsoft Consulting Services using their detailed implementation knowledge and best practices.</p>

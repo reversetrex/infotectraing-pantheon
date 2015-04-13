@@ -1,0 +1,17 @@
+<p><strong>After completing this course, students will be able to:</strong></p>
+<ul>
+  <li>Plan Windows Server 2008 and  Windows Server 2008  R2 Sp1 deployments  and upgrades</li>
+  <li>Plan server management and  delegated administration strategies</li>
+  <li>Plan for network addressing with  IPv4 and IPv6 and also the provisioning of DNS services</li>
+  <li>Plan and provision Active  Directory Domain Services</li>
+  <li>Plan and implement Group Policy  strategy</li>
+  <li>Plan and implement Active  Directory Certificate Services</li>
+  <li>Plan and provision Application  servers including Web services, presentation virtualization and application  virtualization</li>
+  <li>Plan and implement file and print  server roles</li>
+  <li>Plan and implement secure network  access policies such as VPNs, Network Access Protection (NAP) and Direct Access</li>
+  <li>Plan and provision data and  storage</li>
+  <li>Plan and implement an update  management strategy using Windows Server Update Services (WSUS)</li>
+  <li>Plan and implement high  availability</li>
+  <li>Plan for server performance and  event monitoring</li>
+  <li>Plan and implement a backup and recovery  strategy</li>
+</ul>

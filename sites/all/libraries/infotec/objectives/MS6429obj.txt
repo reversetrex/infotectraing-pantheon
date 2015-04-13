@@ -1,0 +1,9 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Configure Live Streaming solutions.</li>
+  <li>Configure On-Demand Streaming solutions.</li>
+  <li>Configure service roles.</li>
+  <li>Configure logging and plug-ins.</li>
+  <li>Configure Advanced Streaming solutions 7.0.</li>
+  <li>Configure Windows Media Services availability solutions.</li>
+</ul>

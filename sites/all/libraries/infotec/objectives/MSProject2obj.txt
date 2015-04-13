@@ -1,0 +1,7 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> exchange project plan data with other applications. </li>
+  <li>update a project plan. </li>
+  <li>create custom reports. </li>
+  <li>re-use existing project plan information.</li>
+</ul>

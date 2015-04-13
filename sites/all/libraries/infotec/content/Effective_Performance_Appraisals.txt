@@ -1,0 +1,32 @@
+<h2>Session 1</h2>
+  <h3>Section A: Effective Performance Appraisals</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Managing Performance</li>
+    <li>Making a Difference</li>
+  </ul>
+  <h3>Section B: Preparation</h3>
+  <ul>
+    <li>Plan</li>
+    <li>Goals and Standards</li>
+    <li>Expectations</li>
+  </ul>
+  <h3>Section C: Conducting the Appraisal</h3>
+  <ul>
+    <li>Appraisal Discussion</li>
+    <li>Talking vs. Listening</li>
+    <li>Asking Questions</li>
+    <li>Giving Criticism</li>
+    <li>Future Development</li>
+  </ul>
+  <h3>Section D: Following Up</h3>
+  <ul>
+    <li>Management</li>
+    <li>Written Records</li>
+    <li>New Expectations</li>
+    <li>Empowerment</li>
+  </ul>
+  <h3>Section E: Conclusion</h3>
+  <ul>
+    <li>Key Points</li>
+  </ul>

@@ -1,0 +1,20 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Review the main concepts of Installation and Configuration in Microsoft Dynamics AX 2012.</li>
+    <li>Discuss the architecture and requirements of Microsoft Dynamics AX 2012.</li>
+    <li>Install Microsoft Dynamics AX 2012.</li>
+    <li>Add users to Microsoft Dynamics AX 2012 and assign them to roles in the organization.</li>
+    <li>Understand the Microsoft Dynamics AX 2012 role based security architecture.</li>
+    <li>Describe architecture for Services and the Application Integration Framework.</li>
+    <li>Setup an inbound port using services.</li>
+    <li>Install services on IIS.</li>
+    <li>Explain the capabilities of workflow in Microsoft Dynamics AX 2012.</li>
+    <li>Configure an approval workflow.</li>
+    <li>Use the SQL Server Analysis Services Project Wizard.</li>
+    <li>Discuss the Microsoft Dynamics AX 2012 reporting architecture.</li>
+    <li>Deploy Microsoft Dynamics AX 2012 SQL Server Reporting Services reports.</li>
+    <li>Deploy and configure Enterprise Portal.</li>
+    <li>Manage Models in Microsoft Dynamics AX 2012.</li>
+    <li>Setup alerts, email, and batch processing in Microsoft Dynamics AX 2012.</li>
+    <li>Discuss the Microsoft Dynamics AX 2012 organization model at a high level.</li>
+</ul>

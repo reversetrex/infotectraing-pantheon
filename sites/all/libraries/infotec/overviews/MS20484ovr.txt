@@ -1,0 +1,1 @@
+In this course students will learn essential programming skills and techniques that are required to develop Windows Store apps. This includes a combination of both design and development skills, as well as ensuring that students are comfortable using and making the most of the Visual Studio and Expression Blend tools.

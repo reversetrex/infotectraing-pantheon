@@ -1,0 +1,13 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Create a simple Silverlight 2 application based on the Visual Studio Silverlight application template.</li>
+  <li>Use existing user controls to create a user interface and customize their templates and styles to provide an optimal user experience.</li>
+  <li>Create Silverlight custom controls.</li>
+  <li>Use data binding mechanisms to populate controls with a data.</li>
+  <li>Consume existing WCF/Web services from Silverlight applications.</li>
+  <li>Communicate with the Silverlight hosting environment (HTML DOM).</li>
+  <li>Use isolated offline storage in Silverlight applications.</li>
+  <li>Localize Silverlight applications.</li>
+  <li>Use DeepZoom in Silverlight applications.</li>
+</ul>

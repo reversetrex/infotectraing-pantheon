@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Create databases and database files.</li>
+  <li>Create data types and tables.</li>
+  <li>Use XML-related features in Microsoft SQL Server 2008.</li>
+  <li>Plan, create, and optimize indexes.</li>
+  <li>Implement data integrity in Microsoft SQL Server 2008 databases by using constraints.</li>
+  <li>Implement data integrity in Microsoft SQL Server 2008 databases by using triggers.</li>
+  <li>Implement views.</li>
+  <li>Implement stored procedures.</li>
+  <li>Implement functions.</li>
+  <li>Implement managed code in the database.</li>
+  <li>Manage transactions and locks.</li>
+  <li>Use  Service Broker to build a messaging-based solution.</li>
+</ul>

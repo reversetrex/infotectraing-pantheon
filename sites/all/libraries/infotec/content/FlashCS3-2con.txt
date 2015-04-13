@@ -1,0 +1,49 @@
+<p><strong>Lesson 1: Using ActionScript</strong></p>
+<ul>
+  <li>Add Components from the Actions Panel</li>
+  <li>Trace a String</li>
+  <li>Populate a Text Area with ActionScript</li>
+  <li>Store Data in Variables</li>
+</ul>
+<p><strong>Lesson 2: Manipulating Components with ActionScript</strong></p>
+<ul>
+  <li>Create an Event Handler</li>
+  <li>Create a Form with Interactive Components</li>
+  <li>Use Conditional Logic in ActionScript</li>
+</ul>
+<p><strong>Lesson 3: Working with Movie Clips</strong></p>
+<ul>
+  <li>Create a Movie Clip</li>
+  <li>Check for Movie Clip Collisions</li>
+  <li>Attach a Movie Clip from the Library Panel</li>
+</ul>
+<p><strong>Lesson 4: Adding Data Using Built-in Classes</strong></p>
+<ul>
+  <li>Create a Dynamic Text Field</li>
+  <li>Check for Movie Clip Collisions</li>
+  <li>Read Data from a Text File</li>
+</ul>
+<p><strong>Lesson 5: Reusing Code with Functions</strong></p>
+<ul>
+  <li>Streamline Code Using Built-in Functions</li>
+  <li>Create User-Defined Functions</li>
+  <li>Reference an External ActionScript File</li>
+</ul>
+<p><strong>Lesson 6: Connecting to External Data</strong></p>
+<ul>
+  <li>Examine Dynamic Content in Flash</li>
+  <li>Add Data to an XML File</li>
+  <li>Load Data from an External Data Source</li>
+  <li>Create Dependent Components</li>
+</ul>
+<p><strong>Lesson 7: Building a Navigation System</strong></p>
+<ul>
+  <li>Display SWFs Using Buttons</li>
+  <li>Add a Submenu Using Buttons</li>
+</ul>
+<p><strong>Lesson 8: Managing User Data Using Forms</strong></p>
+<ul>
+  <li>Gather User Data Using a Form</li>
+  <li>Create a Submit Button</li>
+  <li>Submit User Data</li>
+</ul>

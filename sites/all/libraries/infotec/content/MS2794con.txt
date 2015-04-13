@@ -1,0 +1,9 @@
+<p><strong>Module 1: Introduction to Business Intelligence Architecture</strong> - In this module, students will learn about key design principles that should be considered when scoping a BI solution, and about the components of the back end and front end of a BI solution, so that they can design and develop appropriate BI solutions for organizations.</p>
+
+<p><strong>Module 2: Overview of the Business Intelligence Project Lifecycle</strong> - This module examines the core processes and requirements to achieve a successful Business Intelligence project.</p>
+
+<p><strong>Module 3: Introduction to Business Intelligence Development</strong> - This module describes how to plan and manage the development process for a Business Intelligence project. It  discusses considerations for assembling the development team, managing the development process, testing, and deploying the solution.</p>
+
+<p><strong>Module 4: Designing Business Intelligence Infrastructure</strong> - This module describes how to identify infrastructure requirements for a Business Intelligence solution, and how to design an effective infrastructure to provide the required levels of scalability and availability.</p>
+
+<p><strong>Module 5: Managing Business Intelligence Operations</strong> - This module explains how to manage and operate a Business Intelligence solution.</p>

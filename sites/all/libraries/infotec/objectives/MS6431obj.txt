@@ -1,0 +1,10 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Create a plan for managing the addition, removal, and migration of Windows Server 2008 Network Infrastructure Server roles.</li>
+  <li>Develop baselines for monitoring and managing Windows Server 2008 Network Infrastructure Server roles.</li>
+  <li>Evaluate performance baselines and establish monitoring rules, and design acceptable thresholds and alarms when problems occur.</li>
+  <li>Analyze the implementation and configuration of a network environment running several network policy and access server roles.</li>
+  <li>Plan for the implementation and configuration of a RAS.</li>
+  <li>Evaluate and plan for the deployment of DNS and DHCP Server roles.</li>
+  <li>Maintain security for network infrastructure servers.</li>
+</ul>

@@ -1,0 +1,60 @@
+<p><strong> Unit 1: Using InfoPath </strong></p>
+<ul>
+  <li> Complete a Form </li>
+  <li>Save a Form </li>
+  <li>Export Form Data to Excel </li>
+  <li>Export Form Data to the Web </li>
+  <li>Edit Posted Data </li>
+  <li>Share Forms Through Outlook </li>
+</ul>
+<p><strong> Unit 2: Creating Forms </strong></p>
+<ul>
+  <li> Draft a Form </li>
+  <li>Add a Validation Rule </li>
+  <li>Test a Form </li>
+  <li>Create Forms from Templates </li>
+  <li>Delete Forms or Templates </li>
+</ul>
+<p><strong> Unit 3: Distributing Forms </strong></p>
+<ul>
+  <li> Publish a Form Template </li>
+  <li>Troubleshoot Publishing Problems </li>
+</ul>
+<p><strong> Unit 4: Customizing Form Layout </strong></p>
+<ul>
+  <li> Format a Form </li>
+  <li>Insert Pictures </li>
+  <li>Create Optional or Repeating Sections </li>
+  <li>Merge Forms </li>
+</ul>
+<p><strong> Unit 5: Managing Controls </strong></p>
+<ul>
+  <li> Customize Controls </li>
+  <li>Populate Controls from a Data Source </li>
+  <li>Bind Controls </li>
+</ul>
+<p><strong> Unit 6: Managing Views </strong></p>
+<ul>
+  <li> Create Custom Views </li>
+  <li>Set the Default View </li>
+  <li>Modify a View </li>
+  <li>Create a Print View </li>
+</ul>
+<p><strong> Unit 7: Applying Security </strong></p>
+<ul>
+  <li> Protect InfoPath Forms </li>
+  <li>Set Security Zones </li>
+</ul>
+<p><strong> Unit 8: Working With a Database </strong></p>
+<ul>
+  <li> Develop a Form From a Database </li>
+  <li>Use InfoPath Forms to Add Records to a Database </li>
+  <li>Use InfoPath Forms to Query a Database </li>
+</ul>
+<p><strong> Unit 9: Installing InfoPath </strong></p>
+<ul>
+  <li> Repair InfoPath Installation </li>
+  <li>Check the Computer for Minimum Requirements </li>
+  <li>Install InfoPath </li>
+  <li>Uninstall InfoPath </li>
+</ul>

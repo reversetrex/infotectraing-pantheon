@@ -1,0 +1,12 @@
+<p>In this course, you will learn fundamental Word 2013 skills. You will start by getting acquainted with the Word user interface, creating a new document, and finding help. You will find, select, and modify text. You'll format text as well as paragraphs, and add tables to documents. You'll manage more complicated lists, and insert graphic objects. You'll apply design and layout options to pages. You'll check your documents for spelling, grammar, and other errors, and use other proofing tools to look up information. Finally, you'll customize the Word environment to better suit your individual work habits, and learn additional methods of saving documents. You will:</p>
+<ul>
+  <li>Identify the various components of the Word interface, create a new Word document, enter text into a document, save a document, preview and print a document, and search Help.</li>
+  <li>Navigate through a document to find and select text, modify selected text, and find and replace text.</li>
+  <li>Apply character formatting to text, align paragraphs using tab stops, display text as list items, control paragraph layout, apply borders and shading to paragraphs, apply text styles, and manage formatting in documents.</li>
+  <li>Insert a table into a document, modify the structure of a table, format a table, and convert text to a table.</li>
+  <li>Sort a list, renumber a list, and customize a list.</li>
+  <li>Insert symbols and special characters, and add images to a document.</li>
+  <li>Apply page borders and colors, apply a watermark, add a header and footer to a document, and control page layout.</li>
+  <li>Check spelling and grammar and use other proofing tools.</li>
+  <li>Customize the Word interface and use additional options for saving.</li>
+</ul>

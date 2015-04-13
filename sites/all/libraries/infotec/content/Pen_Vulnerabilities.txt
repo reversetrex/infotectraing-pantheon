@@ -1,0 +1,98 @@
+<h2>Session 1</h2>
+  <h3>Section A: Vulnerability Assessments</h3>
+  <ul>
+    <li>Network Service Vulnerabilities</li>
+    <li>Network Hardware Vulnerabilities</li>
+    <li>When to Apply Vulnerability Assessments</li>
+    <li>Vulnerability Assessment Tools</li>
+    <li>Security Alerts</li>
+    <li>Secunia</li>
+    <li>National Vulnerability Database</li>
+    <li>Vulnerability Scanners</li>
+  </ul>
+  <h3>Section B: VA Tools and Results</h3>
+  <ul>
+    <li>Nessus</li>
+    <li>SAINT</li>
+    <li>Retina</li>
+    <li>QualysGuard</li>
+    <li>GFI LANguard</li>
+    <li>Tool Comparisons</li>
+    <li>Microsoft Security Assessment Tool</li>
+    <li>Penetration vs. Vulnerability</li>
+    <li>Patch Management</li>
+  </ul>
+  <h3>Section C: Vulnerability Assessments at Work</h3>
+  <ul>
+    <li>Using Nessus</li>
+    <li>Nessus 4</li>
+    <li>Adding Networks/Policies</li>
+    <li>Nessus Options</li>
+    <li>Credentials</li>
+    <li>Plugin Selection</li>
+    <li>Network/Advanced</li>
+    <li>Scans/Results</li>
+    <li>Results Continued</li>
+    <li>Other Reporting Templates/Files</li>
+    <li>Exporting Reports</li>
+    <li>SAINT Functions</li>
+    <li>Sessions</li>
+    <li>Scanning</li>
+    <li>Data: Report/Analysis</li>
+    <li>Produce Full Report</li>
+    <li>SAINT Options</li>
+    <li>GFI LANguard Basics</li>
+    <li>Deploying Updates</li>
+    <li>NULL Session</li>
+  </ul>
+  <h3>Section D: Malware and Its Many Uses</h3>
+  <ul>
+    <li>Malware Distribution</li>
+    <li>Malware Capabilities</li>
+    <li>Auto Starting Malware</li>
+    <li>Countermeasures</li>
+    <li>HijackThis</li>
+    <li>Netcat</li>
+    <li>Generic Hash Demo</li>
+    <li>Netcat as a Listener</li>
+    <li>Netcat Demo</li>
+  </ul>
+  <h3>Section E: Historical Look at Malware</h3>
+  <ul>
+    <li>Executable Wrappers</li>
+    <li>eLiTeWrap</li>
+    <li>Verify the Wrap</li>
+    <li>Zenmap Scan</li>
+    <li>Troubleshooting</li>
+    <li>Fport</li>
+    <li>Delivery Examples</li>
+    <li>Restorator</li>
+    <li>ExeIcon</li>
+    <li>Infectious CD-ROM</li>
+    <li>Trojan Horses</li>
+    <li>Advanced Trojan Horses</li>
+    <li>BPMTK</li>
+  </ul>
+  <h3>Section F: Malware Countermeasures</h3>
+  <ul>
+    <li>Countermeasure Tools</li>
+    <li>Gargoyle Investigator</li>
+    <li>Spy Sweeper</li>
+    <li>Port Monitoring Software</li>
+    <li>File Protection Software</li>
+    <li>Windows Software Restriction Policies</li>
+    <li>Company Surveillance Software</li>
+    <li>Hardware-Based Detectors</li>
+    <li>User Education</li>
+  </ul>
+  <h3>Section G: Malware in Pen. Testing</h3>
+  <ul>
+    <li>Pivot an Attack</li>
+    <li>Additional Netcat Uses</li>
+    <li>Banner Grabbing</li>
+    <li>DCOM Exploit</li>
+    <li>Uploading a File</li>
+    <li>Testing the Connection</li>
+    <li>Transferring Files via Netcat</li>
+    <li>Verifying the Transfer</li>
+  </ul>

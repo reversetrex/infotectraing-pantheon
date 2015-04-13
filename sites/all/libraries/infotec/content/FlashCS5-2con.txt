@@ -1,0 +1,51 @@
+<p><strong>Lesson 1: Planning a Flash Project</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Understand a Workflow</li>
+  <li><strong>Topic 1B: </strong>Translate Workflow Plans to Flash</li>
+  <li><strong>Topic 1C: </strong>Identify Elements of a Project Plan</li>
+</ul>
+<p><strong>Lesson 2: Designing a Project</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Initiate a Project</li>
+  <li><strong>Topic 2B: </strong>Create Design Patterns</li>
+</ul>
+<p><strong>Lesson 3: Managing Symbols</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Use Movie Clips</li>
+  <li><strong>Topic 3B: </strong>Use Buttons</li>
+</ul>
+<p><strong>Lesson 4: Laying Out Text</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Lay Out Text in a Flash Movie</li>
+  <li><strong>Topic 4B: </strong>Embed Text Fonts in a Movie</li>
+</ul>
+<p><strong>Lesson 5: Creating Advanced Animations</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Work with Inverse Kinematics</li>
+  <li><strong>Topic 5B: </strong>Add Motion to Animations</li>
+  <li><strong>Topic 5C: </strong>Apply 3D Transformation to an Object</li>
+  <li><strong>Topic 5D: </strong>Apply Effects to an Object</li>
+</ul>
+<p><strong>Lesson 6: Adding Audio to a Movie</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Import Audio</li>
+  <li><strong>Topic 6B: </strong>Control Audio</li>
+</ul>
+<p><strong>Lesson 7: Working with ActionScript 3.0</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Understand Additional ActionScript Concepts</li>
+  <li><strong>Topic 7B: </strong>Add Interactivity Using ActionScript Elements</li>
+  <li><strong>Topic 7C: </strong>Use Dynamic Mask</li>
+  <li><strong>Topic 7D: </strong>Work with Pre-Built Components</li>
+</ul>
+<p><strong>Lesson 8: Publishing a Movie in Different Formats</strong></p>
+<ul>
+  <li><strong>Topic 8A: </strong>Add Metadata to SWF Files</li>
+  <li><strong>Topic 8B: </strong>Ensure Accessibility</li>
+  <li><strong>Topic 8C: </strong>Create Multiple Outputs</li>
+</ul>
+<p><strong>Lesson 9: Extending Flash</strong></p>
+<ul>
+  <li><strong>Topic 9A: </strong>Understand JSFL</li>
+  <li><strong>Topic 9B: </strong>Understand Adobe Extension Manager CS5</li>
+</ul>

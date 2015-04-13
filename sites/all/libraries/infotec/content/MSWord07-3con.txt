@@ -1,0 +1,52 @@
+<p><strong>Unit 1: Using Microsoft® Office Word 2007 with Other Programs</strong></p>
+<ul>
+  <li>Topic 1A: Link to a Microsoft® Office Excel® 2007 Worksheet</li>
+  <li>Topic 1B: Link a Chart to Excel Data</li>
+  <li>Topic 1C: Send a Document Outline to Microsoft® Office PowerPoint®</li>
+  <li>Topic 1D: Extract Text from a Fax</li>
+  <li>Topic 1E: Send a Document as an Email Message</li>
+</ul>
+<p><strong>Unit 2: Collaborating on Documents</strong></p>
+<ul>
+  <li>Topic 2A: Modify User Information</li>
+  <li>Topic 2B: Send a Document for Review</li>
+  <li>Topic 2C: Review a Document</li>
+  <li>Topic 2D: Compare Document Changes</li>
+  <li>Topic 2E: Merge Document Changes</li>
+  <li>Topic 2F: Review Track Changes and Comments</li>
+</ul>
+<p><strong>Unit 3: Managing Document Versions</strong></p>
+<ul>
+  <li>Topic 3A: Create a New Version of a Document</li>
+  <li>Topic 3B: Compare Document Versions</li>
+  <li>Topic 3C: Merge Document Versions</li>
+</ul>
+<p><strong>Unit 4: Adding Reference Marks and Notes</strong></p>
+<ul>
+  <li>Topic 4A: Insert Bookmarks</li>
+  <li>Topic 4B: Insert Footnotes and Endnotes</li>
+  <li>Topic 4C: Add Captions</li>
+  <li>Topic 4D: Add Hyperlinks</li>
+  <li>Topic 4E: Add Cross-References</li>
+  <li>Topic 4F: Add Citations and a Bibliography</li>
+</ul>
+<p><strong>Unit 5: Making Long Documents Easier to Use</strong></p>
+<ul>
+  <li>Topic 5A: Insert Blank and Cover Pages</li>
+  <li>Topic 5B: Insert an Index</li>
+  <li>Topic 5C: Insert Table of Figures</li>
+  <li>Topic 5D: Insert Table of Authorities</li>
+  <li>Topic 5E: Insert Table of Contents</li>
+  <li>Topic 5F: Create a Master Document</li>
+  <li>Topic 5G: Automatically Summarize a Document</li>
+</ul>
+<p><strong>Unit 6: Securing a Document</strong></p>
+<ul>
+  <li>Topic 6A: Update a Document's Properties</li>
+  <li>Topic 6B: Hide Text</li>
+  <li>Topic 6C: Remove Personal Information from a Document</li>
+  <li>Topic 6D: Set Formatting and Editing Restrictions</li>
+  <li>Topic 6E: Add a Digital Signature to a Document</li>
+  <li>Topic 6F: Set a Password for a Document</li>
+  <li>Topic 6G: Restrict Document Access</li>
+</ul>

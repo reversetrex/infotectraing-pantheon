@@ -1,0 +1,1 @@
+The overall objective of this course is to allow the student to gain the skills necessary for day-today administration of an Oracle database. This course is the starting point for Oracle database administrators and also sets the foundation for advanced administrator training and certification.

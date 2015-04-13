@@ -1,0 +1,125 @@
+<p><strong>Module 1: The Business Intelligence Stack</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>SQL 2008R2 Business Intelligence Platform</li>
+  <li>SQL Analysis Services</li>
+  <li>SQL Reporting Services</li>
+  <li>Performance Management Tools</li>
+  <li>SharePoint 2010</li>
+  <li>Multidimensional Space</li>
+  <li>MDX</li>
+  <li>Data Mining</li>
+  <li>Understanding the Terminology</li>
+</ul>
+<p><strong>Module 2: PerformancePoint Services 2010</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Integration with SharePoint Server 2010</li>
+  <li>Common Service Application Framework</li>
+  <li>New PerformancePoint Features</li>
+  <li>Storage Security</li>
+  <li>Time Intelligence and Dynamic Filters</li>
+  <li>Linking of Web Parts</li>
+  <li>KPI Details Report</li>
+  <li>Retired Features</li>
+</ul>
+<p><strong>Module 3: Dashboards and Scorecards Overview</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>What is a Dashboard?</li>
+  <li>What is a Scorecard?</li>
+  <li>Scorecards in PPS</li>
+  <li>KPI Collections</li>
+  <li>Dashboard Design Guidelines</li>
+  <li>Dashboards designed to Monitor</li>
+  <li>Dashboards designed to Analyze</li>
+  <li>Dashboards designed as Management views such as Six Sigma</li>
+</ul>
+<p><strong>Module 4: MDX (Optional Module)</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>What is MDX?</li>
+  <li>MDX Query Editor</li>
+  <li>Select Statement</li>
+  <li>Key Concepts</li>
+  <li>Sets</li>
+  <li>Functions</li>
+  <li>Time Intelligence</li>
+</ul>
+<p><strong>Module 5: Dashboard Designer</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Dashboard Designer Internals</li>
+  <li>Dashboard Designer Interface</li>
+  <li>First Class Objects</li>
+  <li>Main Window</li>
+  <li>Properties</li>
+  <li>Dashboard Designer Features</li>
+</ul>
+<p><strong>Module 6: Data Connections</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Data Sources</li>
+  <li>Multidimensional</li>
+  <li>Tabular</li>
+  <li>Specific Sources</li>
+  <li>SSAS</li>
+  <li>Excel</li>
+  <li>SharePoint List</li>
+  <li>Time Intelligence</li>
+</ul>
+<p><strong>Module 7: Visual Indicators and Key Performance Indicators</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Visual Indicators</li>
+  <li>Categorizing Indicators</li>
+  <li>Performance Measures</li>
+  <li>KPI Characteristics</li>
+  <li>KPI Details</li>
+  <li>KPI Templates</li>
+  <li>Formatting Numbers</li>
+  <li>Data Mappings</li>
+  <li>Calculation Metrics</li>
+  <li>Scoring Patterns</li>
+  <li>Banding Methods</li>
+  <li>KPI Details Report</li>
+  <li>Best Practices</li>
+</ul>
+<p><strong>Module 8: Visual Reports and Filters</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Types of Reports</li>
+  <li>Analytic Chart</li>
+  <li>Analytic Grid</li>
+  <li>Excel Services</li>
+  <li>ProClarity Analytics</li>
+  <li>SQL Server Reporting Services</li>
+  <li>Filters</li>
+  <li>Filtering</li>
+  <li>Provider and Consumer</li>
+  <li>Member Selection</li>
+  <li>Named Set</li>
+  <li>STPS to MDX</li>
+  <li>Post Formula</li>
+</ul>
+<p><strong>Module 9: Scorecards</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Three Categories</li>
+  <li>SSAS Template</li>
+  <li>Standard Template</li>
+  <li>Tabular Scorecards</li>
+  <li>Data Sources</li>
+  <li>Implementing Interactivity</li>
+  <li>Display values</li>
+  <li>Using Filters</li>
+  <li>Deploying</li>
+</ul>
+<p><strong>Module 10: Dashboard Details</strong></p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Dashboard  Hierarchy</li>
+  <li>Dashboard Variance</li>
+  <li>Dynamic Dashboards</li>
+  <li>Dashboard Interactivity</li>
+</ul>

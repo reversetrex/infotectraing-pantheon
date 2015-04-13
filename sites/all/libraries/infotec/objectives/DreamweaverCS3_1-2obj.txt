@@ -1,0 +1,16 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Prepare to use the Dreamweaver environment.</li>
+  <li>Create a website.</li>
+  <li>Add design elements to web pages.</li>
+  <li>Work with links.</li>
+  <li>Work with frames.</li>
+  <li>Upload a website.</li>
+  <li>Work in Code view using the coding features of Dreamweaver.</li>
+  <li>Format content using style sheets.</li>
+  <li>Create an effective user-navigation interface.</li>
+  <li>Work with AP elements to enhance the layout and positioning of elements on a web page.</li>
+  <li>Automate tasks.</li>
+  <li>Create forms.</li>
+  <li>Author a web page using XML-based data.</li>
+</ul>

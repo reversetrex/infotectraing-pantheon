@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe an enterprise data center.</li>
+  <li>Plan and implement a server virtualization strategy using System Center 2012.</li>
+  <li>Plan and implement the network and storage infrastructure required to deploy a virtualized server infrastructure.</li>
+  <li>Plan and deploy virtual machines on Windows Hyper-V.</li>
+  <li>Plan and implement a virtualization administration solution by using System Center 2012.</li>
+  <li>Plan and implement a server monitoring strategy using the Windows Server 2012 tools and using Microsoft System Center 2012 - Operations Manager.</li>
+  <li>Plan and implement an application and a file services infrastructure that is highly available.</li>
+  <li>Plan and implement a highly available server infrastructure by using the failover clustering features in Windows Server 2012.</li>
+  <li>Plan and implement a business continuity strategy in a Windows Server 2012 environment.</li>
+  <li>Plan and implement a PKI deployment, and plan and implement a certificate management solution.</li>
+  <li>Plan and implement an AD FS server deployment and claims aware application access.</li>
+  <li>Plan and implement Dynamic Access Control, Workplace Join and Work Folders. </li>
+  <li>Plan and implement an AD RMS deployment, plan and manage AD RMS templates and access, and plan and implement external access to AD RMS services.</li>
+</ul>

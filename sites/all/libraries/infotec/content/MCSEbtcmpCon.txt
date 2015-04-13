@@ -1,0 +1,797 @@
+<p><strong>Microsoft 2272: </strong></p>
+<p><strong>Unit 1: Installing Microsoft Windows XP Professional </strong></p>
+<ul>
+  <li> Planning an Installation of Microsoft Windows XP Professional </li>
+  <li>Installing Windows XP Professional from a Product CD </li>
+  <li>Installing Windows XP Professional from a Server </li>
+  <li>Upgrading to Microsoft Windows XP Professional </li>
+  <li>Transferring User Settings by Using the USMT </li>
+  <li>Performing Post-Installation Tasks </li>
+  <li>Troubleshooting Failed Installations </li>
+</ul>
+<p><strong> Unit 2: Automating an Installation of Microsoft Windows XP Professional </strong></p>
+<ul>
+  <li> Introduction to Automating an Installation of Windows XP Professional </li>
+  <li>Creating Answer Files </li>
+  <li>Creating a Uniqueness Database File </li>
+  <li>How Setup Uses Answer Files and UDFs </li>
+  <li>Performing an Automated Installation of Windows XP Professional </li>
+  <li>Introduction to Creating and Deploying an Image </li>
+  <li>Preparing a Reference Computer </li>
+  <li>Creating, Testing, and Deploying an Image Configuring Plug and Play Devices </li>
+</ul>
+<p><strong> Unit 3: Configuring Hardware on a Computer Running Microsoft Windows XP Professional </strong></p>
+<ul>
+  <li> Installing and Configuring Hardware Devices </li>
+  <li>Working with Drivers </li>
+  <li>Troubleshooting Hardware Devices </li>
+</ul>
+<p><strong> Unit 4: Troubleshooting the Boot Process and Other System Issues </strong></p>
+<ul>
+  <li> Examining the Windows XP Professional Boot Process </li>
+  <li>Controlling System Settings During the Boot Process </li>
+  <li>Changing Startup Behavior Using the Boot.ini File </li>
+  <li>Using Advanced Boot Options to Troubleshoot Startup Problems </li>
+  <li>Using the Recovery Console to Start the Computer </li>
+  <li>Restoring a Computer to a Previous State </li>
+</ul>
+<p><strong> Unit 5: Configuring Microsoft Windows XP Professional to Operate in Microsoft Windows Networks </strong></p>
+<ul>
+  <li> Examining Workgroups and User Accounts </li>
+  <li>Creating and Authenticating Local User Accounts </li>
+  <li>Configuring Local Security </li>
+  <li>Configuring Logon Options in a Workgroup </li>
+  <li>Configuring Networking Options in a Workgroup </li>
+  <li>Joining a Domain </li>
+  <li>Operating in a Domain </li>
+</ul>
+<p><strong> Unit 6: Configuring the Desktop Environment </strong></p>
+<ul>
+  <li> Configuring User Desktop Settings </li>
+  <li>Customizing the Desktop Environment </li>
+  <li>Configuring System Settings </li>
+  <li>Understanding How Profiles and Group Policy Affect Desktop Customization </li>
+  <li>Using Remote Assistance </li>
+</ul>
+<p><strong> Unit 7: Configuring and Supporting TCP/IP </strong></p>
+<ul>
+  <li> Introduction to TCP/IP </li>
+  <li>Examining Classful IP Addressing </li>
+  <li>Defining Subnets </li>
+  <li>Using Classless Inter-Domain Routing </li>
+  <li>Configuring IP Addresses </li>
+  <li>Troubleshooting IP Addresses </li>
+</ul>
+<p><strong> Unit 8: Configuring Names Resolution </strong></p>
+<ul>
+  <li> Determining TCP/IP Name Resolution Methods </li>
+  <li>Configuring DNS Client Name Resolution and DNS Dynamic Updates </li>
+  <li>Configuring Name Resolution on WINS Clients </li>
+  <li>Working with LmHOSTS </li>
+</ul>
+<p><strong> Unit 9: Configuring Windows XP Professional for Networks Running Novell NetWare and UNIX Operating Systems </strong></p>
+<ul>
+  <li> Installing and Configuring Client Service for NetWare </li>
+  <li>Interoperating with UNIX </li>
+  <li>Configuring UNIX Interoperability </li>
+  <li>Installing Windows XP Professional Client Features to Operate with UNIX Servers </li>
+</ul>
+<p><strong> Unit 10: Supporting Remote Users </strong></p>
+<ul>
+  <li> Establishing Remote Access Connections </li>
+  <li>Connecting to Virtual Private Networks </li>
+  <li>Configuring Inbound Connections </li>
+  <li>Configuring Authentication Protocols and Encryption </li>
+  <li>Examining the Remote Desktop Feature </li>
+  <li>Configuring Computers to Use Remote Desktop </li>
+  <li>Storing User Names and Passwords to Facilitate Remote Connections </li>
+</ul>
+<p><strong> Unit 11: Configuring Microsoft Windows XP for Mobile Computing </strong></p>
+<ul>
+  <li> Configuring Hardware for Mobile Computing </li>
+  <li>Configuring Power Management Options for Mobile Computing </li>
+  <li>Making Files, Folders, and Web Pages Available for Offline Use </li>
+</ul>
+<p><strong> Unit 12: Managing Disks </strong></p>
+<ul>
+  <li> Working with Basic Disks </li>
+  <li>Working with Dynamic Disks </li>
+  <li>Managing Drive Letters and Paths </li>
+  <li>Preparing Disks When Upgrading to Windows XP Professional </li>
+  <li>Managing Disks </li>
+  <li>Defragmenting Volumes </li>
+</ul>
+<p><strong>Microsoft 2273: </strong></p>
+<p><strong> Part 1: Managing a Microsoft Windows Server 2003 Environment </strong></p>
+<p><strong> Unit 1: Introduction to Administering Accounts and Resources </strong></p>
+<ul>
+  <li> Multimedia: Introduction to Administering Accounts and Resources </li>
+  <li> The Windows Server 2003 Family </li>
+  <li> Logging on to Windows Server 2003 </li>
+  <li> Installing and Configuring Administrative Tools </li>
+  <li> Creating User Accounts </li>
+  <li> Creating Computer Accounts </li>
+  <li> Creating an Organizational Unit </li>
+</ul>
+<p><strong> Unit 2: Managing User and Computer Accounts </strong></p>
+<ul>
+  <li> Modifying Users and Computer Account Properties </li>
+  <li> Enabling and Unlocking User and Computer Accounts </li>
+  <li> Creating a User Account Template </li>
+  <li> Locating User and Computer Accounts in Active Directory </li>
+  <li> Saving Queries </li>
+  <li> Resetting User and Computer Accounts </li>
+  <li> Moving Domain Objects </li>
+</ul>
+<p><strong> Unit 3: Managing Groups </strong></p>
+<ul>
+  <li> Creating Groups </li>
+  <li> Managing Group Membership </li>
+  <li> Strategies for Using Groups </li>
+  <li> Modifying Groups </li>
+  <li> Using Default Groups </li>
+  <li> Best Practices for Managing Groups </li>
+</ul>
+<p><strong> Unit 4: Managing Access to Resources </strong></p>
+<ul>
+  <li> Overview of Managing Access to Resources </li>
+  <li> Managing Access to Shared Folders </li>
+  <li> Managing Access to Files and Folders Using NTFS Permissions </li>
+  <li> Determining Effective Permissions </li>
+  <li> Managing Access to Shared Files Using Offline Caching </li>
+</ul>
+<p><strong> Unit 5: Implementing Printing </strong></p>
+<ul>
+  <li> Multimedia: Introduction to Printing in the Windows Server 2003 Family </li>
+  <li> Installing and Sharing Printers </li>
+  <li> Managing Access to Printers Using Shared Printer Permissions </li>
+  <li> Managing Printer Drivers </li>
+  <li> Implementing Printer Locations </li>
+</ul>
+<p><strong> Unit 6: Managing Printing </strong></p>
+<ul>
+  <li> Changing the Location of the Print Spooler </li>
+  <li> Setting Printer Priorities </li>
+  <li> Scheduling Printer Availability </li>
+  <li> Configuring a Printing Pool </li>
+</ul>
+<p><strong> Unit 7: Managing Access to Objects in Organizational Units </strong></p>
+<ul>
+  <li> Multimedia: The Role of the Organizational Unit </li>
+  <li> Modifying Permissions for Active Directory Objects </li>
+  <li> Delegating Control of Organizational Units </li>
+</ul>
+<p><strong> Unit 8: Implementing Group Policy </strong></p>
+<ul>
+  <li> Implementing GPOs </li>
+  <li> Implementing GPOs on a Domain </li>
+  <li> Managing the Deployment of Group Policy </li>
+</ul>
+<p><strong> Unit 9: Managing the User Environment by Using Group Policy </strong></p>
+<ul>
+  <li> Configuring Group Policy Settings </li>
+  <li> Assigning Scripts with Group Policy </li>
+  <li> Configuring Folder Redirection </li>
+  <li> Determining Applied GPOs </li>
+</ul>
+<p><strong> Unit 10: Introduction to Security in Windows Server 2003 </strong></p>
+<ul>
+  <li> Overview of Security in Windows Server 2003 </li>
+  <li> Using Security Templates to Secure Computers </li>
+  <li> Testing Computer Security Policy </li>
+  <li> Configuring Auditing </li>
+  <li> Managing Security Logs </li>
+</ul>
+<p><strong> Part 2: Maintaining a Microsoft Windows Server 2003 Environment </strong></p>
+<p><strong> Unit 1: Preparing to Administer a Server </strong></p>
+<ul>
+  <li> Administering a Server </li>
+  <li> Configuring Remote Desktop to Administer a Server </li>
+  <li> Managing Remote Desktop Connections </li>
+</ul>
+<p><strong> Unit 2: Preparing to Monitor Server Performance </strong></p>
+<ul>
+  <li> Introduction to Monitoring Server Performance </li>
+  <li> Performing Real-Time and Logged Monitoring </li>
+  <li> Configuring and Managing Counter Logs </li>
+  <li> Configuring Alerts </li>
+</ul>
+<p><strong> Unit 3: Monitoring Server Performance </strong></p>
+<ul>
+  <li> Monitoring Server Memory </li>
+  <li> Monitoring Processor Usage </li>
+  <li> Monitoring Disks </li>
+  <li> Monitoring Network Usage </li>
+</ul>
+<p><strong> Unit 4: Maintaining Device Drivers </strong></p>
+<ul>
+  <li> Configuring Device Driver Signing Options </li>
+  <li> Using Device Driver Rollback </li>
+</ul>
+<p></p>
+<p><strong> Unit 5: Managing Disks </strong></p>
+<ul>
+  <li> Preparing Disks </li>
+  <li> Managing Disk Properties </li>
+  <li> Managing Mounted Drives </li>
+  <li> Converting Disks </li>
+  <li> Creating Volumes </li>
+  <li> Importing a Foreign Disk </li>
+</ul>
+<p><strong> Unit 6: Managing Data Storage </strong></p>
+<ul>
+  <li> Managing File Compression </li>
+  <li> Configuring File Encryption </li>
+  <li> Implementing Disk Quotas </li>
+</ul>
+<p><strong> Unit 7: Managing Disaster Recovery </strong></p>
+<ul>
+  <li> Preparing for Disaster Recovery </li>
+  <li> Backing Up Data </li>
+  <li> Scheduling Backup Jobs </li>
+  <li> Restoring Data </li>
+  <li> Recovering from Server Failure </li>
+  <li> Selecting Disaster Recovery Methods </li>
+</ul>
+<p><strong> Unit 8: Maintaining Software by Using Software Update Services </strong></p>
+<ul>
+  <li> Introduction to Software Update Services </li>
+  <li> Installing and Configuring Software Update Services </li>
+  <li> Managing a Software Update Services Infrastructure </li>
+</ul>
+<p><strong>Microsoft 2276: </strong></p>
+<p><strong> Unit 1: Reviewing the Suite of TCP/IP Protocols </strong></p>
+<ul>
+  <li> Overview of the OSI Model </li>
+  <li>Overview of the TCP/IP Protocol Suite </li>
+  <li>Viewing Frames Using Network Monitor </li>
+</ul>
+<p><strong> Unit 2: Assigning IP Addresses in a Multiple Subnet Network </strong></p>
+<ul>
+  <li> Assigning IP Addresses </li>
+  <li>Creating a Subnet </li>
+  <li>Using IP Routing Tables </li>
+  <li>Overcoming Limitations of the IP Addressing Scheme </li>
+</ul>
+<p><strong> Unit 3: Configuring a Client IP Address </strong></p>
+<ul>
+  <li> Configuring a Client to Use a Static IP Address </li>
+  <li>Configuring a Host to Obtain an IP Address Automatically </li>
+  <li>Using Alternate Configuration </li>
+</ul>
+<p><strong> Unit 4: Configuring a Client for Name Resolution </strong></p>
+<ul>
+  <li> Resolving Client Names </li>
+  <li>Managing the ARP Cache </li>
+  <li>Overview of NetBIOS </li>
+  <li>Using Static Naming Methods </li>
+  <li>Using Dynamic Naming Methods </li>
+  <li>Summarizing the Name Resolution Process </li>
+</ul>
+<p><strong> Unit 5: Isolating Common Connectivity Issues </strong></p>
+<ul>
+  <li> Determining the Causes of Connectivity Issues </li>
+  <li>Network Utilities That You Can Use to Isolate Connectivity Issues </li>
+</ul>
+<p><strong>Microsoft 2277: </strong></p>
+<p><strong> Unit 1: Configuring Routing by Using Routing and Remote Access </strong></p>
+<ul>
+  <li> Multimedia: The Role of Routing in the Network Infrastructure </li>
+  <li>Enabling and Configuring the Routing and Remote Access Service </li>
+  <li>Configuring Packet Filters </li>
+</ul>
+<p><strong> Unit 2: Allocating IP Addressing by Using Dynamic Host Configuration Protocol (DHCP) </strong></p>
+<ul>
+  <li> Multimedia: The Role of DHCP in the Network Infrastructure </li>
+  <li>Adding and Authorizing a DHCP Server Service </li>
+  <li>Configuring a DHCP Scope </li>
+  <li>Configuring a DHCP Reservation </li>
+  <li>Configuring DHCP Options </li>
+  <li>Configuring a DHCP Relay Agent </li>
+</ul>
+<p><strong> Unit 3: Managing and Monitoring Dynamic Host Configuration Protocol (DHCP) </strong></p>
+<ul>
+  <li> Managing a DHCP Database </li>
+  <li>Monitoring DHCP </li>
+  <li>Applying Security Guidelines for DHCP </li>
+</ul>
+<p><strong> Unit 4: Resolving Names </strong></p>
+<ul>
+  <li> Multimedia: Introduction to the Name Resolution Process </li>
+  <li>Viewing Names on a Client </li>
+  <li>Configuring Host Name Resolution </li>
+  <li>Configuring NetBIOS Name Resolution </li>
+</ul>
+<p><strong> Unit 5: Resolving Host Names by Using Domain Name System (DNS) </strong></p>
+<ul>
+  <li> Multimedia: The Role of DNS in the Network Infrastructure </li>
+  <li>Installing the DNS Server Service </li>
+  <li>Configuring the Properties for the DNS Server Service </li>
+  <li>Configuring the DNS Zones </li>
+  <li>Configuring DNS Zone Transfers </li>
+  <li>Configuring DNS Dynamic Updates </li>
+  <li>Configuring a DNS Client </li>
+  <li>Delegating Authority for Zones </li>
+</ul>
+<p><strong> Unit 6: Managing and Monitoring Domain Name System (DNS) </strong></p>
+<ul>
+  <li> Configuring the Time-to-Live Value </li>
+  <li>Configuring Aging and Scavenging </li>
+  <li>Integrating DNS and WINS </li>
+  <li>Testing the DNS Server Configuration </li>
+  <li>Verifying that a Resource Record Exists by Using Nslookup, DNSCmd, and DNSLint </li>
+  <li>Monitoring DNS Server Performance </li>
+</ul>
+<p><strong> Unit 7: Resolving NetBIOS Names by Using Windows Internet Name Service (WINS) </strong></p>
+<ul>
+  <li> Multimedia: The Role of WINS in the Network Infrastructure </li>
+  <li>Installing and Configuring a WINS Server </li>
+  <li>Managing Records in WINS </li>
+  <li>Configuring WINS Replication </li>
+  <li>Managing the WINS database </li>
+</ul>
+<p><strong> Unit 8: Securing Network Traffic by Using IPSec and Certificates </strong></p>
+<ul>
+  <li> Implementing IPSec </li>
+  <li>Implementing IPSec with Certificates </li>
+  <li>Monitoring IPSec </li>
+</ul>
+<p><strong> Unit 9: Configuring Network Access </strong></p>
+<ul>
+  <li> Introduction to a Network Access Infrastructure </li>
+  <li>Configuring a VPN Connection </li>
+  <li>Configuring a Dial-up Connection </li>
+  <li>Configuring a Wireless Connection </li>
+  <li>Controlling User Access to a Network </li>
+  <li>Centralizing Network Access Authentication and Policy Management by Using IAS </li>
+</ul>
+<p><strong> Unit 10: Managing and Monitoring Network Access </strong></p>
+<ul>
+  <li> Managing the Network Access Services </li>
+  <li>Configuring Logging on a Network Access Server </li>
+  <li>Collecting and Monitoring Network Access Data </li>
+</ul>
+<p><strong>Microsoft 2278: </strong></p>
+<p><strong> Unit 1: Introducing Windows Server 2003 Network Infrastructure Planning, Tools, and Documentation </strong></p>
+<ul>
+  <li> Introducing the Network Design </li>
+  <li>Planning a Windows Server 2003 Network Infrastructure Project </li>
+</ul>
+<p><strong> Unit 2: Planning and Optimizing a TCP/IP Physical and Logical Network </strong></p>
+<ul>
+  <li> Planning a Functional TCP/IP Solution </li>
+  <li>Evaluating Network Performance </li>
+</ul>
+<p><strong> Unit 3: Planning and Troubleshooting Routing and Switching </strong></p>
+<ul>
+  <li> Selecting Intermediate Devices </li>
+  <li>Planning an Internet Connectivity Strategy </li>
+  <li>Planning Routing Communications </li>
+  <li>Troubleshooting TCP/IP Routing </li>
+</ul>
+<p><strong> Unit 4: Planning, Optimizing, and Troubleshooting DHCP </strong></p>
+<ul>
+  <li> Planning a DHCP Strategy </li>
+  <li>Securing a DHCP Solution </li>
+  <li>Optimizing DHCP </li>
+  <li>Troubleshooting DHCP </li>
+</ul>
+<p><strong> Unit 5: Planning a DNS Strategy </strong></p>
+<ul>
+  <li> Planning DNS Servers </li>
+  <li>Planning a Namespace </li>
+  <li>Planning Zones </li>
+  <li>Planning Zone Replication and Delegation </li>
+  <li>Integrating DNS and WINS </li>
+</ul>
+<p><strong> Unit 6: Optimizing and Troubleshooting DNS </strong></p>
+<ul>
+  <li> Optimizing DNS Servers </li>
+  <li>Troubleshooting Host Name Resolution </li>
+</ul>
+<p><strong> Unit 7: Planning and Optimizing WINS </strong></p>
+<ul>
+  <li> Planning a WINS Solution </li>
+  <li>Identifying WINS Optimization Requirements </li>
+  <li>Optimizing WINS Traffic </li>
+</ul>
+<p><strong> Unit 8: Planning and Troubleshooting IPSec </strong></p>
+<ul>
+  <li> Understanding Default Policy Rules </li>
+  <li>Planning an IPSec Deployment </li>
+  <li>Troubleshooting IPSec Communications </li>
+</ul>
+<p><strong> Unit 9: Planning Network Access </strong></p>
+<ul>
+  <li> Introducing Network Access </li>
+  <li>Selecting Network Access Connection Methods </li>
+  <li>Selecting a Remote Access Policy Strategy </li>
+  <li>Selecting a Network Access Authentication Method </li>
+  <li>Planning a Network Access Strategy </li>
+</ul>
+<p><strong> Unit 10: Troubleshooting Network Access </strong></p>
+<ul>
+  <li>Troubleshooting Network Access Resources </li>
+  <li>Troubleshooting LAN Authentication </li>
+  <li>Troubleshooting Remote Access </li>
+</ul>
+<p><strong> Unit 11: Planning a Windows Server 2003 Network Infrastructure </strong></p>
+<ul>
+  <li> Introducing Planning Documentation </li>
+  <li>Preparing Development and Test Environments </li>
+  <li>Managing and Maintaining the Environment </li>
+</ul>
+<p><strong>Microsoft 2279: </strong></p>
+<p><strong> Unit 1: Introduction to Active Directory Infrastructure </strong></p>
+<ul>
+  <li> The Architecture of Active Directory </li>
+  <li>How Active Directory Works </li>
+  <li>Examining Active Directory </li>
+  <li>The Active Directory Design, Planning, and Implementation Processes </li>
+</ul>
+<p><strong> Unit 2: Implementing an Active Directory Forest and Domain Structure </strong></p>
+<ul>
+  <li> Creating a Forest and Domain Structure </li>
+  <li>Examining and Configuring Active Directory Integrated DNS </li>
+  <li>Raising Forest and Domain Functional Levels </li>
+  <li>Creating Trust Relationships </li>
+  <li>Securing Trusts Using SID Filtering </li>
+</ul>
+<p><strong> Unit 3: Implementing an Organizational Unit Structure </strong></p>
+<ul>
+  <li> Managing Organizational Units </li>
+  <li>Delegating Administrative Control for Organizational Units </li>
+  <li>Planning an Organizational Unit Strategy </li>
+</ul>
+<p><strong> Unit 4: Implementing User, Group, and Computer Accounts </strong></p>
+<ul>
+  <li> Introduction to Accounts </li>
+  <li>Creating and Managing Multiple Accounts </li>
+  <li>Implementing User Principal Name Suffixes </li>
+  <li>Moving Objects in Active Directory </li>
+  <li>Planning an Account Strategy </li>
+  <li>Planning an Active Directory Audit Strategy </li>
+</ul>
+<p><strong> Unit 5: Implementing Group Policy </strong></p>
+<ul>
+  <li> Creating and Configuring Group Policy objects (GPOs) </li>
+  <li>Configuring When Group Policy Is Applied </li>
+  <li>Managing GPOs </li>
+  <li>Verifying and Troubleshooting Group Policy </li>
+  <li>Delegating Administrative Control of Group Policy </li>
+  <li>Planning a Group Policy Strategy for the Enterprise </li>
+</ul>
+<p> <strong>Unit 6: Deploying and Managing Software by Using Group Policy </strong></p>
+<ul>
+  <li> Introduction to Managing Software Deployment </li>
+  <li>Deploying Software </li>
+  <li>Configuring Software Deployment </li>
+  <li>Maintaining Deployed Software </li>
+  <li>Troubleshooting Software Deployment </li>
+  <li>Planning a Software Deployment Strategy </li>
+</ul>
+<p><strong> Unit 7: Implementing Sites to Manage Active Directory Replication </strong></p>
+<ul>
+  <li> Introduction to Active Directory Replication </li>
+  <li>Creating and Configuring Sites </li>
+  <li>Managing Site Topology </li>
+  <li>Troubleshooting Replication Failures </li>
+  <li>Planning a Site </li>
+</ul>
+<p><strong> Unit 8: Implementing Placement of Domain Controllers </strong></p>
+<ul>
+  <li> Implementing the Global Catalog in Active Directory </li>
+  <li>Determining the Placement of Domain Controllers in Active Directory </li>
+  <li>Planning the Placement of Domain Controllers </li>
+</ul>
+<p><strong> Unit 9: Managing Operations Masters </strong></p>
+<ul>
+  <li> Introduction to Operation Master Roles </li>
+  <li>Transferring and Seizing Operations Master Roles </li>
+  <li>Planning the Placement of Operations Masters </li>
+</ul>
+<p><strong> Unit 10: Maintaining Active Directory Availability </strong></p>
+<ul>
+  <li> Introduction to Maintaining Active Directory </li>
+  <li>Moving and Defragmenting the Active Directory Database </li>
+  <li>Backing Up Active Directory </li>
+  <li>Restoring Active Directory </li>
+  <li>Planning for Monitoring Active Directory </li>
+</ul>
+<p><strong> Unit 11: Planning and Implementing an Active Directory Infrastructure </strong></p>
+<ul>
+  <li> Creating the Active Directory Implementation Plan for Tailspin Toys </li>
+  <li>Implementing the Active Directory Infrastructure for Tailspin Toys </li>
+</ul>
+<p><strong>Microsoft 2400: </strong></p>
+<p><strong> Unit 1: Installing and Upgrading to Exchange Server 2003 </strong></p>
+<ul>
+  <li> Installing Exchange Server 2003 </li>
+  <li> Installing Exchange Server 2003 in a Clustered Environment </li>
+  <li> Installing and Using Exchange Management Tools and Utilities </li>
+  <li> Upgrading from Exchange 2000 Server to Exchange Server 2003 </li>
+  <li> Discussion: Installing and Upgrading to Exchange Server 2003 </li>
+</ul>
+<p><strong> Unit 2: Configuring and Managing Exchange Server 2003 </strong></p>
+<ul>
+  <li> Creating and Applying Exchange Policies </li>
+  <li> Configuring Exchange Server 2003 for Proactive Management </li>
+  <li> Adding, Removing, and Updating Exchange Servers </li>
+  <li> Managing Exchange Server 2003 in a Mixed Environment </li>
+  <li> Discussion: Configuring and Managing Exchange Server 2003 </li>
+</ul>
+<p><strong> Unit 3: Securing Exchange Server 2003 </strong></p>
+<ul>
+  <li> Preparing for and Protecting Against Viruses </li>
+  <li> Securing Mailboxes </li>
+  <li> Implementing Digital Signature and Encryption Capabilities </li>
+  <li> Configuring Firewalls </li>
+  <li> Configuring Administrative Permissions </li>
+  <li> Allowing Only Required Services to Run on Exchange Server 2003 </li>
+  <li> Discussion: Securing Exchange Server 2003 </li>
+</ul>
+<p><strong> Unit 4: Managing Recipients </strong></p>
+<ul>
+  <li> Introduction to Exchange Recipients </li>
+  <li> Creating, Deleting, and Modifying Users and Contacts </li>
+  <li> Managing Mailboxes </li>
+  <li> Managing Mail-Enabled Groups </li>
+  <li> Discussion: Managing Recipients </li>
+</ul>
+<p><strong> Unit 5: Managing Public Folders </strong></p>
+<ul>
+  <li> Managing Public Folder Data </li>
+  <li> Managing Network Access to Public Folders </li>
+  <li> Publishing An Outlook 11 Form </li>
+  <li> Discussion: Managing Public Folders </li>
+</ul>
+<p><strong> Unit 6: Managing Address Lists </strong></p>
+<ul>
+  <li> Introduction to Address Lists </li>
+  <li> Managing and Customizing Address Lists </li>
+  <li> Discussion: Managing Address Lists </li>
+</ul>
+<p><strong> Unit 7: Implementing and Managing Client Access with Internet Protocols </strong></p>
+<ul>
+  <li> Introduction to Internet Client Access Protocols </li>
+  <li> Implementing a Front-End and Back-End Server Topology </li>
+  <li> Implementing and Managing Outlook Web Access </li>
+  <li> Discussion: Implementing and Managing Client Access with Internet Protocols </li>
+</ul>
+<p><strong> Unit 8: Managing Client Configuration and Connectivity </strong></p>
+<ul>
+  <li> Configuring and Customizing Outlook 2003 </li>
+  <li> Performing Calendaring Tasks in Outlook 2003 </li>
+  <li> Installing and Configuring Outlook Express </li>
+  <li> Discussion: Managing Client Configuration and Connectivity </li>
+</ul>
+<p><strong> Unit 9: Managing Routing </strong></p>
+<ul>
+  <li> Explaining How Message Routing Works in an Exchange Organization </li>
+  <li> Configuring Routing in an Exchange Organization </li>
+  <li> Explaining Internet Connectivity Concepts and Protocols </li>
+  <li> Managing Connectivity to the Internet </li>
+  <li> Discussion: Managing Routing </li>
+</ul>
+<p><strong> Unit 10: Managing Mobile Devices with Exchange Server 2003 </strong></p>
+<ul>
+  <li> Managing Mobility Components </li>
+  <li> Provisioning Users for Mobile Access </li>
+  <li> Discussion: Managing Mobile Devices with Exchange Server 2003 </li>
+</ul>
+<p><strong> Unit 11: Managing Data Storage and Hardware Resources </strong></p>
+<ul>
+  <li> Managing Data Storage </li>
+  <li> Managing Disk Space </li>
+  <li> Managing Hardware Upgrades </li>
+  <li> Discussion: Managing Data Storage and Hardware Resources </li>
+</ul>
+<p><strong> Unit 12: Planning for and Recovering from Disasters </strong></p>
+<ul>
+  <li> Planning for Disaster Recovery </li>
+  <li> Backing Up Exchange Server 2003 </li>
+  <li> Restoring Exchange Server 2003 Stores </li>
+  <li> Restoring Exchange Server 2003 Servers </li>
+  <li> Discussion: Planning for and Recovering from Disasters </li>
+</ul>
+<p><strong> Unit 13: Performing Preventive Maintenance </strong></p>
+<ul>
+  <li> Performing Daily Exchange Maintenance </li>
+  <li> Performing Scheduled Exchange Maintenance </li>
+  <li> Performing On-Demand Exchange Maintenance </li>
+  <li> Discussion: Performing Preventive Maintenance </li>
+</ul>
+<p><strong> Unit 14: Migrating Users from Exchange Server 5.5 to Exchange Server 2003 </strong></p>
+<ul>
+  <li> Populating Active Directory with Windows NT 4.0 User and Group Accounts </li>
+  <li> Connecting the Exchange 5.5 Directory to Active Directory </li>
+  <li> Moving Mailbox and Public Folder Contents into an Exchange Server 2003 Organization </li>
+  <li> Discussion: Migrating Users from Exchange Server 5.5 to Exchange Server 2003 </li>
+</ul>
+<p><strong>Microsoft 2830: </strong></p>
+<p><strong> Unit 1: Introduction to Designing Security </strong></p>
+<ul>
+  <li> Introduction to Designing Security for Microsoft Networks </li>
+  <li> Contoso Pharmaceuticals: A Case Study </li>
+</ul>
+<p><strong> Unit 2: Creating a Plan for Network Security </strong></p>
+<ul>
+  <li> Introduction to Security Policies </li>
+  <li> Defining a Process for Designing Network Security </li>
+  <li> Creating a Security Design Team </li>
+</ul>
+<p><strong> Unit 3: Identifying Threats to Network Security </strong></p>
+<ul>
+  <li> Introduction to Security Threats </li>
+  <li> Predicting Threats to Security </li>
+</ul>
+<p><strong> Unit 4: Analyzing Security Risks </strong></p>
+<ul>
+  <li> Introduction to Risk Management </li>
+  <li> Creating a Risk Management Plan </li>
+</ul>
+<p><strong> Unit 5: Creating a Security Design for Physical Resources </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Physical Resources </li>
+  <li> Designing Security for Physical Resources </li>
+</ul>
+<p><strong> Unit 6: Creating a Security Design for Computers </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Computers </li>
+  <li> Designing Security for Computers </li>
+</ul>
+<p><strong> Unit 7: Creating a Security Design for Accounts </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Accounts </li>
+  <li> Designing Security for Accounts </li>
+</ul>
+<p><strong> Unit 8: Creating a Security Design for Authentication </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Authentication </li>
+  <li> Designing Security for Authentication </li>
+</ul>
+<p><strong> Unit 9: Creating a Security Design for Data </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Data </li>
+  <li> Designing Security for Data </li>
+</ul>
+<p><strong> Unit 10: Creating a Security Design for Data Transmission </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Data Transmission </li>
+  <li> Designing Security for Data Transmission </li>
+</ul>
+<p><strong> Unit 11: Creating a Security Design for Network Perimeters </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Network Perimeters </li>
+  <li> Designing Security for Network Perimeters </li>
+</ul>
+<p><strong> Unit 12: Designing Responses to Security Incidents </strong></p>
+<ul>
+  <li> Introduction to Auditing and Incident Response </li>
+  <li> Designing an Audit Policy </li>
+  <li> Designing an Incident Response Procedure </li>
+</ul>
+<p><strong>Security+: </strong></p>
+<p><strong>Unit 1: Security overview</strong></p>
+<ul>
+  <li>Topic A: Introduction to network security</li>
+  <li>Topic B: Understanding security threats</li>
+  <li>Topic C: Creating a secure network strategy</li>
+  <li>Topic D: Windows Server 2003 server access control</li>
+</ul>
+<p><strong>Unit 2: Authentication</strong></p>
+<ul>
+  <li>Topic A: Introduction to authentication</li>
+  <li>Topic B: Kerberos</li>
+  <li>Topic C: Challenge Handshake Authentication Protocol</li>
+  <li>Topic D: Digital certificates</li>
+  <li>Topic E: Security tokens</li>
+  <li>Topic F: Biometrics</li>
+</ul>
+<p><strong>Unit 3: Attacks and malicious code</strong></p>
+<ul>
+  <li>Topic A: Denial of service attacks</li>
+  <li>Topic B: Man-in-the-middle attacks</li>
+  <li>Topic C: Spoofing</li>
+  <li>Topic D: Replays</li>
+  <li>Topic E: TCP session hijacking</li>
+  <li>Topic F: Social engineering</li>
+  <li>Topic G: Attacks against encrypted data</li>
+  <li>Topic H: Software exploitation</li>
+</ul>
+<p><strong>Unit 4: Remote access</strong></p>
+<ul>
+  <li>Topic A: Securing remote communications</li>
+  <li>Topic B: Authentication</li>
+  <li>Topic C: Virtual private networks</li>
+  <li>Topic D: Telecommuting vulnerabilities</li>
+</ul>
+<p><strong>Unit 5: E-mail</strong></p>
+<ul>
+  <li>Topic A: Secure e-mail and encryption</li>
+  <li>Topic B: PGP and S/MIME encryption</li>
+  <li>Topic C: E-mail vulnerabilities</li>
+</ul>
+<p><strong>Unit 6: Web security</strong></p>
+<ul>
+  <li>Topic A: SSL/TLS protocol</li>
+  <li>Topic B: Vulnerabilities of Web tools</li>
+  <li>Topic C: Configuring Internet Explorer security</li>
+</ul>
+<p><strong>Unit 7: Directory and file transfer services</strong></p>
+<ul>
+  <li>Topic A: Introduction to directory services</li>
+  <li>Topic B: File transfer services</li>
+  <li>Topic C: File sharing</li>
+</ul>
+<p><strong>Unit 8: Wireless and instant messaging</strong></p>
+<ul>
+  <li>Topic A: IEEE 802.11</li>
+  <li>Topic B: WAP 1.x and WAP 2.0</li>
+  <li>Topic C: Wired equivalent privacy</li>
+  <li>Topic D: Instant messaging</li>
+</ul>
+<p><strong>Unit 9: Network devices</strong></p>
+<ul>
+  <li>Topic A: Understanding firewalls</li>
+  <li>Topic B: Routers</li>
+  <li>Topic C: Switches</li>
+  <li>Topic D: Telecom, cable modem, and wireless devices</li>
+  <li>Topic E: Securing remote access</li>
+  <li>Topic F: Intrusion detection systems</li>
+  <li>Topic G: Network monitoring</li>
+</ul>
+<p><strong>Unit 10: Transmission and storage media</strong></p>
+<ul>
+  <li>Topic A: Transmission media</li>
+  <li>Topic B: Storage media</li>
+</ul>
+<p><strong>Unit 11: Network security topologies</strong></p>
+<ul>
+  <li>Topic A: Security topologies</li>
+  <li>Topic B: Network Address Translation</li>
+  <li>Topic C: Tunneling</li>
+  <li>Topic D: Virtual Local Area Networks</li>
+</ul>
+<p><strong>Unit 12: Intrusion detection</strong></p>
+<ul>
+  <li>Topic A: Intrusion detection systems</li>
+  <li>Topic B: Network-based and host-based IDS</li>
+  <li>Topic C: Active and passive detection</li>
+  <li>Topic D: Honeypots</li>
+  <li>Topic E: Incident response</li>
+</ul>
+<p><strong>Unit 13: Security baselines</strong></p>
+<ul>
+  <li>Topic A: OS/NOS hardening</li>
+  <li>Topic B: Network hardening</li>
+  <li>Topic C: Application hardening</li>
+  <li>Topic D: Workstations and servers</li>
+</ul>
+<p><strong>Unit 14: Cryptography</strong></p>
+<ul>
+  <li>Topic A: Concepts of cryptography</li>
+  <li>Topic B: Public Key Infrastructure (PKI)</li>
+  <li>Topic C: Key management and life cycle</li>
+  <li>Topic D: Setting up a certificate server</li>
+</ul>
+<p><strong>Unit 15: Physical security</strong></p>
+<ul>
+  <li>Topic A: Access control</li>
+  <li>Topic B: Environment</li>
+</ul>
+<p><strong>Unit 16: Disaster recovery and business continuity</strong></p>
+<ul>
+  <li>Topic A: Disaster recovery</li>
+  <li>Topic B: Business continuity</li>
+  <li>Topic C: Policies and procedures</li>
+  <li>Topic D: Privilege management</li>
+</ul>
+<p><strong>Unit 17: Computer forensics and advanced topics</strong></p>
+<ul>
+  <li>Topic A: Understanding computer forensics</li>
+  <li>Topic B: Risk identification</li>
+  <li>Topic C: Education and training</li>
+  <li>Topic D: Auditing</li>
+  <li>Topic E: Documentation</li>
+</ul>

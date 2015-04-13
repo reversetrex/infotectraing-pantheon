@@ -1,0 +1,15 @@
+<p>The course completion objectives are:</p>
+
+<ul>
+  <li>Configure a company's organizational structure within Microsoft Dynamics CRM</li>
+  <li>Add user accounts</li>
+  <li>Create and maintain security roles</li>
+  <li>Create teams of users</li>
+  <li>Create and configure multiple organizations within one implementation</li>
+  <li>Configure system settings, currency exchange rates, and multilingual user interface language packs</li>
+  <li>Import and export customizations</li>
+  <li>Customize forms and views</li>
+  <li>Customize database entities and attributes</li>
+  <li>Customize entity relationships and mappings</li>
+  <li>Identify areas where advanced customization functionality can be implemented</li>
+</ul>

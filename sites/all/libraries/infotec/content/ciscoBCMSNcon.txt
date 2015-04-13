@@ -1,0 +1,11 @@
+<p>The following topics are covered in the BCMSN course: </p>
+<p> Unit 1: Course Introduction </p>
+<p> Unit  2: Configuring VLANs and VTP </p>
+<p> Unit 3: Implementing Spanning-Tree Protocol </p>
+<p> Unit  4: Enhancing Spanning Tree Protocol </p>
+<p> Unit  5: Implementing Multilayer Switching in the Network </p>
+<p> Unit  6: Improving Availability on Multilayer Switched Networks </p>
+<p> Unit  7: Examining Cisco AVVID Services and Applications </p>
+<p> Unit  8: Implementing QoS in Multilayer Switched Networks </p>
+<p> Unit  9: Optimizing and Securing Multilayer Switched Networks </p>
+<p> Unit  10: Understanding Metro Ethernet </p>

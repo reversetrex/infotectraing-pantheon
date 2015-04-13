@@ -1,0 +1,35 @@
+<p><strong> Unit 1: Introduction to the Core Concepts of Microsoft Word</strong></p>
+<ul>
+  <li> Walkthrough 1: Introducing the Core Concepts of Microsoft Word </li>
+  <li> Walkthrough 2: The Three Levels of Formatting </li>
+  <li> Walkthrough 3: The Third Level&mdash;Understanding Sections </li>
+  <li> Introduction to the Key Components of Complex Word Documents </li>
+</ul>
+<p><strong> Unit 2: Using Styles Effectively </strong></p>
+<ul>
+  <li> Walkthrough 1: The Benefits of Word Styles </li>
+  <li> Walkthrough 2: Create and Manage Paragraph Styles </li>
+  <li> Exercise: Building a Better Document&mdash;Using Styles Effectively </li>
+  <li> Best Practices for Working with Styles</li>
+</ul>
+<p><strong> Unit 3: Simplifying Your Document with Tables </strong></p>
+<ul>
+  <li> Walkthrough 1: Using Tables to Simplify Your Documents </li>
+  <li> Walkthrough 2: Timesaving Techniques for Creating and Managing Tables </li>
+  <li> Exercise: Building a Better Document&mdash;Mastering Complex Layouts </li>
+  <li> Best Practices for Working with Tables </li>
+</ul>
+<p><strong> Unit 4: Managing Graphics Successfully </strong></p>
+<ul>
+  <li> Walkthrough 1: Understand Picture and Object Types in Word </li>
+  <li> Walkthrough 2: Placing Graphics Securely in Word </li>
+  <li> Exercise: Building a Better Document&mdash;Managing Graphics with Ease </li>
+  <li> Best Practices for Working with Graphics </li>
+</ul>
+<p><strong> Unit 5: Maximizing the Benefits of Fields </strong></p>
+<ul>
+  <li> Walkthrough 1: Simplify Your Work with Fields </li>
+  <li> Walkthrough 2: Create and Edit Field Codes </li>
+  <li> Exercise: Building a Better Document&mdash;Adding a Table of Contents </li>
+</ul>
+<p><strong> &nbsp;</strong></p>

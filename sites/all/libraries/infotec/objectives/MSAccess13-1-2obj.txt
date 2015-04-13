@@ -1,0 +1,19 @@
+<p><strong>Access 2013 Level 1</strong></p>
+<p>In this part of the course, you will learn to perform the following tasks:</p>
+<ul>
+  <li>Navigate within the Microsoft Access application environment and create a simple database.</li>
+  <li>Organize and manage data stored within Access tables.</li>
+  <li>Use queries to join, sort, and filter data from different tables.</li>
+  <li>Create advanced queries, including action queries and parameter queries.</li>
+  <li>Create and format custom reports.</li>
+  <li>Customize Access configuration options.</li>
+</ul>
+<p><strong>Access 2013 Level 2</strong></p>
+<p>In this part of the course, you will learn to perform the following tasks:</p>
+<ul>
+  <li>Design a relational database.</li>
+  <li>Join tables to retrieve data from unrelated tables.</li>
+  <li>Organize a database for efficiency and performance, and to maintain data integrity.</li>
+  <li>Share data among Access and other applications.</li>
+  <li>Customize reports to organize the displayed information and produce specific print layouts.</li>
+</ul>

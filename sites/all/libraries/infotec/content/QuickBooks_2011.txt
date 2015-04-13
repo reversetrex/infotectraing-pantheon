@@ -1,0 +1,184 @@
+<h2>Session 1</h2>
+  <h3>Section A: Getting Started</h3>
+  <ul>
+    <li>Learning Objectives</li>
+    <li>Converting Previous Version Data</li>
+    <li>Creating New Company</li>
+    <li>Customizing QuickBooks</li>
+    <li>Setting a Start Date</li>
+    <li>Income/Expense Accounts</li>
+  </ul>
+  <h3>Section B: QuickBooks Setup</h3>
+  <ul>
+    <li>Adding Bank Accounts</li>
+    <li>Other QuickBooks Setup Tasks</li>
+    <li>Customer Center: Adding Customers</li>
+    <li>Vender Center: Adding Vendors</li>
+    <li>Getting Started with Items</li>
+  </ul>
+  <h3>Section C: General Product Knowledge</h3>
+  <ul>
+    <li>Section Overview</li>
+    <li>Versions and Editions</li>
+    <li>QuickBooks Navigation and Backup</li>
+    <li>Creating a Backup</li>
+    <li>Automatic Backup Options</li>
+    <li>Restoring a Data File</li>
+  </ul>
+  <h3>Section D: Customizing QuickBooks</h3>
+  <ul>
+    <li>Determining Release Number/Version</li>
+    <li>Updating QuickBooks</li>
+    <li>Single-User vs. Multi-User Mode</li>
+    <li>QuickBooks Password Considerations</li>
+    <li>Setting Up Users and Passwords</li>
+    <li>Customizing QuickBooks Preferences</li>
+  </ul>
+  <h3>Section E: List Management</h3>
+  <ul>
+    <li>Using QuickBooks Lists</li>
+    <li>Chart of Accounts</li>
+    <li>Creating a New Account</li>
+    <li>Adding/Editing Customers</li>
+    <li>Adding/Editing Employees</li>
+    <li>Set Up Employee Taxes</li>
+    <li>Defining Employment Information</li>
+    <li>Sick/Vacation/Direct Deposit</li>
+    <li>Adding/Editing Vendors</li>
+    <li>Merging List Items</li>
+    <li>Deleting List Items</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Working with Items</h3>
+  <ul>
+    <li>Items</li>
+    <li>Item Types</li>
+    <li>Item Scenarios</li>
+    <li>Scenario 1: Setting Standard Pricing</li>
+    <li>Scenario 2: Fixed Percentage Price Level</li>
+    <li>Scenario 3: Per Item Price Level</li>
+    <li>Associating Lists: Customers</li>
+  </ul>
+  <h3>Section B: Working with Sales</h3>
+  <ul>
+    <li>The Sales Workflow</li>
+    <li>Invoice/Receipts/Statements/Memos</li>
+    <li>Invoicing</li>
+    <li>Accounts Receivable</li>
+    <li>Sales Receipts</li>
+    <li>Receiving Payments</li>
+    <li>Applying Credits</li>
+    <li>Making Deposits</li>
+    <li>Bounced Checks</li>
+  </ul>
+  <h3>Section C: Working with Purchases</h3>
+  <ul>
+    <li>Vendor Center</li>
+    <li>The Purchase Workflow</li>
+    <li>Accounts Payable/Vendor Credits</li>
+    <li>Inventory/Sales Tax</li>
+    <li>Entering Bills</li>
+    <li>Paying Bills</li>
+    <li>Payment Summary</li>
+    <li>Accounts Payable</li>
+    <li>Vendor Credits</li>
+    <li>Applying Vendor Credits</li>
+  </ul>
+  <h3>Section D: Working with Inventory</h3>
+  <ul>
+    <li>Enabling Inventory Preferences</li>
+    <li>Purchase Orders</li>
+    <li>Receive Inventory</li>
+    <li>Writing Checks</li>
+    <li>Credit Cards</li>
+    <li>Debit Cards</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Working with Sales Tax</h3>
+  <ul>
+    <li>Sales Tax Considerations</li>
+    <li>Setting Up Sales Tax</li>
+    <li>Determining Taxable Items</li>
+    <li>Applying Tax to Customers</li>
+    <li>Applying Tax to Items</li>
+    <li>Sales Tax Payable Register</li>
+    <li>Sales Tax Liability Report</li>
+    <li>Make Sales Tax Payments</li>
+  </ul>
+  <h3>Section B: Reconciliation</h3>
+  <ul>
+    <li>Beginning the Reconciliation Process</li>
+    <li>Marking Checks and Payments</li>
+    <li>Reconciliation Reports</li>
+  </ul>
+  <h3>Section C: Payroll</h3>
+  <ul>
+    <li>Payroll Overview</li>
+    <li>Payroll Service Types</li>
+    <li>Payroll Setup Considerations</li>
+    <li>Tracking Time</li>
+    <li>Payroll Schedules</li>
+    <li>Payroll Liabilities and Forms</li>
+  </ul>
+  <h3>Section D: Payroll Setup Wizard</h3>
+  <ul>
+    <li>Setting Up Payroll</li>
+    <li>Employee Benefits</li>
+    <li>Employee Setup</li>
+    <li>Company Payroll Setup</li>
+    <li>Year-to-Date Payroll</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Tracking Time/Running Payroll</h3>
+  <ul>
+    <li>Entering Time Options</li>
+    <li>Weekly Timesheet</li>
+    <li>Single Date Timesheet</li>
+    <li>Tracking Time via Invoicing</li>
+    <li>Add/Edit Payroll Schedule</li>
+    <li>Assign Payroll Schedules to Employees</li>
+    <li>Run a Payroll</li>
+    <li>Preview Paycheck Detail</li>
+    <li>Review and Create Paychecks</li>
+    <li>Manually Print Paychecks</li>
+    <li>Payroll Liabilities Report</li>
+    <li>Paying Payroll Liabilities</li>
+    <li>Prepare/Complete Payroll Forms</li>
+    <li>Form 941 Interview</li>
+    <li>Form W-2/W-3 Interview</li>
+  </ul>
+  <h3>Section B: Reports</h3>
+  <ul>
+    <li>QuickBooks Reports Considerations</li>
+    <li>Report Categories</li>
+    <li>Using the Report Center</li>
+    <li>Processing Multiple Reports</li>
+    <li>Export Reports to Excel</li>
+    <li>Customize/Modify Reports</li>
+    <li>Filtering Reports</li>
+    <li>Memorizing Reports</li>
+    <li>Create/Memorize a QuickReport</li>
+  </ul>
+  <h3>Section C: Basic Accounting</h3>
+  <ul>
+    <li>Basic Accounting Terminology</li>
+    <li>Financial Statements</li>
+    <li>Cash vs. Accrual</li>
+    <li>Cash/Accrual Report Basis</li>
+    <li>Making Journal Entries</li>
+    <li>Setting a Closing Date</li>
+  </ul>
+  <h3>Section D: Saving Time and Shortcuts</h3>
+  <ul>
+    <li>Multiple Users/Accounts</li>
+    <li>Adding/Granting User Access</li>
+    <li>Custom Fields</li>
+    <li>Creating Custom Fields</li>
+    <li>Custom Item Fields</li>
+    <li>Customizing Invoices</li>
+    <li>Invoice Templates</li>
+    <li>Invoice Customization</li>
+    <li>Previewing Changes</li>
+    <li>Additional Options</li>
+    <li>Invoice Designs Online</li>
+  </ul>

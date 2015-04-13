@@ -1,0 +1,71 @@
+<h2>Session 1</h2>
+  <h3>Section A: Expression Web</h3>
+  <ul>
+    <li>Interface Basics</li>
+    <li>Design View Tools</li>
+    <li>Status Bar Tools</li>
+    <li>Setting Status Modes and Options</li>
+    <li>Edit Document Type Information</li>
+    <li>Creating a New Web Site</li>
+    <li>Add Pages</li>
+  </ul>
+  <h3>Section B: Expression Design Tools</h3>
+  <ul>
+    <li>Using Tables</li>
+    <li>Working with Layout Table and Cells</li>
+    <li>Adding Images with Tables</li>
+    <li>Format Table Layout</li>
+    <li>Add Background Images</li>
+    <li>Format Table Cells</li>
+    <li>Using Layers</li>
+    <li>Working with Layers</li>
+    <li>Add Content to Page</li>
+  </ul>
+  <h3>Section C: Expression Templates</h3>
+  <ul>
+    <li>Dynamic Web Templates</li>
+    <li>Creating Template from Existing</li>
+    <li>Working with Regions</li>
+    <li>Attach Dynamic Web Template</li>
+    <li>Editing Dynamic Templates</li>
+    <li>Detach Template</li>
+  </ul>
+  <h3>Section D: Adding Interactivity with Expressions</h3>
+  <ul>
+    <li>Creating Rollover Effect</li>
+    <li>Editing Interactive Buttons</li>
+    <li>Saving Embedded Files</li>
+    <li>Preview Site and Code</li>
+    <li>Creating a Behavior Event</li>
+    <li>Using Swap Image Behavior</li>
+  </ul>
+  <h3>Section E: Building Web Forms with Expression</h3>
+  <ul>
+    <li>Add Form Objects</li>
+    <li>Add Text Fields</li>
+    <li>Add Radio Buttons</li>
+    <li>Add Check Boxes</li>
+    <li>Add Drop-Down Menus</li>
+    <li>Add Text Areas</li>
+    <li>Submit/Reset Buttons</li>
+    <li>Finalize Form</li>
+    <li>View Form</li>
+  </ul>
+  <h3>Section F: CSS with Expression</h3>
+  <ul>
+    <li>Create Class-Based Style</li>
+    <li>Build and Apply Class-Based Style</li>
+    <li>Create Element-Based Style</li>
+    <li>Save and View External Style Sheet</li>
+    <li>ID-Based Style</li>
+    <li>Build and Apply ID-Based Style</li>
+    <li>Using External Style Sheets</li>
+    <li>Modify Style Sheets</li>
+  </ul>
+  <h3>Section G: XHTML with Expression</h3>
+  <ul>
+    <li>Working with the Code View</li>
+    <li>Quick Tag Editor</li>
+    <li>Insert HTML with Quick Tag Editor</li>
+    <li>Quick Tag Selector</li>
+  </ul>

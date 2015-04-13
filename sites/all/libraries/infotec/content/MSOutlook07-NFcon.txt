@@ -1,0 +1,33 @@
+<strong>Lesson 1: Exploring the Outlook Environment</strong>
+<ul>
+  <li>Topic 1A: Explore the User Interface</li>
+  <li>Topic 1B: Work with the Ribbon</li>
+  <li>Topic 1C: Work with Contextual Tools</li>
+  <li>Topic 1D: Customize the Calendar Views</li>
+</ul>
+<strong>Lesson 2: Managing Your Daily Tasks in Outlook 2007</strong>
+<ul>
+  <li>Topic 2A: Work with Mail Messages</li>
+  <li>Topic 2B: Manage Tasks in the Calendar</li>
+  <li>Topic 2C: Locate Information Quickly</li>
+  <li>Topic 2D: Schedule a Meeting</li>
+</ul>
+<strong>Lesson 3: Sharing Information with Other Users</strong>
+<ul>
+  <li>Topic 3A: Share Your Calendar Information</li>
+  <li>Topic 3B: Notify Others That You Will be Out Of Office</li>
+  <li>Topic 3C: Share Information Using Electronic Business Card</li>
+</ul>
+<strong>Lesson 4: Protecting Your Information</strong>
+<ul>
+  <li>Topic 4A: Manage Junk Email</li>
+  <li>Topic 4B: Authorize Users to Access Your Information</li>
+  <li>Topic 4C: Recover Your Work</li>
+</ul>
+<strong>Lesson 5: Integrating Outlook with Other Applications</strong>
+<ul>
+  <li>Topic 5A: Integrate Outlook with Microsoft Office InfoPath 2007</li>
+  <li>Topic 5B: Integrate Outlook with Windows SharePoint Services</li>
+  <li>Topic 5C: Add RSS Feeds Through Outlook 2007</li>
+  <li>Topic 5D: Publish the File in PDF or XPS File Format</li>
+</ul>

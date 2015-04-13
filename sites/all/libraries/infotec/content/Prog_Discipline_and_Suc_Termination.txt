@@ -1,0 +1,35 @@
+<h2>Session 1</h2>
+  <h3>Section A: Enough is Enough</h3>
+  <ul>
+    <li>Progressive Discipline</li>
+    <li>Employee Performance</li>
+  </ul>
+  <h3>Section B: Discipline Process</h3>
+  <ul>
+    <li>Four Steps</li>
+    <li>Verbal Warning</li>
+    <li>Benefits</li>
+    <li>Documentation</li>
+    <li>Basic Principles</li>
+    <li>Formal Written Warning</li>
+  </ul>
+  <h3>Section C: Matching Discipline</h3>
+  <ul>
+    <li>Disciplinary Action</li>
+    <li>Final Written Warning</li>
+    <li>Elements of a Warning</li>
+    <li>Checkup</li>
+    <li>Monitoring</li>
+    <li>Nexus</li>
+  </ul>
+  <h3>Section D: Termination Session</h3>
+  <ul>
+    <li>Self-Termination</li>
+    <li>Communicate Effectively</li>
+    <li>Termination Process</li>
+    <li>Objective Party Review</li>
+    <li>Legal Termination Tips</li>
+    <li>Objective Documentation</li>
+    <li>Terminology and Phrasing</li>
+    <li>Disciplinary Policies</li>
+  </ul>

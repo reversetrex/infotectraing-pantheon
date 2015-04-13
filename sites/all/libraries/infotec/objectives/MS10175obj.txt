@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to: </p>
+<ul>
+  <li>Describe the SharePoint 2010 development  platform and the benefits and features that it offers to developers. </li>
+  <li>Use development tools that are integrated with  the SharePoint 2010 development platform, such as Visual Studio 2010 and  SharePoint Designer 2010. </li>
+  <li>Develop Web Parts for SharePoint 2010 solutions. </li>
+  <li>Develop code that uses the server-side objects  provided by the SharePoint 2010 development platform. </li>
+  <li>Develop event receivers and manipulate  application settings for SharePoint 2010 solutions. </li>
+  <li>Develop solutions that access external data by  using Business Connectivity Services. </li>
+  <li>Develop workflows as part of SharePoint 2010  solutions. </li>
+  <li>Develop code that uses the client-side objects  provided by the SharePoint 2010 development platform. </li>
+  <li>Develop server ribbon controls and client dialogs  for the new user interface platform of SharePoint 2010. </li>
+  <li>Develop Microsoft Silverlight applications that  are integrated with SharePoint 2010 data and solutions. </li>
+  <li>Develop sandboxed solutions for SharePoint 2010. </li>
+  <li>Develop code that uses the taxonomic and user  profile services of the SharePoint 2010 development platform.</li>
+  <li>Develop  code that uses the content management services of the SharePoint 2010  development platform.</li>
+</ul>

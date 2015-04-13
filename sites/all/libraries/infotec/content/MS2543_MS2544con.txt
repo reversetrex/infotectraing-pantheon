@@ -1,0 +1,172 @@
+<strong>2543:</strong><br /><br />
+
+<strong>Unit 1: Creating a Web Application</strong>
+<ul>
+  <li>Web  Configuration Files</li>
+  <li>Default  Event Handling in Web Applications</li>
+  <li>Visual  Studio Web Site Types<strong></strong></li>
+</ul>
+
+<strong>Unit 2: Programming a Web Application</strong>
+<ul>
+  <li>Event  Handling in Web Applications</li>
+  <li>Browser  Capability Detection</li>
+  <li>Page  Header Retrieval</li>
+  <li>Page-Level  and Application-Level Error Handling<strong></strong></li>
+</ul>
+
+<strong>Unit 3: Adding and Configuring Server Controls</strong>
+<ul>
+  <li>HTML Controls and Web Server Controls</li>
+  <li>Types of Web Server Controls</li>
+  <li>Working with Web Server Controls</li>
+  <li>The  ASP.NET 2.0 Page Postback Model</li>
+</ul>
+  
+<strong>Unit 4: Creating a Common Layout by Using Master Pages</strong>
+<ul>
+  <li>What  Are Master Pages?</li>
+  <li>What  Are Content Pages?</li>
+  <li>Nested  Master Pages<strong></strong></li>
+</ul>
+
+<strong>Unit 5: Managing State for a Web Application</strong>
+<ul>
+  <li>ViewState  Properties and ControlState Data</li>
+  <li>Application  and Session Objects</li>
+  <li>Strategies  for Managing Session   State Data</li>
+  <li>The  Cache Object<strong></strong></li>
+</ul>
+
+<strong>Unit 6: Accessing and Displaying Data</strong>
+<ul>
+  <li>Database  Connections and the Web.Config File</li>
+  <li>Relational  Data and Data Source Controls</li>
+  <li>XML  Data and Data Source Controls</li>
+  <li>Object  Data and Data Source Controls</li>
+</ul>
+
+<strong>Unit 7: Controlling Access to a Web Application</strong>
+<ul>
+  <li>Authentication  for Web Applications</li>
+  <li>Authorization  for Web Applications</li>
+  <li>Site  Membership Systems Using the Membership Class</li>
+  <li>Web  Site Security Administration Using the Roles Class</li>
+</ul>
+
+
+<strong>Unit 8: Deploying a Web  Application</strong>
+<ul>
+  <li>The  Copy Web Site Utility</li>
+  <li>The  Publish Web Site Utility</li>
+  <li>Windows  Installer Setup Packages</li>
+</ul>
+
+<strong>Unit 9: Making Web Applications Available to Mobile Devices</strong>
+<ul>
+  <li>Device  Emulators for Mobile Web Forms</li>
+  <li>Mobile  Device Detection and Redirection</li>
+  <li>Mobile  Web Forms</li>
+  <li>Device-Specific  Features in Mobile Web Forms</li>
+</ul>
+
+<strong>2544:</strong><br /><br />
+
+<strong>Unit 1:  Building Dynamic Web Applications</strong>
+<p>This unit  introduces many different aspects of dynamic Web applications. It includes  discussions on creating and configuring controls at run time. It then explains  how to build dynamic globalization features into a Web application to ensure  that it is localizable, including using localized resources and  applying different master page layouts in response to culture and language  settings. It concludes with explanations about how to enable dynamic configuration for site administrators.</p>
+<strong>Lessons for Unit 1:</strong>
+<ul>
+  <li>Dynamic Control Creation</li>
+  <li>Localization and Globalization</li>
+  <li>Dynamic Master Pages</li>
+  <li>Dynamic Web Configuration</li>
+</ul>
+<p>After  completing this unit, students will be able to:</p>
+<ul>
+  <li>Explain dynamic control creation in ASP.NET 2.0.</li>
+  <li>Add and configure controls dynamically.</li>
+  <li>Explain how to incorporate globalization and localization  features into Web applications.</li>
+  <li>Add localization features to a Web application.</li>
+  <li>Describe when and how to implement dynamic master pages.</li>
+  <li>Apply master pages dynamically.</li>
+  <li>Describe dynamic Web configuration scenarios.</li>
+  <li>Dynamically configure Web applications.</li>
+</ul>
+
+<strong>Unit 2:  Creating Controls for Web Applications</strong>
+<p>This unit  explains how developers create different types of controls for different  scenarios. The different types of controls include user controls, custom Web  server controls, composite Web server controls, and templated controls.</p>
+<strong>Lessons for Unit 2:</strong>
+<ul>
+  <li>User Controls</li>
+  <li>Custom Web Server Controls</li>
+  <li>Composite Web Server Controls</li>
+  <li>Templated Controls</li>
+</ul>
+<p>After  completing this unit, students will be able to:</p>
+<ul>
+  <li>Describe user controls and the underlying enabling  technologies.</li>
+  <li>Create user controls.</li>
+  <li>Describe custom Web server controls and the underlying enabling  technologies.</li>
+  <li>Create Web server controls.</li>
+  <li>Describe composite controls and how composite controls are  created.</li>
+  <li>Create composite Web server controls.</li>
+  <li>Describe templated controls and the interfaces that enable  their implementation.</li>
+  <li>Create templated controls.</li>
+</ul>
+
+<strong>Unit 3:  Optimizing Web Application Performance</strong>
+<p>This unit  introduces topics that will help you improve the performance of Web  applications. It describes how the Page Scripting  Object Model can help reduce the number of round trips for communication between  the server and the browser, and then explains how tracing and instrumentation  can be used to monitor and, therefore, improve the performance of a Web  application. The unit discusses how caching and asynchronous processing can  help increase Web application performance; it then highlights some  considerations that developers must address if the Web application is to be  deployed in a Web farm environment.</p>
+<strong>Lessons for Unit 3:</strong>
+<ul>
+  <li>The Page Scripting Object Model</li>
+  <li>Tracing and Instrumentation in Web Applications</li>
+  <li>ASP.NET 2.0 Caching Techniques</li>
+  <li>Asynchronous Processing in Web Applications</li>
+  <li>Web Farm Development Considerations</li>
+</ul>
+<p>After  completing this unit, students will be able to:</p>
+<ul>
+  <li>Describe the Page Scripting Object Model.</li>
+  <li>Access Page Scripting Object Model functionality.</li>
+  <li>Explain how to use tracing and instrumentation to monitor  and improve the performance of a Web application.</li>
+  <li>Implement tracing and instrumentation in Web applications.</li>
+  <li>Describe ASP.NET 2.0 caching techniques.</li>
+  <li>Implement ASP.NET 2.0 caching techniques.</li>
+  <li>Explain how asynchronous processing can lead to improved  performance for Web applications.</li>
+  <li>Implement asynchronous processing in Web applications.</li>
+  <li>Describe strategies for dealing with session state  management issues when deploying Web applications in a Web farm environment, Develop Web applications for Web farm environments.</li>
+</ul>
+
+<strong>Unit 4:  Implementing Personalization and Themes in Web Applications</strong>
+<p>This unit  introduces building customizable functionality into a Web application by adding  personalization support. It discusses using the personalization features of  ASP.NET 2.0 to provide this functionality. In addition, it discusses applying  themes to Web applications and allowing users to choose color schemes to  personalize their experience in using the Web application. It concludes by  explaining how to include features that enable users to personalize themes.</p>
+<strong>Lessons for Unit 4:</strong>
+<ul>
+  <li>ASP.NET 2.0 Personalization Features</li>
+  <li>Theme Support in ASP.NET 2.0</li>
+</ul>
+<p>After  completing this unit, students will be able to:</p>
+<ul>
+  <li>Describe the personalization features provided by ASP.NET  2.0.</li>
+  <li>Describe ASP.NET 2.0 theme support.</li>
+  <li>Configure personalization for a Web application.</li>
+  <li>Implement personalization features.</li>
+  <li>Add themes to a Web application.</li>
+  <li>Implement customizable themes.</li>
+</ul>
+
+<strong>Unit 5:  Building Web Part Pages and Web Parts</strong>
+<p>This unit  introduces the concept of a Web part, and describes how it is used in portal  pages and other scenarios. It introduces the concept of a Web part page, and  discusses how a Web part page contains some Web parts that provide the user  interface, along with other controls that manage the Web part infrastructure.  Additionally, it introduces the advanced features of connected Web parts and  discusses scenarios where they are typically used.</p>
+<strong>Lessons for Unit 5:</strong>
+<ul>
+  <li>What Is a Web Part?</li>
+  <li>What Is a Web Part Page?</li>
+  <li>Connected Web Parts</li>
+</ul>
+<p>After  completing this unit, students will be able to:</p>
+<ul>
+  <li>Describe what a Web Part is and the purpose of Web Parts.</li>
+  <li>Describe the components of a Web Part page and identify  scenarios when Web Part pages are useful features of Web applications.</li>
+  <li>Describe the more advanced features of Web Parts, including  connections between Web Parts.</li>
+  <li>Create Web Part pages.</li>
+  <li>Create Web Parts, Create connected Web Parts</li>
+</ul>

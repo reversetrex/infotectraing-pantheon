@@ -1,0 +1,29 @@
+<p><strong>Module 1: Introduction to Managing  Microsoft Windows Server 2008 Environment</strong> - The module explains server roles, Active  Directory, the Windows Server 2008 Administrative Tools and Remote Desktop.</p>
+
+<p><strong>Module 2: Creating Active Directory Domain Services User and Computer Objects</strong> - This module explains how to manage user accounts, create computer accounts and manage AD DS objects.</p>
+
+<p><strong>Module 3: Creating Groups and Organizational Units</strong> - This module introduces groups and how to manage them.</p>
+
+<p><strong>Module 4: Managing Access to Resources in  Active Directory Domain Services</strong> - The module explains how to manage access and assign and manage permissions.</p>
+
+<p><strong>Module 5: Configuring Active Directory Objects and Trusts</strong> - This module explains how to delegate administrative access to AD DS objects and how to configure AD DS Trusts.</p>
+
+<p><strong>Module 6: Creating and Configuring Group  Policy</strong> - This module explains how to configure and  manage Group Policy Objects.</p>
+
+<p><strong>Module 7: Configuring User and Computer Environments Using Group Policy</strong> - This module explains how to configure user environments using group policy.</p>
+
+<p><strong>Module 8: Implementing Security Using Group Policy</strong> - This module explains how to configure security policies, implement password policies, restrict access to software and user security templates.</p>
+
+<p><strong>Module 9: Configuring Server Security Compliance</strong> - This module explains how to secure a windows infrastructure, configure an audit policy, manage WSUS and  plan for a security update.</p>
+
+<p><strong>Module 10: Configuring and Managing Storage Technologies</strong> - This module explains how to manage storage using File Server Resource Manager, configure quota management, implement file screening and manage storage reports.</p>
+
+<p><strong>Module 11: Configuring and Managing Distributed  File System</strong> - This module explains how to configure DFS namespaces and replication.</p>
+
+<p><strong>Module 12: Configuring Network Access Protection</strong> - This module explains how to configure, monitor and troubleshoot NAP.</p>
+
+<p><strong>Module 13: Configuring Availability of Network Resources</strong> - This module explains how to configure shadow copies and provide server and service availability.</p>
+
+<p><strong>Module 14: Monitoring and Maintaining Windows Server 2008 Servers</strong> - This module explains how to monitor and maintain Windows Server 2008 servers.</p>
+
+<p><strong>Module 15: Managing Windows Server 2008 Backup and Restore</strong> - This module explains how to back up and restore Windows Server 2008 servers.</p>

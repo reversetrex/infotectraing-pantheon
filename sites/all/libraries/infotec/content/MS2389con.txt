@@ -1,0 +1,50 @@
+<p><strong> Unit 1: Data-Centric Applications and ADO.NET </strong></p>
+<ul>
+  <li> Design of Data-Centric Applications </li>
+  <li> ADO.NET Architecture </li>
+  <li> ADO.NET and XML </li>
+</ul>
+<p><strong> Unit 2: Connecting to Data Sources </strong></p>
+<ul>
+  <li> Choosing a .NET Data Provider </li>
+  <li> Defining a Connection </li>
+  <li> Managing a Connection </li>
+  <li> Handling Coonection Exceptions </li>
+  <li> Connection Pooling </li>
+</ul>
+<p><strong> Unit 3: Performing Connected Database Operations </strong></p>
+<ul>
+  <li> Working in a Connected Environment </li>
+  <li> Building Command Objects </li>
+  <li> Executing Commands That Return a Single Value </li>
+  <li> Executing Commands That Return Rows </li>
+  <li> Executing Commands That Do Not Return Rows </li>
+  <li> Using Transactions </li>
+</ul>
+<p><strong> Unit 4: Building DataSets </strong></p>
+<ul>
+  <li> Working in a Disconnected Environment </li>
+  <li> Building DataSets and DataTables </li>
+  <li> Binding and Saving a DataSet </li>
+  <li> Defining Data Relationships </li>
+  <li> Modifying Data in a DataTable </li>
+  <li> Sorting and Filtering</li>
+</ul>
+<p><strong> Unit 5: Reading and Writing XML with ADO.NET </strong></p>
+<ul>
+  <li> Creating XSD Schemas </li>
+  <li> Loading Schemas and Data into DataSets </li>
+  <li> Writing XML from a DataSet </li>
+</ul>
+<p><strong> Unit 6: Building DataSets from Existing Data Sources </strong></p>
+<ul>
+  <li> Configuring a DataAdapter to Retrieve Information </li>
+  <li> Populating a DataSet Using a DataAdapter </li>
+  <li> Configuring a DataAdapter to Update the Underlying Data Source </li>
+  <li> Persisting Changes to a Data Source </li>
+  <li> How to Handle Conflicts </li>
+</ul>
+<p><strong> Unit 7: Building and Consuming a Web Service That Uses ADO.NET </strong></p>
+<ul>
+  <li> Building and Consuming a Web Service That Returns Data </li>
+</ul>

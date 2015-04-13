@@ -1,0 +1,479 @@
+<p><strong>1. Basic Administration for Citrix XenApp 6</strong></p>
+<ul type="disc">
+  <li>XenApp Editions</li>
+  <li>XenApp Features</li>
+  <li>XenApp Architecture</li>
+  <ul type="circle">
+    <li>XenApp Components</li>
+    <li>Single and Multiple Farm Environments</li>
+    <li>XenApp Servers: Session Host-Only and Controllers</li>
+    <li>Data Store</li>
+    <li>Data Store Updates and the Local Host Cache</li>
+    <li>Independent Management Architecture</li>
+    <li>Data Collectors</li>
+    <li>Data Collector Election</li>
+    <li>Zones</li>
+    <li>Additional XenApp Components</li>
+  </ul>
+  <li>AppCenter</li>
+</ul>
+<p><strong>2. Licensing XenApp</strong></p>
+<ul type="disc">
+  <li>XenApp Licensing</li>
+  <ul type="circle">
+    <li>Licensing Communication</li>
+    <li>License Communication Process</li>
+    <li>License Types</li>
+    <li>Citrix License Server</li>
+    <li>Microsoft Remote Desktop Services</li>
+    <li>Remote Desktop Licensing</li>
+    <li>Additional Licensing Considerations</li>
+  </ul>
+  <li>License Administration Console</li>
+  <ul type="circle">
+    <li>Port Configuration</li>
+    <li>Delegated Administrators in the License Administration Console</li>
+  </ul>
+  <li>Installing Licensing</li>
+  <ul type="circle">
+    <li>Manual Installation and Configuration</li>
+    <li>Removing Licensing</li>
+    <li>License Server Considerations</li>
+  </ul>
+  <li>License File Management</li>
+  <ul type="circle">
+    <li>Obtaining License Files</li>
+    <li>Adding License Files</li>
+    <li>Subscription Advantage</li>
+  </ul>
+  <li>High Availability Considerations</li>
+  <ul type="circle">
+    <li>Additional License Server Processes</li>
+    <li>License Server Clustering</li>
+  </ul>
+</ul>
+<p><strong>3. Installing XenApp</strong></p>
+<ul type="disc">
+  <li>XenApp Server Role Manager</li>
+  <li>Hardware Requirements</li>
+  <li>Software Requirements</li>
+  <li>Installation Decisions</li>
+  <li>Server Configuration Tool</li>
+  <li>Dyamic Data Center Provisioning</li>
+  <li>Role-Based Uninstall</li>
+  <li>XenApp Configuration Options</li>
+  <ul type="circle">
+    <li>Which farm or zones will be used in the environment?</li>
+    <li>Which server will be used as the license server?</li>
+    <li>Which database engine will be used for the data store database?</li>
+    <li>Will shadowing be enabled?</li>
+    <li>On which port will the Citrix XML service run?</li>
+    <li>When will users be added to the local remote desktop users group?</li>
+    <li>Will pass-through authentication be used in the environment?</li>
+    <li>Will information in the data store and configuration logging databases be protected with IMA encryption?</li>
+  </ul>
+  <li>Web Interface Installation Decisions</li>
+</ul>
+<p><strong>4. Configuring XenApp Administration</strong></p>
+<ul type="disc">
+  <li>Worker Groups</li>
+  <ul type="circle">
+    <li>Managing Worker Groups</li>
+  </ul>
+  <li>Administrator Privilege Levels</li>
+  <ul type="circle">
+    <li>Creating Administrator Accounts</li>
+    <li>Configuring Administrator Permissions</li>
+    <li>Configuring Folder Permissions</li>
+    <li>Delegating Administration</li>
+  </ul>
+  <li>Configuration Logging</li>
+  <ul type="circle">
+    <li>Creating the Configuration Logging Database</li>
+    <li>Configuration Logging Database Settings</li>
+    <li>Enabling Configuration Logging</li>
+  </ul>
+</ul>
+<p><strong>5. Installing and Configuring Web Interface</strong></p>
+<ul type="disc">
+  <li>Web Interface Ports</li>
+  <li>Web Interface Communication Process</li>
+  <li>Web Interface Installation</li>
+  <li>Site Creation</li>
+  <ul type="circle">
+    <li>Creating a Web Interface Site</li>
+    <li>Site Creation Considerations</li>
+    <li>XenApp Web Site Configuration Options</li>
+    <li>XenApp Services Site Configuration</li>
+  </ul>
+  <li>Web Interface Site Modification</li>
+  <ul type="circle">
+    <li>Modifying the Web Interface Configuration File</li>
+    <li>Using the Web Interface Management Console</li>
+  </ul>
+  <li>Specifying Citrix Plug-In Backup URLs</li>
+  <li>Site Appearance</li>
+  <ul type="circle">
+    <li>Site Customization Options</li>
+    <li>Session Preferences</li>
+    <li>Session Options</li>
+    <li>User Options</li>
+  </ul>
+  <li>Workspace Control</li>
+  <ul type="circle">
+    <li>Functionality</li>
+    <li>Configuration Options</li>
+    <li>User Customization</li>
+    <li>Configuring Workspace Control</li>
+    <li>Session Termination</li>
+  </ul>
+  <li>Citrix Plug-Ins and Web Interface</li>
+  <ul type="circle">
+    <li>Plug-In Deployment Options</li>
+    <li>Automatically Detecting Plug-Ins</li>
+    <li>Client Detection</li>
+  </ul>
+  <li>Authentication Configuration</li>
+  <ul type="circle">
+    <li>Authentication Options</li>
+    <li>Generic RADIUS Support</li>
+    <li>Explicit Authentication</li>
+    <li>Pass-Through Authentication</li>
+    <li>Smart Card Authentication</li>
+    <li>Citrix XML Service Trust Relationships</li>
+  </ul>
+  <li>Secure Access Configuration</li>
+  <ul type="circle">
+    <li>Access Methods</li>
+    <li>Network Address Translation</li>
+    <li>Network Address Translation Access Types</li>
+  </ul>
+  <li>Server Configuration</li>
+  <ul type="circle">
+    <li>Configuring Multiple Farms</li>
+    <li>Adding Farms</li>
+    <li>Configuring Load Balancing</li>
+    <li>Enabling Fault Tolerance</li>
+    <li>Specifying the XML Communication Port</li>
+    <li>Ticket Expiration Settings</li>
+  </ul>
+  <li>Web Interface Site Removal</li>
+  <li>Troubleshooting Web Interface Issues</li>
+</ul>
+<p><strong>6. Delivering Applications and Content</strong></p>
+<ul type="disc">
+  <li>Published Resources</li>
+  <ul type="circle">
+    <li>Types</li>
+    <li>Resource Publishing Phases</li>
+    <li>Resource Name and Location</li>
+    <li>Server Assignment</li>
+    <li>Configured or Anonymous Accounts</li>
+    <li>Users and Groups</li>
+    <li>Resource Publishing Settings</li>
+  </ul>
+  <li>VM Hosted Apps</li>
+  <ul type="circle">
+    <li>Components</li>
+  </ul>
+  <li>Organizing Published Resources for Users</li>
+  <li>Advanced Published Resource Settings</li>
+  <ul type="circle">
+    <li>Access Control</li>
+    <li>Content Redirection</li>
+    <li>Implementing Resource Limits and Client Options</li>
+    <li>Configuring Resource Appearance</li>
+  </ul>
+  <li>Published Resource Configuration</li>
+  <ul type="circle">
+    <li>Session Pre-Launch</li>
+    <li>Managing Connections to Resources</li>
+    <li>Disabling or Hiding a Published Resource</li>
+  </ul>
+  <li>Troubleshooting Application Delivery Issues</li>
+</ul>
+<p><strong>7. Streaming Applications</strong></p>
+<ul type="disc">
+  <li>Application Streaming</li>
+  <ul type="circle">
+    <li>Benefits</li>
+    <li>Components</li>
+    <li>Communication Process</li>
+    <li>Streaming App-V Packages</li>
+  </ul>
+  <li>Citrix Offline Plug-In</li>
+  <ul type="circle">
+    <li>Cache</li>
+    <li>Installation</li>
+  </ul>
+  <li>Citrix Streaming Profiler</li>
+  <ul type="circle">
+    <li>Profiling Process</li>
+    <li>Installing the Citrix Streaming Profiler</li>
+    <li>Creating a Profile</li>
+    <li>Profile Security Setting</li>
+    <li>Targets</li>
+    <li>Inter-Isolation Communication</li>
+    <li>Profile Preference Settings</li>
+    <li>Profile System Requirements</li>
+    <li>Profile Installation Types</li>
+    <li>Profile Properties</li>
+    <li>Known Limits for Profiling Applications</li>
+    <li>Target Properties</li>
+    <li>Upgrading an Application in a Target</li>
+  </ul>
+  <li>Application Delivery Methods</li>
+  <li>The Use Web Delivery Method</li>
+  <li>Streaming to Servers</li>
+  <li>Publishing a Streamed Application</li>
+  <ul type="circle">
+    <li>Specifying an Alternate Profile for a Published Application</li>
+    <li>Enabling the Least-Privileged User Account</li>
+  </ul>
+  <li>Configuring Sites for Streaming Applications</li>
+  <ul type="circle">
+    <li>Support for Both Remote and Streaming Applications</li>
+
+  </ul>
+  <li>Offline Access Management</li>
+  <ul type="circle">
+    <li>Indirect Membership to the Offline Access List</li>
+    <li>Providing Offline Access</li>
+    <li>Offline Access Period</li>
+    <li>Renewing Offline Access Period</li>
+    <li>Application Caching</li>
+    <li>Pre-Deployment of Streaming Applications</li>
+  </ul>
+  <li>Troubleshooting Streaming Issues</li>
+</ul>
+<p><strong>8. Configuring Policies</strong></p>
+<ul type="disc">
+  <li>Group Policy Integration</li>
+  <ul type="circle">
+    <li>IMA-Based Group Policies</li>
+    <li>Group Policy Extensions</li>
+    <li>Group Policy Architecture</li>
+  </ul>
+  <li>Policy Evaluation</li>
+  <ul type="circle">
+    <li>Process</li>
+    <li>Policy Processing and Precedence</li>
+    <li>Policy Changes Example</li>
+    <li>Policy Precedence Exceptions</li>
+  </ul>
+  <li>Policy Rules</li>
+  <li>Support for Policy Templates</li>
+  <li>Policy Filtering</li>
+  <li>Policy Modeling</li>
+</ul>
+<p><strong>9. Configuring Load Management</strong></p>
+<ul type="disc">
+  <li>Load Manager</li>
+  <li>Load Balancing</li>
+  <ul type="circle">
+    <li>Process</li>
+  </ul>
+  <li>Load Calculation</li>
+  <li>Load Evaluator Configuration</li>
+  <ul type="circle">
+    <li>Creating Custom Load Evaluators</li>
+    <li>Thresholds for Load Management</li>
+    <li>Assigning Load Evaluators to Servers and Applications</li>
+  </ul>
+  <li>Load Balancing Policies</li>
+  <ul type="circle">
+    <li>Creating Load Balancing Policies</li>
+    <li>Force Application Streaming</li>
+  </ul>
+  <li>Preferential Load Balancing</li>
+  <ul type="circle">
+    <li>Example</li>
+    <li>Considerations</li>
+  </ul>
+  <li>Troubleshooting Load Management Issues</li>
+</ul>
+<p><strong>10. Optimizing the User Experience</strong></p>
+<ul type="disc">
+  <li>Optimizing Session Performance</li>
+  <ul type="circle">
+    <li>Enabling Display Settings</li>
+  </ul>
+  <li>HDX Broadcast Session Reliability</li>
+  <ul type="circle">
+    <li>Enabling</li>
+  </ul>
+  <li>HDX Broadcast Session Reliability Considerations</li>
+  <li>HDX RealTime</li>
+  <ul type="circle">
+    <li>Enabling</li>
+    <li>Design Considerations</li>
+  </ul>
+  <li>HDX Plug-n-Play</li>
+  <ul type="circle">
+    <li>Enabling</li>
+    <li>Design Considerations</li>
+  </ul>
+  <li>HDX MediaStream Windows Media Redirection</li>
+  <li>HDX MediaStream Flash Redirection</li>
+  <li>HDX 3D Image Acceleration</li>
+  <ul type="circle">
+    <li>Enabling</li>
+  </ul>
+  <li>HDX 3D Progressive Display</li>
+  <ul type="circle">
+    <li>Enabling</li>
+  </ul>
+  <li>User Profiles</li>
+  <ul type="circle">
+    <li>Differentiating User Profile Types</li>
+    <li>Redirecting User Data</li>
+    <li>Managing User Profiles</li>
+    <li>Enabling Profile Management</li>
+    <li>Profile Management Logon Process</li>
+  </ul>
+  <li>Troubleshooting User Experience Issues</li>
+</ul>
+<p><strong>11. Configuring Self-Service Applications</strong></p>
+<ul type="disc">
+  <li>Self-Service Applications Technologies</li>
+  <li>Citrix Receiver</li>
+  <ul type="circle">
+    <li>Windows</li>
+    <li>Macintosh</li>
+  </ul>
+  <li>Citrix Merchandising Server</li>
+  <ul type="circle">
+    <li>Architecture</li>
+  </ul>
+  <li>Plug-Ins</li>
+  <ul type="circle">
+    <li>Supported Plug-ins, Clients, and Receivers</li>
+    <li>Plug-In Delivery</li>
+    <li>Client for Java</li>
+    <li>Installation Considerations</li>
+  </ul>
+  <li>Troubleshooting Self-Service Application Issues</li>
+</ul>
+<p><strong>12. Configuring Printing</strong></p>
+<ul type="disc">
+  <li>Printing Concepts</li>
+  <ul type="circle">
+    <li>Printing Definitions</li>
+    <li>Printer Types</li>
+    <li>Printing Security</li>
+  </ul>
+  <li>Default Printing Behavior</li>
+  <ul type="circle">
+    <li>Altering the Default Printing Behavior</li>
+  </ul>
+  <li>Printer Provisioning</li>
+  <ul type="circle">
+    <li>User Self-Provisioning</li>
+    <li>Printer Auto-Creation</li>
+    <li>Printing Pathways</li>
+    <li>Network Printing Pathway</li>
+    <li>Client Printing Pathway</li>
+    <li>Printing Pathway Demonstration</li>
+  </ul>
+  <li>Printer Drivers</li>
+  <li>Citrix Universal Printing</li>
+  <ul type="circle">
+    <li>Enhanced MetaFile Format</li>
+    <li>Print Preview</li>
+    <li>Citrix Universal Printer</li>
+    <li>Configuring Citrix Universal Printing</li>
+  </ul>
+  <li>Administrator-Assigned Network Printers</li>
+  <ul type="circle">
+    <li>Adding a Network Printer</li>
+    <li>Editing Network Printer Settings</li>
+    <li>Specifying the Default Printer</li>
+  </ul>
+  <li>Workspace Control and Proximity Printing</li>
+  <ul type="circle">
+    <li>Configuring Proximity Printing</li>
+  </ul>
+  <li>Printing Preferences</li>
+  <ul type="circle">
+    <li>Printing Properties</li>
+    <li>Printing Preference Hierarchy</li>
+    <li>Configuring Printer Property Retention</li>
+  </ul>
+  <li>Printing Bandwidth</li>
+  <li>Troubleshooting Printing Issues</li>
+</ul>
+<p><strong>13. Securing XenApp</strong></p>
+<ul type="disc">
+  <li>XenApp Security Solutions</li>
+  <li>SecureICA</li>
+  <li>Citrix SSL Relay</li>
+  <ul type="circle">
+    <li>Communication</li>
+    <li>Configuration</li>
+  </ul>
+  <li>Access Gateway</li>
+  <ul type="circle">
+    <li>Deployment Scenarios</li>
+    <li>Communications</li>
+    <li>Digital Certificates</li>
+    <li>Securing Access to Hosted Applications</li>
+    <li>SmartAccess</li>
+  </ul>
+  <li>Web Interface Configuration</li>
+  <ul type="circle">
+    <li>Access Methods</li>
+    <li>Access Gateway Settings</li>
+    <li>Configuring Web Interface for Access Gateway Connections</li>
+  </ul>
+  <li>Security Configuration Best Practice</li>
+  <li>Troubleshooting Access Gateway with XenApp</li>
+</ul>
+<p><strong>14. Monitoring XenApp</strong></p>
+<ul type="disc">
+  <li>Health Monitoring and Recovery</li>
+  <li>Service Monitoring for XenApp</li>
+  <ul type="circle">
+    <li>Components</li>
+    <li>Communication</li>
+  </ul>
+  <li>License Usage Monitoring</li>
+  <ul type="circle">
+    <li>Configuring License Alerts</li>
+    <li>Viewing License Usage</li>
+    <li>Viewing Historical License Data</li>
+  </ul>
+  <li>Workflow Studio</li>
+  <ul type="circle">
+    <li>Architecture</li>
+    <li>Workflow Automation Use Case</li>
+  </ul>
+  <li>Accessing the Farm using PowerShell</li>
+  <li>Administering the Farm using Commands</li>
+</ul>
+<p><strong>15. Additional Component</strong></p>
+<ul type="disc">
+  <li>SmartAuditor</li>
+  <ul type="circle">
+    <li>Components</li>
+    <li>Session Recording Process</li>
+  </ul>
+  <li>Single Sign-On</li>
+  <ul type="circle">
+    <li>Components</li>
+    <li>Process</li>
+  </ul>
+  <li>Branch Optimization</li>
+  <ul type="circle">
+    <li>Branch Repeater Components</li>
+    <li>Branch Optimization Process for the Plug-In</li>
+  </ul>
+  <li>Provisioning Services</li>
+  <ul type="circle">
+    <li>Components</li>
+  </ul>
+  <li>Power and Capacity Management</li>
+  <li>XenServer</li>
+  <ul type="circle">
+    <li>Components</li>
+  </ul>
+</ul>

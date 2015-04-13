@@ -1,0 +1,261 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Course Prerequisites</li>
+    <li>Exam Overview</li>
+    <li>Certification Path</li>
+    <li>Exchange Editions</li>
+  </ul>
+  <h3>Section B: Exchange and Active Directory</h3>
+  <ul>
+    <li>Active Directory</li>
+    <li>Global Catalog Servers Defined</li>
+    <li>Info and Config Storage Locations</li>
+    <li>Exchange Prerequisites</li>
+    <li>Single vs. Multiple Forests</li>
+    <li>Resource Forest Defined</li>
+    <li>Cross-Forest Trust Defined</li>
+    <li>Federated Trust Defined</li>
+    <li>Site Design Considerations</li>
+    <li>Design and Deployment Suggestions</li>
+    <li>Preparing Active Directory</li>
+  </ul>
+  <h3>Section C: Exchange and DNS</h3>
+  <ul>
+    <li>Multiple DNS Namespaces</li>
+    <li>Single DNS Namespace</li>
+  </ul>
+  <h3>Section D: Exchange 2010 Server Roles</h3>
+  <ul>
+    <li>Server Roles</li>
+    <li>Understanding Mail Delivery</li>
+    <li>Role Interaction</li>
+    <li>Mailbox Server</li>
+    <li>Hub Transport Server</li>
+    <li>Client Access Server</li>
+    <li>Unified Messaging Server</li>
+    <li>Unified Messaging Communications</li>
+    <li>Edge Transport Server</li>
+    <li>Installing Roles</li>
+    <li>Updating Exchange</li>
+  </ul>
+  <h3>Section E: Mailbox Server Role</h3>
+  <ul>
+    <li>Mailbox Services</li>
+    <li>New Features</li>
+    <li>Storage</li>
+    <li>Database Disks</li>
+    <li>Files</li>
+    <li>Database and Log Folder Paths</li>
+  </ul>
+  <h3>Section F: Mailbox Sizing and Memory</h3>
+  <ul>
+    <li>Storage Changes</li>
+    <li>Designing Mailbox Databases</li>
+    <li>Sizing Mailbox Databases</li>
+    <li>Other Mailbox Sizing Factors</li>
+    <li>Sizing Log Folder</li>
+    <li>Mailbox Server Memory</li>
+    <li>Designing for DAGs</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Mailbox Recipient Design</h3>
+  <ul>
+    <li>Designing Mailbox Features</li>
+    <li>Designing for Mailbox Moves</li>
+    <li>New Moves vs. Old Moves</li>
+    <li>Resource Mailboxes</li>
+    <li>Configuring Mailbox Settings</li>
+    <li>Creating a Resource Mailbox</li>
+    <li>Configuring Resource Mailbox Settings</li>
+    <li>Distribution Groups: Windows</li>
+    <li>Distribution Groups: Moderated</li>
+    <li>Distribution Groups: Opt-In/Opt-Out</li>
+    <li>Distribution Groups: Expansion Servers</li>
+    <li>Distribution Groups: Dynamic</li>
+    <li>Configuring Distribution Groups</li>
+    <li>Mailbox Security</li>
+    <li>Managing Full Access Permissions</li>
+  </ul>
+  <h3>Section B: Public Folder Design</h3>
+  <ul>
+    <li>Business Requirements for Public Folders</li>
+    <li>Public Folder Databases</li>
+    <li>Public Folder Replication</li>
+    <li>Public Folder Client Access</li>
+    <li>Public Folder Hierarchy</li>
+    <li>Public Folder Permissions</li>
+    <li>Legacy Public Folders</li>
+    <li>Public Folder Database Properties</li>
+    <li>Public Folder Management Console</li>
+  </ul>
+  <h3>Section C: Designing Client Access Servers</h3>
+  <ul>
+    <li>Client Access Services</li>
+    <li>Other CAS Services</li>
+    <li>CAS Hardware</li>
+    <li>CAS at Work</li>
+    <li>CAS Placement</li>
+    <li>CAS/OWA Proxy</li>
+    <li>Configure OWA External URL</li>
+  </ul>
+  <h3>Section D: Designing RPC Client Access</h3>
+  <ul>
+    <li>Understanding RPC Client Access</li>
+    <li>Enabling/Disabling RPC Client Access</li>
+    <li>Outlook Anywhere</li>
+    <li>RPC-HTTP Consideration</li>
+    <li>OWA and ECP Planning</li>
+    <li>Designing Authentication</li>
+    <li>Enabling Authentication Options</li>
+    <li>Configuring OWA Authentication</li>
+    <li>Configuring OWA Segmentation</li>
+    <li>Creating/Assigning an OWA Mailbox Policy</li>
+    <li>Designing ActiveSync</li>
+    <li>Designing POP and IMAP</li>
+    <li>Availability Service</li>
+    <li>Address Lists</li>
+    <li>MailTips</li>
+    <li>Configuring MailTips</li>
+  </ul>
+  <h3>Section E: Designing CAS Client Security</h3>
+  <ul>
+    <li>CAS Client Security</li>
+    <li>Certificates</li>
+    <li>Autodiscover Defined</li>
+    <li>Planning External Autodiscover Names</li>
+    <li>Unified Certificates</li>
+    <li>Autodiscover and Site Affinity</li>
+    <li>Application Layer Firewall Consideration</li>
+    <li>Exchange Certificate Configuration</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Designing Hub Transport</h3>
+  <ul>
+    <li>Hub Transport Servers</li>
+    <li>Hub Transport at Work</li>
+    <li>Hardware Requirements</li>
+    <li>SMTP Message Routing between Sites</li>
+    <li>SMTP Message Routing using Hub Sites</li>
+    <li>Send Connectors Defined</li>
+    <li>Receive Connectors Defined</li>
+    <li>Configuring Send Connectors</li>
+    <li>Configuring Receive Connectors</li>
+    <li>Planning External Mail Flow</li>
+    <li>Understanding Relay Messages</li>
+    <li>Internal Relay Process Diagram</li>
+    <li>Resource Forest Implementation Diagram</li>
+    <li>Designing E-Mail Address Policies</li>
+  </ul>
+  <h3>Section B: Edge Servers and Message Hygiene</h3>
+  <ul>
+    <li>Edge Transport Server</li>
+    <li>Edge Server Mail Flow</li>
+    <li>Shadow Redundancy</li>
+    <li>Edge Connections</li>
+    <li>Edge Server Job Roles</li>
+    <li>Understanding Domain Security</li>
+    <li>Transport Hygiene</li>
+    <li>MX Records</li>
+  </ul>
+  <h3>Section C: Federated Sharing</h3>
+  <ul>
+    <li>Federated Sharing Defined</li>
+    <li>Setting up Federation</li>
+    <li>Federated Sharing Policies</li>
+    <li>Federated Sharing at Work</li>
+  </ul>
+  <h3>Section D: Connecting with Foreign Mail Systems</h3>
+  <ul>
+    <li>Foreign Connectors</li>
+    <li>Setting Foreign Connectors</li>
+    <li>Delivery Agents</li>
+    <li>Delivery Agent Connectors</li>
+  </ul>
+  <h3>Section E: Transport Rules and Message Journaling</h3>
+  <ul>
+    <li>Transport Rules</li>
+    <li>Rights Management Service</li>
+    <li>Outlook Automatic Protection Rules</li>
+    <li>Remote Domains</li>
+    <li>Delivery Status Notifications</li>
+    <li>Journaling</li>
+  </ul>
+  <h3>Section F: Role-Based Access Control</h3>
+  <ul>
+    <li>RBAC Permissions</li>
+    <li>Default Management Roles/Role Groups</li>
+    <li>Custom Roles/Role Groups</li>
+    <li>ECP for Role Group Management</li>
+    <li>Mailbox Permissions</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Database High Availability</h3>
+  <ul>
+    <li>Database Availability Groups</li>
+    <li>DAG Planning Considerations</li>
+    <li>Auto Activation/Lagged Copies</li>
+    <li>Failover Process</li>
+    <li>Lagged Copies Configuration</li>
+    <li>Sample DAG Diagram</li>
+    <li>Site Resilience</li>
+    <li>File Share Witness</li>
+    <li>Automatic Mailbox Provisioning</li>
+  </ul>
+  <h3>Section B: CAS High Availability</h3>
+  <ul>
+    <li>Network Load Balancing</li>
+    <li>High Availability MAPI Access</li>
+    <li>Network Load Balancing Limits</li>
+  </ul>
+  <h3>Section C: Hub/Edge/AD High Availability</h3>
+  <ul>
+    <li>Hub Transport High Availability</li>
+    <li>Receive and Send Connectors</li>
+    <li>Edge Transport High Availability</li>
+    <li>Infrastructure High Availability</li>
+    <li>Planning Change Management</li>
+  </ul>
+  <h3>Section D: Planning Backup and Recovery</h3>
+  <ul>
+    <li>Backup and Recovery Considerations</li>
+    <li>Mitigating Recovery</li>
+    <li>Recovery Databases</li>
+    <li>Backup and DAG</li>
+    <li>CAS Backup and Recovery</li>
+    <li>Hub Backup and Recovery</li>
+    <li>Edge Backup and Recovery</li>
+  </ul>
+  <h3>Section E: Messaging Records Management</h3>
+  <ul>
+    <li>Using Retention Policies</li>
+    <li>Retention Tags</li>
+    <li>Managed Folders</li>
+    <li>Other MRM Tools</li>
+    <li>Discovery Search</li>
+  </ul>
+  <h3>Section F: Upgrade Planning</h3>
+  <ul>
+    <li>Moving from Previous Versions</li>
+    <li>Intra-Org Migrations Paths</li>
+    <li>Prerequisites for Adding a 2010 Server</li>
+    <li>Exchange 2003 Environment Example</li>
+    <li>Installing the CAS 2010 Server</li>
+    <li>Updated Exchange 2003 Environment</li>
+    <li>Exchange 2007 Environment Example</li>
+    <li>2010 Hub Server Installation</li>
+    <li>Mixed RGs and Sites</li>
+    <li>2010 Mailbox Role Installation</li>
+    <li>Mailbox Moves</li>
+    <li>Upgrading LDAP to OPATH Filters</li>
+    <li>Cross-Forest</li>
+  </ul>
+  <h3>Section G: Monitoring and Troubleshooting</h3>
+  <ul>
+    <li>Monitoring and Reporting Tools</li>
+    <li>Administrator Audit Logging</li>
+    <li>Remote Connectivity Analyzer</li>
+    <li>Test Command</li>
+    <li>Performance Monitor</li>
+    <li>Analyzing Capacity Usage</li>
+  </ul>

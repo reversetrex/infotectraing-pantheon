@@ -1,0 +1,80 @@
+<p><strong>Module 1: Service Management Overview</strong> - Effective IT Service Management includes process-driven methodologies that cover a broad spectrum of IT functions. This can include change management, incident and problem management and release management. Although no organization typically adopts any single IT Service Management methodology most organizations, depending on their size and nature of business will adopt a combination of processes and functions from many different IT Service Management frameworks such as ITIL (IT Infrastructure Library or MOF (Microsoft Operations Framework.</p>
+<p>In this module you will learn many of the ITIL and MOF best practices and procedures in delivering effective IT Service Management and how System Center 2012 Service Manager can be used to implement them in your organization.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Microsoft System Center 2012</li>
+  <li>System Center 2012 SP1 Service Manager Overview and key features</li>
+  <li>ITIL &amp; MOF Service Management</li>
+  <li>Adopting ITIL/MOF Best Practices with Service Manager</li>
+</ul>
+<p><strong>Module 2: Installing System Center 2012 SP1 Service Manager</strong> - Before installing System Center 2012 SP1 Service Manager in any environment there are many factors that you need to consider. Firstly, you need to understand your current IT environment. This includes how many users and computers are in the environment, how many Incidents and Change Requests are raised on a weekly/monthly basis and how many Analysts will be using the Service Manager Console. This information is critical in planning a successful deployment of Service Manager as it will be used to determine the hardware required for the various Service Manager components. Service Manager relies on Microsoft SQL Server to stores it&rsquo;s operational and data warehouse databases so careful consideration should also be given to the configuration of SQL Server when deploying Service Manager. This includes the disk subsystem, memory and database collation. In this module you will learn the key component and architecture of Service Manager including the hardware and software requirements. You will also learn the security requirements and considerations that should be taken into account before, during and after deploying Service Manager. You will learn how to install the various components of Service Manager including where components can and cannot be shared on the same computer. Finally you will learn how to upgrade an existing System Center Service Manager 2010 environment to System Center 2012 Service Manager.</p>
+<p>Lessons</p>
+<ul>
+  <li>System Center 2012 SP1 Service Manager Architecture and Core Components</li>
+  <li>Hardware and Software Requirements</li>
+  <li>Security Requirements</li>
+  <li>Installing System Center 2012 SP1 Service Manager</li>
+  <li>Upgrading to System Center 2012 Service Manager</li>
+</ul>
+<p><strong>Module 3: Configuring base settings in Service Manager</strong> - After installing Service Manager in your environment there will be number of base configuration tasks that should be performed in order to customize it to your environment and your needs. For example, you will need to create an Active Directory Connector that imports Users and Groups from the Active directory Domain. This will be required so that you can assign Work Items such as Incidents to users in the organization. It is also important to secure access to Service Manager so that only the relevant people can use its functions. This involves creating User Roles using User Role profiles so that when users open the Service Manager Console it is scoped based on their role. Notifications should be configured so that relevant staff can be notified when service levels are breached or when Incidents have been assigned to them. Finally, in order to integrate Service Manager with other System Center components such as Operations Manager and Orchestrator you will need to create Connectors for these components. The Connector will be used to import objects and use them as Configuration Items in Service Manager so that they can be associated with Work Items such as Incidents and Change Requests. In this module you will learn how to apply base configuration to Service Manager so that it is customized to your environment.</p>
+<p>Lessons</p>
+<ul>
+  <li>System Center 2012 SP1 Service Manager Base Configuration</li>
+  <li>Configuring Notifications</li>
+  <li>Integrating System Center 2012 SP1 Service Manager using Connectors</li>
+  <li>Configuring the Exchange Connector</li>
+  <li>Configuring Business Services</li>
+</ul>
+<p><strong>Module 4: Configuring Incident and Problem Management</strong> - Incident and Problem management are two key functions that form part of any Service Management solution. Not only should you understand how Incidents and Problems are configured and managed you also need to understand what constitutes an Incident or a Problem. In this module you will learn how to differentiate an issue that occurs in the IT environment between an Incident and a Problem. You will also learn how to configure Incidents and Problems which includes creating Templates that can be used to auto-populate Incident forms. Finally you will learn how Service Manager Queues and Views can be created to filter Incidents and Problems. These can then be used when configuring User Roles to restrict what Incidents and Problems analysts can view and work on in the Service Manager Console.</p>
+<p>Lessons</p>
+<ul>
+  <li>The Definition of an Incident and a Problem</li>
+  <li>Managing Incidents</li>
+  <li>Managing Problems</li>
+  <li>Using Queues and Views with Incidents and Problems</li>
+</ul>
+<p><strong>Module 5: Configuring Activity, Change and Release Management</strong> - When changes need to occur in the IT environment it is important that they are managed appropriately. The goal of Change Management as described by ITIL is to &ldquo;ensure that standardized methods and procedures are used for efficient and prompt handling of all changes, in order to minimize the impact of change-related incidents upon service quality, and consequently to improve the day-to-day operations of the organization&rdquo;. In this module you will learn how Service Manager manages changes in the IT environment by using Change Requests. This includes creating and managing Activities such as Review Activities that are used to approve or reject changes.  You will also learn how Release Records are used to group, schedule and develop approved changes.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Activities in Service Manager</li>
+  <li>Configuring Change Management</li>
+  <li>Configuring Release Management</li>
+</ul>
+<p><strong>Module 6: Configuring and Managing Service Requests</strong> - Service Request fulfillment is a key function in the Service Management framework. By providing Service Request fulfillment you can align your IT and business strategy and ensure that you deliver business value with IT services. Service Manager provides Service Request fulfillment by using best practice methodologies from both Microsoft Operations Framework (MOF) 4.0 and Information Technology Infrastructure Library (ITIL) V3.</p>
+<p>In this module you will learn all aspects of Service Request fulfillment within Service Manager with the exception of Service Level Management which is covered in module 7.</p>
+<p>Lessons</p>
+<ul>
+  <li>The Service Catalog, Request Offerings and Service Offerings</li>
+  <li>Managing Service Requests and Catalog Groups</li>
+  <li>The Self-Service Portal</li>
+  <li>Datacenter Resource Provisioning with the Cloud Services Process Pack</li>
+</ul>
+<p><strong>Module 7: Configuring Service Level Management</strong> - As defined by ITIL the mission statement for Service Level Management is &ldquo;Plan, coordinate, negotiate, report and manage the quality of IT services at acceptable cost&rdquo;. To provide effective Service Level Management a number of key activities must be undertaken. In addition to this, an ongoing activity to improve IT services is maintained.  This not only helps ensure that service levels are being met but also ensures the business or businesses are satisfied with the level of service they are receiving.</p>
+<p>In this module you will learn how Service Level Management is implemented in Service Manager.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Service Level Management</li>
+  <li>Viewing SLA information in Service Manager</li>
+</ul>
+<p><strong>Module 8: Customizing the Self-Service Portal</strong> - As Service Manager grows with your environment you will quickly learn how important the Self-Service Portal is to providing your end-users with self-service capabilities. Whether providing services in a multi-tenant environment or services to your own organization&rsquo;s end-users it is important that when users login to the Self-Service Portal that they can only see Service Offerings that they should have access to. Securing the Self-Service Portal is covered in Lesson 3 of Module 6. From an aesthetic perspective it is also important that when using the Self-Service Portal end-users are presented with an interface that is easy to navigate and is pleasing to the eye.  This will also help ensure that end-users continue to use the Self-Service Portal instead of ringing or emailing the helpdesk with requests. In this module you will learn how to customize the Self-Service Portal so that it is more aligned to your business by embedding a company logo and modifying the theme in which the portal is displayed. You will also learn each of the components on which the Self-Service Portal relies on.</p>
+<p>Lessons</p>
+<ul>
+  <li>Components of the Self-Service Portal</li>
+  <li>Customizing the Self-Service Portal</li>
+</ul>
+<p><strong>Module 9: Using Reports and Analyzing Data in Service Manager</strong> - Reporting in any IT Service Management solution is a key function that provides a wealth of information. From analyzing Incident trends to reporting on Software Update compliance, data stored in the reporting data warehouse provides a historical view of how your business environment has performed. Service Manager provides a number of standard reports that become available once data from the Service Manager database has been extracted and prepared in the Service Manager Data Warehouse. To facilitate this, a number of Data Warehouse Jobs are used to extract, transform and load the data into the Data Warehouse so that it can be used in reports. It is important you understand how these data warehouse jobs operate including how to troubleshoot jobs that have failed. Similarly, there are a number of OLAP Cubes that can be used to perform advanced analytics on data that has been collected in the data warehouse. It is important you understand how these cubes are processed including how to analyze cube data in Microsoft Excel and Microsoft SharePoint. In this module you will learn how to run reports in Service Manager including how to manage and maintain the data warehouse jobs and cubes on which reports rely on. Additionally you will learn how to perform advanced analytics on cube data by using Excel and SharePoint.</p>
+<p>Lessons</p>
+<ul>
+  <li>Running Reports in System Center 2012 SP1 Service Manager</li>
+  <li>Configuring and Running Data Warehouse Jobs</li>
+  <li>Troubleshooting failed Data Warehouse Jobs</li>
+  <li>Data Warehouse Cubes</li>
+</ul>
+<p><strong>Module 10: Configuring Compliance with the Process Pack for IT</strong> - GRCIT Governance, Risk management and Compliance (GRC) in most organizations is an important process that must be managed and maintained appropriately. Depending on the nature of your business, you may need to comply with regulatory requirements as set out by organizations such as Sarbanes-Oxley (SOX) or the Payment Card Industry (PCI). Conversely (or additionally), you may have your own internal regulatory requirements that must be adhered to. In this final module you will learn how the Process Pack for IT GRC can be used to help achieve compliance in your organization. This includes installing and configuring the Process Pack for IT GRC for a typical industry such as the payment card industry. You will also learn how to configure an IT GRC Management Program and include components such as Authority Documents, Control Objectives, and Control Activities for the program. Finally you will learn how you can use the reports included with the Process Pack for IT GRC to report on compliance within your organization.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Process Pack for IT GRC</li>
+  <li>Installing the Process Pack for IT GRC</li>
+  <li>Creating a Control Management Program</li>
+  <li>Managing a Control Management Program</li>
+</ul>

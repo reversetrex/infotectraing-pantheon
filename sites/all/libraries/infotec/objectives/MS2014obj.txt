@@ -1,0 +1,12 @@
+<p> At the end of the course, students will be able to: </p>
+<ul>
+  <li> Describe the Web Parts for Microsoft SharePoint products and technologies. </li>
+  <li> Add Web Parts to pages. </li>
+  <li> Use web part templates in Visual Studio .NET. </li>
+  <li> Use Web Parts as custom ASP.NET controls. </li>
+  <li> Connect Web Parts. </li>
+  <li> Package and deploy Web Parts. </li>
+  <li> Secure Web Parts. </li>
+  <li> Describe the Windows&reg; SharePoint Services Object Model. </li>
+  <li> Develop Web Parts using Microsoft Office FrontPage&reg;. </li>
+</ul>

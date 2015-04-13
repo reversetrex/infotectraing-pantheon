@@ -1,0 +1,69 @@
+<h2>Session 1</h2>
+  <h3>Section A: Types of Computer Crime</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Military Attacks</li>
+    <li>Business Attacks</li>
+    <li>Financial Attacks</li>
+    <li>Terrorist Attacks</li>
+    <li>Grudge Attacks</li>
+    <li>Fun Attacks</li>
+    <li>Hacking/Cracking</li>
+  </ul>
+  <h3>Section B: Categories of Law</h3>
+  <ul>
+    <li>Criminal Law</li>
+    <li>Civil Law</li>
+    <li>Admin/Regulatory Law</li>
+    <li>Categories of Law</li>
+    <li>Intellectual Property Law</li>
+    <li>Trade Secrets</li>
+    <li>Copyrights</li>
+    <li>Trademarks</li>
+    <li>Patents</li>
+  </ul>
+  <h3>Section C: Computer Laws</h3>
+  <ul>
+    <li>Technology Threat</li>
+    <li>Government Intervention</li>
+    <li>Fraud and Abuse Act</li>
+    <li>Computer Security Act</li>
+    <li>Amended Security Act</li>
+    <li>Security Reform Act</li>
+    <li>Privacy Acts</li>
+    <li>USA Patriot Act</li>
+    <li>Liability</li>
+  </ul>
+  <h3>Section D: Types of Incidents</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Incident Categories</li>
+    <li>Scanning Incidents</li>
+    <li>Compromise Incidents</li>
+    <li>Malicious Code Incidents</li>
+    <li>DoS Incidents</li>
+  </ul>
+  <h3>Section E: Incident Handling</h3>
+  <ul>
+    <li>Knowledge</li>
+    <li>Response</li>
+    <li>Contain Damage</li>
+    <li>Reporting</li>
+  </ul>
+  <h3>Section F: Investigation and Evidence</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Evidence Handling</li>
+    <li>Evidence Types</li>
+    <li>Evidence Admissibility</li>
+    <li>Search and Seizure</li>
+  </ul>
+  <h3>Section G: Ethics</h3>
+  <ul>
+    <li>Overview</li>
+    <li>(ISC)2 Code of Ethics</li>
+    <li>Ten Commandments</li>
+    <li>RFC 1087</li>
+    <li>Ethics Topics</li>
+    <li>Common Computer Ethics Fallacies</li>
+  </ul>

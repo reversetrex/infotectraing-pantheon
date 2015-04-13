@@ -1,0 +1,1 @@
+This five-day instructor-led course provides students with the knowledge and skills to managing a Systems Center Operations Manager 2007 management group. This course is intended to develop the necessary skills to install and manage Operations Manager 2007 management servers and supporting roles.

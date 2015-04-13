@@ -1,0 +1,1 @@
+This three-day instructor-led workshop provides students with the knowledge and skills to understand 300-level information on Microsoft Office Communications Server 2007 R2. The workshop focuses on understanding scenarios of Office Communications Server 2007 (OCS 2007), Office Communicator, and integration with Exchange 2007.

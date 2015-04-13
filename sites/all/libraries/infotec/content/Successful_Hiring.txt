@@ -1,0 +1,29 @@
+<h2>Session 1</h2>
+  <h3>Section A: Knowing the Law</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Objectives</li>
+    <li>Introduction</li>
+    <li>Hiring Right</li>
+    <li>Conversation</li>
+    <li>Playing by the Rules</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Describing the Job</h3>
+  <ul>
+    <li>Efficiency and Productivity</li>
+    <li>Conversation</li>
+    <li>Putting it on Paper</li>
+    <li>Conversation</li>
+    <li>Getting the Word Out</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Interviewing Right</h3>
+  <ul>
+    <li>Preparation</li>
+    <li>Interview Questions</li>
+    <li>Face to Face</li>
+    <li>Conversation</li>
+    <li>Do's and Don'ts</li>
+    <li>Assessment</li>
+  </ul>

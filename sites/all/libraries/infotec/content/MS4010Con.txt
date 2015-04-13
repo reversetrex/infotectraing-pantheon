@@ -1,0 +1,37 @@
+<p><strong> Unit 1: Identifying Company Goals and Customer Goals </strong></p>
+<ul>
+  <li> The Online Merchandising Challenge </li>
+  <li> What Are Goals, Tasks, and Features? </li>
+  <li> Discussion: E-Commerce Goals&mdash;Two Points of View </li>
+  <li> Demonstration: Correlating Goals and Tasks </li>
+  <li> Exercise: Identifying Correlations for an E-Commerce Site </li>
+  <li> Discussion: Basing Decisions on Specified Goals </li>
+</ul>
+<p><strong> Unit 2: Presenting the E-Commerce Product Mix </strong></p>
+<ul>
+  <li> Planning from the Ground Up </li>
+  <li> Putting the Goods Out in the Open </li>
+  <li> Exercise: Creating Store &ldquo;Aisles&rdquo; </li>
+  <li> Discussion: How Will Customers Achieve Tasks? </li>
+  <li> Demonstration: Labeling and Creating Pages </li>
+</ul>
+<p><strong> Unit 3: Creating Product Pages That Sell </strong></p>
+<ul>
+  <li> Giving Customers What They Want </li>
+  <li> Discussion: Information That Enables Purchase Decisions </li>
+  <li> Giving Customers More of What They Want </li>
+  <li> Demonstration: Viewing a Page Template </li>
+  <li> Exercise 1: Creating a Product Page Template </li>
+  <li> Exercise 2: Maximizing Sales Opportunities </li>
+  <li> Discussion: Looking at Possible Solutions </li>
+</ul>
+<p><strong> Unit 4: Focusing on Revenue-Producing Results </strong></p>
+<ul>
+  <li> Methods of Measuring E-Commerce Success </li>
+  <li> Exercise 1: Measuring Traffic with FrontPage </li>
+  <li> Exercise 2: Calculating the Conversion Rate </li>
+  <li> Visit Value and Feature Investment Breakeven </li>
+  <li> Basing Modifications on Business Value </li>
+  <li> Discussion: E-commerce in the Real World </li>
+</ul>
+<p><strong> &nbsp;</strong></p>

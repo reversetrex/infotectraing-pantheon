@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Explore the Microsoft OneNote 2010 interface and create a simple notebook.</li>
+  <li>Create notes using Microsoft OneNote 2010.</li>
+  <li>Organize content and search for information in a Microsoft OneNote 2010 notebook.</li>
+  <li>Integrate OneNote 2010 with other applications.</li>
+  <li>Use OneNote 2010 to share notes with other people.</li>
+</ul>

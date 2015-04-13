@@ -1,0 +1,40 @@
+<p><strong> Unit 1: Parameters and Action Queries </strong></p>
+<ul>
+  <li> Creating Parameters Queries </li>
+  <li>Creating Action Queries </li>
+</ul>
+<p><strong> Unit 2: Query Joins and Crosstab Queries </strong></p>
+<ul>
+  <li> Joining Tables and Working with Join Properties </li>
+  <li>Creating Crosstab Queries </li>
+  <li>Editing Limitations in Query Datasheets </li>
+</ul>
+<p><strong> Unit 3: Using Advanced Form Techniques </strong></p>
+<ul>
+  <li> Organizing Field Placement </li>
+  <li>Using Functions to Control Data Entry </li>
+  <li>Adding an Option Group to a Form </li>
+  <li>Using a Form as the User Interface </li>
+  <li>Creating a Form that Contains a Subform </li>
+</ul>
+<p><strong> Unit 4: Creating Basic Macros to Automate Forms </strong></p>
+<ul>
+  <li> Macro Basics </li>
+  <li>Attaching a Macro to a Command Button </li>
+  <li>Revising a Macro </li>
+</ul>
+<p><strong> Unit 5: Using Macros to Provide User Interaction and Automate Tasks </strong></p>
+<ul>
+  <li> Using a Macro to Provide User Interaction </li>
+  <li>AutoKeys and AutoExec Macros </li>
+  <li>Using a Macro to Automate Tasks </li>
+</ul>
+<p><strong> Unit 6: Using Advanced Report Techniques </strong></p>
+<ul>
+  <li> Customizing the Appearance and Functionality of a Report</li>
+</ul>
+<p><strong> Unit 7: Web Capabilities and Data Integration </strong></p>
+<ul>
+  <li> Using Hyperlinks </li>
+  <li>Data Integration </li>
+</ul>

@@ -1,0 +1,1 @@
+This five-day instructor-led course provides students with the knowledge and skills to implement, monitor, and maintain Windows Server 2008 servers.

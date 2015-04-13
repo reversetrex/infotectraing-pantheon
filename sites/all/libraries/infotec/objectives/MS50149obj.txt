@@ -1,0 +1,7 @@
+<p>After completing this course, students will know:</p>
+
+<ul>
+  <li>Every aspect of managing a SharePoint 2007 Server farm.</li>
+  <li>Integration with applications such as IRM, ForeFront, and Performance Point.</li>
+  <li>The many ways to back up and restore SharePoint environments.</li>
+</ul>

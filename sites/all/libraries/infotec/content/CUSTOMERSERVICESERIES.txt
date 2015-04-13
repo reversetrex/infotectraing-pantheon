@@ -1,0 +1,69 @@
+<h2>Calming Upset Customers </h2>
+<h3> Section A: Calming Upset Customers</h3>
+<ul>
+  <li>Introduction</li>
+  <li>Course Overview</li>
+</ul>
+<h3>Section B: Why Customers Get Upset</h3>
+<ul>
+  <li>People and Systems</li>
+  <li>Why Customers Leave</li>
+  <li>Avoidable Upsets</li>
+  <li>Key Fact</li>
+</ul>
+<h3> Section C: Responding to Upset Customers</h3>
+<ul>
+  <li>First Impressions</li>
+  <li>Right Words</li>
+  <li>Key Fact</li>
+</ul>
+<h3> Section D: Calming Your Customers</h3>
+<ul>
+  <li>Listening</li>
+  <li>Calming Techniques</li>
+  <li>The Telephone</li>
+  <li>Reaching Agreement</li>
+  <li>Key Fact</li>
+  <li>Customer Satisfaction</li>
+</ul>
+<h2>Connecting to Customers through Customer Service</h2>
+<h3> Section A: Customer Satisfaction</h3>
+<ul>
+  <li>The Customer Service Connection</li>
+  <li>Working with Customers</li>
+  <li>Extraordinary Customer Service</li>
+  <li>The Customer Service Resource</li>
+  <li>Key Point</li>
+</ul>
+<h2>Helping Customers through Quality Service</h2>
+<h3>Section A: Serving Customers, Helping People</h3>
+<ul>
+  <li>Customer Service</li>
+  <li>Making Your Customers Feel Welcome</li>
+  <li>Asking and Listening</li>
+  <li>Giving Your Undivided Attention</li>
+  <li>Going the Extra Mile</li>
+  <li>Showing Appreciation</li>
+  <li>Golden Rule</li>
+</ul>
+<h2>The Cornerstones of Sales and Customer Service</h2>
+<h3> Section A: Customer Service and Selling</h3>
+<ul>
+  <li>Spectacular Service</li>
+</ul>
+<h3> Section B: Three Cornerstones</h3>
+<ul>
+  <li>Listening</li>
+  <li>Probing</li>
+  <li>Building the Sale</li>
+</ul>
+<h3> Section C: Service Impact</h3>
+<ul>
+  <li>Customer's Perception</li>
+  <li>Customer Clues</li>
+  <li>Finding Specific Needs</li>
+</ul>
+<h3>Section D: Strengthening Sale Knowledge</h3>
+<ul>
+  <li>Salesman Test</li>
+</ul>

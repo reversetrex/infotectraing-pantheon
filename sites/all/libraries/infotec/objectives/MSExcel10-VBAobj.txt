@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Develop a macro.</li>
+  <li>Format worksheets using macros.</li>
+  <li>Create an interactive worksheet.</li>
+  <li>Work with multiple worksheets.</li>
+  <li>Perform calculations.</li>
+</ul>

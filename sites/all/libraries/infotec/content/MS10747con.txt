@@ -1,0 +1,109 @@
+<p><strong>Module 1: Overview of System Center 2012 Configuration Manager</strong></p>
+<p>This module describes the System Center 2012 Configuration Manager feature set and explains how to manage sites by using the System Center 2012 Configuration Manager Console.</p>
+<ul>
+  <li>Introduction to System Center 2012 Configuration Manager</li>
+  <li>Overview of System Center 2012 Configuration Manager Architecture</li>
+  <li>Overview of the Configuration Manager Console</li>
+  <li>Tools for Monitoring and Troubleshooting a Configuration Manager Site</li>
+</ul>
+<p><strong>Module 2: Discovering and Organizing Resources</strong></p>
+<p>This module explains how to configure discovery methods, configure boundaries and boundary groups, manage user and device collections, and implement role-based security.</p>
+<ul>
+  <li>Configuring Resource Discovery</li>
+  <li>Configuring Boundaries and Boundary Groups</li>
+  <li>Configuring User and Device Collections</li>
+  <li>Configuring Role-Based Administration</li>
+</ul>
+<p><strong>Module 3: Managing the Configuration Manager Client</strong></p>
+<p>This module explains how to configure client deployment methods and client settings, and monitor client status.</p>
+<ul>
+  <li>Overview of the Configuration Manager Client</li>
+  <li>Deploying the Configuration Manager Client</li>
+  <li>Managing Client Agents</li>
+  <li>Configuring and Monitoring Client Status</li>
+</ul>
+<p><strong>Module 4: Managing Inventory and Software Metering</strong></p>
+<p>This module explains how to configure and manage hardware and software inventory, monitor inventory data flow, and use asset intelligence and software metering.</p>
+<ul>
+  <li>Overview of Inventory Collection</li>
+  <li>Configuring Hardware Inventory</li>
+  <li>Configuring Software Inventory</li>
+  <li>Managing Inventory Collection</li>
+  <li>Configuring Asset Intelligence</li>
+  <li>Configuring Software Metering</li>
+</ul>
+<p><strong>Module 5: Querying and Reporting Data</strong></p>
+<p>This module explains how to create queries and run reports by using SQL Server Reporting Services.</p>
+<ul>
+  <li>Introduction to Queries</li>
+  <li>Managing Queries</li>
+  <li>Configuring SQL Server Reporting Services</li>
+</ul>
+<p><strong>Module 6: Managing Software Deployments by Using Packages and Programs</strong></p>
+<p>This module explains how to create and deploy packages and programs.</p>
+<ul>
+  <li>Configuring Software Distribution</li>
+  <li>Configuring Packages and Programs</li>
+  <li>Distributing Content to Distribution Points</li>
+  <li>Deploying Programs to Configuration Manager Clients</li>
+</ul>
+<p><strong>Module 7: Creating and Deploying Applications</strong></p>
+<p>This module explains how to create and deploy applications by using the System Center 2012 Configuration Manager Application model.</p>
+<ul>
+  <li>Overview of Application Management</li>
+  <li>Creating Applications</li>
+  <li>Deploying Applications</li>
+  <li>Configuring the Application Catalog</li>
+</ul>
+<p><strong>Module 8: Managing Application Deployment</strong></p>
+<p>This module explains how to configure application deployment requirements, application supersedence, application un-installation, and multiple deployment types.</p>
+<ul>
+  <li>Configuring Requirements and Dependencies for Deployment Types</li>
+  <li>Configuring Multiple Deployment Types and User Device Affinity</li>
+  <li>Managing Applications</li>
+</ul>
+<p><strong>Module 9: Deploying and Managing Software Updates</strong></p>
+<p>This module explains how to deploy and manage software updates.</p>
+<ul>
+  <li>Overview of Software Updates</li>
+  <li>Preparing the Configuration Manager Site for Software Updates</li>
+  <li>Managing Software Updates</li>
+  <li>Configuring Automatic Deployment Rules</li>
+  <li>Monitoring and Troubleshooting Software Updates</li>
+</ul>
+<p><strong>Module 10: Implementing Endpoint Protection in Configuration Manager 2012</strong></p>
+<p>This module explains how to integrate and implement System Center 2012 Endpoint Protection with System Center 2012 Configuration Manager.</p>
+<ul>
+  <li>Overview of Endpoint Protection in Configuration Manager</li>
+  <li>Configuring and Monitoring Endpoint Protection Policies</li>
+</ul>
+<p><strong>Module 11: Managing Operating System Deployment</strong></p>
+<p>This module explains how to deploy operating systems by using the System Center 2012 Configuration Manager infrastructure.</p>
+<ul>
+  <li>Overview of Operating System Deployment</li>
+  <li>Preparing the Site for Operating System Deployment</li>
+  <li>Capturing an Operating System Image</li>
+  <li>Deploying an Operating System</li>
+</ul>
+<p><strong>Module 12: Managing Compliance Settings</strong></p>
+<p>This module explains how to manage configuration items and baselines to assess and remediate the compliance of settings on devices.</p>
+<ul>
+  <li>Overview of Compliance Settings</li>
+  <li>Configuring Compliance Settings</li>
+  <li>Viewing Compliance Results</li>
+</ul>
+<p><strong>Module 13: Managing Mobile Devices</strong></p>
+<p>This module explains how to configure the mobile device management settings.</p>
+<ul>
+  <li>Configuring Mobile Device Management</li>
+  <li>Depth Management of Mobile Devices</li>
+  <li>Deploying Applications to Mobile Devices</li>
+</ul>
+<p><strong>Module 14: Configuring Wake On LAN, Power Management, and Remote Control</strong></p>
+<p>This module explains how to configure Wake On LAN, power management policies, and Remote Control.</p>
+<ul>
+  <li>Configuring Wake On LAN</li>
+  <li>Overview of Out of Band Management</li>
+  <li>Configuring Power Management Settings</li>
+  <li>Configuring Remote Control</li>
+</ul>

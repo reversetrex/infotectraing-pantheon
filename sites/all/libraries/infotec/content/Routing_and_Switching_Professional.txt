@@ -1,0 +1,653 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Cisco Certifications</li>
+    <li>Certification Tracks</li>
+    <li>Cisco Certification Facts</li>
+    <li>Unified Learning</li>
+    <li>Understanding the SWITCH Exam</li>
+    <li>Understanding the ROUTE Exam</li>
+    <li>Understanding the TSHOOT Exam</li>
+    <li>Building a Lab</li>
+  </ul>
+  <h3>Section B: Cisco Hardware Fundamentals</h3>
+  <ul>
+    <li>Switches</li>
+    <li>Routers</li>
+    <li>Ports</li>
+    <li>Specialized Hardware</li>
+    <li>Operating System</li>
+    <li>Secure Device Manager</li>
+    <li>Terminal Programs</li>
+  </ul>
+  <h3>Section C: Switching Basics</h3>
+  <ul>
+    <li>Building a MAC Address Table</li>
+    <li>MAC Address Tables</li>
+    <li>Frame Forwarding</li>
+    <li>Multilayer Switching</li>
+    <li>Managed vs. Unmanaged Switches</li>
+    <li>Switch Features</li>
+    <li>Planning Switching Infrastructures</li>
+  </ul>
+  <h3>Section D: Initial Switch Configuration</h3>
+  <ul>
+    <li>Step 1: Boot the Switch</li>
+    <li>Step 2: Enter Global Configuration Mode</li>
+    <li>Step 3: Set the Hostname</li>
+    <li>Configuration Changes in Privileged Mode</li>
+    <li>Step 4: Define a Startup Banner</li>
+    <li>Step 5: Set Logon Passwords</li>
+    <li>Step 6: Configuring a Management Port</li>
+    <li>Review/Backup the Running Config</li>
+    <li>Configure Switched Virtual Interfaces</li>
+  </ul>
+  <h3>Section E: Routing Basics</h3>
+  <ul>
+    <li>Layer 3 Operations</li>
+    <li>Benefits of Routing</li>
+    <li>Internal vs. External Routers</li>
+    <li>Typical Router Interfaces</li>
+    <li>Planning a Routing Infrastructure</li>
+  </ul>
+  <h3>Section F: Initial Router Configuration</h3>
+  <ul>
+    <li>Step 1: Boot the Router</li>
+    <li>Step 2: Set the Hostname</li>
+    <li>Step 3: Set Logon Passwords</li>
+    <li>View Router Interface Config</li>
+    <li>Step 4: Configure Interface Routing</li>
+  </ul>
+  <h3>Section G: Accessing Interfaces</h3>
+  <ul>
+    <li>Reload Command</li>
+    <li>Help Command</li>
+    <li>Show Interfaces Command</li>
+    <li>Show Running-Config Command</li>
+    <li>Interface Configuration Commands</li>
+  </ul>
+  <h3>Section H: IOS Tips and Tricks</h3>
+  <ul>
+    <li>Getting Moded</li>
+    <li>Navigating Devices Quickly</li>
+    <li>Using End and Exit</li>
+    <li>Configuring Interface Ranges</li>
+    <li>Using the Do Command</li>
+    <li>Enable/Disable the Logging Console</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Managing Configurations</h3>
+  <ul>
+    <li>Advanced Show Running-Config Command</li>
+    <li>Backing Up the Configuration via TFTP</li>
+    <li>Adding Configuration Settings</li>
+    <li>Removing Configuration Settings</li>
+    <li>Settings Not Stored in Startup-Config</li>
+  </ul>
+  <h3>Section B: Troubleshooting Processes</h3>
+  <ul>
+    <li>Cisco's Six-Step Troubleshooting Model</li>
+    <li>Cisco's Simplified Troubleshooting Model</li>
+    <li>Structured Troubleshooting</li>
+    <li>Documentation</li>
+    <li>Tom's Simplified Troubleshooting Model</li>
+  </ul>
+  <h3>Section C: Enterprise Design</h3>
+  <ul>
+    <li>Logical Network Design</li>
+    <li>Flat Networks</li>
+    <li>Network Segmentation</li>
+    <li>Hierarchical Network Model</li>
+    <li>Access Layer Details</li>
+    <li>Distribution Layer Details</li>
+    <li>Core Layer Details</li>
+    <li>Hierarchical Design Example</li>
+    <li>Cisco's Planning Methodology</li>
+    <li>Cisco Enterprise Architecture</li>
+  </ul>
+  <h3>Section D: Campus Design</h3>
+  <ul>
+    <li>Campus Design Terms</li>
+    <li>Switch Block Redundancy</li>
+    <li>Core Block Planning</li>
+    <li>SONA</li>
+    <li>Cisco Enterprise Composite Model</li>
+  </ul>
+  <h3>Section E: Understanding VLANs</h3>
+  <ul>
+    <li>VLANs Defined</li>
+    <li>VLAN Example</li>
+    <li>VLAN Tagging</li>
+    <li>VLAN Applications</li>
+    <li>VLAN Requirements</li>
+  </ul>
+  <h3>Section F: Designing VLANs</h3>
+  <ul>
+    <li>VLANs and Physical Design</li>
+    <li>VLAN Planning</li>
+    <li>Create a VLAN Planning Worksheet</li>
+    <li>VLAN Documentation</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Creating VLANs</h3>
+  <ul>
+    <li>VLAN Database Method</li>
+    <li>VLAN Configuration Mode</li>
+    <li>Creating a VLAN by Interface Assignment</li>
+    <li>Viewing Flash Content</li>
+    <li>Show VLAN</li>
+  </ul>
+  <h3>Section B: VLAN Trunking</h3>
+  <ul>
+    <li>VLAN Trunks</li>
+    <li>VLAN Trunk Example</li>
+    <li>VLAN Trunking Protocol</li>
+    <li>Set Up Trunking</li>
+    <li>Configure VTP</li>
+  </ul>
+  <h3>Section C: Spanning Tree Protocol</h3>
+  <ul>
+    <li>Looping in Switched Networks</li>
+    <li>STP Defined</li>
+    <li>BPDU Frames</li>
+    <li>STP Port Types</li>
+    <li>Configure STP: Priority</li>
+    <li>Configure STP: Root</li>
+    <li>Viewing STP</li>
+    <li>STP Failover</li>
+  </ul>
+  <h3>Section D: VLAN Troubleshooting</h3>
+  <ul>
+    <li>Using Show VLAN</li>
+    <li>Using Show Running-Config</li>
+    <li>Using Show Mac-Address-Table</li>
+    <li>Using Show Interfaces</li>
+    <li>VTP Revision Problems</li>
+    <li>Resetting VTP Revision Numbers</li>
+    <li>Set VTP Transparent Mode</li>
+  </ul>
+  <h3>Section E: Layer 2 Security Solutions</h3>
+  <ul>
+    <li>Layer 2 Attacks</li>
+    <li>Layer 2 Attack Solutions</li>
+    <li>Port Security</li>
+    <li>Port-Based Authentication</li>
+    <li>DHCP Spoofing</li>
+    <li>DHCP Snooping</li>
+    <li>Planning for Security</li>
+  </ul>
+  <h3>Section F: Configuring Port Security</h3>
+  <ul>
+    <li>Port Security Violation Modes</li>
+    <li>Switchport Port-Security Violation</li>
+    <li>Switchport Port-Security Maximum Value</li>
+    <li>Switchport Port-Security Mac-Address</li>
+    <li>Switchport Port-Security Aging</li>
+    <li>Show Port-Security</li>
+  </ul>
+  <h3>Section G: General Switch Security</h3>
+  <ul>
+    <li>Configure Passwords</li>
+    <li>Creating Logon Accounts</li>
+    <li>Setting Logon Security Levels</li>
+    <li>Enabling Secure HTTP Access</li>
+    <li>Private VLANs</li>
+    <li>Creating a Community Private VLAN</li>
+    <li>Associating VLANs with Private VLANs</li>
+    <li>VACLs and PACLs</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Troubleshooting Switch Security</h3>
+  <ul>
+    <li>Recovering from Lost Passwords</li>
+    <li>Troubleshooting General Switch Security</li>
+    <li>Troubleshooting Port Security</li>
+  </ul>
+  <h3>Section B: Layer 3 Switching Overview</h3>
+  <ul>
+    <li>Layer 3 Interfaces</li>
+    <li>Layer 3 Switching Requirements</li>
+    <li>Layer 3 Switching Benefits</li>
+    <li>Cisco Express Forwarding</li>
+    <li>CEF Limitations</li>
+    <li>Layer 3 Switching Documentation</li>
+  </ul>
+  <h3>Section C: Layer 3 Switching Configuration</h3>
+  <ul>
+    <li>Configuring a VLAN Layer Interface</li>
+    <li>Configuring a Physical Layer 3 Interface</li>
+    <li>Enabling CEF</li>
+    <li>Layer 3 Security</li>
+  </ul>
+  <h3>Section D: Understanding High Availability</h3>
+  <ul>
+    <li>Redundancy</li>
+    <li>Client Redundancy Needs</li>
+    <li>Resiliency</li>
+    <li>Power Supply Redundancy</li>
+    <li>Switch Port Redundancy</li>
+    <li>Switch Supervisor Engine</li>
+    <li>Service Level Agreements</li>
+  </ul>
+  <h3>Section E: Planning Switch High Availability</h3>
+  <ul>
+    <li>Insufficient Redundancy Tools</li>
+    <li>Hot Standby Router Protocol</li>
+    <li>HSRP Operations</li>
+    <li>HSRP States</li>
+    <li>Virtual Router Redundancy Protocol</li>
+    <li>VRRP Redundancy Operations</li>
+    <li>VRRP Distribution Operations</li>
+    <li>Gateway Load Balancing Protocol</li>
+  </ul>
+  <h3>Section F: First Hop Redundancy</h3>
+  <ul>
+    <li>HSRP Commands</li>
+    <li>Sample HSRP Configuration</li>
+    <li>VRRP Commands</li>
+    <li>Optional VRRP Commands</li>
+    <li>Sample VRRP Configuration</li>
+    <li>GLBP Commands</li>
+    <li>Sample GLBP Configuration</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Troubleshooting High Availability</h3>
+  <ul>
+    <li>Verifying HSRP Optimization</li>
+    <li>Debugging HSRP</li>
+    <li>Verifying VRRP</li>
+    <li>Debugging VRRP</li>
+    <li>Verifying GLBP</li>
+    <li>Debugging GLBP</li>
+  </ul>
+  <h3>Section B: Wireless LAN Standards</h3>
+  <ul>
+    <li>Original 802.11</li>
+    <li>802.11b and 802.11a</li>
+    <li>802.11g</li>
+    <li>802.11n</li>
+    <li>802.11i</li>
+    <li>802.11e</li>
+  </ul>
+  <h3>Section C: Wireless LAN Topologies</h3>
+  <ul>
+    <li>Stations Defined</li>
+    <li>Basic Service Sets</li>
+    <li>Ad-Hoc WLANs</li>
+    <li>Infrastructure WLANs</li>
+    <li>Starting a BSS</li>
+    <li>Joining a BSS</li>
+    <li>Distribution System</li>
+  </ul>
+  <h3>Section D: Wireless LAN Hardware</h3>
+  <ul>
+    <li>Wireless LAN Routers</li>
+    <li>Wireless Bridges</li>
+    <li>Wireless Repeaters</li>
+    <li>Wireless Controllers</li>
+    <li>Power Over Ethernet</li>
+    <li>PoE Switches</li>
+    <li>Standard Terminology</li>
+    <li>PoE Installation</li>
+    <li>Powering HT Devices</li>
+  </ul>
+  <h3>Section E: Integrating Wireless LANs</h3>
+  <ul>
+    <li>MAC and PHY</li>
+    <li>Bits and Bytes</li>
+    <li>Frames and Packets</li>
+    <li>SDUs and PDUs</li>
+    <li>802.3 Frame Format</li>
+    <li>802.11 Frame Format</li>
+    <li>802.11 Frame Types</li>
+    <li>Acknowledgement Frames</li>
+    <li>Infrastructure Models</li>
+  </ul>
+  <h3>Section F: Troubleshooting Wireless LANs</h3>
+  <ul>
+    <li>System Throughput</li>
+    <li>Multipath</li>
+    <li>Troubleshooting Multipath</li>
+    <li>Hidden Node</li>
+    <li>Troubleshooting Hidden Node</li>
+    <li>Near/Far Problem</li>
+    <li>Troubleshooting Near/Far</li>
+    <li>Channel Interference</li>
+    <li>RF Noise and Interference</li>
+  </ul>
+  <h3>Section G: Understanding VoIP</h3>
+  <ul>
+    <li>PSTN Defined</li>
+    <li>Local Exchange</li>
+    <li>Interoffice Switching</li>
+    <li>CO Hierarchy</li>
+    <li>Anatomy of a Call</li>
+    <li>Business PSTN Connections</li>
+    <li>Introducing VoIP</li>
+    <li>Analog to Digital</li>
+    <li>Sampling</li>
+    <li>Voice into Packets and Back</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: VoIP Hardware</h3>
+  <ul>
+    <li>Voice Gateways</li>
+    <li>Infrastructure Devices</li>
+    <li>Endpoints</li>
+    <li>Cisco IP Phone Installation</li>
+    <li>Phone Boot Process</li>
+  </ul>
+  <h3>Section B: VoIP and QoS</h3>
+  <ul>
+    <li>VoIP Quality Requirements</li>
+    <li>Three-Tier Application</li>
+    <li>Cisco AutoQoS</li>
+    <li>AutoQoS Deployment</li>
+    <li>Enabling AutoQoS</li>
+  </ul>
+  <h3>Section C: Cisco VoIP Solutions</h3>
+  <ul>
+    <li>Unified Communications Manager</li>
+    <li>Communications Manager Express</li>
+    <li>Cisco Unity</li>
+    <li>Unified Presence</li>
+    <li>Gateways and Gatekeepers</li>
+    <li>IP Phones</li>
+  </ul>
+  <h3>Section D: Implementing VoIP</h3>
+  <ul>
+    <li>TCP vs. UDP</li>
+    <li>RTP</li>
+    <li>RTCP and cRTP</li>
+    <li>sRTP</li>
+    <li>SCCP</li>
+    <li>MGCP</li>
+    <li>H.323</li>
+    <li>SIP</li>
+    <li>Network Topologies</li>
+    <li>Transmission Media</li>
+    <li>NAT and PAT</li>
+  </ul>
+  <h3>Section E: Troubleshooting VoIP</h3>
+  <ul>
+    <li>Can You Hear Me?</li>
+    <li>Common Problems</li>
+    <li>Problem Symptoms</li>
+    <li>Monitoring Tools</li>
+  </ul>
+  <h3>Section F: Implementing Video</h3>
+  <ul>
+    <li>The Next Wave: Video</li>
+    <li>Video Delivery</li>
+    <li>Video Formats</li>
+    <li>IP Video Protocols</li>
+    <li>Video Signal Resolutions</li>
+    <li>Video Bandwidth</li>
+    <li>Cisco Video Technologies</li>
+  </ul>
+  <h3>Section G: Switch Planning and Implementation</h3>
+  <ul>
+    <li>Basic Switching Implementation Scenario</li>
+    <li>Step 1: Define the Hostname/Logons</li>
+    <li>Step 2: Enable Switchport Trunking</li>
+    <li>Step 3: Configure Other End of the Trunk</li>
+    <li>Step 4: Configure a VTP Domain</li>
+    <li>Step 5: Configure/Define VLANs</li>
+    <li>Step 6: Assign Interfaces to the VLANs</li>
+    <li>Step 7: Review the Switch Configuration</li>
+  </ul>
+<h2>Session 7</h2>
+  <h3>Section A: IP Overview</h3>
+  <ul>
+    <li>OSI Model Review</li>
+    <li>Layer-Based Terminology</li>
+    <li>TCP/IP Model</li>
+    <li>IP Operations</li>
+  </ul>
+  <h3>Section B: IPv4 Functionality</h3>
+  <ul>
+    <li>IPv4 Addressing Defined</li>
+    <li>Subnet Mask</li>
+    <li>Default Gateway</li>
+    <li>Public and Private IPv4 Addresses</li>
+    <li>Types of Computer Names</li>
+    <li>Resolving Computer Names</li>
+  </ul>
+  <h3>Section C: IPv6 Functionality</h3>
+  <ul>
+    <li>IPv4 Problems</li>
+    <li>IPv6 Benefits</li>
+    <li>IPv6 Address Space</li>
+    <li>IPv6 Address Types</li>
+    <li>IPv6 RFCs: IPv4 to IPv6 Changes</li>
+    <li>IPv6 RFCs: Terminology</li>
+    <li>IPv6 RFCs: Headers</li>
+    <li>IPv6 RFCs: Addressing</li>
+  </ul>
+  <h3>Section D: Planning for IPv6</h3>
+  <ul>
+    <li>IPv4 to IPv6 Comparison</li>
+    <li>Transition to IPv6</li>
+    <li>Planning Addressing</li>
+    <li>Planning Routing</li>
+    <li>Determining Time Frames</li>
+  </ul>
+  <h3>Section E: Configuring IPv6</h3>
+  <ul>
+    <li>Enabling IPv6</li>
+    <li>Setting Addresses</li>
+    <li>Enable IPv6 Addressing</li>
+    <li>IPv6 Autoconfig Address</li>
+    <li>Enable IPv6 on Interfaces</li>
+    <li>Enable IPv6 Unicast Routing</li>
+    <li>Enabling RIP for IPv6</li>
+  </ul>
+  <h3>Section F: IPv6 and IPv4 Interoperation</h3>
+  <ul>
+    <li>Dual Stack</li>
+    <li>Dual Stack Explanation</li>
+    <li>IPv6 over IPv4 Tunneling</li>
+    <li>Tunneling Configurations</li>
+    <li>Tunneling Technologies</li>
+  </ul>
+  <h3>Section G: Troubleshooting IPv4 and IPv6</h3>
+  <ul>
+    <li>Verifying IPv6 Connectivity</li>
+    <li>Verifying DNS Name Resolution</li>
+    <li>Verifying IPv6-Based TCP Connections</li>
+    <li>IPv6 Show Commands</li>
+    <li>IPv6 Debug Commands</li>
+  </ul>
+<h2>Session 8</h2>
+  <h3>Section A: Routing Protocols</h3>
+  <ul>
+    <li>Static Routing</li>
+    <li>Static Routing Issues</li>
+    <li>Routing Protocols Defined</li>
+    <li>Distance Vector Routing</li>
+    <li>Link State Routing</li>
+    <li>Routing Protocol Metrics</li>
+    <li>Administrative Distance</li>
+  </ul>
+  <h3>Section B: Understanding OSPF</h3>
+  <ul>
+    <li>OSPF</li>
+    <li>OSPF Issues</li>
+    <li>Steps for OSPF Operation</li>
+    <li>Multicast Addresses</li>
+    <li>OSPF Operation</li>
+    <li>OSPF States</li>
+    <li>OSPF Databases</li>
+    <li>OSPF Network Types</li>
+    <li>DR and BDR</li>
+    <li>DR and BDR Selection</li>
+    <li>Priority Values</li>
+  </ul>
+  <h3>Section C: Configuring and Troubleshooting OSPF</h3>
+  <ul>
+    <li>Configure OSPF</li>
+    <li>Pinging Routers</li>
+    <li>Configure Terminal Mode</li>
+    <li>Traveling an OSPF Route</li>
+    <li>Show IP OSPF</li>
+    <li>OSPF Priority</li>
+  </ul>
+  <h3>Section D: Understanding EIGRP</h3>
+  <ul>
+    <li>EIGRP Overview</li>
+    <li>A Hybrid Routing Protocol</li>
+    <li>EIGRP vs. IGRP</li>
+    <li>EIGRP Fundamentals</li>
+  </ul>
+  <h3>Section E: Planning for EIGRP</h3>
+  <ul>
+    <li>EIGRP Terminology</li>
+    <li>Neighbor Discovery and Recovery</li>
+    <li>Reliable Transport Protocol</li>
+    <li>DUAL Finite State Machine</li>
+    <li>EIGRP Packet Types</li>
+    <li>EIGRP Neighbor Table</li>
+    <li>EIGRP Routing Table</li>
+    <li>EIGRP Topology Table</li>
+  </ul>
+  <h3>Section F: Configuring EIGRP</h3>
+  <ul>
+    <li>EIGRP Configuration Commands</li>
+    <li>Network IP Configurations</li>
+    <li>Viewing Connected Routes</li>
+    <li>Setting Up an EIGRP Route</li>
+    <li>Debug EIGRP</li>
+    <li>Adding Routers to the EIGRP Network</li>
+  </ul>
+  <h3>Section G: Troubleshooting EIGRP</h3>
+  <ul>
+    <li>Verifying EIGRP Routes</li>
+    <li>Change Running-Config</li>
+    <li>Show Specific IP Routes</li>
+    <li>EIGRP Subcommands</li>
+  </ul>
+<h2>Session 9</h2>
+  <h3>Section A: EGP Overview</h3>
+  <ul>
+    <li>Routing Types</li>
+    <li>Autonomous Systems</li>
+    <li>IGP Defined</li>
+    <li>EGP Defined</li>
+    <li>The Need for EGP</li>
+    <li>IGP vs. EGP</li>
+    <li>EGP in the DMZ</li>
+  </ul>
+  <h3>Section B: Introducing eBGP</h3>
+  <ul>
+    <li>BGP-4</li>
+    <li>BGP Terminology</li>
+    <li>BGP Features</li>
+    <li>BGP Routing Algorithm</li>
+    <li>BGP Packets</li>
+    <li>BGP Tables</li>
+  </ul>
+  <h3>Section C: Planning for eBGP</h3>
+  <ul>
+    <li>BGP Directional Planning</li>
+    <li>Planning Egress Traffic</li>
+    <li>Planning Ingress Traffic</li>
+    <li>BGP Updates – NLRI</li>
+    <li>AS-Path Attributes</li>
+  </ul>
+  <h3>Section D: Configuring eBGP</h3>
+  <ul>
+    <li>Primary BGP Commands</li>
+    <li>Configuring BGP Peers</li>
+  </ul>
+  <h3>Section E: Troubleshooting eBGP</h3>
+  <ul>
+    <li>Routing Between Autonomous Systems</li>
+    <li>Configuring Router Interfaces</li>
+    <li>Configuring Neighbors</li>
+    <li>BGP Convergence Time</li>
+  </ul>
+  <h3>Section F: Router Security</h3>
+  <ul>
+    <li>TCP Conversation</li>
+    <li>Access Control Lists</li>
+    <li>Cisco ACLs</li>
+    <li>Inbound and Outbound</li>
+    <li>Building ACLs</li>
+    <li>Protocol IDs and ACLs</li>
+    <li>The ip access-list Command</li>
+    <li>Denying IP Addresses</li>
+    <li>Creating and Removing ACLs</li>
+  </ul>
+  <h3>Section G: AAA Security</h3>
+  <ul>
+    <li>AAA</li>
+    <li>Credential Types</li>
+    <li>RADIUS Servers</li>
+    <li>User Directories</li>
+    <li>TACACS+</li>
+    <li>AAA Implementation</li>
+  </ul>
+<h2>Session 10</h2>
+  <h3>Section A: IOS Router Services</h3>
+  <ul>
+    <li>Configuring DHCP Exclutions</li>
+    <li>Configuring DHCP Address Pools</li>
+    <li>Verify DHCP Configuration</li>
+    <li>Configuring NTP</li>
+    <li>HTTP Server Configuration</li>
+    <li>Verify HTTP Server Config</li>
+  </ul>
+  <h3>Section B: NAT and PAT</h3>
+  <ul>
+    <li>ISP Connections</li>
+    <li>Network Address Translation</li>
+    <li>Port Address Translation</li>
+    <li>Configuring NAT ACLs</li>
+    <li>Creating the NAT Pool</li>
+    <li>Specifying the Inside Source</li>
+    <li>Defining Addresses for IP Redirection</li>
+    <li>Assigning Interfaces to NAT</li>
+  </ul>
+  <h3>Section C: Routing Redistribution</h3>
+  <ul>
+    <li>Redistribution Defined</li>
+    <li>Planning Redistribution</li>
+    <li>Configuring Redistribution</li>
+    <li>Verifying Redistribution</li>
+    <li>Troubleshooting Redistribution</li>
+    <li>Documenting Redistribution</li>
+  </ul>
+  <h3>Section D: Supporting Branch Offices</h3>
+  <ul>
+    <li>Branch Access Planning</li>
+    <li>Supporting Teleworkers</li>
+    <li>Broadband Technologies</li>
+    <li>Configuring Broadband Connections</li>
+    <li>VPN Technologies</li>
+    <li>GRE Tunnels</li>
+    <li>Configuring GRE Tunnels</li>
+  </ul>
+  <h3>Section E: Layer 3 Path Control</h3>
+  <ul>
+    <li>Understanding Layer 3 Path Control</li>
+    <li>Planning Path Control</li>
+    <li>Configuring IP SLA</li>
+    <li>Configuring PBR</li>
+    <li>Verifying Path Control</li>
+    <li>Documenting Path Control</li>
+  </ul>
+  <h3>Section F: Network Monitoring</h3>
+  <ul>
+    <li>Planning for Monitoring</li>
+    <li>SNMP</li>
+    <li>Logging Configuration Commands</li>
+    <li>Archive Configuration Commands</li>
+  </ul>
+  <h3>Section G: Router/Switch Maintenance</h3>
+  <ul>
+    <li>Show Environmental Information</li>
+    <li>Show Inventory Information</li>
+    <li>Show Memory Information</li>
+    <li>Updating the IOS</li>
+    <li>Updating the Boot Configuration Path</li>
+  </ul>

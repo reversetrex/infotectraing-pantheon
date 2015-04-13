@@ -1,0 +1,1 @@
+You will learn how to use InfoPath to gather and share information by creating and implementing XML-based forms.

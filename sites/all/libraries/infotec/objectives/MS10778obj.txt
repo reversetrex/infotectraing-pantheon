@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Describe the components, architecture, and nature of a BI solution.</li>
+    <li>Create reports with Reporting Services.</li>
+    <li>Create reusable report items that simplify self-service reporting.</li>
+    <li>Manage report execution and delivery.</li>
+    <li>Create a multidimensional database with Analysis Services.</li>
+    <li>Implement dimensions in a cube.</li>
+    <li>Implement measures and measure groups in a cube.</li>
+    <li>Use MDX Syntax.</li>
+    <li>Customize a cube.</li>
+    <li>Implement a Tabular Data Model in PowerPivot.</li>
+    <li>Use DAX to query a tabular model.</li>
+    <li>Implement a Tabular Database.</li>
+    <li>Use PowerView to create interactive data visualizations.</li>
+    <li>Use Data Mining for Predictive Analysis.</li>
+</ul>

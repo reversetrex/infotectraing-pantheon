@@ -1,0 +1,14 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Design and implement Exchange Server 2013 Unified Messaging.</li>
+  <li>Design and implement site resiliency for Exchange Server 2013.</li>
+  <li>Plan a virtualization strategy for Exchange Server 2013 roles.</li>
+  <li>Design and implement message transport security.</li>
+  <li>Design and implement message retention in Exchange Server 2013.</li>
+  <li>Design and implement messaging compliance.</li>
+  <li>Design and implement administrative security in an Exchange Server 2013 environment.</li>
+  <li>Use the Windows PowerShell 3.0 command-line interface to manage Exchange Server 2013.</li>
+  <li>Design and implement integration with Exchange Online.</li>
+  <li>Design and implement messaging coexistence.</li>
+  <li>Design and implement Exchange Server migrations from non-Exchange messaging systems, and upgrades from previous Exchange Server versions.</li>
+</ul>

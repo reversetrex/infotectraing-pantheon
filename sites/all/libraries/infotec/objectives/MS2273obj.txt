@@ -1,0 +1,21 @@
+<p> At the end of the course, students will be able to:</p>
+<ul>
+  <li> Create and populate organizational units with user and computer accounts. </li>
+  <li> Manage user and computer accounts. </li>
+  <li> Create and manage groups. </li>
+  <li> Manage access to resources. </li>
+  <li> Implement printing. </li>
+  <li> Manage printing. </li>
+  <li> Manage access to objects in organizational units. </li>
+  <li> Implement Group Policy. </li>
+  <li> Manage the user and computer environment by using Group Policy. </li>
+  <li> Audit accounts and resources. </li>
+  <li> Prepare to administer server resources. </li>
+  <li> Configure a server to monitor system performance. </li>
+  <li> Monitor system performance. </li>
+  <li> Manage device drivers by configuring device driver signing and restoring a device driver. </li>
+  <li> Manage hard disks. </li>
+  <li> Manage data storage. </li>
+  <li> Manage disaster recovery. </li>
+  <li> Maintain software by using Microsoft Software Update Services. </li>
+</ul>

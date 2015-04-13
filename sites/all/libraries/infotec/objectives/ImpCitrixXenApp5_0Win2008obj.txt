@@ -1,0 +1,16 @@
+<p>Upon successful completion of this course, learners will be able  to:</p>
+<ul>
+  <li>Install Citrix XenApp.</li>
+  <li>Install and distribute the XenApp plugin software.</li>
+  <li>Create and customize Web Interface sites.</li>
+  <li>Publish applications, server desktops and content.</li>
+  <li>Configure XenApp Web and XenApp Services sites to stream applications.</li>
+  <li>Create and assign load  evaluators.</li>
+  <li>Configure, apply and prioritize policies in a XenApp environment.</li>
+  <li>Configure printers and printer policies and manage print drivers and printer bandwidth.</li>
+  <li>Create and configure Citrix  administrators and their permissions.</li>
+  <li>Configure display and SpeedScreen settings.</li>
+  <li>Configure ICA encryption, SSL Relay and Secure Gateway.</li>
+  <li>Install and configure  Installation Manager.</li>
+  <li>Identify the key features of Citrix XenApp Platinum Edition additional components.</li>
+</ul>

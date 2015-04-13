@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Perform a local media-based installation of Windows Server 2012.</li>
+  <li>Select appropriate storage technologies and configure storage on a Windows Server.</li>
+  <li>Describe fundamental network components and terminology so you can select an appropriate network component.</li>
+  <li>Implement a network by selecting network hardware components and technologies and determine the appropriate network hardware and wiring components for a given situation.</li>
+  <li>Describe the protocols and services within the Transmission Control Protocol/Internet Protocol (TCP/IP) suite of protocols and implement IPv4 within a Windows Server environment.</li>
+  <li>Describe and implement server roles.</li>
+  <li>Implement and configure an Active Directory Domain Service (AD DS) forest.</li>
+  <li>Describe the concept of defense-in-depth and determine how to implement this approach with Windows Server.</li>
+  <li>Identify the security features in Windows Server that help to provide defense-in-depth.</li>
+  <li>Identify the network-related security features in Windows Server to mitigate security threats to your network.</li>
+  <li>Identify and implement additional software components to enhance your organization’s security.</li>
+  <li>Monitor a server to determine the performance level.</li>
+  <li>Identify the Windows Server tools available to maintain and troubleshoot Windows Server.</li>
+</ul>

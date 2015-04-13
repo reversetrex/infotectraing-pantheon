@@ -1,0 +1,9 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Use frames to display several pages of Web content within a single browser window. </li>
+  <li> Add user navigation components to your site, including search, image maps, and a table of contents. </li>
+  <li> Create Web forms and save collected data to a file and a database. </li>
+  <li> Add dynamic content to Web pages. </li>
+  <li> Manage workgroup-based development of FrontPage webs. </li>
+  <li> Maintain a site with FrontPage tools. </li>
+</ul>

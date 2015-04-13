@@ -1,0 +1,2 @@
+<p><strong>After completing this course, students will be able to:</strong></p>
+<blockquote>Explore  new service applications, powershell features, monitoring improvements, search  features, backup and recovery techniques and a full coverage of upgrading to  2010.</blockquote>

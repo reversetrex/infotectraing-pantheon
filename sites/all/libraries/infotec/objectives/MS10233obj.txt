@@ -1,0 +1,16 @@
+<p><strong>After  completing this course, students will be able to:</strong></p>
+
+  <ul>
+    <li>Gather the information required to  design a messaging system</li>
+    <li>Design the integration of Exchange  Server with the current infrastructure.</li>
+    <li>Design the deployment of the Mailbox  server services in Exchange Server 2010.</li>
+    <li>Design the Client Access server  deployment.</li>
+    <li>Design the Hub Transport server and  Edge Transport server deployments.</li>
+    <li>Plan and deploy messaging security.</li>
+    <li>Plan and deploy a messaging policy  and compliance solution.</li>
+    <li>Plan a highly available Exchange  Server 2010 deployment.</li>
+    <li>Plan a disaster recovery solution in  Exchange Server 2010.</li>
+    <li>Develop a plan for monitoring and  troubleshooting the Exchange Server environment.</li>
+    <li>Plan and implement a transition from  Exchange Server 2003 or Exchange Server 2007 to Exchange Server 2010.</li>
+    <li>Integrate Exchange  Server 2010 with other messaging systems and with federated partners.</li>
+  </ul>

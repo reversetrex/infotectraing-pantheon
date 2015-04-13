@@ -1,0 +1,35 @@
+<p><strong> Unit 1: Managing Symbols and Instances </strong></p>
+<ul>
+  <li> Convert an Object to a Graphic Symbol </li>
+  <li>Create a Movie Clip Symbol </li>
+  <li>Create Button Symbols </li>
+  <li>Manage Symbols </li>
+</ul>
+<p><strong> Unit 2: Organizing Projects </strong></p>
+<ul>
+  <li> Create a Scene </li>
+  <li>Add Labels to a Timeline </li>
+  <li>Compress an Image </li>
+</ul>
+<p><strong> Unit 3: Creating Interactivity in Flash </strong></p>
+<ul>
+  <li> Switch Scenes </li>
+  <li>Build a Navigation Structure</li>
+  <li>Create a Preloader </li>
+</ul>
+<p><strong> Unit 4: Working with Sounds </strong></p>
+<ul>
+  <li> Import Audio </li>
+  <li>Control Event and Streaming Sounds </li>
+</ul>
+<p><strong> Unit 5: Working with Video Objects </strong></p>
+<ul>
+  <li> Encode a Video Object </li>
+  <li>Create a Video Object </li>
+  <li>Apply a Skin to a Component </li>
+</ul>
+<p><strong> Unit 6: Publishing a Flash Movie </strong></p>
+<ul>
+  <li> Explore the Testing Environment </li>
+  <li>Customize the Publish Settings </li>
+</ul>

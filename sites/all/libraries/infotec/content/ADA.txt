@@ -1,0 +1,23 @@
+<h2>Session 1</h2>
+  <h3>Section A: Understanding ADA</h3>
+  <ul>
+    <li>What is ADA?</li>
+    <li>ADA Defined</li>
+    <li>Disability vs. Ability</li>
+    <li>Following the Law</li>
+  </ul>
+  <h3>Section B: Disability Accommodations</h3>
+  <ul>
+    <li>Reasonable Accommodation</li>
+    <li>Accommodation Examples</li>
+    <li>Three Options</li>
+    <li>Unreasonable Accommodations</li>
+    <li>Equal Access</li>
+    <li>Request Documentation</li>
+  </ul>
+  <h3>Section C: Best Practices</h3>
+  <ul>
+    <li>Obligations as an Employer</li>
+    <li>Obligation Example</li>
+    <li>Government Assistance</li>
+  </ul>

@@ -1,0 +1,86 @@
+<p><strong>Module 1: Overview of the Windows 8 Platform and Windows Store Apps</strong></p>
+<p>This module describes the Windows 8 platform and features and the basics of a Windows Store app interface. It also explains how to create and style a simple Windows Store app by using Visual Studio and Blend.</p>
+<ul>
+  <li>Introduction to the Windows 8 Platform</li>
+  <li>Windows 8 User Interface Principles</li>
+  <li>WinRT and Language Projections</li>
+</ul>
+<p><strong>Module 2: Creating User Interfaces using XAML</strong></p>
+<p>This module explains how to create the User Interface by using XAML, and how to style a simple Windows Store app by using Visual Studio and Blend.</p>
+<ul>
+  <li>XAML Basics</li>
+  <li>XAML Code-Behind</li>
+  <li>Advanced XAML</li>
+</ul>
+<p><strong>Module 3: Presenting Data</strong></p>
+<p>This module explains how to present data in the user interface using data binding.</p>
+<ul>
+  <li>Working with Data Presentation Controls</li>
+  <li>The GridView Control</li>
+</ul>
+<p><strong>Module 4: Implementing Layout using Windows 8 Built-In Controls</strong></p>
+<p>This module explains how to implement the AppBar and layout controls.</p>
+<ul>
+  <li>WinRT</li>
+  <li>Windows 8 Layout Controls</li>
+  <li>The AppBar Control</li>
+  <li>Snap and Scale</li>
+</ul>
+<p><strong>Module 5: Handling Files in Windows Store Apps</strong></p>
+<p>This module explains how to handle files and streams.</p>
+<ul>
+  <li>Handling Files and Streams in Windows Store Apps</li>
+  <li>Working with File User Interface Components</li>
+</ul>
+<p><strong>Module 6: Windows Store App Process Lifetime Management</strong></p>
+<p>This module describes how to respond to application lifecycle events using Process Lifetime Management and the PLM extensibility points provided by the Visual Studio 2012 templates.</p>
+<ul>
+  <li>Process Lifetime Management</li>
+  <li>Launching Windows Store Apps</li>
+  <li>Implementing State Management Strategy</li>
+</ul>
+<p><strong>Module 7: Working with Templates and Resources</strong></p>
+<p>This module explains how to use templates when creating the user interface.</p>
+<ul>
+  <li>Implementing Templates</li>
+  <li>Creating Shared Resources</li>
+</ul>
+<p><strong>Module 8: Designing and Implementing Navigation in a Windows Store App</strong></p>
+<p>This module explains how to handle navigation scenarios in a Windows Store app and implement Semantic Zoom.</p>
+<ul>
+  <li>Handling Navigation in Windows Store Apps</li>
+  <li>Semantic Zoom</li>
+</ul>
+<p><strong>Module 9: Implementing Windows 8 Contracts</strong></p>
+<p>This module explains how to design and implement Windows 8 contracts such as Search, Share and Settings.</p>
+<ul>
+  <li>Designing for Charms and Contracts</li>
+  <li>The Search Contract</li>
+  <li>The Share Contract</li>
+  <li>Managing App Settings and Preferences</li>
+</ul>
+<p><strong>Module 10: Implementing Tiles and User Notifications</strong></p>
+<p>This module explains how to implement tiles and toast notifications in a Windows Store app.</p>
+<ul>
+  <li>Implementing Tiles, Live Tiles, Secondary Tiles and Badge Notifications</li>
+  <li>Implementing Toast Notifications</li>
+</ul>
+<p><strong>Module 11: Designing and Implementing a Data Access Strategy</strong></p>
+<p>This module explains how to implement various data access scenarios for Windows Store apps.</p>
+<ul>
+  <li>Evaluating Data Access Strategies</li>
+  <li>Working with Remote Data</li>
+</ul>
+<p><strong>Module 12: Responding to Mouse, Keyboard and Touch</strong></p>
+<p>This module explains how to respond to mouse, keyboard and touch events, including gestures.</p>
+<ul>
+  <li>Working with Mouse Events</li>
+  <li>Working with Gesture Events</li>
+</ul>
+<p><strong>Module 13: Planning for Windows Store App Deployment</strong></p>
+<p>This module explains how to deploy their Windows Store apps to the Windows Store or an enterprise store.</p>
+<ul>
+  <li>The Windows Store App Manifest</li>
+  <li>Windows Store App Certification</li>
+  <li>Enterprise App Deployment</li>
+</ul>

@@ -1,0 +1,117 @@
+<p><strong>Module 1: Exploring ASP.NET MVC4</strong></p>
+<blockquote>The goal of this module is to outline to the students the components of the Microsoft Web Technologies stack, which can be used to host a completed web application. Students will also learn about ASP.NET 4.5 and be introduced to the web forms, web pages, and MVC programming models. Finally they will see an overview of ASP.NET MVC 4, including new features and configuration.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Microsoft Web Technologies</li>
+  <li>Overview of ASP.NET 4.5</li>
+  <li>Introduction to ASP.NET MVC 4</li>
+</ul>
+<p><strong>Module 2: Designing ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal of this module is to introduce students to the typical design process that architects must complete when they plan an MVC 4 application. At this stage in the design process, MVC 4 has been selected as the most appropriate programming model, but the details of the application, such as the overall architecture, Controllers, Views, Models, and routes to create, have not been fixed. How to plan such details is shown during this module.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Planning in the Project Design Phase</li>
+  <li>Designing Models, Controllers, and Views</li>
+</ul>
+<p><strong>Module 3: Developing ASP.NET MVC 4 Models</strong></p>
+<blockquote>The goal of this module is to enable the students to create Models within an MVC application that implement the business logic necessary to satisfy business requirements. The module also describes how to implement a connection to a database, or alternative data store, using the Entity Framework and LINQ.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Creating MVC Models</li>
+  <li>Working with Data</li>
+</ul>
+<p><strong>Module 4: Developing ASP.NET MVC 4 Controllers</strong></p>
+<blockquote>The goal of this module is to enable students to add Controllers to MVC applications and to implement actions that respond to user input and other events. The students will learn how Controllers relate to Models and how to implement Controller actions that define the View used to display or edit data. This module also covers how to write action filters that run code before or after multiple actions in the Controller. The students will learn about situations when action filters are useful.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Writing Controllers and Actions</li>
+  <li>Writing Action Filters</li>
+</ul>
+<p><strong>Module 5: Developing ASP.NET MVC 4 Views</strong></p>
+<blockquote>The goal of this module is to describe the role of Views in an MVC web application and enable users to create and code them. The syntax of a Razor View is of critical importance for students to understand because it defines both the layout and the functionality of the data display. HTML Helpers will also be discussed in detail and common Helpers, such as Html.ActionLink() and Html.EditorFor(), will be described. Reusing code by defining Partial Views and Razor Helpers will be discussed as well.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Creating Views with Razor Syntax</li>
+  <li>Using HTML Helpers</li>
+  <li>Reusing Code in Views</li>
+</ul>
+<p><strong>Module 6: Testing and Debugging ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal of this module is to enable students to increase the resilience and quality of an application by locating and correcting code errors, bugs, and other unexpected results. MVC applications are well suited to unit testing techniques and these techniques ensure a high quality of code by systematically testing the functionality of each small component. In addition the debugging tools and exception handling available in Visual Studio will be explained.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Unit Testing MVC Components</li>
+  <li>Implementing an Exception Handling Strategy</li>
+</ul>
+<p><strong>Module 7: Structuring ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal of this module is to enable students to structure a web application in such a way that users can rapidly locate the information they need. Two aspects of the design are emphasized: the URLs presented in the browser address bar should be understandable and can be controlled by adding routes to the ASP.NET Routing Engine, and the navigation controls, such as menus and breadcrumb trails, should present the most relevant links to frequently read pages. Search Engine Optimization is important throughout this module.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Analyzing Information Architecture</li>
+  <li>Configuring Routes</li>
+  <li>Creating a Navigation Structure</li>
+</ul>
+<p><strong>Module 8: Applying Styles to ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal of this module is to explore how students can impose a consistent look and feel to an MVC application and share other common components, such as headers and footers, between all Views. Besides describing CSS styles and template views, the module will discuss how to migrate a look and feel created by a web designer into an MVC application. Techniques for adapting the display of a site for small screens and mobile devices will also be introduced.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Using Template Views</li>
+  <li>Applying CSS to an MVC Application</li>
+  <li>Creating an Adaptive User Interface</li>
+</ul>
+<p><strong>Module 9: Building Responsive Pages in ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal of this module is to describe to the students how partial page updates and caching can optimize the responsiveness of a web application. Students will see how to make use of AJAX helpers and partial views to update small portions of a page instead of refreshing the entire page. The module also covers the different caches developers can use to store rendered pages and discusses how to configure caching for maximum performance.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Using AJAX and Partial Page Updates</li>
+  <li>Implementing a Caching Strategy</li>
+</ul>
+<p><strong>Module 10: Using JavaScript and jQuery for Responsive MVC 4 Web Applications</strong></p>
+<blockquote>The goal of this module is to teach the students techniques that run code on the browser. This approach can increase the responsiveness of the application because a rendered page can respond to a user action without reloading the entire page from the server. Students will learn about the jQuery script library and how to use it to call web services and update user interface components.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Rendering and Executing JavaScript Code</li>
+  <li>Using jQuery and jQueryUI</li>
+</ul>
+<p><strong>Module 11: Controlling Access to ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal of this module to ensure good security in terms of strong authentication and authorization for access. The lessons describe how to enable anonymous users to create their own user account and gain privileged access to content.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Implementing Authentication and Authorization</li>
+  <li>Assigning Roles and Membership</li>
+</ul>
+<p><strong>Module 12: Building a Resilient ASP.NET MVC 4 Web Application</strong></p>
+<blockquote>The goal of this module is to enable the students to build applications that are stable and reliable. Such applications are not vulnerable to common hacking techniques such as cross-site scripting and also store state information such as the contents of a shopping cart and user preferences. This state information is preserved when servers or browsers restart, connections are lost, and other connectivity issues occur.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Developing Secure Sites</li>
+  <li>State Management</li>
+</ul>
+<p><strong>Module 13: Using Windows Azure Web Services in ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal of this module is to introduce Windows Azure to the students and explain why a developer would write a Windows Azure service instead of code in a web application. Students will also see how to write such a service and call it from a web application or from other applications, such as a mobile device app.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Introducing Windows Azure</li>
+  <li>Designing and Writing Windows Azure Services</li>
+  <li>Consuming Windows Azure Services in a Web Application</li>
+</ul>
+<p><strong>Module 14: Implementing Web APIs in ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal of the module is to introduce the concept of a Web API to students and to describe how to make an application’s core functionality more broadly available for integration into other web and mobile applications. Students will learn about the new Web API feature of MVC 4 and see how to build a RESTful Web API and call it from other applications.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Developing a Web API</li>
+  <li>Calling a Web API from Mobile and Web Applications</li>
+</ul>
+<p><strong>Module 15: Handling Requests in ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal of this module is to describe how to write components that intercept requests from browsers before they are received by MVC Controllers. These components include HTTP Modules, HTTP Handlers, and the Web Sockets protocol. The module describes scenarios in which developers use such components and shows how to add them to an MVC application.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Using HTTP Modules and HTTP Handlers</li>
+  <li>Using Web Sockets</li>
+</ul>
+<p><strong>Module 16: Deploying ASP.NET MVC 4 Web Applications</strong></p>
+<blockquote>The goal for this module is to enable students to deploy a completed MVC application to a web server or Windows Azure. The module begins by describing testing, staging, and production deployments and the web server environments required for each. It also describes the advantages and disadvantages of using Windows Azure to host the application. Students also see all the available deployment options in Visual Studio.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Deploying a Web Application</li>
+  <li>Deploying an MVC 4 Application</li>
+</ul>

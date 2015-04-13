@@ -1,0 +1,28 @@
+<h2>Session 1</h2>
+  <h3>Section A: Better Business Writing</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Know Your Audience</li>
+  </ul>
+  <h3>Section B: Practice the Basics</h3>
+  <ul>
+    <li>Spelling</li>
+    <li>Punctuation</li>
+    <li>Usage</li>
+  </ul>
+  <h3>Section C: Developing a Style</h3>
+  <ul>
+    <li>Defining Style</li>
+    <li>Finding Your Style</li>
+    <li>Improving Style</li>
+  </ul>
+  <h3>Section D: Form and Format</h3>
+  <ul>
+    <li>Selecting a Format</li>
+    <li>Formatting</li>
+  </ul>
+  <h3>Section E: Writing Persuasively</h3>
+  <ul>
+    <li>Motivated Sequence</li>
+    <li>Conclusion</li>
+  </ul>

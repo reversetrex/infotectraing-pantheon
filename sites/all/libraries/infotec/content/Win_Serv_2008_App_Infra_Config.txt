@@ -1,0 +1,268 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Prerequisites</li>
+    <li>MCTS and MCITP</li>
+    <li>Exam 70-643</li>
+    <li>Understanding Application Infrastructure</li>
+  </ul>
+  <h3>Section B: Deploying Images</h3>
+  <ul>
+    <li>Installing from Media</li>
+    <li>IFM Facts</li>
+    <li>Lab Overview</li>
+    <li>Creating IFM Media</li>
+    <li>Windows Deployment Services</li>
+    <li>WDS Knowledge Demands</li>
+    <li>Capturing Images</li>
+    <li>Deploying Images</li>
+    <li>Understanding Server Core</li>
+    <li>Server Core Roles</li>
+  </ul>
+  <h3>Section C: Configuring Deployment</h3>
+  <ul>
+    <li>Reviewing Lab Configuration</li>
+    <li>Adding WDS Role</li>
+    <li>Configuring WDS</li>
+    <li>Adding Boot Image</li>
+    <li>Adding Install Image</li>
+  </ul>
+  <h3>Section D: Windows Activation</h3>
+  <ul>
+    <li>Activation Key Types</li>
+    <li>Using MAKs</li>
+    <li>Key Management Services</li>
+    <li>KMS Commands</li>
+    <li>KMS Facts</li>
+    <li>License States</li>
+    <li>Creating DNS SRV Record</li>
+  </ul>
+  <h3>Section E: Hyper-V</h3>
+  <ul>
+    <li>Virtualization</li>
+    <li>Architectures</li>
+    <li>Virtualization Benefits</li>
+    <li>Scenarios for Virtualization</li>
+    <li>Virtual PC</li>
+    <li>Understanding Hyper-V</li>
+    <li>Requirements</li>
+    <li>Features</li>
+    <li>Virtualization Planning</li>
+  </ul>
+  <h3>Section F: Working with Hyper-V</h3>
+  <ul>
+    <li>VM Status</li>
+    <li>Global Settings</li>
+    <li>VM Settings</li>
+    <li>Creating a VM</li>
+    <li>Changing VM Settings</li>
+    <li>Copying a VM</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: High Availability</h3>
+  <ul>
+    <li>Availability Defined</li>
+    <li>Availability Facts</li>
+    <li>Scalability</li>
+    <li>Load Balancing</li>
+    <li>Hardware Redundancy</li>
+    <li>Data Redundancy</li>
+    <li>RAID</li>
+  </ul>
+  <h3>Section B: Configuring Availability</h3>
+  <ul>
+    <li>Configuration</li>
+    <li>Network Load Balancing</li>
+    <li>NLB Modes</li>
+    <li>Synchronization</li>
+    <li>NLB Cluster Parameters</li>
+    <li>NLB Port Rules</li>
+    <li>Installing NLB</li>
+    <li>Configuring NLB</li>
+  </ul>
+  <h3>Section C: Configuring Storage</h3>
+  <ul>
+    <li>Understanding RAID</li>
+    <li>Network Attached Storage</li>
+    <li>Storage Area Network</li>
+    <li>Virtual Disk API</li>
+    <li>Logical Unit Number</li>
+    <li>iSCSI Connections</li>
+    <li>Mount Points</li>
+    <li>Storage Explorer</li>
+    <li>Enabling Drives</li>
+    <li>Creating Arrays</li>
+  </ul>
+  <h3>Section D: Terminal Services</h3>
+  <ul>
+    <li>Terminal Services Defined</li>
+    <li>TS Applications</li>
+    <li>TS Features</li>
+    <li>Client Support</li>
+    <li>Reviewing the Lab</li>
+    <li>Installing TS</li>
+    <li>Connecting to TS</li>
+    <li>Enabling Remote Desktop</li>
+  </ul>
+  <h3>Section E: Remote Desktop</h3>
+  <ul>
+    <li>RD Features</li>
+    <li>RD New Features</li>
+    <li>Configuring Connections</li>
+    <li>MSTSC</li>
+    <li>Remote Desktop Snap-in</li>
+    <li>Single Sign-On</li>
+    <li>Enabling SSO</li>
+    <li>Terminal Services Profiles</li>
+  </ul>
+  <h3>Section F: TS Licensing and Configuration</h3>
+  <ul>
+    <li>Licensing Server</li>
+    <li>Understanding TS and Licensing</li>
+    <li>License Backup and Recovery</li>
+    <li>Client Access Licenses</li>
+    <li>Remote Desktop Protocol</li>
+    <li>Configuring TS Permissions</li>
+  </ul>
+  <h3>Section G: Monitoring TS</h3>
+  <ul>
+    <li>Adding WSRM</li>
+    <li>Configuring WSRM</li>
+    <li>Resource Management Tools</li>
+    <li>Process Utilities</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Terminal Services Gateways</h3>
+  <ul>
+    <li>TS Gateway</li>
+    <li>TS Gateway Remote Access</li>
+    <li>Three Requirements</li>
+    <li>Installing TS Gateway</li>
+    <li>Connection Authorization Policy</li>
+  </ul>
+  <h3>Section B: Application Availability</h3>
+  <ul>
+    <li>Installing Programs</li>
+    <li>Installing Web Access</li>
+    <li>Publishing an Application</li>
+    <li>Launching Remote Apps</li>
+  </ul>
+  <h3>Section C: TS Load Balancing</h3>
+  <ul>
+    <li>TS Session Broker</li>
+    <li>Installing Session Broker</li>
+    <li>Configuring Farm Member</li>
+    <li>Allowing User Connections</li>
+  </ul>
+  <h3>Section D: IIS 7.0</h3>
+  <ul>
+    <li>IIS History</li>
+    <li>IIS 6.0 Focus</li>
+    <li>IIS 7.0 Focus</li>
+    <li>IIS 6.0 vs 7.0 Architecture</li>
+    <li>Microsoft's Web Platform</li>
+    <li>Simpler Configuration</li>
+    <li>Installing IIS</li>
+    <li>Verifying IIS Installation</li>
+  </ul>
+  <h3>Section E: Managing IIS 7.0</h3>
+  <ul>
+    <li>Managing Global Settings</li>
+    <li>Configure Logging</li>
+    <li>Administrator Delegation</li>
+    <li>Monitoring IIS</li>
+    <li>Using APPCMD</li>
+    <li>Backing Up</li>
+  </ul>
+  <h3>Section F: Web Applications</h3>
+  <ul>
+    <li>Application Pools</li>
+    <li>.NET and ASPX</li>
+    <li>Treating Application Pool</li>
+    <li>Basic Settings</li>
+    <li>General Settings</li>
+    <li>CPU Settings</li>
+    <li>Recycling Settings</li>
+    <li>Application Assignment</li>
+  </ul>
+  <h3>Section G: Managing Web Sites</h3>
+  <ul>
+    <li>Publishing Web Sites</li>
+    <li>Migrating IIS 6.0 Sites</li>
+    <li>Creating Web Sites Using APPCMD</li>
+    <li>Adding Content Using APPCMD</li>
+    <li>Creating Web Site Using IIS Manager</li>
+    <li>Creating Virtual Directory</li>
+    <li>Configuring IP Addresses</li>
+    <li>Editing Site Bindings</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: File Transfer Protocol</h3>
+  <ul>
+    <li>FTP Defined</li>
+    <li>IIS 7.0 FTP</li>
+    <li>FTP Server Versions</li>
+    <li>Installing FTP6</li>
+    <li>Verifying FTP Connectivity</li>
+    <li>Default Location Properties</li>
+    <li>FTP6 Properties</li>
+    <li>Removing FTP Role</li>
+    <li>Installing FTP7</li>
+    <li>Creating FTP Site Binding</li>
+  </ul>
+  <h3>Section B: Simple Mail Transfer Protocol</h3>
+  <ul>
+    <li>SMTP Introduction</li>
+    <li>Installing SMTP</li>
+    <li>Configuring SMTP Properties</li>
+    <li>SMTP Access Properties</li>
+    <li>SMTP Message Properties</li>
+    <li>SMTP Routing and Delivery</li>
+    <li>SMTP Security Properties</li>
+    <li>Adding SMTP Virtual Servers</li>
+  </ul>
+  <h3>Section C: Web Server Security</h3>
+  <ul>
+    <li>Web Authentication</li>
+    <li>URL Authorization</li>
+    <li>Understanding SSL</li>
+    <li>Configuring Authentication</li>
+    <li>Managing URL Authorization</li>
+  </ul>
+  <h3>Section D: Windows Media Server</h3>
+  <ul>
+    <li>Media Services</li>
+    <li>Media Delivery</li>
+    <li>Adding Streaming Media Services</li>
+    <li>Managing WMS Authorization</li>
+    <li>WMS Logging</li>
+    <li>Publishing Points</li>
+    <li>WMS Security</li>
+    <li>Digital Rights Management</li>
+    <li>DRM Encryption</li>
+  </ul>
+  <h3>Section E: Windows SharePoint Services</h3>
+  <ul>
+    <li>SharePoint Services</li>
+    <li>SharePoint Applications</li>
+    <li>WSS Solutions</li>
+    <li>Storage Management</li>
+    <li>Collaboration</li>
+    <li>Information Management</li>
+    <li>Planning Installation</li>
+    <li>Minimum Server Requirements</li>
+  </ul>
+  <h3>Section F: SharePoint Content Management</h3>
+  <ul>
+    <li>Installing WSS</li>
+    <li>Configuration Wizard</li>
+    <li>Site Provisioning</li>
+    <li>Site Collection</li>
+    <li>Central Administration</li>
+    <li>Enabling Incoming E-mail</li>
+    <li>Enabling Outgoing E-mail</li>
+    <li>Creating New Web Application</li>
+    <li>Creating New Site Collection</li>
+    <li>Managing Site Content</li>
+    <li>Backing Up Site Content</li>
+  </ul>

@@ -1,0 +1,11 @@
+<p> Upon successful completion of this course, learners are able to perform the following: </p>
+<ul>
+  <li> Determine when and how to use monitoring tools to administer network environments running Presentation Server software </li>
+  <li> Configure Resource Manager and the Resource Manager Web Console to record historical data and create reports </li>
+  <li> Monitor and troubleshoot connectivity to the data store </li>
+  <li> Monitor and troubleshoot the Citrix IMA Service and the ICA communication channel </li>
+  <li>Monitor, optimize and troubleshoot client performance and slow logons </li>
+  <li> Monitor, optimize and troubleshoot published applications </li>
+  <li> Monitor, optimize and troubleshoot printing and printing policies </li>
+  <li> Monitor, optimize and troubleshoot Web Interface and Secure Gateway </li>
+</ul>

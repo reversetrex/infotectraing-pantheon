@@ -1,0 +1,13 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Understand the Windows Presentation Foundation framework architecture and design concepts.</li>
+  <li>Use WPF built-in controls from both Visual Studio and Expression Blend.</li>
+  <li>Read and write XAML declarative language.</li>
+  <li>Arrange controls using the WPF layout system.</li>
+  <li>Work with data in WPF based applications using Data Binding.</li>
+  <li>Create a rich user interface with 2D vector graphics, media, and animation.</li>
+  <li>Provide themes and styles to applications by restyling controls.</li>
+  <li>Work with WPF in a multithreaded environment.</li>
+  <li>Implement WPF interoperability with Win32 and Windows Forms controls.</li>
+</ul>

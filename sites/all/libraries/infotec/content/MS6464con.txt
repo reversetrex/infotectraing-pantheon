@@ -1,0 +1,117 @@
+<p><strong>Module 1: Getting Started with ADO.NET 3.5</strong></p>
+<p>This module explains how to connect to a  database and retrieve data by using ADO.NET commands.</p>
+<ol>
+  <li>The Structure of ADO.NET 3.5</li>
+  <li>Connecting to a Database and Retrieving Data</li>
+  <li>Best Practices for Managing Connections and Performing Queries</li>
+</ol>
+<p><strong>Lab: Connecting to a Database and  Retrieving Data</strong></p>
+<ol>
+  <li>Connecting to a Database</li>
+  <li>Executing a Simple Query</li>
+  <li>Executing a Query That Returns a Result Set</li>
+  <li>Executing a Query That Requires Parameters</li>
+</ol>
+<p>After completing this module, students will  be able to:</p>
+<ol>
+  <li>Describe the purpose and structure of ADO.NET 3.5.</li>
+  <li>Explain the role of data providers in ADO.NET 3.5.</li>
+  <li>List the technologies and techniques available for managing data with ADO.NET 3.5.</li>
+</ol>
+
+<p><strong>Module 2: Modifying Data by Using ADO.NET  Commands</strong></p>
+<p>This module explains how to modify data by using ADO.NET commands.</p>
+<ol>
+  <li>Inserting, Updating, and Deleting Data</li>
+  <li>Managing Data Integrity and Concurrency</li>
+</ol>
+<p><strong>Lab: Modifying Data by Using ADO.NET  Commands</strong></p>
+<ol>
+  <li>Inserting, Updating, and Deleting Data in a Database</li>
+  <li>Implementing Transactional Updates</li>
+  <li>Executing Commands Asynchronously</li>
+</ol>
+<p>After completing this module, students will  be able to:</p>
+<ol>
+  <li>Insert, update, and delete data by using ADO.NET Command objects.</li>
+  <li>Implement transactions to control data integrity and concurrency.</li>
+</ol>
+
+<p><strong>Module 3: Querying and Maintaining Data by  Using DataSets</strong></p>
+<p>This module explains how to use DataSets to  fetch and modify data, and act as a local data cache.</p>
+<ol>
+  <li>Creating and Using a DataSet to Retrieve Data</li>
+  <li>Updating a Database by Using a DataSet</li>
+  <li>Using a DataSet in an Occasionally Connected Environment</li>
+</ol>
+<p><strong>Lab: Using a DataSet to Retrieve and Modify Data</strong></p>
+<ol>
+  <li>Creating a Typed DataSet</li>
+  <li>Retrieving Data into a DataSet</li>
+  <li>Modifying Data in a DataSet</li>
+  <li>Saving a DataSet and Resolving Conflicts</li>
+</ol>
+<p>After completing this module, students will  be able to:</p>
+<ol>
+  <li>Define and use a DataSet for retrieving data.</li>
+  <li>Use a DataSet to update a database.</li>
+  <li>Use a DataSet as a local cache in an occasionally connected environment.</li>
+</ol>
+
+<p><strong>Module 4: Querying and Maintaining Data by Using LINQ</strong></p>
+<p>This module explains how to use LINQ to  retrieve and update data.</p>
+<ol>
+  <li>Querying In-Memory Data by Using LINQ Query Expressions</li>
+  <li>Retrieving Data by Using LINQ to SQL</li>
+  <li>Modifying Data by Using LINQ to SQL</li>
+</ol>
+<p><strong>Lab: Using LINQ to SQL to Retrieve and  Modify Data</strong></p>
+<ol>
+  <li>Querying Data by Using LINQ to SQL Query Expressions</li>
+  <li>Retrieving Data by Using LINQ to SQL Entity Classes</li>
+  <li>Modifying Data by Using LINQ to SQL</li>
+</ol>
+<p>After completing this module, students will  be able to:</p>
+<ol>
+  <li>Define LINQ queries for selecting data from an in-memory data structure.</li>
+  <li>Use LINQ to SQL to query data in a database.</li>
+  <li>Use LINQ to SQL to modify data and save changes to the database.</li>
+</ol>
+
+<p><strong>Module 5: Implementing an Entity Model by Using the ADO.NET Entity Framework</strong></p>
+<p>This module explains how to use the Entity  Framework to implement an entity data model for querying and maintaining data.</p>
+<ol>
+  <li>Creating an Entity Data Model by Using the ADO.NET Entity Framework</li>
+  <li>Querying and Modifying Data by Using the ADO.NET Entity Framework</li>
+</ol>
+<p><strong>Lab: Using the ADO.NET Entity Framework to Implement an Entity Data Model</strong></p>
+<ol>
+  <li>Creating an Entity Data Model</li>
+  <li>Querying and Modifying Data in an Entity Data Model</li>
+  <li>Instantiating and Manipulating Entities by Using Object Services</li>
+</ol>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Explain how to use the ADO.NET Entity Framework to map a database schema to a logical business model.</li>
+  <li>Use the ADO.NET Entity Framework to query and manage data.</li>
+</ol>
+
+<p><strong>Module 6: Building Occasionally Connected  Solutions by Using Synchronization Services</strong></p>
+<ol>
+  <li>This module explains how to use  Synchronization Services to build occasionally connected solutions.</li>
+  <li>Understanding Microsoft Synchronization Services</li>
+  <li>Downloading Data by Using Synchronization Services</li>
+  <li>Uploading Data by Using Synchronization Services</li>
+</ol>
+<p><strong>Lab: Building Occasionally Connected  Solutions by Using Synchronization Services</strong></p>
+<ol>
+  <li>Modifying a Database Schema to Support Synchronization</li>
+  <li>Downloading Data to a Client Computer</li>
+  <li>Uploading Data Changes to the Database</li>
+</ol>
+<p>After completing this module, students will  be able to:</p>
+<ol>
+  <li>Explain how Synchronization Services supports occasionally-connected solutions.</li>
+  <li>Use Synchronization Services to download data from a SQL Server database.</li>
+  <li>Use Synchronization Services to upload data to a SQL Server database.</li>
+</ol>

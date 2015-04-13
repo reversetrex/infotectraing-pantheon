@@ -1,0 +1,1 @@
+Data ONTAP 8 is the next generation data storage operating system from NetApp. In this course, you will learn the evolution of clustered Data ONTAP, utilize new features such as flash pool and infinite volumes, understand the benefits of scalability, be able to explain the architecture and functionality of a Data ONTAP, and be able to configure and manage, a Data ONTAP cluster.

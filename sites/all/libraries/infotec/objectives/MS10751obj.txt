@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan for the private cloud.</li>
+  <li>Configure and deploy the private cloud infrastructure.</li>
+  <li>Extend and maintain the private cloud infrastructure.</li>
+  <li>Configure virtual application delivery.</li>
+  <li>Create the private cloud building blocks.</li>
+  <li>Deploy and access the first business unit private cloud.</li>
+  <li>Monitor the private cloud infrastructure.</li>
+  <li>Extend and customize monitoring of the private cloud infrastructure.</li>
+  <li>Implement service management for the private cloud.</li>
+  <li>Configure a private cloud service catalog.</li>
+  <li>Protect the private cloud infrastructure.</li>
+  <li>Automate and standardize the private cloud.</li>
+</ul>

@@ -1,0 +1,132 @@
+<p><strong>Lesson 1: An Overview of Access 2003</strong></p>
+
+<ul>
+  <li>Understand  Relational Databases</li>
+  <li>Examine  the Access Environment</li>
+  <li>Open  the Database Environment</li>
+  <li>Examine  an Access Table</li>
+</ul>
+
+<p><strong>Lesson 2: Managing Data</strong></p>
+
+<ul>
+  <li>Examine  an Access Form</li>
+  <li>Add and  Delete Records</li>
+  <li>Sort  Records</li>
+  <li>Display  Record sets</li>
+  <li>Update  Records</li>
+  <li>Run a  Report</li>
+</ul>
+
+<p><strong>Lesson 3: Establishing Table Relationships</strong></p>
+
+<ul>
+  <li>Identify  Table Relationships</li>
+  <li>Identify  Primary and Foreign Keys in the Relationships Window</li>
+  <li>Work  with Subdatasheets</li>
+</ul>
+
+<p><strong>Lesson 4: Querying the Database</strong></p>
+
+<ul>
+  <li>Create  a Select Query</li>
+  <li>Add  Criteria to a Query</li>
+  <li>Add a  Calculated Field to a Query</li>
+  <li>Perform  a Calculation on a Record Grouping</li>
+</ul>
+
+<p><strong>Lesson 5: Designing Forms</strong></p>
+
+<ul>
+  <li>Examine  Form Design Guidelines</li>
+  <li>Create  a Form Using AutoForm</li>
+  <li>Create  a Form Using the Form Wizard</li>
+  <li>Modify  the Design of a Form</li>
+</ul>
+
+<p><strong>Lesson 6: Producing Reports</strong></p>
+
+<ul>
+  <li>Create  an AutoReport</li>
+  <li>Create  a Report by Using the Wizard</li>
+  <li>Examine  a Report in Design View</li>
+  <li>Add a  Calculated Field to a Report</li>
+  <li>Modify  the Format Properties of a Control</li>
+  <li>AutoFormat  a Report</li>
+  <li>Adjust  the Width of a Report</li>
+</ul>
+
+<p><strong>Lesson 7: Planning a Database</strong></p>
+
+<ul>
+  <li>Design  a Relational Database</li>
+  <li>Identify  Database Purpose</li>
+  <li>Review  Existing Data</li>
+  <li>Determine  Fields</li>
+  <li>Group  Fields into Tables</li>
+  <li>Normalize  the Data</li>
+  <li>Designate  Primary and Foreign Keys</li>
+</ul>
+
+<p><strong>Lesson 8: Building the Structure of a Database</strong></p>
+
+<ul>
+  <li>Create  a New Database</li>
+  <li>Create  a Table Using a Wizard</li>
+  <li>Create  Tables in Design View</li>
+  <li>Create  Relationships between Tables</li>
+</ul>
+
+<p><strong>Lesson 9: Controlling Data Entry</strong></p>
+
+<ul>
+  <li>Restrict  Data Entry with Field Properties</li>
+  <li>Create  an Input Mask</li>
+  <li>Create  a Lookup Field</li>
+</ul>
+
+<p><strong>Lesson 10: Finding and Joining Data</strong></p>
+
+<ul>
+  <li>Find  Data with Filters</li>
+  <li>Create  Query Joins</li>
+  <li>Join  Unrelated Tables</li>
+  <li>Relate  Data Within a Table</li>
+</ul>
+
+<p><strong>Lesson 11: Creating Flexible Queries</strong></p>
+
+<ul>
+  <li>Set  Select Query Properties</li>
+  <li>Create  Parameter Queries</li>
+  <li>Create  Action Queries</li>
+</ul>
+
+<p><strong>Lesson 12: Improving Your Forms</strong></p>
+
+<ul>
+  <li>Enhance  the Appearance of a Form</li>
+  <li>Restrict  Data Entry in Forms</li>
+  <li>Add  Command Buttons</li>
+  <li>Create  a Subform</li>
+</ul>
+
+<p><strong>Lesson 13: Customizing Your Reports</strong></p>
+
+<ul>
+  <li>Organize  Report Information</li>
+  <li>Set Report Control Properties</li>
+  <li>Control Report Pagination</li>
+  <li>Summarize Information</li>
+  <li>Add a Subreport to an Existing Report</li>
+  <li>Create Mailing Labels</li>
+</ul>
+
+<p><strong>Lesson 14: Expanding the Reach of Your Data</strong></p>
+
+<ul>
+  <li>Publish  Access Data as a Word Document</li>
+  <li>Analyze  Access Data in Excel</li>
+  <li>Export  Data to a Text File</li>
+  <li>Merge  Access Data with a Word Document</li>
+</ul>

@@ -1,0 +1,1 @@
+<p>After completing this course, students will be able to explore all the new end-user features exposed in SharePoint 2010. Students will learn to navigate the new ribbon, work with Social computing features like tagging and ranking, and use the new My Sites features.</p>

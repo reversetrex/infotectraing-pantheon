@@ -1,0 +1,129 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction to Windows 7</h3>
+  <ul>
+    <li>Editions</li>
+    <li>Home Premium</li>
+    <li>Gadgets</li>
+    <li>Professional</li>
+    <li>Ultimate</li>
+    <li>System Requirements</li>
+    <li>Installing</li>
+  </ul>
+  <h3>Section B: Exploring Windows 7</h3>
+  <ul>
+    <li>Startup</li>
+    <li>Logging On</li>
+    <li>The Desktop</li>
+    <li>The Start Menu</li>
+    <li>Search Field</li>
+    <li>Shut Down</li>
+    <li>The Taskbar</li>
+    <li>Notification Area</li>
+    <li>Help and Support</li>
+  </ul>
+  <h3>Section C: Navigating Windows and Folders</h3>
+  <ul>
+    <li>Organization and Navigation</li>
+    <li>Hot Keys</li>
+    <li>Hiding/Displaying Windows</li>
+    <li>Jump List</li>
+    <li>Files and Folders</li>
+    <li>File Structure</li>
+    <li>Explorer Features</li>
+    <li>Accessing Network Drives</li>
+  </ul>
+  <h3>Section D: Managing Files and Folders</h3>
+  <ul>
+    <li>Viewing Files and Folders</li>
+    <li>Folder Content</li>
+    <li>Folder Options</li>
+    <li>File Properties</li>
+    <li>Properties Dialog Box</li>
+    <li>Folder Properties</li>
+    <li>Renaming</li>
+    <li>Creating a Folder</li>
+    <li>Copying Files</li>
+    <li>Compressing</li>
+    <li>Deleting</li>
+  </ul>
+  <h3>Section E: Personalizing Windows</h3>
+  <ul>
+    <li>Desktop Themes</li>
+    <li>Desktop Background</li>
+    <li>Sounds</li>
+    <li>Screen Saver</li>
+    <li>Screen Resolution</li>
+    <li>Advanced Settings</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: System Settings</h3>
+  <ul>
+    <li>Start Menu Settings</li>
+    <li>Taskbar Customization</li>
+    <li>Taskbar Toolbars</li>
+    <li>Taskbar Properties</li>
+    <li>Notification Area</li>
+    <li>Date and Time Settings</li>
+    <li>Computer Name</li>
+    <li>Power Options</li>
+  </ul>
+  <h3>Section B: The Control Panel</h3>
+  <ul>
+    <li>Control Panel Categories</li>
+    <li>Accessing the Control Panel</li>
+    <li>User Account Control</li>
+    <li>System Information</li>
+  </ul>
+  <h3>Section C: Network Connections</h3>
+  <ul>
+    <li>Connecting to a Network</li>
+    <li>Adding a Network Connection</li>
+    <li>Set a Network Location</li>
+    <li>Creating a Homegroup</li>
+    <li>Homegroup Settings</li>
+    <li>Leaving a Homegroup</li>
+    <li>Sharing Files and Folders</li>
+    <li>Sharing Settings</li>
+    <li>Adaptor/Connector Settings</li>
+  </ul>
+  <h3>Section D: Connecting to the Web</h3>
+  <ul>
+    <li>Internet Connection</li>
+    <li>Internet Explorer 8</li>
+    <li>Addresses</li>
+    <li>Web Sites</li>
+    <li>Internet Explorer Toolbars</li>
+    <li>Tabbed Browsing</li>
+    <li>Tab Settings</li>
+    <li>Tab Lists</li>
+    <li>Browsing History</li>
+  </ul>
+  <h3>Section E: Personalizing Internet Explorer 8</h3>
+  <ul>
+    <li>Your Home Page</li>
+    <li>Font Settings</li>
+    <li>Color Settings</li>
+    <li>Changing Your Home Page</li>
+    <li>Removing a Homepage</li>
+    <li>Setting Default Programs</li>
+  </ul>
+  <h3>Section F: Updating the System</h3>
+  <ul>
+    <li>Updates</li>
+    <li>Update Settings</li>
+    <li>Installing an Update</li>
+  </ul>
+  <h3>Section G: Set Up Hardware Devices</h3>
+  <ul>
+    <li>Peripheral Devices</li>
+    <li>Ports</li>
+    <li>USB/FireWire</li>
+    <li>Installing Devices</li>
+    <li>Device Properties</li>
+    <li>Adding Network Printers</li>
+    <li>Printer Sharing</li>
+    <li>Sound Settings</li>
+    <li>Speech Recognition</li>
+    <li>Mouse Keyboard Properties</li>
+    <li>System Information</li>
+  </ul>

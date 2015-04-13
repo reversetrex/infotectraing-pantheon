@@ -1,0 +1,98 @@
+<p><strong>Module 1: Working with Projects - This module provides an overview of the Project management and accounting   module in Microsoft Dynamics AX. It describes creating a project, project   hierarchies, and activity breakdown structures. It also describes project details, project groups, and project stages.</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Project Details</li>
+  <li>Project Group</li>
+  <li>Project Numbering</li>
+  <li>Project Hierarchies</li>
+  <li>Report Sort Fields</li>
+  <li>Work Breakdown Structure</li>
+  <li>Project Copy Wizard</li>
+  <li>Project Stages</li>
+</ul>
+<p><strong>Module 2: Understanding Project Types - This module discusses the accounting principles involved with the project types supported in Microsoft Dynamics AX module, Project management and accounting.</strong></p>
+<ul>
+  <li>Project Types</li>
+  <li>Time and Material Projects</li>
+  <li>Processing a Time and Material Project</li>
+  <li>Time and Material Project Example</li>
+  <li>Fixed-Price Projects</li>
+  <li>Fixed-Price Project Example</li>
+  <li>Internal Projects</li>
+  <li>Cost Project Example</li>
+  <li>Time Projects</li>
+  <li>Investment Projects</li>
+  <li>Project Groups</li>
+</ul>
+<p><strong>Module 3: Working with Project Transactions - This module explains how transaction types are managed and processed in the Microsoft Dynamics AX Project management and accounting module.</strong></p>
+<ul>
+  <li>Transaction Types</li>
+  <li>Categories and Category Groups</li>
+  <li>Project Pricing</li>
+  <li>Line Properties</li>
+  <li>Hour Transactions</li>
+  <li>Hours Journal</li>
+  <li>Expense Transactions</li>
+  <li>Expense Journals</li>
+  <li>Invoice Journals and Invoice Registers</li>
+  <li>Free Text Invoices</li>
+  <li>Item Transactions</li>
+  <li>Item Journals</li>
+  <li>Item Requirements</li>
+  <li>Purchase Orders</li>
+  <li>Purchase Requisitions</li>
+  <li>Production Orders</li>
+  <li>Sales Orders</li>
+  <li>Beginning Balances</li>
+  <li>Review Project Transactions</li>
+  <li>Adjusting Transactions</li>
+  <li>Journal Setup</li>
+  <li>Journal Approval</li>
+  <li>Journal Descriptions</li>
+  <li>Ledger Posting Setup</li>
+  <li>Posting Setup by Project Group or Category</li>
+</ul>
+<p><strong>Module 4: Project Timesheets - This module explains how workers (employees and contractors) use project   timesheets to enter and approve hours through the Enterprise Portal or the Microsoft Dynamics AX client.</strong></p>
+<ul>
+  <li>Timesheet Periods</li>
+  <li>Set Up Timesheet-Related Parameters</li>
+  <li>Configuring Timesheet Workflows</li>
+  <li>Set Up Favorites</li>
+  <li>Set Up Delegates</li>
+  <li>Timesheet Creation</li>
+  <li>Timesheet Approval</li>
+  <li>Missing Timesheets Report</li>
+</ul>
+<p><strong>Module 5: Project Invoicing - This module describes how Microsoft Dynamics AX uses two methods to invoice based on the type of project. While time and   material (T&amp;M) projects use the invoice proposal form to create invoices based on the transactions posted to the project, fixed-price projects use predefined payment amounts that are based on predefined milestones in the project.</strong></p>
+<ul>
+  <li>Invoicing Setup</li>
+  <li>Project Contracts</li>
+  <li>Billing Requirements for Transactions</li>
+  <li>Invoice Proposals</li>
+  <li>On-Account Invoicing</li>
+  <li>View Posted Invoices</li>
+  <li>Credit Notes</li>
+</ul>
+<p><strong>Module 6: Project Budgeting - This module explains the project budgeting functionality within Microsoft   Dynamics AX. By comparing budget and actuals, your organization can reallocate money and resources to meet budgetary goals.</strong></p>
+<ul>
+  <li>Budget Approval Workflow</li>
+  <li>Original Budgets</li>
+  <li>Project Budget Properties</li>
+  <li>Allocate Budgets</li>
+  <li>View Budget Impact</li>
+  <li>View Budget Balances</li>
+  <li>Budget Revisions</li>
+  <li>Committed Costs</li>
+  <li>Carry Forward Budget Amounts at Year   End</li>
+</ul>
+<p><strong>Module 7: Project Inquiries and Reports - This module includes inquiries, reports, and statistics forms so you can access information needed to run projects effectively. It also describes the Microsoft Excel and Microsoft Online Analytical Processing (OLAP) integration.</strong></p>
+<ul>
+  <li>Project Control</li>
+  <li>Excel Integration with Project Control</li>
+  <li>Reports</li>
+  <li>OLAP Integration</li>
+</ul>
+<p><strong>Module 8: Project Management and Accounting Setup - This module provides a reference for the set up of parameters of the Project management and accounting module in Microsoft Dynamics AX. The correct setup is necessary to use this module.</strong></p>
+<ul>
+  <li>Settings</li>
+</ul>

@@ -1,0 +1,46 @@
+<p><strong>Lesson 1: Establishing Database Connectivity</strong></p>
+<blockquote>
+  <p>
+    Topic 1A: Connect to a Server<br />
+    Topic 1B: Identify the Components of a Database-Driven Site<br />
+    Topic 1C: Create a Connection to the Database<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Working with Recordsets</strong></p>
+<blockquote>
+  <p>
+    Topic 2A: Create Recordsets<br />
+    Topic 2B: Display Records<br />
+    Topic 2C: Navigate Through Recordsets<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Creating Interactive Page Elements</strong></p>
+<blockquote>
+  <p>
+    Topic 3A: Create Master and Detail Pages<br />
+    Topic 3B: Create Search and Results Pages<br />
+    Topic 3C: Use Dynamic Form Elements<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Administering Records</strong></p>
+<blockquote>
+  <p>
+    Topic 4A: Insert Records<br />
+    Topic 4B: Edit Records<br />
+    Topic 4C: Delete Records<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Creating User Authentication Systems</strong></p>
+<blockquote>
+  <p>
+    Topic 5A: Create User Registration Forms<br />
+    Topic 5B: Secure Web Pages<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Administering Websites</strong></p>
+<blockquote>
+  <p>
+    Topic 6A: Transfer Files to Servers<br />
+    Topic 6B: Manage Websites<br />
+  </p>
+</blockquote>

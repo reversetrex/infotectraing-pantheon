@@ -1,0 +1,19 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>identify the components of the Outlook environment. You will also perform simple tasks such as sending and responding to email messages.</li>
+  <li>compose messages.</li>
+  <li>use folders to organize messages.</li>
+  <li>manage contacts and contact information.</li>
+  <li>schedule appointments.</li>
+  <li>schedule meetings.</li>
+  <li>create and edit tasks.</li>
+  <li>create and edit notes.</li>
+  <li>customize the calendar by setting various calendar options.</li>
+  <li>set message options.</li>
+  <li>track work activities using the Journal.</li>
+  <li>assign and track tasks.</li>
+  <li>share folder information.</li>
+  <li>customize the Outlook environment.</li>
+  <li>sort, find, and color-code items in your mailbox and calendar.</li>
+  <li>work  with public folders.</li>
+</ul>

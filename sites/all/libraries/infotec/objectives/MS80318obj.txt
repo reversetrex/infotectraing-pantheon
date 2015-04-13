@@ -1,0 +1,22 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Identify available reporting features in Microsoft Dynamics AX 2012</li>
+    <li>Explain how reporting features are used in Microsoft Dynamics AX 2012</li>
+    <li>Explain how Role Centers make use of other reporting features in Microsoft Dynamics AX 2012</li>
+    <li>Describe the SQL Server Reporting Services installation procedure and prerequisites</li>
+    <li>Identify the tools used to develop and deploy reports for Microsoft Dynamics AX 2012</li>
+    <li>Explain the process for developing reports by using Visual Studio</li>
+    <li>List the three options for deploying reports</li>
+    <li>Describe how SSRS reports can be used within Microsoft Dynamics AX 2012</li>
+    <li>Provide an overview of SQL Server Analysis Services features and capabilities</li>
+    <li>Describe the SQL Server Analysis Services installation procedure and prerequisites</li>
+    <li>Develop cubes by using Business Intelligence Development Studio</li>
+    <li>Display data in a Role Center web part using SQL Server Analysis Services</li>
+    <li>Create a report in Microsoft Dynamics AX 2012 that uses data from a SQL Server Analysis Services cube</li>
+    <li>Analyze cube data</li>
+    <li>Describe Enterprise Portal improvements</li>
+    <li>Install Enterprise Portal and role centers</li>
+    <li>Modify existing role centers</li>
+    <li>Create new role centers</li>
+    <li>Troubleshoot issues with role centers</li>
+</ul>

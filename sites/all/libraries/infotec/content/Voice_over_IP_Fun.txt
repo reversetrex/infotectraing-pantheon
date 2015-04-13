@@ -1,0 +1,305 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Telephony Training</li>
+    <li>Why VoIP Matters</li>
+    <li>CCNA Voice Defined</li>
+    <li>ICOMM 8.0 Objectives</li>
+    <li>Course Organization</li>
+  </ul>
+  <h3>Section B: Telephony Principles</h3>
+  <ul>
+    <li>The Human Voice</li>
+    <li>Early Voice Technologies</li>
+    <li>Human Speech</li>
+    <li>Voice to Signal</li>
+    <li>The Human Ear</li>
+    <li>Signal to Voice</li>
+    <li>Traditional Telephones</li>
+    <li>Telephone Companies</li>
+  </ul>
+  <h3>Section C: PSTN Components</h3>
+  <ul>
+    <li>PSTN</li>
+    <li>PSTN Lines</li>
+    <li>Local Exchange</li>
+    <li>Interoffice Switching</li>
+    <li>CO Hierarchy</li>
+    <li>Anatomy of a Call</li>
+    <li>Business PSTN Connections</li>
+    <li>PBX Hardware</li>
+  </ul>
+  <h3>Section D: Numbering Systems</h3>
+  <ul>
+    <li>Dialing Plans</li>
+    <li>Numbering Plans</li>
+    <li>NANP Rules</li>
+    <li>NANP Review</li>
+    <li>Internal Numbering Plans</li>
+    <li>Digit Manipulation</li>
+    <li>Manipulation Commands</li>
+    <li>Dial Plan Preparation</li>
+    <li>Path Selection</li>
+    <li>Call Coverage</li>
+    <li>Grade of Service</li>
+    <li>Dial Plan Considerations</li>
+  </ul>
+  <h3>Section E: Packetization</h3>
+  <ul>
+    <li>Analog to Digital</li>
+    <li>Sampling</li>
+    <li>H.261 and H.264</li>
+    <li>G.7xx</li>
+    <li>µ-Law and A-Law</li>
+    <li>Voice to Packet and Back</li>
+  </ul>
+  <h3>Section F: Supporting Protocols</h3>
+  <ul>
+    <li>TCP vs. UDP</li>
+    <li>RTP</li>
+    <li>RTCP and cRTP</li>
+    <li>SRTP</li>
+  </ul>
+  <h3>Section G: Signaling Protocols</h3>
+  <ul>
+    <li>SCCP</li>
+    <li>MGCP</li>
+    <li>H.323</li>
+    <li>SIP</li>
+    <li>Network Topologies</li>
+    <li>Transmission Media</li>
+    <li>NAT and PAT</li>
+  </ul>
+  <h3>Section H: Codec Basics</h3>
+  <ul>
+    <li>Codecs</li>
+    <li>Codecs and Cisco</li>
+    <li>Selecting Codecs</li>
+    <li>Codec Complexity</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: UC Overview</h3>
+  <ul>
+    <li>Unified Communications</li>
+    <li>UC Applications</li>
+    <li>UC and the OSI Model</li>
+    <li>OSI Model Analogy</li>
+    <li>Networking Topologies</li>
+    <li>Three-Tier Design</li>
+    <li>Traffic Engineering</li>
+    <li>Traffic Shaping Model</li>
+  </ul>
+  <h3>Section B: Devices</h3>
+  <ul>
+    <li>Endpoints</li>
+    <li>Softphones</li>
+    <li>Infrastructure Devices</li>
+    <li>Networking Technologies</li>
+  </ul>
+  <h3>Section C: DSP Resources</h3>
+  <ul>
+    <li>Digital Signal Processors</li>
+    <li>DSP Functions</li>
+    <li>Transcoding and MTPs</li>
+    <li>DSP Farms</li>
+  </ul>
+  <h3>Section D: Analog Connections</h3>
+  <ul>
+    <li>IP Telephone Call Types</li>
+    <li>Analog Ports</li>
+    <li>Analog Signaling</li>
+    <li>FXS and FXO Signaling</li>
+    <li>E&amp;M Signaling</li>
+  </ul>
+  <h3>Section E: Digital Connections</h3>
+  <ul>
+    <li>Digital Port Types</li>
+    <li>Digital Trunks</li>
+    <li>Configuring a T1 Line</li>
+  </ul>
+  <h3>Section F: Contact Centers</h3>
+  <ul>
+    <li>Contact/Call Centers</li>
+    <li>A Call Center</li>
+    <li>Contact Center Management</li>
+    <li>Call Routing and Queuing</li>
+    <li>Call Recording</li>
+    <li>Interactive Voice Response</li>
+  </ul>
+  <h3>Section G: Voice Gateways</h3>
+  <ul>
+    <li>Voice Gateways Defined</li>
+    <li>H.323 Gateways</li>
+    <li>H.323 Benefits</li>
+    <li>MGCP Gateways</li>
+    <li>MGCP Benefits</li>
+    <li>SIP Gateways</li>
+    <li>SIP Benefits</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Understanding Dial-Peers</h3>
+  <ul>
+    <li>Dial-Peers</li>
+    <li>Call Legs</li>
+    <li>Dial-Peer Commands</li>
+    <li>Dial-Peer Wildcards</li>
+    <li>PLAR Connections</li>
+    <li>Call Processing</li>
+    <li>Dial-Peer Directions</li>
+  </ul>
+  <h3>Section B: VLANs in VoIP Networks</h3>
+  <ul>
+    <li>VLANs</li>
+    <li>VLAN Example</li>
+    <li>VLAN Tagging</li>
+    <li>VLAN Trunk Example</li>
+    <li>VLAN Trunking Protocol</li>
+    <li>VTP Modes</li>
+    <li>Voice VLANs</li>
+    <li>Managing VLANs</li>
+  </ul>
+  <h3>Section C: VoIP and PoE</h3>
+  <ul>
+    <li>Power over Ethernet</li>
+    <li>Inline PoE/Midspan PoE</li>
+    <li>Endpoint PoE</li>
+    <li>802.3-2005: Clause 33</li>
+    <li>PoE Fault Protection</li>
+    <li>PoE Classes</li>
+    <li>Cisco PoE Modes</li>
+    <li>Configuring PoE</li>
+  </ul>
+  <h3>Section D: QoS in Voice Networks</h3>
+  <ul>
+    <li>Mobility</li>
+    <li>Potential VoIP Problems</li>
+    <li>Jitter Buffers</li>
+    <li>Network Analysis</li>
+    <li>Impact of Voice Data</li>
+    <li>Packet Size/Performance</li>
+    <li>Convergence</li>
+  </ul>
+  <h3>Section E: QoS Protocols</h3>
+  <ul>
+    <li>Voice Packet Requirements</li>
+    <li>Mean Opinion Scores</li>
+    <li>IP Precedence</li>
+    <li>DiffServ</li>
+    <li>802.1p/Q</li>
+    <li>Alternative QoS Solutions</li>
+    <li>The Right Solution</li>
+  </ul>
+  <h3>Section F: Voice Gatekeepers</h3>
+  <ul>
+    <li>Gatekeepers</li>
+    <li>Zones</li>
+    <li>Types of Gatekeepers</li>
+    <li>Gatekeeper Signaling</li>
+    <li>Gatekeeper Interactions</li>
+    <li>Dynamic Zone Prefix</li>
+    <li>Gatekeeper Fault Tolerance</li>
+  </ul>
+  <h3>Section G: Cisco Call Managers</h3>
+  <ul>
+    <li>CUCME</li>
+    <li>CUCME Device Restrictions</li>
+    <li>Planning a CUCME Installation</li>
+    <li>CUCME Installation</li>
+    <li>CUCM</li>
+    <li>Planning a CUCM Installation</li>
+    <li>Installing CUCM</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: User Accounts</h3>
+  <ul>
+    <li>User Creation Options</li>
+    <li>Creating Users in CUCME</li>
+    <li>End User Properties</li>
+  </ul>
+  <h3>Section B: IP Phones</h3>
+  <ul>
+    <li>Cisco IP Phone Installation</li>
+    <li>Phone Boot Process</li>
+    <li>DHCP Configuration</li>
+    <li>TFTP Configuration</li>
+    <li>NTP Configuration</li>
+  </ul>
+  <h3>Section C: Endpoints</h3>
+  <ul>
+    <li>Creating/Modifying Endpoints in CUCME</li>
+    <li>Creating an Endpoint in the CLI</li>
+    <li>Creating/Modifying Endpoints in CUCM</li>
+  </ul>
+  <h3>Section D: Calling Privileges</h3>
+  <ul>
+    <li>Calling Privilege Details</li>
+    <li>CoS Configuration Components</li>
+    <li>Partitions</li>
+    <li>Time-of-Day Routing</li>
+    <li>Time Periods and Scheduling</li>
+    <li>CMCs/FACs</li>
+    <li>PLAR</li>
+  </ul>
+  <h3>Section E: Configuring Features</h3>
+  <ul>
+    <li>Barge/Privacy</li>
+    <li>Barge/cBarge</li>
+    <li>Call Blocking</li>
+    <li>Configuring Blocking and Logout</li>
+    <li>Call Park</li>
+    <li>Call Transfer/Forwarding</li>
+    <li>Intercom</li>
+    <li>Intercom Setup</li>
+    <li>Native Presence</li>
+    <li>Mobility in CUCM</li>
+    <li>Verifying Features</li>
+  </ul>
+  <h3>Section F: Maintaining CUCM</h3>
+  <ul>
+    <li>CDR Reports</li>
+    <li>CMR Reports</li>
+    <li>Accessing Reports in CUCM</li>
+    <li>System Backups</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Supporting Users</h3>
+  <ul>
+    <li>PSTN Connectivity</li>
+    <li>Show Connectivity</li>
+    <li>Voice Ports/Verify Service</li>
+  </ul>
+  <h3>Section B: Voice Messaging and Cisco Unity</h3>
+  <ul>
+    <li>Cisco Voice Messaging</li>
+    <li>Unity Express Hardware</li>
+    <li>Unity Express Features</li>
+    <li>Installing Unity</li>
+    <li>Administering Unity</li>
+  </ul>
+  <h3>Section C: Understanding and Managing Presence</h3>
+  <ul>
+    <li>Presence</li>
+    <li>Mobility</li>
+    <li>Mobility Advantage</li>
+    <li>IP Communicator</li>
+    <li>Cisco Unified Mobile Communicator</li>
+    <li>Dual-Mode Phones</li>
+    <li>Configuring Unified Presence</li>
+  </ul>
+  <h3>Section D: Troubleshooting VoIP</h3>
+  <ul>
+    <li>Assessing Connection</li>
+    <li>Common Problems</li>
+    <li>Symptoms</li>
+    <li>Monitoring Tools</li>
+    <li>Using Pathping</li>
+  </ul>
+  <h3>Section E: VoIP Security</h3>
+  <ul>
+    <li>Security Problems</li>
+    <li>Attack Points</li>
+    <li>Hacking Examples</li>
+    <li>Perimeter Security</li>
+    <li>Connection Security</li>
+    <li>Security Monitoring</li>
+  </ul>

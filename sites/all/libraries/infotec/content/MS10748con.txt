@@ -1,0 +1,56 @@
+<h3>Overview of Microsoft System Center 2012 Configuration Manager</h3>
+<ul>
+  <li>Introduction to Configuration Manager 2012</li>
+  <li>Overview of the Configuration Manager Server Infrastructure</li>
+  <li>Configuration Manager 2012 Deployment Scenarios</li>
+  <li>Overview of the Configuration Manager 2012 Client</li>
+</ul>
+<h3>Planning and Deploying a Single-Site Architecture</h3>
+<ul>
+  <li>Preparing to Deploy a Configuration Manager 2012 Site</li>
+  <li>Installing a Configuration Manager 2012 Site Server</li>
+  <li>Performing Post-Setup Configuration Tasks</li>
+  <li>Tools for Monitoring and Troubleshooting a Configuration Manager 2012 Installation</li>
+  <li>Managing Internet-Based Clients</li>
+</ul>
+<h3>Planning and Configuring Role-Based Administration</h3>
+<ul>
+  <li>Overview of Role-Based Administration</li>
+  <li>Identifying Roles</li>
+  <li>Configuring Role-Based Administration</li>
+</ul>
+<h3>Planning and Deploying a Multiple-Site Hierarchy</h3>
+<ul>
+  <li>Introduction to the Configuration Manager 2012 Site Hierarchy</li>
+  <li>Introduction to the Role of a Central Administration Site</li>
+  <li>Installing a Central Administration Site</li>
+  <li>Installing a Primary Site in a Hierarchy</li>
+  <li>Installing a Secondary Site</li>
+</ul>
+<h3>Monitoring and Troubleshooting Data Replication</h3>
+<ul>
+  <li>Introduction to Data Types</li>
+  <li>Data Replication Throughout the Hierarchy</li>
+  <li>Monitoring and Troubleshooting Replication</li>
+</ul>
+<h3>Planning and Completing Client Deployment</h3>
+<ul>
+  <li>Introduction to Discovery Methods</li>
+  <li>Client Deployment Methods</li>
+  <li>Deploying Clients</li>
+  <li>Managing Configuration Manager 2012 Clients</li>
+  <li>Monitoring Client Health</li>
+</ul>
+<h3>Maintaining and Monitoring Microsoft System Center 2012 Configuration Manager</h3>
+<ul>
+  <li>Configuration Manager 2012 Maintenance Tasks</li>
+  <li>Performing Backup and Recovery of Configuration Manager 2012</li>
+  <li>Monitoring Site Systems</li>
+</ul>
+<h3>Migrating from System Center Configuration Manager 2007 to System Center 2012 Configuration Manager</h3>
+<ul>
+  <li>Overview of the Migration Process</li>
+  <li>Preparing Configuration Manager 2007 Sites for Migration</li>
+  <li>Configuring Migration Settings</li>
+  <li>Migrating Objects</li>
+</ul>

@@ -1,0 +1,9 @@
+<p>Upon completing this course, you will be able to meet these overall objectives:</p>
+<ul>
+ <li>Evaluate the data center solution design and design process in regards to the contemporary data center challenges, data center solution architecture, and components.</li>
+ <li>Assess the requirements and performance characteristics of the data center computing solutions.</li>
+ <li>Employ design steps to size the Cisco UCS solution for a given data center requirements.</li>
+ <li>Evaluate and design Cisco UCS solution LAN, SAN, and virtual access layer connectivity.</li>
+ <li>Recognize and design Cisco UCS solution server deployment.</li>
+ <li> Identify Cisco UCS solution for Unified Communications and Hadoop distributed computing application with their specifics and Cisco UCS options that fit the application needs.</li>
+</ul>

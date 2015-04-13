@@ -1,0 +1,12 @@
+<p>After completing this course, students will  be able to:</p>
+<ul>
+  <li>Describe SQL  Server Reporting Services and its components</li>
+  <li>Create a  Reporting Services report.</li>
+  <li>Enhance a Reporting  Services report.</li>
+  <li>Create and manipulate data sets.</li>
+  <li>Use report models to implement reporting for business users</li>
+  <li>Configure report publishing and execution settings.</li>
+  <li>Implement subscriptions for reports.</li>
+  <li>Administer Reporting Services.</li>
+  <li>Implement custom Reporting Services applications.</li>
+</ul>

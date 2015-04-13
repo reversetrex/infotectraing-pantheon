@@ -1,0 +1,14 @@
+<h2>Session 1</h2>
+  <h3>Section A: Workplace Etiquette</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Workplace Basics</li>
+    <li>Office Appearance</li>
+    <li>Office Behavior</li>
+    <li>Serving Customers</li>
+    <li>Communications</li>
+    <li>Work Relationships</li>
+    <li>Accepting Criticism</li>
+    <li>Conclusion</li>
+    <li>Credits</li>
+  </ul>

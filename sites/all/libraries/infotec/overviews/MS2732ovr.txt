@@ -1,0 +1,1 @@
+The goal of this five-day, instructor-led course is to provide systems engineers with the knowledge and skills necessary to effectively plan, deploy, and manage a Microsoft Office Project Server 2003 solution.

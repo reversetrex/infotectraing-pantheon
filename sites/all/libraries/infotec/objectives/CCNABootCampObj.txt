@@ -1,0 +1,20 @@
+<ul>
+  <li>Classify devices and functions their layer in the OSI model the purpose, use, structure, and definitions of the layers of the OSI model.</li>
+  <li>Choose the appropriate data communications transmission method (serial/parallel) and explain how encapsulation and de-encapsulation works for that transmission method.</li>
+  <li>Construct a point-to-point Ethernet LAN Show the sequence of steps used by IP Protocol operations to determine addresses.</li>
+  <li>Match issues related to increasing traffic on an Ethernet LAN to typical LAN environment.</li>
+  <li>Solve Ethernet networking issues using switched LAN technology.</li>
+  <li>Identify the specific Ethernet network interface (for e.g., EO, EI) by which a packet is forwarded on an Ethernet LAN.</li>
+  <li>Construct a topology and network addressing scheme.</li>
+  <li>Determine the type of transport protocol (TCP or UDP) and IP application used.</li>
+  <li>Define the fundamental technologies involved in a WAN environment.</li>
+  <li>Match the types of WAN media to their appropriate characteristics.</li>
+  <li>Use the available configuration tools to establish connectivity to the appropriate network device in order to complete the initial device configuration.</li>
+  <li>Configure a Catalyst switch for basic operations, given a need for plug-and-play operation.</li>
+  <li>Configure and troubleshoot Virtual LANs (VLANs), given an operational access layer switch.</li>
+  <li>Configure and troubleshoot Routing Information Protocol (RIP), Interior Gateway Routing Protocol (IGRP), Enhanced Interior Gateway Routing Protocol (EIGRP), and Open Shortest Path First (OSPF), given operational routers.</li>
+  <li>Configure IP access lists, given a functioning router.</li>
+  <li>Configure serial interfaces using PPP and High-Level Data Link Control (HDLC), given a functioning router.</li>
+  <li>Configure Frame Relay, given functioning Cisco routers.</li>
+  <li>Configure DDR between two routers with Basic Rate interface (BRI) or Primary Rate Interface (PRI), given a functioning remote access router and a physical ISDN connection. </li>
+</ul>

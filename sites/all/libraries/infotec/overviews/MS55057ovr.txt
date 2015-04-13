@@ -1,0 +1,3 @@
+This three-day instructor-led course provides students with the necessary knowledge to work with PerformancePoint 2013 Service. The new and improved Business Intelligence Center is explored, and all the exciting new features within the SharePoint 2013 release are covered.
+<br><br>
+The focus of this course is on the SharePoint 2013 business intelligence platform and not on the SQL business intelligence services. PowerPivot and Dahboards have included modules.

@@ -1,0 +1,35 @@
+<strong>Lesson 1: Creating Forms</strong>
+<ul>
+  <li>Topic 1A: Create a Form with Basic Form Elements </li>
+  <li>Topic 1B: Ali Advanced Form Elements </li>
+  <li>Topic 1C: Enhance a Form's Appearance Using CSS </li>
+  <li>Topic 1D: Form Submission</li>
+</ul>
+
+<strong>Lesson 2: Creating Advanced Styles and Page Layouts</strong>
+<ul>
+  <li>Topic 2A: Create Complex Page Layouts </li>
+  <li>Topic 2B: Create a Box Layout with Rounded Corners Using CSS </li>
+  <li>Topic 2C: Create Advanced Styles Using CSS</li>
+</ul>
+
+<strong>Lesson 3: Optimizing a Website for Accessibility</strong>
+<ul>
+  <li>Topic 3A: Create a Breadcrumb </li>
+  <li>Topic 3B: Construct a Website with Accessibility Features </li>
+  <li>Topic 3C: Optimize a Website for Display on a Mobile Device</li>
+</ul>
+
+<strong>Lesson 4: Optimizing a Website for Search Engines</strong>
+<ul>
+  <li>Topic 4A: Make a Website Search Engine Friendly </li>
+  <li>Topic 4B: Create a Site Map</li>
+</ul>
+
+<strong>Lesson 5: Publishing a Website</strong>
+<ul>
+  <li>Topic 5A: Make a Website Printer Friendly Using CSS </li>
+  <li>Topic 5B: MIME Type Identification </li>
+  <li>Topic 5C: Test a Site on a Local Server </li>
+  <li>Topic 5D: Publish a Site on a Remote Server</li>
+</ul>

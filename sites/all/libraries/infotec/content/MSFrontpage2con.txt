@@ -1,0 +1,46 @@
+<p><strong> Unit 1: Laying Out a Page with Frames </strong></p>
+<ul>
+  <li> Create Frames Pages </li>
+  <li>Add Links to Frames Pages </li>
+  <li>Modify Frames </li>
+  <li>Create an Inline Frame </li>
+</ul>
+<p><strong> Unit 2: Adding User Navigation Components </strong></p>
+<ul>
+  <li> Add Search Capabilities </li>
+  <li>Create an Image Map </li>
+  <li>Insert a Link Bar </li>
+  <li>Create a Table of Contents </li>
+</ul>
+<p><strong> Unit 3: Working with Forms </strong></p>
+<ul>
+  <li> Create a Form </li>
+  <li>Modify Field Properties </li>
+  <li>Send Form Data to a File </li>
+  <li>Send Form Data to a Database </li>
+</ul>
+<p><strong> Unit 4: Displaying Dynamic Content </strong></p>
+<ul>
+  <li> Share Content Between Pages </li>
+  <li>Add an Interactive Button </li>
+  <li>Swap Images </li>
+  <li>Display Database Information on a Page </li>
+  <li>Insert Redirect Meta Tags </li>
+  <li>Add a Chart </li>
+</ul>
+<p><strong> Unit 5: Managing Workgroup Development </strong></p>
+<ul>
+  <li> Manage Tasks </li>
+  <li>Manage Files with Source Control </li>
+  <li>Manage a File's Review Status </li>
+  <li>Secure a Web </li>
+</ul>
+<p><strong> Unit 6: Maintaining a Site </strong></p>
+<ul>
+  <li> Manage Web Folders </li>
+  <li>Manage Web Files </li>
+  <li>Correct Broken Hyperlinks </li>
+  <li>Analyze a Web's Usage </li>
+  <li>Display a Top 10 List for Visitors </li>
+  <li>Change Default Documents </li>
+</ul>

@@ -1,0 +1,31 @@
+<p><strong>Lesson 1: Masking and Clipping Layers</strong></p>
+  Topic 1A: Edit an Image Using Quick Mask Overlay <br />
+  Topic 1B: Save and Edit a Selection as an Alpha Channel <br />
+  Topic 1C: Work with Layer Masks <br />
+  Topic 1D: Clip a Layer<br />
+
+<p><strong>Lesson 2: Masking with Vector Paths</strong></p>
+  Topic 2A: Create Vector Paths <br />
+  Topic 2B: Edit Paths <br />
+  Topic 2C: Mask Images with Paths<br />
+
+<p><strong>Lesson 3: Enhancing Photographs</strong></p>
+  Topic 3A: Retouch Photographs Using Photoshop Tools <br />
+  Topic 3B: Adjust Tonal Range Using Adjustment Layers <br />
+  Topic 3C: Create Patterns <br />
+  Topic 3D: Create Swatches and Gradients <br />
+  Topic 3E: Create a Custom Brush<br />
+
+<p><strong>Lesson 4: Creating Special Effects</strong></p>
+  Topic 4A: Preview Text Effects Using Layer Comps <br />
+  Topic 4B: Warp an Image <br />
+  Topic 4C: Work in Vanishing Point<br />
+
+<p><strong>Lesson 5: Working with Video Files</strong></p>
+  Topic 5A: Preview Videos in Photoshop <br />
+  Topic 5B: Retouch Videos<br />
+
+<p><strong>Lesson 6: Automating Tasks</strong></p>
+  Topic 6A: Create an Action <br />
+  Topic 6B: Manage Actions <br />
+  Topic 6C: Automate Tasks in Adobe Bridge<br /><br />

@@ -1,0 +1,39 @@
+<p><strong>Lesson 1: </strong>Getting Started with Visio 2013</p>
+<ul>
+  <li><strong>Topic A: </strong>Navigate the Visio Environment</li>
+  <li><strong>Topic B: </strong>Use Backstage Commands</li>
+  <li><strong>Topic C: </strong>Save a File</li>
+</ul>
+<p><strong>Lesson 2: </strong>Creating a Workflow Diagram</p>
+<ul>
+  <li><strong>Topic A: </strong>Use Drawing Components</li>
+  <li><strong>Topic B: </strong>Modify a Drawing</li>
+  <li><strong>Topic C: </strong>Callouts and Groups</li>
+</ul>
+<p><strong>Lesson 3: </strong>Creating an Organization Chart</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a Basic Organization Chart</li>
+  <li><strong>Topic B: </strong>Modify an Organization Chart</li>
+</ul>
+<p><strong>Lesson 4: </strong>Making a Floor Plan</p>
+<ul>
+  <li><strong>Topic A: </strong>Make a Basic Floor Plan</li>
+  <li><strong>Topic B: </strong>Model a Room Layout</li>
+</ul>
+<p><strong>Lesson 5: </strong>Creating a Cross-Functional Flowchart</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a Cross-Functional Flowchart</li>
+  <li><strong>Topic B: </strong>Format a Cross-Functional Flowchart</li>
+</ul>
+<p><strong>Lesson 6: </strong>Creating a Network Diagram</p>
+<ul>
+  <li><strong>Topic A: </strong>Network Diagrams</li>
+  <li><strong>Topic B: </strong>Use Shape Data</li>
+  <li><strong>Topic C: </strong>Use Layers</li>
+</ul>
+<p><strong>Lesson 7: </strong>Styling a Diagram</p>
+<ul>
+  <li><strong>Topic A: </strong>Shape and Connector Styles</li>
+  <li><strong>Topic B: </strong>Themes and Variants</li>
+  <li><strong>Topic C: </strong>Use Containers</li>
+</ul>

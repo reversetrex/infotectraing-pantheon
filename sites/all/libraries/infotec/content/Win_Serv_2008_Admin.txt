@@ -1,0 +1,302 @@
+<h2>Session 1</h2>
+  <h3>Section A: Course Overview</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Prerequisites</li>
+    <li>What's New in Server 2008</li>
+    <li>Server 2008 Editions</li>
+    <li>Server Requirements</li>
+    <li>Edition Differences</li>
+    <li>Special Considerations</li>
+  </ul>
+  <h3>Section B: Planning for Deployment</h3>
+  <ul>
+    <li>Licensing Choices</li>
+    <li>Server Core Installation</li>
+    <li>Installation Choices</li>
+    <li>Upgrade Choices</li>
+    <li>Performing an Upgrade</li>
+  </ul>
+  <h3>Section C: Installation Process</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Understanding BitLocker</li>
+    <li>Performing the Installation</li>
+    <li>Partitioning</li>
+    <li>Finishing the Installation</li>
+    <li>Configuring the Server</li>
+  </ul>
+  <h3>Section D: Windows Activation Methods</h3>
+  <ul>
+    <li>Activation Tools</li>
+    <li>Activation Considerations</li>
+    <li>VAMT</li>
+    <li>MAK to KMS Activations</li>
+    <li>rearm Evaluation</li>
+  </ul>
+  <h3>Section E: Automated Deployment</h3>
+  <ul>
+    <li>Deployment Options</li>
+    <li>Windows Deployment Services</li>
+    <li>Set Up Deployment Services Role</li>
+    <li>AIK ISO</li>
+    <li>Install AIK</li>
+    <li>Configure Deployment Services</li>
+    <li>PXE Sever Setup</li>
+    <li>Copy Setup Files</li>
+  </ul>
+  <h3>Section F: Multicast Installation</h3>
+  <ul>
+    <li>Transport Server Options</li>
+    <li>Create Multicast Transmission</li>
+    <li>View Multicast Properties</li>
+    <li>Troubleshooting Deployment</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: DHCP Server Roles</h3>
+  <ul>
+    <li>Infrastructure Services</li>
+    <li>DHCP and NAP Role</li>
+    <li>Configure DHCP Role</li>
+    <li>Install and Set Up Scope</li>
+  </ul>
+  <h3>Section B: DNS Server Role</h3>
+  <ul>
+    <li>Name Resolution</li>
+    <li>Managing Zones</li>
+    <li>WINS</li>
+    <li>GlobalNames Zone</li>
+    <li>Install DNS Role</li>
+    <li>Configure GlobalNames</li>
+  </ul>
+  <h3>Section C: Active Directory Role</h3>
+  <ul>
+    <li>Planning for AD Service</li>
+    <li>AD Maintenance and Auditing</li>
+    <li>AD Functional Levels</li>
+    <li>AD Services Placement</li>
+    <li>AD Branch Domain Controllers</li>
+    <li>Configure AD Services Roles</li>
+    <li>Site Configuration Options</li>
+  </ul>
+  <h3>Section D: File Server Role</h3>
+  <ul>
+    <li>Plan for File Service</li>
+    <li>Sharing Files</li>
+    <li>Offline Files</li>
+    <li>Configure File Role Services</li>
+    <li>Share Setup Options</li>
+  </ul>
+  <h3>Section E: File Management</h3>
+  <ul>
+    <li>File Server Resource Manager</li>
+    <li>Quotas</li>
+    <li>Add/Install Role Services</li>
+    <li>Using File Server Manager</li>
+    <li>File Screening</li>
+    <li>Applying File Screen Templates</li>
+    <li>Storage Reporting</li>
+  </ul>
+  <h3>Section F: Windows Search Service</h3>
+  <ul>
+    <li>Accessing Data</li>
+    <li>Add Windows Search Service</li>
+    <li>Using Windows Search Service</li>
+    <li>Advanced Options</li>
+  </ul>
+  <h3>Section G: Print Services Role</h3>
+  <ul>
+    <li>Print Services</li>
+    <li>Planning Print Services</li>
+    <li>Add Print Services</li>
+    <li>Add Network Printer</li>
+    <li>Print Management</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: DFS Namespaces</h3>
+  <ul>
+    <li>Managing Distributed Files</li>
+    <li>Stand-Alone Namespaces</li>
+    <li>Domain-Based Namespaces</li>
+    <li>Add DFS Services</li>
+    <li>Managing DFS</li>
+    <li>DFS Replication</li>
+    <li>DFS Implementations</li>
+    <li>DFS Tools</li>
+  </ul>
+  <h3>Section B: Application Server and Services</h3>
+  <ul>
+    <li>Planning for Application Services</li>
+    <li>Supporting Application Servers</li>
+    <li>Add Application Server Role</li>
+    <li>Configure the Service</li>
+  </ul>
+  <h3>Section C: Server Virtualization</h3>
+  <ul>
+    <li>Planning for Virtualization</li>
+    <li>Portability Benefits</li>
+    <li>Legacy Applications</li>
+    <li>Licensing Considerations</li>
+    <li>Add Hyper-V</li>
+    <li>Managing Hyper-V</li>
+    <li>Hyper-V Settings</li>
+    <li>Create Virtual Machine</li>
+    <li>Install OS Options</li>
+    <li>Start VM</li>
+  </ul>
+  <h3>Section D: Terminal Services</h3>
+  <ul>
+    <li>Implementing TS</li>
+    <li>Planning for TS</li>
+    <li>TS Considerations</li>
+    <li>TS Security and Configuration</li>
+    <li>Install TS Roles</li>
+    <li>Configuration TS Role</li>
+    <li>Authentication</li>
+    <li>Setup Prerequisites</li>
+  </ul>
+  <h3>Section E: Setting Up TS Options</h3>
+  <ul>
+    <li>TS Session Broker</li>
+    <li>TS Session Broker Configuration</li>
+    <li>Configuration for Terminal Server</li>
+    <li>TS Gateway</li>
+    <li>TS Gateway Manager</li>
+    <li>Connection Authorization Policies</li>
+    <li>Resource Authorization Policies</li>
+    <li>Client Connection</li>
+  </ul>
+  <h3>Section F: Terminal Service Application</h3>
+  <ul>
+    <li>TS RemoteApp</li>
+    <li>Configuring TS RemoteApp</li>
+    <li>RemoteApp Wizard</li>
+    <li>TS Web</li>
+    <li>TS Web Configuration</li>
+    <li>TS Web Access</li>
+    <li>Using TS Web</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Deploying Applications</h3>
+  <ul>
+    <li>Application Deployment</li>
+    <li>Deployment Options</li>
+    <li>Application Virtualization</li>
+    <li>Application Maintenance</li>
+  </ul>
+  <h3>Section B: Maintaining Server 2008</h3>
+  <ul>
+    <li>Management Tools</li>
+    <li>Server Management</li>
+    <li>Remote Management</li>
+    <li>Server Core</li>
+    <li>Using ServerManagerCMD</li>
+    <li>View Console Snap-in</li>
+  </ul>
+  <h3>Section C: Software Management</h3>
+  <ul>
+    <li>Change Management</li>
+    <li>Patch Management</li>
+    <li>Local Server Security</li>
+    <li>Auditing</li>
+  </ul>
+  <h3>Section D: Delegating Administration</h3>
+  <ul>
+    <li>Delegation Guidelines</li>
+    <li>Active Directory Delegation</li>
+    <li>Management Delegation</li>
+    <li>Create Delegate Group</li>
+    <li>Edit Group Authority</li>
+    <li>Delegate Server Management</li>
+    <li>Assigning Server Rights</li>
+  </ul>
+  <h3>Section E: Group Policy</h3>
+  <ul>
+    <li>Using Group Policy</li>
+    <li>Planning Group Policy</li>
+    <li>View Group Policy Manager</li>
+    <li>Maintaining Group Policy</li>
+    <li>ADMX Files</li>
+    <li>Creating Central Store</li>
+    <li>Creating Group Policy</li>
+  </ul>
+  <h3>Section F: Monitor Servers</h3>
+  <ul>
+    <li>Monitoring Tools</li>
+    <li>Event Viewer</li>
+    <li>Using Event Viewer</li>
+    <li>Application and Service Logs</li>
+    <li>Enterprise Monitoring</li>
+  </ul>
+  <h3>Section G: Performance</h3>
+  <ul>
+    <li>Performance Monitoring Tools</li>
+    <li>Working with Baselines</li>
+    <li>Reliability and Performance Monitor</li>
+    <li>Performance Monitor</li>
+    <li>Data Collector Sets</li>
+    <li>Collector Sets Report</li>
+    <li>Allocation of Resources</li>
+    <li>Managing with WSRM</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Security</h3>
+  <ul>
+    <li>Certificate Services</li>
+    <li>Certificate Options</li>
+    <li>CA Types</li>
+    <li>Add CA Role</li>
+    <li>Set Up and Install CA</li>
+    <li>PKI Considerations</li>
+    <li>Publish Trust Hierarchy</li>
+  </ul>
+  <h3>Section B: Access Control</h3>
+  <ul>
+    <li>Limiting Entry</li>
+    <li>Network Access Protection</li>
+    <li>Restriction Option</li>
+    <li>Use NPAS Service</li>
+    <li>Configure Scope Options</li>
+    <li>Set Up NAP Policy</li>
+    <li>NAP Ineligible Clients</li>
+    <li>Planning NAP Defense</li>
+    <li>Using 802.1 or IPSec</li>
+  </ul>
+  <h3>Section C: Remote Access</h3>
+  <ul>
+    <li>Server Remote Access Options</li>
+    <li>VPN Protocol SSTP</li>
+    <li>RADIUS Server</li>
+    <li>Add Remote Access Services</li>
+    <li>Create Remote Policy</li>
+  </ul>
+  <h3>Section D: Disaster Recovery</h3>
+  <ul>
+    <li>Business Continuity</li>
+    <li>Load Balancing</li>
+    <li>Clustering</li>
+    <li>Failover Control Process</li>
+    <li>Storage Solutions</li>
+    <li>SAN Solutions</li>
+  </ul>
+  <h3>Section E: Backup and Recovery</h3>
+  <ul>
+    <li>Contingency Plan</li>
+    <li>AD Data Recovery</li>
+    <li>AD Snapshop</li>
+    <li>Shadow Copy Service</li>
+    <li>EFS Recovery with DRA</li>
+    <li>BitLocker Recovery</li>
+    <li>Backing Up Data</li>
+    <li>Add Backup to Server Manager</li>
+    <li>Use Windows Server Backup</li>
+    <li>Restoring Data</li>
+  </ul>
+  <h3>Section F: Troubleshooting</h3>
+  <ul>
+    <li>System Tools</li>
+    <li>Disk and Memory Issues</li>
+    <li>Memory Diagnostics Tool</li>
+    <li>Security Troubleshooting</li>
+    <li>Network Troubleshooting</li>
+  </ul>

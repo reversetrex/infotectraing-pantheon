@@ -1,0 +1,22 @@
+<p>Upon successful completion of this course, learners are able to:</p>
+<ul>
+  <li>Identify the capabilities and functionality of the NetScaler.</li>
+  <li>Explain basic NetScaler network architecture.</li>
+  <li>Obtain, install, and manage NetScaler licenses.</li>
+  <li>Identify the capabilities and functionality of NetScaler Gateway.</li>
+  <li>Explain how SSL is used to secure the NetScaler.</li>
+  <li>Configure authentication for users on the NetScaler Gateway.</li>
+  <li>Implement authorization to determine to which resources users have access.</li>
+  <li>Configure the NetScaler for high availability.</li>
+  <li>Integrate NetScaler Gateway with Storefront or Web Interface to provide remote access for Web, SaaS and mobile apps.</li>
+  <li>Implement load balancing and GSLB on the NetScaler system.</li>
+  <li>Customize the NetScaler system for traffic flow and content-specific requirements.</li>
+  <li>Configure endpoint analysis to determine the level of access for specific devices.</li>
+  <li>Enable access to applications and data for user connections.</li>
+  <li>Demonstrate monitoring and reporting through native NetScaler logging tools.</li>
+  <li>Configure NetScaler Insight Center to monitor a desktop virtualization environment.</li>
+  <li>Employ recommended tools and techniques to troubleshoot common NetScaler network and connectivity issues.</li>
+  <li>Identify the unique capabilities and functionality of the NetScaler SDX platform.</li>
+  <li>Identify the networking characteristics of the NetScaler SDX platform.</li>
+  <li>Explain the process of provisioning and administration of NetScaler VPX instances on a NetScaler SDX appliance.</li>
+</ul>

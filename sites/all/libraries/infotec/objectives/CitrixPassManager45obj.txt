@@ -1,0 +1,8 @@
+<p>Upon completion of this course, learners are able to:</p>
+<ul>
+  <li>Install Citrix Password Manager 4.5</li>
+  <li>Create application definitions in the Console</li>
+  <li>Configure password management</li>
+  <li>Configure settings for agent software deployment</li>
+  <li>Identify advanced configurations such as Hot Desktop and Account Self-Service</li>
+</ul>

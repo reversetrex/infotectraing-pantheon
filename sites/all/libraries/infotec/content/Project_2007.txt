@@ -1,0 +1,223 @@
+<h2>Session 1</h2>
+  <h3>Section A: Course Overview</h3>
+  <ul>
+    <li>Nature of Project Management</li>
+    <li>Expected Course Outcomes</li>
+    <li>Project in Action</li>
+  </ul>
+  <h3>Section B: Project 2007</h3>
+  <ul>
+    <li>Solutions</li>
+    <li>Versions</li>
+    <li>New or Improved Features</li>
+  </ul>
+  <h3>Section C: Project Management 101</h3>
+  <ul>
+    <li>Operations vs. Projects</li>
+    <li>Project Definition</li>
+    <li>Project Knowledge Areas</li>
+    <li>Five Project Phases</li>
+    <li>Phase Interactions</li>
+  </ul>
+  <h3>Section D: Project 2007 Software</h3>
+  <ul>
+    <li>Discovering Project</li>
+    <li>Project Views</li>
+    <li>Tables</li>
+    <li>Interface Navigation</li>
+    <li>Output Options</li>
+  </ul>
+  <h3>Section E: Getting Started</h3>
+  <ul>
+    <li>Creating and Defining Projects</li>
+    <li>Setting Up a Project</li>
+    <li>Office Online Templates</li>
+    <li>Blank Project Setup</li>
+    <li>Custom Fields</li>
+    <li>Project Preferences</li>
+    <li>View and Desktop Preferences</li>
+    <li>Security Preferences</li>
+    <li>Calendar Preferences</li>
+  </ul>
+  <h3>Section F: Managing Calendars</h3>
+  <ul>
+    <li>Calendar Configuration</li>
+    <li>Calendar Options</li>
+    <li>Create Project Calendar</li>
+    <li>Calendar Setup</li>
+    <li>Modify Calendar</li>
+    <li>Special Calendars</li>
+    <li>Save Project</li>
+  </ul>
+  <h3>Section G: Create and Organize Tasks</h3>
+  <ul>
+    <li>Task Definition</li>
+    <li>Recurring Tasks</li>
+    <li>Enter Task List</li>
+    <li>Organize Task Order</li>
+    <li>Create Recurring Task</li>
+  </ul>
+  <h3>Section H: Task Durations</h3>
+  <ul>
+    <li>Entering Durations</li>
+    <li>Calculating Task Durations</li>
+    <li>Calculating Time</li>
+    <li>Weighted Average Technique</li>
+    <li>PERT Analysis Toolbar</li>
+    <li>Apply PERT Analysis</li>
+    <li>Milestones</li>
+  </ul>
+  <h3>Section I: Documentation</h3>
+  <ul>
+    <li>Project Notes</li>
+    <li>Add Notes</li>
+    <li>Add Hyperlinks</li>
+    <li>Printing Notes</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Import/Export Data</h3>
+  <ul>
+    <li>What Can Be Imported?</li>
+    <li>Importing Excel Data</li>
+    <li>Import Wizard</li>
+    <li>Task Mapping</li>
+    <li>Importing Outlook Data</li>
+  </ul>
+  <h3>Section B: Managing Task Structure</h3>
+  <ul>
+    <li>Outline Task Lists</li>
+    <li>Summary Tasks</li>
+    <li>Working with Tasks</li>
+    <li>Project Summary Task</li>
+    <li>Create WBS</li>
+    <li>Display WBS</li>
+    <li>Defining WBS Code</li>
+    <li>Applying WBS Code</li>
+  </ul>
+  <h3>Section C: Task Relationships</h3>
+  <ul>
+    <li>Task Dependencies</li>
+    <li>Types of Dependencies</li>
+    <li>Linking Tasks</li>
+    <li>Planning Wizard</li>
+    <li>Linking Multiple Tasks</li>
+    <li>Add Predecessors</li>
+    <li>Working with Task Relationships</li>
+    <li>Manipulate Time Scale</li>
+  </ul>
+  <h3>Section D: Scheduling Tasks</h3>
+  <ul>
+    <li>Lead and Lag Time</li>
+    <li>Constraints and Deadlines</li>
+    <li>Inflexible Constraints</li>
+    <li>Slack and Deadlines</li>
+    <li>Task Drivers</li>
+    <li>Task Conflicts</li>
+    <li>Working with Constraints</li>
+    <li>Create Deadline</li>
+    <li>View Task Drivers</li>
+  </ul>
+  <h3>Section E: Critical Path Tasks</h3>
+  <ul>
+    <li>Understanding Critical Path</li>
+    <li>View Network Diagram</li>
+    <li>View Gantt Options</li>
+    <li>Format Gantt Chart</li>
+  </ul>
+  <h3>Section F: Working with Resources</h3>
+  <ul>
+    <li>Resource Management</li>
+    <li>Understanding Resources</li>
+    <li>Resource Calendars</li>
+    <li>Adding Resources</li>
+    <li>Rate Variables</li>
+    <li>Calendar Assignment</li>
+    <li>Contracted Work Resource</li>
+  </ul>
+  <h3>Section G: Adjusting Resources</h3>
+  <ul>
+    <li>Modifying Availability</li>
+    <li>Rate Tables</li>
+    <li>Cost Rate Tables</li>
+  </ul>
+  <h3>Section H: Resource Assignments</h3>
+  <ul>
+    <li>Assigning a Resource</li>
+    <li>Modify Resources</li>
+    <li>Change Resource Type</li>
+    <li>Resource Usage View</li>
+    <li>Apply Budget Cost</li>
+    <li>View Project Statistics</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Working with Baselines</h3>
+  <ul>
+    <li>Understanding Baselines</li>
+    <li>Setting a Baseline</li>
+    <li>Viewing the Baseline</li>
+    <li>Working with Project Reports</li>
+    <li>Creating a Project Template</li>
+  </ul>
+  <h3>Section B: Monitoring Project Progress</h3>
+  <ul>
+    <li>Tracking the Project</li>
+    <li>Tracking Environment</li>
+    <li>How Tracking Works</li>
+    <li>Entering Overtime</li>
+    <li>Updating the Project</li>
+    <li>Viewing the Tracking Gantt</li>
+    <li>Using the Tracking Table</li>
+    <li>Tracking Toolbar</li>
+    <li>Splitting Tasks</li>
+    <li>Task Usage View</li>
+    <li>Checking the Status Date</li>
+  </ul>
+  <h3>Section C: Optimizing Performance</h3>
+  <ul>
+    <li>Resource Allocation</li>
+    <li>Project Leveling</li>
+    <li>Manipulating the Schedule</li>
+    <li>Analyzing Variance</li>
+    <li>Viewing Overallocation</li>
+    <li>Correcting Overallocation</li>
+    <li>Adding Lead Time</li>
+  </ul>
+  <h3>Section D: Working with Views</h3>
+  <ul>
+    <li>Sorting</li>
+    <li>Filtering</li>
+    <li>AutoFilter</li>
+    <li>Custom Filters</li>
+    <li>Formatting Views</li>
+    <li>Creating Custom Fields</li>
+    <li>Creating Custom Views</li>
+  </ul>
+  <h3>Section E: Using Reports</h3>
+  <ul>
+    <li>Predefined Reports</li>
+    <li>Headers and Footers</li>
+    <li>Creating Custom Reports</li>
+    <li>Creating Visual Reports</li>
+  </ul>
+  <h3>Section F: Exchanging Project Data</h3>
+  <ul>
+    <li>Exporting Data</li>
+    <li>Saving Data</li>
+    <li>Creating a Project Picture</li>
+    <li>Export Wizard</li>
+    <li>Using the Office Wizard</li>
+    <li>Sharing Project Objects</li>
+  </ul>
+  <h3>Section G: Sharing Resources</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Resource Pools</li>
+    <li>Stop Sharing Resources</li>
+    <li>Creating a Resource Pool</li>
+  </ul>
+  <h3>Section H: Managing Multiple Projects</h3>
+  <ul>
+    <li>Master Projects</li>
+    <li>Deleting Linked Projects</li>
+    <li>Creating a Master Project</li>
+  </ul>

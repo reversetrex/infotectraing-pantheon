@@ -1,0 +1,48 @@
+<p><strong>Lesson 1: Manipulating Data Using Statistical and Lookup Functions</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Forecast GDP Using Statistical Functions</li>
+  <li><strong>Topic 1B: </strong>Evaluate Sales Data Using Statistical Functions</li>
+  <li><strong>Topic 1C: </strong>Analyze Stock Data Using Statistical Functions</li>
+  <li><strong>Topic 1D: </strong>Mine Data Using the Lookup and Reference Functions</li>
+</ul>
+  
+<p><strong>Lesson 2: Analyzing Data Using Data Analysis Tools</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Analyze Sales Data Using Descriptive Statistics</li>
+  <li><strong>Topic 2B: </strong>Analyze Time Series Data Using Exponential Smoothing</li>
+  <li><strong>Topic 2C: </strong>Analyze Data Using Regression</li>
+  <li><strong>Topic 2D: </strong>Identify the Beta Value of a Security</li>
+  <li><strong>Topic 2E: </strong>Analyze Sector Data Using Correlation and Covariance Matrices</li>
+  <li><strong>Topic 2F: </strong>Optimize a Stock Portfolio Using Solver</li>
+</ul>
+  
+<p><strong>Lesson 3: Working with Data Using Financial Functions</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Develop an Investment Schedule Using Financial Functions</li>
+  <li><strong>Topic 3B: </strong>Make Investment Decisions Using Financial Functions</li>
+</ul>
+  
+<p><strong>Lesson 4: Examining Data Using Math Functions</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Analyze Sales Data Using Math Functions</li>
+  <li><strong>Topic 4B: </strong>Calculate Stock Returns Using Math Functions</li>
+  <li><strong>Topic 4C: </strong>Aggregate GDP Data Using Math Functions</li>
+</ul>
+
+<p><strong>Lesson 5: Manipulating Data Using Text and Information Functions</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Manipulate Data Using Text Functions</li>
+  <li><strong>Topic 5B: </strong>Validate Data Using Information Functions</li>
+</ul>
+
+<p><strong>Lesson 6: Working with Templates and Charts</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Create Advanced Templates</li>
+  <li><strong>Topic 6B: </strong>Create Advanced Charts</li>
+</ul>
+
+<p><strong>Lesson 7: Managing Data in Workbooks</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Retrieve and Paste Data</li>
+  <li><strong>Topic 7B: </strong>Clean Data in Workbooks</li>
+</ul>

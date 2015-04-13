@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Understand the basic concepts behind Windows PowerShell</li>
+    <li>Work with the Pipeline</li>
+    <li>Understand How the Pipeline Works</li>
+    <li>Use PSProviders and PSDrives</li>
+    <li>Format Output</li>
+    <li>Use WMI and CIM</li>
+    <li>Prepare for Scripting</li>
+    <li>Moving From a Command to a Script to a Module</li>
+    <li>Administer Remote Computers</li>
+    <li>Put the various Windows PowerShell components together</li>
+    <li>Use Background Jobs and Scheduled Jobs</li>
+    <li>Use Advanced PowerShell Techniques and Profiles</li>
+</ul>

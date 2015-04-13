@@ -1,0 +1,9 @@
+<p>In this course, you will create and work with PDF documents. You will:</p>
+<ul>
+  <li>Access information in a PDF document.</li>
+  <li>Create and save PDF documents.</li>
+  <li>Navigate content in a PDF document.</li>
+  <li>Modify PDF documents.</li>
+  <li>Review PDF documents.</li>
+  <li>Convert PDF documents.</li>
+</ul>

@@ -1,0 +1,48 @@
+<p><strong>Lesson 1: Initiating a Project</strong></p>
+<ul>
+	<li>Topic 1A: Plan a Project</li>
+    <li>Topic 1B: Identify Copyright and Citation Requirements</li>
+</ul>
+<p><strong>Lesson 2: Exploring the Adobe Photoshop CS5 Environment</strong></p>
+<ul>
+	<li>Topic 2A: Explore the Photoshop Interface</li>
+    <li>Topic 2B: Explore the Photoshop Interface</li>
+    <li>Topic 2C: Customize the Workspace</li>
+    <li>Topic 2D: Explore Adobe Bridge</li>
+</ul>
+<p><strong>Lesson 3: Determining Graphic Type and Resolution</strong></p>
+<ul>
+	<li>Topic 3A: Differentiate Between Raster and Vector Graphics</li>
+    <li>Topic 3B: Understand Image Resolution</li>
+</ul>
+<p><strong>Lesson 4: Working with Selections</strong></p>
+<ul>
+	<li>Topic 4A: Create a Selection</li>
+    <li>Topic 4B: Save a Selection</li>
+    <li>Topic 4C: Modify a Selection</li>
+    <li>Topic 4D: Apply Color to a Selection</li>
+</ul>
+<p><strong>Lesson 5: Working with Layers</strong></p>
+<ul>
+	<li>Topic 5A: Create Layers</li>
+    <li>Topic 5B: Work with Type Layers</li>
+    <li>Topic 5C: Transform Layers</li>
+    <li>Topic 5D: Apply Styles</li>
+    <li>Topic 5E: Undo Previous Steps</li>
+</ul>
+<p><strong>Lesson 6: Enhancing Images with Paint and Filters</strong></p>
+<ul>
+	<li>Topic 6A: Paint on an Image</li>
+    <li>Topic 6B: Apply Filter Effects</li>
+</ul>
+<p><strong>Lesson 7: Exploring Image Modes and Color Adjustments</strong></p>
+<ul>
+	<li>Topic 7A: Explore Grayscale and Bitmap Modes</li>
+    <li>Topic 7B: Apply Color Adjustments</li>
+</ul>
+<p><strong>Lesson 8: Saving Images for Web and Print</strong></p>
+<ul>
+	<li>Topic 8A: Save Images for Print</li>
+    <li>Topic 8B: Save Images for the Web</li>
+    <li>Topic 8C: Save Images as PDF</li>
+</ul>

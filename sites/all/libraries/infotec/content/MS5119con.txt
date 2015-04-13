@@ -1,0 +1,11 @@
+<p><strong>Module 1: Preparing to Apply Desktop Images</strong> - This module explains how to describe the necessary steps required to prepare a computer for Windows Vista image deployment.</p>
+
+<p><strong>Module 2: Supporting Computers with Desktop Images</strong> - This module explains how to apply a Windows Vista operating system image to a target computer.</p>
+
+<p><strong>Module 3: Restoring and Validating User State</strong> - This module explains how to restore and validate user state on a newly deployed Windows Vista desktop image.</p>
+
+<p><strong>Module 4: Preparing to Install an Application Package</strong> - This module explains the steps required to prepare a Windows Vista computer for application installation.</p>
+
+<p><strong>Module 5: Creating and Deploying an Application Installation Package</strong> - This module explains how to create and deploy application installation packages to Windows Vista computers.</p>
+
+<p><strong>Module 6: Troubleshooting Application Installations</strong> - This module explains how to troubleshoot issues that are affect application package installation.</p>

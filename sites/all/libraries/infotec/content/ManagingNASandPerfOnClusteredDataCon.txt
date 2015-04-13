@@ -1,0 +1,138 @@
+<p><strong>Module 1 How a NetApp Storage System Works</strong></p>
+<ul>
+  <li>Describe the layers within the Data ONTAP architecture</li>
+  <li>List the advantages that are provided by the ability of WAFL to optimize writes</li>
+  <li>Explain the purpose of NVRAM</li>
+  <li>Diagram the flow of read and write requests through the network and protocol layers of Data ONTAP</li>
+  <li>Describe the benefits that RAID provides</li>
+</ul>
+<p><strong>Module 2 Performance Overview</strong></p>
+<ul>
+  <li>Define performance-related terms, such as &ldquo;baseline,&rdquo; &ldquo;bottleneck,&rdquo; &ldquo;Little&rsquo;s law,&rdquo; and &ldquo;latency&rdquo;</li>
+  <li>Describe baseline performance guidelines and methodologies as they relate to NetApp storage systems</li>
+</ul>
+<p><strong>Module 3 Clustered Storage System Workloads and Bottlenecks</strong></p>
+<ul>
+  <li>Gather information about the workload of an existing storage system</li>
+  <li>Identify the storage system components that can affect performance—become bottlenecks</li>
+</ul>
+<p><strong>Module 4 Cluster Performance Monitoring and Analysis</strong></p>
+<ul>
+  <li>Describe the performance analysis tools and commands that are commonly used for cluster health checks</li>
+  <li>Identify the key performance commands and describe the command output that they produce</li>
+  <li>Explain how to use NetApp tools for performance measurement</li>
+  <li>Describe the benefits of using the AutoSupport support tool for performance analysis</li>
+</ul>
+<p><strong>Module 5 OnCommand Management Tools</strong></p>
+<ul>
+  <li>List the three categories of performance tools</li>
+  <li>Explain the features and functions of Insight Perform</li>
+  <li>Explain the features and functions of OnCommand Balance</li>
+  <li>Use OnCommand management tools to view performance data</li>
+</ul>
+<p><strong>Module 6 Storage QoS</strong></p>
+<ul>
+  <li>Discuss how the Storage Quality of Service (QoS) feature works in a clustered Data ONTAP environment</li>
+  <li>Identify the commands that are used to manage policy groups</li>
+  <li>Monitor workload performance</li>
+</ul>
+<p><strong>Module 7 NFS Overview</strong></p>
+<ul>
+  <li>Define NFS List use cases for NFS Differentiate between NFS protocol versions Discuss the two implementations of Data ONTAPNetApp</li>
+</ul>
+<p><strong>Module 8 NFS Version 3</strong></p>
+<ul>
+  <li>Discuss NFS version 3 (NFSv3) features</li>
+  <li>Describe Data ONTAP support for NFSv3</li>
+  <li>Explain use cases for NFSv3</li>
+  <li>Configure Data ONTAP operating in 7-Mode to use the NFSv3 protocol</li>
+  <li>Configure clustered Data ONTAP to use the NFSv3 protocol</li>
+  <li>Describe NFSv3 security</li>
+</ul>
+<p><strong>Module 9 NFS Version 4</strong></p>
+<ul>
+  <li>Discuss NFS version 4 (NFSv4) features</li>
+  <li>Describe Data ONTAP support for NFSv4</li>
+  <li>Explain use cases for NFSv4</li>
+  <li>Configure Data ONTAP operating in 7-Mode to use the NFSv4 protocol</li>
+  <li>Configure clustered Data ONTAP to use the NFSv4 protocol</li>
+  <li>Describe NFSv4 security2NetApp</li>
+</ul>
+<p><strong>Module 10 NFS Version 4.1</strong></p>
+<ul>
+  <li>Discuss NFS version 4.1 (NFSv4.1) and parallel NFS (pNFS) features</li>
+  <li>Describe Data ONTAP support for NFSv4.1 and pNFS</li>
+  <li>Explain use cases for NFSv4.1 and pNFS</li>
+  <li>Configure clustered Data ONTAP to use the NFSv4.1 protocol</li>
+  <li>Configure a Linux host to use the NFSv4.1 protocol</li>
+</ul>
+<p><strong>Module 11 Performance and Basic Troubleshooting</strong></p>
+<ul>
+  <li>Discuss the factors that influence NFS performance</li>
+  <li>List the tools that are used to capture NFS performance statistics</li>
+  <li>Recognize areas in which issues might arise</li>
+  <li>Explain the interactions between CIFS and NFS name mapping</li>
+  <li>Describe basic NFS troubleshooting between storage systems, the Linux client, and the network</li>
+  <li>Discuss troubleshooting NFS locks and leases</li>
+</ul>
+<p><strong>Module 12 CIFS Overview</strong></p>
+<ul>
+  <li>Differentiate between CIFS protocol versions</li>
+  <li>List the CIFS supported environments</li>
+  <li>Explain how CIFS authenticates resources in a workgroup environment and a domain environment</li>
+  <li>Discuss the two implementations of Data ONTAP</li>
+</ul>
+<p><strong>Module 13 SMB Setup</strong></p>
+<ul>
+  <li>Configure workgroup authentication for a storage system with Data ONTAP operating in 7-Mode</li>
+  <li>Set up a storage system with clustered Data ONTAP for Windows domain authentication</li>
+  <li>Configure Windows domain authentication for a storage system with Data ONTAP operating in 7-Mode</li>
+</ul>
+<p><strong>Module 14 Shares and Sessions</strong></p>
+<ul>
+  <li>List the default shares</li>
+  <li>Display all shares that are available on the storage system</li>
+  <li>Configure a client machine to access any share</li>
+  <li>Define sparse files and set their attributes</li>
+  <li>Identify the CIFS sessions that are established by accessing a share on the storage system</li>
+  <li>Add, modify, and delete shares</li>
+</ul>
+<p><strong>Module 15 Access Control</strong></p>
+<ul>
+  <li>Use the CLI, OnCommand System Manager, or Microsoft tools to add, delete, and modify the access permissions of shares</li>
+  <li>Use Microsoft tools to add, delete, and modify the access permissions of files and folders</li>
+  <li>Use access-based enumeration</li>
+  <li>Create local users</li>
+  <li>Create local groups</li>
+  <li>Determine and verify user mappings for CIFS users that access NTFS and UNIX volumes or qtrees</li>
+  <li>Configure file policies2NetApp</li>
+</ul>
+<p><strong>Module 16 Advanced Topics</strong></p>
+<ul>
+  <li>Discuss opportunistic locks (oplocks) implementation within the Data ONTAP operating system</li>
+  <li>Describe metacache support for Clustered Data ONTAP</li>
+  <li>Explain support for BranchCache</li>
+  <li>Configure auditing</li>
+  <li>Set up home directory shares</li>
+  <li>Describe group policy object implementation within the Data ONTAP operating system</li>
+  <li>Configure CIFS security settings</li>
+  <li>Implement symbolic links and widelinks</li>
+</ul>
+<p><strong>Module 17 PowerShell and the Data ONTAP PowerShell Toolkit</strong></p>
+<ul>
+  <li>Describe Microsoft PowerShell</li>
+  <li>Configure a Microsoft Windows host to work with the Data ONTAP Software Development Kit (SDK)</li>
+  <li>Explain how the Data ONTAP SDK can be used to script storage features</li>
+  <li>List the methods of using PowerShell</li>
+  <li>Explain how to create simple scripts</li>
+  <li>Redirect output results to log files</li>
+  <li>Use PowerShell to make Windows Management Instrumentation (WMI) calls</li>
+</ul>
+<p><strong>Module 18 Performance and Basic Troubleshooting</strong></p>
+<ul>
+  <li>Discuss the factors that influence CIFS performance</li>
+  <li>List the tools that are used to capture CIFS performance statistics</li>
+  <li>Recognize areas in which issues might arise</li>
+  <li>Describe basic CIFS troubleshooting between storage systems, a Windows client, the authentication mechanism, and the network</li>
+  <li>Discuss troubleshooting SMB 3.0 locks</li>
+</ul>

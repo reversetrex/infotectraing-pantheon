@@ -1,0 +1,58 @@
+<p><strong>Lesson 1: Streamlining Workflow</strong></p>
+<ul>
+  <li>Create a Macro</li>
+  <li>Edit a Macro</li>
+  <li>Customize Access to Excel Commands</li>
+  <li>Apply Conditional Formatting</li>
+  <li>Add Data Validation Criteria</li>
+  <li>Update a Workbook's Properties</li>
+  <li>Modify Excel's Default Settings</li>
+</ul>
+<p><strong>Lesson 2: Collaborating with Others</strong></p>
+<ul>
+  <li>Protect Files</li>
+  <li>Share a Workbook</li>
+  <li>Set Revision Tracking</li>
+  <li>Review Tracked Revisions</li>
+  <li>Merge Workbooks</li>
+  <li>Adjust Macro Settings</li>
+  <li>Administer Digital Signatures</li>
+</ul>
+<p><strong>Lesson 3: Auditing Worksheets</strong></p>
+<ul>
+  <li>Trace Cell Precedents</li>
+  <li>Trace Cell Dependents</li>
+  <li>Locate Errors in Formulas</li>
+  <li>Locate Invalid Data and Formulas</li>
+  <li>Watch and Evaluate Formulas</li>
+  <li>Group and Outline Data</li>
+</ul>
+<p><strong>Lesson 4: Analyzing Data</strong></p>
+<ul>
+  <li>Create a Trendline</li>
+  <li>Create Scenarios</li>
+  <li>Perform What-If Analysis</li>
+  <li>Develop a PivotTable Report</li>
+  <li>Develop a PivotChart Report</li>
+  <li>Perform Statistical Analysis with the Analysis ToolPak</li>
+</ul>
+<p><strong>Lesson 5: Working with Multiple Workbooks</strong></p>
+<ul>
+  <li>Create a Workspace</li>
+  <li>Consolidate Data</li>
+  <li>Link Cells in Different Workbooks</li>
+  <li>Edit Links</li>
+</ul>
+<p><strong>Lesson 6: Importing and Exporting Data</strong></p>
+<ul>
+  <li>Export to Microsoft Word</li>
+  <li>Import a Word Table</li>
+  <li>Import Text Files</li>
+</ul>
+<p><strong>Lesson 7: Structuring XML Workbooks</strong></p>
+<ul>
+  <li>Develop XML Maps</li>
+  <li>Import, Add, and Export XML Data</li>
+  <li>Manage XML Workbooks</li>
+  <li>Apply XML View Options</li>
+</ul>

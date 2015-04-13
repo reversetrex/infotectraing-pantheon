@@ -1,0 +1,103 @@
+<p><strong>Module 1: Introduction to Microsoft Windows  PowerShell</strong> - This module explains how to name, declare, assign values to, and use variables. It also describes how to store data in an  array.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introduction to Windows PowerShell</li>
+  <li>Installing Windows PowerShell in Windows Server 2008</li>
+</ul>
+
+<p><strong>Module 2: Overview of Microsoft Windows  PowerShell</strong> - This module explains basic concepts in  Windows PowerShell, including objects, variables, cmdlets, and pipelines. It  describes how to invoke available cmdlets and aliases, assign aliases. The  module also includes demonstrations of tab expansion and basic operators.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Objects</li>
+  <li>Working with Cmdlets</li>
+  <li>Tab Expansion, Aliases, and History</li>
+  <li>Using Variables and Types</li>
+</ul>
+
+<p><strong>Module 3: Building Pipelines for  Assembly-Line Style Processing</strong> - This module explains basic concepts in  Windows PowerShell, including objects, variables, cmdlets, and pipelines. It  describes how to invoke available cmdlets and aliases, assign aliases. The module  also includes demonstrations of tab expansion and basic operators.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Connecting the Pipeline</li>
+  <li>Using Arrays</li>
+  <li>Filtering and Iterating Through the Pipeline</li>
+  <li>Reordering Objects in a Pipeline</li>
+</ul>
+
+<p><strong>Module 4: Managing Processes and Formatting  Cmdlet Output</strong> - This module explains basic concepts in Windows PowerShell, including objects, variables, cmdlets, and pipelines. It  describes how to invoke available cmdlets and aliases, assign aliases. The  module also includes demonstrations of tab expansion and basic operators.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Controlling Tasks and Processes in Microsoft Windows PowerShell</li>
+  <li>Presenting Information with Specific Formatting</li>
+</ul>
+
+<p><strong>Module 5: Implementing Scripts to Perform a  Sequence of Operations</strong> - This module explains basic concepts in  Windows PowerShell, including objects, variables, cmdlets, and pipelines. It  describes how to invoke available cmdlets and aliases, assign aliases. The  module also includes demonstrations of tab expansion and basic operators.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Writing Windows PowerShell Scripts</li>
+  <li>Security in Windows PowerShell</li>
+  <li>Scripting Life-Cycle Methodologies</li>
+  <li>Customizing Windows PowerShell with    Profiles</li>
+</ul>
+
+<p><strong>Module 6: Implementing Flow Control and  Functions</strong> - This module explains basic concepts in  Windows PowerShell, including objects, variables, cmdlets, and pipelines. It  describes how to invoke available cmdlets and aliases, assign aliases. The  module also includes demonstrations of tab expansion and basic operators.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Controlling the Flow of Execution Within    Scripts</li>
+  <li>Iteration Flow Control</li>
+  <li>Developing and Using Functions</li>
+</ul>
+
+<p><strong>Module 7: Working with Files, the Registry,  and Certificate Stores</strong> - This module explains how to write scripts  that perform specific tasks, such as searching files for particular text and  modifying all matching files, or searching the event logs for events that match  specific criteria. It also describes how to access data stores, the file store,  the registry, certificate stores, and other stores, use wildcards and regular  expressions, and import and export aliases and objects.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Using Cmdlets to Access Data Stores</li>
+  <li>Using Providers to Access the Registry and Certificate Store</li>
+  <li>Filtering and Selecting with Regular Expressions</li>
+  <li>Implementing Event Log Management</li>
+  <li>Moving Objects In and Out of Files</li>
+</ul>
+
+<p><strong>Module 8: Using Microsoft Windows PowerShell with WMI</strong> - This module explains how to use WMI to access system features, enumerate, defragment, and mount disk volumes in  Windows PowerShell. Listing and configuring volume shadow copies, listing and  creating shared folders with WMI, and configuring Terminal Server are also  discussed.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introduction to WMI Objects</li>
+  <li>Managing Disk Volumes Using Windows PowerShell with WMI</li>
+  <li>Managing Shadow Copies Using Windows PowerShell with WMI</li>
+  <li>Managing Shared Folders with Windows PowerShell</li>
+  <li>Configuring Terminal Server Using Windows PowerShell with WMI</li>
+</ul>
+
+<p><strong>Module 9: Administering Active Directory  with Microsoft Windows PowerShell</strong> - This module explains how to write scripts  to perform Active Directory administration tasks such as changing the domain  functional level, moving FSMO roles, and creating and modifying objects such as groups and user accounts. Managing relationships between user accounts and  groups is also demonstrated.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Administering Domains and Forests Using .NET Objects</li>
+  <li>Managing User Accounts and Groups Using COM Objects</li>
+  <li>Managing Relationships Between Users and Groups</li>
+</ul>
+
+<p><strong>Module 10: Administering Group Policy in  Microsoft Windows PowerShell</strong> - This module explains how to write scripts  to perform Active Directory administration tasks such as changing the domain functional level, moving FSMO roles, and creating and modifying objects such as  groups and user accounts. Managing relationships between user accounts and  groups is also demonstrated.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Managing GPOs Using the GPMC COM Interface</li>
+  <li>Using XML with Group Policy</li>
+  <li>Managing Group Policy Settings</li>
+  <li>Reporting Group Policy</li>
+</ul>
+
+<p><strong>Module 11: Managing Internet Information Services 7.0</strong> - This module explains how to write scripts to manage IIS 7.0 properties and report IIS statistics. It also describes how to create and manage Web sites.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Comparing IIS 7.0 Windows PowerShell Management Interfaces</li>
+  <li>Administering IIS 7.0 with Windows PowerShell</li>
+</ul>

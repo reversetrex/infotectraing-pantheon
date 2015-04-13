@@ -1,0 +1,17 @@
+<p>After completing this  course, students will be able to:</p>
+<ul>
+  <li>Explain how to create dynamic Web pages by using ASP.NET.</li>
+  <li>Manage state, handle requests, and improve accessibility by using the features of ASP.NET.</li>
+  <li>Configure an ASP.NET application by using .config files</li>
+  <li>Create a user interface on an ASP.NET page by using standard Web server controls.</li>
+  <li>Create a user control and a custom server control and add them to an ASP.NET page.</li>
+  <li>Access and manipulate data from different sources by using ADO.NET 3.5.</li>
+  <li>Access and manipulate data from Windows Communication Foundation services or Web services.</li>
+  <li>Present data to the user by placing data-bound controls on an ASP.NET page.</li>
+  <li>Improve page responsiveness by using the ASP.NET AJAX controls.</li>
+  <li>Interact with the user, access services, and access the AJAX client-side library by using client scripts.</li>
+  <li>Find and eliminate bugs in an ASP.NET application.</li>
+  <li>Deploy an ASP.NET application to a production Web server.</li>
+  <li>Write pages that adapt to the capabilities of mobile devices.</li>
+  <li>Utilize controls that adapt to the capabilities of mobile devices.</li>
+</ul>

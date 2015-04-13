@@ -1,0 +1,139 @@
+<ol>
+  <li>Course Introduction
+    <ol type="a">
+      <li>Introductions and course logistics.</li>
+      <li>Course objectives.</li>
+    </ol>
+  </li>
+  <li>Introduction to VMware Virtualization
+    <ol type="a">
+      <li>Introduce virtualization and vSphere components.</li>
+      <li>Explain the concepts of server, network, and storage virtualization.</li>
+      <li>Describe where vSphere fits into the cloud architecture.</li>
+      <li>Install and use vSphere user interfaces.</li>
+      <li>Describe the ESXi architecture and configure various ESXi settings.</li>
+    </ol>
+  </li>
+  <li>Creating Virtual Machines
+    <ol type="a">
+      <li>Introduce virtual machines, virtual machine hardware, and virtual  machine files.</li>
+      <li>Deploy a single virtual machine.</li>
+    </ol>
+  </li>
+  <li>VMware vCenter Server
+    <ol type="a">
+      <li>Introduce vCenter Server architecture.</li>
+      <li>Manage vCenter Server inventory objects and licenses.</li>
+    </ol>
+  </li>
+  <li>Configuring and Managing Virtual Networks
+    <ol type="a">
+      <li>Describe, create, and manage a standard virtual switch.</li>
+      <li>Describe and modify standard virtual switch properties.</li>
+      <li>Configure virtual switch load-balancing algorithms.</li>
+    </ol>
+  </li>
+  <li>Configuring and Managing Virtual Storage
+    <ol type="a">
+      <li>Introduce storage protocols and device names.</li>
+      <li>Configure ESXi with iSCSI, NFS, and Fibre Channel storage.</li>
+      <li>Create and manage VMware vSphere VMFS datastores.</li>
+      <li>Introduce VMware vSphere Storage Appliance.</li>
+    </ol>
+  </li>
+  <li>Virtual Machine Management
+    <ol type="a">
+      <li>Use templates and cloning to deploy virtual machines.</li>
+      <li>Modify and manage virtual machines.</li>
+      <li>Create and manage virtual machine snapshots.</li>
+      <li>Perform VMware vSphere vMotion and vSphere Storage vMotion  migrations.</li>
+      <li>Create a vSphere vApp.</li>
+      <li>Use VMware vCenter Converter Standalone to hot-clone a system.</li>
+    </ol>
+  </li>
+  <li>Access and Authentication Control
+    <ol type="a">
+      <li>Control user access through roles and permissions.</li>
+      <li>Discuss ESXi host access and authentication.</li>
+      <li>Integrate ESXi with Active Directory.</li>
+      <li>Introduce VMware vShield products.</li>
+    </ol>
+  </li>
+  <li>Resource Management and Monitoring
+    <ol type="a">
+      <li>Introduce virtual CPU and memory concepts.</li>
+      <li>Describe methods for optimizing CPU and memory usage.</li>
+      <li>Configure and manage resource pools.</li>
+      <li>Use vCenter Server performance graphs and alarms to monitor  resource usage.</li>
+    </ol>
+  </li>
+  <li>High Availability and Fault Tolerance
+    <ol type="a">
+      <li>Explain the vSphere High Availability architecture.</li>
+      <li>Configure an manage a vSphere HA cluster.</li>
+      <li>Set vSphere HA advanced parameters.</li>
+      <li>Enable vSphere Fault Tolerance (FT) on a virtual machine.</li>
+    </ol>
+  </li>
+  <li>Host Scalability
+    <ol type="a">
+      <li>Use Host Profiles to manage ESXi configuration compliance.</li>
+      <li>Configure and manage a vSphere Distributed Resource Scheduler cluster (DRS).</li>
+      <li>Configure Enhanced vMotion Compatibility.</li>
+      <li>Use vSphere HA and DRS together.</li>
+      <li>Configure and manage vSphere Distributed Power Management (vSphere  DPM).</li>
+    </ol>
+  </li>
+  <li>Network Scalability
+    <ol type="a">
+      <li>Create, configure, and manage vSphere distributed switches, network connections, and port groups.</li>
+      <li>Discuss distributed virtual switch features, such as PVLANs, discovery protocols, Network I/O Control, NetFlow, and port mirroring.</li>
+    </ol>
+  </li>
+  <li>Storage Scalability
+    <ol type="a">
+      <li>Describe VMware vSphere Storage APIs - Array Integration and  Storage Awareness.</li>
+      <li>Explain profile-driven storage.</li>
+      <li>Add a storage policy to a virtual machine storage profile.</li>
+      <li>Introduce storage I/O control.</li>
+      <li>Create a datastore cluster.</li>
+      <li>Configure Storage DRS.</li>
+    </ol>
+  </li>
+  <li>Data Protection
+    <ol type="a">
+      <li>Discuss a strategy for backing up ESXi hosts and vCenter Server.</li>
+      <li>Introduce the VMware Data Recovery appliance.</li>
+      <li>Discuss solutions for efficiently backing up virtual machines.</li>
+    </ol>
+  </li>
+  <li>Patch Management
+    <ol type="a">
+      <li>Use VMware vSphere Update Manager to manage ESXi patching.</li>
+      <li>Install Update Manager and the Update Manager plug-in.</li>
+      <li>Create patch baselines.</li>
+      <li>Scan and remediate hosts.</li>
+    </ol>
+  </li>
+  <li>VMware vSphere Management Assistant
+    <ol type="a">
+      <li>Describe VMware vSphere Management Assistant (vMA).</li>
+      <li>Configure vMA.</li>
+      <li>Discuss the VMware vSphere Command-Line Interface command set.</li>
+      <li>Perform command-line operations for host management, network  management, storage management, and performance monitoring.</li>
+    </ol>
+  </li>
+  <li>Installing VMware Components
+    <ol type="a">
+      <li>Use vCenter Linked Mode to manage multiple vCenter Server  inventories.</li>
+      <li>Introduce ESXi installation.</li>
+      <li>Describe boot-from-SAN requirements.</li>
+      <li>Describe vCenter Server hardware, software, and database  requirements.</li>
+      <li>Install vCenter Server (Windows-based).</li>
+      <li>Introduce vCenter Server Appliance.</li>
+      <li>Install and configure vCenter Server Appliance.</li>
+      <li>Use Image Builder to create an ESXi installation image.</li>
+      <li>Use Auto Deploy to deploy a stateless ESXi host.</li>
+    </ol>
+  </li>
+</ol>

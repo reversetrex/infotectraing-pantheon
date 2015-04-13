@@ -1,0 +1,148 @@
+<p><strong>Module 1: Overview</strong></p>
+
+<p>After completing this  module, students will be able to:</p>
+
+<ul>
+  <li>Understand  your course, classroom, classmates, facility and instructor.</li>
+</ul>
+
+<p><strong>Module 2:  SharePoint Introduction</strong></p>
+
+<p>In this module, we are going to  answer the all important questions of &quot;What&quot; and &quot;Why&quot; we should be using SharePoint. We are also going to look at the new and exciting features  of SharePoint 2007. After completing this  module, students will be able to:</p>
+
+<ul>
+  <li>Describe  the six parts of SharePoint (Collaboration, Business Intelligence, Search,  Portals (internet, intranet),Content Management, Business Process Automation).</li>
+  <li>Describe  the new features and capabilities of SharePoint 2007 as compared to 2003.</li>
+  <li>Describe  what business problems SharePoint can address.</li>
+</ul>
+
+<p><strong>Module 3: Basic  Team Site</strong></p>
+
+<p>In this module, we take a look at  common features of the basic team site. Throughout this course we will create and manage several different pieces of content and the team site will be our  site of choice for doing this! Understanding this site is the key to understanding  SharePoint and applying it to your everyday life! After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Describe the new UI features of the basic team site.</li>
+  <li>Log in and out of a site.</li>
+  <li>Describe what the Quick Launch  bar is.</li>
+  <li>Describe the Security Trimmed Interface of SharePoint.</li>
+  <li>Know where to create items on a site.</li>
+  <li>Find out who has access to a site.</li>
+  <li>Understand how to restore items on a site (recycle bin).</li>
+</ul>
+
+<p><strong>Module 4: Lists</strong></p>
+
+<p>Lists are a fundamental and pivotal  feature of SharePoint. They provide the means to the end of making SharePoint  functional! Lists store your files and content and provide a means of  describing your content with meta-data (columns). More importantly, lists allow  you to be able to find the content you have uploaded! In this module, we are going to  take a look at lists from an end-user standpoint, but also very quickly from a  database standpoint as well. We will talk about each list that is part of  SharePoint and what its intended use is. Every SharePoint site can use the  lists in this module and learning to use the lists will be a requirement to  understanding how to work with SharePoint 2007.  After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Describe what a list is.</li>
+  <li>Name each of the out of the box list of SharePoint 2007.</li>
+  <li>Talk about what each list is designed to do.</li>
+  <li>Create lists and list views on a SharePoint site.</li>
+  <li>Add and modify items in lists.</li>
+</ul>
+
+<p><strong>Module 5: List  Management</strong></p>
+
+<p>We explored the types of lists that come out-of-the box in the last module. In this module, we will explore how to  manage those lists! After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Create List Columns.</li>
+  <li>Managing Alerts.</li>
+  <li>Enable RSS Feeds.</li>
+  <li>Email Enable a List.</li>
+  <li>Enable Versioning on a List.</li>
+  <li>Enforce Check-Out.</li>
+  <li>Enable Content Approval.</li>
+  <li>Enable multiple Content Types.</li>
+  <li>Understand how to customize a Document Information Panel.</li>
+</ul>
+
+<p><strong>Module 6: Permissions</strong></p>
+
+<p>In this module, we take a look at  SharePoint permissions. We learn where SharePoint gets usernames from and how  we can assign those usernames to SharePoint groups. We then see how we can  create our own SharePoint groups as well as our own custom permission levels. After that, we take a look at how to apply custom security trimming to our sites. After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Describe where usernames and domain groups come from.</li>
+  <li>What a permission level is.</li>
+  <li>How to assign  permissions to a user or group.</li>
+  <li>What it means to say permissions are cumulative.</li>
+  <li>Why SharePoint has no deny.</li>
+  <li>How to use the SPSecurityTrimmed control.</li>
+</ul>
+
+<p><strong>Module 7: WSS Site  Definitions</strong></p>
+
+<p>In this module, we are going to  review the WSS site definitions. After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Describe the site lifecycle.</li>
+  <li>Understand how to create a site.</li>
+  <li>Be able to describe the out-of-the box WSS Site Definitions.</li>
+  <li>Understand how to delete a site.</li>
+</ul>
+
+<p><strong>Module 8: MOSS  Site Definitions</strong></p>
+
+<p>In this module, we will explore  each of the site definitions that come with Microsoft Office SharePoint Server 2007 (MOSS). After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Describe each of the MOSS site definitions.</li>
+  <li>Be able to effectively use each of the MOSS site definitions.</li>
+</ul>
+
+<p><strong>Module 9: Office Integration</strong></p>
+
+<p>In this module, we are going to  take a look at how SharePoint 2007 and Office 2007 interact. After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Describe how SharePoint integrates with Office 2007 (from SharePoint and to SharePoint).</li>
+</ul>
+
+<p><strong>Module 10: Workflows</strong></p>
+
+<p>In this module, we will take a look  at the out of the box WSS and MOSS workflows. After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Describe each of the WSS and MOSS workflows.</li>
+  <li>Know how to create and  use each of the WSS and MOSS workflows.</li>
+</ul>
+
+<p><strong>Module 11: My Site</strong></p>
+
+<p>In this module, we will review the  SharePoint MOSS feature called My Site! After completing this module, students will be able to:</p>
+
+<ul>
+  <li>Describe what a &quot;My Site&quot; is.</li>
+  <li>How to create and modify a My Site.</li>
+  <li>How to work with My Site social networking features.</li>
+</ul>
+
+<p><strong>Module 12: Basic Site Administration</strong></p>
+
+<p>In this module, we are going to  take a quick look at some basic site administration tasks. After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Administer a basic team site.</li>
+  <li>Have a basis to administer other SharePoint sites.</li>
+</ul>
+
+<p><strong>Module 13: Site Customization</strong></p>
+
+<p>In this module, we will take a very  brief look at some of the ways to customize your site via the browser and as an  end-user. After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Modify the shared and  personal view of a site.</li>
+  <li>Add and delete pages and  web part pages.</li>
+  <li>Add, remove, close and  move web parts to a web part page.</li>
+  <li>An understanding of some  basic web part on a team site and portal sites.</li>
+</ul>
+
+<p><strong>Module Addition: Central Administration and How Everything Comes Together</strong></p>
+
+<p>In this module, we will tie  together all of the learned skills from the previous modules and we will create  a Web Application from Central Administration and complete the process of  creating a Site Collection with sub-sites to enable users to locate distributed  information quickly and efficiently, as well as connect to and work with others  more productively. After completing this module, students will be  able to:</p>
+
+<ul>
+  <li>Work through the SharePoint site creation process from beginning to a productive, efficient, user-friendly result.</li>
+  <li>Explore and set options in Central Administration.</li>
+</ul>

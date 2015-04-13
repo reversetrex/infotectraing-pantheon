@@ -1,0 +1,78 @@
+<p><strong>Module 1: Architecture, Planning and Deployment</strong> - details the system architecture that is used by OCS 2007 R2. This module details fundamentals, server roles, and component dependencies. This module also details planning and deployment scenarios.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+	<li>New Features of OCS 2007 R2</li>
+    <li>OCS 2007 R2 Architecture</li>
+    <li>Planning an OCS 2007 R2 Deployment</li>
+    <li>Deploying / Migrating to an OCS 2007 R2 Infrastructure</li>
+    <li>Lab : Deploying and Configuring Microsoft Office Communications Server 2007 R2 Enterprise Edition - guides the attendee through preparing Active Directory and DNS for an OCS installation. Following these steps, OCS 2007 is installed and validated.</li>
+</ul>
+<p><strong>Module 2: IM and Presence</strong> - describes the rich presence advancement that Office Communications Server is delivering. Additionally this module describes Office Communicator clients, and deployment scenarios.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+	<li>Being Able to Articulate Rich Presence Model in OCS 2007 R2</li>
+    <li>OCS 2007 R2 Usability Enhancements</li>
+    <li>New Clients in OCS 2007 R2 </li>
+    <li>Group Chat Server</li>
+    <li>Lab : Installing and Using Office Communicator 2007 R2 and the Office Communications Server 2007 R2 Attendant - illustrates the installation of Office Communicator, OCS 2007 R2 Attendant and new rich-presence capabilities. This lab also illustrates enabling users for IM and testing the clients.</li>
+    <li>Lab : Installing and Configuring Communicator Web Access R2 - will guide the attendee through the installation and configuration of Communicator Web Access.</li>
+    <li>Lab : Installing and Configuring GFC Functionality and Enabling Users for Group Chat Console - illustrates the implementation of a Group Chat Server, followed by experiencing the features of the Group Chat Client.</li>
+</ul>
+<p><strong>Module 3: Conferencing</strong> - illustrates the new on-premise conferencing capability within OCS 2007 R2 and the differences between LiveMeeting Service and on-premise capability. This module also differentiates conferencing clients and requirements.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+	<li>Being Able to Articulate Conferencing Architecture</li>
+    <li>Core Conferencing Components</li>
+    <li>Conferencing Call Flow</li>
+    <li>Differentiate Server vs. Live Meeting Service</li>
+    <li>Dial-in Conferencing</li>
+    <li>Lab : Configuring and Using Conferencing in Office Communications Server 2007 R2 - guides the attendee through the phases of deploying and configuring conferencing in an existing OCS 2007 R2 implementation.</li>
+</ul>
+<p><strong>Module 4: Remote Access</strong> - articulates the Edge role within an OCS 2007 R2 implementation, and the process one needs to follow to define the appropriate topology. After covering the fundamentals information will be shared on the best practices in relation to configuration and maintenance.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+	<li>OCS 2007 R2 Edge Roles</li>
+    <li>How to Determine the Appropriate Edge Topology</li>
+    <li>Best Practices on Configuring Edge / Reverse Proxy</li>
+    <li>Review of Common Edge Configuration Issues</li>
+    <li>Lab : Configure OCS 2007 R2 for Remote Access - will provide the attendees with hands-on experience in preparing and implementing Remote Access. Attendees will create and assign certificates, and test external Communicator connectivity.</li>
+</ul>
+<p><strong>Module 5: Troubleshooting</strong> - articulates the new management tools and techniques for troubleshooting OCS 2007 R2. This module walks through some tools and techniques for identifying any deployment problems.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+	<li>Deployment Challenges with OCS 2007 R2</li>
+    <li>Use Troubleshooting Tools and Techniques</li>
+    <li>Advanced Diagnostic Logging</li>
+    <li>Lab : Using the Management and Troubleshooting Tools in OCS 2007 R2 - walks the attendee through troubleshooting tools included. This lab also includes a look at some of the resource kit utilities to help troubleshooting OCS 2007 R2.</li>
+</ul>
+<p><strong>Module 6: Voice Architecture</strong> - describes planning for adding voice capability to your OCS 2007 R2 implementation. This module assists in understanding the dial-plan, and connecting to the telephony infrastructure.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+	<li>OCS 2007 R2 Voice Components</li>
+    <li>OCS 2007 R2 Voice Features</li>
+    <li>Call Flow</li>
+    <li>Call Authorization and Routing</li>
+    <li>Mediation Server Deployment</li>
+</ul>
+<p><strong>Module 7: Voice Deployment Scenarios</strong> - explains the available voice deployment scenarios, routing concepts, normalization rules, and call flows within OCS 2007 and build-out of a dial-plan within your environment.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+	<li>Voice Deployment Scenarios</li>
+    <li>Deploying Enterprise Voice</li>
+    <li>Usage of Tools Related to Enterprise Voice</li>
+    <li>Lab : Installing and Configuring Mediation Server and Configuring Response Groups - illustrates how to implement a Mediation Server enabling the enterprise voice features. After completing the deployment attendees will configure multiple Response Group workflows.</li>
+</ul>
+<p><strong>Module 8: OCS 2007 R2 and Unified Messaging Coexistence</strong> - explains the interaction of OCS 2007 R2 and Exchange 2007 SP1Unified Messaging. This module details the environment, dial-plan integration, and steps required to add OCS 2007 R2 to Exchange UM infrastructure.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+	<li>Install Exchange 2007 Unified Messaging</li>
+    <li>Configure Exchange 2007 Unified Messaging</li>
+    <li>Lab : Configuring and Using Microsoft Exchange Server 2007 SP1 Unified Messaging - instructs the attendee on integrating OCS 2007 R2 with an Exchange 2007 SP1 UM environment. UM is configured, and then OCS is configured to integrate with the Exchange UM environment.</li>
+</ul>
+<p><strong>Module 9: Developer Platform Overview</strong> - provides insight in the opportunities for developers to expand on the built-in functionality of OCS 2007 R2 and to further integrate it within the organizations business processes.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+	<li>Contextual Collaboration</li>
+    <li>Business Process Communications</li>
+    <li>Anywhere Information Access</li>
+</ul>

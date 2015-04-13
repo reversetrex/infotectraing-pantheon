@@ -1,0 +1,134 @@
+<p><strong> UNIT ONE </strong></p>
+<ul>
+  <li> Theory and Principles of Fiber Optics </li>
+  <li>Principles of Operation </li>
+  <li>System Parameters </li>
+  <li>Optical Sources </li>
+  <li>LED </li>
+  <li>Vertical Surface Emitting Lasers (VCSELs) </li>
+  <li>Lasers </li>
+  <li>Modulation </li>
+  <li>Fiber Types </li>
+  <li>Multimode </li>
+  <li>Restricted Mode Launch Bandwidth </li>
+  <li>Laser Optimized Multimode </li>
+  <li>Single-mode </li>
+  <li>National Electrical Code </li>
+  <li>Building Environments </li>
+  <li>Cable Ratings </li>
+  <li>Cost Comparison Model </li>
+  <li>Cable Selection in Network Design </li>
+  <li>Cable Construction </li>
+  <li>Recommended Cable Types </li>
+  <li>Cable Selection </li>
+  <li><em>Lab/Case Study 1 </em></li>
+</ul>
+<p><strong> UNIT TWO </strong></p>
+<ul>
+  <li> Termination and Splicing </li>
+  <li>Termination Methods </li>
+  <li>Fusion Splicing Methods </li>
+  <li>Mechanical Splicing </li>
+  <li>Loss Analysis </li>
+  <li>Hardware </li>
+  <li>Areas and Types </li>
+  <li>Hardware Selection Factors </li>
+  <li>Main Cross Connect </li>
+  <li>Intermediate Cross Connect </li>
+  <li>Horizontal Cross Connect </li>
+  <li>Telecommunications Room </li>
+  <li>Work Areas </li>
+  <li>Hardware, Connectors, and Splicing </li>
+  <li>Cross Connect Design </li>
+  <li>Cross Connect Design </li>
+  <li>Rack Layout </li>
+  <li>Fiber Management </li>
+  <li><em>Lab/Case Study 2 </em></li>
+  <li>ANSI/TIA/EIA Building Codes </li>
+  <li>Commercial Building Telecommunications Cabling Standard (TIA/EIA-568-B) </li>
+  <li>ANSI/TIA/EIA Engineering Updates </li>
+  <li> Engineering Subcommittees Update </li>
+  <li> Administration Standard for the Telecommunications Infrastructure (TIA/EIA-606) </li>
+  <li><em>Lab/Case Study 3 </em></li>
+</ul>
+<p><strong> UNIT THREE </strong></p>
+<ul>
+  <li> Logical Network Topologies </li>
+  <li>Point to Point </li>
+  <li>Ring </li>
+  <li>Star </li>
+  <li>Mesh </li>
+  <li>Internetworking </li>
+  <li>Network Components </li>
+  <li>Design Considerations </li>
+  <li>Ethernet </li>
+  <li>Open Systems Interconnection (OSI) Model </li>
+  <li>10Mbps Ethernet </li>
+  <li>Carrier Sense Multiple Access/Collision Detection (CSMA/CD) </li>
+  <li>100Mbps Ethernet </li>
+  <li>1000Mbps Ethernet </li>
+  <li>Distance Limitations </li>
+  <li>10 Gigabit Ethernet </li>
+  <li>Differential Mode Delay </li>
+  <li>TIA/EIA-785 </li>
+  <li>Fiber Distribution Data Interface (FDDI) </li>
+  <li>FDDI Functionality </li>
+  <li>Optical Cabling for FDDI </li>
+  <li><em>Lab/Case Study 4</em></li>
+  <li>Fibre Channel </li>
+  <li>Architectures </li>
+  <li>Applications </li>
+  <li>Standards </li>
+  <li>Data Center Design </li>
+  <li>Anatomy of a Data Center </li>
+  <li>Functional Areas </li>
+  <li>Protocols </li>
+  <li>Solutions </li>
+  <li><em>Lab/Case Study 5</em></li>
+</ul>
+<p><strong> UNIT FOUR </strong></p>
+<ul>
+  <li> Voice Networks </li>
+  <li>Voice Signal Digitization </li>
+  <li>Multiplexing Techniques </li>
+  <li>Optical Cabling </li>
+  <li>Video </li>
+  <li>Security Video </li>
+  <li>Conference Video </li>
+  <li>Community Antenna Television (CATV) </li>
+  <li>Security Video Network Design </li>
+  <li><em>Lab/Case Study 6</em></li>
+  <li>Asynchronous Transfer Mode (ATM) </li>
+  <li>ATM Model </li>
+  <li>Optical Cabling for ATM </li>
+  <li>Network Cabling Design </li>
+  <li>Structured Cabling </li>
+  <li>Campus (Interbuilding) Cabling </li>
+  <li>Building (Intrabuilding) Cabling </li>
+  <li>Horizontal Cabling </li>
+  <li>Distributed vs. Centralized Cabling </li>
+  <li>System Redundancy </li>
+</ul>
+<p><strong> UNIT FIVE </strong></p>
+<ul>
+  <li> Free Space Optics </li>
+  <li>Why Free Space Optics </li>
+  <li>Technology </li>
+  <li>Application </li>
+  <li>Value Propositions </li>
+  <li>Determining Fiber Types and Fiber Counts for Gigabit Ethernet LANs </li>
+  <li>Designing Cable Infrastructure </li>
+  <li>Fiber Types in Campus and Building Backbone </li>
+  <li>Choosing Fiber Types and Fiber Counts </li>
+  <li>Choosing Total Fiber Counts </li>
+  <li><em>Lab/Case Study 7 &amp; 8 </em></li>
+  <li>Hub Cabling Design </li>
+  <li>Ladder Rack Systems </li>
+  <li>Raceway </li>
+  <li>Optical Testing and Measurements </li>
+  <li>Reasons for Testing </li>
+  <li>Types of Test Measurements </li>
+  <li>Testing Guidelines </li>
+  <li>Link Loss Calculation </li>
+  <li>ETA Written Examination </li>
+</ul>

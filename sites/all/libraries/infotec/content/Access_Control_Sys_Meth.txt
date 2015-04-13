@@ -1,0 +1,59 @@
+<h2>Session 1</h2>
+  <h3>Section A: Access Control Basics</h3>
+  <ul>
+    <li>Access Control</li>
+    <li>Least Privilege</li>
+    <li>Accountability</li>
+    <li>Physical Access</li>
+    <li>Administrative Access</li>
+    <li>Logical Access</li>
+  </ul>
+  <h3>Section B: Data Classification</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Classification Criteria</li>
+    <li>Data Responsibility</li>
+    <li>Commercial Data</li>
+    <li>Government Data</li>
+  </ul>
+  <h3>Section C: Access Control Techniques</h3>
+  <ul>
+    <li>Control Types</li>
+    <li>Control Categories</li>
+    <li>Security Labels</li>
+    <li>Discretionary</li>
+    <li>Mandatory</li>
+    <li>Nondiscretionary</li>
+    <li>Access Control Lists</li>
+  </ul>
+  <h3>Section D: Access Control Implementation</h3>
+  <ul>
+    <li>Centralized Authentication</li>
+    <li>RADIUS</li>
+    <li>TACACS</li>
+    <li>Decentralized</li>
+    <li>Hybrid Model</li>
+  </ul>
+  <h3>Section E: Identification and Authentication</h3>
+  <ul>
+    <li>Phases</li>
+    <li>Type 1 Authentication</li>
+    <li>Type 2 Authentication</li>
+    <li>Type 3 Authentication</li>
+    <li>Single Sign-on</li>
+    <li>Kerberos</li>
+    <li>Kerberos Process</li>
+    <li>SESAME</li>
+  </ul>
+  <h3>Section F: Attack and Monitor</h3>
+  <ul>
+    <li>Brute Force</li>
+    <li>Dictionary</li>
+    <li>Denial of Service</li>
+    <li>Spoofing</li>
+    <li>Man-in-the-Middle</li>
+    <li>Access Control Assurance</li>
+    <li>Monitoring</li>
+    <li>Intrusion Detection</li>
+    <li>Penetration Testing</li>
+  </ul>

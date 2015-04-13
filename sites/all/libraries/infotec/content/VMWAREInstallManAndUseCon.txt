@@ -1,0 +1,95 @@
+<p><strong>Virtualization Overview</strong></p>
+<ol>
+  <li>What is virtualization?</li>
+  <li>History of Virtualization</li>
+  <li>Different types of virtualization</li>
+  <li>Virtualization Products</li>
+  <li>Reasons to Virtualize</li>
+  <li>Migration Strategies/Issues</li>
+  <li>When virtualization is NOT the answer</li>
+</ol>
+
+<p><strong>Installing ESX</strong></p>
+<ol>
+  <li>Planning for your installation</li>
+  <li>ESX components/Virtualization components</li>
+  <li>Hardware Compatibility issues</li>
+  <li>Basic installation</li>
+  <li>Connecting to ESX via the Web</li>
+  <li>Connecting to ESX via viclient</li>
+</ol>
+
+<p><strong>Networking with ESX</strong></p>
+<ol>
+  <li>Basic Networking Components</li>
+  <li>Physical Switches</li>
+  <li>vSwitches</li>
+  <li>VMotion Network</li>
+</ol>
+
+<p><strong>Storage with ESX</strong></p>
+<ol>
+  <li>Types of Storage</li>
+  <li>VMFS requirements</li>
+  <li>Setting up SANs</li>
+  <li>Setting up NFS or NAS devices</li>
+  <li>VMotion</li>
+</ol>
+
+<p><strong>Managing Your ESX systems with Virtual Center</strong></p>
+<ol>
+  <li>Installation</li>
+  <li>Configuration</li>
+  <li>Features</li>
+</ol>
+
+<p><strong>Creating and Managing Virtual Machines</strong></p>
+<ol>
+  <li>Creating a Virtual Machine</li>
+  <li>Managing Virtual Machines</li>
+</ol>
+
+<p><strong>ESX &ndash; Resource Management</strong></p>
+<ol>
+  <li>Network</li>
+  <li>CPU</li>
+  <li>Memory</li>
+  <li>Issues</li>
+</ol>
+
+<p><strong>Monitoring</strong></p>
+<ol>
+  <li>Tools</li>
+  <li>Service Monitoring</li>
+</ol>
+
+<p><strong>High Availability</strong></p>
+<ol>
+  <li>Configuration</li>
+  <li>Tools</li>
+  <li>Management</li>
+</ol>
+
+<p><strong>Trouble shooting</strong></p>
+<ol>
+  <li>Things that can go wrong</li>
+  <li>Testing</li>
+  <li>Problem Definition</li>
+  <li>Resolution</li>
+</ol>
+
+<p><strong>Security Considerations</strong></p>
+<ol>
+  <li>Tools</li>
+  <li>Port Scanning</li>
+  <li>Firewalls</li>
+  <li>VLANs</li>
+  <li>Change Control</li>
+</ol>
+
+<p><strong>Summary/Review</strong></p>
+<ol>
+  <li>Why ESX?</li>
+  <li>Configuration/Installation</li>
+  <li>Final Technical Considerations</li>
+</ol>

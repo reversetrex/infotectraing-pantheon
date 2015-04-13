@@ -1,0 +1,1 @@
+This course is intended for Windows Server 2008 IT professionals who want to become Windows Server 2008 enterprise administrators and move into the role of designing Active Directory Domain Services (AD DS) environments.

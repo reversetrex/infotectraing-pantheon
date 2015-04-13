@@ -1,0 +1,81 @@
+<p><strong>Lesson 1: Getting Started with Outlook</strong></p>
+
+<ul>
+	<li>Log On to Outlook</li>
+	<li>The Outlook Environment</li>
+	<li>Compose and Send a Simple Message</li>
+	<li>Open a Message</li>
+	<li>Reply to a Message</li>
+	<li>Print a Message</li>
+	<li>Delete a Message</li>
+</ul>
+
+<p><strong>Lesson 2: Composing Messages</strong></p>
+
+<ul>
+	<li>Address a Message</li>
+	<li>Format a Message</li>
+	<li>Check Spelling and Grammar</li>
+	<li>Attach a File</li>
+	<li>Forward a Message</li>
+</ul>
+
+<p><strong>Lesson 3: Managing Mail</strong></p>
+
+<ul>
+	<li>Open and Save an Attachment</li>
+	<li>Flag a Message</li>
+	<li>Create a Folder</li>
+	<li>Move Messages to a Folder</li> 
+	<li>Copy Messages to Folders</li>
+	<li>Delete a Folder</li>
+</ul>
+
+<p><strong>Lesson 4: Scheduling Appointments</strong></p>
+
+<ul>
+	<li>The Outlook Calendar</li>
+	<li>Schedule an Appointment</li>
+	<li>Assign a Category to an Appointment</li> 
+	<li>Update Calendar Entries</li>
+</ul>
+
+<p><strong>Lesson 5: Scheduling Meetings</strong></p>
+
+<ul>
+	<li>Schedule a Meeting</li>
+	<li>Reply to a Meeting Request</li> 
+	<li>Propose a New Meeting Time</li> 
+	<li>Track Meeting Responses</li>
+	<li>Update a Meeting Request</li> 
+	<li>Cancel a Meeting Request</li> 
+	<li>Print the Calendar</li>
+</ul>
+
+<p><strong>Lesson 6: Managing Contacts</strong></p>
+
+<ul>
+	<li>Add a Contact</li>
+	<li>Sort Contacts</li>
+	<li>Find a Contact</li>
+	<li>Generate a Map</li>
+	<li>Edit a Contact</li>
+	<li>Delete a Contact</li>
+	<li>Print Contacts</li>
+</ul>
+
+<p><strong>Lesson 7: Managing Tasks</strong></p>
+
+<ul>
+	<li>Create a Task</li>
+	<li>Edit a Task</li>
+	<li>Update a Task</li>
+</ul>
+
+<p><strong>Lesson 8: Using Notes</strong></p>
+
+<ul>
+	<li>Create a Note</li>
+	<li>Edit a Note</li>
+	<li>Copy a Note</li>
+</ul>

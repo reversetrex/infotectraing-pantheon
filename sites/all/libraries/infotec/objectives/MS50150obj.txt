@@ -1,0 +1,9 @@
+<p><strong>After completing this course, students will  be able to:</strong></p>
+<ol>
+  <li>  Develop  applications using the C# 3.0 language in the .NET Framework 3.5.</li>
+  <li>  Use generic  types and implement generic algorithms to improve application performance and  reliability.</li>
+  <li>  Apply  object-oriented architecture and design principles to .NET applications written  in C#, and combine them with functional programming fundamentals.</li>
+  <li>  Use  attributes and reflection for metadata-driven or aspect-oriented software  development.</li>
+  <li>  Employ  Language-Integrated Query (LINQ) syntax and classes to declaratively implement  data-driven applications.</li>
+  <li>Deploy,  version, configure and register .NET assemblies and applications.</li>
+</ol>

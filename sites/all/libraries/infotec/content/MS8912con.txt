@@ -1,0 +1,21 @@
+<p><strong>Module 1: Configuring Business Units</strong> - This module explains how to set up organizational structures by  maintaining business units within an organization.</p>
+
+<p><strong>Module 2: Configuring Security</strong> - This  module reviews the Microsoft Dynamics CRM security model, including security  roles, privileges, and access levels. This module examines how to maintain  permissions within security roles, and how security permissions are inherited  across business units.</p>
+
+<p><strong>Module 3: Configuring Users and Teams</strong> - This module explains how to define the users who access Microsoft Dynamics CRM and the teams that share Microsoft Dynamics CRM data.</p>
+
+<p><strong>Module 4: Configuring Organizational Settings</strong> - This module reviews a variety of configuration settings that enable each  organization to tailor Microsoft Dynamics CRM to satisfy its business requirements. These settings control the appearance and functionality of the  application; they are defined at the organization level and apply to all business units in a given implementation.</p>
+
+<p><strong>Module 5: Customizing Microsoft Dynamics CRM Overview</strong> - This module introduces all of the application features that can be customized in Microsoft Dynamics CRM and the different ways in which customizations can be applied. This is an introductory section that lays the foundation for the hands-on training that follows.</p>
+
+<p><strong>Module 6: Customizing Forms and Views</strong> - This module examines how to customize the Microsoft Dynamics CRM user interface using the application's customization tools. This includes customizations to the forms used to enter and update data and the views that display lists of  records.</p>
+
+<p><strong>Module 7: Customizing Entities and Attributes</strong> - This module examines how to create new entities and attributes through Microsoft  Dynamics CRM's built-in customization tools.</p>
+
+<p><strong>Module 8: Customizing Relationships and Mappings</strong> - This module identifies the different types of supported relationships in Microsoft Dynamics CRM, as well as the types of behavior that control how certain actions taken on a record affect related records. This training also examines entity mapping.</p>
+
+<p><strong>Module 9: Renaming Entities and Translating Customizations</strong> - This module examines the final two elements related to customizing entities: renaming a customizable entity, and in a multilingual deployment, translating  customized labels into the required languages.</p>
+
+<p><strong>Module 10: Maintaining Organizations through Deployment Manager</strong> - This module examines how Microsoft Dynamics CRM supports multiple organizations in one installation. This training also examines the tools that are available in  Microsoft Dynamics CRM's Deployment Manager utility.</p>
+
+<p><strong>Module 11: Introduction to Advanced Customizations</strong> - This module introduces a variety of advanced customization features that are  available with Microsoft Dynamics CRM. These topics are intended for a developer audience, but the topics are introduced to expose the participant to available advanced customization functionality.</p>

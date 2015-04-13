@@ -1,0 +1,49 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>SharePoint Defined</li>
+    <li>SharePoint Features</li>
+    <li>SharePoint Tools</li>
+    <li>SharePoint Site Job Roles</li>
+    <li>Training Topics</li>
+  </ul>
+  <h3>Section B: Interface Overview</h3>
+  <ul>
+    <li>Understanding SharePoint Front-End</li>
+    <li>Site Navigation Options</li>
+    <li>RSS Feeds</li>
+    <li>Editing Page Content using the Ribbon</li>
+    <li>SharePoint Back-End Editing</li>
+    <li>Working with Site Actions</li>
+    <li>Configuring Alerts</li>
+  </ul>
+  <h3>Section C: Creating Site Collections and Sites</h3>
+  <ul>
+    <li>Creating a Site Collection</li>
+    <li>Creating a Site from a Template</li>
+    <li>Creating a Meeting Site</li>
+    <li>Creating a Blank Site</li>
+    <li>Understanding and Working with My Sites</li>
+  </ul>
+  <h3>Section D: Working with Lists and Libraries</h3>
+  <ul>
+    <li>Adding and Deleting List Items</li>
+    <li>List Item View Options</li>
+    <li>Creating a List from a Template</li>
+    <li>Creating a Custom List</li>
+    <li>Working with Document Libraries</li>
+    <li>Customizing Libraries</li>
+    <li>Creating a Custom Library</li>
+  </ul>
+  <h3>Section E: Creating and Customizing Pages</h3>
+  <ul>
+    <li>Creating a New Page</li>
+    <li>Adding Page Content using Web Parts</li>
+  </ul>
+  <h3>Section F: Office 2010 and SharePoint Integration</h3>
+  <ul>
+    <li>Working with Office Documents</li>
+    <li>Using MS Access Services</li>
+    <li>SharePoint Designer</li>
+    <li>Edit Site Objects</li>
+  </ul>

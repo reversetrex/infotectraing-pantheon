@@ -1,0 +1,52 @@
+<p><strong>Module 1 Getting Started with Data ONTAP</strong></p>
+<ul>
+  <li>List basic storage concepts such as aggregates, RAID groups, volumes, qtrees, and LUNs</li>
+  <li>Describe Data ONTAP features such as Snapshot copies, unified storage, and storage efficiency</li>
+  <li>Describe the similarities and differences between the 7-Mode and clustered Data ONTAP operating systems</li>
+  <li>Use the CLI and GUI for administrative purposes</li>
+</ul>
+<p><strong>Module 2 Hardware Basics</strong></p>
+<ul>
+  <li>Describe the NetApp storage system hardware platforms and the types of disks that they support</li>
+  <li>Describe the hardware components of NetApp storage controllers</li>
+  <li>Use OnCommand System Manager or the CLI to identify hardware components in Data ONTAP operating in 7-Mode and the clustered Data ONTAP operating system</li>
+</ul>
+<p><strong>Module 3 Creating and Managing Aggregates</strong></p>
+<ul>
+  <li>Describe aggregates and RAID groups</li>
+  <li>Create aggregates in Data ONTAP operating in 7-Mode</li>
+  <li>Create aggregates in the clustered Data ONTAP operating system</li>
+  <li>Manage aggregates</li>
+</ul>
+<p><strong>Module 4 Managing NAS Client Access</strong></p>
+<ul>
+  <li>Configure NAS client access in Data ONTAP operating in 7-Mode</li>
+  <li>Configure data storage virtual machines (SVMs*) for NAS client access in clustered Data ONTAP</li>
+  <li>Create FlexVol volumes and qtrees</li>
+</ul>
+<p><strong>Module 5 Managing SAN Client Connections</strong></p>
+<ul>
+  <li>Describe SAN protocol implementation in Data ONTAP operating in 7-Mode and the clustered Data ONTAP operating system</li>
+  <li>Use OnCommand System Manager to create iSCSI-attached LUNs</li>
+  <li>Use NetApp SnapDrive for Windows to create and format iSCSI-attached LUNs</li>
+  <li>Access and manage a LUN from a Windows host</li>
+</ul>
+<p><strong>Module 6 Managing Volumes</strong></p>
+<ul>
+  <li>Explain the relationship between space guarantees, volumes, and aggregates</li>
+  <li>Define thin provisioning and explain how it is used</li>
+  <li>Define deduplication and describe the benefits that it provides</li>
+  <li>Use OnCommand System Manager to set quotas</li>
+</ul>
+<p><strong>Module 7 Managing Snapshot Copies</strong></p>
+<ul>
+  <li>Define the function of Snapshot copies</li>
+  <li>Create and delete a Snapshot copy</li>
+  <li>Create Snapshot policies in the clustered Data ONTAP operating system</li>
+  <li>Restore a volume from a Snapshot copy</li>
+  <li>Create FlexClone volume clones that are backed by Snapshot copies</li>
+</ul>
+<p><strong>Module 8 Steps to Certification</strong></p>
+<ul>
+  <li>Recall the steps to NetApp Certification</li>
+</ul>

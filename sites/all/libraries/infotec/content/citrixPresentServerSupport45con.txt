@@ -1,0 +1,26 @@
+<p><strong>Provided is the topic outline for CTX-1264AI:</strong></p>
+<p><strong>Supporting Presentation Server </strong></p>
+<ul>
+  <li>Presentation Server Components </li>
+  <li>Presentation Server Communication </li>
+  <li>Services Used by Presentation Server </li>
+  <li>Monitoring and Support Tools </li>
+</ul>
+<p><strong>Monitoring the Server Farm </strong></p>
+<ul>
+  <li>Server Farm Monitoring </li>
+  <li>Session Information </li>
+  <li>Session Management Options </li>
+  <li>Metrics, Alarms and Alerts </li>
+  <li>Health Monitoring and Recovery </li>
+  <li>Command-Line Utilities </li>
+  <li>QUERY Commands </li>
+  <li>DSMAINT Command </li>
+</ul>
+<p><strong>Optimizing and Troubleshooting the Server Farm </strong></p>
+<ul>
+  <li>Server Capacity </li>
+  <li>Network Optimization </li>
+  <li>Server Farm Optimization </li>
+  <li>Server Farm Troubleshooting </li>
+</ul>

@@ -1,0 +1,1 @@
+This course focuses on providing the skills and knowledge necessary to install, operate, and troubleshoot a small to medium-size branch office Enterprise network, including configuring several switches and routers, connecting to a WAN and implementing network security.

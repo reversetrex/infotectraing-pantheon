@@ -1,0 +1,7 @@
+<p><strong>Level 1</strong></p>
+
+<p>This course will provide you with the basic skills needed to get started with personal computers and work with the various features, tools, and options available in the Windows 7 operating system. In this course, you will familiarize yourself with the Windows 7 environment, customize Windows 7, and manage folders and files. You will also work with simple tools and browse the Internet using Internet Explorer 8.</p>
+
+<p><strong>Level 2</strong></p>
+
+<p>This course is designed to provide you with skills that will help you manage some of the advanced tasks available in Windows 7. In this course, you will familiarize yourself with the advanced customization techniques and work with applications and programs in Windows 7. In addition to this, you will also work with Internet Explorer 8, manage network communications and data, and enhance system performance.</p>

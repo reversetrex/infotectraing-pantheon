@@ -1,0 +1,17 @@
+<p><strong>Module 1: Introduction to Microsoft SQL Server Analysis Services</strong> - This module introduces common analysis scenarios and describes how Analysis Services provides a powerful  platform for multidimensional OLAP solutions and data mining solutions. The module then describes the main considerations for installing Analysis Services.</p>
+
+<p><strong>Module 2: Creating Multidimensional Analysis Solutions</strong> - This module introduces the development tools you can use to create an Analysis Services multidimensional analysis solution, and describes how to create data sources, data source views,  and cubes.</p>
+
+<p><strong>Module 3: Working with Cubes and Dimensions</strong> - This module describes how to edit dimensions and to configure dimensions, attributes, and hierarchies.</p>
+
+<p><strong>Module 4: Working with Measures and Measure Groups</strong> - This module explains how to edit and configure measures and measure groups.</p>
+
+<p><strong>Module 5: Querying Multidimensional Analysis Solutions</strong> - This module introduces multidimensional expressions (MDX) and describes how to implement calculated  members and named sets in an Analysis Services cube.</p>
+
+<p><strong>Module 6: Customizing Cube Functionality</strong> - This module explains how to customize a cube by implementing key performance indicators (KPIs), actions, perspectives, and translations.</p>
+
+<p><strong>Module 7: Deploying and Securing an Analysis Services Database</strong> - This module describes how to  deploy an Analysis Services database to a production server, and how to implement security in an Analysis Services multidimensional solution.</p>
+
+<p><strong>Module 8: Maintaining a Multidimensional Solution</strong> - This module discusses the maintenance tasks associated with an Analysis Services solution, and describes how administrators can use the Analysis Services management tools to perform  them.</p>
+
+<p><strong>Module 9: Introduction to Data  Mining</strong> - This module introduces data mining, and describes how to implement data mining  structures and models. It then explains how to validate data model accuracy.</p>

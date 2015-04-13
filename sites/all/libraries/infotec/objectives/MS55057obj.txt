@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Browse the data within the cube using SQL Server Management Studio.</li>
+  <li>Browse data using Visual Studio 2013.</li>
+  <li>Connect to a tabular source, import tables, and explore the data.</li>
+  <li>Explore the options and settings available within the new SharePoint 2013 Central Administration.</li>
+  <li>Create a new web application and business intelligence site while exploring the features of both.</li>
+  <li>Create a SharePoint library to hold Excel workbooks and explore trusted file locations.</li>
+  <li>Utilize the Power View add-in for Excel.</li>
+  <li>Create an Excel workbook with a parameter and save it to a SharePoint document library.</li>
+  <li>Add Web Apps to a webpage.</li>
+  <li>Explore the Dashboard Designer interface and know how to create and configure a data source.</li>
+  <li>Create and configure a standard KPI and a scorecard.</li>
+  <li>Create and configure a leaf KPI and a scorecard.</li>
+  <li>Create two blank KPI’s and then roll them into an objective KPI.</li>
+  <li>Create and configure an analytic chart and an analytic grid, add them to a dashboard, deploy them to SharePoint, and explore the options available.</li>
+  <li>Create and configure a filter, and tie the filter into both the analytic chart and analytic grid created earlier.</li>
+  <li>Create and configure a cascading filter and then tie it into a new analytic chart and grid.</li>
+  <li>Create a Time Intelligence data connection, a Time Intelligence filter, and create a report using both.</li>
+  <li>Create four copies of the Objective Scorecard, configure settings in each of the four copies, and deploy them to SharePoint in a dashboard.</li>
+  <li>Create a new leaf KPI and use that KPI in two new scorecards, one with a filter configured, and one without.</li>
+  <li>Create an objective scorecard and matching strategy map, place them in a dashboard, and then upload the dashboard to the Student BI Site.</li>
+  <li>Use PowerPivot within Excel to import a table from SQL Server.</li>
+  <li>View the relationships existing within the imported tables from SQL Server and then import an additional table and configure a relationship between it and the existing.</li>
+  <li>Hide columns they don’t want reflected in the resulting PivotTable.</li>
+  <li>Create a PivotTable within an existing worksheet.</li>
+  <li>Navigate the Report Builder 3.0 interface.</li>
+  <li>Create an embedded data source connecting into a database.</li>
+  <li>Create an embedded data source connecting into an OLAP database.</li>
+  <li>Create a shared data source using the Report Manager.</li>
+  <li>Create a shared dataset using the shared connection they created in the previous exercise.</li>
+  <li>Create a new dashboard and explore three different ways to connect the Web Apps.</li>
+</ul>
+</body>
+</html>

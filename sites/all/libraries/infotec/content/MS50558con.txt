@@ -1,0 +1,273 @@
+<p><strong>Module 1: Introduction and Project Server Overview</strong></p>
+<p>This module provides an overview of Project Server.</p>
+<ul>
+	<li>Project Management Overview</li>
+    <li>Project Server 2010 Overview</li>
+    <li>Project Server Communication Cycle</li>
+    <li>Installation Overview</li>
+</ul>
+
+<p><strong>Module 2: Understanding the Project Web App Interface</strong></p>
+<p>This module explains how to use the Project Web App interface.</p>
+<ul>
+	<li>Exploring Tools for Configuration</li>
+    <li>Exploring the Project Web App User Interface</li>
+    <li>Using the Site Actions Menu</li>
+    <li>Using the Browse Tab and Personal Settings</li>
+    <li>Logging into Project Web App from another Workstation</li>
+    <li>Using the Quick Launch Menu</li>
+    <li>Using Ribbon Menus</li>
+    <li>Exploring the Approval Center</li>
+    <li>Understanding Workflow Approvals</li>
+    <li>Using the Tasks Page</li>
+    <li>Using the Timesheet Page</li>
+    <li>Exploring the Resource Center</li>
+    <li>Understanding Resource Assignments and Resource Availability</li>
+    <li>Understanding the Driver Library and Driver Prioritization</li>
+    <li>Understanding Portfolio Analyses</li>
+    <li>Manipulating and Printing the Date Grid</li>
+    <li>Exporting the Data Grid to Excel</li>
+    <li>Understanding the Administration Interface</li>
+</ul>
+
+<p><strong>Module 3: Creating System Metadata and Calendars</strong></p>
+<p>This module explains how to create custom fields and lookup tables and calendars.</p>
+<ul>
+	<li>Understanding Metadata Changes: Departments, Project Types, Business Drivers</li>
+    <li>Understanding and Creating Custom Enterprise Fields</li>
+    <li>Understanding Built-in Fields and Lookup Tables</li>
+    <li>Understanding the Resource Breakdown Structure</li>
+    <li>Exploring the Health Lookup Table</li>
+    <li>Understanding Fields Controlled by Workflow</li>
+    <li>Understanding and Creating a Custom Field with Formula</li>
+    <li>Understanding Rollup Methods</li>
+    <li>Deleting a Custom Field</li>
+    <li>Synchronizing Working Time with Project Options</li>
+    <li>Importing a Base Calendar</li>
+</ul>
+
+<p><strong>Module 4: Configuring Lifecycle Management</strong></p>
+<p>This module explains how to use and create Enterprise Project Types, workflows, project templates and provides an   overview of demand management scenarios.</p>
+<ul>
+	<li>Understanding Lifecycle Management</li>
+    <li>Understanding Demand Management</li>
+    <li>Understanding Decision Management</li>
+    <li>Understanding Project Types</li>
+    <li>Understanding Departments</li>
+    <li>Understanding Phases and Stages</li>
+    <li>Understanding Project Detail Pages</li>
+    <li>Understanding Lifecycle Configuration Process</li>
+    <li>Understanding a Proposal Lifecycle</li>
+    <li>Understanding the Project Strategic Impact Web Part</li>
+    <li>Configuring Workflow Phases</li>
+    <li>How to Create Enterprise Templates</li>
+    <li>How to Adapt a Workflow for your Needs</li>
+    <li>How to Configure Project Workflow Settings</li>
+</ul>
+
+<p><strong>Module 5: Building and Managing the Enterprise Resource Pool</strong></p>
+<p>This module explains how to build and manage the Enterpriser Resource Pool.</p>
+<ul>
+	<li>Enterprise Resource Pool Overview</li>
+    <li>Understanding Enterprise vs. Local Resources</li>
+    <li>Understanding Enterprise Resource Types</li>
+    <li>How to Edit Resources using Project Professional 2010</li>
+    <li>Understanding Booking Types</li>
+    <li>How to Change Working Time</li>
+    <li>How to Enter Nonworking Time</li>
+    <li>How to Enter Cost Information</li>
+    <li>Understanding Generic Resources</li>
+    <li>How to Create Material Resources</li>
+    <li>Understanding and Using Cost Resources</li>
+    <li>Understanding Team Resources</li>
+    <li>Using Project Web App to Create an Enterprise Resource</li>
+    <li>How to Set Assignment Attributes Option</li>
+    <li>How to Add a Resource to a Team</li>
+    <li>How to Bulk Edit Enterprise Resources</li>
+    <li>How to Batch Edit Enterprise Resources</li>
+    <li>Using Active Directory Synchronization</li>
+    <li>How to Add Resources from the Active Directory</li>
+    <li>How to Deactivate an Enterprise Resource</li>
+</ul>
+
+<p><strong>Module 6: Initial Project Server Configuration</strong></p>
+<p>This module explains how to configure common settings in Project Server.</p>
+<ul>
+	<li>Understand Recommended Order for Configuring Project Server 2010</li>
+    <li>Using the Additional Server Settings Page</li>
+    <li>Using Project Server 2007 Compatibility Mode</li>
+    <li>Using Enterprise Settings</li>
+    <li>Using Currency Settings</li>
+    <li>Using Resource Capacity Settings</li>
+    <li>Using the Resource Plan Work Day Section</li>
+    <li>Understanding Exchange Server Details</li>
+    <li>How to Set Task Mode Settings</li>
+    <li>How to Configure Exchange Server Synch</li>
+    <li>Understanding and Using Alerts and Reminders</li>
+    <li>How to Set Options for the OLAP Cube</li>
+    <li>How to Delete an Existing OLAP Database</li>
+    <li>How to Configure Event Handlers</li>
+</ul>
+
+<p><strong>Module 7: Configuring Time and Task Tracking</strong></p>
+<p>This module explains how to configure the system for time and tasks tracking.</p>
+<ul>
+	<li>Understanding Time and Task Tracking Entities</li>
+    <li>How to Configure Project Server 2010 for Tracking</li>
+    <li>Understanding Timesheet Options</li>
+    <li>Understanding Single Entry and Double Entry Modes</li>
+    <li>How to Disable Timesheet Functionality</li>
+    <li>How to Set the Task Tracking Method</li>
+    <li>How to use Percent Complete Method</li>
+    <li>Using Actual Work Done and Work Remaining Methods</li>
+    <li>Set Up the Timesheet Page</li>
+</ul>
+
+<p><strong>Module 8: Configuring Project Server Security</strong></p>
+<p>This module explains how to configure and manage Project Server security and active directory synchronization for   groups.</p>
+<ul>
+	<li>Understanding Organizational Permissions</li>
+    <li>Understanding Project Web App Permissions</li>
+    <li>Understanding Users vs. Resources</li>
+    <li>Understanding Groups and Categories</li>
+    <li>Overview of Permissions</li>
+    <li>How to Manage Security</li>
+    <li>How to use the Add or Edit Category Page</li>
+    <li>Recommended Settings for Configuring a Security Category</li>
+    <li>How to Delete a Group</li>
+    <li>How to Delete a Category</li>
+    <li>Using and Managing Security Templates</li>
+    <li>Managing Active Directory Synch for Groups</li>
+</ul>
+
+<p><strong>Module 9: Building the Project Environment</strong></p>
+<p>This module explains how to load the Project Server environment with project data.</p>
+<ul>
+	<li>Changing the Status Manager</li>
+</ul>
+
+<p><strong>Module 10: Creating and Managing Views</strong></p>
+<p>This module explains how to create and manage enterprise views in Project Web App and Project 2010.</p>
+<ul>
+	<li>Eleven types of Project Web App views</li>
+    <li>Creating Gantt Chart formats</li>
+    <li>Creating Grouping Formats</li>
+    <li>Creating Views in Project Web App</li>
+    <li>Anatomy of Project Web App views</li>
+    <li>Managing Project Web App views</li>
+    <li>Other Types of PWA Views</li>
+    <li>Deleting a View</li>
+    <li>Understanding Project Client Views</li>
+    <li>Working with the Enterprise Global File</li>
+    <li>Adding Views to the Enterprise Global</li>
+    <li>Using the 4-Step Method to Create a New View</li>
+    <li>Creating Useful Enterprise Views</li>
+</ul>
+
+<p><strong>Module 11: Managing Project Sites</strong></p>
+<p>This module explains how to manage Project Server collaborative workspaces known as Project Sites.</p>
+<ul>
+	<li>Introducing SharePoint</li>
+    <li>Project Site Provisioning Process</li>
+    <li>SharePoint Content Types</li>
+    <li>SharePoint Architecture</li>
+    <li>SharePoint Storage Hierarchy</li>
+    <li>SharePoint Administration</li>
+    <li>SharePoint Security</li>
+    <li>Project Server to SharePoint Synchronization</li>
+    <li>SharePoint Templates and Features</li>
+    <li>Project Sites Toolbar Options</li>
+    <li>Bulk Update Project Sites</li>
+    <li>Customizing Project Sites</li>
+</ul>
+
+<p><strong>Module 12: Configuring Business Intelligence and Reporting</strong></p>
+<p>This module explains how to configure and use SharePoint BI tools for Project Server.</p>
+<ul>
+	<li>Business Intelligence - The What</li>
+    <li>Business Intelligence - The Why</li>
+    <li>Business Intelligence - The How</li>
+    <li>Analytical Tools</li>
+    <li>Traditional vs. Periodic Reporting</li>
+    <li>Reporting Architecture Overview</li>
+    <li>Relational Database vs. OLAP</li>
+    <li>Key Terms</li>
+    <li>OLAP Cube Categories</li>
+    <li>Business Intelligence Delivery Methods</li>
+    <li>Business Intelligence and Reporting</li>
+    <li>Primary Microsoft Business Intelligence Tools</li>
+    <li>Microsoft SharePoint Excel Services Overview</li>
+    <li>Working with Built-in Microsoft Excel Reports</li>
+    <li>Sample Reports</li>
+    <li>Project Key Performance Indicators</li>
+    <li>Dashboard Best Practices</li>
+    <li>Dashboard Development Process</li>
+</ul>
+
+<p><strong>Module 13: Installing Project Server 2010</strong></p>
+<p>This module explains how to install SharePoint and Project Server.</p>
+<ul>
+	<li>Understanding the WFE/App Server Installation Process</li>
+    <li>Installation Overview</li>
+    <li>Minimum Hardware Requirements</li>
+    <li>Minimum Software Requirements</li>
+    <li>Understanding Service Accounts</li>
+    <li>How to Create Domain Global Groups for Reporting</li>
+    <li>Understanding Software Prerequisites</li>
+    <li>Creating Service App Manually</li>
+</ul>
+
+<p><strong>Module 14: Post-Installation Configuration</strong></p>
+<p>This module explains how to perform post-installation configuration for SharePoint and ProjectServer.</p>
+<ul>
+	<li>Understanding the New Service Application Model</li>
+    <li>Understanding Service Applications and their Benefits</li>
+    <li>Understanding Service Application Proxy and Proxy Groups</li>
+    <li>How to Configure Excel Services</li>
+    <li>How to Configure the Secure Store Service Application</li>
+    <li>How to Configure the Cube Building Service</li>
+    <li>Understanding Optional SQL Server Enhancements</li>
+    <li>Configuring your New Instance</li>
+    <li>Understanding the New Excel Services Application</li>
+    <li>Pointing Data Connections to the New Secure Store Target Application</li>
+    <li>Using PSCONFIG</li>
+    <li>Upgrading and Migrating to Project Server 2010</li>
+    <li>Technical and Non-Technical Considerations for Upgrading</li>
+    <li>Planning for Project Client Coexistence</li>
+    <li>Relinking Project Sites</li>
+    <li>Migrating Project Portfolio 2007</li>
+</ul>
+
+<p><strong>Module 15: Managing Project Server Day to Day</strong></p>
+<p>This module explains how to use many resources and techniques to manage, tune and troubleshoot the Project Server   environment.</p>
+<ul>
+	<li>Performing Database Management through PWA</li>
+    <li>Deleting an Enterprise Resource</li>
+    <li>Deleting Status Report Responses</li>
+    <li>Deleting Timesheets</li>
+    <li>Deleting User Delegates</li>
+    <li>Performing Manual Admin Backups</li>
+    <li>Using Administrative Restore</li>
+    <li>Changing or Restarting Workflows</li>
+    <li>Configuring and Managing the Queue</li>
+    <li>Understanding the Queue Process</li>
+    <li>Understanding Queue Optimization</li>
+    <li>Understanding Job States</li>
+    <li>Managing Queue Jobs Page</li>
+    <li>Troubleshooting the Queue</li>
+    <li>Configuring the Queue</li>
+    <li>Monitoring Project Server Licenses</li>
+    <li>Working with Unified Logging Service</li>
+    <li>Using the Reliability and Performance Monitor</li>
+    <li>SQL Server 2008 Maintenance Plan</li>
+    <li>Enabling SharePoint Developer Dashboard</li>
+    <li>Using PSCONFIG</li>
+    <li>Using SharePoint Health Analyzer</li>
+    <li>Adjusting Active Cache Settings</li>
+    <li>Cleaning Up the Local Cache</li>
+    <li>Resolving Local Cache Corruption</li>
+    <li>SharePoint Farm Backup and Recovery</li>
+    <li>Backing Up Site Collections</li>
+    <li>Backing Up Sites and Lists</li>
+    <li>Unattached Content Database Data Recovery</li>
+</ul>

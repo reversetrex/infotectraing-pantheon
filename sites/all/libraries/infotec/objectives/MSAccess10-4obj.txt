@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Share Access data with other applications.</li>
+  <li>Use VBA to automate a business process.</li>
+  <li>Create and modify a database switchboard and set the startup options.</li>
+  <li>Secure and distribute databases.</li>
+  <li>Share databases using a SharePoint site.</li>
+</ul>

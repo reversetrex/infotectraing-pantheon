@@ -1,0 +1,20 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Create a component in Visual Basic .NET and Microsoft Visual C#&trade;. </li>
+  <li> Create an ASP.NET Web Application Project by using Visual Studio .NET. </li>
+  <li> Add server controls to an ASP.NET page. </li>
+  <li> Add functionality to an ASP.NET page. </li>
+  <li> Use the debugging features of Visual Studio .NET. </li>
+  <li> Use validation controls to validate user input. </li>
+  <li> Create a user control. </li>
+  <li> Access data by using the built-in data access tools in Visual Studio .NET. </li>
+  <li> Describe .NET technologies and how ASP.NET integrates with them. </li>
+  <li> Use Microsoft ADO.NET to access data in a Web application. </li>
+  <li> Accomplish complex data access tasks from a Web application. </li>
+  <li> Access Extensible Markup Language (XML) data and read it into a DataSet. </li>
+  <li> Build a XML Web service. </li>
+  <li> Call a XML Web service from a Web application and incorporate the returned data into a Web site. </li>
+  <li> Store application and session data in variables or in a Microsoft SQL Server&trade; database. </li>
+  <li> Configure and deploy an ASP.NET application. </li>
+  <li> Secure a Web application by using Secure Sockets Layer (SSL), Internet Information Services (IIS) authentication, login pages, and integration with the Passport Web Service. </li>
+</ul>

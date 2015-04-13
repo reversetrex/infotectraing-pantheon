@@ -1,0 +1,38 @@
+<p><strong> Unit 1: Advanced Styles </strong></p>
+<ul>
+  <li> The AutoFormat feature </li>
+  <li>Linking styles </li>
+</ul>
+<p><strong> Unit 2: Creating a Form Template </strong></p>
+<ul>
+  <li> Forms and fields </li>
+  <li>Protecting and using a form template </li>
+</ul>
+<p><strong> Unit 3: Using Graphic Effects </strong></p>
+<ul>
+  <li> Working with dropped capital letters and clip art </li>
+  <li>Inserting and editing WordArt </li>
+  <li>Drawing in a document </li>
+</ul>
+<p><strong> Unit 4: Working with Large Documents </strong></p>
+<ul>
+  <li> Creating a table of contents </li>
+  <li>Footnotes and endnotes </li>
+  <li>Bookmarks </li>
+  <li>Cross-references </li>
+  <li>Using a concordance file to index </li>
+  <li>Preparing to print </li>
+</ul>
+<p><strong> Unit 5: Managing Document Changes </strong></p>
+<ul>
+  <li> Using different versions of a document </li>
+  <li>Tracking changes to a document </li>
+  <li>Using highlights and comments </li>
+  <li>Comparing similar documents </li>
+</ul>
+<p><strong> Unit 6: Preparing Word Documents for an Intranet </strong></p>
+<ul>
+  <li> Creating hyperlinks </li>
+  <li>Viewing and editing a web page </li>
+  <li>Inserting multimedia elements into your web pages </li>
+</ul>

@@ -1,0 +1,95 @@
+<h2>Session 1</h2>
+  <h3>Section A: Getting Started with Project Management</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Backstage</li>
+    <li>Operational Tasks/Projects</li>
+    <li>Creating Projects</li>
+    <li>Project Deliverables</li>
+    <li>Project Management</li>
+    <li>Project Management Skills</li>
+    <li>Becoming a Successful Project Manager</li>
+    <li>Programs vs. Projects</li>
+    <li>Program Management</li>
+    <li>Portfolio/Program</li>
+    <li>Portfolio Management</li>
+    <li>Project Stakeholders</li>
+    <li>The Project Life Cycle</li>
+    <li>Project Management Office Group</li>
+    <li>Organization Structure</li>
+  </ul>
+  <h3>Section B: Understanding Project Scope</h3>
+  <ul>
+    <li>Scope Statement</li>
+    <li>The Constraints Triangle</li>
+    <li>Project Assumptions</li>
+    <li>Project Objectives</li>
+    <li>Scope Definition Process</li>
+    <li>Creating an Effective Scope Statement</li>
+  </ul>
+  <h3>Section C: Understanding the Project Schedule</h3>
+  <ul>
+    <li>Work Breakdown Structure</li>
+    <li>Decomposition</li>
+    <li>Creating a WBS</li>
+    <li>Activities</li>
+    <li>Activity Sequencing</li>
+    <li>Dependencies</li>
+    <li>WBS in Microsoft Project 2010</li>
+    <li>WBS Network Diagram View</li>
+    <li>Schedule Additions</li>
+    <li>Lead</li>
+    <li>Lag</li>
+    <li>Resource and Cost Estimates</li>
+    <li>Determining Project Costs</li>
+    <li>Critical Path/Float</li>
+    <li>Creating a Project Schedule</li>
+    <li>WBS Continued</li>
+  </ul>
+  <h3>Section D: Team Management</h3>
+  <ul>
+    <li>Human Resources</li>
+    <li>Project Team</li>
+    <li>Team Acquisition Process</li>
+    <li>Team Building and Incentives</li>
+    <li>Team Members</li>
+  </ul>
+  <h3>Section E: Communicating with Others</h3>
+  <ul>
+    <li>Communication</li>
+    <li>Communication Plan</li>
+    <li>Information Distribution</li>
+    <li>Communication Tools</li>
+    <li>Creating a Communication Plan</li>
+  </ul>
+  <h3>Section F: Risk Analysis</h3>
+  <ul>
+    <li>Risk</li>
+    <li>Risk Over Time</li>
+    <li>Identifying Risks to a Project</li>
+    <li>Guidelines to Identifying Risks</li>
+    <li>Analyzing Risks to a Project</li>
+    <li>Quantitative and Qualitative Analysis</li>
+    <li>Risk Response Plan</li>
+  </ul>
+  <h3>Section G: Project Execution</h3>
+  <ul>
+    <li>Executing a Project</li>
+    <li>Kick-Off Meetings</li>
+    <li>Begin Project Work</li>
+    <li>The Product Execution Process</li>
+    <li>Quality Assurance</li>
+    <li>Change Request</li>
+    <li>Executing the Project Plan</li>
+    <li>Variance Management</li>
+    <li>Tracking Project Progress</li>
+    <li>Evaluating Team Members</li>
+    <li>Performance Reporting</li>
+  </ul>
+  <h3>Section H: Closing a Project</h3>
+  <ul>
+    <li>Closeout Items</li>
+    <li>Close the Project</li>
+    <li>Steps to Closing a Project</li>
+    <li>Final Report</li>
+  </ul>

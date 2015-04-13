@@ -1,0 +1,9 @@
+<p>After completing this   course, students will be able to:</p>
+<ul>
+	<li>Understand the purpose of the Windows Optimized Desktop architecture, and describe its key components.</li>
+    <li>Plan for deploying the Windows Optimized Desktop using appropriate strategies and technologies.</li>
+    <li>Understand how to prepare an environment for successful Windows Optimized Desktop deployments.</li>
+    <li>Deploy Windows 7 and Office 2010 to new computers using appropriate Microsoft deployment tools.</li>
+    <li>Configure and deploy the security components of the Windows Optimized Desktop.</li>
+    <li>Deploy Windows 7 and Office 2010 to existing computers in refresh computer and replace computer scenarios.</li>
+</ul>

@@ -1,0 +1,51 @@
+<p><strong>Unit 1: Controlling Color and Typography</strong></p>
+<ul>
+  <li>Topic 1A: Create an Embedded Style Sheet</li>
+  <li> Topic 1B: Apply Color</li>
+  <li> Topic 1C: Comment Your Code</li>
+  <li> Topic 1D: Modify Text Styles</li>
+  <li> Topic 1E: Modify Font Styles</li>
+  <li> Topic 1F: Create a Linked Style Sheet </li>
+</ul>
+<p><strong>Unit 2: Designing with the Cascade</strong></p>
+<ul>
+  <li>Topic 2A: Create Class Styles</li>
+  <li> Topic 2B: Create ID Styles</li>
+  <li> Topic 2C: Create Contextual Styles</li>
+  <li> Topic 2D: Target Styles to Elements with Specific Attributes</li>
+  <li> Topic 2E: Create Style Sheets that Cascade</li>
+  <li> Topic 2F: Import Style Sheets</li>
+  <li> Topic 2G: Create Inline Styles </li>
+</ul>
+<p><strong>Unit 3: Designing Content Sections</strong></p>
+<ul>
+  <li>Topic 3A: Control Margins and Padding</li>
+  <li> Topic 3B: Create Borders</li>
+  <li> Topic 3C: Control Element Dimensions</li>
+  <li> Topic 3D: Create Floating Elements</li>
+  <li> Topic 3E: Control Content Overflow </li>
+</ul>
+<p><strong>Unit 4: Controlling Layout with Positioning</strong></p>
+<ul>
+  <li>Topic 4A: Control Layout with Absolute Positioning</li>
+  <li> Topic 4B: Create a Fixed Multi-Column Layout</li>
+  <li> Topic 4C: Create a Fluid Multi-Column Layout</li>
+  <li> Topic 4D: Control Layout with Relative Positioning</li>
+  <li> Topic 4E: Control the Display of Layered Elements</li>
+  <li> Topic 4F: Apply Fixed Positioning </li>
+</ul>
+<p><strong>Unit 5: Enhancing an Existing Design</strong></p>
+<ul>
+  <li>Topic 5A: Customize Cursors</li>
+  <li> Topic 5B: Customize Link Styles</li>
+  <li> Topic 5C: Customize Forms</li>
+  <li> Topic 5D: Work with Background Images</li>
+  <li> Topic 5E: Customize Lists</li>
+  <li> Topic 5F: Create Generated Content </li>
+</ul>
+<p><strong>Unit 6: Creating Alternate Style Sheets</strong></p>
+<ul>
+  <li>Topic 6A: Create Accessible Style Sheets</li>
+  <li> Topic 6B: Apply User-Defined System Fonts and Colors</li>
+  <li> Topic 6C: Create a Print Style Sheet </li>
+</ul>

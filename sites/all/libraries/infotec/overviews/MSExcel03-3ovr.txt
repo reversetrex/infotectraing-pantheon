@@ -1,0 +1,1 @@
+You have used Microsoft Office Excel 2003 to perform tasks such as running calculations on data and sorting and filtering numeric data. You would now like to automate some common tasks, apply advanced analysis techniques to more complex data sets, collaborate on worksheets with others, and share Excel data with other applications. In this course, you will do all of these things.

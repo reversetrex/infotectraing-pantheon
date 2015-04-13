@@ -1,0 +1,1 @@
+<p>After completing this class, the student will  have acquired the necessary skills to plan, deploy, and administer Oracle 11g  databases. This class will cover the architecture of Oracle 11g database,  administration, and how to best utilize some of the new features in Oracle 11g.</p>

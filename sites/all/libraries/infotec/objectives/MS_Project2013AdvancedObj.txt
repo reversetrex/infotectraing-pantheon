@@ -1,0 +1,7 @@
+<p>Upon successful completion of this course, students will be able to engage in advanced management of a project plan using Microsoft Project 2013. You will:</p>
+<ul>
+  <li>Manage the project environment.</li>
+  <li>Manage task structures.</li>
+  <li>Generate project views to manage a project.</li>
+  <li>Produce project reports to share a project’s status.</li>
+</ul>

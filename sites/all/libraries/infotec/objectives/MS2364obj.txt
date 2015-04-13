@@ -1,0 +1,11 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Apply knowledge of new productivity features and functionality in Visual Studio 2005 Integrated Development Environment (IDE) to develop software more efficiently </li>
+  <li> Write applications that use the Microsoft Visual Basic&reg; and Microsoft Visual C#&reg; programming language enhancements </li>
+  <li> Build managed code to run inside SQL Server 2005 (codename &quot;Yukon&quot;) </li>
+  <li> Write data access code using the improved functionality in ADO.NET </li>
+  <li> Build Microsoft Windows&reg; Forms applications using new controls and new functionality in the Visual Studio 2005 IDE designers </li>
+  <li> Deploy rich client applications using the new ClickOnce application deployment functionality </li>
+  <li> Build ASP.NET Web applications using new controls and new functionality in the Visual Studio 2005 IDE designers </li>
+  <li> Use the improved enterprise development tools to aid in the design, build and deployment of Service Oriented Architecture (SOA) applications </li>
+</ul>

@@ -1,0 +1,15 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li> Initiate a project. </li>
+  <li> Plan project work. </li>
+  <li> Develop project schedules, cost estimates, and budgets. </li>
+  <li> Plan project quality, staffing, and communications. </li>
+  <li> Analyze project risks. </li>
+  <li> Plan project procurement. </li>
+  <li> Execute project work. </li>
+  <li> Monitor and control project work. </li>
+  <li> Monitor and control project schedule and costs. </li>
+  <li> Monitor and control project quality, staffing, and communications. </li>
+  <li> Monitor and control project risks and contracts. </li>
+  <li> Close the project. </li>
+</ul>

@@ -1,0 +1,94 @@
+<p><strong>Module 1: Troubleshooting the  XenApp Environment</strong></p>
+<ul>
+  <li>Troubleshooting  Methodology</li>
+  <li>Logon Issues</li>
+  <li>User  Sessions</li>
+  <li>Server  Resources</li>
+</ul>
+<p><strong>Module 2: Scaling the XenApp  Environment</strong></p>
+<ul>
+  <li>Farm Configuration  Recommendations</li>
+  <li>Farm  Scalability</li>
+  <li>Scripted  Installation</li>
+  <li>Server Build  Scripting</li>
+  <li>XenApp  Server Templates</li>
+  <li>Data Store  Database Migration</li>
+  <li>Dedicated  Data Collector</li>
+  <li>Web  Interface Planning</li>
+  <li>Delivery  Services</li>
+  <li>XenApp and  XenDesktop Integration</li>
+  <li>XenApp and  Provisioning Services Integration</li>
+  <li>XenApp and  Merchandising Server Integration</li>
+</ul>
+<p><strong>Module 3: Creating Farm  Redundancy</strong></p>
+<ul>
+  <li>Eliminating  Single Points of Failure</li>
+  <li>Disaster  Recovery</li>
+  <li>Load  Balancing</li>
+  <li>XenApp and  NetScaler Integration</li>
+</ul>
+<p><strong>Module 4: Maintaining the  XenApp Environment</strong></p>
+<ul>
+  <li>Farm Setting  Migration</li>
+  <li>Data Store  Database Maintenance</li>
+  <li>Data Store  Database Recovery</li>
+  <li>Local Host  Cache</li>
+  <li>XML Service  Overview</li>
+  <li>Routine  Operations</li>
+  <li>Power and  Capacity Management</li>
+</ul>
+<p><strong>Module 5: Optimizing the  XenApp Environment</strong></p>
+<ul>
+  <li>Performance  Tuning</li>
+  <li>Windows  Server Tuning for XenApp</li>
+  <li>XenApp  Tuning</li>
+  <li>Virtual  Memory Optimization</li>
+  <li>CPU  Optimization</li>
+  <li>Virtual  Machine Sizing</li>
+  <li>Multi-Streaming</li>
+  <li>Accelerating  ICA Traffic with Branch Repeater</li>
+  <li>QoS through  Branch Repeater</li>
+</ul>
+<p><strong>Module 6: Optimizing the User  Environment</strong></p>
+<ul>
+  <li>Access  methods</li>
+  <li>Application  Compatibility</li>
+  <li>Application  Streaming</li>
+  <li>General  Guidelines For Improving Application Performance</li>
+  <li>User  Profiles</li>
+  <li>Session  Pre-Launch</li>
+  <li>User  Connection Configuration</li>
+</ul>
+<p><strong>Module 7: Optimizing Printing</strong></p>
+<ul>
+  <li>Printing  Architecture Review</li>
+  <li>Managing  Printers</li>
+  <li>Citrix  Universal Printer</li>
+  <li>Printing  Performance Policies</li>
+  <li>Non-Native  Printer Drivers</li>
+  <li>Printer  Driver Isolation</li>
+  <li>Printing  Tools</li>
+  <li>Troubleshooting  Printing</li>
+</ul>
+<p><strong>Module 8: Securing XenApp</strong></p>
+<ul>
+  <li>Setting  Rights and Permissions</li>
+  <li>XenVault</li>
+  <li>SSL  Certificates</li>
+  <li>XenApp  Security with Access Gateway</li>
+</ul>
+<p><strong>Module 9: Monitoring XenApp  with Standard Utilities</strong></p>
+<ul>
+  <li>XenApp  Monitoring</li>
+  <li>XenApp  Utilities</li>
+  <li>Citrix  Utilities</li>
+  <li>Third-party  tools</li>
+</ul>
+<p><strong>Module 10: Monitoring XenApp  with EdgeSight</strong></p>
+<ul>
+  <li>EdgeSight  Components</li>
+  <li>Real-Time  Information</li>
+  <li>Reports</li>
+  <li>Alerts</li>
+  <li>Active  Application Monitoring</li>
+</ul>

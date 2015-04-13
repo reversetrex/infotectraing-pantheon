@@ -1,0 +1,145 @@
+<p><strong>Module 1: Introduction to SQL Server 2012 and its Toolset</strong></p>
+<p>This module stresses on the fact that before beginning to work with SQL Server in either a development or an administration role, it is important to understand the overall SQL Server platform. In particular, it is useful to understand that SQL Server is not just a database engine but it is a complete platform for managing enterprise data.</p>
+<ul>
+  <li>Introduction to the SQL Server Platform</li>
+  <li>Working with SQL Server Tools</li>
+  <li>Configuring SQL Server Services</li>
+</ul>
+<p><strong>Module 2: Working with Data Types</strong></p>
+<p>This module explains how to use and convert data types. Also it focuses on how to work with specialized data types, and character data types.</p>
+<ul>
+  <li>Using Data Types</li>
+  <li>Working with Character Data</li>
+  <li>Converting Data Types</li>
+  <li>Specialized Data Types</li>
+</ul>
+<p><strong>Module 3: Designing and Implementing Tables</strong></p>
+<p>This module explains how to design, create, and alter tables. Also it focuses on working with schemas.</p>
+<ul>
+  <li>Designing Tables</li>
+  <li>Working with Schemas</li>
+  <li>Creating and Altering Tables</li>
+</ul>
+<p><strong>Module 4: Ensuring Data Integrity through Constraints</strong></p>
+<p>This module explains how to enforce data integrity, and implement domain integrity to maintain high quality data. Also it focuses on implementing Entity and Referential Integrity.</p>
+<ul>
+  <li>Enforcing Data Integrity</li>
+  <li>Implementing Domain Integrity</li>
+  <li>Implementing Entity and Referential Integrity</li>
+</ul>
+<p><strong>Module 5: Planning for SQL Server 2012 Indexing</strong></p>
+<p>This module explains the core indexing concepts and effectiveness of each data type commonly used in indexes.</p>
+<ul>
+  <li>Core Indexing Concepts</li>
+  <li>Data Types and Indexes</li>
+  <li>Single Column and Composite Indexes</li>
+</ul>
+<p><strong>Module 6: Implementing Table Structures in SQL Server 2012</strong></p>
+<p>This module explains how tables can be structured in SQL Server databases. Also it focuses on designing and working with clustered indexes.</p>
+<ul>
+  <li>SQL Server Table Structures</li>
+  <li>Working with Clustered Indexes</li>
+  <li>Designing Effective Clustered Indexes</li>
+</ul>
+<p><strong>Module 7: Reading SQL Server 2012 Execution Plans</strong></p>
+<p>This module explains how to design additional indexes. Also it focuses on how to read and interpret execution plans.</p>
+<ul>
+  <li>Execution Plan Core Concepts</li>
+  <li>Common Execution Plan Elements</li>
+  <li>Working with Execution Plans</li>
+</ul>
+<p><strong>Module 8: Improving Performance through Nonclustered Indexes</strong></p>
+<p>This module explains how non-clustered indexes have the potential to significantly enhance the performance of applications and how to use a tool that can help design these indexes appropriately.</p>
+<ul>
+  <li>Designing Effective Non-clustered Indexes</li>
+  <li>Implementing Non-clustered Indexes</li>
+  <li>Using the Database Engine Tuning Advisor</li>
+</ul>
+<p><strong>Module 9: Designing and Implementing Views</strong></p>
+<p>This module introduces Views, and explains how to create and manage Views. Also it focuses on the performance consideration for Views.</p>
+<ul>
+  <li>Introduction to Views</li>
+  <li>Creating and Managing Views</li>
+  <li>Performance Considerations for Views</li>
+</ul>
+<p><strong>Module 10: Designing and Implementing Stored Procedures</strong></p>
+<p>This module describes the potential advantages of the use of stored procedures along with guidelines on creating them.</p>
+<ul>
+  <li>Introduction to Stored Procedures</li>
+  <li>Working With Stored Procedures</li>
+  <li>Implementing Parameterized Stored Procedures</li>
+  <li>Controlling Execution Context</li>
+</ul>
+<p><strong>Module 11: Merging Data and Passing Tables</strong></p>
+<p>This module reviews the techniques that provide the ability to process sets of data rather than individual rows. Also it focuses on how these techniques can be used in combination with TABLE parameter types to minimize the number of required stored procedure calls in typical applications.</p>
+<ul>
+  <li>Using the MERGE Statement</li>
+  <li>Implementing Table Types</li>
+  <li>Using TABLE Types As Parameters</li>
+</ul>
+<p><strong>Module 12: Designing and Implementing User-Defined Functions</strong></p>
+<p>This module explains how to design and implement user-defined functions that enforce business rules or data consistency, and modify and maintain existing functions written by other developers.</p>
+<ul>
+  <li>Overview of Functions</li>
+  <li>Designing and Implementing Scalar Functions</li>
+  <li>Designing and Implementing Table-Valued Functions</li>
+  <li>Implementation Considerations for Functions</li>
+  <li>Alternatives to Functions</li>
+</ul>
+<p><strong>Module 13: Creating Highly Concurrent SQL Server 2012 Applications</strong></p>
+<p>This module explains how to use transactions and the SQL Server locking mechanisms to meet the performance and data integrity requirements of your applications.</p>
+<ul>
+  <li>Introduction to Transactions</li>
+  <li>Introduction to Locks</li>
+  <li>Management of Locking</li>
+  <li>Transaction Isolation Levels</li>
+</ul>
+<p><strong>Module 14: Handling Errors in T-SQL Code</strong></p>
+<p>This module explores T-SQL error handling, looks at how it has traditionally been implemented, and how structured exception handling can be used.</p>
+<ul>
+  <li>Understanding T-SQL Error Handling</li>
+  <li>Implementing T-SQL Error Handling</li>
+  <li>Implementing Structured Exception Handling</li>
+</ul>
+<p><strong>Module 15: Responding to Data Manipulation via Triggers</strong></p>
+<p>This module, explains what DML triggers are and how they enforce data integrity. Also it focuses on the different types of triggers available, and how to define triggers in a database.</p>
+<ul>
+  <li>Designing DML Triggers</li>
+  <li>Implementing DML Triggers</li>
+  <li>Advanced Trigger Concepts</li>
+</ul>
+<p><strong>Module 16: Implementing Managed Code in SQL Server 2012</strong></p>
+<p>This module explains how to use CLR integrated code to create user-defined database objects that are managed by the .NET Framework.</p>
+<ul>
+  <li>Introduction to SQL CLR Integration</li>
+  <li>Importing and Configuring Assemblies</li>
+  <li>Implementing SQL CLR Integration</li>
+</ul>
+<p><strong>Module 17: Storing XML Data in SQL Server 2012</strong></p>
+<p>This module introduces XML and shows how XML data can be stored within SQL Server.</p>
+<ul>
+  <li>Introduction to XML and XML Schemas</li>
+  <li>Storing XML Data and Schemas in SQL Server</li>
+  <li>Implementing the XML Data Type</li>
+</ul>
+<p><strong>Module 18: Querying XML Data in SQL Server</strong></p>
+<p>This module shows how XML data can be queried, including queries written in a language called XQuery.</p>
+<ul>
+  <li>Using the T-SQL FOR XML Statement</li>
+  <li>Getting Started with XQuery</li>
+  <li>Shredding XML</li>
+</ul>
+<p><strong>Module 19: Working with SQL Server 2012 Spatial Data</strong></p>
+<p>This module introduces Spatial Data, and explains how to work with SQL Server Spatial Data Types.</p>
+<ul>
+  <li>Introduction to Spatial Data</li>
+  <li>Working with SQL Server Spatial Data Types</li>
+  <li>Using Spatial Data in Applications</li>
+</ul>
+<p><strong>Module 20: Working with Full-Text Indexes and Queries</strong></p>
+<p>This module introduces Full-Text Indexing and how to implement Full-Text Indexes in SQL Server.</p>
+<ul>
+  <li>Introduction to Full-Text Indexing</li>
+  <li>Implementing Full-Text Indexes in SQL Server</li>
+  <li>Working with Full-Text Queries</li>
+</ul>

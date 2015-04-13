@@ -1,0 +1,24 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Use PowerPivot 2013 in Excel.</li>
+  <li>Work with DAX.</li>
+  <li>Create Power View visualizations.</li>
+  <li>Understand data models.</li>
+  <li>Save to SharePoint.</li>
+  <li>Surface on SharePoint.</li>
+  <li>Work with the SharePoint Business Intelligence Center.</li>
+  <li>Create dedicated apps in SharePoint for PowerPivot and Power View.</li>
+  <li>Use PowerPivot within Excel to import a table from SQL Server.</li>
+  <li>Use PowerPivot within Excel to import a table from SQL Server Analysis Services.</li>
+  <li>Hide columns they don’t want reflected in the resulting PivotTable.</li>
+  <li>View the relationships existing within the imported tables from SQL Server and then import an additional table and configure a relationship between it and the existing.</li>
+  <li>Create a PivotTable within an existing worksheet.</li>
+  <li>Navigate and successfully use Power View.</li>
+  <li>Create a table.</li>
+  <li>Create a chart.</li>
+  <li>Save and share their work.</li>
+  <li>Create a BI semantic model.</li>
+  <li>Explore the options and settings available within the new SharePoint 2013 Central Administration and Excel Services.</li>
+  <li>Access and review the Secure Store.</li>
+  <li>Create a new web application and business intelligence site while exploring the features of both.</li>
+</ul>

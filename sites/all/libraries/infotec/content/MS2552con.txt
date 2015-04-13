@@ -1,0 +1,10 @@
+<p><strong> Unit 1: Introduction to Windows SharePoint Services<br>
+</strong>This Unit provides an introduction to the Windows SharePoint Services environment and architecture, and then describes the business requirements that can be addressed by deploying Windows SharePoint Services.</p>
+<p><strong> Unit 2: Working with Windows SharePoint Services<br>
+</strong>This Unit describes how to use the common features of team sites and create and modify lists. As well, the Unit describes how to create and manage libraries and how to create discussions and surveys. The Unit also describes how Windows SharePoint Services integrates with Microsoft Office 2003.</p>
+<p><strong> Unit 3: Installing and Configuring Windows SharePoint Services<br>
+</strong>The first step in deploying a Windows SharePoint Services infrastructure is to install the components. This Unit describes the available deployment options ranging from a single server deployment to a large server farm deployment. It also describes the requisite hardware and software for installation, the supporting services required, and how to extend the virtual server and configure the IIS application pool and SQL databases.</p>
+<p><strong> Unit 4: Administering and Managing Windows SharePoint Services Server<br>
+</strong>This Unit describes how to administer Windows SharePoint Services including how to configure settings for virtual servers, and management techniques for backing up and restoring Windows SharePoint Services. It also describes the SharePoint Configuration Analyzer utility and how to connect to an existing portal server.</p>
+<p><strong> Unit 5: Administering Windows SharePoint Services Sites<br>
+</strong>This Unit describes site hierarchies and procedures for creating sites. It also describes the built-in templates that new sites will be based on and how to view the site and user information for a site collection. This Unit also describes user, group, and permission management for sites, and how authentication works. This Unit also describes how to customize sites, view usage data, limit the amount of space a site can use, and delete a site.</p>

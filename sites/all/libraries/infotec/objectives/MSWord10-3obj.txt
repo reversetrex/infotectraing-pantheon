@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul type="disc">
+  <li>Manage lists.</li>
+  <li>Use Word with other programs.</li>
+  <li>Collaborate on documents.</li>
+  <li>Manage document versions.</li>
+  <li>Add reference marks and notes.</li>
+  <li>Simplify the use of long documents.</li>
+  <li>Secure a document.</li>
+  <li>Create forms.</li>
+</ul>

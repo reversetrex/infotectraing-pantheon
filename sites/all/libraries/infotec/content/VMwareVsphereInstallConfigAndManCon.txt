@@ -1,0 +1,70 @@
+<p><strong>MODULE 1 – Course  Introduction</strong></p>
+<ul type="disc">
+  <li>Introductions and course logistics</li>
+  <li>Course objectives</li>
+</ul>
+<p><strong>MODULE 2 –  Introduction to VMware Virtualization</strong></p>
+<ul type="disc">
+  <li>Introduce virtualization, virtual machines, and vSphere components</li>
+</ul>
+<p><strong>MODULE 3 – Vmware ESX  and ESXi</strong></p>
+<ul type="disc">
+  <li>Introduce the architecture of ESX and ESXi</li>
+  <li>Manually configure ESX/ESXi</li>
+</ul>
+<p><strong>MODULE 4 – Vmware  vCenter Server</strong></p>
+<ul type="disc">
+  <li>Install and configure vCenter Server components</li>
+  <li>Manage vCenter Server Inventory objects</li>
+</ul>
+<p><strong>MODULE 5 – Networking</strong></p>
+<ul type="disc">
+  <li>Create, configure and manage vNetwork standard switches, network connections, and port groups</li>
+</ul>
+<p><strong>MODULE 6 – Storage</strong></p>
+<ul type="disc">
+  <li>Configure ESX/ESXi with iSCSI, NFS, and Fiber Channel storage</li>
+  <li>Create and manage vSphere datastores</li>
+</ul>
+<p><strong>MODULE 7 – Virtual  Machines</strong></p>
+<ul type="disc">
+  <li>Deploy virtual machines using the Create New Virtual Machine wizard, templates, cloning, and VMware vCenter Converter</li>
+  <li>Modify and manage virtual machines</li>
+  <li>Perform Storage vMotion migrations</li>
+</ul>
+<p><strong>MODULE 8 – Access  Control</strong></p>
+<ul type="disc">
+  <li>Control user access through roles and permissions</li>
+</ul>
+<p><strong>MODULE 9 – Resource  Monitoring</strong></p>
+<ul type="disc">
+  <li>Control virtual machine access to CPU, memory, and I/O resources</li>
+  <li>Introduce VMkernel methods for optimizing CPU and memory usage</li>
+  <li>Monitor resource usage using vCenter Server performance graphs and alarms</li>
+</ul>
+<p><strong>MODULE 10 – Data  Protection</strong></p>
+<ul type="disc">
+  <li>Back up and recover virtual machines using VMware Data Recovery</li>
+</ul>
+<p><strong>MODULE 11 –  Scalability</strong></p>
+<ul type="disc">
+  <li>Manage multiple vCenter Server inventories using VMware vCenter Linked Mode</li>
+  <li>Manage ESX/ESXi configuration compliance using Host Profiles</li>
+  <li>Create, configure and manage vNetwork distributed switches, network connections, and port groups</li>
+  <li>Perform VMware vMotion migrations</li>
+  <li>Configure and manage a VMware Distributed Resource Schedule cluster</li>
+  <li>Configure and manage VMware Distributed Power Management</li>
+</ul>
+<p><strong>MODULE 12 – High  Availability</strong></p>
+<ul type="disc">
+  <li>Configure and manage a VMware High Availability cluster</li>
+  <li>Configure fault-tolerant virtual machines using VMware Fault Tolerance</li>
+</ul>
+<p><strong>MODULE 13 – Patch  Management</strong></p>
+<ul type="disc">
+  <li>Manage patching and patch compliance using vCenter Update Manager</li>
+</ul>
+<p><strong>MODULE 14 –  Installing VMware ESX and ESXi </strong></p>
+<ul type="disc">
+  <li>Introduce ESX and ESXi  Installable installation</li>
+</ul>

@@ -1,0 +1,32 @@
+<p><strong> Unit 1: Customizing Windows XP </strong></p>
+<ul>
+  <li> Apply a Theme </li>
+  <li>Customize the Desktop </li>
+  <li>Select a Screen Saver </li>
+  <li>Modify Appearance and Effects </li>
+  <li>Control the Start Menu </li>
+  <li>Customize the Taskbar </li>
+</ul>
+<p><strong> Unit 2: Making Connections </strong></p>
+<ul>
+  <li> An Overview of Networks </li>
+  <li>Add a Printer </li>
+  <li>Share Files </li>
+  <li>Work Remotely </li>
+</ul>
+<p><strong> Unit 3: Using Windows XP and the Internet </strong></p>
+<ul>
+  <li> An Overview of the Internet </li>
+  <li>Search the Internet </li>
+  <li>Keep Windows XP Up-to-date </li>
+  <li>Communicate with Windows Messenger </li>
+  <li>Use Remote Assistance </li>
+</ul>
+<p><strong> Unit 4: Maintaining the Computer </strong></p>
+<ul>
+  <li> Diagnose System Problems </li>
+  <li>Clean Up the Hard Disk </li>
+  <li>Defragment the Hard Disk </li>
+  <li>Back Up and Restore Personal Files </li>
+  <li>Restore System Files </li>
+</ul>

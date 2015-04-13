@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p> 
+<ul>
+  <li>Administer websites.</li>
+  <li>Create a database-driven site.</li>
+  <li>Work with recordsets.</li>
+  <li>Create detail, search, and results pages.</li>
+  <li>Use dynamic form and HTML elements.</li>
+  <li>Administer database records.</li>
+</ul>

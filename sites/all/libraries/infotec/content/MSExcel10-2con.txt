@@ -1,0 +1,40 @@
+<p><strong>Lesson 1: Calculating Data with Advanced Formulas</strong></p>
+<ul>
+  <li><strong>Topic 1A:</strong>Apply Cell and Range Names</li>
+  <li><strong>Topic 1B:</strong>Calculate Data Across Worksheets</li>
+  <li><strong>Topic 1C:</strong>Use Specialized Functions</li>
+  <li><strong>Topic 1D:</strong>Analyze Data with Logical and Lookup Functions</li>
+</ul>
+<p><strong>Lesson 2: Organizing Worksheet and Table Data</strong></p>
+<ul>
+  <li><strong>Topic 2A:</strong>Create and Modify Tables</li>
+  <li><strong>Topic 2B:</strong>Format Tables</li>
+  <li><strong>Topic 2C:</strong>Sort or Filter Data</li>
+  <li><strong>Topic 2D:</strong>Use Functions to Calculate Data<strong></li>
+</ul>
+<p><strong>Lesson 3: Presenting Data Using Charts</strong></p>
+<ul>
+  <li><strong>Topic 3A:</strong>Create a Chart</li>
+  <li><strong>Topic 3B:</strong>Modify Charts</li>
+  <li><strong>Topic 3C:</strong>Format Charts</li>
+</ul>
+<p><strong>Lesson 4: Analyzing Data Using PivotTables, Slicers, and PivotCharts</strong></p>
+<ul>
+  <li><strong>Topic 4A:</strong>Create a PivotTable Report</li>
+  <li><strong>Topic 4B:</strong>Filter Data Using Slicers</li>
+  <li><strong>Topic 4C:</strong>Analyze Data Using PivotCharts</li>
+</ul>
+<p><strong>Lesson 5: Inserting Graphic Objects</strong></p>
+<ul>
+  <li><strong>Topic 5A:</strong>Insert and Modify Pictures and ClipArt</li>
+  <li><strong>Topic 5B:</strong>Draw and Modify Shapes</li>
+  <li><strong>Topic 5C:</strong>Illustrate Workflow Using SmartArt Graphics</li>
+  <li><strong>Topic 5D:</strong>Layer and Group Graphic Objects</li>
+</ul>
+<p><strong>Lesson 6: Customizing and Enhancing the Excel Environment</strong></p>
+<ul>
+  <li><strong>Topic 6A:</strong>Customize the Excel Environment</li>
+  <li><strong>Topic 6B:</strong>Customize Workbooks</li>
+  <li><strong>Topic 6C:</strong>Manage Themes</li>
+  <li><strong>Topic 6D:</strong>Create and Use Templates</li>
+</ul>

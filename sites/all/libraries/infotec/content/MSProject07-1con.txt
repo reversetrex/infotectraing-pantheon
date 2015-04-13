@@ -1,0 +1,38 @@
+<strong>Lesson 1: Getting  Started with Microsoft Project</strong>
+<ul>
+	<li>Topic 1A: Explore the  Microsoft Project 2007 Environment</li>
+	<li>Topic 1B: Display an  Existing Project Plan in Different Views</li>
+</ul>
+<strong>Lesson 2: Creating a  Project Plan</strong>
+<ul>
+	<li>Topic 2A: Create a  New Project Plan </li>
+	<li>Topic 2B: Assign a  Project Calendar </li>
+	<li>Topic 2C: Add Tasks  to the Project Plan </li>
+	<li>Topic 2D: Enter the  Task Duration Estimates </li>
+	<li>Topic 2E: Add  Resources in the Project Plan</li>
+</ul>
+<strong>Lesson 3: Managing  Tasks in a Project Plan</strong>
+<ul>
+	<li>Topic 3A: Outline  Tasks </li>
+	<li>Topic 3B: Add a  Recurring Task </li>
+	<li>Topic 3C: Link  Dependant Tasks </li>
+	<li>Topic 3D: Set a  Constraint to a Task </li>
+	<li>Topic 3E: Set a Task  Deadline </li>
+	<li>Topic 3F: Add Notes  to a Task</li>
+</ul>
+<strong>Lesson 4: Managing  Resources in a Project Plan</strong>
+<ul>
+	<li>Topic 4A: Create a  Resource Calendar </li>
+	<li>Topic 4B: Assign  Resources to Tasks </li>
+	<li>Topic 4C: Assign  Additional Resources to a Task </li>
+	<li>Topic 4D: Enter Costs  for Resources </li>
+	<li>Topic 4E: Enter  Values for Budget Resources </li>
+	<li>Topic 4F: Resolve  Resource Conflicts</li>
+</ul>
+<strong>Lesson 5: Finalizing  the Project Plan</strong>
+<ul>
+	<li>Topic 5A: Display the  Critical Path </li>
+	<li>Topic 5B: Shorten the  Project Duration </li>
+	<li>Topic 5C: Set a  Baseline</li>
+	<li>Topic  5D: Print a Project Summary Report</li>
+</ul>

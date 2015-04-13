@@ -1,0 +1,21 @@
+<h2>Session 1</h2>
+  <h3>Section A: Find and Recruit Employees</h3>
+  <ul>
+    <li>The Hunt</li>
+    <li>Attracting Employees</li>
+    <li>Employment Ads</li>
+  </ul>
+  <h3>Section B: Attracting to Your Hamburger Stand</h3>
+  <ul>
+    <li>The Challenge</li>
+    <li>Internal Job Postings</li>
+    <li>External Job Postings</li>
+    <li>Resource Options</li>
+  </ul>
+  <h3>Section C: Finding the Best Applicant</h3>
+  <ul>
+    <li>Key Words</li>
+    <li>Hunting Process</li>
+    <li>Broaden the Scope</li>
+    <li>Final Challenge</li>
+  </ul>

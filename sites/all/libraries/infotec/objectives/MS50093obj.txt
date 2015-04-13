@@ -1,0 +1,14 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Describe the Forefront Client Security components and architecture, and identify the different server roles.</li>
+  <li>Complete and troubleshoot the server setup process, identify various server topologies, and describe basic MOM concepts and the MOM agent.</li>
+  <li>Identify Forefront Client Security client component characteristics and describe the client setup and deployment processes.</li>
+  <li>Understand Forefront Client Security administration and user roles, Forefront Client Security Policy UI settings and policy deployments, and know how to troubleshoot the Management Console.</li>
+  <li>Understand the reporting services infrastructure used by Forefront Client Security.</li>
+  <li>Use Forefront Client Security reports and alerting services, and troubleshoot reporting procedures.</li>
+  <li>Describe the security state assessment (SSA) component of Forefront Client Security, and understand its architecture.</li>
+  <li>Describe the object processor and manifest update in SSA.</li>
+  <li>Review the SSA Security Check messages and results.</li>
+  <li>Review methods and procedures used to submit malware to Microsoft for analysis.</li>
+</ul>

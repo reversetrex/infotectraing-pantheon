@@ -1,0 +1,88 @@
+<p><strong>Module 1: Preparing for Office 365</strong> - This module reviews the features of Office 365 and identifies recent improvements to the service. It then identifies the challenges in deploying Office 365 the benefits of the FastTrack approach compared to the traditional plan/prepare/migrate deployment process. After this, you examine how to plan the pilot, provision tenant accounts and finally, verify that clients can connect to the Office 365 service.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning a Pilot</li>
+  <li>Introduction to Office 365</li>
+  <li>Provisioning Tenants</li>
+  <li>Enabling Client Connectivity</li>
+</ul>
+<p><strong>Module 2: Managing Users, Groups, and Licenses</strong> - In this module, students learn about managing users, groups, and licenses by using the Office 365 console and Microsoft PowerShell.</p>
+<p>Lessons</p>
+<ul>
+  <li>Manage Users and Licenses by Using the Administration Center</li>
+  <li>Manage Security and Distribution Groups</li>
+  <li>Manage Cloud Identities with Windows PowerShell</li>
+</ul>
+<p><strong>Module 3: Administering Office 365</strong> - In this module, students learn about more complex administration functions, such as the management of administrators themselves, how to configure and set password policies in Office 365, and how to enable and administer rights management to protect confidential documents.</p>
+<p>Lessons</p>
+<ul>
+  <li>Manage Administrator Roles in Office 365</li>
+  <li>Configure Password Management</li>
+  <li>Administer Rights Management</li>
+</ul>
+<p><strong>Module 4: Planning and Managing Clients</strong> - In this module, students learn how to plan for client deployment and ensure that users get the tools they need to interact with Office 365 effectively. This module covers the planning process, how to make Office 365 ProPlus available to end-users directly, and how to deploy it as a managed package. Finally, this module covers how to set up Office telemetry so that administrators can keep track of how users are interacting with Microsoft Office.</p>
+<p>Lessons</p>
+<ul>
+  <li>Plan for Office Clients</li>
+  <li>Manage User-driven Client Deployments</li>
+  <li>Manage IT Deployments of Office 365 ProPlus</li>
+  <li>Office Telemetry and Reporting</li>
+</ul>
+<p><strong>Module 5: Planning DNS and Exchange Migration</strong> - In this module, you move on learn about the factors that cover DNS domain configuration for Office 365, where you need to add the customer's existing domain or domains to Office 365. This module also covers the individual settings that you need to configure so that each Office 365 service works correctly and fully supports client access. These activities typically happen in the Deploy phase of the FastTrack process.</p>
+<p>So far, you have been looking at Office 365 on its own. In this module, you move on to considering what you have to cover when migrating services from your on-premise environment, starting with your email system. This module addresses the key issues of migrating email accounts to Exchange Online and the planning involved in that process. In the lab, you will practice that planning and then carry out a cutover migration from your on-premises environment to Exchange Online.</p>
+<p>Lessons</p>
+<ul>
+  <li>Add and Configure Custom Domains</li>
+  <li>Recommend a Mailbox Migration Strategy</li>
+  <li>Configure external user sharing</li>
+</ul>
+<p><strong>Module 6: Planning Exchange Online and Configuring DNS Records</strong> - In this module, you learn about the factors that cover DNS domain configuration for Office 365, where you need to add the customer's existing domain or domains to Office 365. This module also covers the individual settings that you need to configure so that each Office 365 service works correctly and fully supports client access. These activities typically happen in the Deploy phase of the FastTrack process.</p>
+<p>So far, you have been looking at Office 365 on its own. In this module, you examine the scenario in which you migrate services from your on-premise environment, starting with your email system. This module addresses the key issues of migrating email accounts to Exchange Online and the planning involved in that process. In the lab, you will practice that planning and then carry out a cutover migration from your on-premises environment to Exchange Online.</p>
+<p>Lessons</p>
+<ul>
+  <li>Plan for Exchange Online</li>
+  <li>Configure DNS Records for Services</li>
+</ul>
+<p><strong>Module 7: Administering Exchange Online</strong> - In this module, you learn how to configure Exchange Online settings that you planned in the previous module, including archive polices, anti-malware and anti-spam settings, additional email addresses and external contacts and resources. These are actions that you would typically carry out during the Deploy phase of the Office 365 FastTrack deployment or as part of the normal management operations of Exchange Online.</p>
+<p>You typically carry out these actions through the Office 365 portal, although you can also use the Windows Azure Active Directory PowerShell console to access additional features.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configure Personal Archive Policies</li>
+  <li>Manage Anti-malware and Anti-spam Policies</li>
+  <li>Configure Additional Email Addresses for Users</li>
+  <li>Create and Manage External Contacts, Resources, and Groups</li>
+</ul>
+<p><strong>Module 8: Configuring SharePoint Online</strong> - In this module, students learn how to plan a SharePoint Online implementation that reflects the customer's needs and then create site collections that reflect those requirements. This module then covers the process of external user sharing with SharePoint Online and describes how this arrangement helps organizations share information more effectively.</p>
+<p>Lessons</p>
+<ul>
+  <li>Manage SharePoint Site Collections</li>
+  <li>Configure External User Sharing</li>
+  <li>Plan a Collaboration Solution</li>
+</ul>
+<p><strong>Module 9: Configuring Lync Online</strong> - In this module, students learn how to identify factors in the customer's environment that need to be reflected in the Lync Online deployment plan, then configure Lync Online to reflect the customer's business requirements, both at the end-user level and at the organization level.</p>
+<p>Lessons</p>
+<ul>
+  <li>Plan for Lync Online</li>
+  <li>Configure Lync Online Settings</li>
+</ul>
+<p><strong>Module 10: Implementing Directory Synchronization</strong> - In this module, students learn how to plan, prepare and implement DirSync as a methodology for user and group management in an Office 365 deployment. The module covers the preparation of an on-premises environment, the installation and configuration of DirSync, and how to manage Active Directory users after DirSync has been enabled.</p>
+<p>Lessons</p>
+<ul>
+  <li>Prepare On-premises Active Directory for DirSync</li>
+  <li>Set up DirSync</li>
+  <li>Manage Active Directory Users and Groups with DirSync In Place</li>
+</ul>
+<p><strong>Module 11: Implementing Active Directory Federation Services</strong> - In this module, students learn to plan for single sign-on (SSO) by using Active Directory Federation Services (AD FS) and then cover the process for setting up an AD FS server farm and an AD FS proxy. This module also cover the management process for certificates and the AD FS servers.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning for AD FS</li>
+  <li>Install and Manage AD FS Servers</li>
+  <li>Install and Manage AD FS Proxy Servers</li>
+</ul>
+<p><strong>Module 12: Monitoring Office 365</strong> - In this module, students learn about monitoring user connections to Office 365 and how to cope with service outages. They look at a range of tools that diagnose service health and review the reports that Office 365 provides.</p>
+<p>Lessons</p>
+<ul>
+  <li>Isolate Service Interruption</li>
+  <li>Monitor Service Health</li>
+  <li>Analyze Reports</li>
+</ul>

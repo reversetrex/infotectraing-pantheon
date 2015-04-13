@@ -1,0 +1,135 @@
+<h2>Session 1</h2>
+  <h3>Section A: Post-Production: Getting Started</h3>
+  <ul>
+    <li>Premiere Pro Welcome Page</li>
+    <li>Setting Up a Project</li>
+    <li>Scratch Disks</li>
+    <li>Codec</li>
+    <li>The Premiere Pro Interface</li>
+    <li>Customizing the Workspace</li>
+    <li>The Project Panel</li>
+    <li>Panels I</li>
+    <li>Panels II</li>
+    <li>Panels III</li>
+    <li>Panel Menu Options</li>
+  </ul>
+  <h3>Section B: Post-Production: File Management</h3>
+  <ul>
+    <li>Importing Media</li>
+    <li>Capture Settings</li>
+    <li>Tape Capture/Playback Controls</li>
+    <li>Logging Settings</li>
+    <li>Batch Capturing</li>
+    <li>Capture using Scene Detect</li>
+    <li>Capture Live using Premiere</li>
+    <li>Adobe OnLocation</li>
+    <li>Importing OL Media</li>
+  </ul>
+  <h3>Section C: Post-Production: Creating a Rough Cut</h3>
+  <ul>
+    <li>Trimming via Source Panel</li>
+    <li>Additional SP Controls</li>
+    <li>Media on the Timeline</li>
+    <li>Overlay/Insert</li>
+    <li>Rough Cut</li>
+    <li>Manipulation of Clips</li>
+    <li>Audio/Video Only</li>
+    <li>Track Controls</li>
+    <li>Tools I</li>
+    <li>Work Bar/Markers</li>
+    <li>Lift/Extract</li>
+    <li>Nesting Sequences</li>
+    <li>Advanced Editing</li>
+    <li>Non-Destructive Editing</li>
+    <li>Tools II</li>
+    <li>Tools III</li>
+    <li>Trim Monitor</li>
+  </ul>
+  <h3>Section D: Post-Production: Titles, Transitions</h3>
+  <ul>
+    <li>Creating a Title</li>
+    <li>Using the Titler</li>
+    <li>Title Properties</li>
+    <li>Styles/Actions</li>
+    <li>Roll/Crawl</li>
+    <li>Working with Transitions</li>
+    <li>Transitions with FX Controls</li>
+  </ul>
+  <h3>Section E: Post-Production: Effects</h3>
+  <ul>
+    <li>Working with Effects</li>
+    <li>Keyframe Animation</li>
+    <li>Temporal/Spatial Interpolation</li>
+    <li>Linear/Bezier Interpolation</li>
+    <li>Opacity</li>
+    <li>Blend Modes</li>
+    <li>Pic-in-Pic/Bevel/Drop Shadow</li>
+    <li>3D Effects</li>
+    <li>Clip Speed/Duration</li>
+    <li>Effects on Multiple Sequences</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Post-Production: Audio Editing</h3>
+  <ul>
+    <li>Music/Mood</li>
+    <li>J and L Cuts</li>
+    <li>Foley Sounds</li>
+    <li>Adjusting Audio Levels</li>
+    <li>Background Track</li>
+    <li>Gain/Power</li>
+    <li>Unnecessary Audio</li>
+    <li>Audio Mixer</li>
+    <li>Audio Channels/Sample Rate</li>
+    <li>Mixing Tracks with Transitions</li>
+  </ul>
+  <h3>Section B: Post-Production: Finalizing the Project</h3>
+  <ul>
+    <li>Exporting</li>
+    <li>Export Settings/Format Options</li>
+    <li>Batch Exporting</li>
+    <li>Point/Paragraph Text</li>
+    <li>Color Bars/Tone</li>
+    <li>Universal Counting Leader</li>
+    <li>Credits</li>
+    <li>Metadata</li>
+    <li>Export Frame</li>
+    <li>Export As Sequence</li>
+  </ul>
+  <h3>Section C: Lab 1: Creating a Slideshow</h3>
+  <ul>
+    <li>Importing Files</li>
+    <li>Organizing Images</li>
+    <li>Automate to Sequence</li>
+    <li>Copy and Paste</li>
+    <li>Music and Narration</li>
+    <li>Motion and Keyframes</li>
+    <li>Save Preset</li>
+    <li>Title</li>
+    <li>Exporting Final Video</li>
+    <li>Slideshow Test</li>
+  </ul>
+  <h3>Section D: Lab 2: Creating an Interview</h3>
+  <ul>
+    <li>Planning</li>
+    <li>Shooting the Interview</li>
+    <li>Importing/Cutting the A-Roll</li>
+    <li>B-Roll</li>
+    <li>Adding Graphics/PSDs</li>
+  </ul>
+  <h3>Section E: Lab 3: Creating an Action Sequence</h3>
+  <ul>
+    <li>Writing the Script</li>
+    <li>Storyboarding</li>
+    <li>Creating a Shot List</li>
+    <li>Import, Link, and Pre-cut</li>
+    <li>Import OL Project into Premiere</li>
+    <li>The Rough Cut</li>
+    <li>Editing</li>
+    <li>Color Correction</li>
+    <li>Audio/Video Rendering</li>
+    <li>Audio/Background Music</li>
+    <li>Copying Item Attributes</li>
+    <li>Nesting from Multiple Editors</li>
+    <li>Photoshop Files</li>
+    <li>Export Files</li>
+  </ul>

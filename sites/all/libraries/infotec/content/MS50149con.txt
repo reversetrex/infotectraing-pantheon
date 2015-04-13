@@ -1,0 +1,26 @@
+<ul>
+  <li>Module 1: Overview</li>
+  <li>Module 2: Installing</li>
+  <li>Module 3: SharePoint Architecture</li>
+  <li>Module 4: StsAdm</li>
+  <li>Module 5: SharePoint Services</li>
+  <li>Module 6: PowerShell</li>
+  <li>Module 7: General Operations Tasks</li>
+  <li>Module 8: Information Rights Management</li>
+  <li>Module 9: AntiVirus</li>
+  <li>Module 10: Information Management Policy</li>
+  <li>Module 11: Single Sign On</li>
+  <li>Module 12: Logging Settings</li>
+  <li>Module 13: Usage Analysis Processing</li>
+  <li>Module 14: Content Deployment</li>
+  <li>Module 15: Back Up and Restore</li>
+  <li>Module 16: Timer Jobs</li>
+  <li>Module 17: Shared Services Provider</li>
+  <li>Module 18: Application Security</li>
+  <li>Module 19: InfoPath Services</li>
+  <li>Module 20: Business Data Catalog</li>
+  <li>Module 21: Search</li>
+  <li>Module 22: Excel Services</li>
+  <li>Module 23: User Profiles My Sites</li>
+  <li>Module 24: Performance Optimization</li>
+</ul>

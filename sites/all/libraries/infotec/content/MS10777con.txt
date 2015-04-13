@@ -1,0 +1,88 @@
+<p><strong>Module 1: Introduction to Data Warehousing</strong></p>
+<p>This module provides an introduction to the key components of a data warehousing solution and the high-level considerations you must take into account when starting a data warehousing project.</p>
+<ul>
+  <li>Overview of Data Warehousing</li>
+  <li>Considerations for a Data Warehouse Solution</li>
+</ul>
+<p><strong>Module 2: Data Warehouse Hardware</strong></p>
+<p>This module describes the characteristics of typical data warehouse workloads, and explains how you can use reference architectures and data warehouse appliances to ensure you build the system that is right for your   organization.</p>
+<ul>
+  <li>Considerations for Building a Data Warehouse</li>
+  <li>Data Warehouse Reference Architectures and Appliances</li>
+</ul>
+<p><strong>Module 3: Designing and Implementing a Data Warehouse</strong></p>
+<p>In this module, you will learn how to implement the logical and physical architecture of a data warehouse based on industry-proven design principles.</p>
+<ul>
+  <li>Logical Design for a Data Warehouse</li>
+  <li>Physical Design for a Data Warehouse</li>
+</ul>
+<p><strong>Module 4: Creating an ETL Solution with SSIS</strong></p>
+<p>This module discusses considerations for implementing an ETL process, and then focuses on SQL Server Integration Services (SSIS) as a platform for building ETL solutions.</p>
+<ul>
+  <li>Introduction to ETL with SSIS</li>
+  <li>Exploring Source Data</li>
+  <li>Implementing Data Flow</li>
+</ul>
+<p><strong>Module 5: Implementing Control Flow in an SSIS Package</strong></p>
+<p>Control flow in SQL Server Integration Services packages enables you to implement complex ETL solutions that combine multiple tasks and workflow logic. This module covers how to implement control flow, and design robust ETL   processes for a data warehousing solution that coordinate data flow operations with other automated tasks.</p>
+<ul>
+  <li>Introduction to Control Flow</li>
+  <li>Creating Dynamic Packages</li>
+  <li>Using Containers</li>
+  <li>Managing Consistency</li>
+</ul>
+<p><strong>Module 6: Debugging and Troubleshooting SSIS Packages</strong></p>
+<p>This module describes how you can debug SQL Server Integration Services (SSIS) packages to find the cause of errors that occur during execution. Then module then covers the logging functionality built into SSIS you can use to log events for troubleshooting purposes. Finally, the module describes common approaches for handling errors in control flow and data flow.</p>
+<ul>
+  <li>Debugging an SSIS Package</li>
+  <li>Logging SSIS Package Events</li>
+  <li>Handling Errors in an SSIS Package</li>
+</ul>
+<p><strong>Module 7: Implementing an Incremental ETL Process</strong></p>
+<p>This module describes the techniques you can use to implement an incremental data warehouse refresh process.</p>
+<ul>
+  <li>Introduction to Incremental ETL</li>
+  <li>Extracting Modified Data</li>
+  <li>Loading Modified Data</li>
+</ul>
+<p><strong>Module 8: Incorporating Data from the Cloud into a Data Warehouse</strong></p>
+<p>In this module, you will learn about how you can use cloud computing in your data warehouse infrastructure and learn about the tools and services available from the Microsoft Azure Marketplace.</p>
+<ul>
+  <li>Overview of Cloud Data Sources</li>
+  <li>SQL Server Database</li>
+  <li>The Windows Azure Marketplace</li>
+</ul>
+<p><strong>Module 9: Enforcing Data Quality</strong></p>
+<p>Ensuring the high quality of data is essential if the results of data analysis are to be trusted. This module explains how to use the SQL Server 2012 Data Quality Services (DQS) to provide a computer assisted process for cleansing data values and identifying and removing duplicate data entities.</p>
+<ul>
+  <li>Introduction to Data Quality</li>
+  <li>Using Data Quality Services to Cleanse Data</li>
+  <li>Using Data Quality Services to Match Data</li>
+</ul>
+<p><strong>Module 10: Using Master Data Services</strong></p>
+<p>This module introduces Master Data Services and explains the benefits of using it in a data warehousing context. The module also describes the key configuration options for Master Data Services, and explains how to import and   export data. Finally, the module explains how to apply rules that help to preserve data integrity, and introduces the new Master Data Services Add-in for Excel.</p>
+<ul>
+  <li>Introduction to Master Data Services</li>
+  <li>Implementing a Master Data Services Model</li>
+  <li>Using the Master Data Services Add-in for Excel</li>
+</ul>
+<p><strong>Module 11: Extending SQL Server Integration Services</strong></p>
+<p>This module describes the techniques you can use to extend SQL Server Integration Services (SSIS). The module is not designed to be a comprehensive guide to developing custom SSIS solutions, but to provide an awareness of the   fundamental steps required to use custom components and scripts in an ETL process that is based on SSIS.</p>
+<ul>
+  <li>Using Custom Components in SSIS</li>
+  <li>Using Scripts in SSIS</li>
+</ul>
+<p><strong>Module 12: Deploying and Configuring SSIS Packages</strong></p>
+<p>SQL Server Integration Services provides tools that make it easy to deploy packages to another computer. The deployment tools also manage any dependencies,   such as configurations and files that the package needs. In this module, you will learn how to use these tools to install packages and their dependencies on a target computer.</p>
+<ul>
+  <li>Overview of SSIS Deployment</li>
+  <li>Deploying SSIS Projects</li>
+  <li>Planning SSIS Package Execution</li>
+</ul>
+<p><strong>Module 13: Consuming Data in a Data Warehouse</strong></p>
+<p>This module introduces Business Intelligence (BI), describes the components of SQL Server that you can use to create a BI solution, and the client tools that users can use to create reports and analyze data.</p>
+<ul>
+  <li>Introduction to Business Intelligence</li>
+  <li>Introduction to Reporting</li>
+  <li>Introduction to Data Analysis</li>
+</ul>

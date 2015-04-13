@@ -1,0 +1,169 @@
+<p><strong>Module 1 / Supporting Windows 1</strong></p>
+<ul>
+ <li>Windows Operating System</li>
+ <li>What is an Operating System?</li>
+ <li>Windows 7</li>
+ <li>Windows Vista</li>
+ <li>Windows XP</li>
+ <li>Windows Upgrade Paths</li>
+ <li>Windows 7</li>
+ <li>Administration Tools</li>
+ <li>Control Panel</li>
+ <li>System Properties</li>
+ <li>Microsoft Management Consoles and Administrative Tools</li>
+ <li>Command Prompt and Text Editors</li>
+ <li>Directory Structures and User Profiles</li>
+ <li>Shut Down</li>
+ <li>Windows Registry</li>
+ <li>System Administration Tools</li>
+ <li>Managing Users</li>
+ <li>User and Group Accounts</li>
+ <li>User Account Control</li>
+ <li>Managing User Accounts</li>
+ <li>Configuring Users and Groups</li>
+ <li>User Account Management</li>
+ <li>Managing Storage</li>
+ <li>Disk and Volume Management</li>
+ <li>Disk Management Tool</li>
+ <li>Adding Arrays (Dynamic Storage)</li>
+ <li>Drive Status</li>
+ <li>Command Line Disk Management</li>
+ <li>Mount Points and Disk Images</li>
+ <li>Disk Management</li>
+ <li>Managing Files</li>
+ <li>Windows Explorer</li>
+ <li>Folder Options</li>
+ <li>Navigating Directories at the Command Prompt</li>
+ <li>File Management using a Command Prompt</li>
+ <li>File Management</li>
+</ul>
+<p><strong>Module 2 / Supporting Windows</strong></p>
+<ul>
+ <li>Managing Applications</li>
+ <li>Managing Software</li>
+ <li>Managing Services</li>
+ <li>msconfig</li>
+ <li>Task Manager</li>
+ <li>Application Management</li>
+ <li>Managing Devices</li>
+ <li>Configuring Hardware</li>
+ <li>Display Settings</li>
+ <li>Power Management</li>
+ <li>Device Management</li>
+ <li>Managing Performance</li>
+ <li>Viewing System Information</li>
+ <li>Performance Monitor</li>
+ <li>Reliability and Performance Monitor</li>
+ <li>Advanced System Properties</li>
+ <li>System Management Utilities</li>
+ <li>Maintenance and Backup</li>
+ <li>Maintaining and Optimizing Drives</li>
+ <li>Task Scheduler</li>
+ <li>Patch Management</li>
+ <li>Data Backup</li>
+ <li>Restoring User Profiles</li>
+ <li>Windows Maintenance Tasks</li>
+ <li>Installing Windows</li>
+ <li>Overview of OS Installations</li>
+ <li>Installation Boot Methods</li>
+ <li>Preparing the Hard Disk</li>
+ <li>Completing an Attended Installation</li>
+ <li>Options for Deploying Windows</li>
+ <li>Installing and Configuring Windows XP</li>
+ <li>Installing Windows Vista</li>
+ <li>Virtualization</li>
+ <li>Virtualization Defined</li>
+ <li>Virtual Platform Applications</li>
+</ul>
+<p><strong>Module 3 / Troubleshooting Windows</strong></p>
+<ul>
+ <li>Troubleshooting Theory</li>
+ <li>Troubleshooting Models and Processes</li>
+ <li>Troubleshooting Procedures</li>
+ <li>Troubleshooting Boot Problems</li>
+ <li>Windows Boot Process</li>
+ <li>Advanced Boot Options Menu</li>
+ <li>Troubleshooting Boot Problems</li>
+ <li>System Restore</li>
+ <li>System Recovery Tools</li>
+ <li>Command Prompt Recovery Tools</li>
+ <li>Boot Troubleshooting</li>
+ <li>Automated System Recovery</li>
+ <li>Troubleshooting Applications</li>
+ <li>Event Viewer</li>
+ <li>Windows Error Reporting</li>
+ <li>Troubleshooting Windows Errors</li>
+ <li>Event Viewer</li>
+ <li>Viruses and Malware</li>
+ <li>Types of Malware</li>
+ <li>Malware Symptoms</li>
+ <li>Preventing Malware Infections</li>
+ <li>Anti-Virus Software</li>
+ <li>Windows Security Tools</li>
+ <li>Anti-Virus Software</li>
+ <li>Workstation and Data Security</li>
+ <li>Security Fundamentals</li>
+ <li>Access Control</li>
+ <li>Authentication</li>
+ <li>Accounting</li>
+ <li>Social Engineering</li>
+ <li>Workstation Security</li>
+ <li>Data Security</li>
+ <li>Account and Password Policies</li>
+</ul>
+<p><strong>Module 4 / Troubleshooting PC Hardware</strong></p>
+<ul>
+ <li>Troubleshooting System Components</li>
+ <li>Troubleshooting Basic Hardware Problems</li>
+ <li>Troubleshooting Power Problems</li>
+ <li>Troubleshooting POST</li>
+ <li>Troubleshooting Motherboard Components</li>
+ <li>Testing Hardware Components</li>
+ <li>Troubleshooting Storage and Video</li>
+ <li>Troubleshooting Hard Drives</li>
+ <li>Troubleshooting Failures in RAID</li>
+ <li>Troubleshooting Display Problems</li>
+ <li>Diagnosing System Errors</li>
+ <li>Troubleshooting Laptops</li>
+ <li>Laptop Disassembly Processes</li>
+ <li>Troubleshooting Laptops</li>
+ <li>Troubleshooting Printers</li>
+ <li>Windows Printing Features</li>
+ <li>Configuring Printers</li>
+ <li>Troubleshooting Windows Print Problems</li>
+ <li>Troubleshooting Print Defects</li>
+ <li>Printer Maintenance</li>
+</ul>
+<p><strong>Module 5 / Supporting Networks</strong></p>
+<ul>
+ <li>Configuring Network Connections</li>
+ <li>Network Adapter Properties</li>
+ <li>Establishing Networking Connections</li>
+ <li>Securing Networks</li>
+ <li>Network Adapter Properties</li>
+ <li>Configuring Shared Resources</li>
+ <li>Domains and Workgroups</li>
+ <li>Configuring a Windows Client</li>
+ <li>Configuring File/Print Sharing</li>
+ <li>Offline Files</li>
+ <li>NTFS File Permissions</li>
+ <li>Simple File Sharing and Home Groups</li>
+ <li>Remote Access Utilities</li>
+ <li>Windows Networking</li>
+ <li>Remote Desktop</li>
+ <li>Configuring Internet Access</li>
+ <li>Establishing Internet Connections</li>
+ <li>Configuring the Browser</li>
+ <li>Windows Firewall</li>
+ <li>Troubleshooting Networks</li>
+ <li>Troubleshooting Networks</li>
+ <li>Troubleshooting IP</li>
+ <li>Troubleshooting Routing and Name Resolution</li>
+ <li>Troubleshooting Network Hardware</li>
+ <li>Troubleshooting Networks</li>
+ <li>Mobile Devices</li>
+ <li>Mobile Device Hardware</li>
+ <li>Mobile Operating Systems</li>
+ <li>Network Connectivity</li>
+ <li>Securing Mobile Devices</li>
+</ul>

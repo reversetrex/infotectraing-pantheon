@@ -1,0 +1,15 @@
+<p><strong>After completing  this course, students will be able to: </strong></p>
+<ul>
+  <li>Implement an administrative solution for SQL Server 2008. </li>
+  <li>Deploy SQL Server 2008. </li>
+  <li>Design the physical structure for SQL Server 2008. </li>
+  <li>Design a strategy for maintaining SQL Server 2008. </li>
+  <li>Design a strategy for managing SQL Server 2008. </li>
+  <li>Automate the database managing strategy for SQL Server 2008. </li>
+  <li>Design a strategy for securing databases in SQL Server 2008. </li>
+  <li>Design a strategy for monitoring SQL Server 2008. </li>
+  <li>Design a strategy for content distribution in SQL Server 2008. </li>
+  <li>Design a strategy for replication in SQL Server 2008. </li>
+  <li>Design a high availability solution for SQL Server 2008.</li>
+  <li>Design a strategy for  backup and recovery in SQL Server 2008.</li>
+</ul>

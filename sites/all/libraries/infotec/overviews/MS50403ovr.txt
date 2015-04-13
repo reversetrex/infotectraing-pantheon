@@ -1,0 +1,1 @@
+This four-day instructor-led course provides students with the knowledge and skills to deploy Microsoft Active Directory Rights Management Services (AD RMS), and to understand the role AD RMS plays in a wider infrastructure and how it interacts with other Microsoft technologies.

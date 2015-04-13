@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>Create a basic worksheet by using Microsoft  Office Excel 2010.</li>
+  <li>Perform calculations in an Excel worksheet.</li>
+  <li>Modify an Excel worksheet.</li>
+  <li>Format a worksheet.</li>
+  <li>Print the content of an Excel workbook.</li>
+  <li>Manage an Excel workbook.</li>
+</ul>

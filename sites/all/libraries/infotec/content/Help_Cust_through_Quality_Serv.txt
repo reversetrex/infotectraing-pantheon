@@ -1,0 +1,11 @@
+<h2>Session 1</h2>
+  <h3>Section A: Serving Customers, Helping People</h3>
+  <ul>
+    <li>Customer Service</li>
+    <li>Making Your Customers Feel Welcome</li>
+    <li>Asking and Listening</li>
+    <li>Giving Your Undivided Attention</li>
+    <li>Going the Extra Mile</li>
+    <li>Showing Appreciation</li>
+    <li>Golden Rule</li>
+  </ul>

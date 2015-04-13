@@ -1,0 +1,27 @@
+<p><strong>Lesson 1: Structuring Existing Data</strong></p>
+<p><strong>Topic 1A: </strong>Restructure the Data in a Table <br />
+  <strong>Topic 1B: </strong>Create a Junction Table <br />
+  <strong>Topic 1C: </strong>Improve the Table Structure </p>
+<p><strong>Lesson 2: Writing Advanced Queries</strong></p>
+<p><strong>Topic 2A: </strong>Create SubQueries <br />
+  <strong>Topic 2B: </strong>Create Unmatched and Duplicate Queries <br />
+  <strong>Topic 2C: </strong>Group and Summarize Records Using Criteria <br />
+  <strong>Topic 2D: </strong>Summarize Data Using a Crosstab Query <br />
+  <strong>Topic 2E: </strong>Create a PivotTable and a PivotChart </p>
+<p><strong>Lesson 3: Simplifying Tasks with Macros</strong></p>
+<p><strong>Topic 3A: </strong>Create a Macro <br />
+  <strong>Topic 3B: </strong>Attach a Macro <br />
+  <strong>Topic 3C: </strong>Restrict Records Using a Condition <br />
+  <strong>Topic 3D: </strong>Validate Data Using a Macro <br />
+  <strong>Topic 3E: </strong>Automate Data Entry Using a Macro </p>
+<p><strong>Lesson 4: Creating Effective Reports</strong></p>
+<p><strong>Topic 4A: </strong>Include a Chart in a Report <br />
+  <strong>Topic 4B: </strong>Print Data in Columns <br />
+  <strong>Topic 4C: </strong>Cancel Printing of a Blank Report <br />
+  <strong>Topic 4D: </strong>Publish Reports as PDF </p>
+<p><strong>Lesson 5: Maintaining an Access Database</strong></p>
+<p><strong>Topic 5A: </strong>Link Tables to External Data Sources <br />
+  <strong>Topic 5B: </strong>Manage a Database <br />
+  <strong>Topic 5C: </strong>Determine Object Dependency <br />
+  <strong>Topic 5D: </strong>Document a Database<br />
+<strong>Topic 5E: </strong>Analyze the  Performance of a Database</p>

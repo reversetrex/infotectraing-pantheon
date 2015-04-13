@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Explain how SharePoint Technologies server roles map to a server farm environment.</li>
+  <li>Describe how to configure SharePoint Technologies server farms.</li>
+  <li>Describe how to secure SharePoint Technologies deployments.</li>
+  <li>Describe how to configure information architecture and solution architecture in SharePoint Technologies deployments.</li>
+  <li>Explain how to plan for disaster recovery and how to backup and restore SharePoint Technologies solutions.</li>
+  <li>Explain how to manage, monitor, and troubleshoot SharePoint Technologies deployments.</li>
+  <li>Describe how to plan for capacity and how to right-size a SharePoint Technologies deployment.</li>
+  <li>Describe how to configure search and indexing in SharePoint Technologies deployments.</li>
+  <li>Explain how to customize and extend SharePoint Technologies deployments.</li>
+  <li>Describe how to configure the Business Data Catalog.</li>
+  <li>Describe how to configure Forms and Excel Services.</li>
+</ul>

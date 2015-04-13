@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Customize message settings.</li>
+  <li>Organize and locate Outlook messages.</li>
+  <li>Set calendar options.</li>
+  <li>Track activities using the Journal.</li>
+  <li>Assign and track tasks.</li>
+  <li>Share folder information.</li>
+  <li>Customize the Outlook environment.</li>
+</ul>

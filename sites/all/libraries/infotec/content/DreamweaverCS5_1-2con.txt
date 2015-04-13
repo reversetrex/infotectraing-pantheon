@@ -1,0 +1,79 @@
+<h2>Level 1</h2>
+<p><strong>Lesson 1: Getting Started with Dreamweaver</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Identify the Basic Concepts of Web Design</li>
+  <li><strong>Topic 1B: </strong>Locate Dreamweaver Interface Elements</li>
+  <li><strong>Topic 1C: </strong>Customize the Interface</li>
+</ul>
+<p><strong>Lesson 2: Initiating a Website</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Identify the Elements of a Project Plan</li>
+  <li><strong>Topic 2B: </strong>Determine the Workflow of a Web Project</li>
+  <li><strong>Topic 2C: </strong>Define a Website</li>
+  <li><strong>Topic 2D: </strong>Create a Document</li>
+</ul>
+<p><strong>Lesson 3: Designing Web Pages</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>An Introduction to Cascading Style Sheets</li>
+  <li><strong>Topic 3B: </strong>Format a Web Page</li>
+  <li><strong>Topic 3C: </strong>Identify Copyright and Citation  Requirements</li>
+  <li><strong>Topic 3D: </strong>Insert Images</li>
+  <li><strong>Topic 3E: </strong>Insert Tables</li>
+  <li><strong>Topic 3F: </strong>Import Data from Other Applications</li>
+  <li><strong>Topic 3G: </strong>Organize Files and Folders</li>
+</ul>
+<p><strong>Lesson 4: Creating Reusable Site Assets</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Create and Use Library Items</li>
+  <li><strong>Topic 4B: </strong>Update Library Items</li>
+  <li><strong>Topic 4C: </strong>Use Snippets</li>
+  <li><strong>Topic 4D: </strong>Create a Template</li>
+</ul>
+<p><strong>Lesson 5: Working with Links</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Create Hyperlinks</li>
+  <li><strong>Topic 5B: </strong>Create Anchors</li>
+  <li><strong>Topic 5C: </strong>Create Email Links</li>
+  <li><strong>Topic 5D: </strong>Create Image Maps</li>
+  <li><strong>Topic 5E: </strong>Create Image Link Rollovers</li>
+</ul>
+<p><strong>Lesson 6: Uploading a Website</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Validate a Website</li>
+  <li><strong>Topic 6B: </strong>Upload Files onto a Site</li>
+</ul>
+<h2>Level 2</h2>
+<p><strong>Lesson 1: Working in Code View</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Use Coding Tools</li>
+  <li><strong>Topic 1B: </strong>Search for and Replace Code</li>
+  <li><strong>Topic 1C: </strong>Add Design Notes and Comments</li>
+</ul>
+<p><strong>Lesson 2: Formatting with Advanced CSS  Techniques</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Use External Style Sheets</li>
+  <li><strong>Topic 2B: </strong>Create a Layout Using CSS</li>
+  <li><strong>Topic 2C: </strong>Apply Rollover Effects Using CSS</li>
+</ul>
+<p><strong>Lesson 3: Working with AP Elements</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Create AP Elements</li>
+  <li><strong>Topic 3B: </strong>Control AP Elements</li>
+</ul>
+<p><strong>Lesson 4: Working with Spry Elements</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Use Spry Interface Widgets</li>
+  <li><strong>Topic 4B: </strong>Use Spry Data Sets</li>
+</ul>
+<p><strong>Lesson 5: Creating a Form</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Set Up a Form</li>
+  <li><strong>Topic 5B: </strong>Add Form Elements</li>
+  <li><strong>Topic 5C: </strong>Validate a Form</li>
+</ul>
+<p><strong>Lesson 6: Integrating External Files with  Dreamweaver</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Integrate Photoshop Images in Dreamweaver</li>
+  <li><strong>Topic 6B: </strong>Insert Media Objects</li>
+  <li><strong>Topic 6C: </strong>Integrate XML-Based Data</li>
+</ul>

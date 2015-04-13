@@ -1,0 +1,14 @@
+<p> At the end of the course, students will be able to: </p>
+<ul>
+  <li> List the major elements of the .NET Framework and describe some of the major enhancements to the new version of Visual Basic. </li>
+  <li> Describe the basic structure of a Visual Basic .NET project and use the main features of the integrated development environment (IDE). </li>
+  <li> Use the new language features and syntax in Visual Basic .NET. </li>
+  <li> Explain the basic concepts and terminology of object-oriented design specifically for Visual Basic .NET. </li>
+  <li> Explain and use the basic concepts and terminology of object-oriented programming in Visual Basic .NET. </li>
+  <li> Create applications by using Microsoft Windows&reg; Forms. </li>
+  <li> Create Internet applications that use Web Forms and Web Services. </li>
+  <li> Create applications that use ADO .NET. </li>
+  <li> Create components in Visual Basic .NET. </li>
+  <li> Set up and deploy various types of Visual Basic .NET-based applications. </li>
+  <li> Prepare existing Visual Basic-based applications for upgrade to Visual Basic .NET. </li>
+</ul>

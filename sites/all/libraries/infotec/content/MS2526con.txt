@@ -1,0 +1,83 @@
+<p><strong> Unit 1: Introduction to Developing Distributed Applications<br>
+</strong>This Unit introduces different distributed application technologies and how Remoting applications are developed. </p>
+<p> Units</p>
+<ul>
+  <li> Unit 1: Explaining the Differences Among Distributed Application Technologies </li>
+  <li> Unit 2: Explaining How Remoting Applications Are Developed </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Provide a high-level description of .NET Remoting and how it differs from other distributed application technologies. </li>
+</ul>
+<p><strong> Unit 2: Creating a Remote Object<br>
+</strong>This Unit covers creating server activated and client activated remote objects. </p>
+<p> Units</p>
+<ul>
+  <li> Unit 1: Introduction to Creating a Remote Object </li>
+  <li> Unit 2: Creating Server Activated Objects </li>
+  <li> Unit 3: Creating Client Activated Objects </li>
+  <li> Unit 4: Implementing the Factory Design Pattern to Create a CAO Factory </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Create a remote object. </li>
+</ul>
+<p><strong> Unit 3: Creating a Remote Object: Advanced Techniques<br>
+</strong>This Unit covers simplifying configuration, controlling a remote object&rsquo;s lifetime and calling methods asynchronously. </p>
+<p> Units</p>
+<ul>
+  <li> Unit 1: Simplifying Remoting by Using Configuration Files </li>
+  <li> Unit 2: Controlling a Remote Object&rsquo;s Lifetime </li>
+  <li> Unit 3: Calling a Remote Object&rsquo;s Methods Asynchronously </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Create and access a remote object by using advanced techniques. </li>
+</ul>
+<p><strong> Unit 4: Hosting and Deploying a Remoting Application<br>
+</strong>This Unit discusses the different hosting options available for objects and how to choose one for your applications. </p>
+<p> Units</p>
+<ul>
+  <li> Unit 1: Choosing a Hosting Option </li>
+  <li> Unit 2: Hosting a Remoting Application by Using a Microsoft Windows&reg; Service or IIS </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Host and deploy a Remoting application. </li>
+</ul>
+<p><strong> Unit 5: Testing a Remoting Application<br>
+</strong>This Unit covers configuring your debug environment and monitoring/testing a Remoting based application's performance. </p>
+<p> Units</p>
+<ul>
+  <li> Unit 1: Monitoring Application Performance </li>
+  <li> Unit 2: Configuring the Debugging Environment </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Test a Remoting application </li>
+</ul>
+<p><strong> Unit 6: Implementing Security Measures in a .NET Remoting Application<br>
+</strong>This Unit discusses how to improve the security of a Remoting application including authentication and authorization. </p>
+<p> Units</p>
+<ul>
+  <li> Unit 1: Implementing Custom Authentication </li>
+  <li> Unit 2: Implementing Authorization </li>
+  <li> Unit 3: Introduction to Encrypting Data </li>
+  <li> Unit 4: Configuring Security in IIS </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Increase the security of a Remoting application </li>
+</ul>
+<p><strong> Unit 7: Making Good Design Decisions<br>
+</strong>This Unit presents Remoting best practices to help you make good design decisions for your Remoting application. </p>
+<p> Units</p>
+<ul>
+  <li> Unit 1: Explaining the Choices Made During Design </li>
+  <li> Unit 2: Implementing Remoting Best Practices </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li>Make good Remoting application design decisions <br>
+  </li>
+</ul>

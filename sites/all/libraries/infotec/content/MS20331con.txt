@@ -1,0 +1,168 @@
+<p><strong>Module 1: Introducing SharePoint Server 2013</strong></p>
+<p>Microsoft SharePoint Server 2013 is a document storage and collaboration platform that offers many benefits to organizations. SharePoint deployments may take many different forms in scope, where a deployment may be focused on only delivering one feature, such as enterprise search, or many features, such as   document management, business intelligence, web content management, and workflows. Deployments can also differ greatly in size, with small deployments of a single server up to large deployments with farms of 15 or more servers.</p>
+
+<p>In this module, you will learn about the core features of SharePoint 2013, the new features in this version, and what has been removed. You will also learn about the basic structural elements of a farm deployment and how they fit together. Finally you will learn about the different deployment options   available to SharePoint 2013.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Key Components of a SharePoint Deployment</li>
+    <li>New Features in SharePoint 2013</li>
+    <li>SharePoint 2013 Deployment Options</li>
+</ul>
+
+<p><strong>Module 2: Designing an Information Architecture</strong></p>
+<p>Information architecture (IA) defines the structures by which an organization catalogs information. Designing an IA requires a detailed understanding of the information held in an organization and its usage, context, volatility, and governance. A good IA rationalizes the creation and storage of content and streamlines its surfacing and use.</p>
+
+<p>IA design should be platform-neutral, but it must also be driven by the functionality of its environment. Microsoft SharePoint Server 2013 provides a rich and functional platform for the development and implementation of efficient and effective IA structures. The integral use of metadata throughout SharePoint 2013 means that an IA designer has a range of storage, navigation, and retrieval options to maximize usability in a well-structured IA.</p>
+
+<p>In this module, you will learn about the core elements of IA design and the facilities and devices available in SharePoint 2013 to deploy an effective information management solution.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Identifying Business Requirements</li>
+    <li>Understanding Business Requirements</li>
+    <li>Organizing Information in SharePoint 2013</li>
+    <li>Planning for Discoverability</li>
+</ul>
+
+<p><strong>Module 3: Designing a Logical Architecture</strong></p>
+<p>This module reviews the logical constructs of Microsoft SharePoint Server 2013 and SharePoint Online. It discusses the importance of creating a logical architecture design based on business requirements before you implement a solution. The module covers conceptual content, defining a logical architecture, and the components of Microsoft SharePoint Server 2013 that you must map to business specifications.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Overview of SharePoint 2013 Logical Architecture</li>
+    <li>Documenting Your Logical Architecture</li>
+</ul>
+
+<p><strong>Module 4: Designing a Physical Architecture</strong></p>
+<p>When you design a Microsoft SharePoint Server 2013 deployment, you must carefully consider the hardware and farm topology requirements. Your choices of server hardware and the number of servers that you specify for the farm can have a significant impact on how the farm meets user requirements, how users perceive the SharePoint solution, and how long before the farm requires additional hardware.</p>
+
+<p>This module describes the factors that you should consider when you design the physical architecture of a SharePoint 2013 deployment. The physical architecture refers to the server design, farm topology, and supporting elements—such as network infrastructure—for your deployment. This physical architecture underpins the operations of your SharePoint 2013 environment, so it is essential that your physical design fully meets the operational requirements.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Designing Physical Components for SharePoint Deployments</li>
+    <li>Designing Supporting Components for SharePoint Deployments</li>
+    <li>SharePoint Farm Topologies</li>
+    <li>Mapping a Logical Architecture Design to a Physical Architecture Design</li>
+</ul>
+
+<p><strong>Module 5: Installing and Configuring SharePoint Server 2013</strong></p>
+<p>After you design and plan your logical and physical architectures for a Microsoft SharePoint Server 2013 deployment, the next installation steps are to implement the deployment design and specify configuration settings for the deployment.</p>
+
+<p>In this module, you will learn about installing SharePoint 2013 in various topologies. You will learn how to configure farm settings, and how to script the installation and configuration of SharePoint 2013.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Installing SharePoint Server 2013</li>
+    <li>Scripting Installation and Configuration</li>
+    <li>Configuring SharePoint Server 2013 Farm Settings</li>
+</ul>
+
+<p><strong>Module 6: Creating Web Applications and Site Collections</strong></p>
+<p>After installing your Microsoft SharePoint Server 2013 farm, you are ready to begin deploying sites and content, such as an organizational intranet site.</p>
+
+<p>In this module, you will learn about the key concepts and skills related to the logical architecture of SharePoint including web applications, site collections, sites, and content databases. Specifically, you will learn how to create and configure web applications and to create and configure site collections.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Creating Web Applications</li>
+    <li>Configuring Web Applications</li>
+    <li>Creating and Configuring Site Collections</li>
+</ul>
+
+<p><strong>Module 7: Planning and Configuring Service Applications</strong></p>
+<p>Service applications were introduced in Microsoft SharePoint Server 2010, replacing the Shared Service Provider architecture of Microsoft Office SharePoint Server 2007. Service applications provide a flexible design for delivering services, such as Managed Metadata or PerformancePoint, to users who need them. Microsoft SharePoint Server 2013 includes more than 20 services, some of which are new to this version, whereas others are enhanced. In planning and configuring service applications, it is important that you understand the dependencies, resource usage, and business requirements for each.</p>
+
+<p>This module reviews the basic service application architecture, the essentials of planning your service application deployment, and the configuration of your service applications. This module does not discuss   sharing, or federation, of service applications. This is covered in more detail in course 20332B: Advanced Solutions of Microsoft SharePoint Server 2013.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Introduction to Service Application Architecture</li>
+    <li>Creating and Configuring Service Applications</li>
+</ul>
+
+<p><strong>Module 8: Managing Users and Permissions</strong></p>
+<p>Many organizations need to store sensitive or confidential information. Microsoft SharePoint Server 2013 includes a complete set of security features, which you can use to help ensure that users with the appropriate rights and permissions can access the information they need, can modify the data they are   responsible for, but that they cannot view or modify confidential information, or information that is not intended for them. The SharePoint 2013 security model is highly flexible and adaptable to your organization's needs.</p>
+
+<p>In this module, you will learn about the various authorization and security features available in SharePoint 2013 to help you maintain a secure SharePoint environment. Specifically, you will be learning about authorization and permissions in SharePoint 2013, and how to manage access to content in SharePoint 2013.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Authorization in SharePoint 2013</li>
+    <li>Managing Access to Content</li>
+
+</ul>
+
+<p><strong>Module 9: Configuring Authentication for SharePoint 2013</strong></p>
+<p>Authentication is the process by which you establish the identity of users and computers. Authorization controls access to resources by assigning permissions to users and computers. To provide authorization to consumers of Microsoft SharePoint content and services, whether they are end users, server platforms, or SharePoint apps, you first need to verify that they are who they claim to be. Together, authentication and authorization play a central role in the security of a SharePoint 2013 deployment by ensuring that consumers can only access resources to which you have explicitly granted them access.</p>
+
+<p>In this module, you will learn about the authentication infrastructure in SharePoint 2013. You will learn how to configure SharePoint to work with a variety of authentication providers, and you will learn how to configure authenticated connections between SharePoint and other server platforms.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Overview of Authentication</li>
+    <li>Configuring Federated Authentication</li>
+    <li>Configuring Server-to-Server Authentication</li>
+</ul>
+
+<p><strong>Module 10: Securing a SharePoint 2013 Deployment</strong></p>
+<p>Microsoft SharePoint Server 2013 is not just a group of websites. It is also a site-provisioning engine for intranets, extranets, and Internet sites, a collection of databases, an application platform, and a platform for collaboration and social features, as well as being many other things. In addition to it touching your network, it also touches your line-of-business (LOB) applications and Microsoft Active Directory; therefore, it has a large attack surface to consider and protect. SharePoint 2013 is supplied with several security features and tools out-of-the-box to help you secure it.</p>
+
+<p>In this module, you will learn how to secure and harden your SharePoint 2013 farm deployment and how to configure several security settings at the farm level.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Securing the Platform</li>
+    <li>Configuring Farm-Level Security</li>
+</ul>
+
+<p><strong>Module 11: Managing Taxonomy</strong></p>
+<p>In order to organize information and make that information easier to find and work with, you can label or categorize information. With files and items in Microsoft SharePoint, you can apply metadata, which could be a category, a classification, or a tag, in order to organize your content and make it easier to work with.</p>
+
+<p>In most organizations, the most effective way to implement metadata is through a defined taxonomy that you have standardized through stakeholder input. This enables users to select metadata terms from a predefined list, which provides standard results.</p>
+
+<p>Microsoft SharePoint Server 2013 can further enhance the application of metadata by using content types. Organizations can use content types to standardize specific types of files, documents, or list items and include metadata requirements, document templates, retention settings, and workflow directly.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Managing Content Types</li>
+    <li>Understanding Term Stores and Term Sets</li>
+    <li>Managing Term Stores and Term Sets</li>
+</ul>
+
+<p><strong>Module 12: Configuring User Profiles</strong></p>
+<p>Social computing environments enable organizations to quickly identify colleagues, team members, and others with similar roles or requirements in an organization. Social features in Microsoft SharePoint Server 2013 enable users to quickly gain updates and insight into how other members of the organization are working and what information or processes people are developing, along with the progress being achieved.</p>
+
+<p>The SharePoint 2013 social platform is based around the capabilities provided by the user profile service application, supported by other services, such as the Managed Metadata Service and the Search service. The User Profile Service provides configuration and control over importing profile data, creating My Sites, managing audiences, and users can utilize these features.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Configuring the User Profile Service Application</li>
+    <li>Managing User Profiles and Audiences</li>
+</ul>
+
+<p><strong>Module 13: Configuring Enterprise Search</strong></p>
+<p>Search has been a cornerstone of Microsoft SharePoint Products and Technologies since SharePoint Portal Server 2003. Since those early days, the architecture of the search service has evolved through the Shared Service Provider architecture to the service application architecture of SharePoint Server 2010. It has also grown with the addition of FAST technologies. SharePoint Server 2013 continues this growth by re-architecting the service and integrating many of the components that were intrinsic to FAST Search to deliver a more robust and richer experience for IT staff and users.</p>
+
+<p>In this module, you will learn about the new architecture of the Search service, how to configure the key components of search, and how to manage search functionality in your organization.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Understanding the Search Service Architecture</li>
+    <li>Configuring Enterprise Search</li>
+    <li>Managing Enterprise Search</li>
+</ul>
+
+<p><strong>Module 14: Monitoring and Maintaining a SharePoint 2013 Environment</strong></p>
+<p>Careful planning and configuration alone will not guarantee an effective Microsoft SharePoint Server 2013 deployment. To keep your SharePoint 2013 deployment performing well, you need to plan and conduct ongoing monitoring, maintenance, optimization, and troubleshooting.</p>
+
+<p>In this module, you will learn how to plan and configure monitoring in a SharePoint 2013 server farm, and how to tune and optimize the performance of your farm on an ongoing basis. You will also learn how to use a range of tools and techniques to troubleshoot unexpected problems in your SharePoint 2013 deployments.</p>
+
+<p><strong>Lessons:</strong></p>
+<ul>
+	<li>Monitoring a SharePoint 2013 Environment</li>
+    <li>Tuning and Optimizing a SharePoint Environment</li>
+    <li>Planning and Configuring Caching</li>
+    <li>Troubleshooting a SharePoint 2013 Environment</li>
+</ul>

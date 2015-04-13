@@ -1,0 +1,1 @@
+This course provides students with hands-on training in ESX installation and configuration of VMware's ESX Server. The course is 15% lecture, combined with 85% hands-on labs in ESX Server, Virtual Center, and vi client.

@@ -1,0 +1,10 @@
+<p>In this course, you will design, modify, and manage basic diagrams. You will:</p>
+<ul>
+  <li>Identify the basic elements of Visio and their use.</li>
+  <li>Create a workflow diagram.</li>
+  <li>Create an organization chart.</li>
+  <li>Make a floor plan.</li>
+  <li>Create a cross-functional flowchart.</li>
+  <li>Create a network diagram.</li>
+  <li>Style a diagram.</li>
+</ul>

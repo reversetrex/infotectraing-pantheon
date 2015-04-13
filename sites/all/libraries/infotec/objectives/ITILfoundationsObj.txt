@@ -1,0 +1,8 @@
+Upon completion of the course, you will be able to:
+<ul>
+                      <li>Describe the concepts underlying IT Service Management </li>
+                      <li>Explain the best practices documented in ITIL </li>
+                      <li>Describe the roles, processes, and components that are part of certain key ITSM areas </li>
+                      <li>Have an awareness of the implications of implementing one or more of the best practices. </li>
+                      <li>Increase your capacity to pass the ITIL Foundation Certification exam.</li>
+                    </ul>

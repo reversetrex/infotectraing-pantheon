@@ -1,0 +1,90 @@
+<p><strong>Module 1: Review of C# Syntax</strong></p>
+<p>This module reviews the core syntax and features of the C# programming language. It also provides an introduction to the Visual Studio 2012 debugger.</p>
+<ul>
+  <li>Overview of Writing Applications using C#</li>
+  <li>Datatypes, Operators, and Expressions</li>
+  <li>C# Programming Language Constructs</li>
+</ul>
+<p><strong>Module 2: Creating Methods, Handling Exceptions, and Monitoring Applications</strong></p>
+<p>This module explains how to create and call methods, catch and handle exceptions. This module also describes the monitoring requirements of large-scale applications.</p>
+<ul>
+  <li>Creating and Invoking Methods</li>
+  <li>Creating Overloaded Methods and Using Optional and Output Parameters</li>
+  <li>Handling Exceptions</li>
+  <li>Monitoring Applications</li>
+</ul>
+<p><strong>Module 3: Developing the Code for a Graphical Application</strong></p>
+<p>This module describes how to implement the basic structure and essential elements of a typical desktop application, including using structures and enumerations, collections, and events.</p>
+<ul>
+  <li>Implementing Structs and Enums</li>
+  <li>Organizing Data into Collections</li>
+  <li>Handling Events</li>
+</ul>
+<p><strong>Module 4: Creating Classes and Implementing Type-safe Collections</strong></p>
+<p>This module explains how to create classes, define and implement interfaces, and create and use generic collections. This module also describes the differences between value types and reference types in C#.</p>
+<ul>
+  <li>Creating Classes</li>
+  <li>Defining and Implementing Interfaces</li>
+  <li>Implementing Type-safe Collections</li>
+</ul>
+<p><strong>Module 5: Creating a Class Hierarchy by Using Inheritance</strong></p>
+<p>This module explains how to use inheritance to create a class hierarchy and extend a .NET Framework class. This module also describes how to create generic classes and define extension methods.</p>
+<ul>
+  <li>Creating Class Hierarchies</li>
+  <li>Extending .NET Framework Classes</li>
+  <li>Creating Generic Types</li>
+</ul>
+<p><strong>Module 6: Reading and Writing Local Data</strong></p>
+<p>This module explains how to read and write data by using file input/output (I/O) and streams, and how to serialize and deserialize data in different formats.</p>
+<ul>
+  <li>Reading and Writing Files</li>
+  <li>Serializing and Deserializing Data</li>
+  <li>Performing I/O Using Streams</li>
+</ul>
+<p><strong>Module 7: Accessing a Database</strong></p>
+<p>This module explains how to create and use an entity data model for accessing a database, and how to use LINQ to query and update data.</p>
+<ul>
+  <li>Creating and Using Entity Data Models</li>
+  <li>Querying Data by Using LINQ</li>
+  <li>Updating Data by Using LINQ</li>
+</ul>
+<p><strong>Module 8: Accessing Remote Data</strong></p>
+<p>This module explains how to use the types in the System.Net namespace, and WCF Data Services, to query and modify remote data.</p>
+<ul>
+  <li>Accessing Data Across the Web</li>
+  <li>Accessing Data in the Cloud</li>
+</ul>
+<p><strong>Module 9: Designing the User Interface for a Graphical Application</strong></p>
+<p>This module explains how to build and style a graphical user interface by using XAML. This module also describes how to display data in a user interface by using data binding.</p>
+<ul>
+  <li>Using XAML to Design a User Interface</li>
+  <li>Binding Controls to Data</li>
+  <li>Styling a User Interface</li>
+</ul>
+<p><strong>Module 10: Improving Application Performance and Responsiveness</strong></p>
+<p>This module explains how to improve the throughput and response time of applications by using tasks and asynchronous operations.</p>
+<ul>
+  <li>Implementing Multitasking by using Tasks and Lambda Expressions</li>
+  <li>Performing Operations Asynchronously</li>
+  <li>Synchronizing Concurrent Access to Data</li>
+</ul>
+<p><strong>Module 11: Integrating with Unmanaged Code</strong></p>
+<p>This module explains how to integrate unmanaged libraries and dynamic components into a C# application. This module also describes how to control the lifetime of unmanaged resources.</p>
+<ul>
+  <li>Creating and Using Dynamic Objects</li>
+  <li>Managing the Lifetime of Objects and Controlling Unmanaged Resources</li>
+</ul>
+<p><strong>Module 12: Creating Reusable Types and Assemblies</strong></p>
+<p>This module explains how to examine the metadata of types by using reflection, create and use custom attributes, generate managed code at runtime, and manage different versions of assemblies.</p>
+<ul>
+  <li>Examining Object Metadata</li>
+  <li>Creating and Using Custom Attributes</li>
+  <li>Generating Managed Code</li>
+  <li>Versioning, Signing and Deploying Assemblies</li>
+</ul>
+<p><strong>Module 13: Encrypting and Decrypting Data</strong></p>
+<p>This module explains how to encrypt and decrypt data by using symmetric and asymmetric encryption.</p>
+<ul>
+  <li>Implementing Symmetric Encryption</li>
+  <li>Implementing Asymmetric Encryption</li>
+</ul>

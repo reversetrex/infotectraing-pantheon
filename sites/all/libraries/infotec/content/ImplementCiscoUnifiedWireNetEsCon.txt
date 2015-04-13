@@ -1,0 +1,9 @@
+<ul>
+  <li>Course Introduction </li>
+  <li>Wireless Fundamentals </li>
+  <li>Basic WLAN Installation </li>
+  <li>Wireless Clients </li>
+  <li>WLAN Security </li>
+  <li>WCS Administration </li>
+  <li>WLAN Maintenance and Troubleshooting</li>
+</ul>

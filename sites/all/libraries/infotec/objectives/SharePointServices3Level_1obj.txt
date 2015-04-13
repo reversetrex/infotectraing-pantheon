@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course,  students will be able to:</p>
+<ul>
+  <li>examine collaboration technology and Windows SharePoint Services 3.0 team sites.</li>
+  <li>work with lists.</li>
+  <li>work with libraries.</li>
+  <li>communicate with team members.</li>
+  <li>work remotely with SharePoint content.</li>
+  <li>customize your SharePoint environment.</li>
+  <li>create a team site.</li>
+  <li>perform  basic site administration.</li>
+</ul>

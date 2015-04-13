@@ -1,0 +1,11 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Customize toolbars and create styles and templates. </li>
+  <li> Create decision-making functions. </li>
+  <li> Analyze worksheet data by creating pivot tables. </li>
+  <li> Compare and contrast workbook files and file links. </li>
+  <li> Outline and consolidate worksheets and analyze worksheet data by using the Scenario Manager. </li>
+  <li> Display and protect worksheet data by locking cells. </li>
+  <li> Record and modify macros by using the Visual Basic Editor. </li>
+  <li> Create and work with interactive Web documents. </li>
+</ul>

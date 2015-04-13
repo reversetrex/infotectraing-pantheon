@@ -1,0 +1,15 @@
+<p>Upon completing this course, you will be able to meet these objectives:</p>
+<ul>
+  <li>Determine the best Flexcast delivery model for each user group.</li>
+  <li>Build a XenDesktop proof-of-concept environment.</li>
+  <li>Configure a XenServer host for desktop delivery.</li>
+  <li>Build and configure a production XenDesktop site.</li>
+  <li>Manage virtual desktops as a single entity by creating a desktop catalog.</li>
+  <li>Modify a desktop image without impacting user productivity.</li>
+  <li>Restrict or allow certain XenDesktop features using policies.</li>
+  <li>Monitor site activity and troubleshoot issues in Desktop Director.</li>
+  <li>Install and configure Provisioning Services.</li>
+  <li>Copy a desktop image to a virtual disk that can be streamed to virtual and physical target devices.</li>
+  <li>XenClient infrastructure.</li>
+  <li>Install and configure Synchronizer for XenClient.</li>
+</ul>

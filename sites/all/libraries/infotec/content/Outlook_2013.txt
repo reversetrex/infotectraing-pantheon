@@ -1,0 +1,137 @@
+<h2>Session 1</h2>
+  <h3>Section A: Outlook</h3>
+  <ul>
+    <li>Interface Tour, Navigation Options</li>
+    <li>Outlook Ribbon</li>
+    <li>Quick Steps</li>
+    <li>Search Mail</li>
+  </ul>
+  <h3>Section B: Outlook Settings</h3>
+  <ul>
+    <li>Customize Outlook Settings</li>
+    <li>Configure View</li>
+    <li>Sort Mail Messages</li>
+    <li>Task Pane</li>
+    <li>Status Bar</li>
+    <li>Manage Multiple Accounts</li>
+    <li>Add or Delete Email Accounts</li>
+  </ul>
+  <h3>Section C: New Messages</h3>
+  <ul>
+    <li>Create a Message</li>
+    <li>Add Cc and Bcc</li>
+    <li>Add another Email Address</li>
+    <li>Subject Field and Spelling Checker</li>
+    <li>Language Settings</li>
+    <li>Font Size</li>
+    <li>Format Text</li>
+  </ul>
+  <h3>Section D: Manage Messages</h3>
+  <ul>
+    <li>Reply to an Email</li>
+    <li>Reply to All</li>
+    <li>Forward Message</li>
+    <li>Include Original Message</li>
+    <li>Delete Emails</li>
+    <li>Create Automatic Replies</li>
+    <li>Message Options</li>
+    <li>Apply Quick Steps</li>
+    <li>Create and Manage Rules</li>
+    <li>Create and Assign Signatures</li>
+    <li>Conditional Formatting</li>
+    <li>Prioritize Messages</li>
+    <li>Add or Remove Attachments</li>
+    <li>Delegate Access</li>
+  </ul>
+  <h3>Section E: Format a Message</h3>
+  <ul>
+    <li>Insert Hyperlinks</li>
+    <li>Apply Themes and Styles</li>
+    <li>Insert Images</li>
+    <li>Add a Specific Signature</li>
+    <li>Format a Signature</li>
+    <li>Create and Use Quick Parts</li>
+    <li>Modify a Style</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Messages</h3>
+  <ul>
+    <li>Add New Local Folders</li>
+    <li>Move Messages into Folders</li>
+    <li>Flag Messages</li>
+    <li>Apply Categories</li>
+    <li>Sort Messages</li>
+    <li>Configure Junk Email Settings</li>
+    <li>Ignore Messages</li>
+    <li>Clean Up Messages</li>
+    <li>Mark as Read or Unread</li>
+    <li>Attachment Reminder Options</li>
+    <li>Search for Messages</li>
+    <li>Print Messages</li>
+  </ul>
+  <h3>Section B: Save and Back Up Messages</h3>
+  <ul>
+    <li>Save Messages</li>
+    <li>Text Only</li>
+    <li>Create Data Files</li>
+  </ul>
+  <h3>Section C: New Contacts</h3>
+  <ul>
+    <li>Create New Contacts</li>
+    <li>Edit Contact Info</li>
+    <li>Add New Contact</li>
+    <li>Import Contacts</li>
+    <li>Sharing Files</li>
+    <li>Manage Contact Lists</li>
+  </ul>
+  <h3>Section D: Groups</h3>
+  <ul>
+    <li>New Contact Group</li>
+    <li>Delete Members and Groups</li>
+    <li>Update Contacts within Groups</li>
+    <li>Search for Contacts</li>
+    <li>Print Contacts</li>
+    <li>New Search Folder</li>
+    <li>Keywords</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Calendars</h3>
+  <ul>
+    <li>Create, Manage Calendars</li>
+    <li>Schedule View</li>
+    <li>Go To</li>
+    <li>Calendar Navigation Options</li>
+    <li>Modify Time Zones</li>
+    <li>Delete Calendars</li>
+    <li>Create Multiple Calendars</li>
+    <li>Manage Calendar Groups</li>
+    <li>Share Calendars</li>
+    <li>Share Calendar Options</li>
+  </ul>
+  <h3>Section B: Calendar Items</h3>
+  <ul>
+    <li>Create Calendar Options</li>
+    <li>Calendar Options</li>
+    <li>Recurrence</li>
+    <li>Drag and Drop Appointments</li>
+    <li>Attachments for Appointments</li>
+    <li>Cancel Calendar Items</li>
+    <li>Categorize Calendar Items</li>
+    <li>Scheduling Assistant</li>
+    <li>Forward Calendar Items</li>
+    <li>Respond to Invitations</li>
+    <li>Share Meeting Notes</li>
+    <li>Search Calendar</li>
+    <li>Print Calendar</li>
+  </ul>
+  <h3>Section C: Tasks</h3>
+  <ul>
+    <li>Quick Speed Keys</li>
+    <li>Create and Manage Tasks</li>
+    <li>Update Tasks Status</li>
+    <li>Search for Tasks</li>
+    <li>Print Tasks</li>
+    <li>Create and Manage Notes</li>
+    <li>Attach Notes to Contacts</li>
+    <li>Create Journal Entries</li>
+  </ul>

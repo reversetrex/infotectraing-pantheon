@@ -1,0 +1,34 @@
+<p><strong>Unit 1: Administering Websites</strong></p>
+<ul>
+  <li> Topic 1A: Connect to Servers</li>
+  <li> Topic 1B: Transfer Files to Servers</li>
+  <li> Topic 1C: Manage Websites</li>
+</ul>
+<p> <strong>Unit 2: Creating a Database-Driven Site</strong></p>
+<ul>
+  <li> Topic 2A: Identify the Components of a Database-Driven Site</li>
+  <li> Topic 2B: Creating a Connection to the Database</li>
+</ul>
+<p><strong> Unit 3: Working with Recordsets</strong></p>
+<ul>
+  <li> Topic 3A: Create Recordsets</li>
+  <li> Topic 3B: Display Records</li>
+  <li> Topic 3C: Page Through Recordsets</li>
+</ul>
+<p><strong> Unit 4: Creating Detail, Search, and Results Pages</strong></p>
+<ul>
+  <li> Topic 4A: Create Master Detail Pages</li>
+  <li> Topic 4B: Create Search and Results Pages</li>
+</ul>
+<p><strong> Unit 5: Using Dynamic Form and HTML Elements</strong></p>
+<ul>
+  <li> Topic 5A: Create Dynamic Form Elements</li>
+  <li> Topic 5B: Create Alternate Rows of Color</li>
+</ul>
+<p><strong> Unit 6: Administering Database Records</strong></p>
+<ul>
+  <li> Topic 6A: Insert Records</li>
+  <li> Topic 6B: Edit Records</li>
+  <li>Topic 6C: Delete Records</li>
+</ul>
+<p><strong> Appendix A: Macromedia Dreamweaver 8 Developer Certification Exam Objectives</strong></p>

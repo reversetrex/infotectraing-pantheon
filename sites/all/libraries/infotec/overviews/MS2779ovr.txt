@@ -1,0 +1,1 @@
+This five-day instructor-led course provides students with the knowledge and skills to implement a Microsoft SQL Server 2005 database. The course focuses on teaching individuals how to use SQL Server 2005 product features and tools related to implementing a database.

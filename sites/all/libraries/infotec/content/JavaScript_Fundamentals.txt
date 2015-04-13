@@ -1,0 +1,154 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>History</li>
+    <li>JavaScript vs. Java</li>
+    <li>Microsoft and JavaScript</li>
+    <li>JavaScript Standard</li>
+    <li>JavaScript Characteristics</li>
+    <li>Platform Independence</li>
+    <li>JavaScript Learning Curve</li>
+    <li>Server-side vs. Client-side</li>
+    <li>Coding JavaScript</li>
+    <li>.Write Method</li>
+    <li>Alert Method</li>
+  </ul>
+  <h3>Section B: Understanding Code Structure</h3>
+  <ul>
+    <li>ECMA Standards</li>
+    <li>Commenting Code</li>
+    <li>Debugging with Comments</li>
+    <li>JavaScript Code in Header and Body</li>
+    <li>Embedded Code</li>
+    <li>Code with Function/Method Calls</li>
+    <li>Attaching JavaScript Files</li>
+    <li>Common JavaScript Events</li>
+    <li>onMouseOver onMouseOut Demo</li>
+  </ul>
+  <h3>Section C: Variables and Identifiers</h3>
+  <ul>
+    <li>Variables</li>
+    <li>Naming Rules</li>
+    <li>Numerical Values</li>
+    <li>Strings</li>
+    <li>Combining Variables and Declarations</li>
+    <li>Concatenating Strings</li>
+    <li>Increment/Decrement Operator</li>
+    <li>User Input: Prompt()</li>
+    <li>Simple Arrays</li>
+    <li>Reassigning Array Values</li>
+  </ul>
+  <h3>Section D: Working with Functions</h3>
+  <ul>
+    <li>Declaring a Function</li>
+    <li>Calling a Function</li>
+    <li>Passing Arguments to a Function</li>
+    <li>Function Return Values</li>
+    <li>Functions and Variable Scope</li>
+    <li>Built-in Functions</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Controlling Program Flow</h3>
+  <ul>
+    <li>Using If Statments</li>
+    <li>Comparison Operators</li>
+    <li>If Else Statements</li>
+    <li>If Statement Series</li>
+    <li>Coding Compound Conditions</li>
+    <li>Coding For Loops</li>
+    <li>Coding While Loops</li>
+    <li>Coding Do While Loops</li>
+    <li>Understanding Endless Loops</li>
+    <li>Coding Break and Continue Statements</li>
+    <li>Looping through Arrays</li>
+    <li>Coding For…In Loops with Arrays</li>
+  </ul>
+  <h3>Section B: The JavaScript Object Model</h3>
+  <ul>
+    <li>Commonly Used Objects</li>
+    <li>Window Object Properties</li>
+    <li>Coding the Window.status Property</li>
+    <li>Window Object Methods</li>
+    <li>Coding the Window.open() Method</li>
+    <li>The Document Object</li>
+    <li>DOM Defined</li>
+    <li>Coercing Document Object Properties</li>
+    <li>Image Object</li>
+    <li>History Object</li>
+    <li>Location Object</li>
+    <li>Navigator Object</li>
+  </ul>
+  <h3>Section C: More with JavaScript Objects</h3>
+  <ul>
+    <li>The String Object</li>
+    <li>String.length Property</li>
+    <li>String.indexOf()</li>
+    <li>String.lastIndexOf()</li>
+    <li>String.substring()</li>
+    <li>String.charAt()</li>
+    <li>String Processing with User Input</li>
+    <li>Outputting Special Characters</li>
+    <li>Array Object Methods</li>
+    <li>Array.reverse()</li>
+    <li>Array.join()</li>
+    <li>Coding the Date Object</li>
+    <li>Math Object</li>
+  </ul>
+  <h3>Section D: Form Objects</h3>
+  <ul>
+    <li>HTML Form Elements</li>
+    <li>Accessing a Checkbox Object</li>
+    <li>Accessing a Radio Button Object</li>
+    <li>Accessing a Text Box Object</li>
+    <li>Working with Multiple Selections</li>
+    <li>Form Validation</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Cookies and JavaScript Security</h3>
+  <ul>
+    <li>Understanding JavaScript Cookies</li>
+    <li>Storing a Cookie</li>
+    <li>Setting Cookie Expiration</li>
+    <li>Debugging Cookies</li>
+    <li>Retrieving a Cookie</li>
+    <li>Deleting a Cookie</li>
+    <li>JavaScript Security Concepts</li>
+    <li>Cross-Site Scripting</li>
+    <li>Cookie Session Hijacking</li>
+    <li>Browser History Exploitation</li>
+    <li>Security Tips</li>
+  </ul>
+  <h3>Section B: Working with Frames in JavaScript</h3>
+  <ul>
+    <li>HTML Frameset</li>
+    <li>Using iFrames</li>
+    <li>Accessing Frames</li>
+  </ul>
+  <h3>Section C: Working with AJAX</h3>
+  <ul>
+    <li>Content Elements</li>
+    <li>The innerHTML Property</li>
+    <li>Background Server Communication</li>
+    <li>XMLHttpRequest Object</li>
+    <li>Coding onreadystatechange Function</li>
+    <li>open() and send() Methods</li>
+    <li>Debugging with Firefox Tools</li>
+    <li>AJAX Code Review</li>
+  </ul>
+  <h3>Section D: JavaScript Libraries</h3>
+  <ul>
+    <li>Understanding jQuery</li>
+    <li>Installing jQuery</li>
+    <li>jQuery toggleClass()</li>
+    <li>jQuery sizeOf()</li>
+    <li>jQuery addClass()</li>
+    <li>jQuery onLoad Event</li>
+    <li>Searching jQuery Documentation</li>
+  </ul>
+  <h3>Section E: Custom Objects</h3>
+  <ul>
+    <li>Creating Custom Objects</li>
+    <li>Custom Object Properties</li>
+    <li>Creating Custom Object Methods</li>
+    <li>Creating the Object Constructor</li>
+  </ul>

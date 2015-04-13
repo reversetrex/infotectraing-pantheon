@@ -1,0 +1,107 @@
+<p><strong>Module 1: Building a Simple Network</strong></p>
+<ul>
+  <li>Lesson 1: Exploring the Functions of Networking</li>
+  <li>Lesson 2: Understanding the Host-to-Host Communications Model</li>
+  <li>Lesson 3: Introducing LANs</li>
+  <li>Lesson 4: Operating Cisco IOS Software</li>
+  <li>Lesson 5: Starting a Switch</li>
+  <li>Lab 1-1: Performing Switch Startup and Initial Configuration</li>
+  <li>Lesson 6: Understanding Ethernet and Switch Operation</li>
+  <li>Lesson 7: Troubleshooting Common Switch Media Issues</li>
+  <li>Lab 1-2: Troubleshooting Switch Media Issues</li>
+</ul>
+<p><strong>Module 2: Establishing Internet Connectivity</strong></p>
+<ul>
+  <li>Lesson 1: Understanding the TCP/IP Internet Layer</li>
+  <li>Lesson 2: Understanding IP Addressing and Subnets</li>
+  <li>Lesson 3: Understanding the TCP/IP Transport Layer</li>
+  <li>Lesson 4: Exploring the Functions of Routing</li>
+  <li>Lesson 5: Configuring a Cisco Router</li>
+  <li>Lab 2-1: Performing Initial Router Setup and Configuration</li>
+  <li>Lesson 6: Exploring the Packet Delivery Process</li>
+  <li>Lesson 7: Enabling Static Routing</li>
+  <li>Lesson 8: Managing Traffic Using ACLs</li>
+  <li>Lesson 9: Enabling Internet Connectivity</li>
+  <li>Lab 2-2: Connecting to the Internet</li>
+</ul>
+<p><strong>Module 3: Managing Network Device Security</strong></p>
+<ul>
+  <li>Lesson 1: Securing Administrative Access</li>
+  <li>Lab 3-1: Enhancing the Security of the Initial Configuration</li>
+  <li>Lesson 2: Implementing Device Hardening</li>
+  <li>Lab 3-2: Device Hardening</li>
+  <li>Lesson 3: Implementing Traffic Filtering with ACLs</li>
+  <li>Lab 3-3: Filtering Traffic with ACLs</li>
+</ul>
+<p><strong>Module 4: Introducing IPv6</strong></p>
+<ul>
+  <li>Lesson 1: Introducing Basic IPv6</li>
+  <li>Lab 4-1: Configure and Verify Basic IPv6</li>
+  <li>Lesson 2: Understanding IPv6</li>
+  <li>Lab 4-2: Configure and Verify Stateless Autoconfiguration</li>
+  <li>Lesson 3: Configuring IPv6 Routing</li>
+  <li>Lab 4-3: Configure and Verify IPv6 Routing</li>
+</ul>
+<p><strong>Module 5: Building a Medium-Sized Network</strong></p>
+<ul>
+  <li>Lesson 1: Implementing VLANs and Trunks</li>
+  <li>Lesson 2: Routing Between VLANs</li>
+  <li>Lab 5-1: Configuring Expanded Switched Networks</li>
+  <li>Lesson 3: Using a Cisco Network Device as a DHCP Server</li>
+  <li>Lab 5-2: Configuring DHCP Server</li>
+  <li>Lesson 4: Troubleshooting VLAN Connectivity</li>
+  <li>Lab 5-3: Troubleshooting VLANs and Trunks</li>
+  <li>Lesson 5: Building Redundant Switched Topologies</li>
+  <li>Lab 5-4: Optimizing STP</li>
+  <li>Lesson 6: Improving Redundant Switched Topologies with EtherChannel</li>
+  <li>Lab 5-5: Configuring EtherChannel</li>
+  <li>Task 2: Verify EtherChannel Redundancy</li>
+  <li>Lesson 7: Understanding Layer 3 Redundancy</li>
+</ul>
+<p><strong>Module 6: Troubleshooting Basic Connectivity</strong></p>
+<ul>
+  <li>Lesson 1: Troubleshooting IPv4 Network Connectivity</li>
+  <li>Lab 6-1: Troubleshooting IP Connectivity</li>
+  <li>Lesson 2: Troubleshooting IPv6 Network Connectivity</li>
+</ul>
+<p><strong>Module 7: Wide Area Networks</strong></p>
+<ul>
+  <li>Lesson 1: Understanding WAN Technologies</li>
+  <li>Lesson 2: Configuring Serial Encapsulation</li>
+  <li>Lab 7-1: Configuring and Troubleshooting a Serial Connection</li>
+  <li>Lesson 3: Establishing a WAN Connection Using Frame Relay</li>
+  <li>Lab 7-2: Establishing a Frame Relay WAN</li>
+  <li>Lesson 4: Introducing VPN Solutions</li>
+  <li>Lesson 5: Configuring GRE Tunnels</li>
+  <li>Lab 7-3: Establishing a GRE Tunnel</li>
+</ul>
+<p><strong>Module 8: Implementing an EIGRP-Based Solution</strong></p>
+<ul>
+  <li>Lesson 1: Implementing EIGRP</li>
+  <li>Lab 8-1: Implementing EIGRP</li>
+  <li>Lesson 2: Troubleshooting EIGRP</li>
+  <li>Lab 8-2: Troubleshooting EIGRP</li>
+  <li>Lesson 3: Implementing EIGRP for IPv6</li>
+  <li>Lab 8-3: Implementing EIGRP for IPv6</li>
+  <li>Lesson 5: Module Self-Check</li>
+</ul>
+<p><strong>Module 9: Implementing a Scalable OSPF-Based Solution</strong></p>
+<ul>
+  <li>Lesson 1: Implementing OSPF</li>
+  <li>Lab 9-1: Implementing OSPF</li>
+  <li>Lesson 2: Multiarea OSPF IPv4 Implementation</li>
+  <li>Lab 9-2: Configuring Multiarea OSPF</li>
+  <li>Lesson 3: Troubleshooting Multiarea OSPF</li>
+  <li>Lab 9-3: Troubleshooting Multiarea OSPF</li>
+  <li>Lesson 4: Examining OSPFv3</li>
+  <li>Lab 9-4: Configuring OSPF for IPv6</li>
+</ul>
+<p><strong>Module 10: Network Device Management</strong></p>
+<ul>
+  <li>Lesson 1: Configuring Network Devices to Support Network Management Protocols</li>
+  <li>Lab 10-1: SNMP and Syslog Basic Configuration</li>
+  <li>Lab 10-2: Analyzing NetFlow Data</li>
+  <li>Lesson 2: Managing Cisco Devices</li>
+  <li>Lesson 3: Licensing</li>
+  <li>Lab 10-3: Managing Cisco Devices and Licensing</li>
+</ul>

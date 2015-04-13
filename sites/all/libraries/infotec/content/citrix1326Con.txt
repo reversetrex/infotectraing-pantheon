@@ -1,0 +1,8 @@
+<p>Unit 1: Introducing Citrix Password Manager</p>
+<p>Unit 2: Selecting and Installing a Central Store</p>
+<p>Unit 3: Managing Password Manager Licensing</p>
+<p>Unit 4: Creating and Managing Application Definitions</p>
+<p>Unit 5: Configuring Password Manager</p>
+<p>Unit 6: Installing and Managing the Agent</p>
+<p>Unit 7: Configuring Complex Application Definitions</p>
+<p>Unit 8: Configuring Optional Features</p>

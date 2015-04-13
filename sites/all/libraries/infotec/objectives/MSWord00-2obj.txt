@@ -1,0 +1,10 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Use section breaks to format a document and format text in columns. </li>
+  <li> Create, modify, and use tables as page layout elements and embed, link, and sort table data. </li>
+  <li> Merge documents and data sources using merge fields to make variations of one document. You&rsquo;ll be able to sort and filter data as well as merge an Excel spreadsheet into mailing labels. </li>
+  <li> Create, modify, and use styles to affect a document&rsquo;s appearance. You will also create and delete AutoText entries. </li>
+  <li> Create and use templates, including the fax template. </li>
+  <li> Run and edit existing macros, add them to toolbars, and use the Organizer to share them with other documents. </li>
+  <li> Discuss the Internet, the World Wide Web, and Word&rsquo;s email features. You&rsquo;ll also create and edit a Web page by inserting hyperlinks, picture bullets, and clip art. </li>
+</ul>

@@ -1,0 +1,13 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Analyze business requirements for SMS. </li>
+  <li> Create and evaluate an SMS deployment plan. </li>
+  <li> Plan an SMS site hierarchy. </li>
+  <li> Install the Site hierarchy. </li>
+  <li> Configure a site system. </li>
+  <li> Discover SMS resources. </li>
+  <li> Install SMS clients. </li>
+  <li> Configure SMS site hierarchies. </li>
+  <li> Secure an SMS site. </li>
+  <li> Create a management and operations plan. </li>
+</ul>

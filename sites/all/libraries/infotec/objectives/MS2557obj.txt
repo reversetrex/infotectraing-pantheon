@@ -1,0 +1,15 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Describe the history of server-based applications and describe the COM+ runtime architecture. </li>
+  <li> Use attributes to configure an assembly as a COM+ application and create components that use Just-in-Time (JIT) activation and are synchronized. </li>
+  <li> Create data access components that use Microsoft ADO.NET to retrieve or update data in a database. </li>
+  <li> Create transactional components. </li>
+  <li> Secure an enterprise application by using COM+ services role-based security. </li>
+  <li> Manage state in JIT activated components. </li>
+  <li> Create Compensating Resource Managers (CRMs) to enable transactional support for resources lacking a resource manager. </li>
+  <li> Use loosely coupled events (LCEs) to send notifications to other applications. </li>
+  <li> Create queued components. </li>
+  <li> Debug COM+ applications and describe common application-failure scenarios and how to solve these failures. </li>
+  <li> Create scripts for managing deployment and administration. </li>
+  <li> Use the enhancements provided by COM+ version 1.5 to improve the scalability, availability, and manageability of COM+ applications and use COM+ features such as Services Without Components (SWC), Bring Your Own Transaction (BYOT), and Phase Zero notification in applications. </li>
+</ul>

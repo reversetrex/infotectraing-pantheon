@@ -1,0 +1,8 @@
+<p> After completing this course, students will be able to:</p>
+<ul>
+  <li> Deploy the required Cisco products and services that enable connectivity and traffic transport, given a network design that includes multilayer switching over various Ethernet technologies </li>
+  <li> Implement the necessary services at each layer of the network to all users to obtain services in a working multilayer switched network </li>
+  <li> Control network traffic by implementing network policies, given, a working multilayer switched network </li>
+  <li> Restore proper network operations through the use of Cisco devices and external management tools, when presented with an incorrectly working multilayer switched network </li>
+  <li> Explain how service providers implement transparent LAN services and Ethernet over Multiprotocol Label Switching (MPLS) technology to deliver connectivity to the enterprise site </li>
+</ul>

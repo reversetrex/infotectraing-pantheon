@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan server upgrade and migration.</li>
+  <li>Plan and implement a server deployment strategy.</li>
+  <li>Plan and deploy servers by using System Center 2012 R2 Virtual Machine Manager (VMM).</li>
+  <li>Design and maintain an IP configuration and address management solution.</li>
+  <li>Design and implement name resolution.</li>
+  <li>Design and implement an AD DS forest and domain infrastructure.</li>
+  <li>Design and implement an AD DS organizational unit (OU) infrastructure.</li>
+  <li>Design and implement a Group Policy Object (GPO) strategy.</li>
+  <li>Design and implement an AD DS physical topology.</li>
+  <li>Plan and implement storage and file services.</li>
+  <li>Design and implement network protection.</li>
+  <li>Design and implement remote access services.</li>
+</ul>

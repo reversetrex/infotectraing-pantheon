@@ -1,0 +1,117 @@
+<p><strong>Module 1: Overview of service and cloud technologies</strong></p>
+<p>This module describes the Microsoft data, service, and cloud stacks. It also describes the various components that comprise Windows Azure.</p>
+<ul>
+  <li>Key Components of Distributed Applications</li>
+  <li>Data and Data Access Technologies</li>
+  <li>Service Technologies</li>
+  <li>Cloud Computing</li>
+  <li>Exploring Blue Yonder Airlines Travel Companion Application</li>
+</ul>
+<p><strong>Module 2: Querying and manipulating data using Entity Framework</strong></p>
+<p>This module explains how to create Entity Framework models and use them to query and manipulate data.</p>
+<ul>
+  <li>ADO.NET overview</li>
+  <li>Creating an entity data model</li>
+  <li>Querying data</li>
+  <li>Manipulating data</li>
+</ul>
+<p><strong>Module 3: Creating and consuming ASP.NET Web API services</strong></p>
+<p>This module explains how to create HTTP based services using the ASP.NET Web API.</p>
+<ul>
+  <li>What are HTTP services?</li>
+  <li>Creating an ASP.NET Web API service</li>
+  <li>Handling HTTP requests and responses</li>
+  <li>Hosting and consuming ASP.NET Web API services</li>
+</ul>
+<p><strong>Module 4: Extending and securing ASP.NET Web API services</strong></p>
+<p>This module explains how to extend and secure ASP.NET web API services to support real world scenarios.</p>
+<ul>
+  <li>The ASP.NET Web API request pipeline</li>
+  <li>The ASP.NET Web API response pipeline</li>
+  <li>Creating OData services</li>
+  <li>Implementing Security in ASP.NET Web API services</li>
+  <li>Injecting dependencies into controllers</li>
+</ul>
+<p><strong>Module 5: Creating WCF services</strong></p>
+<p>This module explains how to create WCF services, host them, and consume them from other applications.</p>
+<ul>
+  <li>Advantages of creating services with WCF</li>
+  <li>Creating and implementing a contract</li>
+  <li>Configuring and hosting WCF services</li>
+  <li>Consuming WCF services</li>
+</ul>
+<p><strong>Module 6: Designing and extending WCF services</strong></p>
+<p>This module explains how to design a WCF service contracts with duplex support, async operations, and one-way operations. It also explains how to create services that use various instancing and concurrency modes. In addition, it describes how to extend a WCF service with custom behaviors and runtime components.</p>
+<ul>
+  <li>Applying design principles to service contracts</li>
+  <li>Handling distributed transactions</li>
+  <li>WCF pipeline architecture</li>
+  <li>Extending the WCF pipeline</li>
+</ul>
+<p><strong>Module 7: Implementing Security in WCF services</strong></p>
+<p>This module explains how to implement security in WCF services by using transport and message security. It also describes how to configure and implement authentication and authorization for a service.</p>
+<ul>
+  <li>Transport security</li>
+  <li>Message security</li>
+  <li>Configuring service authentication and authorization</li>
+</ul>
+<p><strong>Module 8: Windows Azure Service Bus</strong></p>
+<p>This module explains how to use the Windows Azure Service Bus for advanced routing and messaging scenarios.</p>
+<ul>
+  <li>Windows Azure Service Bus Relays</li>
+  <li>Windows Azure Service Bus Queues</li>
+  <li>Windows Azure Service Bus Topics</li>
+</ul>
+<p><strong>Module 9: Hosting services</strong></p>
+<p>This module explains how to host services on various Windows Azure environments, such as Web Roles, Worker Roles, and Web Sites.</p>
+<ul>
+  <li>Hosting services on-premises</li>
+  <li>Hosting services in Windows Azure</li>
+</ul>
+<p><strong>Module 10: Deploying Services</strong></p>
+<p>This module explains how to deploy services to both on-premises and cloud environments.</p>
+<ul>
+  <li>Web Deployment with Visual Studio</li>
+  <li>Creating and deploying Web Application packages</li>
+  <li>Command-line tools for web deployment packages</li>
+  <li>Deploying to Windows Azure</li>
+  <li>Continuous delivery with TFS and GIT</li>
+  <li>Best practices for production deployment</li>
+</ul>
+<p><strong>Module 11: Windows Azure Storage</strong></p>
+<p>This module explains how to store and access data stored in Windows Azure Storage. It also explains how to configure storage access rights for storage containers and content.</p>
+<ul>
+  <li>Introduction to Windows Azure storage</li>
+  <li>Windows Azure Blob Storage</li>
+  <li>Windows Azure Table Storage</li>
+  <li>Windows Azure Queue Storage</li>
+  <li>Restricting access to Windows Azure Storage</li>
+</ul>
+<p><strong>Module 12: Monitoring and diagnostics</strong></p>
+<p>This module explains how to monitor and log services, both on-premises and in Windows Azure.</p>
+<ul>
+  <li>Performing diagnostics using tracing</li>
+  <li>Configuring service diagnostics</li>
+  <li>Monitoring IIS</li>
+  <li>Monitoring services using Windows Azure diagnostics</li>
+  <li>Debugging using IntelliTrace</li>
+  <li>Collecting Windows Azure metrics</li>
+</ul>
+<p><strong>Module 13: Identity management and access control</strong></p>
+<p>This module describes claim-based identity concepts and standards, and how to implement federated authentication by using ACS to secure an ASP.NET Web API service. It also explains how to use ACS to secure Windows Azure Service Bus connections.</p>
+<ul>
+  <li>Claim-based identity concepts</li>
+  <li>Access Control Service</li>
+  <li>Configuring services to use federated identities</li>
+  <li>Handling federated identities in the client side</li>
+</ul>
+<p><strong>Module 14: Scaling Services</strong></p>
+<p>This module explains how to create scalable services and applications.</p>
+<ul>
+  <li>Introduction to scalability</li>
+  <li>Load balancing</li>
+  <li>Scaling on-premises services with distributed cache</li>
+  <li>Windows Azure caching</li>
+  <li>Caveats of scaling services</li>
+  <li>Scaling globally</li>
+</ul>

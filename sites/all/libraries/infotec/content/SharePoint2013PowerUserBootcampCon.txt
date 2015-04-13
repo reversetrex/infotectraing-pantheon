@@ -1,0 +1,151 @@
+<p><strong>Module 1: Course Overview</strong></p>
+<p><strong>  Module 2: SharePoint 2010 Introduction</strong></p>
+<p><strong>  Module 3: Collaboration Experience</strong></p>
+<ul>
+  <li>View a basic Team Site</li>
+  <li>Navigate a site</li>
+  <li>Observe the Ribbon</li>
+  <li>Context Menus</li>
+</ul>
+<p><strong>Module 4: Apps</strong></p>
+<ul>
+  <li>List/Library Apps</li>
+  <li>Web Parts</li>
+  <li>Office Web Apps</li>
+  <li>App Store</li>
+</ul>
+<p><strong>Module 5: Work with a Library App</strong></p>
+<ul>
+  <li>Create, modify, and delete a file in a library</li>
+  <li>Upload files into a library</li>
+  <li>Callout Pop-ups</li>
+  <li>Connect a library to Outlook</li>
+  <li>Create a folder</li>
+  <li>Create wiki pages in a the Site Pages wiki library</li>
+  <li>Use the Recycle Bin</li>
+  <li>Create a personal view</li>
+  <li>Live Doc Preview</li>
+</ul>
+<p><strong>Module 6: Permissions</strong></p>
+<ul>
+  <li>Add a user to the three default groups</li>
+  <li>Create a new group and add a user to the new group</li>
+  <li>Login as each of the users to observe SharePoint</li>
+  <li>Create a new custom permission level, create a group and assign the new permission level, add a user, and test by logging in</li>
+  <li>Use the Check Permissions feature</li>
+  <li>App Permissions</li>
+</ul>
+<p><strong>Module 7: Create SharePoint Sites</strong></p>
+<ul>
+  <li>Create a Team Site</li>
+  <li>Create and use a Blog Site</li>
+  <li>Create a Developer Site</li>
+  <li>Create a Project Site</li>
+  <li>Create a Community Site</li>
+  <li>Delete a Site</li>
+</ul>
+<p><strong>Module 8: Create Lists</strong></p>
+<ul>
+  <li>Create a list using each of the out-of-box List Templates</li>
+  <li>Create custom lists using each of the column types</li>
+  <li>Create a local term set</li>
+  <li>Import a Spreadsheet</li>
+  <li>Apply list validation</li>
+  <li>Setup Alerts</li>
+</ul>
+<p><strong>Module 9: Create Libraries</strong></p>
+<ul>
+  <li>Create a library using each of the out-of-box library templates</li>
+  <li>Create a custom column in a library</li>
+  <li>Setup Alerts</li>
+</ul>
+<p><strong>Module 10: List Views</strong></p>
+<ul>
+  <li>Observe default Public views</li>
+  <li>Create several new views using various options</li>
+  <li>Set a view as the default</li>
+  <li>Delete a view</li>
+</ul>
+<p><strong>Module 11: Office Web Apps</strong></p>
+<ul>
+  <li>Word Web App</li>
+  <li>Excel Web App</li>
+  <li>Forms on Spreadsheets</li>
+  <li>PowerPoint Web App</li>
+  <li>OneNote Web App</li>
+  <li>Access Web App</li>
+</ul>
+<p><strong>Module 12: Features</strong></p>
+<ul>
+  <li>Activate Site Collection Features</li>
+  <li>Activate Site Features</li>
+</ul>
+<p><strong>Module 13: List Management</strong></p>
+<ul>
+  <li>Enable Content Ratings</li>
+  <li>Metadata Navigation</li>
+  <li>Email enable a library</li>
+  <li>Create Site Columns</li>
+  <li>Create Content Types and use the Document Information Panel</li>
+  <li>Modify Library Settings and turn on Check Out Required, Versioning and Content Approval</li>
+  <li>Manage Checked Out files</li>
+  <li>Generate a File Plan Report</li>
+  <li>Create a Document Set</li>
+  <li>Save a list as a template</li>
+</ul>
+<p><strong>Module 14: Web Parts</strong></p>
+<ul>
+  <li>Create Web Part Pages</li>
+  <li>Add and customize Web Parts</li>
+  <li>Embed Video</li>
+  <li>Move, remove and restore a web part from the Closed Web Part gallery and empty the Closed Web Part gallery</li>
+</ul>
+<p><strong>Module 15: Business Intelligence Center</strong></p>
+<ul>
+  <li>Create a Business Intelligence Center</li>
+  <li>Upload an Excel spreadsheet to a Library on the BI Center</li>
+  <li>Create a Dashboard page</li>
+  <li>Use an Excel Web Access Web Part</li>
+  <li>Use a Chart Web Part</li>
+  <li>Create KPI’s and add them to the Dashboard page</li>
+</ul>
+<p><strong>Module 16: Search</strong></p>
+<ul>
+  <li>Create an Enterprise Search site</li>
+  <li>Slider and Graphic Refiners</li>
+  <li>Search Preview</li>
+  <li>Follow and Share from Search</li>
+  <li>Improved People Search</li>
+  <li>Rendering Video in Search</li>
+  <li>Content Search Web Part</li>
+</ul>
+<p><strong>Module 17: Workflows</strong></p>
+<ul>
+  <li>Create a Three-State workflow on an Issue Tracking list</li>
+  <li>Create an Approval workflow on a library</li>
+</ul>
+<p><strong>Module 18: My Site</strong></p>
+<ul>
+  <li>Using #Tags and Notes</li>
+  <li>Following</li>
+  <li>View Sites</li>
+  <li>Edit My Profile</li>
+  <li>View SkyDrive Pro</li>
+  <li>View Newsfeed</li>
+  <li>Reputation and Badges</li>
+</ul>
+<p><strong>  Module 19: Site Customizations and Basic Administration</strong></p>
+<ul>
+  <li>Regional Settings</li>
+  <li>Popularity Trends (Usage Reports)</li>
+  <li>Page Layouts and Site Templates</li>
+  <li>Set the Welcome Page</li>
+  <li>Customize the Title, Description, and Icon</li>
+  <li>Enable Tree View</li>
+  <li>Change the Look</li>
+  <li>Design Manager and Device Channels</li>
+  <li>Customize Site Navigation</li>
+  <li>Maintain User Alerts</li>
+  <li>Create and apply a Site Policy</li>
+</ul>
+<p><strong>Module 20: Class Wrap-Up</strong></p>

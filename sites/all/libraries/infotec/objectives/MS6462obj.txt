@@ -1,0 +1,27 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Explain Windows Workflow Foundation concepts and features</li>
+  <li>Create sequential workflows</li>
+  <li>Create state machine workflows</li>
+  <li>Modify workflows at run time</li>
+  <li>Implement conditional branching in a workflow</li>
+  <li>Define and execute rule sets</li>
+  <li>Forward chain rules</li>
+  <li>Change rules at run time</li>
+  <li>Call methods on the host process</li>
+  <li>Handle events from the host process</li>
+  <li>Consume services from a workflow</li>
+  <li>Publish a workflow as a service</li>
+  <li>Create a custom activity</li>
+  <li>Create a custom composite activity</li>
+  <li>Define custom activity layout</li>
+  <li>Customize activity serialization</li>
+  <li>Create a custom runtime service</li>
+  <li>Hydrate and dehydrate workflows</li>
+  <li>Monitor workflows</li>
+  <li>Track workflows</li>
+  <li>Handle faults in a workflow</li>
+  <li>Handle cancellations in a workflow</li>
+  <li>Create and manage transactions in a workflow</li>
+  <li>Create and handle compensations</li>
+</ul>

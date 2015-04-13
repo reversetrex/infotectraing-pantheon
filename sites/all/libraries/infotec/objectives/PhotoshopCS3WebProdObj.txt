@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>set preferences for size units and also identify factors that contribute to file size.</li>
+  <li>optimize images by saving them in different formats and applying transparency to them.</li>
+  <li>apply color management techniques, adjust images, and ensure color consistency to create images that are attractive to the widest possible audience who use different platforms such as Windows and Macintosh.</li>
+  <li>create web page layouts.</li>
+  <li>use Adobe Photoshop to export a web page.</li>
+  <li>plan and create animations for web and mobile devices.</li>
+</ul>

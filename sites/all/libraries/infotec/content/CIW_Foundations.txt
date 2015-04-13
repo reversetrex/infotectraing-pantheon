@@ -1,0 +1,346 @@
+  <h2>Session 1</h2>
+    <h3>Section A: CIW Foundations</h3>
+    <ul>
+      <li>What is CIW?</li>
+      <li>IT Career Clusters</li>
+      <li>CIW Certifications</li>
+      <li>How this Course Works</li>
+      <li>Internet Beginnings</li>
+      <li>Network Elements</li>
+      <li>Internet Ownership</li>
+    </ul>
+    <h3>Section B: Networking Basics</h3>
+    <ul>
+      <li>Introduction to Networking</li>
+      <li>Internet vs. WWW</li>
+      <li>Network Types</li>
+      <li>Intranets</li>
+      <li>Extranets</li>
+      <li>Networking Topologies</li>
+      <li>Bus Topologies</li>
+      <li>Ring Topologies</li>
+      <li>Star Topologies</li>
+      <li>Tree Topologies</li>
+      <li>Mesh Topologies</li>
+    </ul>
+    <h3>Section C: Hardware Requirements</h3>
+    <ul>
+      <li>Networking on the Internet</li>
+      <li>Client Connectivity</li>
+      <li>Making a Connection</li>
+      <li>Network Operating Systems</li>
+      <li>Server Connectivity</li>
+      <li>Server Roles</li>
+    </ul>
+    <h3>Section D: Getting Connected</h3>
+    <ul>
+      <li>Network Connections</li>
+      <li>Dial-up</li>
+      <li>LAN</li>
+      <li>Routers</li>
+      <li>Cable</li>
+      <li>DSL</li>
+      <li>Wireless</li>
+      <li>Understanding Bandwidth</li>
+      <li>Broadband</li>
+      <li>Dial-up Connection Speeds</li>
+      <li>Direct Connection Speeds</li>
+      <li>Windows Connection Status</li>
+      <li>Connection Speed Test</li>
+      <li>Internet Statistics</li>
+    </ul>
+    <h3>Section E: Internet Service Providers</h3>
+    <ul>
+      <li>Digital Carrier Systems</li>
+      <li>T-Carrier Features</li>
+      <li>T-Carrier Versions</li>
+      <li>E-Carrier System</li>
+      <li>ISPs and OSPs</li>
+      <li>ISP Criteria</li>
+      <li>EarthLink</li>
+      <li>Comcast</li>
+      <li>Integrity Online</li>
+    </ul>
+    <h3>Section F: The OSI Model</h3>
+    <ul>
+      <li>Internet Protocol</li>
+      <li>Protocols and Standards</li>
+      <li>OSI and Internet Architecture Models</li>
+    </ul>
+  <h2>Session 2</h2>
+    <h3>Section A: Understanding IP Addressing</h3>
+    <ul>
+      <li>IP Addressing</li>
+      <li>IPv4 vs. IPv6</li>
+      <li>IP Address Classes</li>
+      <li>Reserved IP Addresses</li>
+      <li>Private Addresses</li>
+      <li>Private IP Addresses</li>
+      <li>Network Map</li>
+      <li>Connection Settings</li>
+      <li>Ipconfig</li>
+      <li>Ping</li>
+    </ul>
+    <h3>Section B: Domain Names</h3>
+    <ul>
+      <li>Domain Names and URLs</li>
+      <li>Top-Level Domains</li>
+      <li>ICANN</li>
+      <li>Virtual Domains</li>
+      <li>Subdividing Domains</li>
+      <li>Domain Name System</li>
+      <li>Viewing Alternate Addresses</li>
+      <li>Registering Domain Names</li>
+      <li>IP Address Resolution</li>
+    </ul>
+    <h3>Section C: Protocols and Ports</h3>
+    <ul>
+      <li>Understanding URLs</li>
+      <li>HTTP</li>
+      <li>FTP</li>
+      <li>SMTP/POP/IMAP</li>
+      <li>DHCP</li>
+      <li>Other Protocols</li>
+      <li>Ports</li>
+      <li>Push vs. Pull</li>
+    </ul>
+    <h3>Section D: Understanding Web Browsers</h3>
+    <ul>
+      <li>Web History</li>
+      <li>Understanding Hypertext</li>
+      <li>HTML Standards</li>
+      <li>Web Browsers</li>
+      <li>Older Browsers</li>
+      <li>Browser Settings</li>
+      <li>Installing Browsers</li>
+      <li>Browser Differences</li>
+      <li>Internet Page Options</li>
+      <li>Adding Favorites</li>
+      <li>Browser Tools</li>
+      <li>Advanced Settings</li>
+    </ul>
+    <h3>Section E: Browser Add-Ons</h3>
+    <ul>
+      <li>Add-Ons Overview</li>
+      <li>Installing Plug-Ins</li>
+      <li>Java</li>
+      <li>ActiveX</li>
+      <li>VBScript</li>
+      <li>Security Issues</li>
+      <li>Managing Add-Ons</li>
+      <li>Installing Add-Ons</li>
+    </ul>
+  <h2>Session 3</h2>
+    <h3>Section A: Network Security</h3>
+    <ul>
+      <li>Understanding Network Security</li>
+      <li>Crackers and Hackers</li>
+      <li>What the Pros Know</li>
+      <li>Remote Attack Types</li>
+      <li>Close Proximity Attacks</li>
+      <li>Protection Methods</li>
+      <li>Understanding Cookies</li>
+      <li>Securing Data</li>
+      <li>Digital Certificates</li>
+      <li>Proxy Servers</li>
+      <li>Firewalls</li>
+    </ul>
+    <h3>Section B: Viruses</h3>
+    <ul>
+      <li>Understanding Viruses</li>
+      <li>Virus Categories</li>
+      <li>Malicious Software</li>
+      <li>Malware, Spyware, and Adware</li>
+      <li>Malware Protection</li>
+    </ul>
+    <h3>Section C: Search Engines</h3>
+    <ul>
+      <li>Search Engines Defined</li>
+      <li>Service Types</li>
+      <li>Quality Searches</li>
+      <li>Advanced Searches</li>
+      <li>Mailing Lists and Newsgroups</li>
+    </ul>
+    <h3>Section D: Using Search Engines</h3>
+    <ul>
+      <li>Using Yahoo</li>
+      <li>Using Google</li>
+      <li>Using Excite</li>
+      <li>Using Gigablast</li>
+      <li>Gigablast Features</li>
+      <li>Copyright Issues</li>
+      <li>Business Data by Category</li>
+      <li>Business Data by Company</li>
+    </ul>
+    <h3>Section E: Web Site Planning</h3>
+    <ul>
+      <li>Basic Definitions</li>
+      <li>Getting Started</li>
+      <li>Site Structure</li>
+      <li>Considerations</li>
+      <li>Authoring Tools</li>
+      <li>Design Teams</li>
+    </ul>
+    <h3>Section F: HTML Foundations</h3>
+    <ul>
+      <li>HTML History</li>
+      <li>What is HTML?</li>
+      <li>Understanding Markup</li>
+      <li>HTML vs. XHTML</li>
+      <li>Document Structure</li>
+      <li>Creating HTML Documents</li>
+      <li>Using Head Tags</li>
+      <li>Using Body Tags</li>
+    </ul>
+    <h3>Section G: HTML Formatting</h3>
+    <ul>
+      <li>Customizing HTML</li>
+      <li>Font Settings</li>
+      <li>Heading Tags</li>
+      <li>Paragraph Tags</li>
+      <li>Preview in Browser</li>
+      <li>Formatting Text</li>
+      <li>Other Heading Styles</li>
+    </ul>
+  <h2>Session 4</h2>
+    <h3>Section A: Adding Graphics</h3>
+    <ul>
+      <li>Insert Rule Lines</li>
+      <li>Adding Graphic Images</li>
+      <li>Customizing Graphics</li>
+      <li>Using Background Images</li>
+    </ul>
+    <h3>Section B: Web Color</h3>
+    <ul>
+      <li>Why Add Color?</li>
+      <li>Hexadecimal Color</li>
+      <li>Hexadecimal Values</li>
+      <li>Common Colors</li>
+      <li>Hexadecimal Converter</li>
+      <li>Adding Colors</li>
+      <li>Using Common Colors</li>
+    </ul>
+    <h3>Section C: Creating Lists</h3>
+    <ul>
+      <li>Introduction to Lists</li>
+      <li>List Tags</li>
+      <li>Ordered Lists</li>
+      <li>Using Bullets</li>
+      <li>Creating Ordered Lists</li>
+      <li>Creating Nested Lists</li>
+      <li>Creating Definition Lists</li>
+      <li>Customizing Definition Lists</li>
+    </ul>
+    <h3>Section D: Using Tables</h3>
+    <ul>
+      <li>Creating a Table</li>
+      <li>Defining Table Structure</li>
+      <li>Modifying Table Properties</li>
+      <li>Table Enhancements</li>
+    </ul>
+    <h3>Section E: Linking Content</h3>
+    <ul>
+      <li>Determining Links</li>
+      <li>External Hyperlinks</li>
+      <li>Internal Hyperlinks</li>
+      <li>Troubleshooting Links</li>
+      <li>E-mail Links</li>
+      <li>Bookmark Links</li>
+      <li>Troubleshooting Bookmarks</li>
+      <li>Designating Link Colors</li>
+    </ul>
+    <h3>Section F: Collecting Data with Forms</h3>
+    <ul>
+      <li>Creating Form Regions</li>
+      <li>Text Boxes</li>
+      <li>E-mail Field</li>
+      <li>Check Boxes</li>
+      <li>Radio Buttons</li>
+      <li>Multiline Text Boxes</li>
+      <li>Testing Form</li>
+    </ul>
+    <h3>Section G: Optimizing Graphics</h3>
+    <ul>
+      <li>Using Expression Web</li>
+      <li>Working in Design View</li>
+      <li>Working in Code View</li>
+      <li>Adding Transparency</li>
+      <li>Picture Properties</li>
+      <li>Testing the File</li>
+    </ul>
+    <h3>Section H: Working with Frames</h3>
+    <ul>
+      <li>Starting from Scratch</li>
+      <li>Building a Frame Set</li>
+      <li>Page/Frame Properties</li>
+      <li>Saving Options</li>
+      <li>No Frames Support</li>
+      <li>Code View</li>
+    </ul>
+  <h2>Session 5</h2>
+    <h3>Section A: Advanced Authoring Techniques</h3>
+    <ul>
+      <li>Database Connections</li>
+      <li>Cascading Style Sheets</li>
+      <li>Understanding CSS</li>
+    </ul>
+    <h3>Section B: E-Commerce</h3>
+    <ul>
+      <li>E-Commerce Types</li>
+      <li>Traditional vs. E-Commerce</li>
+      <li>Advantages</li>
+      <li>E-Commerce Concerns</li>
+    </ul>
+    <h3>Section C: E-Commerce Standards</h3>
+    <ul>
+      <li>OTP</li>
+      <li>OBI</li>
+      <li>EDI</li>
+      <li>SET</li>
+      <li>Things to Consider</li>
+      <li>Implementing E-Commerce</li>
+    </ul>
+    <h3>Section D: Web Site Administration</h3>
+    <ul>
+      <li>Spell Check</li>
+      <li>Accessibility/Compatibility</li>
+      <li>Site Statistics</li>
+      <li>Administrative Issues</li>
+    </ul>
+    <h3>Section E: Publishing Web Sites</h3>
+    <ul>
+      <li>Indexing Pages</li>
+      <li>Ranking Pages</li>
+      <li>Listing Sites</li>
+      <li>Hosting Sites</li>
+      <li>Publishing Options</li>
+    </ul>
+    <h3>Section F: Legal And Ethical Issues</h3>
+    <ul>
+      <li>Web Site Ethics</li>
+      <li>Internet Content</li>
+      <li>Copyrights</li>
+      <li>Oversight Organizations</li>
+      <li>Best Practices</li>
+      <li>Business Data</li>
+    </ul>
+    <h3>Section G: Managing Projects</h3>
+    <ul>
+      <li>IT and Project Management</li>
+      <li>Defining a Project</li>
+      <li>Project Knowledge Areas</li>
+      <li>Five Project Phases</li>
+      <li>Phase Interactions</li>
+      <li>Management Responsibilities</li>
+      <li>Project Cycle</li>
+      <li>Governing Organizations</li>
+    </ul>
+    <h3>Section H: Web Technologies</h3>
+    <ul>
+      <li>Implementations</li>
+      <li>Using E-mail</li>
+      <li>Composing an E-mail</li>
+      <li>Adding Signatures</li>
+      <li>Adding Attachments</li>
+      <li>FTP Sites</li>
+    </ul>

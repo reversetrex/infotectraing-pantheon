@@ -1,0 +1,20 @@
+<h2>Level 1</h2>
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Identify basic web design concepts and customize the Adobe Dreamweaver CS5 interface.</li>
+  <li>Build a website.</li>
+  <li>Design web pages.</li>
+  <li>Create reusable site assets.</li>
+  <li>Work with different types of links.</li>
+  <li>Upload a website.</li>
+</ul>
+<h2>Level 2</h2>
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Work in Code view and use coding tools and  features available in Adobe Dreamweaver CS5.</li>
+  <li>Format web pages using advanced CSS techniques.</li>
+  <li>Work with AP elements.</li>
+  <li>Work with Spry elements.</li>
+  <li>Create and validate forms.</li>
+  <li>Integrate external files with Dreamweaver.</li>
+</ul>

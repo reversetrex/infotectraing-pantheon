@@ -1,0 +1,40 @@
+<p><strong>Lesson 1: </strong>Collaborating on Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Modify User Information</li>
+  <li><strong>Topic B: </strong>Share a Document</li>
+  <li><strong>Topic C: </strong>Compare Document Changes</li>
+  <li><strong>Topic D: </strong>Review a Document</li>
+  <li><strong>Topic E: </strong>Merge Document Changes</li>
+  <li><strong>Topic F: </strong>Review Tracked Changes</li>
+  <li><strong>Topic G: </strong>Coauthor Documents</li>
+</ul>
+<p><strong>Lesson 2: </strong>Adding Reference Marks and Notes</p>
+<ul>
+  <li><strong>Topic A: </strong>Add Captions</li>
+  <li><strong>Topic B: </strong>Add Cross-References</li>
+  <li><strong>Topic C: </strong>Add Bookmarks</li>
+  <li><strong>Topic D: </strong>Add Hyperlinks</li>
+  <li><strong>Topic E: </strong>Insert Footnotes and Endnotes</li>
+  <li><strong>Topic F: </strong>Add Citations and a Bibliography</li>
+</ul>
+<p><strong>Lesson 3: </strong>Simplifying and Managing Long Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Insert Blank and Cover Pages</li>
+  <li><strong>Topic B: </strong>Insert an Index</li>
+  <li><strong>Topic C: </strong>Insert a Table of Contents</li>
+  <li><strong>Topic D: </strong>Insert an Ancillary Table</li>
+  <li><strong>Topic E: </strong>Manage Outlines</li>
+  <li><strong>Topic F: </strong>Create a Master Document</li>
+</ul>
+<p><strong>Lesson 4: </strong>Securing a Document</p>
+<ul>
+  <li><strong>Topic A: </strong>Suppress Information</li>
+  <li><strong>Topic B: </strong>Set Formatting and Editing Restrictions</li>
+  <li><strong>Topic C: </strong>Add a Digital Signature to a Document</li>
+  <li><strong>Topic D: </strong>Restrict Document Access</li>
+</ul>
+<p><strong>Lesson 5: </strong>Forms</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Forms</li>
+  <li><strong>Topic B: </strong>Manipulate Forms</li>
+</ul>

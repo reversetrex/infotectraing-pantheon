@@ -1,0 +1,21 @@
+<p><strong>Module 1: Introduction</strong> - This module explains how to obtain the Windows Presentation Foundation framework as part .NET Framework 3.0 and later and what other technologies are bundled with WPF.</p>
+
+<p><strong>Module 2: Application Level</strong> - This module explains how to create a WPF application from Visual Studio and how to create windows and dialogs.</p>
+
+<p><strong>Module 3: Controls Part I</strong> - This module explains how to use the WPF built-in controls and their content model from the Visual Studio WPF Designer and Microsoft Expression Blend.</p>
+
+<p><strong>Module 4: XAML</strong> - This module explains how to declaratively design applications with the eXtensible Application Markup Language (XAML), how  designers and developers collaborate using XAML, and how XAML relates to WPF. This module also reviews the XAML implementation and the design of logical trees which may contain type converters, non-declarative parts, and custom types.</p>
+
+<p><strong>Module 5: Layout</strong> - This module explains how to use the WPF layout mechanism, WPF panels, sizing, and measurement passes and how to implement custom layout.</p>
+
+<p><strong>Module 6: Controls Part II</strong> - This module explains how to use the WPF composition engines in custom and user controls, as well as how they are  implemented in the WPF native UI elements and controls. This module also  reviews the essentiality of these engines for styling, animation, data binding, and other features.</p>
+
+<p><strong>Module 7: Data</strong> - This module explains how to work with resources and data in WPF through Data Binding and Data Templates.</p>
+
+<p><strong>Module 8: Graphics Media and Animation</strong> - This module explains how to implement a  very rich application user interface with 2D vector graphics with emphasis on  performance, brushes, imaging, video, and animation.</p>
+
+<p><strong>Module 9: Control Styles and Templates</strong> - This module explains how to use Control Styles and Templates to restyle the user interface and provide a completely new look to an application without resorting to custom controls.</p>
+
+<p><strong>Module 10: Asynchronous and Multithreading</strong> - This module explains how to work with WPF elements in a multithreaded environment and within asynchronous calls, considering the WPF single-threaded affinity  model.</p>
+
+<p><strong>Module 11: Interoperability</strong> - This module explains how to implement interoperability between WPF and Win32/WinForms controls and discusses the limitations and pitfalls in the interaction of these technologies.</p>

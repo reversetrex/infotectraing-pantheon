@@ -1,0 +1,14 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Review basic Windows Store app concepts and how Windows Store apps integrate with the Windows 8.1 ecosystem.</li>
+    <li>Explore the built-in WinRT animation library and storyboards, and apply transitions and transformations.</li>
+    <li>Localize the Windows Store app UI and apply language-specific formatting to a multi-lingual app.</li>
+    <li>Create and present a successful splash screen, and differentiate your app with branding.</li>
+    <li>Use various storage mechanisms, choose a suitable caching strategy for their app, and use advanced file access methods.</li>
+    <li>Work with custom and template controls, and create and consume a WinRT component.</li>
+    <li>Print using the Printing API and explore the Play To API.</li>
+    <li>Explore the Push Notification Service (WNS), and work with push notifications.</li>
+    <li>Use the CameraCaptureUI API and the MediaCapture API.</li>
+    <li>Create and consume background tasks.</li>
+    <li>Discover sensors, test their availability, and handle sensor events and device availability, and enumerate devices and their capabilities and properties and use the capabilities.</li>
+</ul>

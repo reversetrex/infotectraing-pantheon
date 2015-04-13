@@ -1,0 +1,51 @@
+<p><strong>Module 1: Course Overview</strong></p>
+<blockquote>This module explains how the class will be structured and introduces course materials and additional administrative information.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Introduction</li>
+  <li>Course Materials</li>
+  <li>Facilities</li>
+  <li>Prerequisites</li>
+  <li>What We'll Be Discussing</li>
+</ul>
+<p><strong>Module 2: PowerPivot</strong></p>
+<blockquote>In this module we will explore PowerPivot and its analytical capabilities. PowerPivot is a data analysis add-on for Microsoft Excel that allows large amounts of data to be collected, aggregated, and analyzed in one workbook. Sound powerful? It is! We’ll cover everything you need to know to get you up, running, and analyzing.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>What is a data model?</li>
+  <li>PowerPivot and Excel</li>
+  <li>New 2013 PowerPivot Features</li>
+  <li>PowerPivot and SharePoint</li>
+  <li>Enterprise Business Intelligence and PowerPivot</li>
+  <li>Enriching Data</li>
+  <li>Importing Data</li>
+  <li>Refreshing Data</li>
+  <li>Formatting Data</li>
+  <li>Sorting and Filtering</li>
+  <li>Creating Relationships</li>
+  <li>Calculations</li>
+  <li>SharePoint Sharing</li>
+</ul>
+<p><strong>Module 3: Power View</strong></p>
+<blockquote>In this module we will cover Power View and the reporting that can be created. From tables to charts and sharing on SharePoint, this module will have you ready to visualize your data in a variety of ways.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>New 2013 Power View Features</li>
+  <li>Microsoft Power View User Interface</li>
+  <li>Tables</li>
+  <li>Charts</li>
+  <li>Saving and Sharing</li>
+  <li>BI Semantic Models</li>
+</ul>
+<p><strong>Module 4: SharePoint 2013 Business Intelligence Center</strong></p>
+<blockquote>In this module, we will explore the new and improved 2013 SharePoint Central Administration site. We are going to cover specifically the new 2013 Business Intelligence Center template within SharePoint. Permissions and roles will be addressed and the included library and list apps will be explained.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>New 2013 SharePoint Central Administration</li>
+  <li>New 2013 Business Intelligence Center</li>
+  <li>Permissions and Roles</li>
+  <li>Included Document Library and List Apps</li>
+  <li>Create Custom Apps (Libraries) for Visualizations or Workbooks</li>
+  <li>Create Custom Connection Apps (Libraries)</li>
+  <li>SharePoint 2013 Business Intelligence Center</li>
+</ul>

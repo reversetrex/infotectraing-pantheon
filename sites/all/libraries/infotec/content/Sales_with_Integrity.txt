@@ -1,0 +1,39 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Some People Just Get It</li>
+    <li>Selling to Everyone</li>
+    <li>Perceptual Awareness</li>
+    <li>The Process of Communication</li>
+    <li>Ground Rules</li>
+  </ul>
+  <h3>Section B: Perception</h3>
+  <ul>
+    <li>Seeing, Hearing, and Feeling</li>
+    <li>Patterns of Communication</li>
+    <li>Communicative Sense Preferences</li>
+  </ul>
+  <h3>Section C: Audible and Visual Signs</h3>
+  <ul>
+    <li>Three Steps to Increase Communication</li>
+    <li>Recognizing Preferred Sensory Modalities</li>
+    <li>Communicating with Visuals</li>
+    <li>Communicating with Auditories</li>
+    <li>Communicating with Kinesthetics</li>
+    <li>Senses as Communicative Clues</li>
+    <li>Habitual Patterns</li>
+    <li>Perceptual Systems Mismatch</li>
+  </ul>
+  <h3>Section D: Outcomes</h3>
+  <ul>
+    <li>Focus on Outcomes</li>
+    <li>Desired Outcomes</li>
+    <li>Successful Communication</li>
+    <li>Perceptions</li>
+    <li>Goals vs. Outcomes</li>
+    <li>Turning Goals into Outcomes</li>
+    <li>Desires and Positivity</li>
+    <li>Senses</li>
+    <li>Dovetailing</li>
+    <li>Long and Short-Term Goals</li>
+  </ul>

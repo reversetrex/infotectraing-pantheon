@@ -1,0 +1,3 @@
+The primary audience for this course is as follows: Data center designers, data center administrators, and system engineers
+<br><br>
+The secondary audience for this course is as follows: Data center engineers and managers

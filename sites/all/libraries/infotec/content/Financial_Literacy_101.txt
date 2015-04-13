@@ -1,0 +1,181 @@
+<h2>Session 1</h2>
+  <h3>Section A: Breaking the Financial Barriers</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>How Money is Processed</li>
+  </ul>
+  <h3>Section B: Spending is Emotional</h3>
+  <ul>
+    <li>Oranges or Numbers</li>
+    <li>Why Do We Spend?</li>
+  </ul>
+  <h3>Section C: Money Mastery Software</h3>
+  <ul>
+    <li>Financial Worksheet</li>
+    <li>The Spending Planner</li>
+    <li>Spending Categories</li>
+    <li>Balancing</li>
+  </ul>
+  <h3>Section D: Working Your Plan</h3>
+  <ul>
+    <li>His and Her Assignments</li>
+    <li>Getting it Right</li>
+    <li>Sticking to It</li>
+    <li>Anyone Can Do It!</li>
+  </ul>
+  <h3>Section E: Tracking Your Money</h3>
+  <ul>
+    <li>The Spending Master Booklet</li>
+    <li>Tracking Games</li>
+    <li>Rewards of Tracking</li>
+    <li>Hints for Successful Tracking</li>
+    <li>The Money Mastery Promise</li>
+  </ul>
+  <h3>Section F: Savings is Delayed Spending</h3>
+  <ul>
+    <li>Delayed Spending</li>
+    <li>Saving Categories - Emergency</li>
+    <li>Saving Categories - Emotional</li>
+    <li>Saving Categories - Long Term</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Understanding Credit</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>The Negative Effect of Debt</li>
+  </ul>
+  <h3>Section B: Power Down Debt</h3>
+  <ul>
+    <li>Powering Down</li>
+    <li>Prioritizing Your Debts</li>
+    <li>Real Debt Report</li>
+    <li>Get Out of Debt Report</li>
+  </ul>
+  <h3>Section C: Principles of Power</h3>
+  <ul>
+    <li>Winning the Battle</li>
+    <li>Applying the Principles</li>
+  </ul>
+  <h3>Section D: Establishing and Maintaining Good Credit</h3>
+  <ul>
+    <li>Establishing Credit</li>
+    <li>FICO Score</li>
+  </ul>
+  <h3>Section E: Know the Rules</h3>
+  <ul>
+    <li>Financial Games</li>
+    <li>Learning the Rules</li>
+  </ul>
+  <h3>Section F: The Rules are Always Changing</h3>
+  <ul>
+    <li>Keeping Up with Changes</li>
+    <li>Impacts of Change</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: The Big Picture</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Time Value of Money</li>
+    <li>Long Range Planning</li>
+  </ul>
+  <h3>Section B: The Master Plan</h3>
+  <ul>
+    <li>Spending Decisions</li>
+    <li>Master Plan Worksheet</li>
+    <li>Retirement Worksheet</li>
+    <li>Retirement Cash Flow Analysis</li>
+  </ul>
+  <h3>Section C: Organizing Your Finances</h3>
+  <ul>
+    <li>Steps to New Wealth</li>
+    <li>Getting Organized</li>
+    <li>Organizing Financial Assets</li>
+    <li>Organizing Your Estate</li>
+  </ul>
+  <h3>Section D: Money in Motion</h3>
+  <ul>
+    <li>The Most Powerful Principle</li>
+    <li>Turning Your Inventory</li>
+    <li>Using What You Have</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Understand Taxation</h3>
+  <ul>
+    <li>Tax Obligations</li>
+    <li>Understanding Taxation</li>
+  </ul>
+  <h3>Section B: Accumulation Stage</h3>
+  <ul>
+    <li>Tax Systems</li>
+    <li>Misconceptions</li>
+  </ul>
+  <h3>Section C: Conservation Stage</h3>
+  <ul>
+    <li>Assets and Taxes</li>
+    <li>Investment Projections</li>
+  </ul>
+  <h3>Section D: Distribution Stage</h3>
+  <ul>
+    <li>Unnecessary Fees</li>
+    <li>Distribution Taxes</li>
+    <li>Taxation Summary</li>
+  </ul>
+  <h3>Section E: Starting a Home-Based Business</h3>
+  <ul>
+    <li>Breaking the W-2 Mentality</li>
+    <li>A Home-Based Business Makes 'Cents'</li>
+    <li>Business Ideas</li>
+  </ul>
+  <h3>Section F: Structuring Your Business</h3>
+  <ul>
+    <li>Sole Proprietor</li>
+    <li>Partnership</li>
+    <li>C Corporation</li>
+    <li>S Corporation</li>
+    <li>LLC</li>
+  </ul>
+  <h3>Section G: Running Your Business</h3>
+  <ul>
+    <li>Business is Business</li>
+    <li>Business Rules</li>
+    <li>Create a Business Plan</li>
+    <li>Act the Part</li>
+    <li>Be Alert</li>
+  </ul>
+  <h3>Section H: Business Deductions</h3>
+  <ul>
+    <li>Home Office Deduction</li>
+    <li>Meals</li>
+    <li>Entertainment</li>
+    <li>Conclusion</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Forecasting Your Future</h3>
+  <ul>
+    <li>Setting Goals</li>
+    <li>Time and Money</li>
+    <li>Forecasting Savings and Investments</li>
+  </ul>
+  <h3>Section B: Insurance</h3>
+  <ul>
+    <li>What Is Insurance?</li>
+    <li>Why Life Insurance?</li>
+    <li>Insurance and Investment Strategy</li>
+  </ul>
+  <h3>Section C: Retirement</h3>
+  <ul>
+    <li>Forecasting Retirement Needs</li>
+    <li>The Retirement Worksheet</li>
+    <li>Types of Retirement Plans</li>
+    <li>Leveraging Assets</li>
+  </ul>
+  <h3>Section D: Managing Your Estate</h3>
+  <ul>
+    <li>Retirement Cash Flow</li>
+    <li>Estate Planning</li>
+    <li>Asset Schedules</li>
+  </ul>
+  <h3>Section E: Putting It All Together</h3>
+  <ul>
+    <li>Creating a Cash Surplus</li>
+  </ul>

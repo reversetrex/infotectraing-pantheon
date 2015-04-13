@@ -1,0 +1,3 @@
+This three-day, instructor-led course is intended for individuals who are interested in expanding their knowledge base and technical skills about Microsoft Project. The course begins with the basic concepts and leads students through all the functions they'll need to plan and manage a small to medium-size project, including how to level resources and capture both cost and schedule progress.
+<br><br>
+This course will also help students prepare for Microsoft Project 2013 Exam 74-343 Managing Projects with Microsoft Project 2013.

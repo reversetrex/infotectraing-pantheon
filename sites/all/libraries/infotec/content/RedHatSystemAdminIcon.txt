@@ -1,0 +1,18 @@
+<ol>
+ <li><strong>Access the command line</strong> - Log in to a Linux system and run simple commands using the shell.</li>
+ <li><strong>Manage files from the command line</strong> - Copy, move, create, delete, and organize files from the bash shell prompt.</li>
+ <li><strong>Getting help in Red Hat Enterprise Linux</strong> - Resolve problems by using online help systems and Red Hat support utilities.</li>
+ <li><strong>Create, view, and edit text files</strong> - Create, view, and edit text files from command output or in an editor.</li>
+ <li><strong>Manage local Linux users and groups</strong> - Manage local Linux users and groups, and administer local password policies.</li>
+ <li><strong>Control access to files with Linux file system permissions</strong> - Set Linux file system permissions on files and interpret the security effects of different permission settings.</li>
+ <li><strong>Monitor and manage Linux processes</strong> - Obtain information about the system, and control processes running on it.</li>
+ <li><strong>Control services and daemons</strong> - Control and monitor network services and system daemons using system.</li>
+ <li><strong>Configure and secure OpenSSH service</strong> - Access and provide access to the command line on remote systems securely using OpenSSH.</li>
+ <li><strong>Analyze and store logs</strong> - Locate and accurately interpret relevant system log files for troubleshooting purposes.</li>
+ <li><strong>Manage Red Hat Enterprise Linux networking</strong> - Configure basic IPv4 networking on Red Hat Enterprise Linux systems.</li>
+ <li><strong>Archive and copy files between systems</strong> - Archive files and copy them from one system to another.</li>
+ <li><strong>Install and update software packages</strong> - Download, install, update, and manage software packages from Red Hat and yum package repositories.</li>
+ <li><strong>Access Linux file systems</strong> - Access and inspect existing file systems on a Red Hat Enterprise Linux system.</li>
+ <li><strong>Use virtualized systems</strong> - Create and use Red Hat Enterprise Linux virtual machines with KVM and libvirt.</li>
+ <li><strong>Comprehensive review</strong> - Practice and demonstrate the knowledge and skills learned in this course.</li>
+</ol>

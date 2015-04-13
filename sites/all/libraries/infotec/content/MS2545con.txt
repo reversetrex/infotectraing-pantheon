@@ -1,0 +1,108 @@
+<p><strong> Unit 1: Introduction to Microsoft Windows XP Embedded </strong></p>
+<p> The following topics are covered in this unit: </p>
+<ul>
+  <li>Windows XP Embedded: Design Goals </li>
+  <li>Windows XP Embedded Vs. Windows CE 3.0 </li>
+  <li>Windows XP Embedded: System Requirements </li>
+</ul>
+<p>After completing this unit, you will be able to: </p>
+<ul>
+  <li>Identify the design goals of Windows XP Embedded. </li>
+  <li>Compare Windows XP Embedded and Windows CE 3.0. </li>
+  <li>Identify the system requirements for installing Windows XP Embedded on the target devices as well as development machines. </li>
+</ul>
+<p><strong> Unit 2: Windows XP Embedded: The Build Process </strong></p>
+<p> The following topics are covered in this unit: </p>
+<ul>
+  <li>The Windows XP Embedded Build Process </li>
+  <li>Installing and Configuring Windows XP Embedded Tools </li>
+</ul>
+<p>After completing this unit, you will be able to: </p>
+<ul>
+  <li>List the tools required to build a Windows XP Embedded image </li>
+  <li>List the typical build and deployment cycle for Windows XP Embedded </li>
+  <li>Install and configure the Windows XP Embedded tools. </li>
+</ul>
+<p><strong> Unit 3: Target Designer and Target Analyzer </strong></p>
+<p> The following topics are covered in this unit: </p>
+<ul>
+  <li>Target Designer: User Interface </li>
+  <li>Target Designer: Configuration </li>
+  <li>Target Designer: The Options Feature </li>
+  <li>Target Analyzer: Introduction </li>
+</ul>
+<p>After completing this unit, you will be able to: </p>
+<ul>
+  <li>Identify the interface parts of Target Designer. </li>
+  <li>Identify how to create and update a configuration using Target Designer. </li>
+  <li>Identify the use of the Dependency Check and Advanced options in the Target Designer. </li>
+  <li>Identify the use and differences between TA.exe and TAP.exe. </li>
+</ul>
+<p><strong> Unit 4: Building and Deploying an Operating System Image </strong></p>
+<p> The following topics are covered in this unit: </p>
+<ul>
+  <li> Windows XP Embedded Build Options </li>
+  <li>Preparing for the Deployment Process </li>
+  <li>Preparing Target Media </li>
+  <li>Deploying an Operating System Image </li>
+</ul>
+<p> After completing this unit, you will be able to: </p>
+<ul>
+  <li> Explain the Windows XP Embedded build options. </li>
+  <li>Identify the steps involved in preparing for deploying Windows XP embedded system on a device. </li>
+  <li>Identify how to prepare Target Media to boot Windows XP Embedded. </li>
+  <li>Deploy an XP Embedded operating system image. </li>
+</ul>
+<p><strong> Unit 5: Windows XP Embedded Enabling Features </strong></p>
+<p> The following topics are covered in this unit: </p>
+<ul>
+  <li> Headless Operation </li>
+  <li>System Message Interception </li>
+  <li>Enhanced Write Filter </li>
+  <li>Bootable CD-ROM </li>
+  <li>Flash Media </li>
+  <li>Remote Management </li>
+  <li>Shell Customization </li>
+</ul>
+<p> After completing this unit, you will be able to: </p>
+<ul>
+  <li> Describe what is required to build a Windows XP Embedded system that supports headless operation. </li>
+  <li>Explain the purpose of System Message Interception. </li>
+  <li>Describe the Enhanced Write Filter. </li>
+  <li>Describe the process and tools involved to create a bootable CD-ROM. </li>
+  <li>Identify the different flash media on which you can build a Windows XP Embedded system. </li>
+  <li>Describe the remote management capabilities of Windows XP Embedded </li>
+  <li>Explain the process of customizing a Windows XP Embedded systems shell. </li>
+</ul>
+<p><strong> Unit 6: Building XP Embedded Components Using Component Designer </strong></p>
+<p> The following topics are covered in this unit: </p>
+<ul>
+  <li> What is Component Designer? </li>
+  <li>Understanding Components </li>
+  <li>Component Resources </li>
+  <li>Understanding Repositories </li>
+  <li>Role of a Repository Set </li>
+  <li>Role of a Package </li>
+</ul>
+<p> After completing this unit, you will be able to: </p>
+<ul>
+  <li> Identify the role of Component Designer. </li>
+  <li>Identify the contents of a component, and the process of creating components. </li>
+  <li>Describe component resources. </li>
+  <li>Describe the role of repositories. </li>
+  <li>Identify the role of a repository set. </li>
+  <li>Identify the role of a package. </li>
+</ul>
+<p><strong> Unit 7: Advanced Components and Techniques </strong></p>
+<p> The following topics are covered in this unit: </p>
+<ul>
+  <li> Converting Components </li>
+  <li>Creating Custom Shell Components </li>
+  <li>Component Building Tools </li>
+</ul>
+<p>After completing this unit, you will be able to: </p>
+<ul>
+  <li>Explain the different ways in which existing files can be converted into Windows XP Embedded components. </li>
+  <li>Creating custom shell components. </li>
+  <li>Explain the various tools which can assist in building and debugging components, and Windows XP Embedded operating systems </li>
+</ul>

@@ -1,0 +1,191 @@
+<h2>Session 1</h2>
+  <h3>Section A: Getting Started with Project 2010</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Backstage</li>
+    <li>Ribbon/Quick Access Toolbar</li>
+    <li>Using Backstage</li>
+    <li>Backstage Options: Display</li>
+    <li>Backstage Options: Schedule</li>
+    <li>Backstage Options: Proofing/Save</li>
+    <li>Backstage Options: Language/Advanced</li>
+    <li>Ribbon Tabs/Categories</li>
+    <li>Context Sensitive Tabs</li>
+    <li>Customizing Ribbon</li>
+    <li>Adding Commands to Ribbon</li>
+    <li>Backstage Options: Quick Access Toolbar</li>
+    <li>Backstage Options: Add-Ins/Trust Center</li>
+  </ul>
+  <h3>Section B: Understanding Projects</h3>
+  <ul>
+    <li>Getting Started</li>
+    <li>Project Setup</li>
+    <li>Calendaring</li>
+    <li>Project Tasks</li>
+    <li>Milestones</li>
+  </ul>
+  <h3>Section C: Starting a Project from Scratch</h3>
+  <ul>
+    <li>Creating a New Project</li>
+    <li>Project Properties</li>
+    <li>Show/Hide Project Summary Tasks</li>
+    <li>Setting Project Information</li>
+    <li>Creating a Project Calendar</li>
+    <li>Customized Working Times</li>
+    <li>Scheduling Tasks</li>
+    <li>Insert/Adjust Tasks</li>
+  </ul>
+  <h3>Section D: Managing Tasks</h3>
+  <ul>
+    <li>The Logical Schedule Model: Phase 1</li>
+    <li>Task Durations</li>
+    <li>Linked Tasks</li>
+    <li>Scroll to Task</li>
+    <li>Adding Task Durations</li>
+    <li>Show/Hide Task Fields</li>
+    <li>Modifying a Task Mode</li>
+    <li>Defining the Task Type</li>
+    <li>Linking Tasks</li>
+    <li>Adjusting Task Dependency Type</li>
+  </ul>
+  <h3>Section E: Deadlines and Constraints</h3>
+  <ul>
+    <li>The Logical Schedule Model: Phase 2</li>
+    <li>Deadlines</li>
+    <li>Constraint Types</li>
+    <li>Setting Task Deadlines</li>
+    <li>Adjusting a Task Constraint Type</li>
+    <li>Resolving Constraint Conflicts</li>
+  </ul>
+  <h3>Section F: Working with Recurring Tasks</h3>
+  <ul>
+    <li>The Logical Schedule Model: Phase 3</li>
+    <li>Recurring Tasks, Lead, and Lag</li>
+    <li>Inserting Recurring Tasks</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Introduction to Project Resources</h3>
+  <ul>
+    <li>Resource Types</li>
+    <li>Entering/Editing Resource Information</li>
+    <li>Create/Manage Resources</li>
+    <li>Creating Generic Resources</li>
+    <li>Creating Part-Time Resources</li>
+    <li>Adding Resource Materials</li>
+    <li>Adding a Resource Cost</li>
+  </ul>
+  <h3>Section B: Managing Resource Assignments</h3>
+  <ul>
+    <li>Managing Resources</li>
+    <li>Assigning Resources</li>
+    <li>Edit Assignments</li>
+    <li>Managing Resource Allocation</li>
+    <li>Managing Overallocation</li>
+    <li>Managing across Multiple Projects</li>
+    <li>Assigning Resources to a Task</li>
+    <li>Assigning Material Resources</li>
+    <li>Adding Variable Expenses</li>
+    <li>Viewing Resource Allocation</li>
+    <li>Reallocating Resources</li>
+    <li>Different Views</li>
+    <li>The Resource Graph/Usage</li>
+  </ul>
+  <h3>Section C: Assigning Project Costs</h3>
+  <ul>
+    <li>Model Project Costs</li>
+    <li>Cost Per Use</li>
+    <li>Accrual Method</li>
+    <li>Reviewing Project Cost</li>
+    <li>Prorated vs. Start/End Cost</li>
+    <li>Review Resource Costs</li>
+  </ul>
+  <h3>Section D: Tracking and Analyzing a Project</h3>
+  <ul>
+    <li>Baselines</li>
+    <li>Critical Path</li>
+    <li>Total Slack</li>
+    <li>Creating a Baseline</li>
+    <li>Baseline in the Gantt Chart</li>
+    <li>Displaying Project Critical Tasks</li>
+    <li>Displaying Project Slack</li>
+    <li>Completing Critical Tasks on Time</li>
+  </ul>
+  <h3>Section E: Updating Task Progress</h3>
+  <ul>
+    <li>Update Actual Progress</li>
+    <li>Actual/Remaining Duration</li>
+    <li>Status/Current Date</li>
+    <li>Rescheduled Work</li>
+    <li>Canceling Unneeded Tasks</li>
+    <li>Completing Tasks</li>
+    <li>Splitting Tasks</li>
+    <li>Adding Resources</li>
+    <li>Partial Progress</li>
+    <li>Setting a Status Date</li>
+    <li>Inactive Tasks</li>
+  </ul>
+  <h3>Section F: Comparing Progress and Baseline</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Date, Work, and Cost Variances</li>
+    <li>Task Slippage</li>
+    <li>Actual/Baseline Progress</li>
+    <li>Actual/Baseline Cost</li>
+    <li>Progress Lines</li>
+    <li>Multiple Baselines</li>
+    <li>Task Inspector</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Custom Fields, Views, and Tables</h3>
+  <ul>
+    <li>Creating Custom Interface/Fields</li>
+    <li>Applying and Customizing Views</li>
+    <li>Creating a Custom Field</li>
+    <li>Graphical-Based Custom Field</li>
+    <li>Calendar View</li>
+    <li>Network Diagram View</li>
+    <li>Creating a Custom View</li>
+    <li>Modifying a Custom View</li>
+    <li>Organizing the Global Template</li>
+    <li>Creating/Customizing a Custom Table</li>
+    <li>Formatting Tables and Views</li>
+    <li>Add Custom Table to Global Template</li>
+  </ul>
+  <h3>Section B: Manipulating Data</h3>
+  <ul>
+    <li>Sorting Data</li>
+    <li>Filtering, Highlighting, Grouping Data</li>
+    <li>Sorting Data Example</li>
+    <li>Filtering Data Example</li>
+    <li>Using AutoFilter</li>
+    <li>Creating a Custom Filter</li>
+    <li>Grouping Data Example</li>
+  </ul>
+  <h3>Section C: Communicating Project Information</h3>
+  <ul>
+    <li>Communication Methods</li>
+    <li>Reports</li>
+    <li>Printing Options</li>
+    <li>Sync to SharePoint</li>
+    <li>Project 2010 Timeline Feature</li>
+    <li>Adding Tasks to the Timeline</li>
+    <li>Formatting Timeline for Distribution</li>
+    <li>Creating a Visual Report</li>
+    <li>Default Reports</li>
+    <li>Custom Reports</li>
+    <li>Saving/Sharing</li>
+  </ul>
+  <h3>Section D: Collaborating Projects and Resources</h3>
+  <ul>
+    <li>Project Collaboration Options</li>
+    <li>Master/Subproject</li>
+    <li>Resource Pool</li>
+    <li>Project Templates</li>
+    <li>Exporting Data to Excel</li>
+    <li>Linking Multiple Projects</li>
+    <li>Master Project</li>
+    <li>Resource Pool Sharing</li>
+    <li>Creating a Template</li>
+    <li>New Project from Template</li>
+    <li>Exporting a Project to Excel</li>
+  </ul>

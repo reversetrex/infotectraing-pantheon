@@ -1,0 +1,36 @@
+<p><strong>Day 1:</strong></p>
+<ul>
+  <li> Theory:  Service Desk</li>
+  <li> Case Study</li>
+  <li> Practical Assignment</li>
+  <li> Presentation of assignment results</li>
+</ul>
+<p><strong> Day 2:</strong></p>
+<ul>
+  <li> Theory:  Incident Management</li>
+  <li>Practical Assignment</li>
+  <li> Presentation of assignment results</li>
+  <li> Feedback + evaluation of assignment results</li>
+</ul>
+<p><strong> Day 3:</strong></p>
+<ul>
+  <li> Theory:  Problem Management</li>
+  <li> Practical Assignment</li>
+  <li> Presentation of assignment results</li>
+  <li> Feedback + evaluation of assignment results</li>
+</ul>
+<p><strong> Day 4:</strong></p>
+<ul>
+  <li> Theory:  Integrated Processes</li>
+  <li> Practical Assignment</li>
+  <li> Presentation of assignment results</li>
+  <li> Feedback + evaluation of assignment results</li>
+</ul>
+<p><strong> Day 5:</strong></p>
+<ul>
+  <li> Theory:  Review Session</li>
+  <li> Evaluation of assignment results and feedback</li>
+  <li> Sample Exam</li>
+  <li> Exam Prep</li>
+  <li> Evaluation of the course</li>
+</ul>

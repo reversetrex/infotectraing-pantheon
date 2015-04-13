@@ -1,0 +1,2 @@
+This five-day instructor-led course provides students with the knowledge and skills to maintain a Microsoft SQL Server 2014 database. The course focuses on teaching individuals how to use SQL Server 2014 product features and tools related to maintaining a database.<br><br>
+Note: This course is designed for customers who are interested in learning SQL Server 2012 or SQL Server 2014.  It covers the new features in SQL Server 2014, but also the important capabilities across the SQL Server data platform.

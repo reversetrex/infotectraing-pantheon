@@ -1,0 +1,31 @@
+<h2>Session 1</h2>
+  <h3>Section A: The Tests of Time</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Identify the Time You Control</li>
+    <li>Analyze Your Use of Time</li>
+    <li>The Tests of Time</li>
+    <li>Your Energy Cycles</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Stop Wasting Your Time</h3>
+  <ul>
+    <li>Time Wasters: An Overview</li>
+    <li>Disorganization</li>
+    <li>Procrastination</li>
+    <li>Cannot Say No</li>
+    <li>Environmental Time Wasters</li>
+    <li>Planning and Prioritizing</li>
+    <li>Planning Tips</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Becoming a Time Manager</h3>
+  <ul>
+    <li>Focusing on Goals</li>
+    <li>Establishing Priorities</li>
+    <li>Delegating</li>
+    <li>Personalize: Use Techniques To Suit You</li>
+    <li>Control Your Schedule</li>
+    <li>Reminders</li>
+    <li>Assessment</li>
+  </ul>

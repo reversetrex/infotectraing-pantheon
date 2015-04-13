@@ -1,0 +1,158 @@
+<h2>Session 1</h2>
+  <h3>Section A: Tour of the Interface</h3>
+  <ul>
+    <li>Interface Tour, Templates</li>
+    <li>The Ribbon</li>
+    <li>Status Bar</li>
+    <li>Backstage View</li>
+    <li>Reuse Slides</li>
+    <li>Project Plan</li>
+  </ul>
+  <h3>Section B: Organize Your Presentation</h3>
+  <ul>
+    <li>Creating a Presentation</li>
+    <li>Changing Presentation Themes</li>
+    <li>Modify Slide Backgrounds</li>
+    <li>Adding and Modifying Slides</li>
+    <li>Duplicate, Hide Slides</li>
+    <li>Apply Styles to Slides</li>
+    <li>Change Slide Layout</li>
+  </ul>
+  <h3>Section C: Inserting and Formatting Shapes</h3>
+  <ul>
+    <li>Inserting Slide Content</li>
+    <li>Inserting Shapes, Resizing Shapes</li>
+    <li>Apply Borders to Shapes</li>
+    <li>Modify Shape Backgrounds</li>
+    <li>Apply Styles to Shapes</li>
+    <li>Align and Group Shapes</li>
+    <li>Order Shapes</li>
+    <li>Modify Slide Order</li>
+    <li>Merge and Ungroup Shapes</li>
+  </ul>
+  <h3>Section D: Inserting and Formatting Text</h3>
+  <ul>
+    <li>Formatting and Text Styles</li>
+    <li>Change Text to WordArt</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Customize a Blank Document</h3>
+  <ul>
+    <li>Create Bulleted Lists</li>
+    <li>Create Multiple Columns</li>
+    <li>Numbered Lists</li>
+    <li>Insert Hyperlinks</li>
+    <li>Hyperlinks Insert Menu</li>
+    <li>Hyperlinks Action</li>
+    <li>Email Hyperlinks</li>
+    <li>Link to Slide Content</li>
+  </ul>
+  <h3>Section B: Insert and Format Tables</h3>
+  <ul>
+    <li>Insert and Create Tables</li>
+    <li>Apply Table Styles</li>
+    <li>Import Tables</li>
+    <li>Insert Excel Table</li>
+    <li>Modify Tables</li>
+  </ul>
+  <h3>Section C: Create and Modify Charts</h3>
+  <ul>
+    <li>Create Chart</li>
+    <li>Modify Chart Type</li>
+    <li>Modify Chart Style</li>
+    <li>Insert and Import Chart</li>
+    <li>Add and Modify a Legend</li>
+  </ul>
+  <h3>Section D: SmartArt</h3>
+  <ul>
+    <li>Create SmartArt</li>
+    <li>Change Color, Change Text</li>
+    <li>Move Text, Reverse Direction</li>
+    <li>Insert Images</li>
+    <li>Resize Images</li>
+    <li>Apply Effects</li>
+    <li>Create Screenshot</li>
+    <li>Create Photo Album</li>
+  </ul>
+  <h3>Section E: Insert Media</h3>
+  <ul>
+    <li>Working with Media</li>
+    <li>Trimming Media</li>
+    <li>Set Start and Stop Times</li>
+    <li>Link to External Media</li>
+    <li>Insert Audio</li>
+    <li>Inspect Presentation</li>
+  </ul>
+  <h3>Section F: Adding Animations and Transitions</h3>
+  <ul>
+    <li>Adding Transitions</li>
+    <li>Working with Transitions</li>
+    <li>Animate Slide Content, Animation Pane</li>
+    <li>Animation Duration</li>
+    <li>Add Animation to Text</li>
+    <li>Add Animation to Shapes</li>
+    <li>Paths to Animations</li>
+    <li>Animation on Charts</li>
+    <li>Animate a Picture</li>
+    <li>Entrance Animations</li>
+    <li>SmartArt Animations</li>
+    <li>Reorder Animations</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Slide Masters</h3>
+  <ul>
+    <li>Customizing Slides, Slide Master</li>
+    <li>Insert Master Layout</li>
+    <li>Master Layout Backgrounds</li>
+    <li>Name Master Layout</li>
+    <li>New Slide Master</li>
+    <li>Add and Change Background</li>
+  </ul>
+  <h3>Section B: Creating Custom Layouts</h3>
+  <ul>
+    <li>Add a Picture to Master</li>
+    <li>Apply Master Layout</li>
+    <li>Add Header and Footer</li>
+    <li>Add Notes and Handouts</li>
+    <li>Modifying Presentation Options</li>
+    <li>Setup Options</li>
+  </ul>
+  <h3>Section C: Presentation Properties</h3>
+  <ul>
+    <li>Modify Presentation Properties</li>
+    <li>Create Custom Slide Show</li>
+    <li>Rehearse Timings and Configuration</li>
+    <li>Configuring Slide Show Options</li>
+    <li>Altering Presentation Views</li>
+    <li>Section Headers</li>
+  </ul>
+  <h3>Section D: Printing Presentations</h3>
+  <ul>
+    <li>Printer Selection and Color Options</li>
+    <li>Printer Settings</li>
+    <li>Print Selections</li>
+  </ul>
+  <h3>Section E: Saving Presentations</h3>
+  <ul>
+    <li>Saving the Presentation</li>
+    <li>Sharing the Presentation</li>
+    <li>Present Online</li>
+    <li>Export and Compatibility Checker</li>
+  </ul>
+  <h3>Section F: Navigating and Annotating</h3>
+  <ul>
+    <li>Presenting the Presentation</li>
+    <li>Presenter View</li>
+    <li>Configure Slide Show Resolution</li>
+    <li>Adding Password Protection</li>
+    <li>Restrict Permissions</li>
+    <li>Proof Presentations</li>
+    <li>Merge Multiple Presentations</li>
+  </ul>
+  <h3>Section G: Checking the Presentation</h3>
+  <ul>
+    <li>Inspect Document</li>
+    <li>Compress Media</li>
+    <li>Compatibility and Accessibility</li>
+    <li>Embed Fonts</li>
+  </ul>

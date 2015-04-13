@@ -1,0 +1,104 @@
+<p><strong>Module 1: Why Rights Management?</strong></p>
+<p>This module provides an overview of Microsoft Active Directory Rights Management Services (AD RMS). The overview   describes how the product works, the business reasons for using AD RMS, and the technology that you use to deploy an AD RMS environment.</p>
+<ul>
+  <li>A Bit of History</li>
+  <li>Business Reasons for AD RMS</li>
+  <li>What AD RMS Does</li>
+  <li>AD RMS Usage Scenarios</li>
+  <li>AD RMS Technology Overview</li>
+  <li>AD RMS in Windows Server 2008 R2 and Windows 7</li>
+</ul>
+<p><strong>Module 2: AD RMS Architecture</strong></p>
+<p>This module covers the basic architecture and concepts of the Microsoft Active Directory Rights Management   Services product. Most of the concepts that are introduced in this module will be covered in more detail in other modules later in the course.</p>
+<ul>
+  <li>AD RMS Components Overview</li>
+  <li>AD RMS Bootstrapping Process</li>
+  <li>AD RMS Publishing and Licensing Process</li>
+  <li>AD RMS Service Connection Point (SCP)</li>
+  <li>AD RMS Topology</li>
+  <li>AD RMS Components Details</li>
+</ul>
+<p><strong>Module 3: AD RMS Installation and Provisioning</strong></p>
+<p>In this module, the student will learn about network infrastructure, hardware, and software requirements for installing AD RMS. The student will learn the procedure for deploying AD RMS servers, as well as the permissions required for the accounts that are used in the deployment and management of AD RMS.</p>
+<ul>
+  <li>AD RMS Requirements</li>
+  <li>AD RMS Prerequisites</li>
+  <li>Installing and Provisioning AD RMS</li>
+  <li>AD RMS Server Installation Best Practices</li>
+  <li>Migrating RMS to AD RMS</li>
+</ul>
+<p><strong>Module 4: Information Rights Management on Desktop Applications</strong></p>
+<p>This module begins by describing the AD RMS client software, its requirements, and how to deploy it. Next, the module identifies the Information Rights Management (IRM) components on client machines and the bootstrapping process the AD RMS client performs for each user. The module then discusses how IRM is provided in Microsoft Office products, the XPS format, Window Mobile 6.0, and read-only access in Windows Internet Explorer. The module ends with a discussion of how registry keys interact with AD RMS.</p>
+<ul>
+  <li>Operating System Versions and AD RMS Clients</li>
+  <li>Microsoft Office IRM</li>
+  <li>XPS IRM</li>
+  <li>Windows Mobile 6.0 IRM</li>
+  <li>RM Add-on for Internet Explorer and Rights-Managed HTML (RMH)</li>
+  <li>Office Viewers and AD RMS</li>
+  <li>IRM Client Registry Settings</li>
+</ul>
+<p><strong>Module 5: Rights Policy Templates</strong></p>
+<p>This module provides an introduction to rights policy templates and the concepts related to protecting and consuming content that is protected by templates. These templates are used to standardize security policies and protect information according to the latest policy.</p>
+<ul>
+  <li>Introduction to Rights Policy Templates</li>
+  <li>Creating Rights Policy Templates</li>
+  <li>Protecting Content Using Templates</li>
+  <li>Consuming Content Protected by Templates</li>
+  <li>Managing Rights Policy Templates</li>
+  <li>Template Distribution Strategy</li>
+</ul>
+<p><strong>Module 6: Information Rights Management on Server Applications</strong></p>
+<p>In this module, students will see how AD RMS integrates with server-side applications, which use AD RMS to   automatically protect and license content. This module covers the following server products: Microsoft Office SharePoint Server (MOSS) 2007, Microsoft Exchange Server 2010, and AD RMS Bulk Protection Tool + FCI</p>
+<ul>
+  <li>Microsoft Office SharePoint Server 2007 IRM</li>
+  <li>Email Protection in Exchange Server</li>
+  <li>New AD RMS Features in Exchange Server 2010</li>
+</ul>
+<p><strong>Module 7: Administering AD RMS</strong></p>
+<p>This module introduces some of the elements of the AD RMS Management Console. It discusses exclusion policies that   can be defined by an administrator, provides an overview of revocation, and discusses the Super Users group and how it can be used to recover content. The module also introduces the new AD RMS reporting capabilities.</p>
+<ul>
+  <li>The AD RMS Administration Console</li>
+  <li>New AD RMS Administration Roles</li>
+  <li>Rights Account Certificate Policies</li>
+  <li>Exclusion Policies</li>
+  <li>Revocation</li>
+  <li>The Super Users Group</li>
+</ul>
+<p><strong>Module 8: Managing Trust</strong></p>
+<p>This module discusses the trust architecture in AD RMS, the types of trusts that are available, and how trusted   user domains operate.</p>
+<ul>
+  <li>Introduction to Trust Policies</li>
+  <li>Trusted User Domains</li>
+  <li>Trusted Publishing Domains</li>
+  <li>AD RMS and Active Directory Federation Services</li>
+  <li>Windows Live ID Trust</li>
+  <li>Trust Scenarios</li>
+  <li>General Infrastructure Requirements and Product Capabilities</li>
+</ul>
+<p><strong>Module 9: Extranet Considerations</strong></p>
+<p>This module discusses the extranet and how you can use it with AD RMS to provide access to protected content. The   module provides reasons for establishing extranet access to AD RMS, and offers examples and scenarios. The module also discusses the use of a firewall, like Microsoft Internet Security and Acceleration Server (ISA Server), to address security with AD RMS.</p>
+<ul>
+  <li>Extranet Access to AD RMS</li>
+  <li>Extranet Access to AD RMS Pipelines</li>
+  <li>Extranet Client Considerations</li>
+  <li>AD RMS and Firewall Options</li>
+  <li>Extranet Scenarios</li>
+</ul>
+<p><strong>Module 10: Deploying and Maintaining AD RMS Infrastructure</strong></p>
+<p>This module covers some of the key concepts to deploy and maintain the AD RMS service. Keep in mind that after key   documents are protected, AD RMS becomes a very critical service in the organization.</p>
+<ul>
+  <li>AD RMS General Performance Guidelines</li>
+  <li>Adding a Server to a Cluster</li>
+  <li>Managing Clusters</li>
+  <li>AD RMS Disaster Recovery</li>
+</ul>
+<p><strong>Module 11: Troubleshooting AD RMS</strong></p>
+<p>This module focuses on common issues in AD RMS and the tools available to help troubleshoot them. We examine in   detail each of the common AD RMS support issues and the steps you can take to troubleshoot them. At the end of the module, we provide a list of additional resources for troubleshooting issues in AD RMS.</p>
+<ul>
+  <li>Troubleshooting Core Infrastructure</li>
+  <li>Troubleshooting Product Installation</li>
+  <li>Troubleshooting Product Usage</li>
+  <li>Diagnostic Tools</li>
+  <li>Additional Tools</li>
+</ul>

@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>initiate a project. </li>
+  <li>create a Scope Statement. </li>
+  <li>plan project strategy. </li>
+  <li>create the project budget and schedule. </li>
+  <li>manage project relationships. </li>
+  <li>implement the project. </li>
+  <li>close the project. </li>
+</ul>

@@ -1,0 +1,26 @@
+<p><strong>Level 1</strong>:</p>
+
+<p>Upon successful completion of this course, students will be able to:</p>
+
+<ul>
+  <li>Log on to Windows 7, explore its  interface, and identify the different components present in the interface.</li>
+  <li>Customize the Windows 7 desktop.</li>
+  <li>Manage files and folders.</li>
+  <li>Use the common tools and programs  available in Windows 7.</li>
+  <li>Browse  the Internet.</li>
+</ul>
+
+<p><strong>Level 2</strong>:</p>
+
+<p>Upon successful completion of this course, students will be able to:</p>
+
+<ul>
+  <li>Customize the Windows 7 environment. </li>
+  <li>Configure user accounts. </li>
+  <li>Work with applications in Windows 7. </li>
+  <li>Work with devices. </li>
+  <li>Manage networks. </li>
+  <li>Secure your system data. </li>
+  <li>Enhance system performance.</li>
+  <li>Work  with Internet Explorer 8.</li>
+</ul>

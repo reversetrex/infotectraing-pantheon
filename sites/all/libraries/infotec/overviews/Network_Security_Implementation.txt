@@ -1,0 +1,8 @@
+The Network Security Implementation course maps to the 640-554 IINS exam 
+which is associated with the CCNA Security certification. LearnKey expert 
+Tom Carpenter will teach students how to secure Cisco routers and switches 
+and their associated networks. This course will cover the necessary skills 
+for installation, troubleshooting and monitoring of network devices to 
+maintain integrity, confidentiality and availability of data and devices 
+and develops competency in the technologies that Cisco uses in its 
+security infrastructure.

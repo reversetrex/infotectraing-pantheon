@@ -1,0 +1,14 @@
+<ul>
+  <li>Install and configure Windows Server 2008. </li>
+  <li>Add and configure Windows Server Core roles. </li>
+  <li>Explain the new backup infrastructure, including Volume Shadow Copy  Service. </li>
+  <li>Identify new and improved networking features with Windows Server 2008. </li>
+  <li>Configure Hyper-V virtual machines. </li>
+  <li>Identify considerations when upgrading from a Windows Server 2003 to a Windows Server 2008 Active Directory infrastructure. </li>
+  <li>Install and configure Active Directory Federation Services, Active  Directory Lightweight Directory Services, and Active Directory Rights  Management Services. </li>
+  <li>Use Read-Only Domain Controllers. </li>
+  <li>Identify new features in AD DS auditing. </li>
+  <li>Implement AD DS auditing. </li>
+  <li>Configure Windows Server 2008 Failover Clustering. </li>
+  <li>Configure  Windows Server 2008 Network Load Balancing.</li>
+</ul>

@@ -1,0 +1,31 @@
+<h2>Session 1</h2>
+  <h3>Section A: Managing Change</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: Facing Change</h3>
+  <ul>
+    <li>Dealing with Change</li>
+    <li>Effective Managers</li>
+    <li>Leading Change</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Understanding Change</h3>
+  <ul>
+    <li>The Change Model</li>
+    <li>Denial</li>
+    <li>Resistance</li>
+    <li>Exploration</li>
+    <li>Commitment</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Leading for Change</h3>
+  <ul>
+    <li>People and Change</li>
+    <li>People and Denial</li>
+    <li>People and Resistance</li>
+    <li>People and Exploration</li>
+    <li>Conclusion</li>
+  </ul>

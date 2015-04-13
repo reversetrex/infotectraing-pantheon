@@ -1,0 +1,34 @@
+<h2>Session 1</h2>
+  <h3>Section A: What Is the EEOC?</h3>
+  <ul>
+    <li>Feeling Confident</li>
+    <li>EEOC Origin</li>
+    <li>Understanding the EEOC</li>
+    <li>Acts Included in EEO Laws</li>
+  </ul>
+  <h3>Section B: Discrimination</h3>
+  <ul>
+    <li>Age Discrimination</li>
+    <li>Racial Discrimination</li>
+    <li>Adverse Impact</li>
+    <li>Types of Discrimination</li>
+    <li>Avoiding Discrimination</li>
+    <li>Key Points</li>
+    <li>Reviewing Employment Decisions</li>
+  </ul>
+  <h3>Section C: Protecting Your Company</h3>
+  <ul>
+    <li>EEOC Charges</li>
+    <li>Documentation</li>
+    <li>Key Points</li>
+    <li>Reviewing Documents</li>
+  </ul>
+  <h3>Section D: Resolving EEOC Charges</h3>
+  <ul>
+    <li>False Charges</li>
+    <li>Three Options</li>
+    <li>Resolution</li>
+    <li>Key Points</li>
+    <li>Analyzing Policies and Practices</li>
+    <li>Fair Practices for Everyone</li>
+  </ul>

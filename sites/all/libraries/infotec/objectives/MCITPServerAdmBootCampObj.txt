@@ -1,0 +1,68 @@
+<p><strong>MS6419</strong>:</p>
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the different administrative tools and tasks in Windows  Server 2008. </li>
+  <li>Configure AD DS user and computer accounts. </li>
+  <li>Create Groups and Organizational Units. </li>
+  <li>Manage access to shared resources in an AD DS environment. </li>
+  <li>Configure Active Directory Objects and Trusts. </li>
+  <li>Create and configure Group Policy Objects. </li>
+  <li>Configure user and computer environments by using Group Policy. </li>
+  <li>Implement security by using Group Policy. </li>
+  <li>Configure and analyze server security and security update  compliance. </li>
+  <li>Configure and manage storage technologies included with Windows  Server 2008. </li>
+  <li>Configure and manage Distributed File System. </li>
+  <li>Configure Network Access Protection. </li>
+  <li>Configure availability of network resources. </li>
+  <li>Monitor&nbsp;and Maintain servers running Windows Server 2008.</li>
+  <li>Manage a Windows  Server 2008 Backup and Restore.</li>
+</ul>
+<p><strong>MS6421</strong>:</p>
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Install and configure servers.</li>
+  <li>Configure and troubleshoot DNS.</li>
+  <li>Configure and manage WINS.</li>
+  <li>Configure and troubleshoot DHCP.</li>
+  <li>Configure and troubleshoot IPv6 TCP/IP.</li>
+  <li>Configure and troubleshoot Routing and Remote Access.</li>
+  <li>Install, configure, and troubleshoot the Network Policy Server Role service.</li>
+  <li>Configure Network Access Protection.</li>
+  <li>Configure IPsec.</li>
+  <li>Monitor and troubleshoot IPsec.</li>
+  <li>Configure and manage Distributed File System.</li>
+  <li>Configure and manage storage technologies.</li>
+  <li>Configure availability of network resources and content.</li>
+  <li>Configure server security compliance.</li>
+</ul>
+<p><strong>MS6425:</strong></p>
+<blockquote>
+  <p>After  completing this course, students will be able to implement and configure Active  Directory domain services in their enterprise environment.</p>
+</blockquote>
+<p><strong>MS6426:</strong></p>
+<p>After completing this course, students  will be able to:</p>
+<ul>
+  <li>Describe identity and access solutions.</li>
+  <li>Configure Active Directory Certificate Services.</li>
+  <li>Deploy and manage certificates.</li>
+  <li>Configure Active Directory Lightweight Directory Services.</li>
+  <li>Configure Active Directory Federation Services.</li>
+  <li>Configure Active Directory Rights Management Services.</li>
+  <li>Maintain access management solutions.</li>
+  <li>Troubleshoot identity and access solutions.</li>
+</ul>
+<p><strong>MS6430:</strong></p>
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Plan  for both Windows Server 2008 installation and upgrade from a previous version  of Windows Server to Windows Server 2008. </li>
+  <li>Plan  and implement network connectivity in Windows Server 2008 by using IPv4-related  technologies and plan a migration strategy to IPv6. </li>
+  <li>Plan  the deployment of Active Directory–related services in Windows Server 2008. </li>
+  <li>Apply  the design considerations for implementing group policy. </li>
+  <li>Plan  the configuration of different applications services in Windows Server 2008. </li>
+  <li>Create  a plan for file and print services to meet an organization’s printing, file  storage, and access needs. </li>
+  <li>Create  a plan to secure the Windows Server 2008 environment. </li>
+  <li>Create  local and remote administration strategies for administering a Windows Server  2008 environment. </li>
+  <li>Create  a monitoring plan for the Windows Server 2008 environment. </li>
+  <li>Create  a plan that will help mitigate the effects of various disaster scenarios on the  IT infrastructure.</li>
+  <li>Create a plan for  using virtualization in a Windows Server 2008 environment.</li>
+</ul>

@@ -1,0 +1,9 @@
+<p><strong>Continual Service Improvement</strong> - Review, Audit, and Metrics through the Continual Service Improvement; New/changed concepts and new definitions and terms</p>
+
+<p><strong>Service Operation</strong> - Incident, Problem, Event, and Access Management, Request Fulfillment and the Service Desk</p>
+
+<p><strong>Service Transition</strong> - Best Practices in Release Management, Change Management, Program/Project Risk Management, Service Asset and Configuration Management, CMS, DML and the Spares Store</p>
+
+<p><strong>Service Strategy</strong> - Service Economics, ROI, Service Portfolio Management, and Demand Management</p>
+
+<p><strong>Service Design</strong> - Service Catalog Management, SLM, Availability Management, IT Service Continuity Management, Supplier Management, Information Security Management, and Capacity Management</p>

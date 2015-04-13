@@ -1,0 +1,3 @@
+This course is designed for Information Technology (IT) professionals who have experience with Windows XP and Windows Vista who work as Windows 7 Enterprise Desktop Support Technicians (EDSTs) in Tier 2 support environments. The goal of this training is to enable these individuals to support the Windows 7 operating system and solve technical troubleshooting problems in a Windows 7 and Windows Server 2008 R2 networking environment.
+<br><br>
+This course helps candidates prepare for Exam 70-685, the final requirement for the Enterprise Desktop Support Technician (EDST) professional credential.

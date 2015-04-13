@@ -1,0 +1,92 @@
+<p><strong> Unit 1: Overview of the Microsoft .NET Framework </strong></p>
+<ul>
+  <li> Overview of the Microsoft .NET Framework </li>
+  <li> Overview of Namespaces </li>
+</ul>
+<p><strong> Unit 2: Introduction to a Managed Execution Environment </strong></p>
+<ul>
+  <li> Writing a .NET Framework Application </li>
+  <li> Compiling and Running a .NET Framework Application </li>
+</ul>
+<p><strong> Unit 3: Working with Components </strong></p>
+<ul>
+  <li> An Introduction to Key .NET Framework Development Technologies </li>
+  <li> Creating a Simple .NET Framework Component </li>
+  <li> Creating a Simple Console Client </li>
+  <li> Creating an ASP.NET Client </li>
+</ul>
+<p><strong>Unit 4: Deployment and Versioning</strong></p>
+<ul>
+  <li> Introduction to Application Deployment </li>
+  <li> Application Deployment Scenarios </li>
+  <li> Related Topics and Tools </li>
+</ul>
+<p><strong> Unit 5: Common Type System </strong></p>
+<ul>
+  <li> Introduction to the Common Type System </li>
+  <li> Elements of the Common Type System </li>
+  <li> Object-Oriented Characteristics </li>
+</ul>
+<p><strong> Unit 6: Working with Types </strong></p>
+<ul>
+  <li> System.Object Class Functionality </li>
+  <li> Specialized Constructors </li>
+  <li> Type Operations </li>
+  <li> Interfaces </li>
+  <li> Managing External Types </li>
+</ul>
+<p><strong> Unit 7: Strings, Arrays, and Collections </strong></p>
+<ul>
+  <li> Strings </li>
+  <li> Collections Defined </li>
+  <li> .NET Framework Arrays </li>
+  <li> .NET Framework Collections </li>
+</ul>
+<p><strong> Unit 8: Delegates and Events </strong></p>
+<ul>
+  <li> Delegates </li>
+  <li> Multicast Delegates </li>
+  <li> Events </li>
+  <li> When to Use Delegates, Events, and Interfaces </li>
+</ul>
+<p><strong> Unit 9: Memory and Resource Management </strong></p>
+<ul>
+  <li> Memory Management Basics </li>
+  <li> Non-Memory Resource Management </li>
+  <li> Implicit Resource Management </li>
+  <li> Explicit Resource Management </li>
+  <li> Optimizing Garbage Collection </li>
+</ul>
+<p><strong> Unit 10: Data Streams and Files </strong></p>
+<ul>
+  <li> Streams </li>
+  <li> Readers and Writers </li>
+  <li> Basic File IO </li>
+</ul>
+<p><strong> Unit 11: Internet Access </strong></p>
+<ul>
+  <li> Internet Application Scenarios </li>
+  <li> The WebRequest and WebResponse Model </li>
+  <li> Application Protocols </li>
+  <li> Handling Errors </li>
+  <li> Security </li>
+  <li> Best Practices </li>
+</ul>
+<p><strong> Unit 12: Serialization </strong></p>
+<ul>
+  <li> Serialization Scenarios </li>
+  <li> Serialization Attributes </li>
+  <li> Object Graph </li>
+  <li> Serialization Process </li>
+  <li> Serialization Example </li>
+  <li> Deserialization Example </li>
+  <li> Custom Serialization </li>
+  <li> Custom Serialization Example </li>
+  <li> Security Issues </li>
+</ul>
+<p><strong> Unit 13: Remoting and XML Web Services </strong></p>
+<ul>
+  <li> Remoting </li>
+  <li> Remoting Configuration Files </li>
+  <li> XML Web Services </li>
+</ul>

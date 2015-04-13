@@ -1,0 +1,16 @@
+This four day course will provide students with the key knowledge required to deploy and configure System Center 2012 SP1 Service Manager.  Using hands-on labs, students will learn the following:<br /><br />
+<ul>
+  <li>Where Service Manager sits within the System Center 2012 SP1 product.</li>
+  <li>What business and technical needs Service Manager is designed to meet</li>
+  <li>How Service Manager aligns itself to ITIL and MOF.</li>
+  <li>How to architect and implement a System Center 2012 SP1 Service Manager deployment.</li>
+  <li>How to upgrade an existing Service Manager 2010 environment to System Center 2012 SP1.</li>
+  <li>How to customize System Center 2012 SP1 Service Manager to be in line with corporate standards.</li>
+  <li>How to configure Incident and Problem Management.</li>
+  <li>How to configure Activity, Change and Release Management.</li>
+  <li>How to configure Service Requests.</li>
+  <li>How to configure Service Level Management.</li>
+  <li>How to customize the Self-Service Portal.</li>
+  <li>How to configure Reporting and Analysis. </li>
+  <li>How to configure compliance with the Process Pack for IT GRC </li>
+</ul>

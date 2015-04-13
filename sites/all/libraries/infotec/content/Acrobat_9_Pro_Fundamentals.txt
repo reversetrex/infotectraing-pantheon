@@ -1,0 +1,81 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>File Distribution</li>
+    <li>Adobe Acrobat Family</li>
+    <li>Reader vs. Acrobat</li>
+  </ul>
+  <h3>Section B: Understanding the Interface</h3>
+  <ul>
+    <li>Menu and Tool Bars</li>
+    <li>Navigation Pane</li>
+    <li>Customizing the Interface</li>
+    <li>Show/Hide Toolbars</li>
+    <li>Navigation Pane Panels</li>
+    <li>Adobe Organizer</li>
+    <li>Document Navigation Tricks</li>
+    <li>Using Bookmarks</li>
+  </ul>
+  <h3>Section C: Acrobat Distiller</h3>
+  <ul>
+    <li>Using Acrobat Distiller</li>
+    <li>PDF Compatibility</li>
+    <li>Image Settings</li>
+    <li>Text Settings</li>
+  </ul>
+  <h3>Section D: Creating PDFs</h3>
+  <ul>
+    <li>Create PDF with Distiller</li>
+    <li>High Quality PDF Distiller Settings</li>
+    <li>Create PDF with PDF Printer</li>
+    <li>Create PDF from Scanner</li>
+    <li>OCR Text Recognition</li>
+    <li>Straighten Scanned Document</li>
+    <li>Find OCR Suspects</li>
+    <li>Create PDF from Web Page</li>
+    <li>Create PDF from Multiple Files</li>
+    <li>Merge File Supported Files</li>
+  </ul>
+  <h3>Section E: Adobe PDF Maker</h3>
+  <ul>
+    <li>Using PDF Maker</li>
+    <li>PDF Maker Preferences</li>
+    <li>Word Heading Styles</li>
+    <li>Convert Headings to Bookmarks</li>
+  </ul>
+  <h3>Section F: Links and Bookmarks</h3>
+  <ul>
+    <li>Creating a Hyperlink</li>
+    <li>Editing Hyperlinks</li>
+    <li>Adding Bookmarks</li>
+    <li>Initial View Properties</li>
+    <li>Preview Initial View Settings</li>
+  </ul>
+  <h3>Section G: Acrobat Features</h3>
+  <ul>
+    <li>Adding Headers and Footers</li>
+    <li>Saving Headers and Footers Settings</li>
+    <li>Adding Backgrounds</li>
+    <li>Adding Watermarks</li>
+  </ul>
+  <h3>Section H: Manipulating PDF Documents</h3>
+  <ul>
+    <li>Deleting Pages</li>
+    <li>Extracting Pages</li>
+    <li>Inserting Pages</li>
+    <li>Replacing Pages</li>
+    <li>Combining Documents</li>
+    <li>Splitting Documents</li>
+  </ul>
+  <h3>Section I: Editing and Reviewing PDFs</h3>
+  <ul>
+    <li>Adding Comments</li>
+    <li>Text Editing</li>
+    <li>Highlighting Text</li>
+    <li>Using Markup Tools</li>
+    <li>Collaborating via Comments</li>
+    <li>Enable Acrobat Reader Commenting</li>
+    <li>TouchUp Text Tool</li>
+    <li>Modify Text Properties</li>
+    <li>TouchUp Object Tool</li>
+  </ul>

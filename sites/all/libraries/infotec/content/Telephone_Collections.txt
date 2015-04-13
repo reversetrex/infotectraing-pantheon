@@ -1,0 +1,63 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Welcome</li>
+    <li>Objectives</li>
+    <li>Importance</li>
+  </ul>
+  <h3>Section B: Collections</h3>
+  <ul>
+    <li>Understanding</li>
+    <li>Receivable</li>
+    <li>Cash Cycle</li>
+    <li>Potential</li>
+    <li>Write-Offs</li>
+    <li>DSO</li>
+    <li>Phases</li>
+  </ul>
+  <h3>Section C: Communication Techniques</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Telephone Image</li>
+    <li>Telephone Basics</li>
+    <li>Telephone Courtesy</li>
+  </ul>
+  <h3>Section D: Working with Customers</h3>
+  <ul>
+    <li>Handling Complaints</li>
+    <li>Irate Customers</li>
+    <li>Placing on Hold</li>
+    <li>Speaking Techniques</li>
+    <li>Speech Control</li>
+    <li>Listening Techniques</li>
+    <li>Listening Controls</li>
+    <li>Listening Exercises</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Behavior Styles</h3>
+  <ul>
+    <li>N2 Model</li>
+    <li>Personal Style</li>
+    <li>Defeat Style</li>
+    <li>Collaborative Style</li>
+    <li>Accommodative Style</li>
+    <li>Withdraw Style</li>
+    <li>Compromise Style</li>
+    <li>Enhancing Behavior Style</li>
+  </ul>
+  <h3>Section B: Effective Collections</h3>
+  <ul>
+    <li>Advantages</li>
+    <li>Prepare</li>
+    <li>Customer Information</li>
+    <li>Open Strongly</li>
+    <li>Telephone Messages</li>
+    <li>Work Through Objections</li>
+    <li>End with Commitment</li>
+    <li>React Quickly</li>
+  </ul>
+  <h3>Section C: Danger Signals</h3>
+  <ul>
+    <li>Warning Signs</li>
+    <li>Importance of YOU</li>
+  </ul>

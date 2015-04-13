@@ -1,0 +1,94 @@
+<p><strong>Module 1: Planning Server Upgrade and Migration</strong></p>
+<p>This module explains how to plan a server upgrade and migration strategy.</p>
+<ul>
+  <li>Considerations for Upgrades and Migrations</li>
+  <li>Creating a Server Upgrade and Migration Plan</li>
+  <li>Planning for Virtualization</li>
+</ul>
+<p><strong>Module 2: Planning and Implementing a Server Deployment Strategy</strong></p>
+<p>This module explains how to design an automated server installation strategy and plan and implement a server deployment infrastructure.</p>
+<ul>
+  <li>Selecting an Appropriate Server Deployment Strategy</li>
+  <li>Implementing an Automated Deployment Strategy</li>
+</ul>
+<p><strong>Module 3: Planning and Deploying Servers Using Virtual Machine Manager</strong></p>
+<p>This module explains how to plan and deploy a Virtual Machine Manager (VMM) infrastructure for deploying servers.</p>
+<ul>
+  <li>System Center 2012 R2 Virtual Machine Manager Overview</li>
+  <li>Implementing a Virtual Machine Manager Library and Profiles</li>
+  <li>Planning and Deploying Virtual Machine Manager Services</li>
+</ul>
+<p><strong>Module 4: Designing and Maintaining an IP Configuration and Address Management Solution</strong></p>
+<p>This module explains how to design and maintain IP address management (IPAM) and a Dynamic Host Configuration Protocol (DHCP) solution.</p>
+<ul>
+  <li>Designing DHCP Servers</li>
+  <li>Planning DHCP Scopes</li>
+  <li>Designing an IPAM Provisioning Strategy</li>
+  <li>Managing Servers and Address Spaces by Using IPAM</li>
+</ul>
+<p><strong>Module 5: Designing and Implementing Name Resolution</strong></p>
+<p>This module explains how to design a name resolution strategy.</p>
+<ul>
+  <li>Designing a DNS Server Implementation Strategy</li>
+  <li>Designing the DNS Namespace</li>
+  <li>Designing DNS Zones</li>
+  <li>Designing DNS Zone Replication and Delegation</li>
+  <li>Optimizing DNS Servers</li>
+  <li>Designing DNS for High Availability and Security</li>
+</ul>
+<p><strong>Module 6: Designing and Implementing an Active Directory Domain Services Forest and Domain Infrastructure</strong></p>
+<p>This module explains how to design and implement an AD DS forest and domain infrastructure.</p>
+<ul>
+  <li>Designing an Active Directory Forest</li>
+  <li>Designing and Implementing Active Directory Forest Trusts</li>
+  <li>Designing Active Directory Integration with Windows Azure Active Directory</li>
+  <li>Designing and Implementing Active Directory Domains</li>
+  <li>Designing DNS Namespaces in Active Directory Environments</li>
+  <li>Designing Active Directory Domain Trusts</li>
+</ul>
+<p><strong>Module 7: Designing and Implementing an AD DS Organizational Unit Infrastructure</strong></p>
+<p>This module explains how to design and implement an OU infrastructure and an AD DS permissions model.</p>
+<ul>
+  <li>Planning the Active Directory Administrative Tasks Delegation Model</li>
+  <li>Designing an OU Structure</li>
+  <li>Designing and Implementing an AD DS Group Strategy</li>
+</ul>
+<p><strong>Module 8: Designing and Implementing a Group Policy Object Strategy</strong></p>
+<p>This module explains how to design and implement a Group Policy Object (GPO) strategy.</p>
+<ul>
+  <li>Collecting the Information Required for a GPO Design</li>
+  <li>Designing and Implementing GPOs</li>
+  <li>Designing GPO Processing</li>
+  <li>Planning Group Policy Management</li>
+</ul>
+<p><strong>Module 9: Designing and Implementing an AD DS Physical Topology</strong></p>
+<p>This module explains how to design an AD DS sites topology and a domain controller placement strategy.</p>
+<ul>
+  <li>Designing and Implementing Active Directory Sites</li>
+  <li>Designing Active Directory Replication</li>
+  <li>Designing the Placement of Domain Controllers</li>
+  <li>Virtualization Considerations for Domain Controllers</li>
+  <li>Designing Highly Available Domain Controllers</li>
+</ul>
+<p><strong>Module 10: Planning and Implementing Storage and File Services</strong></p>
+<p>This module explains how to plan and implement storage and file services.</p>
+<ul>
+  <li>Planning and Implementing iSCSI SANs</li>
+  <li>Planning and Implementing Storage Spaces</li>
+  <li>Optimizing File Services for Branch Offices</li>
+</ul>
+<p><strong>Module 11: Designing and Implementing Network Protection</strong></p>
+<p>This module explains how to design and implement network protection.</p>
+<ul>
+  <li>Overview of Network Security Design</li>
+  <li>Designing and Implementing a Windows Firewall Strategy</li>
+  <li>Designing and Implementing a NAP Infrastructure</li>
+</ul>
+<p><strong>Module 12: Designing and Implementing Remote Access Services</strong></p>
+<p>This module explains how to design and implement remote access services.</p>
+<ul>
+  <li>Planning and Implementing DirectAccess</li>
+  <li>Planning and Implementing VPN</li>
+  <li>Planning and Implementing Web Application Proxy</li>
+  <li>Planning a Complex Remote Access Infrastructure</li>
+</ul>

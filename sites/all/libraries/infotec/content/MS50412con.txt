@@ -1,0 +1,68 @@
+<p><strong>Module 1: Introducing Claims-based Identity - This module explains how to recognize AD FS terminology and common use cases for AD FS 2.0.</strong></p>
+<ul>
+  <li>Introducing the Identity Metasystem</li>
+  <li>Existing Solutions for Managing Identities</li>
+  <li>The Benefits of Claims-based Identity</li>
+  <li>The Evolution of AD FS</li>
+  <li>Use Cases for AD FS</li>
+  <li>AD FS and Claims-based Terminology</li>
+</ul>
+<p><strong>Module 2: AD FS Prerequisites - This module explains how to configure Windows prerequisites for AD FS 2.0, including Windows Server and Internet Information Services (IIS). This module also explains how AD FS 2.0 utilizes Web services to achieve interoperability.</strong></p>
+<ul>
+  <li>Windows Prerequisites</li>
+  <li>Introducing Directory Services</li>
+  <li>Active Directory and Active Directory Lightweight Directory Services</li>
+  <li>Web Services, Standards, and Interoperability</li>
+  <li>Internet Information Services</li>
+</ul>
+<p><strong>Module 3: Public Key Infrastructure (PKI) - This module explains how to install and configure the Public Key Infrastructure (PKI) requirements necessary to deploy AD FS 2.0.</strong></p>
+<ul>
+  <li>Introducing the Public Key Infrastructure</li>
+  <li>PKI Basics</li>
+  <li>Introduction to Cryptography</li>
+  <li>PKI Design</li>
+  <li>Installing and Configuring Certificate Services</li>
+</ul>
+<p><strong>Module 4: AD FS 2.0 Components - This module explains how to install and configure the Windows Identity Foundation (WIF), and how to install the AD FS 2.0 service in the federation server role.</strong></p>
+<ul>
+  <li>The Federation Server Role</li>
+  <li>Claims Types, Endpoints, and Attribute Stores</li>
+  <li>AD FS Security</li>
+  <li>The Federation Server Proxy Role</li>
+  <li>Administering AD FS</li>
+  <li>Windows Identity Foundation</li>
+</ul>
+<p><strong>Module 5: Claims-based Authentication in a Single Organization - This module explains how to design and   deploy AD FS 2.0 to provide claims-based authentication within a single organization.</strong></p>
+<ul>
+  <li>Preparing for AD FS in a Single Organization</li>
+  <li>AD FS Within a Single   Organization</li>
+  <li>Understanding Claims and Claim Types</li>
+  <li>Claim Rules and Claim Rule Templates</li>
+  <li>Creating Claim Rules from Templates</li>
+  <li>Configuring AD FS in a Single Organization</li>
+</ul>
+<p><strong>Module 6: Claims-based Authentication in a Business-to-Business Federation - This module explains how to design and deploy AD FS 2.0 to provide claims-based authentication in a business-to-business federation scenario.</strong></p>
+<ul>
+  <li>Deploying AD FS in a Federated Environment</li>
+  <li>Configuring a Claims Provider Trust</li>
+  <li>Understanding Home Realm Discovery</li>
+  <li>Managing Claims Across Organizations</li>
+</ul>
+<p><strong>Module 7: Advanced AD FS Deployment Scenarios - This module explains how to deploy an   AD FS server as a federation server proxy. It also explains how to design an AD FS deployment to create a high-availability configuration, and how to configure AD FS 2.0 to achieve interoperability with SAML 2.0-compatible products and   applications.</strong></p>
+<ul>
+  <li>Implementing the Federation Server Proxy</li>
+  <li>Planning for High Availability</li>
+  <li>Additional AD FS Configuration Scenarios</li>
+  <li>AD FS 2.0 and SAML Interoperability</li>
+</ul>
+<p><strong>Module 8: The AD FS Claims Rule Language - This module explains how to configure custom AD FS claim rules using the AD FS 2.0 claim rule language.</strong></p>
+<ul>
+  <li>Reviewing the Claims Pipeline and Claims Engine</li>
+  <li>Introducing the Claims Rule Language</li>
+</ul>
+<p><strong>Module 9: AD FS Troubleshooting - This module explains how to audit, troubleshoot, and trace AD FS 2.0 components and claims-aware applications, at both the server and client level.</strong></p>
+<ul>
+  <li>Configuring Auditing for AD FS</li>
+  <li>AD FS Troubleshooting</li>
+  <li>Tracing AD FS Traffic</li>
+</ul>

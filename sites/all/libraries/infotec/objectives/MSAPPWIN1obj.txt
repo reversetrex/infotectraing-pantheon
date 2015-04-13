@@ -1,0 +1,7 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Use fundamental personal computing terminology. </li>
+  <li> Use fundamental Windows XP skills. </li>
+  <li> Use Windows Explorer to manage files and folders. </li>
+  <li> Use common Windows XP program techniques by working with several programs at the same time. </li>
+</ul>

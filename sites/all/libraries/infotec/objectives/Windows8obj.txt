@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, you will be able to perform basic work-related tasks on a PC running the Windows 8.1 operating system. You will:</p>
+<ul>
+  <li>Get to know PCs and the Windows 8.1 user interface.</li>
+  <li>Use Windows Store apps and navigation features.</li>
+  <li>Work with Desktop applications.</li>
+  <li>Use Internet Explorer 11.</li>
+  <li>Customize the Windows 8.1 environment.</li>
+  <li>Use Windows 8.1 security features.</li>
+</ul>

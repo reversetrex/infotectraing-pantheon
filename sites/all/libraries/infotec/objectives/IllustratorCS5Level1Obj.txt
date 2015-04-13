@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Get acquainted with the Adobe Illustrator CS5 application.</li>
+  <li>Create shapes in a document.</li>
+  <li>Create custom paths.</li>
+  <li>Work with text in an Illustrator document.</li>
+  <li>Work with objects.</li>
+  <li>Enhance documents.</li>
+  <li>Proof documents to make them more accurate.</li>
+  <li>Save images for web and print.</li>
+</ul>

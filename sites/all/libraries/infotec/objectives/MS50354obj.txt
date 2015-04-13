@@ -1,0 +1,2 @@
+<p><strong>After completing this course, students will be able to:</strong></p>
+<blockquote>Create  one of everything possible from SharePoint Designer, learn about each new  condition and action of SharePoint Designer workflows.</blockquote>

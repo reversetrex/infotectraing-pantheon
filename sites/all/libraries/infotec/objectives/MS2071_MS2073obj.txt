@@ -1,0 +1,31 @@
+<p><strong><u>MS2071</u>:</strong></p>
+
+<p> At the end of this part of the course, students will be able to:</p>
+<ul>
+  <li> Describe the uses of and ways to execute the Transact-SQL language. </li>
+  <li> Use querying tools. </li>
+  <li> Write SELECT queries to retrieve data. </li>
+  <li> Group and summarize data by using Transact-SQL. </li>
+  <li> Join data from multiple tables. </li>
+  <li> Write queries that retrieve and modify data by using subqueries. </li>
+  <li> Modify data in tables. </li>
+</ul>
+
+<p><strong><u>MS2073</u>:</strong></p>
+
+<p>At the end of this part of the course, students will be able to:</p>
+<ul>
+  <li>Describe the elements of SQL Server 2000.</li>
+  <li>Design a SQL Server enterprise application architecture.</li>
+  <li>Describe the conceptual basis of programming in Transact-SQL.</li>
+  <li>Create and manage databases and their related components.</li>
+  <li>Implement data integrity by using the IDENTITY column property, constraints, defaults, rules, and unique identifiers.</li>
+  <li>Plan for the use of indexes.</li>
+  <li>Create and maintain indexes.</li>
+  <li>Create, use, and maintain data views.</li>
+  <li>Implement user-defined functions.</li>
+  <li>Design, create, and use stored procedures.</li>
+  <li>Create and implement triggers.</li>
+  <li>Program across multiple servers by using distributed queries, distributed transactions, and partitioned views.</li>
+  <li>Optimize query performance.</li>
+</ul>

@@ -1,0 +1,58 @@
+<p><strong>Lesson 1: Understanding Windows SharePoint Services 3.0</strong></p>
+
+<ul>
+  <li>Introduction to Windows SharePoint Services</li>
+  <li>Understand Office Integration with Windows SharePoint Services</li>
+  <li>Navigate a Windows SharePoint Services Team Site</li>
+</ul>
+
+<p><strong>Lesson 2: Working with Lists</strong></p>
+
+<ul>
+  <li>Add Items to Default Lists</li>
+  <li>Modify and Delete List Items</li>
+  <li>Change a List View</li>
+  <li>Create a Personal View</li>
+  <li>Sort and Filter Lists using Columns</li>
+</ul>
+
+<p><strong>Lesson 3: Working with Libraries</strong></p>
+
+<ul>
+  <li>Add Documents to a Document Library</li>
+  <li>Add Pictures to a Picture Library</li>
+  <li>Create Wiki Pages in a Wiki Page Library</li>
+  <li>Delete files in a Library and use the Recycle Bin</li>
+</ul>
+
+<p><strong>Lesson 4: Understand Version Control and Check Out/Check In</strong></p>
+
+<ul>
+  <li>Edit a file in a Library using Default Settings</li>
+  <li>Check out a file in a customized Document Library</li>
+  <li>Discuss and observe Version Control</li>
+</ul>
+
+<p><strong>Lesson 5: Working with SharePoint Content Offline</strong></p>
+
+<ul>
+  <li>Connect Lists and Libraries to Outlook</li>
+</ul>
+
+<p><strong>Lesson 6: Customizing Your WSS Environment</strong></p>
+
+<ul>
+  <li>Customize Personal and Regional Settings</li>
+  <li>Work with Alerts</li>
+  <li>Subscribe to an RSS Feed</li>
+  <li>Create a Personal Page View</li>
+  <li>Search the Team Site</li>
+</ul>
+
+<p><strong>Lesson 7: Experience Additional Site Types</strong></p>
+
+<ul>
+  <li>Contribute to a Blog site</li>
+  <li>Work with a Meeting Workspace</li>
+  <li>Work with a Document Workspace</li>
+</ul>

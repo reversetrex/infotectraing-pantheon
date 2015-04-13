@@ -1,0 +1,10 @@
+<p>This  one-day instructor-led training course is intended to teach students the basic  skills required to create integrated applications that utilize data and  features from both Microsoft Dynamics CRM 4.0 and Microsoft Office SharePoint Server 2007. Students attending this course will:</p>
+
+<ul>
+  <li>Learn to compare and contrast the two products, clarifying which business problems each is best suited to solve.</li>
+  <li>Learn about common integration scenarios, and to design, plan and build solutions that integrate the two products.</li>
+  <li>Be able to build customized Microsoft Dynamics CRM 4.0 applications that expose data and content stored within SharePoint sites, lists and libraries.</li>
+  <li>Learn how to build SharePoint applications that provide reporting solutions based on Microsoft Dynamics CRM 4.0 data, utilizing core Windows SharePoint Services 3.0 functionality.</li>
+  <li>Learn to build data-aware applications utilizing features of Microsoft Office SharePoint Server 2007, integrating data from Microsoft Dynamics CRM 4.0.</li>
+  <li>Gain an introduction to fundamental .NET programming techniques required to extend integrated Microsoft Dynamics CRM 4.0 and SharePoint applications.</li>
+</ul>

@@ -1,0 +1,10 @@
+<p>On course completion, students will be able to:</p>
+<ul>
+  <li>Identify network attack strategies and defenses.</li>
+  <li>Understand the principles of organizational security and the elements  of effective security policies.</li>
+  <li>Know the technologies and uses of encryption standards and products.</li>
+  <li>Identify network- and host-based security technologies and practices.</li>
+  <li>Describe how remote access security is enforced.</li>
+  <li>Describe the standards and products used to enforce security on web and communications technologies.</li>
+  <li>Identify  strategies for ensuring business continuity, fault tolerance, and disaster recovery.</li>
+</ul>

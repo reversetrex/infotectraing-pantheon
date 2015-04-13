@@ -1,0 +1,5 @@
+The Server Administrator designation is required of candidates seeking the 
+CIW Website Manager or Master CIW Administrator certifications. In the 
+Server Administrator course from LearnKey, expert instructor Aaron 
+Spurlock shows you user management concepts, how to configure DNS 
+services, and how to provide TCP/IP services.

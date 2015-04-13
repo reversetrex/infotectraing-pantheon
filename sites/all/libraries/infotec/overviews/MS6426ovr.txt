@@ -1,0 +1,3 @@
+<p>This three-day instructor-led course provides the knowledge and skills that IT Professionals need to configure identity and access solutions with Windows Server 2008 Active Directory.</p>
+
+<p>The audience for this course is IT Professionals interested in learning how to implement IDA solutions in an enterprise environment. Most students will be IT professionals who are responsible for integrating applications and platforms with enterprise directory and security services while increasing access to a growing number of customers and partners.</p>

@@ -1,0 +1,10 @@
+<p> After completing this course the student should be able to: </p>
+<ul>
+  <li> Explain the Cisco hierarchical network model as it pertains to the WAN Describe and implement teleworker configuration and access </li>
+  <li> Implement and verify frame mode MPLS </li>
+  <li> Describe and configure a site-to-site IPSEC VPN </li>
+  <li> Describe and configure Cisco EZVPN </li>
+  <li> Explain the strategies used to mitigate network attacks </li>
+  <li> Describe and configure Cisco device hardening </li>
+  <li> Describe and configure IOS firewall features </li>
+</ul>

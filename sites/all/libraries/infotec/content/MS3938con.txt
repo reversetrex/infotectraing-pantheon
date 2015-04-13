@@ -1,0 +1,18 @@
+<p><strong> Unit 1: Introducing Exchange Server 2007 <br>
+</strong>This Unit provides an overview of the new features in Exchange Server 2007, focusing on the changes from previous versions of Exchange Server. This Unit also introduces terminology and concepts that will be described in more detail in the rest of the course. </p>
+<p><strong> Unit 2: Deploying Exchange Server 2007 <br>
+</strong>The Unit describes the Exchange Server 2007 Server Roles and then describes how to plan and implement an Exchange Server 2007 deployment. This Unit also provides an overview of how to upgrade an Exchange 2000 Server or Exchange Server 2003 deployment to Exchange Server 2007. </p>
+<p><strong> Unit 3: Administering Exchange Server 2007 <br>
+</strong>In many ways, administering Exchange Server 2007 is no different than administering previous versions of Exchange. However, Exchange Server 2007 does provide new management tools and new tasks that you will need to perform. This Unit provides the details on how to administer Exchange Server 2007. </p>
+<p><strong> Unit 4: Implementing Client Access Services in Exchange Server 2007 <br>
+</strong>Exchange Server 2007 provides access to user mailboxes for many different clients. In some cases, the client configuration has not changed significantly from previous versions of Exchange. However, Exchange Server 2007 does provide some significant new features and new administrative tasks related to managing client access. This Unit describes how to provide access to Exchange Server 2007 mailboxes. </p>
+<p><strong> Unit 5: Managing Message Routing in an Exchange Server 2007 Organization <br>
+</strong>Message flow through an Exchange Server 2007 organization is significantly different than it was in previous versions of Exchange. While Exchange Server 2007 maintains one routing group in Active Directory, multiple routing groups and routing group connectors are no longer required in Exchange Server 2007. This Unit describes what has changed in how messages are routed through the organization, and describes how to manage message routing. </p>
+<p><strong> Unit 6: Securing Messages with Exchange Server 2007 <br>
+</strong>One of the critical factors in deploying any messaging system is securing Internet e-mail. Securing Internet e-mail includes ensuring that the messaging system remains secure from spam and viruses, and also includes securing messages that are sent across the Internet. This Unit provides details on how to configure the Exchange Server 2007 features that increase the security of Internet E-Mail. </p>
+<p><strong> Unit 7: Implementing Messaging Policies in Exchange Server 2007 <br>
+</strong>Many organizations need to set restrictions on sending or receiving e-mail or for e-mail retention to comply with external or internal security policies. Exchange Server 2007 provides messaging policies as a powerful means to manage message flow and e-mail retention. This Unit provides details on how to implement message policies. </p>
+<p><strong> Unit 8: High Availability and Disaster Recovery in Exchange Server 2007 <br>
+</strong>Exchange Server 2007 provides several new features that enable high availability and disaster recovery. This Unit describes how to implement these features. </p>
+<p><strong> Unit 9: Implementing Unified Messaging in Exchange Server 2007 <br>
+</strong>Unified Messaging is the integration of a recipient's voice, fax, and e-mail messages into one Inbox. Exchange Server 2007 Unified Messaging integrates Exchange Server with an existing telephony network infrastructure. This Unit provides details on how to implement Unified Messaging in Exchange Server 2007. </p>

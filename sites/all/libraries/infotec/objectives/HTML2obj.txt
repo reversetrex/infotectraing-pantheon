@@ -1,0 +1,9 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon completion of this course, students should be able to: </p>
+<ul>
+  <li> Apply logical elements to documents and use CSS to attach style rules. </li>
+  <li> Create accessible links with additional functionality. </li>
+  <li> Create advanced forms with enhancements for usability, accessibility and style. </li>
+  <li> Create advanced table structures with enhancements for usability, accessibility, and style. </li>
+  <li> Create inline frames and modify their appearance and functionality. </li>
+  <li> Use the DOCTYPE switch to get the most our of current standards support without affecting older pages. </li>
+</ul>

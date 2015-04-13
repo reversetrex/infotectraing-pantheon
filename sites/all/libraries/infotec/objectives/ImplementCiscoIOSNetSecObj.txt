@@ -1,0 +1,10 @@
+<p>Upon completing this course, the learner will be able to meet these overall objectives:</p>
+
+<ul>
+  <li>Develop a comprehensive network security policy to counter threats against information security.</li>
+  <li>Configure routers on the network perimeter with Cisco IOS Software security features.</li>
+  <li>Configure a Cisco IOS zone-based firewall to perform basic security operations on a network.</li>
+  <li>Configure site-to-site VPNs using Cisco IOS features. </li>
+  <li>Configure IPS on Cisco network routers.</li>
+  <li>Configure LAN devices to control access, resist attacks, shield other  network devices and systems, and protect the integrity and confidentiality of  network traffic.</li>
+</ul>

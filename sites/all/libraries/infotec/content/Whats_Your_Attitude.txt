@@ -1,0 +1,17 @@
+<h2>Session 1</h2>
+  <h3>Section A: What Is Your Attitude</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Being Punctual</li>
+    <li>Having a Good Attitude</li>
+    <li>Constructive Criticism</li>
+    <li>Willingness to Learn</li>
+    <li>Demand Superior Quality</li>
+    <li>Mentors</li>
+    <li>Goal Oriented</li>
+    <li>Workspace Organization</li>
+    <li>Planning Activities</li>
+    <li>Follow Through and Focus</li>
+    <li>Productivity</li>
+    <li>Good Work Ethics</li>
+  </ul>

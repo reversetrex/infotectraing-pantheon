@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Become familiar with the Visio interface and create a basic Visio document.</li>
+  <li>Create a route map by using Visio features to work with shapes and text.</li>
+  <li>Modify, format, and arrange shapes to enhance a basic diagram.</li>
+  <li>Create process diagrams.</li>
+  <li>Represent an organization hierarchy as a Visio diagram.</li>
+</ul>

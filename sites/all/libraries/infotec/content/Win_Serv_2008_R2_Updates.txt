@@ -1,0 +1,117 @@
+<h2>Session 1</h2>
+  <h3>Section A: PowerShell Active Directory Module</h3>
+  <ul>
+    <li>Managing with PowerShell</li>
+    <li>Importing the Module</li>
+    <li>Get-Help</li>
+    <li>Get-Command</li>
+    <li>Create AD groups</li>
+    <li>Search-ADAccount</li>
+  </ul>
+  <h3>Section B: Active Directory Recycle Bin</h3>
+  <ul>
+    <li>Deleted Objects</li>
+    <li>Enabling Recycling Bin</li>
+    <li>Restoring Deleted Objects</li>
+  </ul>
+  <h3>Section C: Offline Domain Joins</h3>
+  <ul>
+    <li>Requirements</li>
+    <li>Process</li>
+  </ul>
+  <h3>Section D: Auditing and GPO Changes</h3>
+  <ul>
+    <li>Auditing Changes</li>
+    <li>Advanced Auditing</li>
+    <li>Reasons for Access Auditing</li>
+    <li>Global Access Auditing</li>
+    <li>Group Policy Settings</li>
+    <li>Editing Policies</li>
+    <li>AppLocker</li>
+    <li>AppLocker GPOs</li>
+    <li>Application Identity Service</li>
+  </ul>
+  <h3>Section E: Managed Service Accounts</h3>
+  <ul>
+    <li>Service Accounts</li>
+    <li>Using MSAs</li>
+  </ul>
+  <h3>Section F: File and Print Services</h3>
+  <ul>
+    <li>File Server Resource Manager</li>
+    <li>Management Rule Process</li>
+    <li>Distributed File System</li>
+    <li>Creating an FM Task</li>
+    <li>Classification Management</li>
+    <li>Print Services</li>
+  </ul>
+  <h3>Section G: BranchCache</h3>
+  <ul>
+    <li>BranchCache Overview</li>
+    <li>BranchCache on the Server</li>
+    <li>Hashing</li>
+    <li>BranchCache for Clients</li>
+    <li>Host Distributed Mode</li>
+    <li>Hash Publication Policies</li>
+    <li>Sharing Folders</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: CSV and Remote Desktop Server</h3>
+  <ul>
+    <li>Cluster Shared Volumes</li>
+    <li>Server 2008 Clustering</li>
+    <li>2008 R2 Clustering</li>
+    <li>CSV Features</li>
+    <li>Live Migration</li>
+    <li>Dynamic Virtual Storage</li>
+    <li>Remote Desktop Server</li>
+    <li>Remote Desktop Improvements</li>
+    <li>Fair Share CPU Scheduling</li>
+    <li>IP Virtualization</li>
+  </ul>
+  <h3>Section B: DirectAccess</h3>
+  <ul>
+    <li>DirectAccess Introduction</li>
+    <li>IP Technologies</li>
+    <li>DirectAccess Requirements</li>
+    <li>IPSec</li>
+    <li>Infrastructure Tunnel</li>
+    <li>Intranet Protection</li>
+    <li>Client Requirements</li>
+    <li>Server Requirements</li>
+    <li>NLS Server</li>
+    <li>Name Resolution Policy Table</li>
+    <li>Setup Wizard</li>
+    <li>Configuring DirectAccess Server</li>
+    <li>Configuring Infrastructure Servers</li>
+    <li>Configuring Application Servers</li>
+    <li>Verifying Policy Objects</li>
+  </ul>
+  <h3>Section C: Certificate Services</h3>
+  <ul>
+    <li>Cross-Forest Trust</li>
+    <li>Cross-Forest Requirements</li>
+    <li>LDAP Referrals</li>
+    <li>Root CA Certificate</li>
+    <li>NTAuth Store</li>
+    <li>Publishing Resource CA</li>
+    <li>Copy ADCS Objects</li>
+    <li>Web Enrollment</li>
+    <li>Without CEP/CES Servers</li>
+    <li>With CEP/CES Servers</li>
+    <li>Client Interaction</li>
+    <li>High Volume CAs</li>
+    <li>Authentication Assurance</li>
+  </ul>
+  <h3>Section D: NPS and DNS Updates</h3>
+  <ul>
+    <li>VPN Reconnect</li>
+    <li>Multi-System Health Validator</li>
+    <li>NPS Policy Templates</li>
+    <li>NPS Improvements</li>
+    <li>Socket Pooling</li>
+    <li>Cache Locking</li>
+    <li>DNS Security Extensions</li>
+    <li>Devolution Level</li>
+    <li>AD Administrative Center</li>
+  </ul>

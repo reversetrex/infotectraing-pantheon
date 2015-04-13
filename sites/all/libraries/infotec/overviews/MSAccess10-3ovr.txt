@@ -1,0 +1,1 @@
+You will create complex Access databases by structuring existing data, writing advanced queries, working with macros, and performing database maintenance.

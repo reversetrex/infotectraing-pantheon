@@ -1,0 +1,6 @@
+The Database Design Fundamentals course teaches students how to plan and 
+design relational databases. You will learn about the theory behind 
+relational databases, relational database nomenclature, and relational 
+algebra. The course includes sections on Structured Query Language (SQL) 
+and optimizing databases through normalization. This course covers all of 
+the objectives necessary to pass the CIW Database Design Methodology exam.

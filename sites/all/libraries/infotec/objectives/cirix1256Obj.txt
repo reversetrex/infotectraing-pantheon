@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, learners are able to perform the following:</p>
+<ul>
+  <li>Identify the features and functions of the Citrix Presentation Server console<strong></strong></li>
+  <li>Configure a Citrix Presentation Server farm and individual server settings<strong></strong></li>
+  <li>Create custom administrators within the Citrix Presentation Server console to manage the farm, individual servers, applications or tasks<strong></strong></li>
+  <li>Manage and deploy applications in Citrix Presentation Server environments<strong></strong></li>
+  <li>Manage Citrix Presentation Server<strong></strong></li>
+  <li>Configure and manage Web Interface and Secure Gateway for Citrix Presentation Server<strong></strong></li>
+</ul>

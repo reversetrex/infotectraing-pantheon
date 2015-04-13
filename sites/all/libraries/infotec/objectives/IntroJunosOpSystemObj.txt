@@ -1,0 +1,17 @@
+<p>After successfully completing this course, you should be able to:</p>
+<ul>
+  <li>Describe the basic design architecture of the Junos OS.</li>
+  <li>Identify and provide a brief overview of Junos devices.</li>
+  <li>Navigate within the Junos CLI.</li>
+  <li>Perform tasks within the CLI operational and configuration modes.</li>
+  <li>Restore a Junos device to its factory-default state.</li>
+  <li>Perform initial configuration tasks.</li>
+  <li>Configure and monitor network interfaces.</li>
+  <li>Describe user configuration and authentication options.</li>
+  <li>Perform secondary configuration tasks for features and services such as system logging (syslog) and tracing, Network Time Protocol (NTP), configuration archival, and SNMP.</li>
+  <li>Monitor basic operation for the Junos OS and devices.</li>
+  <li>Identify and use network utilities.</li>
+  <li>Upgrade the Junos OS.</li>
+  <li>Perform file system maintenance and password recovery on a Junos device.</li>
+  <li>Navigate within the Junos J-Web interface.</li>
+</ul>

@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>use the various tools to mask and clip layers to edit an image. </li>
+  <li>create and edit vector paths to use the paths to create masks. </li>
+  <li>use the tools available in Adobe Photoshop to enhance an image. </li>
+  <li>create special effects. </li>
+  <li>use the video tools available in Adobe Photoshop to edit video files. </li>
+  <li>automate tasks in Adobe Photoshop.</li>
+</ul>

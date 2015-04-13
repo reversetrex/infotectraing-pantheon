@@ -1,0 +1,141 @@
+<p><strong>Module 1: Planning and Implementing Management of Windows 8</strong></p>
+<p>This module explains how to plan, select, and implement appropriate methods for managing Windows 8 with graphical tools, policy, and Windows PowerShell.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Performing Local and Remote Management of Windows 8</li>
+  <li>Using Windows PowerShell for Remote Management</li>
+  <li>Using Group Policy for Management</li>
+  <li>Additional Tools for Managing Windows 8</li>
+</ul>
+
+<p><strong>Module 2: Designing and Implementing an Installation Strategy</strong></p>
+<p>This module explains how to plan and manage Windows deployments, migrations, and operating system virtualization methods.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Determining a Deployment Strategy for Windows 8</li>
+  <li>Implementing a Migration Strategy for Windows 8</li>
+  <li>Planning and Implementing Additional Windows 8 Deployment Methods</li>
+  <li>Planning for Operating System Virtualization</li>
+</ul>
+
+<p><strong>Module 3: Planning and Implementing Authentication for Windows 8</strong></p>
+<p>This module explains how to plan and implement user authentication and domain-based security for Windows 8.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning User Authentication</li>
+  <li>Planning Domain-Based Security</li>
+</ul>
+
+<p><strong>Module 4: Planning and Implementing IP Addressing and Intranet Connectivity</strong></p>
+<p>This module explains how to plan and manage IPv4 and IPv6 addressing and wired and wireless networking for Windows 8 clients.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning IPv4 Addressing</li>
+  <li>Planning IPv6 Addressing</li>
+  <li>Overview of Wired Network Connectivity</li>
+  <li>Planning Wireless Network Connectivity</li>
+  <li>Securing Network Connectivity with Windows Firewall</li>
+</ul>
+
+<p><strong>Module 5: Implementing an Application Strategy for Windows 8</strong></p>
+<p>This module explains how to manage application installers, deploy applications, planning application   compatibility, and manage Windows Store Apps.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Managing Different Types of Application Installers</li>
+  <li>Designing Application Deployment</li>
+  <li>Planning an Application Compatibility Strategy</li>
+  <li>Managing Windows Store Apps</li>
+</ul>
+
+<p><strong>Module 6: Planning and Implementing a Solution for User Settings</strong></p>
+<p>This module explains how to manage user profiles and how to synchronize settings between devices using the Microsoft User Experience Virtualization (UE-V) tool.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Managing User Profiles</li>
+  <li>Overview of UE-V</li>
+  <li>Deploying and Using UE-V</li>
+</ul>
+
+<p><strong>Module 7: Planning for and Configuring Cloud Services</strong></p>
+<p>This module explains how to plan and configure cloud services including Microsoft SkyDrive, Windows   Store, and Office 365.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Cloud Services</li>
+  <li>Overview of Office 365</li>
+</ul>
+
+<p><strong>Module 8: Planning and Implementing Windows Intune</strong></p>
+<p>This module explains how to plan and deploy Windows Intune and administer Windows clients with Windows   Intune.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning for Windows Intune</li>
+  <li>Deploying Windows Intune Clients</li>
+  <li>Basic Windows Intune Administration</li>
+</ul>
+
+<p><strong>Module 9: Managing Computers by Using Windows Intune</strong></p>
+<p>This module explains how to manage Windows Intune policies and deploy software and updates with Windows Intune.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Working with Windows Intune Policies and Updates</li>
+  <li>Deploying Software with Windows Intune</li>
+</ul>
+
+<p><strong>Module 10: Planning and Implementing Access to File and Print Services</strong></p>
+<p>This module explains how to plan and manage local storage, access to file shares, file caching, and access to file and print services.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Managing Local Storage</li>
+  <li>Planning Access to File Shares</li>
+  <li>Planning File Caching</li>
+  <li>Planning, Installing, and Configuring Printing</li>
+</ul>
+
+<p><strong>Module 11: Planning and Implementing Encryption for Windows 8</strong></p>
+<p>This module explains how to plan and implement encryption with BitLocker and EFS.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning and Implementing BitLocker</li>
+  <li>Planning EFS</li>
+</ul>
+
+<p><strong>Module 12: Planning and Implementing Endpoint Security</strong></p>
+<p>This module explains how to plan and manage software updates, virus and malware protection, and application access.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Planning an Update Strategy</li>
+  <li>Implementing Virus and Malware Protection</li>
+  <li>Implementing AppLocker</li>
+</ul>
+
+<p><strong>Module 13: Planning and Implementing Extranet Connectivity</strong></p>
+<p>This module explains how to configure Virtual Private Networking for Windows 8, plan DirectAccess connectivity, and manage mobile devices.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Configuring Virtual Private Networks for Windows 8</li>
+  <li>Planning DirectAccess for Windows 8</li>
+  <li>Managing Mobile Devices</li>
+</ul>
+
+<p><strong>Module 14: Planning and Implementing a Recovery Solution</strong></p>
+<p>This module explains how to manage the Windows 8 boot process, repair stability issues, and plan user data   recovery.</p>
+
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of the Windows 8 Boot Process</li>
+  <li>Repairing Stability Issues in Windows 8</li>
+  <li>Planning User Data Recovery for Windows 8</li>
+</ul>

@@ -1,0 +1,59 @@
+<p><strong>Lesson 1: Customizing the PowerPoint  Environment</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Customize the PowerPoint Interface <br />
+    <strong>Topic 1B: </strong>Set Options for Working with PowerPoint <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Customizing a Design Template</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Set Up a Slide Master <br />
+    <strong>Topic 2B: </strong>Create Custom Slide Layouts <br />
+    <strong>Topic 2C: </strong>Add Headers and Footers <br />
+    <strong>Topic 2D: </strong>Modify the Notes Master <br />
+    <strong>Topic 2E: </strong>Modify the Handout Master <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Adding SmartArt Graphics to a  Presentation</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Insert SmartArt Graphics <br />
+    <strong>Topic 3B: </strong>Modify SmartArt Graphics<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Adding Special Effects to a  Presentation</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Add Multimedia Elements <br />
+    <strong>Topic 4B: </strong>Customize Slide Component Animations <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Customizing a Slide Show</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Set Up a Custom Slide Show <br />
+    <strong>Topic 5B: </strong>Annotate a Presentation <br />
+    <strong>Topic 5C: </strong>Create a Presenter-Independent Slide Show <br />
+    <strong>Topic 5D: </strong>Set Up a Slide Show to Repeat Automatically<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Collaborating on a Presentation</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 6A: </strong>Review a Presentation <br />
+    <strong>Topic 6B: </strong>Publish Slides to a Slide Library <br />
+    <strong>Topic 6C: </strong>Restrict Access to a Shared Presentation <br />
+    <strong>Topic 6D: </strong>Share a Presentation Using PowerPoint Web  App<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 7: Securing and Distributing a  Presentation</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 7A: </strong>Broadcast a Presentation <br />
+    <strong>Topic 7B: </strong>Convert a Presentation into a Video <br />
+    <strong>Topic 7C: </strong>Package a Presentation <br />
+    <strong>Topic 7D: </strong>Publish a Presentation to Other File  Formats<br />
+    <strong>Topic 7E: </strong>Secure a Presentation<br />
+  </p>
+</blockquote>

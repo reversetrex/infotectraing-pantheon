@@ -1,0 +1,7 @@
+<ul>
+  <li>Measure bi-directional loss in a fiber optic link with a light source and power meter using one of the TIA/EIA-526-14A methods.</li>
+  <li>Perform measured patch cord testing with a light source and power meter.</li>
+  <li>Perform loss per unit length acceptance testing in a fiber optic cable using an Optical Time Domain Reflectometer (OTDR).</li>
+  <li>Locate a fault in a fiber optic cable using an Optical Time Domain Reflectometer (OTDR).</li>
+  <li>Locate a mechanical interconnection and the end of the fiber in an Optical Time Domain Reflectometer (OTDR) trace.</li>
+</ul>

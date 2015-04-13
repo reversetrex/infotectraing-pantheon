@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, you will be able to use Adobe InDesign CS6 to create and deliver professional-looking printed and digital documents. You will:</p>
+<ul>
+  <li>Identify the elements of the InDesign interface.</li>
+  <li>Create a new document.</li>
+  <li>Customize a document by using graphics, colors, and styles.</li>
+  <li>Manage page elements.</li>
+  <li>Build a table.</li>
+  <li>Prepare a document for delivery.</li>
+</ul>

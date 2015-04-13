@@ -1,0 +1,94 @@
+<p><strong>Module 1: Introduction to Business Intelligence and Data Modeling</strong> - As a SQL Server database professional, you may be required to participate in, or perhaps even lead, a project with the aim of implementing an effective enterprise BI solution. Therefore, it is important that you have a good understanding of the various elements that comprise a BI solution, the business and IT personnel typically involved in a BI project, and the Microsoft products that you can use to implement the solution.</p>
+<p>Lessons</p>
+<ul>
+  <li>Elements of an Enterprise BI Solution</li>
+  <li>The Microsoft Enterprise BI Platform</li>
+  <li>Planning an Enterprise BI Project</li>
+</ul>
+<p><strong>Module 2: Creating Multidimensional Databases</strong> - This module provides an introduction to multidimensional databases and introduces the core components of an Online Analytical Processing (OLAP) cube.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Multidimensional Analysis</li>
+  <li>Creating Data Sources and Data Source Views</li>
+  <li>Creating a Cube</li>
+  <li>Overview of Cube Security</li>
+</ul>
+<p><strong>Module 3: Working with Cubes and Dimensions</strong> - This module describes how to create and configure dimensions and dimension hierarchies in an Analysis Services multidimensional data model.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Dimensions</li>
+  <li>Defining Attribute Hierarchies</li>
+  <li>Sorting and Grouping Hierarchies</li>
+</ul>
+<p><strong>Module 4: Working with Measures and Measure Groups</strong> - This module describes measures and measure groups. It also explains how you can use them to define fact tables and associate dimensions with measures.</p>
+<p>Lessons</p>
+<ul>
+  <li>Working with Measures</li>
+  <li>Working with Measure Groups</li>
+</ul>
+<p><strong>Module 5: Introduction to MDX</strong> - This module describes the fundamentals of MDX and explains how to build calculations, such as calculated members and named sets.</p>
+<p>Lessons</p>
+<ul>
+  <li>MDX Fundamentals</li>
+  <li>Adding Calculations to a Cube</li>
+  <li>Using MDX to Query a Cube</li>
+</ul>
+<p><strong>Module 6: Enhancing a Cube</strong> - This module describes how to enhance a cube with Key Performance Indicators (KPIs), actions, perspectives, and translations.</p>
+<p>Lessons</p>
+<ul>
+  <li>Working with Key Performance Indicators</li>
+  <li>Working with Actions</li>
+  <li>Working with Perspectives</li>
+  <li>Working with Translations</li>
+</ul>
+<p><strong>Module 7: Implementing an Analysis Services Tabular Data Model</strong> - This module describes Analysis Services tabular data models and explains how to develop a tabular data model using the SQL Server Data Tools for Business Intelligence (BI) add-in for Visual Studio.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Analysis Services Tabular Data Models</li>
+  <li>Creating a Tabular Data Model</li>
+  <li>Using an Analysis Services Tabular Data Model in the Enterprise</li>
+</ul>
+<p><strong>Module 8: Introduction to DAX</strong> - This module explains the fundamentals of the DAX language. It also explains how you can use DAX to create calculated columns and measures, and how you can use them in your tabular data models.</p>
+<p>Lessons</p>
+<ul>
+  <li>DAX Fundamentals</li>
+  <li>Enhancing a Tabular Data Model with DAX</li>
+</ul>
+<p><strong>Module 9: Implementing Reports with SQL Server Reporting Services</strong> - This module introduces Microsoft SQL Server Reporting Services and discusses the tools and techniques that a professional BI developer can use to create and publish reports.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Reporting Services</li>
+  <li>Creating a Report with Report Designer</li>
+  <li>Grouping and Aggregating Data in a Report</li>
+  <li>Publishing and Viewing a Report</li>
+</ul>
+<p><strong>Module 10: Enhancing Reports with SQL Server Reporting Services</strong> - This module describes how to enhance a SQL Server reporting Services report with charts and other visualizations, and how to use parameters to filter data in a report.</p>
+<p>Lessons</p>
+<ul>
+  <li>Showing Data Graphically</li>
+  <li>Filtering Reports by Using Parameters</li>
+</ul>
+<p><strong>Module 11: Managing Report Execution and Delivery</strong> - This module describes how to apply security and report execution settings, and how to create subscriptions to deliver reports.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Report Security</li>
+  <li>Managing Report Execution</li>
+  <li>Subscriptions and Data Alerts</li>
+  <li>Troubleshooting Reporting Services</li>
+</ul>
+<p><strong>Module 12: Delivering BI with SharePoint PerformancePoint Services</strong> - This module introduces Microsoft SharePoint Server as a platform for BI, and then focuses on building BI dashboards and scorecards with PerformancePoint Services.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to SharePoint Server as a BI Platform</li>
+  <li>Introduction to PerformancePoint Services</li>
+  <li>PerformancePoint Data Sources and Time Intelligence</li>
+  <li>Reports, Scorecards, and Dashboards</li>
+</ul>
+<p><strong>Module 13: Performing Predictive Analysis with Data Mining</strong> - This module introduces data mining, describes how to create a data mining solution, how to validate data mining models, how to use the Data Mining Add-ins for Microsoft Excel, and how to incorporate data mining results into Reporting Services reports.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Data Mining</li>
+  <li>Creating a Data Mining Solution</li>
+  <li>Validating a Data Mining Model</li>
+  <li>Consuming Data Mining Data</li>
+</ul>

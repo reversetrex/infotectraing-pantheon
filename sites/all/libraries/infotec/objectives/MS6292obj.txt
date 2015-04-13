@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Perform a clean installation of Windows 7, upgrade to Windows 7, and migrate user-related data and settings from an earlier version of Windows.</li>
+  <li>Configure disks, partitions, volumes, and device drivers to enable a Windows 7 client computer.</li>
+  <li>Configure file access and printers on a Windows 7 client computer.</li>
+  <li>Configure network connectivity on a Windows 7 client computer.</li>
+  <li>Configure wireless network connectivity on a Windows 7 client computer.</li>
+  <li>Secure Windows 7 client desktop computers.</li>
+  <li>Optimize and maintain the performance and reliability of a Windows 7 client computer.</li>
+  <li>Configure mobile computing and remote access settings for a Windows 7 client computer.</li>
+</ul>

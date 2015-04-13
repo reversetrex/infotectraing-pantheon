@@ -1,0 +1,58 @@
+<h2>Session 1</h2>
+  <h3>Section A: Administrative Management</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Duty Separation</li>
+    <li>Least Access</li>
+    <li>Accountability</li>
+    <li>Privacy and Protection</li>
+    <li>Legal Requirements</li>
+    <li>Illegal Activities</li>
+  </ul>
+  <h3>Section B: Operation Controls</h3>
+  <ul>
+    <li>Record Retention</li>
+    <li>Backups</li>
+    <li>Data Removal</li>
+    <li>Antivirus Controls</li>
+    <li>Privileged Functions</li>
+    <li>Resource Protection</li>
+  </ul>
+  <h3>Section C: Auditing</h3>
+  <ul>
+    <li>Audit Procedures</li>
+    <li>Frequency</li>
+    <li>Audit Trails</li>
+    <li>Audit Reporting</li>
+    <li>Sampling</li>
+    <li>Retention</li>
+  </ul>
+  <h3>Section D: Monitoring</h3>
+  <ul>
+    <li>What is Monitoring?</li>
+    <li>Categories</li>
+    <li>Warning Banners</li>
+    <li>Keystroke Monitoring</li>
+    <li>Traffic Analysis</li>
+    <li>Trend Analysis</li>
+    <li>Tools</li>
+    <li>Failure Recognition</li>
+  </ul>
+  <h3>Section E: Intrusion Detection</h3>
+  <ul>
+    <li>Intrusion Prevention</li>
+    <li>IDS Types</li>
+    <li>Penetration Testing</li>
+    <li>Inappropriate Activity</li>
+  </ul>
+  <h3>Section F: Threats and Countermeasures</h3>
+  <ul>
+    <li>Interception</li>
+    <li>Human Factors</li>
+    <li>Fraud and Theft</li>
+    <li>Employee Sabotage</li>
+    <li>Disaster Recovery</li>
+    <li>Hackers</li>
+    <li>Espionage</li>
+    <li>Malicious Code</li>
+  </ul>

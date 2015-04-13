@@ -1,0 +1,9 @@
+<ul>
+  <li>Section A: Understanding Security Authorization</li>
+  <li>Section B: Categorization of Information and Information Systems</li>
+  <li>Section C: Selection of Security Controls</li>
+  <li>Section D: Implementation of Security Controls</li>
+  <li>Section E: Assessment of Security Controls</li>
+  <li>Section F: Authorization of Information Systems</li>
+  <li>Section G: Continuous Monitoring of Security Controls</li>
+</ul>

@@ -1,0 +1,47 @@
+<p><strong>Unit 1: Personalizing Your Email</strong></p>
+<ul>
+  <li>Topic 1A: Apply Stationery and Themes</li>
+  <li>Topic 1B: Create a Custom Theme</li>
+  <li>Topic 1C: Create Signatures</li>
+  <li>Topic 1D: Modify Signatures</li>
+  <li>Topic 1E: Configure Email Message Security Settings</li>
+</ul>
+<p><strong>Unit 2: Organizing Outlook Items</strong></p>
+<ul>
+  <li>Topic 2A: Group Items</li>
+  <li>Topic 2B: Create Search Folders</li>
+  <li>Topic 2C: Apply Conditional Formatting</li>
+</ul>
+<p><strong>Unit 3: Managing Outlook Data Files</strong></p>
+<ul>
+  <li>Topic 3A: Create a Data File</li>
+  <li>Topic 3B: Add Outlook Data Files to a Mail Profile</li>
+  <li>Topic 3C: Change Data File Settings</li>
+</ul>
+<p><strong>Unit 4: Working with Contacts</strong></p>
+<ul>
+  <li>Topic 4A: Forward Contacts</li>
+  <li>Topic 4B: Edit an Electronic Business Card</li>
+  <li>Topic 4C: Export Contacts</li>
+  <li>Topic 4D: Perform a Mail Merge</li>
+  <li>Topic 4E: Link Items to Business Contact Manager</li>
+</ul>
+<p><strong>Unit 5: Saving and Archiving Email</strong></p>
+<ul>
+  <li>Topic 5A: Save Messages in Alternate Formats</li>
+  <li>Topic 5B: Archive Messages</li>
+  <li>Topic 5C: Protect Personal Folders</li>
+</ul>
+<p><strong>Unit 6: Creating a Custom Form</strong></p>
+<ul>
+  <li>Topic 6A: Add Form Fields</li>
+  <li>Topic 6B: Save a Form as a Template</li>
+  <li>Topic 6C: Test a Form</li>
+</ul>
+<p><strong>Unit 7: Working Offline and Remotely</strong></p>
+<ul>
+  <li>Topic 7A: Make Folders Available Offline</li>
+  <li>Topic 7B: Configure RPC Over HTTP</li>
+  <li>Topic 7C: Download Selected Messages</li>
+  <li>Topic 7D: Publish Calendar Information to Office Online</li>
+</ul>

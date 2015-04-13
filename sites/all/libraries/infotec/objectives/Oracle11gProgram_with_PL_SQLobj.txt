@@ -1,0 +1,17 @@
+<ul>
+  <li>Describe the features and syntax of PL/SQL.</li>
+  <li>Use PL/SQL programming constructs and conditionally control code flow (loops, control structures, and explicit cursors).</li>
+  <li>Handle runtime errors.</li>
+  <li>Design PL/SQL anonymous block that execute efficiently.</li>
+  <li>Create and use stored procedures and functions.</li>
+  <li>Design and use PL/SQL packages to group and contain related constructs.</li>
+  <li>Manage dependencies between PL/SQL subprograms.</li>
+  <li>Use conditional compilation to customize functionality in a PL/SQL block.</li>
+  <li>Create overloaded package subprograms.</li>
+  <li>Use the Oracle supplied PL/SQL packages to generate screen output, file output, and schedule jobs..</li>
+  <li>Write dynamic SQL for coding flexibility.</li>
+  <li>Describe stored procedures and functions.</li>
+  <li>Understand security for stored PL/SQL units.</li>
+  <li>Design PL/SQL code for predefined data types, local subprograms, additional pragmas and standardized constants and exceptions.</li>
+  <li>Create triggers to solve business requirements.</li>
+</ul>

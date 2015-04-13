@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Explore the PowerPoint 2010 interface and familiarize yourself with the interface.</li>
+  <li>Create a presentation.</li>
+  <li>Format text on slides.</li>
+  <li>Add graphical objects to a presentation.</li>
+  <li>Modify graphical objects on slides.</li>
+  <li>Work with tables in a presentation.</li>
+  <li>Import charts to a presentation.</li>
+  <li>Prepare to deliver a  presentation.</li>
+</ul>

@@ -1,0 +1,520 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction to Ethical Hacking</h3>
+  <ul>
+    <li>Prerequisites</li>
+    <li>Benefits</li>
+    <li>CEH Certification</li>
+    <li>Security Triangle</li>
+    <li>Security Terminology</li>
+  </ul>
+  <h3>Section B: Ethics and the Hacker</h3>
+  <ul>
+    <li>Hacker Classes</li>
+    <li>Charitable Hacking</li>
+    <li>Hacker Categories</li>
+    <li>Types of Hacks</li>
+    <li>Security Exploits</li>
+    <li>Researching Vulnerabilities</li>
+    <li>Cracking</li>
+    <li>Ethical Hacking Stages</li>
+  </ul>
+  <h3>Section C: Hacking Legalities</h3>
+  <ul>
+    <li>Getting Permission</li>
+    <li>Hack Phases</li>
+    <li>Hack Reports</li>
+    <li>Understanding Federal Law</li>
+    <li>1029 and 1030 Fraud Laws</li>
+    <li>Ethical Hacking Approaches</li>
+    <li>Common Hacking Sites</li>
+  </ul>
+  <h3>Section D: Footprinting Concepts</h3>
+  <ul>
+    <li>Reconnaissance</li>
+    <li>Informational Gathering</li>
+    <li>Pre-Attack Phases</li>
+    <li>Footprinting Methodology</li>
+    <li>Information Sources</li>
+    <li>Defining the Network Range</li>
+  </ul>
+  <h3>Section E: Web Footprinting Tools</h3>
+  <ul>
+    <li>Company Web Sites</li>
+    <li>Additional Web Sites</li>
+    <li>Using Google</li>
+    <li>Archive.org</li>
+    <li>People Searches</li>
+    <li>DNS Enumeration</li>
+    <li>Robots.txt</li>
+  </ul>
+  <h3>Section F: Local Footprinting Tools</h3>
+  <ul>
+    <li>SIte Enumeration Using Wikto</li>
+    <li>E-mail Tracking</li>
+    <li>Web Data Extractor</li>
+    <li>SmartWhois</li>
+    <li>Traceroute</li>
+  </ul>
+  <h3>Section G: Scanning for Gold</h3>
+  <ul>
+    <li>Scanning Defined</li>
+    <li>Scanning Types</li>
+    <li>Scanning Methodology</li>
+    <li>Finding Live Systems</li>
+    <li>Understanding TCP Flags</li>
+    <li>Three-Way Handshake</li>
+    <li>Locating Open Ports</li>
+    <li>Identifying Services</li>
+    <li>Banner Grabbing</li>
+    <li>Scanning for Vulnerabilities</li>
+    <li>Diagramming the Network</li>
+    <li>Preparing Proxies</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Mastering Scanning Tools</h3>
+  <ul>
+    <li>Ping Command</li>
+    <li>Angry IP Scanner</li>
+    <li>Nmap Switches</li>
+    <li>Using Nmap</li>
+    <li>IP Spoofing</li>
+    <li>MBSA</li>
+  </ul>
+  <h3>Section B: Enumeration</h3>
+  <ul>
+    <li>Enumeration Defined</li>
+    <li>Enumeration Types</li>
+    <li>Basic NET Comands</li>
+    <li>Using DumpSec</li>
+    <li>Performing SuperScans</li>
+  </ul>
+  <h3>Section C: Passwords</h3>
+  <ul>
+    <li>Authentication</li>
+    <li>Predictable Passwords</li>
+    <li>Cracking Methods</li>
+    <li>Secure Passwords</li>
+    <li>Authentication Systems</li>
+    <li>Storage Options</li>
+    <li>Cracking Prevention</li>
+  </ul>
+  <h3>Section D: Password Cracking Tools</h3>
+  <ul>
+    <li>Historic/Modern Tools</li>
+    <li>SMB Redirection</li>
+    <li>LAN Manager Hashes</li>
+    <li>NTLM Hash Example</li>
+    <li>L0phtCrack Times</li>
+    <li>Using L0phtCrack</li>
+    <li>L0phtCrack Reports</li>
+  </ul>
+  <h3>Section E: Ownership Privileges</h3>
+  <ul>
+    <li>Privilege Escalation</li>
+    <li>Methods of Escalation</li>
+    <li>Escalation Batch File</li>
+    <li>Executing the Batch File</li>
+    <li>Rootkits</li>
+    <li>Rootkit Limitations</li>
+    <li>Hiding Files</li>
+    <li>Alternate Data Streams</li>
+  </ul>
+  <h3>Section F: Trojan Horses</h3>
+  <ul>
+    <li>Trojan Horses Defined</li>
+    <li>Common Programs</li>
+    <li>Trojan Horse Types</li>
+    <li>Overt and Covert Communication</li>
+    <li>Reverse-Connecting Trojans</li>
+    <li>Netcat</li>
+    <li>Setting up Netcat Server</li>
+    <li>Connecting Netcat Server</li>
+    <li>Entry Points</li>
+    <li>Attack Indicators</li>
+    <li>Port Redirection</li>
+  </ul>
+  <h3>Section G: Sniffers</h3>
+  <ul>
+    <li>Sniffer Applications</li>
+    <li>Vulnerable Protocols</li>
+    <li>Capture Windows Sharing</li>
+    <li>FTP Logon Packets</li>
+    <li>E-mail Authentication Packets</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: ARP, MAC, and DNS</h3>
+  <ul>
+    <li>ARP Defined</li>
+    <li>ARP Spoofing</li>
+    <li>ARP Poisoning Tools</li>
+    <li>MAC Flooding</li>
+    <li>Flooding Tools</li>
+    <li>DNS Poisoning</li>
+    <li>Intranet Poisoning</li>
+    <li>Internet Poisoning</li>
+    <li>Proxy Server Poisoning</li>
+    <li>DNS Cache Poisoning</li>
+  </ul>
+  <h3>Section B: DoS Attacks</h3>
+  <ul>
+    <li>Denial of Service</li>
+    <li>DoS Methods</li>
+    <li>DoS Types</li>
+    <li>Smurf Attacks</li>
+    <li>Smurfs Visualized</li>
+    <li>SYN Attacks</li>
+  </ul>
+  <h3>Section C: Social Engineering</h3>
+  <ul>
+    <li>Introduction to Social Engineering</li>
+    <li>Example Attacks</li>
+    <li>Dumpster Diving</li>
+    <li>Shoulder Surfing</li>
+    <li>Eavesdropping</li>
+    <li>Inside/Outside Attacks</li>
+    <li>Reverse Social Engineering</li>
+  </ul>
+  <h3>Section D: Advanced Social Engineering</h3>
+  <ul>
+    <li>Phishing Attacks</li>
+    <li>Identity Theft</li>
+    <li>URL Obfuscation</li>
+    <li>Hexadecimal Conversion</li>
+    <li>Converting Hex to Decimal</li>
+    <li>Message Tricks</li>
+    <li>Programmatic Access</li>
+  </ul>
+  <h3>Section E: Session Hijacking</h3>
+  <ul>
+    <li>Hijacking Steps</li>
+    <li>Active vs. Inactive</li>
+    <li>Hijacking vs. Spoofing</li>
+    <li>Sequence Numbers</li>
+    <li>Hijacking Programs</li>
+    <li>Dangers</li>
+  </ul>
+  <h3>Section F: Web Servers</h3>
+  <ul>
+    <li>Basic Functionality</li>
+    <li>Web Communications</li>
+    <li>Common Attacks</li>
+    <li>Managing Patches</li>
+    <li>Windows Server Update Services</li>
+    <li>WSUS Process</li>
+    <li>WSUS Requirements</li>
+    <li>WSUS Group Policies</li>
+  </ul>
+  <h3>Section G: Hacking Web Servers</h3>
+  <ul>
+    <li>Server Vulnerabilities</li>
+    <li>IIS Unicode Attack</li>
+    <li>Metasploit</li>
+    <li>Web Application Scanners</li>
+    <li>Basic Countermeasures</li>
+    <li>Specific Countermeasures</li>
+    <li>Server Hardening</li>
+  </ul>
+  <h3>Section H: Web Applications</h3>
+  <ul>
+    <li>Web Applications Introduction</li>
+    <li>Web Application Hacking Objectives</li>
+    <li>Attack Anatomy</li>
+    <li>Web Application Threats</li>
+    <li>Cross-Site Scripting</li>
+    <li>Attack Prevention</li>
+    <li>Google Hacking</li>
+    <li>Google Hacking Database</li>
+  </ul>
+  <h3>Section I: Cracking Web Passwords</h3>
+  <ul>
+    <li>HTTP Authentication</li>
+    <li>Integrated Authentication</li>
+    <li>Negotiate Authentication</li>
+    <li>Certificate-Based</li>
+    <li>Forms-Based</li>
+    <li>RSA Secure Tokens</li>
+    <li>Biometrics</li>
+    <li>Password Misconceptions</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: SQL Injections</h3>
+  <ul>
+    <li>Understanding SQL</li>
+    <li>SQL Versions</li>
+    <li>SELECT Statements</li>
+    <li>SELECT in Applications</li>
+    <li>Injection Attacks</li>
+    <li>Injecting Code</li>
+    <li>How Common is It?</li>
+    <li>Injection Attack Objectives</li>
+    <li>Countermeasures</li>
+  </ul>
+  <h3>Section B: SQL Attacks</h3>
+  <ul>
+    <li>Embedded SQL</li>
+    <li>Retrieve All Records</li>
+    <li>Dumping HTML</li>
+    <li>Injecting Commands</li>
+    <li>Installing WebGoat</li>
+    <li>Opening WebGoat</li>
+    <li>Basic SQL Injection</li>
+    <li>Using WebScarab</li>
+    <li>Intercepting Requests</li>
+    <li>Advanced SQL Injections</li>
+  </ul>
+  <h3>Section C: Wireless Vulnerabilities</h3>
+  <ul>
+    <li>Eavesdropping</li>
+    <li>Rogue Access Points</li>
+    <li>Encryption Cracking</li>
+    <li>Wireless Denial of Service</li>
+    <li>Hijacking</li>
+    <li>Legacy Security</li>
+  </ul>
+  <h3>Section D: WEP Attacks</h3>
+  <ul>
+    <li>WEP Defined</li>
+    <li>802.11-1997 Authentication</li>
+    <li>Understanding WEP</li>
+    <li>WEP Problems</li>
+    <li>Cracking Tools</li>
+    <li>Wireless Cracking Process</li>
+  </ul>
+  <h3>Section E: WPA and EAP</h3>
+  <ul>
+    <li>WPA and WPA2</li>
+    <li>Wi-Fi Protected Setup</li>
+    <li>TKIP and CCMP</li>
+    <li>802.1X EAP</li>
+    <li>EAP Framework</li>
+    <li>Secure Management</li>
+    <li>Role-Based Access Control</li>
+    <li>WPA Attacks</li>
+    <li>EAP Attacks</li>
+    <li>Security Analysis</li>
+  </ul>
+  <h3>Section F: Viruses and Worms</h3>
+  <ul>
+    <li>Virus and Worm Summary</li>
+    <li>Infection Indications</li>
+    <li>Virus Phases</li>
+    <li>Infection Process</li>
+    <li>Types of Viruses</li>
+    <li>Detection Avoidance</li>
+    <li>Detection Methods</li>
+    <li>Incident Response</li>
+  </ul>
+  <h3>Section G: Physical Security Policies</h3>
+  <ul>
+    <li>Understanding Physical Security</li>
+    <li>Statistics</li>
+    <li>Physical Security Defined</li>
+    <li>Applications</li>
+    <li>Accountability</li>
+    <li>Factors Affecting Security</li>
+    <li>Security Checklist</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Implementing Physical Security</h3>
+  <ul>
+    <li>Locks</li>
+    <li>Lock Picking Tools</li>
+    <li>Authentication</li>
+    <li>Security Personnel</li>
+    <li>Physical Deterrents</li>
+    <li>Video Monitoring</li>
+    <li>Alarms</li>
+    <li>Fasteners</li>
+    <li>Tracking Tools</li>
+    <li>Portable Security</li>
+  </ul>
+  <h3>Section B: Linux</h3>
+  <ul>
+    <li>Introduction to Linux</li>
+    <li>Live Distros</li>
+    <li>Targeting Linux</li>
+    <li>OS Vulnerabilities Comparison</li>
+    <li>Potential Vulnerabilities</li>
+    <li>Scanning</li>
+    <li>Password Cracking</li>
+    <li>Using BackTrack</li>
+    <li>Creating Users</li>
+    <li>Cracking Passwords</li>
+  </ul>
+  <h3>Section C: Compiling Linux</h3>
+  <ul>
+    <li>Installation Process</li>
+    <li>Installing a Kernel Patch</li>
+    <li>Hardening Linux</li>
+    <li>Services</li>
+    <li>Bastille</li>
+    <li>Lockdown Networking</li>
+    <li>Network Analysis</li>
+    <li>Firewall Settings</li>
+  </ul>
+  <h3>Section D: Intrusion Monitoring Systems</h3>
+  <ul>
+    <li>Network Firewalls</li>
+    <li>Packet Filtering Firewalls</li>
+    <li>Stateful Inspection Firewalls</li>
+    <li>Proxy Firewalls</li>
+    <li>Dynamic Firewalls</li>
+    <li>Kernel Firewalls</li>
+    <li>Personal Firewalls</li>
+    <li>Intrusion Monitoring/Detection</li>
+    <li>IDS Intrusion Detection</li>
+    <li>Intrusion Prevention Systems</li>
+    <li>IDS States</li>
+    <li>Intrusion Indicators</li>
+  </ul>
+  <h3>Section E: Evading IMS</h3>
+  <ul>
+    <li>Avoid Detection Symptoms</li>
+    <li>Network Symptoms</li>
+    <li>IDS Tools</li>
+    <li>Honeypots</li>
+    <li>Configuring Honeypots</li>
+    <li>HoneyBOT Options</li>
+    <li>Connecting to Honeypots</li>
+  </ul>
+  <h3>Section F: Buffer Overflows</h3>
+  <ul>
+    <li>Buffer Overflows Defined</li>
+    <li>Dependencies</li>
+    <li>Attacker Knowledge</li>
+    <li>Stack-Based</li>
+    <li>Heap-Based</li>
+    <li>Locating Buffer Overflows</li>
+    <li>Mutation Techniques</li>
+    <li>After the Attack</li>
+    <li>Countermeasures</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: Cryptography</h3>
+  <ul>
+    <li>Understanding Cryptography</li>
+    <li>Steganography</li>
+    <li>Simple Encryption</li>
+    <li>Cryptography Concepts</li>
+    <li>Cryptography Uses</li>
+    <li>Encryption Types</li>
+    <li>Encryption Applications</li>
+  </ul>
+  <h3>Section B: Symmetric Cryptography</h3>
+  <ul>
+    <li>Symmetric Encryption</li>
+    <li>Symmetric Algorithms</li>
+    <li>Encryption Solutions</li>
+    <li>Blowfish</li>
+    <li>DES</li>
+    <li>AES</li>
+    <li>RC4</li>
+    <li>Asymmetric Encryption</li>
+    <li>Public Key Cryptography</li>
+    <li>Certificates</li>
+    <li>Public Key Infrastructure</li>
+    <li>PKI Usage</li>
+    <li>IPSec</li>
+  </ul>
+  <h3>Section C: Multi-Hat Hacking</h3>
+  <ul>
+    <li>Bluetooth Hacking</li>
+    <li>Locating Bluetooth Devices</li>
+    <li>Attacking Bluetooth</li>
+    <li>iPhone Hacking</li>
+    <li>RFID Hacking</li>
+    <li>Hacking Online Games</li>
+  </ul>
+  <h3>Section D: Computer Forensics</h3>
+  <ul>
+    <li>Introduction to Computer Forensics</li>
+    <li>Information Collection</li>
+    <li>Preserving State</li>
+    <li>BackTrack and Forensics</li>
+    <li>Evasion</li>
+  </ul>
+  <h3>Section E: Hack Prevention</h3>
+  <ul>
+    <li>Disabling Services</li>
+    <li>Configuring Services</li>
+    <li>Password Policies</li>
+    <li>User Rights Policies</li>
+    <li>Using CACLS</li>
+    <li>Setting Permissions Using GUI</li>
+    <li>Enabling EFS</li>
+  </ul>
+  <h3>Section F: Security Policies</h3>
+  <ul>
+    <li>Importance of Policies</li>
+    <li>General Policies</li>
+    <li>Functional Policies</li>
+    <li>SANS.org</li>
+    <li>Customizing Policy Templates</li>
+  </ul>
+<h2>Session 7</h2>
+  <h3>Section A: Large Scale Security Threats</h3>
+  <ul>
+    <li>Economic Espionage Defined</li>
+    <li>Targeted Data</li>
+    <li>Competitive Intelligence</li>
+    <li>Understanding Computer Crime Laws</li>
+    <li>Cyber Terrorism</li>
+    <li>Spam E-mail</li>
+    <li>Cyber Warfare Attacks</li>
+    <li>Software Piracy</li>
+    <li>Newsgroups</li>
+  </ul>
+  <h3>Section B: Advanced Google Hacking</h3>
+  <ul>
+    <li>Advanced Searching Capabilities</li>
+    <li>Advanced Search Tips</li>
+    <li>Google Hacking Database</li>
+    <li>Browsable Directories</li>
+    <li>Searching Specific Sites</li>
+    <li>Searching File Types</li>
+    <li>Searching Google</li>
+    <li>Searching H-Sphere</li>
+  </ul>
+  <h3>Section C: Information Gathering Tools</h3>
+  <ul>
+    <li>Browsers</li>
+    <li>Temporary Internet Files</li>
+    <li>Browser History and Personal Data</li>
+    <li>Browser Best Practices</li>
+    <li>Key Logging</li>
+  </ul>
+  <h3>Section D: Hacking Home Networks</h3>
+  <ul>
+    <li>Home Devices</li>
+    <li>Opening Back Doors</li>
+    <li>Social Engineering</li>
+    <li>Private Information</li>
+    <li>Home Attack Scenario</li>
+    <li>Wireless Hacks</li>
+    <li>War-Driving Kits</li>
+  </ul>
+  <h3>Section E: Attacking Database Servers</h3>
+  <ul>
+    <li>Database Servers</li>
+    <li>Database Attack Methods</li>
+    <li>SQL Injection Attacks</li>
+    <li>Databases</li>
+    <li>Open Source vs. Closed Source</li>
+    <li>Accessing Back-End Databases</li>
+  </ul>
+  <h3>Section F: Spying Technologies</h3>
+  <ul>
+    <li>Spying</li>
+    <li>Spy Cameras</li>
+    <li>Listening Devices</li>
+    <li>Tracking Devices</li>
+  </ul>
+  <h3>Section G: RSS and Atom Hacking</h3>
+  <ul>
+    <li>Feed Types</li>
+    <li>Remote Zone Risks</li>
+    <li>Local Zone Risks</li>
+    <li>Key Logging Risks</li>
+    <li>Syndication Security</li>
+    <li>Conclusion</li>
+  </ul>

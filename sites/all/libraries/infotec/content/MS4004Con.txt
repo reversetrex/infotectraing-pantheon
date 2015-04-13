@@ -1,0 +1,33 @@
+<p><strong> Unit 1: Creating a Strong Foundation for Your Database </strong></p>
+<ul>
+  <li> What Is a Relational Database? </li>
+  <li> Demonstration: Creating Tables and Using the Relationships Window </li>
+  <li> Expert Video: Importance of Using Relationships and Referential Integrity </li>
+  <li> Types of Files Commonly Imported or Linked to Access </li>
+  <li> Exercise: Importing a Text File and Excel Data </li>
+  <li> Best Practices for Creating Tables and Utilizing Outside Data </li>
+</ul>
+<p><strong> Unit 2: Creating an Effective User Interface </strong></p>
+<ul>
+  <li> Good Form Design </li>
+  <li> Mapping Out the Forms to Use in the Fourth Coffee Database </li>
+  <li> Exercise 1: Creating the Necessary Input Forms </li>
+  <li> Exercise 2: Creating the Main Switchboard and Setting Startup Properties </li>
+  <li> Best Practices for Creating User Interfaces </li>
+</ul>
+<p><strong> Unit 4: Reporting Strategic Information with Access </strong></p>
+<ul>
+  <li> Generating Reports That Display Strategic Information </li>
+  <li> Exercise 1: Generating the Base Report </li>
+  <li> Demonstration: Touring Report Design View </li>
+  <li> Exercise 2: Creating a Macro to Companies Only on the Report </li>
+</ul>
+<p><strong> Unit 5: Integrating Access with other Office Applications </strong></p>
+<ul>
+  <li> Integration with Other Office Applications </li>
+  <li> Exercise 1: Publishing Information Using Word and Excel </li>
+  <li> Exercise 2: Creating a Custom Toolbar for Office Links and Mail Recipient </li>
+  <li> Exercise 3: Performing Mail Merge Between Access and Word </li>
+  <li> Best Practices for Avoiding the Pitfalls of Integration </li>
+</ul>
+<p>&nbsp; </p>

@@ -1,0 +1,11 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Articulate the value proposition and key features of FEP 2010.</li>
+    <li>Understand the protection technologies built into the FEP client to protect desktops, laptops and servers from malicious code threats.</li>
+    <li>Understand the fundamental concepts of System Center Configuration Manager 2007.</li>
+    <li>Understand the FEP server components and how they are integrated into a System Center Configuration Manager 2007 infrastructure.</li>
+    <li>Understand how to manage FEP client policy and definition updates.</li>
+    <li>Understand the FEP client architecture and how the client can be deployed across an organization.</li>
+    <li>Understand the various options for monitoring, alerting and reporting on the health and malware activity of FEP clients.</li>
+    <li>Understand how FEP can leverage System Center Operations Manager 2007 to provide real-time monitoring of high value endpoints.</li>
+</ul>

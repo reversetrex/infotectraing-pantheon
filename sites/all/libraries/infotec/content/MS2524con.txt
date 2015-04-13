@@ -1,0 +1,71 @@
+<p><strong> Unit 1: The Need for XML Web Services </strong></p>
+<ul>
+  <li> Evolution of Distributed Applications </li>
+  <li> Problems with Traditional Distributed Applications </li>
+  <li> Introducing XML Web Services </li>
+  <li> The Web Technology Stack and .NET </li>
+  <li> The .NET Alternatives to XML Web Services </li>
+  <li> Common XML Web Service Scenarios </li>
+</ul>
+<p><strong> Unit 2: XML Web Service Architectures </strong></p>
+<ul>
+  <li> Service-Oriented Architecture </li>
+  <li> XML Web Service Architectures and Service-Oriented Architecture </li>
+  <li> Roles in an XML Web Services Architecture </li>
+  <li> The XML Web Services Programming Model </li>
+</ul>
+<p><strong> Unit 3: The Underlying Technologies of XML Web Services </strong></p>
+<ul>
+  <li> HTTP Fundamentals </li>
+  <li> Using HTTP with the .NET Framework </li>
+  <li> XML Essentials </li>
+  <li> XML Serialization in the .NET Framework </li>
+  <li> SOAP Fundamentals </li>
+  <li> Using SOAP with the .NET Framework </li>
+</ul>
+<p><strong> Unit 4: Consuming XML Web Services </strong></p>
+<ul>
+  <li> WSDL Documents </li>
+  <li> XML Web Service Discovery </li>
+  <li> XML Web Service Proxies </li>
+  <li> Implementing an XML Web Service Consumer Using Visual Studio .NET </li>
+</ul>
+<p><strong>Unit 5: Implementing a Simple XML Web Service </strong></p>
+<ul>
+  <li> Creating an XML Web Service Project </li>
+  <li> Implementing XML Web Service Methods </li>
+  <li> Managing State in an ASP.NET XML Web Service </li>
+  <li> Debugging XML Web Services </li>
+</ul>
+<p><strong> Unit 6: Publishing and Deploying XML Web Services </strong></p>
+<ul>
+  <li> Overview of UDDI </li>
+  <li> Publishing an XML Web Service </li>
+  <li> Finding an XML Web Service </li>
+  <li> Publishing an XML Web Service on an Intranet </li>
+  <li> Configuring an XML Web Service </li>
+</ul>
+<p><strong> Unit 7: Securing XML Web Services </strong></p>
+<ul>
+  <li> Overview of Security </li>
+  <li> Built-In Authentication </li>
+  <li> Custom Authentication: SOAP Headers </li>
+  <li> Authorization: Role-Based Security </li>
+  <li> Authorization: Code Access Security </li>
+  <li> Encryption </li>
+</ul>
+<p><strong> Unit 8: Designing XML Web Services </strong></p>
+<ul>
+  <li> Datatype Constraints </li>
+  <li> Performance </li>
+  <li> Reliability </li>
+  <li> Versioning </li>
+  <li> HTML Screen Scraping XML Web Services </li>
+  <li> Aggregating XML Web Services </li>
+</ul>
+<p><strong> Unit 9: Global XML Web Services Architecture </strong></p>
+<ul>
+  <li> Introduction to GXA </li>
+  <li> Routing and Referral </li>
+  <li> Security and Licensing </li>
+</ul>

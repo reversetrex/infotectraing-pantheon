@@ -1,0 +1,39 @@
+<p><strong>Lesson 1: Creating a Custom Shape</strong></p>
+<ul>
+	<li><strong>Topic 1A: </strong>Draw Basic Shapes</li>
+    <li><strong>Topic 1B: </strong>Enhance Basic Shapes</li>
+</ul>
+
+<p><strong>Lesson 2: Designing a Custom Stencil</strong></p>
+<ul>
+	<li><strong>Topic 2A: </strong>Create a Custom Stencil</li>
+    <li><strong>Topic 2B: </strong>Customize a Stencil Master</li>
+</ul>
+
+<p><strong>Lesson 3: Designing Styles and Templates</strong></p>
+<ul>
+	<li><strong>Topic 3A: </strong>Define a New Style</li>
+    <li><strong>Topic 3B: </strong>Create a Template</li>
+</ul>
+
+<p><strong>Lesson 4: Designing a Floor Plan</strong></p>
+<ul>
+	<li><strong>Topic 4A: </strong>Create an Office Layout</li>
+    <li><strong>Topic 4B: </strong>Work with Layers</li>
+</ul>
+
+<p><strong>Lesson 5: Representing External Data in Visio</strong></p>
+<ul>
+	<li><strong>Topic 5A: </strong>Generate a PivotDiagram</li>
+    <li><strong>Topic 5B: </strong>Create an Organization Chart from External Data</li>
+    <li><strong>Topic 5C: </strong>Import Project Plan Data into Visio</li>
+    <li><strong>Topic 5D: </strong>Link to a Database</li>
+    <li><strong>Topic 5E: </strong>Import Excel Data</li>
+</ul>
+
+<p><strong>Lesson 6: Sharing Your Drawings</strong></p>
+<ul>
+	<li><strong>Topic 6A: </strong>Link a Visio Drawing to Other Applications</li>
+    <li><strong>Topic 6B: </strong>Convert a Visio Drawing to Other File Formats</li>
+    <li><strong>Topic 6C: </strong>Print a Visio Drawing</li>
+</ul>

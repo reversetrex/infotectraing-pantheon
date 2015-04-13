@@ -1,0 +1,24 @@
+<p><strong> Unit 1: Getting Started <br>
+</strong>This Unit introduces Visual Basic .NET and explains how it fits into the .NET platform. It explains how to use the programming tools in Microsoft Visual Studio&reg; .NET and provides enough practice so that students can create their first application in Visual Basic .NET.</p>
+<p><strong> Unit 2: Working with Forms and Controls <br>
+</strong>This Unit explains fundamental programming concepts, including event-driven programming, classes, objects, properties, methods, and events. This Unit also explains how to use forms and controls to create a user interface. This includes the following: how to create a form, set properties, call methods, and write code for events; how to add controls to a form; how to manage multiple forms; how to use message boxes; how to use naming conventions; and how to format and document code.</p>
+<p><strong> Unit 3: Using Variables and Arrays <br>
+</strong>This Unit explains how to name, declare, assign values to, and use variables and constants. It explains how to declare variables with different levels of scope, how to create your own data structures, and how to convert variable values from one data type to another. It also describes how to store data in an array.</p>
+<p><strong> Unit 4: Working with Procedures <br>
+</strong>This Unit describes how to create and use <strong>Sub </strong>and <strong>Function</strong> procedures, including predefined functions, and how to structure code for increased reusability.</p>
+<p><strong> Unit 5: Decision Structures and Loops <br>
+</strong>This Unit explains how to implement decision structures and loop structures to control program output and execution.</p>
+<p><strong> Unit 6: Handling Errors and Exceptions <br>
+</strong>This Unit explains types of errors that can occur in a program and explains how to use the debugging tools provided with Visual&nbsp;Basic .NET to help diagnose and correct the errors. These tools include the Visual Studio .NET debugger, debugging windows, and structured exception handling.</p>
+<p><strong> Unit 7: Validating User Input <br>
+</strong>This Unit explains how to validate user input at both the field level and the form level. It describes how to handle invalid input by providing error messages and guiding users through the process of finding and fixing errors. It describes how to use control properties and methods to restrict and validate data entry.</p>
+<p><strong> Unit 8: Enhancing the User Interface <br>
+</strong>This Unit explains how to create menus, status bars, and toolbars to enhance the usability of an application.</p>
+<p><strong> Unit 9: Web Forms and XML Web Services <br>
+</strong>This Unit explains how to create a Web Form application and how to invoke a simple XML Web service.</p>
+<p><strong> Unit 10: Introduction to Object-Oriented Programming Concepts <br>
+</strong>This Unit explains how to create and use classes. The Unit explains the concepts of abstraction, encapsulation, instantiation, initialization, constructors, and destructors. This Unit also describes inheritance, polymorphism, and namespaces.</p>
+<p><strong> Unit 11: Using ADO.NET <br>
+</strong>This Unit explains how to use Microsoft ADO.NET with a Windows Form application to create, read, update, and delete records in Access and Microsoft SQL Server &trade; databases.</p>
+<p><strong> Unit 12: Deploying Applications <br>
+</strong>This Unit explains various deployment options available in Visual&nbsp;Basic .NET. It also explains how to deploy Windows-based applications. </p>

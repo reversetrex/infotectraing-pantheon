@@ -1,0 +1,2 @@
+This two-day instructor-led course provides students with the knowledge and skills to set up the Project management and accounting module of Microsoft Dynamics AX.  It also shows students how to create project transactions. 
+The course focuses on the basic project functionality available in Microsoft DynamicsAX.

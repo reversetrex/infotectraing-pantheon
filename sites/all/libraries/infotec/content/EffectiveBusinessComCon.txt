@@ -1,0 +1,56 @@
+<p><strong>Written Communications</strong></p>
+
+<p><strong>Lesson 1: Writing Email and Other Electronic Communication</strong></p>
+<ul>
+  <li>Topic 1A: Organize Your Materials</li>
+  <li>Topic 1B: Write an Email</li>
+  <li>Topic 1C: Write Instant Messages</li>
+</ul>
+
+<p><strong>Lesson 2: Writing Effective Business Communication</strong></p>
+<ul>
+  <li>Topic 2A: Analyze Your Audience</li>
+  <li>Topic 2B: Write an Internal Announcement</li>
+  <li>Topic 2C: Write an Email Responding to Routine Requests</li>
+  <li>Topic 2D: Write an Email to Respond Positively to Customer Complaints</li>
+  <li>Topic 2E: Write Bad-News Messages</li>
+</ul>
+
+<p><strong>Lesson 3: Writing a Business Letter</strong></p>
+<ul>
+  <li>Topic 3A: Write a Business Letter</li>
+  <li>Topic 3B: Write a Thank-You Letter</li>
+</ul>
+
+<p><strong>Lesson 4: Writing Business Proposals</strong></p>
+<ul>
+  <li>Topic 4A: Persuade Your Audience</li>
+  <li>Topic 4B: Write an Executive Summary</li>
+  <li>Topic  4C: Use Visuals</li>
+</ul>
+
+<p><strong>Oral Communications</strong></p>
+
+<p><strong>Lesson 1: Listening and Taking Notes</strong></p>
+<ul>
+  <li>Topic 1A: Listen Effectively</li>
+  <li>Topic 1B: Take Good Notes</li>
+</ul>
+
+<p><strong>Lesson 2: Participating in and Conducting a Meeting</strong></p>
+<ul>
+  <li>Topic 2A: Participate in a Meeting</li>
+  <li>Topic 2B: Decide to Meet</li>
+  <li>Topic 2C: Prepare for a Meeting</li>
+  <li>Topic 2D: Run a Meeting</li>
+  <li>Topic 2E: Conduct an Online Meeting</li>
+</ul>
+
+<p><strong>Lesson  3: Delivering Presentations</strong></p>
+<ul>
+  <li>Topic 3A: Organize Material</li>
+  <li>Topic 3B: Write a Presentation</li>
+  <li>Topic 3C: Prepare Visuals</li>
+  <li>Topic 3D: Deliver a Presentation</li>
+  <li>Topic 3E: Respond to Questions</li>
+</ul>

@@ -1,0 +1,99 @@
+<p><strong>Module 1: Deploying and Managing Windows Server 2012</strong></p>
+<p>This module introduces students to the editions of Windows Server 2012 and the new Windows Server 2012 management tools. It also covers how to install Windows Server 2012, how to perform post-deployment tasks, and how to perform basic administrative tasks.</p>
+<ul>
+  <li>Windows Server 2012 Overview</li>
+  <li>Installing Windows Server 2012</li>
+  <li>Post-Installation Configuration of Windows Server 2012</li>
+  <li>Overview of Windows Server 2012 Management</li>
+  <li>Introduction to Windows PowerShell</li>
+</ul>
+<p><strong>Module 2: Introduction to Active Directory Domain Services</strong></p>
+<p>This module covers the structure of Active Directory Domain Services (AD DS) and its various components, such as forest, domain, and organizational units (OUs). It also gives an overview of domain controllers, in addition to choices that are available with Windows Server 2012 for installing AD DS on a server.</p>
+<ul>
+  <li>Overview of AD DS</li>
+  <li>Overview of Domain Controllers</li>
+  <li>Installing a Domain Controller</li>
+</ul>
+<p><strong>Module 3: Managing Active Directory Domain Services Objects</strong></p>
+<p>This module describes how to manage user accounts and computer accounts, including how to manage various consumer devices that employees use. The module also covers how to manage an enterprise network by managing groups, and how to delegate administrative tasks to designated users or groups.</p>
+<ul>
+  <li>Managing User Accounts</li>
+  <li>Managing Groups</li>
+  <li>Managing Computer Accounts</li>
+  <li>Delegating Administration</li>
+</ul>
+<p><strong>Module 4: Automating Active Directory Domain Services Administration</strong></p>
+<p>This module describes how to use command line tools and Windows PowerShell to automate AD DS administration. It discusses various command-line tools and Windows PowerShell commands, and then describes how to use these tools and commands to modify objects individually and in bulk operations.</p>
+<ul>
+  <li>Using Command-line Tools for AD DS Administration</li>
+  <li>Using Windows PowerShell for AD DS Administration</li>
+  <li>Performing Bulk Operations with Windows PowerShell</li>
+</ul>
+<p><strong>Module 5: Implementing IPv4</strong></p>
+<p>This module discusses using IPv4, which is the network protocol used on the Internet and on local area networks. In this module, students learn how to implement an IPv4 addressing scheme and how to troubleshoot network communication. This module also covers how to determine and troubleshoot network-related problems.</p>
+<ul>
+  <li>Overview of TCP/IP</li>
+  <li>Understanding IPv4 Addressing</li>
+  <li>Subnetting and Supernetting</li>
+  <li>Configuring and Troubleshooting IPv4</li>
+</ul>
+<p><strong>Module 6: Implementing Dynamic Host Configuration Protocol</strong></p>
+<p>This module covers supporting and troubleshooting a Windows Server–based network infrastructure by deploying, configuring, and troubleshooting the Dynamic Host Configuration Protocol (DHCP) server role.</p>
+<ul>
+  <li>Installing a DHCP Server Role</li>
+  <li>Configuring DHCP Scopes</li>
+  <li>Managing a DHCP Database</li>
+  <li>Securing and Monitoring DHCP</li>
+</ul>
+<p><strong>Module 7: Implementing DNS</strong></p>
+<p>This module describes name resolution for Windows operating system clients and Windows Server servers. It also covers installing and configuring a DNS Server service and its components.</p>
+<ul>
+  <li>Name Resolution for Windows Clients and Servers</li>
+  <li>Installing a DNS Server</li>
+  <li>Managing DNS Zones</li>
+</ul>
+<p><strong>Module 8: Implementing IPv6</strong></p>
+<p>This module discusses the features and benefits of IPv6, how IPv6 affects IPv4 networks, and how to integrate IPv6 into IPv4 networks by using various transition technologies</p>
+<ul>
+  <li>Overview of IPv6</li>
+  <li>IPv6 Addressing</li>
+  <li>Coexistence with IPv6</li>
+  <li>IPv6 Transition Technologies</li>
+</ul>
+<p><strong>Module 9: Implementing Local Storage</strong></p>
+<p>This module introduces several different storage technologies. It discusses how to implement the storage solutions in Windows Server 2012, and how to use the new Storage Spaces feature, which enables you to combine disks into pools that you can configure for automatic management.</p>
+<ul>
+  <li>Overview of Storage</li>
+  <li>Managing Disks and Volumes</li>
+  <li>Implementing Storage Spaces</li>
+</ul>
+<p><strong>Module 10: Implementing File and Print Services</strong></p>
+<p>This module discusses how to provide file and print resources with Windows Server 2012. It describes how to secure files and folders, how to protect previous versions of files and folders by using shadow copies, and how to give workers remote access to corporate files by implementing the new Work Folders role service. It also describes new network printing features that help manage the network printing environment.</p>
+<ul>
+  <li>Securing Files and Folders</li>
+  <li>Protecting Shared Files and Folders Using Shadow Copies</li>
+  <li>Configuring Network Printing</li>
+</ul>
+<p><strong>Module 11: Implementing Group Policy</strong></p>
+<p>This module provides an overview of Group Policy and provides details about how to implement Group Policy.</p>
+<ul>
+  <li>Overview of Group Policy</li>
+  <li>Group Policy Processing</li>
+  <li>Implementing a Central Store for Administrative Templates</li>
+</ul>
+<p><strong>Module 12: Securing Windows Servers Using Group Policy Objects</strong></p>
+<p>This module describes Windows Server 2012 operating system security. It covers how to identify security threats, plan your strategy to mitigate security threats, and secure your Windows Server 2012 infrastructure.</p>
+<ul>
+  <li>Security Overview for Windows Operating Systems</li>
+  <li>Configuring Security Settings</li>
+  <li>Restricting Software</li>
+  <li>Configuring Windows Firewall with Advanced Security</li>
+</ul>
+<p><strong>Module 13: Implementing Server Virtualization with Hyper-V</strong></p>
+<p>This module describes virtualization technologies available on Windows, specifically focusing on the Hyper-V role in Windows Server 2012 and Windows Server 2012 R2. It covers the components of the Hyper-V role, configuring and deploying the role, in addition to and how to configure and manage key components of a Hyper-V implementation, such as Storage and Networking.</p>
+<ul>
+  <li>Overview of Virtualization Technologies</li>
+  <li>Implementing Hyper-V</li>
+  <li>Managing Virtual Machine Storage</li>
+  <li>Managing Virtual Networks</li>
+</ul>

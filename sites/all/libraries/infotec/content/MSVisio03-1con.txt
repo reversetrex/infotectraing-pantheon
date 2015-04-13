@@ -1,0 +1,36 @@
+<p><strong> Unit 1: An Overview of Visio </strong></p>
+<ul>
+  <li> Visio Documents </li>
+  <li>Elements of the Visio Window </li>
+  <li>Visio Navigation </li>
+</ul>
+<p><strong> Unit 2: Basic Skills: Creating a Directional Map </strong></p>
+<ul>
+  <li> Using Stencils </li>
+  <li>Saving Files </li>
+  <li>Manipulating Shapes </li>
+  <li>Adding Text </li>
+  <li>Stacking Order </li>
+</ul>
+<p><strong> Unit 3: Basic Diagram Skills </strong></p>
+<ul>
+  <li> Enhancing Productivity </li>
+  <li>Managing Shapes </li>
+  <li>Applying Styles </li>
+</ul>
+<p><strong> Unit 4: Flowcharts </strong></p>
+<ul>
+  <li> Connecting Shapes </li>
+  <li>Page Styles </li>
+  <li>Cross-functional Flowcharts </li>
+</ul>
+<p><strong> Unit 5: Organization Charts </strong></p>
+<ul>
+  <li> Creating an Organization Chart </li>
+  <li>Organization Chart Data Wizard </li>
+</ul>
+<p><strong> Unit 6: Floor Plan </strong></p>
+<ul>
+  <li> Creating an Office Layout </li>
+  <li>Drawing Scale </li>
+</ul>

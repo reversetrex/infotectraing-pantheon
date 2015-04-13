@@ -1,0 +1,143 @@
+<p><strong>Introduction to Oracle Database 11g</strong></p>
+<ul>
+  <li>Overview of the features of Oracle Database 11g</li>
+  <li>Basic concepts of a relational database</li>
+  <li>SQL statement categories</li>
+  <li>Describe the demo data used in this course</li>
+  <li>Log onto the database </li>
+</ul>
+<p><strong>The SQL SELECT Statement</strong></p>
+<ul>
+  <li>Understand the capabilities of SQL SELECT statements</li>
+  <li>Generate a basic report from a query</li>
+  <li>Select All Columns</li>
+  <li>Select Specific Columns</li>
+  <li>Change Column Heading Defaults</li>
+  <li>Arithmetic Operators</li>
+  <li>Understand Operator Precedence</li>
+  <li>Select Expressions and Literals</li>
+  <li>Use the DESCRIBE command to display the structure of a table or view</li>
+</ul>
+<p><strong>Restricting and Sorting Data</strong></p>
+<ul>
+  <li>Write a SELECT statement that contains a WHERE clause to limit the rows retrieved</li>
+  <li>Use comparison operators and logical operators in a WHERE clause</li>
+  <li>Understand the rules of precedence for comparison and logical operators</li>
+  <li>Use character string literals in the WHERE clause</li>
+  <li>Use an ORDER BY clause to sort the output of a SELECT statement</li>
+  <li>Sort output in descending and ascending order</li>
+</ul>
+<p><strong>Single-Row Functions</strong></p>
+<ul>
+  <li>Describe the differences between single row and multiple row functions</li>
+  <li>Manipulate strings with character functions in the SELECT and WHERE clauses</li>
+  <li>Manipulate numbers with the ROUND, TRUNC and MOD functions</li>
+  <li>Perform arithmetic with date data</li>
+  <li>Manipulate dates with date functions</li>
+</ul>
+<p><strong>Conversion Functions and Conditional Expressions</strong></p>
+<ul>
+  <li>Describe implicit and explicit data type conversion</li>
+  <li>The TO_CHAR, TO_NUMBER, and TO_DATE conversion functions</li>
+  <li>Nested function calls</li>
+  <li>Use the NVL, NULLIF, and COALESCE functions </li>
+  <li>Use conditional logic in a SELECT statement</li>
+</ul>
+<p><strong>Group Functions</strong></p>
+<ul>
+  <li>Use aggregate functions in SELECT statements </li>
+  <li>Use the GROUP BY clause to create queries that separate data into groups </li>
+  <li>Use the HAVING clause to create queries that exclude groups of data</li>
+</ul>
+<p><strong>Access Multiple Tables in a Single  Query</strong></p>
+<ul>
+  <li>Write SELECT statements to access data from more than one table</li>
+  <li>Natural Joins</li>
+  <li>Outer Joins</li>
+  <li>Self Joins</li>
+  <li>Non-equi Joins</li>
+</ul>
+<p><strong>Sub-queries</strong></p>
+<ul>
+  <li>Describe how sub-queries are used</li>
+  <li>Define sub-queries</li>
+  <li>Types of sub-queries</li>
+  <li>Single-row and multiple-row sub-queries</li>
+  <li>Correlated sub-queries</li>
+</ul>
+<ul>
+  <li>Multiple-column sub-query</li>
+  <li>Scalar sub-queries in SQL</li>
+  <li>Update and delete rows using correlated sub-queries</li>
+  <li>The EXISTS and NOT EXISTS operators</li>
+  <li>Define a sub-query using the WITH clause</li>
+</ul>
+<p><strong>SET Operators</strong></p>
+<ul>
+  <li>Describe SET operators</li>
+  <li>Use SET operators to combine multiple queries into a single output set</li>
+  <li>Control the order of rows returned with SET operators</li>
+</ul>
+<p><strong>BREAK HERE FOR PART 2:</strong></p>
+<p><strong>Manipulating Data</strong></p>
+<ul>
+  <li>Describe each DML statement</li>
+  <li>Insert rows into a table with the INSERT statement</li>
+  <li>Change rows in a table using the UPDATE statement</li>
+  <li>Delete rows from a table with the DELETE statement</li>
+  <li>Save and discard changes with the COMMIT and ROLLBACK statements</li>
+  <li>Explain transaction processing and read consistency</li>
+</ul>
+<p><strong>DDL Statements</strong></p>
+<ul>
+  <li>Oracle 11g data types </li>
+  <li>Create a table</li>
+  <li>Define integrity constraints</li>
+</ul>
+<p><strong>Other Schema Objects</strong></p>
+<ul>
+  <li>Create and utilize views</li>
+  <li>Retrieve view information from the data dictionary</li>
+  <li>Create, maintain, and use sequences</li>
+  <li>Create and maintain indexes</li>
+  <li>Create, maintain and use synonyms</li>
+</ul>
+<p><strong>Administering Privileges</strong></p>
+<ul>
+  <li>System privileges verses object privileges</li>
+  <li>Grant privileges on tables</li>
+  <li>View privileges in the data dictionary</li>
+  <li>Grant roles</li>
+</ul>
+<p><strong>Managing Schema Objects</strong></p>
+<ul>
+  <li>Maintain constraints</li>
+  <li>Create indexes using CREATE INDEX statement</li>
+  <li>Create indexes using CREATE TABLE statement</li>
+  <li>Function-based indexes</li>
+  <li>Drop columns and set column UNUSED</li>
+  <li>Overview of FLASHBACK operations</li>
+  <li>External tables</li>
+</ul>
+<p><strong>The Data Dictionary </strong></p>
+<ul>
+  <li>Overview of the data dictionary hierarchy</li>
+  <li>Query table information</li>
+  <li>Query column information</li>
+  <li>View constraint information</li>
+  <li>Find information on views</li>
+  <li>Query sequence information</li>
+  <li>View synonyms</li>
+  <li>Add comments</li>
+</ul>
+<p><strong>Manipulating Large Data Sets</strong></p>
+<ul>
+  <li>Multi-table inserts</li>
+  <li>Merge rows in a table</li>
+  <li>Track changes to data over a period of time</li>
+</ul>
+<p><strong>Regular  Expression Support</strong></p>
+<ul>
+  <li>List the benefits of using regular expressions</li>
+  <li>Overview of regular expression to search for, match, and replace strings</li>
+</ul>

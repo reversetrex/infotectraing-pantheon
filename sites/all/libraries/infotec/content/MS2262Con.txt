@@ -1,0 +1,42 @@
+<p><strong> Unit 1: Introduction to Desktop Application Support </strong></p>
+<ul>
+  <li> Overview of Desktop Application Support </li>
+  <li> Overview of the Windows System Architecture </li>
+  <li> Overview of Application Installation </li>
+</ul>
+<p><strong> Unit  2: Introduction to Troubleshooting Applications </strong></p>
+<ul>
+  <li> Troubleshooting MS-DOS-Based and Win16 Applications </li>
+  <li> Troubleshooting Win32 Applications </li>
+  <li> Troubleshooting Application Compatibility Issues </li>
+  <li> Troubleshooting Security Issues Related to Applications </li>
+</ul>
+<p><strong> Unit  3: Supporting Microsoft Internet Explorer </strong></p>
+<ul>
+  <li> Configuring General Settings </li>
+  <li> Configuring Security and Privacy Settings </li>
+  <li> Configuring Content Settings </li>
+  <li> Configuring Connectivity Settings </li>
+  <li> Configuring Program and Advanced Settings </li>
+  <li> Customizing Internet Explorer </li>
+</ul>
+<p><strong> Unit  4: Supporting Outlook Express </strong></p>
+<ul>
+  <li> Configuring Outlook Express for Email </li>
+  <li> Managing Outlook Express Data </li>
+  <li> Configuring Outlook Express for Newsgroups </li>
+</ul>
+<p><strong> Unit  5: Supporting Microsoft Office </strong></p>
+<ul>
+  <li> Introduction to Supporting Microsoft Office </li>
+  <li> Supporting Office Installation </li>
+  <li> Supporting an Upgrade </li>
+  <li> Managing Office Security and Recoverability </li>
+  <li> Managing Office Language Features </li>
+</ul>
+<p><strong> Unit  6: Supporting Microsoft Outlook </strong></p>
+<ul>
+  <li> Configuring Outlook </li>
+  <li> Managing Outlook Data </li>
+  <li> Troubleshooting Outlook </li>
+</ul>

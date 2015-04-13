@@ -1,0 +1,14 @@
+<ul>
+  <li>Cloud computing concepts, models and Terminology</li>
+  <li>Disk Storage Systems</li>
+  <li>Storage Networking</li>
+  <li>Network Infrastructure</li>
+  <li>Virtualization Components</li>
+  <li>Virtualization and the Cloud</li>
+  <li>Network Management</li>
+  <li>Performance Tuning</li>
+  <li>Systems Management</li>
+  <li>Testing and Troubleshooting</li>
+  <li>Security in the Cloud</li>
+  <li>Business Continuity and  Disaster Recovery</li>
+</ul>

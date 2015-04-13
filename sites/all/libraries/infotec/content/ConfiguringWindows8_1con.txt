@@ -1,0 +1,338 @@
+  <h2>Session 1</h2>
+    <h3>Section A: Introducing Windows 8 and 8.1</h3>
+    <ul>
+      <li>New Interface for Windows 7 and Earlier</li>
+      <li>Basic Features and Upgrades</li>
+      <li>Windows 8 Start Screen and Desktop</li>
+      <li>Windows 8 Start Button</li>
+      <li>Configuring Windows 8.1</li>
+      <li>About Exam 70-687</li>
+      <li>Exam Preparation Tips</li>
+    </ul>
+    <h3>Section B: Windows 8.1 Editions and Features</h3>
+    <ul>
+      <li>Windows 8.1 Editions</li>
+      <li>Windows 8.1 Feature Comparison</li>
+      <li>Feature Requirements</li>
+      <li>Recommended Minimum Hardware</li>
+      <li>Installation Options</li>
+      <li>Upgrade Options</li>
+      <li>Upgrade Paths</li>
+      <li>Windows 8.1 Activation</li>
+      <li>Volume Activation Options</li>
+    </ul>
+    <h3>Section C: Windows 8.1 Drivers</h3>
+    <ul>
+      <li>Device Driver Compatibility</li>
+      <li>32-Bit and 64-Bit Device Drivers</li>
+      <li>Windows Compatibility Center</li>
+      <li>Windows 8.1 Upgrade Assistant</li>
+      <li>Search for Compatible Drivers</li>
+      <li>Finding Display Adapters</li>
+      <li>Finding Wireless Adapters</li>
+      <li>Finding Unknown Adapters</li>
+    </ul>
+    <h3>Section D: Windows Apps</h3>
+    <ul>
+      <li>Application Types</li>
+      <li>Windows Store Apps</li>
+      <li>Application Compatibility</li>
+      <li>Application Testing</li>
+      <li>msiexec.exe</li>
+      <li>Windows ADK</li>
+      <li>Application Compatibility Toolkit</li>
+      <li>Compatibility Administrator</li>
+      <li>Compatibility Modes</li>
+      <li>Creating a Shim</li>
+    </ul>
+    <h3>Section E: Windows 8.1 Installation</h3>
+    <ul>
+      <li>Windows To Go</li>
+      <li>Install to VHD</li>
+      <li>Windows 8.1 Installation Demo</li>
+      <li>Personalize and Settings</li>
+      <li>Set Up a Microsoft Account</li>
+      <li>Install Additional Windows Features</li>
+      <li>Add a Language</li>
+    </ul>
+    <h3>Section F: Windows Migration and Transfers</h3>
+    <ul>
+      <li>Migrate User Profiles and Data</li>
+      <li>Windows Easy Transfer</li>
+      <li>User State Migration Tool</li>
+      <li>Windows 8.1 User Profiles</li>
+      <li>User Profile Types</li>
+      <li>User Profile Versions</li>
+      <li>Profile Configuration</li>
+      <li>User Profile Policies</li>
+      <li>Configure Folder Locations</li>
+    </ul>
+    <h3>Section G: Driver Management</h3>
+    <ul>
+      <li>Driver Installation</li>
+      <li>Update Drivers</li>
+      <li>Disable  Drivers</li>
+      <li>Roll Back Drivers</li>
+      <li>Troubleshoot Driver Issues</li>
+      <li>Configure Driver Settings</li>
+      <li>Signed vs. Unsigned Drivers</li>
+      <li>Manage Driver Packages</li>
+    </ul>
+  <h2>Session 2</h2>
+    <h3>Section A: Windows Installer</h3>
+    <ul>
+      <li>Install Applications</li>
+      <li>Install with Various Switches</li>
+      <li>Repair Applications</li>
+      <li>Uninstall and Reinstall</li>
+      <li>Configure Default Program Settings</li>
+      <li>Change AutoPlay Settings</li>
+      <li>Set Program Access and Computer Defaults</li>
+      <li>Associate a File Type with a Program</li>
+    </ul>
+    <h3>Section B: Windows Store</h3>
+    <ul>
+      <li>Windows Store Applications</li>
+      <li>Windows Store Application Settings</li>
+      <li>Use Windows Store</li>
+      <li>Manage Access to the Windows Store</li>
+      <li>Update Applications</li>
+      <li>Turn Off Automatic Download and Install</li>
+      <li>Uninstall Applications</li>
+    </ul>
+    <h3>Section C: Restricting Application Access</h3>
+    <ul>
+      <li>Application Restrictions</li>
+      <li>Software Restriction Policies</li>
+      <li>AppLocker</li>
+      <li>Configure Rule Enforcement</li>
+      <li>Automatically Generate Rules</li>
+      <li>Manage Removable Device Access</li>
+      <li>Assigned Access</li>
+    </ul>
+    <h3>Section D: Internet Explorer</h3>
+    <ul>
+      <li>Internet Explorer Configuration</li>
+      <li>Manage Add-Ons</li>
+      <li>Configure Downloads</li>
+      <li>Manage Security and Privacy</li>
+      <li>Compatibility View, Internet Options</li>
+    </ul>
+    <h3>Section E: Understanding Hyper-V</h3>
+    <ul>
+      <li>Hyper-V in Windows 8.1</li>
+      <li>Uses of Client Hyper-V</li>
+      <li>Understand VHDs</li>
+      <li>Use Differencing Disks</li>
+      <li>Suggestions for VHDs</li>
+      <li>Use Checkpoints</li>
+      <li>Checkpoint Details</li>
+      <li>Suggestions for Checkpoints</li>
+    </ul>
+    <h3>Section F: Use Hyper-V</h3>
+    <ul>
+      <li>Install Hyper-V</li>
+      <li>Hyper-V Manager</li>
+      <li>Configure Virtual Machine Settings</li>
+      <li>Install Integration Services</li>
+      <li>Create and Manage Checkpoints</li>
+      <li>Virtual Switch Manager</li>
+      <li>Move Virtual Hard Disk Storage</li>
+    </ul>
+    <h3>Section G: Uninstall and Disable</h3>
+    <ul>
+      <li>Uninstall Applications Automatically</li>
+      <li>Manually Uninstall</li>
+      <li>Remove Features</li>
+      <li>Commandlets Used to Work with Features</li>
+      <li>Disable Features</li>
+    </ul>
+  <h2>Session 3</h2>
+    <h3>Section A: Windows 8 Networking</h3>
+    <ul>
+      <li>Domain Join</li>
+      <li>Authentication vs. Authorization</li>
+      <li>Authentication Methods</li>
+      <li>Biometrics</li>
+    </ul>
+    <h3>Section B: Configuring IP Settings</h3>
+    <ul>
+      <li>Picture Password</li>
+      <li>Configure Authentication Policies</li>
+      <li>User Rights</li>
+      <li>Groups and Domain Authentication</li>
+      <li>User Account Control</li>
+    </ul>
+    <h3>Section C: Network Services and Settings</h3>
+    <ul>
+      <li>Connect to a Network</li>
+      <li>Configure Network Locations</li>
+      <li>Public vs. Private Network Settings</li>
+      <li>View IP Settings</li>
+      <li>Configure Dynamic or Static IP Addresses</li>
+      <li>Test IP Settings</li>
+      <li>Configure DNS and WINS</li>
+      <li>Connect to a Wireless Network</li>
+      <li>Configure Wireless Network Profiles</li>
+      <li>Manage Preferred Wireless Networks</li>
+      <li>Configure Network Adaptor</li>
+      <li>Location-Aware Printing</li>
+    </ul>
+    <h3>Section D: Windows Firewall</h3>
+    <ul>
+      <li>Configure Windows Firewall</li>
+      <li>Allow App through Firewall</li>
+      <li>Restrict Access</li>
+      <li>Windows Firewall with Advanced Security</li>
+      <li>Inbound Rules</li>
+      <li>Outbound Rules</li>
+      <li>Windows Firewall Properties</li>
+    </ul>
+    <h3>Section E: Security</h3>
+    <ul>
+      <li>Connection Security Rules</li>
+      <li>Endpoint Rules</li>
+      <li>Choose Authentication Methods</li>
+      <li>Credential Manager</li>
+      <li>Network Discovery</li>
+    </ul>
+    <h3>Section F: Remote Management</h3>
+    <ul>
+      <li>Configure Remote Management</li>
+      <li>Microsoft Management Console</li>
+      <li>Remote Server Administration Tools</li>
+      <li>Remote Desktop</li>
+      <li>Remote Assistance</li>
+    </ul>
+    <h3>Section G: PowerShell</h3>
+    <ul>
+      <li>PowerShell</li>
+      <li>Commands in PowerShell</li>
+      <li>Remote PowerShell Features</li>
+      <li>PowerShell ISE</li>
+    </ul>
+  <h2>Session 4</h2>
+    <h3>Section A: Virtual Private Networking</h3>
+    <ul>
+      <li>VPN Introduction</li>
+      <li>Configure VPN Connections</li>
+      <li>Windows 8.1 VPN Protocols</li>
+      <li>Configure VPN Authentication</li>
+      <li>VPN Optional Parameters</li>
+      <li>Wireless Broadband Features</li>
+    </ul>
+    <h3>Section B: Remote Access Security</h3>
+    <ul>
+      <li>Remote Desktop Connection Client</li>
+      <li>Setting Up Remote Authentication</li>
+      <li>VPN Connections and Authentication</li>
+    </ul>
+    <h3>Section C: Mobile Settings</h3>
+    <ul>
+      <li>Configure Offline Files</li>
+      <li>Configure Sync Options</li>
+      <li>Configure Power Policy</li>
+      <li>Configure Wi-Fi Direct</li>
+      <li>Configure Windows To Go</li>
+    </ul>
+    <h3>Section D: Mobile Device Security</h3>
+    <ul>
+      <li>Configure BitLocker</li>
+      <li>Encrypt Mobile Drives</li>
+      <li>Recovery Key</li>
+      <li>Configure Start Up Storage</li>
+    </ul>
+    <h3>Section E: Windows Updates</h3>
+    <ul>
+      <li>Windows Update Settings</li>
+      <li>Apply Updates</li>
+      <li>Manage Update History</li>
+      <li>Rollback Updates</li>
+      <li>Update Windows Store Apps</li>
+    </ul>
+    <h3>Section F: Configure Local Storage</h3>
+    <ul>
+      <li>Create Disk Volumes</li>
+      <li>Work with Storage Spaces</li>
+      <li>HomeGroups</li>
+      <li>Shared Folders</li>
+      <li>Configure NTFS Permissions</li>
+      <li>Configure File Access Auditing</li>
+      <li>Encrypt Content to Secure Data</li>
+      <li>Disk Quotas</li>
+      <li>Libraries</li>
+      <li>Configure Shared Printers</li>
+      <li>Set Up OneDrive</li>
+    </ul>
+    <h3>Section G: Event Viewer and Task Manager</h3>
+    <ul>
+      <li>Event Viewer</li>
+      <li>Filter Event Logs</li>
+      <li>Save Logs</li>
+      <li>Event Subscriptions</li>
+      <li>Task Manager</li>
+      <li>Customize the Interface</li>
+      <li>Task Management</li>
+    </ul>
+    <h3>Section H: Performance Monitoring</h3>
+    <ul>
+      <li>Performance Monitor</li>
+      <li>Create Data Collector Set</li>
+      <li>Optimize Network Performance</li>
+      <li>Configure Indexing Options</li>
+    </ul>
+  <h2>Session 5</h2>
+    <h3>Section A: Windows Backup</h3>
+    <ul>
+      <li>Data Backup Needs</li>
+      <li>Windows 8.1 Backup Features</li>
+      <li>Windows Startup Process</li>
+      <li>Advanced Startup Options</li>
+      <li>Boot Configuration Data Store</li>
+      <li>BCD Settings</li>
+      <li>Startup and Recovery</li>
+      <li>Msconfig</li>
+      <li>Bcdedit</li>
+    </ul>
+    <h3>Section B: System Backup</h3>
+    <ul>
+      <li>Create a System Backup</li>
+      <li>Back Up Specific Files</li>
+      <li>Use File History to Create a Backup</li>
+      <li>View Stored Backup Image</li>
+      <li>Configure Cloud-Based Backup</li>
+    </ul>
+    <h3>Section C: Recovery Drives</h3>
+    <ul>
+      <li>Create a Recovery Drive</li>
+      <li>Troubleshoot a Recovery Drive</li>
+    </ul>
+    <h3>Section D: System Restore</h3>
+    <ul>
+      <li>Configure System Restore Settings</li>
+      <li>Create System Restore Points</li>
+      <li>Revert to a Restore Point</li>
+      <li>System Refresh</li>
+      <li>System Recycle</li>
+      <li>Perform a Driver Rollback</li>
+    </ul>
+    <h3>Section E: Restore Files and Folders</h3>
+    <ul>
+      <li>Configure File History</li>
+      <li>Restore Personal Files</li>
+      <li>Restore Previous Versions of Folders</li>
+      <li>Recover Files from OneDrive</li>
+    </ul>
+    <h3>Section F: Windows PowerShell ISE</h3>
+    <ul>
+      <li>PowerShell ISE</li>
+      <li>Create Scripts with PowerShell ISE</li>
+      <li>Save Script and Script Permissions</li>
+      <li>PowerShell Execution Policies</li>
+      <li>PowerShell Commands</li>
+      <li>Tasks and Processes</li>
+      <li>Work with Files in PowerShell ISE</li>
+      <li>Configure Settings</li>
+      <li>Import a Start Screen Layout</li>
+      <li>PowerShell ISE Conclusion</li>
+    </ul>

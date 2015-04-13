@@ -1,0 +1,85 @@
+<p><strong> Unit 1: Advanced TCP/IP <br>
+  </strong> TCP/IP Concepts<br>
+  Subnet Masks (VLSM)<br>
+  IP Datagrams<br>
+  ICMP Messages<br>
+  TCP Headers<br>
+  UDP Headers<br>
+  Packet Fragmentation<br>
+IPv6</p>
+<p><strong> Unit 2: IPSec<br>
+  </strong> IPSec Concepts<br>
+  Encryption, Authentication and IPSec<br>
+  IPSec Implementation<br>
+  IPSec Transport Mode<br>
+  IPSec Tunnel Mode<br>
+  Identify AH &amp; ESP captures in NetMon<br>
+IPv6 Security Features, and use of IPSec</p>
+<p><strong> Unit 3: Hardening Linux Computers <br>
+  </strong> Linux Administration<br>
+  Open Source Issues/Concerns<br>
+  Linux Security Basics<br>
+  Bastille<br>
+  Hardening Linux<br>
+  Linux User Authentication<br>
+  Hardening NFS<br>
+  Hardening NIS<br>
+  Logging<br>
+Tripwire</p>
+<p><strong> Unit 4: Hardening Windows Computers <br>
+  </strong> Windows 2000 Infrastructure Security<br>
+  Windows 2000 Authentication<br>
+  Windows 2000 User and Group Security<br>
+  Windows 2000 Resource Security<br>
+  Windows 2000 Auditing and Logging<br>
+  Windows 2000 EFS<br>
+  Windows 2000 Network Security<br>
+  Windows XP User and Resource Security<br>
+Windows Client Firewalls</p>
+<p><strong> Unit 5: Hardening Routers and using Access </strong></p>
+<p> Control Lists<br>
+  Describe the ARP and Routing Processes<br>
+  Routing Protocol Security<br>
+  Routing Tables<br>
+  Fundamental Router Hardening<br>
+  Access and Authentication Control<br>
+  Auditing/Logging<br>
+  Access Control List Creation<br>
+Access Control List Implementation</p>
+<p><strong> Unit 6: Contingency Planning Contingency</strong> Planning Requirements<br>
+  Backup systems (Tape/RAID/Clusters)<br>
+  Backup Media Storage and Security<br>
+  Electrical Systems and Controls<br>
+  Generators<br>
+  Backup and Recovery Policy<br>
+  Plan Testing and Implementation </p>
+<p><strong> Unit 7: Security on the Internet and the WWW <br>
+  </strong> Components of the Internet<br>
+  The Weak Points of the Internet<br>
+  DNS<br>
+  The Techniques of Web Hacking<br>
+  Securing IIS<br>
+  Securing Apache<br>
+  Securing Internet Explorer<br>
+  Securing Outlook (Outlook Express)<br>
+  Viruses, Worms, and Trojan Horses<br>
+  Email Attacks<br>
+  Methods of Attacking Users <br>
+DOS/DDOS</p>
+<p><strong> Unit 8: Executing Attack TechniquesNetwork</strong> Reconnaissance <br>
+  Mapping the Network <br>
+  Sweeping the Network <br>
+  Scanning the Network <br>
+  Trojan Horse Use<br>
+  Gaining Control over the System<br>
+  Record Keystrokes <br>
+  Gain and Crack Encrypted Passwords<br>
+  Reveal Hidden Passwords <br>
+  Social Engineering<br>
+  Gain Unauthorized Access<br>
+  Hide Evidence of an Attack<br>
+  Breakdown of Mitnick Attack<br>
+  Perform a Denial of Service<br>
+  Compromise a Network </p>
+<br>
+<p>&nbsp; </p>

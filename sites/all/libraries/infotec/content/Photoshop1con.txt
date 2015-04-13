@@ -1,0 +1,32 @@
+<p><strong> Unit 1: Exploring Photoshop </strong></p>
+<ul>
+  <li> Topic 1A: Explore the Photoshop Environment </li>
+  <li>Topic 1B: Customize the Photoshop Workspace with Presets </li>
+  <li>Topic 1C: Customize Menus </li>
+  <li>Topic 1D: Explore Adobe Bridge </li>
+  <li>Topic 1E: Work with Photoshop File Properties</li>
+</ul>
+<p><strong> Unit 2: Painting and Retouching Images </strong></p>
+<ul>
+  <li> Topic 2A: Paint an Object </li>
+  <li>Topic 2B: Retouch an Image </li>
+  <li>Topic 2C: Create a Gradient </li>
+  <li>Topic 2D: Create a Pattern </li>
+  <li>Topic 2E: Create a Vector Object </li>
+  <li>Topic 2F: Apply Metadata and Keywords </li>
+  <li>Topic 2G: Output to Print </li>
+</ul>
+<p><strong> Unit 3: Enhancing an Image </strong></p>
+<ul>
+  <li> Topic 3A: Adjust the Tonal Range of an Image </li>
+  <li>Topic 3B: Use the Exposure Dialog Box </li>
+  <li>Topic 3C: Work with Filters</li>
+</ul>
+<p><strong> Unit 4: Working with Layers and Selections </strong></p>
+<ul>
+  <li> Topic 4A: Create and Use Layers </li>
+  <li>Topic 4B: Create and Use Smart Objects </li>
+  <li>Topic 4C: Create Layer Styles </li>
+  <li>Topic 4D: Work with Multiple Layers </li>
+  <li>Topic 4E: Create and Modify Selections</li>
+</ul>

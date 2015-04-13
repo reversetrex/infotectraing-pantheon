@@ -1,0 +1,2 @@
+<p><strong>After completing this course, students will be able to:</strong></p>
+<blockquote>Explore  every new aspect that will be visible to an end user in SharePoint 2010.</blockquote>

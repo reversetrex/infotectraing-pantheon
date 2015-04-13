@@ -1,0 +1,7 @@
+<p><strong>Module 1: Secure Remote Access with IAG 2007</strong> - This module explains how to configure, use and customize IAG 2007 to provide secure remote access to applications and data over SSL-VPN.</p>
+
+<p><strong>Module 2: Network Edge Protection with ISA 2006</strong> - This module explains how to configure and use ISA 2006 for secure remote access, branch office security and  internet access protection.</p>
+
+<p><strong>Module 3: Anti-Malware Protection for Clients with  Forefront Client Security</strong> - This module explains how to configure and use Forefront Client Security to protect business desktops,  laptops, and servers from emerging threats, such as spyware and rootkits, as well as viruses and other traditional attacks.</p>
+
+<p><strong>Module 4: Messaging and Collaboration System Threat Protection with Forefront Server Security</strong> - This module explains how to configure and use Forefront Security for  Exchange Server and Forefront Security for SharePoint integrate to provide comprehensive, flexible protection for Exchange and SharePoint against viruses and other types of malware.</p>

@@ -1,0 +1,24 @@
+<p><strong>Lesson 1: Exploring the Word Environment</strong></p>
+  <ul>
+    <li>Explore the User Interface</li>
+    <li>Work with the Ribbon</li>
+    <li>Work with Contextual Tabs</li>
+    <li>Use the Word Galleries</li>
+    <li>Customize the Word Interface</li>
+  </ul>
+<p><strong>Lesson 2: Creating Professional-Looking Documents</strong></p>
+  <ul>
+    <li>Apply Styles</li>
+    <li>Apply Document Themes</li>
+    <li>Add Building Blocks</li>
+    <li>Work with Illustrations</li>
+    <li>Build an Equation</li>
+    <li>Add Citations and a Bibliography</li>
+  </ul>
+<p><strong>Lesson 3: Finalizing Documents</strong></p>
+  <ul>
+    <li>Compare Reviewed Documents</li>
+    <li>Inspect Documents</li>
+    <li>Apply Digital Signatures</li>
+    <li>Save a Document</li>
+  </ul>

@@ -1,0 +1,10 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Design and implement applications taking  advantage of the Windows 7 taskbar, shell libraries and other UI improvements.</li>
+  <li>Integrate location-based and general sensors into real-world applications.</li>
+  <li>Augment applications with multi-touch support.</li>
+  <li>Integrate high-end graphics support into native Windows applications.</li>
+  <li>Design backwards-compatible applications for Windows 7 and earlier versions of the Windows operating system.</li>
+  <li>Improve application and system reliability and performance by using Windows 7 background services, instrumentation, performance and troubleshooting  utilities.</li>
+</ul>

@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Develop strategies for caching, session state, as well as design for high  performance sites by limiting page size and iteration.</li>
+  <li>Determine the most suitable presentation method, visual elements, programmatic  objects and multilingual strategy which meets the design objectives.</li>
+  <li>Evaluate available data access and storage methods and determine the  appropriate implementation for the application requirements.</li>
+  <li>Identify the pros and cons of various data capture options and specify the  most effective method or combination of methods for capturing user input.</li>
+  <li>Evaluate the use and implementation of SharePoint artifacts and determine  which artifacts best meet the needs of the application requirements.</li>
+  <li>Design processing systems to get work done in the solution.</li>
+  <li>Create an effective strategy for implementation and deployment of custom  solutions in both development and production environments.</li>
+  <li>Create a development strategy to allow multiple developers and administrators  to work together.</li>
+  <li>Devise a strategy for developing and deploying upgrades over time as  the solution evolves.</li>
+  <li>Develop an information  architecture strategy that will support flexibility and growth and a navigation  strategy that fits on top of this information architecture.</li>
+  <li>Plan a comprehensive branding strategy and determine the necessary application  elements required to support that strategy.</li>
+  <li>Design and implement a security approach which supports both code access and  end-user functionality.</li>
+  <li>Design an effective strategy for optimizing page render times and data access  methods within SharePoint 2010.</li>
+  <li>Determine the appropriate use of unit and integration tests within SharePoint  and design an effective strategy for insuring maximum code reliability.</li>
+</ul>

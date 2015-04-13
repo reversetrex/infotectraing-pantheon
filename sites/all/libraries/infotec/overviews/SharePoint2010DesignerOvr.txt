@@ -1,0 +1,1 @@
+This three-day instructor-led course uses two books.  You will use Microsoft Windows SharePoint Designer 2010 to create and modify a SharePoint site.  You will extend a SharePoint site by including server-side controls and administering a SharePoint site.

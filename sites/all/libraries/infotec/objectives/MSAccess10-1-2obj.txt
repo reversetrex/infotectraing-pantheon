@@ -1,0 +1,16 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ol>
+  <li>Identify the components of the Microsoft Access 2010 environment.</li>
+  <li>Identify the components of a database.</li>
+  <li>Organize data in tables.</li>
+  <li>View data in tables.</li>
+  <li>Query a database.</li>
+  <li>Design forms.</li>
+  <li>Generate reports.</li>
+  <li>Streamline data entry and maintain data integrity.</li>
+  <li>Join tables to retrieve data from unrelated tables.</li>
+  <li>Create flexible queries to display specified records, allow  for user-determined query criteria, and modify data using queries.</li>
+  <li>Improve forms.</li>
+  <li>Customize reports to organize the displayed information and produce specific print layouts.</li>
+  <li>Share data between Access and other applications.</li>
+</ol>

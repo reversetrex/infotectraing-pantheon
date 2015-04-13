@@ -1,0 +1,76 @@
+<p><strong>Module 1: Getting Started with Databases and Transact-SQL in SQL Server 2008</strong> - The student will be introduced to how client/server architecture works, and examine  the various database and business tasks that can be performed by using the  components of SQL Server 2008. The student will also be introduced to SQL  Server database concepts such as relational databases, normalization, and  database objects. In addition, the student will learn how to use T-SQL to query  databases and generate reports.</p>
+<ul>
+  <li>Overview of SQL Server 2008</li>
+  <li>Overview of SQL Server Databases</li>
+  <li>Overview and Syntax Elements of T-SQL</li>
+  <li>Working with T-SQL Scripts</li>
+  <li>Using T-SQL Querying Tools</li>
+</ul>
+
+<p><strong>Module 2: Querying and Filtering Data</strong> - The students will be introduced to the basic Transact-SQL (T-SQL) statements that are used for writing queries, filtering data, and formatting result sets.</p>
+<ul>
+  <li>Using the SELECT Statement</li>
+  <li>Filtering Data</li>
+  <li>Working with NULL Values</li>
+  <li>Formatting Result Sets</li>
+  <li>Performance Considerations for Writing Queries</li>
+</ul>
+
+<p><strong>Module 3: Grouping and Summarizing Data</strong> - The  students will learn to group and summarize data when generating reports in  Microsoft SQL Server 2008 by using aggregate functions and the COMPUTE clause.</p>
+<ul>
+  <li>Summarizing Data by Using Aggregate Functions</li>
+  <li>Summarizing Grouped Data</li>
+  <li>Ranking Grouped Data</li>
+  <li>Creating Crosstab Queries</li>
+</ul>
+
+<p><strong>Module 4: Joining Data from Multiple Tables</strong> - The students will learn to write joins to query multiple tables, as well as  limiting and combining result sets.</p>
+<ul>
+  <li>Querying Multiple Tables by Using Joins</li>
+  <li>Applying Joins for Typical Reporting Needs</li>
+  <li>Combining and Limiting Result Set</li>
+</ul>
+
+<p><strong>Module 5: Working with Subqueries</strong> - The  students will be introduced to basic and correlated subqueries and how these  compare with joins and temporary tables. The students will also be introduced  to using common table expressions in queries.</p>
+<ul>
+  <li>Writing Basic Subqueries</li>
+  <li>Writing Correlated Subqueries</li>
+  <li>Comparing Subqueries with Joins and Temporary Tables</li>
+  <li>Using Common Table Expressions</li>
+</ul>
+
+<p><strong>Module 6: Modifying Data in Tables</strong> - The  students will be able to modify the data in tables by using the INSERT, DELETE, and UPDATE statements. In addition, students will examine how transactions work  in a database, the importance of transaction isolation levels, and how to manage transactions.</p>
+<ul>
+  <li>Inserting Data into Tables</li>
+  <li>Deleting Data from Tables</li>
+  <li>Updating Data in Tables</li>
+  <li>Overview of Transactions</li>
+</ul>
+
+<p><strong>Module 7: Querying Metadata, XML, and Full-Text Indexes</strong> - The  students will learn to query semi-structured and unstructured data. The students will also learn how SQL Server 2008 handles XML data and will query  XML data. The students will also be introduced to full-text indexing in SQL  Server 2008.</p>
+<ul>
+  <li>Querying Metadata</li>
+  <li>Overview of XML</li>
+  <li>Querying XML Data</li>
+  <li>Overview of Full-Text Indexes</li>
+  <li>Querying Full-Text Indexes</li>
+</ul>
+
+<p><strong>Module 8: Using Programming Objects for Data Retrieval</strong> - The students will be introduced to user-defined functions and executing various  kinds of queries by using user-defined functions. The students will be introduced to SQL Server views that encapsulate data and present users with limited and relevant information. In addition, the students will be introduced  to SQL Server stored procedures and the functionalities of the various programming objects. The students will learn how to perform distributed queries and how SQL Server works with heterogeneous data such as databases, spreadsheets, and other servers.</p>
+<ul>
+  <li>Overview of Views</li>
+  <li>Overview of User-Defined Functions</li>
+  <li>Overview of Stored Procedures</li>
+  <li>Overview of Triggers</li>
+  <li>Writing Distributed Queries</li>
+</ul>
+
+<p><strong>Module 9: Using Advanced Querying Techniques</strong> - The students will be introduced to best practices for querying complex data. The students will also examine how to query complex table structures such as data stored in hierarchies and self-referencing tables. The students will analyze the recommended guidelines for executing queries and how to optimize query  performance.</p>
+
+<ul>
+  <li>Considerations for Querying Data</li>
+  <li>Working with Data Types</li>
+  <li>Cursors and Set-Based Queries</li>
+  <li>Dynamic SQL</li>
+  <li>Maintaining Query Files</li>
+</ul>

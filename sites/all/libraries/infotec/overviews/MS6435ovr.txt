@@ -1,0 +1,1 @@
+This five-day course will provide students with an understanding of how to design a Windows Server 2008 Network Infrastructure that meets business and technical requirements for network services.

@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Install and configure Windows Server 2012.</li>
+    <li>Describe AD DS.</li>
+    <li>Manage Active Directory objects.</li>
+    <li>Automate Active Directory administration.</li>
+    <li>Implement IPv4.</li>
+    <li>Implement Dynamic Host Configuration Protocol (DHCP).</li>
+    <li>Implement Domain Name System (DNS).</li>
+    <li>Implement IPv6.</li>
+    <li>Implement local storage.</li>
+    <li>Implement file and print services.</li>
+    <li>Implement Group Policy.</li>
+    <li>Secure Windows servers by using Group Policy Objects (GPOs).</li>
+    <li>Implement server virtualization by using Hyper-V.</li>
+</ul>

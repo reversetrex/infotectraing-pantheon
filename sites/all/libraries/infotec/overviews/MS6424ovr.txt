@@ -1,0 +1,1 @@
+This instructor-led course provides Active Directory Technology Specialists an introduction to Active Directory server roles in Windows Server 2008. The course is intended for entry level students who want to get familiar with the Active Directory server roles and their basic functionality.

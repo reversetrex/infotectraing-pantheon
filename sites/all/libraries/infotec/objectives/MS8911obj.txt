@@ -1,0 +1,11 @@
+<p>After  completing this course, students will be able to:</p>
+
+<ul>
+  <li>Identify the Hardware and Software requirements for the various Microsoft Dynamics CRM deployment scenarios.</li>
+  <li>Execute the pre-installation checklist requirements that must be in place before installing Microsoft Dynamics CRM Server.</li>
+  <li>Complete the Installation procedures for the Microsoft Dynamics CRM Server, Microsoft Dynamics CRM for Microsoft Office Outlook, and Microsoft Dynamics CRM E-mail Router.</li>
+  <li>Complete the Post-installation review that verifies the validity of the installation.</li>
+  <li>Complete several Post-installation tasks. This includes loading of sample data.</li>
+  <li>Upgrade a Microsoft Dynamics CRM v3.0 installation to 4.0.</li>
+  <li>Uninstall Microsoft Dynamics CRM 4.0.</li>
+</ul>

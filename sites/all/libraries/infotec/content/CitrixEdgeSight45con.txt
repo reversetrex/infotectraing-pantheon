@@ -1,0 +1,90 @@
+<p><strong>Provided is the topic outline for CTX-1800AI:</strong></p>
+<p><strong>Introduction to Citrix EdgeSight</strong></p>
+<ul>
+  <li>Identifying Features and Benefits </li>
+  <li>Identifying Primary Components </li>
+  <li>EdgeSight Architecture</li>
+</ul>
+<p><strong>Preparing to Install EdgeSight</strong></p>
+<ul>
+  <li>Planning an Implementation </li>
+  <li>Determining EdgeSight Server Deployment Options </li>
+  <li>Determining Pre-Installation Considerations </li>
+  <li>Implementing EdgeSight Core Dependencies </li>
+  <li>Implementing Database Dependencies </li>
+  <li>Installing and Configuring SQL Server 2000 Reporting Services </li>
+  <li>Installing and Configuring SQL Server 2005 Reporting Services </li>
+</ul>
+<p><strong>Installing and Configuring EdgeSight</strong></p>
+<ul>
+  <li>Installing and Configuring EdgeSight Server </li>
+  <li>Installing EdgeSight Agents </li>
+  <li>Configuring EdgeSight Agents </li>
+  <li>Navigating the EdgeSight Server Console </li>
+  <li>Managing Departments </li>
+  <li>Managing Agent Configurations </li>
+  <li>Managing Worker Configurations </li>
+  <li>Associating Configurations to Departments </li>
+  <li>Managing Devices</li>
+</ul>
+<p><strong>Advanced EdgeSight Configurations</strong></p>
+<ul>
+  <li>Creating Groups </li>
+  <li>Creating Users and Assigning Roles </li>
+  <li>Managing Alert Rule Configuration </li>
+  <li>Configuring Alert Actions </li>
+  <li>Viewing Alerts </li>
+  <li>Managing the Alert Console </li>
+  <li>Managing the Current Alerts List </li>
+  <li>Managing Alert Reports</li>
+</ul>
+<p><strong>Diagnosing Issues Using EdgeSight</strong></p>
+<ul>
+  <li>Reports Overview </li>
+  <li>Managing Reports </li>
+  <li>Modifying Existing Reports </li>
+  <li>Creating New Reports </li>
+  <li>Identifying Additional Report Resources </li>
+  <li>Managing Real-Time Reports </li>
+  <li>Capturing Remote Snapshot and Crash Reports </li>
+  <li>Configuring and Managing the Real-Time Dashboard </li>
+  <li>Analyzing Reports and Diagnosing the Environment </li>
+  <li>Use Case 1: Application Support </li>
+  <li>Use Case 2: Issue Resolution </li>
+  <li>Use Case 3: Device Health and Capacity Planning </li>
+  <li>Use Case 4: Presentation Server Farm Health </li>
+  <li>Debugging and Diagnosing EdgeSight </li>
+  <li>Issue 1: Agent Does Not Register with the Server </li>
+  <li>Issue 2: License Device Count Exceeded </li>
+  <li>Issue 3: License Server Issues </li>
+  <li>Issue 4: EdgeSight Consumes High Resources</li>
+</ul>
+<p><strong>Managing the EdgeSight Environment</strong></p>
+<ul>
+  <li>Managing Company Settings </li>
+  <li>Managing Categories </li>
+  <li>Managing Vendors </li>
+  <li>Managing Farm Authentication </li>
+  <li>Managing IP Ranges </li>
+  <li>Managing User Groups </li>
+  <li>Managing Server Settings </li>
+  <li>Managing Companies </li>
+  <li>Managing Data Upload </li>
+  <li>Managing Licensing </li>
+  <li>Managing Settings </li>
+  <li> Managing Services </li>
+  <li> Managing Data Maintenance </li>
+  <li>Managing Messages</li>
+</ul>
+<p><strong>Installing and Configuring EdgeSight for Load Testing</strong></p>
+<ul>
+  <li>Load Testing Overview </li>
+  <li>Describing the Functionality of Load Testing </li>
+  <li> Identifying Hardware and Software Requirements </li>
+  <li>Installing Load Testing </li>
+  <li>Creating Scripts </li>
+  <li>Managing and Organizing Scripts </li>
+  <li> Performing a Test </li>
+  <li>Analyzing Load Test Results </li>
+  <li> Setting Alarms </li>
+</ul>

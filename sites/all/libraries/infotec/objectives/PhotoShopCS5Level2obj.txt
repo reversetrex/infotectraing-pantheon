@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Use image-editing tools in Photoshop to manipulate and enhance the appearance of an image.</li>
+  <li>Create and edit vector paths.</li>
+  <li>Work with shape layers and masks.</li>
+  <li>Automate tasks in Adobe Photoshop.</li>
+  <li>Use the tools available in Adobe Photoshop to edit and export video files.</li>
+  <li>Work with other Adobe applications.</li>
+</ul>

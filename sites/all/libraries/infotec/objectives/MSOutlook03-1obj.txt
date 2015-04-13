@@ -1,0 +1,11 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>Identify the components of the Outlook environment and compose and respond to a simple message.</li>
+  <li>Compose messages.</li>
+  <li>Use folders to manage mail.</li>
+  <li>Schedule appointments.</li>
+  <li>Schedule meetings.</li>
+  <li>Manage contacts and contact information.</li>
+  <li>Create and edit tasks.</li>
+  <li>Create and edit notes.</li>
+</ul>

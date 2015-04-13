@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the new features of SQL Server 2008.</li>
+  <li>Manage SQL Server 2008.</li>
+  <li>Optimize SQL Server 2008.</li>
+  <li>Secure a SQL Server 2008 Database.</li>
+  <li>Develop databases with SQL Server 2008.</li>
+  <li>Create and maintain highly available SQL Server 2008 databases.</li>
+  <li>Create and use a SQL Server 2008 data warehouse.</li>
+  <li>Use SQL Server 2008 Reporting Services.</li>
+  <li>Use SQL Server 2008 Analysis Services.</li>
+</ul>

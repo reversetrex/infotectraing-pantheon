@@ -1,0 +1,1 @@
+This course prepares learners to install, administer and support Citrix Password manager 4.0. Students learn how to choose a central store, configure settings in the Access Suite Console, and configure and deploy agents.

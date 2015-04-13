@@ -1,0 +1,10 @@
+<p><strong>MS6419</strong>:</p>
+<p>Provides students with the knowledge and skills that are required to  manage accounts and resources, maintain server resources, monitor server  performance, and safeguard data in a Microsoft Windows Server 2008 environment.  This course covers the core skills required by anyone working with Windows  Server 2008 Servers.</p>
+<p><strong>MS6421</strong>:</p>
+<p>Students  will learn to implement and configure secure network access and implement fault  tolerant storage technologies. Students will gain an understanding of the  network technologies most commonly used with Windows Server 2008 and IP-enabled  networks. Students will also learn how to secure servers and maintain update  compliance.</p>
+<p><strong>MS6425:</strong></p>
+<p>Provides  Active Directory Technology Specialists with the knowledge and skills  to configure Active Directory Domain Services in a distributed environment,  implement Group Policies, perform backup and restore, and monitor and  troubleshoot Active Directory related issues.</p>
+<p><strong>MS6426:</strong></p>
+<p>Provides the  knowledge and skills that IT Professionals need to configure identity and  access solutions with Windows Server 2008 Active Directory.</p>
+<p><strong>MS6430:</strong></p>
+<p>This course is aimed at server  administrators and is not a “how-to” course; therefore, it has a significant  number of planning exercises with less focus on hands-on exercises than some  courses. The course content  and exercises direct you toward making decisions and providing guidance to  others. This course reflects the decision-making tasks that a server  administrator undertakes.</p>

@@ -1,0 +1,47 @@
+<p><strong> Unit 1: Getting Familiar with the Fireworks Environment </strong></p>
+<ul>
+  <li> Explore the Fireworks Environment </li>
+  <li>Examine the Types of Graphics </li>
+  <li>Arrange Panels in Fireworks </li>
+  <li>Navigate in Fireworks </li>
+</ul>
+<p><strong> Unit 2: Creating Vector Graphics </strong></p>
+<ul>
+  <li> Create Graphics Using Vector Drawing Tools </li>
+  <li>Create Basic Shapes </li>
+  <li>Modify Vector Graphics </li>
+</ul>
+<p><strong> Unit 3: Transforming Vector Images and Applying Live Filters </strong></p>
+<ul>
+  <li> Combine Shapes </li>
+  <li>Create a Layer </li>
+  <li>Use Rulers, Grids, and Guides </li>
+  <li>Apply Effects to Vector Images </li>
+</ul>
+<p><strong> Unit 4: Enhancing Bitmap Images </strong></p>
+<ul>
+  <li> Create Bitmap Images </li>
+  <li>Edit Bitmap Images </li>
+  <li>Apply Live Filters to Bitmap Images </li>
+</ul>
+<p><strong> Unit 5: Adding Text to a Web Page </strong></p>
+<ul>
+  <li> Create and Format Text </li>
+  <li>Reshape Text on a Path </li>
+  <li>Merge Text and Graphics </li>
+</ul>
+<p><strong> Unit 6: Optimizing Graphics for the Web </strong></p>
+<ul>
+  <li> Examine File Formats </li>
+  <li>Optimize Images </li>
+</ul>
+<p><strong> Unit 7: Working with Hotspots </strong></p>
+<ul>
+  <li> Create Hotspots </li>
+  <li>Add Links to Hotspots </li>
+</ul>
+<p><strong> Unit 8: Using Slices and Rollovers </strong></p>
+<ul>
+  <li> Topic 8A: Slice an Image </li>
+  <li>Topic 8B: Apply Rollover Effects </li>
+</ul>

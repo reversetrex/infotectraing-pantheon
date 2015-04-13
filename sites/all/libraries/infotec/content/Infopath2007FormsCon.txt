@@ -1,0 +1,60 @@
+<strong>Lesson  1: Creating InfoPath Forms</strong>
+<ul>
+	<li>Topic  1A: Explore the User Interface </li>
+	<li>Topic  1B: Draft a Form </li>
+	<li>Topic  1C: Add a Data Validation Rule </li>
+	<li>Topic  1D: Test a Form</li>
+</ul>
+
+<strong>Lesson  2: Importing and Exporting Form Data</strong>
+<ul>
+	<li>Topic  2A: Import Forms into InfoPath </li>
+	<li>Topic  2B: Export Form Data to Excel </li>
+	<li>Topic  2C: Export Form Data to the Web</li>
+</ul>
+
+<strong>Lesson  3: Customizing Form Layout</strong>
+<ul>
+	<li>Topic  3A: Format a Form </li>
+	<li>Topic  3B: Customize Tables </li>
+	<li>Topic  3C: Insert Graphic Objects </li>
+	<li>Topic  3D: Create Optional and Repeating Sections </li>
+	<li>Topic  3E: Merge Forms </li>
+</ul>
+
+<strong>Lesson  4: Managing Views</strong>
+<ul>
+	<li>Topic  4A: Create Custom Views </li>
+	<li>Topic  4B: Modify a View </li>
+	<li>Topic  4C: Create a Print Version for a View </li>
+	<li>Topic  4D: Assign User Roles to a View</li>
+</ul>
+
+<strong>Lesson  5: Applying Security to Forms</strong>
+<ul>
+	<li>Topic  5A: Protect InfoPath Forms </li>
+	<li>Topic  5B: Restrict Access to a Form </li>
+	<li>Topic  5C: Set Security Zones</li>
+</ul>
+
+<strong>Lesson  6: Distributing Forms</strong>
+<ul>
+	<li>Topic  6A: Publish a Form Template </li>
+	<li>Topic  6B: Publish a Form to Email Recipients </li>
+	<li>Topic  6C: Troubleshoot Publishing Problems </li>
+</ul>
+
+<strong>Lesson  7: Managing Controls</strong>
+<ul>
+	<li>Topic  7A: Data Source Concepts </li>
+	<li>Topic  7B: Customize Controls </li>
+	<li>Topic  7C: Bind Controls</li>
+</ul>
+
+<strong>Lesson  8: Working with a Database</strong>
+<ul>
+	<li>Topic  8A: Develop a Form from a Database </li>
+	<li>Topic  8B: Use InfoPath Forms to Add Records to a Database </li>
+	<li>Topic  8C: Use InfoPath Forms to Query a Database</li>
+	<li>Topic  8D: Populate Controls Using a Database</li>
+</ul>

@@ -1,0 +1,8 @@
+<p> Covered in detail are the seven domains of the common body of knowledge (CBK), as defined by the (ISC)2. Explore such topics as access controls, administration, audit and monitoring, cryptography, and data communications. </p>
+<p> Providing you with all the tools you&rsquo;ll need to become proficient in systems security, this guide covers: </p>
+<ul>
+  <li> Mechanisms to specify user and process rights </li>
+  <li> System vulnerabilities, safeguards, and recovery plans and procedures </li>
+  <li> Means to disguise information to ensure its integrity, confidentiality, authenticity, and non repudiation </li>
+  <li> Ways to protect against infection, abuse, or negative impacts to the proper operation of an information processing system or network </li>
+</ul>

@@ -1,0 +1,81 @@
+<p><strong> Unit 1: Introduction to Active Directory Infrastructure </strong></p>
+<ul>
+  <li> The Architecture of Active Directory </li>
+  <li>How Active Directory Works </li>
+  <li>Examining Active Directory </li>
+  <li>The Active Directory Design, Planning, and Implementation Processes </li>
+</ul>
+<p><strong> Unit 2: Implementing an Active Directory Forest and Domain Structure </strong></p>
+<ul>
+  <li> Creating a Forest and Domain Structure </li>
+  <li>Examining and Configuring Active Directory Integrated DNS </li>
+  <li>Raising Forest and Domain Functional Levels </li>
+  <li>Creating Trust Relationships </li>
+  <li>Securing Trusts Using SID Filtering </li>
+</ul>
+<p><strong> Unit 3: Implementing an Organizational Unit Structure </strong></p>
+<ul>
+  <li> Managing Organizational Units </li>
+  <li>Delegating Administrative Control for Organizational Units </li>
+  <li>Planning an Organizational Unit Strategy </li>
+</ul>
+<p><strong> Unit 4: Implementing User, Group, and Computer Accounts </strong></p>
+<ul>
+  <li> Introduction to Accounts </li>
+  <li>Creating and Managing Multiple Accounts </li>
+  <li>Implementing User Principal Name Suffixes </li>
+  <li>Moving Objects in Active Directory </li>
+  <li>Planning an Account Strategy </li>
+  <li>Planning an Active Directory Audit Strategy </li>
+</ul>
+<p><strong> Unit 5: Implementing Group Policy </strong></p>
+<ul>
+  <li> Creating and Configuring Group Policy objects (GPOs) </li>
+  <li>Configuring When Group Policy Is Applied </li>
+  <li>Managing GPOs </li>
+  <li>Verifying and Troubleshooting Group Policy </li>
+  <li>Delegating Administrative Control of Group Policy </li>
+  <li>Planning a Group Policy Strategy for the Enterprise </li>
+</ul>
+<p> <strong>Unit 6: Deploying and Managing Software by Using Group Policy </strong></p>
+<ul>
+  <li> Introduction to Managing Software Deployment </li>
+  <li>Deploying Software </li>
+  <li>Configuring Software Deployment </li>
+  <li>Maintaining Deployed Software </li>
+  <li>Troubleshooting Software Deployment </li>
+  <li>Planning a Software Deployment Strategy </li>
+</ul>
+<p><strong> Unit 7: Implementing Sites to Manage Active Directory Replication </strong></p>
+<ul>
+  <li> Introduction to Active Directory Replication </li>
+  <li>Creating and Configuring Sites </li>
+  <li>Managing Site Topology </li>
+  <li>Troubleshooting Replication Failures </li>
+  <li>Planning a Site </li>
+</ul>
+<p><strong> Unit 8: Implementing Placement of Domain Controllers </strong></p>
+<ul>
+  <li> Implementing the Global Catalog in Active Directory </li>
+  <li>Determining the Placement of Domain Controllers in Active Directory </li>
+  <li>Planning the Placement of Domain Controllers </li>
+</ul>
+<p><strong> Unit 9: Managing Operations Masters </strong></p>
+<ul>
+  <li> Introduction to Operation Master Roles </li>
+  <li>Transferring and Seizing Operations Master Roles </li>
+  <li>Planning the Placement of Operations Masters </li>
+</ul>
+<p><strong> Unit 10: Maintaining Active Directory Availability </strong></p>
+<ul>
+  <li> Introduction to Maintaining Active Directory </li>
+  <li>Moving and Defragmenting the Active Directory Database </li>
+  <li>Backing Up Active Directory </li>
+  <li>Restoring Active Directory </li>
+  <li>Planning for Monitoring Active Directory </li>
+</ul>
+<p><strong> Unit 11: Planning and Implementing an Active Directory Infrastructure </strong></p>
+<ul>
+  <li> Creating the Active Directory Implementation Plan for Tailspin Toys </li>
+  <li>Implementing the Active Directory Infrastructure for Tailspin Toys </li>
+</ul>

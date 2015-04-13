@@ -1,0 +1,58 @@
+<p><strong>Lesson 1: Creating InfoPath Forms</strong></p>
+<blockquote>
+    Topic 1A: Explore the InfoPath 2010 Interface <br />
+    Topic 1B: Draft a Form <br />
+    Topic 1C: Add a Data Validation Rule <br />
+    Topic 1D: Test a Form<br />
+</blockquote>
+
+<p><strong>Lesson 2: Importing and Exporting Form Data</strong></p>
+<blockquote>
+	Topic 2A: Import Form Data Using InfoPath Designer<br />
+    Topic 2B: Export Form Data to Excel Using InfoPath Filler<br />
+    Topic 2C: Export Form Data to the Web Using InfoPath Filler<br />
+</blockquote>
+
+<p><strong>Lesson 3: Customizing Form Layout</strong></p>
+<blockquote>
+	Topic 3A: Customize Tables <br />
+    Topic 3B: Format a Form<br />
+    Topic 3C: Insert Graphic Objects <br />
+    Topic 3D: Create Sections <br />
+    Topic 3E: Merge Forms<br />
+</blockquote>
+
+<p><strong>Lesson 4: Managing Views</strong></p>
+<blockquote>
+	Topic 4A: Create Custom Views <br />
+    Topic 4B:: Assign User Roles to a View<br />
+</blockquote>
+
+<p><strong>Lesson 5: Applying Security to Forms</strong></p>
+<blockquote>
+	Topic 5A: Protect InfoPath Forms <br />
+    Topic 5B: Restrict Access to a Form <br />
+    Topic 5C: Set Security Zones<br />
+</blockquote>
+
+<p><strong>Lesson 6: Distributing Forms</strong></p>
+<blockquote>
+	Topic 6A: Publish a Form <br />
+    Topic 6B: Publish a Form to Email Recipients <br />
+    Topic 6C: Troubleshoot Publishing Problems<br />
+</blockquote>
+
+<p><strong>Lesson 7: Managing Controls</strong></p>
+<blockquote>
+	Topic 7A: Describe Data Source Concepts <br />
+    Topic 7B: Customize Controls <br />
+    Topic 7C: Bind Controls<br />
+</blockquote>
+
+<p><strong>Lesson  8: Working with a Database</strong></p>
+<blockquote>
+	Topic 8A: Develop a Form from a Database <br />
+    Topic 8B: Use InfoPath Forms to Add Records to a  Database <br />
+    Topic 8C: Use InfoPath Forms to Query a Database<br />
+    Topic 8D: Populate Form Controls  Using a Database<br />
+</blockquote>

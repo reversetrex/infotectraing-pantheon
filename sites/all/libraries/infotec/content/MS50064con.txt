@@ -1,0 +1,45 @@
+<p><strong>Module 1: Course Overview</strong> - This module explains how the class will be structured and introduces course materials and additional administrative information.</p>
+
+<p><strong>Module 2: Custom Authentication</strong> - This module explains ASP.NET providers, how to create a single sign-on, and how to configure a SharePoint Web Application.</p>
+
+<p><strong>Module 3: SharePoint Permissions</strong> - This module explains the permissions in Microsoft Windows Server Systems (WSS) and how they have been enhanced, explains how to set permissions at an item level, and describes naming conventions.</p>
+
+<p><strong>Module 4: In-Browser  Customization</strong> - This module explains how to add and edit new pages using web parts, master pages, and themes.</p>
+
+<p><strong>Module 5: Basic SharePoint  Designer</strong> - This module explains the SharePoint designer basics, how to  create and modify existing sites, and how to create CSS style sheets.</p>
+
+<p><strong>Module 6: Advanced SharePoint  Designer</strong> - This module explains reports, data views, data sources, and how to back up and restore a Web site.</p>
+
+<p><strong>Module 7: Site Definitions</strong> - This module explains WSS built-in definitions, Microsoft Office SharePoint Server 2007 built-in definitions, and CAML and describes the different SharePoint templates and themes.</p>
+
+<p><strong>Module 8: Features</strong> - This module explains types of features and how to create, activate, and deactivate them.</p>
+
+<p><strong>Module 9: Web Services API</strong> - This module explains web services API and some common SharePoint Web Services that are available.</p>
+
+<p><strong>Module 10: Web Part Development</strong> - This module explains web part connections, upgrading web  parts, and code access security.</p>
+
+<p><strong>Module 11: Client Side Scripts /  AJAX</strong> - This module explains how to emit client side scripts and  describes common AJAX uses.</p>
+
+<p><strong>Module 12: Object Model</strong> - This module explains object model Dlls and how to use the object model.</p>
+
+<p><strong>Module 13: Custom Field Types</strong> - This module explains how to create built-in types and  custom field types.</p>
+
+<p><strong>Module 14: SharePoint Events / Timer Jobs</strong> - This module explains how to create new events in SharePoint.</p>
+
+<p><strong>Module 15: Shared Services</strong> - This module explains the features of the shared services.</p>
+
+<p><strong>Module 16: Workflows (SP Designer)</strong> - This module explains the differences between SharePoint  Designer workflows, conditions, and actions.</p>
+
+<p><strong>Module 17: Workflows (Visual Studio)</strong> - This module explains the types of workflows and how to use  them with Visual Studio and SharePoint.</p>
+
+<p><strong>Module 18: ASP.NET Localization</strong> - This module explains how to use RESX files, SharePoint  resource files, and SharePoint language Packs.</p>
+
+<p><strong>Module 19: SharePoint/Microsoft FrontPage RPC</strong> - This module explains how to use FrontPage RPC and  SharePoint RPC.</p>
+
+<p><strong>Module 20: Excel Services</strong> - This module explains how to use Excel Services.</p>
+
+<p><strong>Module 21: Business Data Catalog</strong> - This module explains Business Data Catalogs.</p>
+
+<p><strong>Module 22: Business Intelligence</strong> - This module explains how to use the report center, KPIs,  dashboards, and Reporting Services Integration.</p>
+
+<p><strong>Module 23: Upgrading WSS 2.0 to  3.0</strong> - This  module explains how to use Presan.exe and database migration and explains some  migration issues.</p>

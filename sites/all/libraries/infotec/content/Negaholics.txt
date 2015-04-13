@@ -1,0 +1,85 @@
+<h2>Session 1</h2>
+  <h3>Section A: Negaholism</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>I Cannot</li>
+    <li>Neg-Attacks</li>
+    <li>Types of Negaholics</li>
+    <li>Review</li>
+    <li>Life Example</li>
+  </ul>
+  <h3>Section B: Team Negaholism</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Team Negaholic Behaviors</li>
+    <li>Dealing with Negaholism</li>
+    <li>Team Negaholism</li>
+    <li>Review</li>
+  </ul>
+  <h3>Section C: Handling Stress</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Stress</li>
+    <li>Issues of Negaholics</li>
+    <li>Internal Voice</li>
+    <li>Resistant Behavior</li>
+    <li>Are You a Negaholic?</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: The Hiring Process</h3>
+  <ul>
+    <li>Stay on Track</li>
+    <li>Hiring</li>
+    <li>Personal Agendas</li>
+    <li>Essentials for Interviewing</li>
+    <li>Summary</li>
+  </ul>
+  <h3>Section B: Keeping the Right Employees</h3>
+  <ul>
+    <li>Cohesive Teams</li>
+    <li>Orientation Program</li>
+    <li>Coaching</li>
+    <li>Mentoring</li>
+    <li>Setting Expectations</li>
+    <li>Summary</li>
+  </ul>
+  <h3>Section C: Self-Negativity</h3>
+  <ul>
+    <li>Thoughts and Actions</li>
+    <li>SWOT</li>
+    <li>Nurturing</li>
+    <li>Solutions for Negativity</li>
+    <li>Summary</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Workplace Negaholics</h3>
+  <ul>
+    <li>Dirty Dozen</li>
+    <li>Workaholic Workhorse</li>
+    <li>Consummate Controller</li>
+    <li>Political Peacemaker</li>
+    <li>Perennial Expert</li>
+    <li>Chronic Cynic</li>
+    <li>Blatant Backstabber</li>
+    <li>Status Quo Sustainer</li>
+  </ul>
+  <h3>Section B: Workplace Negaholics (cont.)</h3>
+  <ul>
+    <li>Solitary Succeeder</li>
+    <li>Morose Melancholic</li>
+    <li>Walking Wounded</li>
+    <li>Garrulous Gossip</li>
+    <li>Resigned Apathetic</li>
+    <li>Review</li>
+  </ul>
+  <h3>Section C: Negativity on the Job</h3>
+  <ul>
+    <li>Reasons for Negativity</li>
+    <li>Addressing Negativity</li>
+  </ul>
+  <h3>Section D: Addressing Your Negativity</h3>
+  <ul>
+    <li>Seven-step Process</li>
+    <li>Real-life Examples</li>
+    <li>Review</li>
+  </ul>

@@ -1,0 +1,36 @@
+<p><strong>Lesson 1: </strong>Customizing the Excel Environment</p>
+<ul>
+  <li><strong>Topic A: </strong>Configure Excel Options</li>
+  <li><strong>Topic B: </strong>Customize the Ribbon and the Quick Access Toolbar</li>
+  <li><strong>Topic C: </strong>Enable Excel Add-Ins</li>
+</ul>
+<p><strong>Lesson 2: </strong>Creating Advanced Formulas</p>
+<ul>
+  <li><strong>Topic A: </strong>Use Range Names in Formulas</li>
+  <li><strong>Topic B: </strong>Use Specialized Functions</li>
+  <li><strong>Topic C: </strong>Use Array Formulas</li>
+</ul>
+<p><strong>Lesson 3: </strong>Analyzing Data with Functions and Conditional Formatting</p>
+<ul>
+  <li><strong>Topic A: </strong>Analyze Data by Using Text and Logical Functions</li>
+  <li><strong>Topic B: </strong>Apply Advanced Conditional Formatting</li>
+</ul>
+<p><strong>Lesson 4: </strong>Organizing and Analyzing Datasets and Tables</p>
+<ul>
+  <li><strong>Topic A: </strong>Create and Modify Tables</li>
+  <li><strong>Topic B: </strong>Sort Data</li>
+  <li><strong>Topic C: </strong>Filter Data</li>
+  <li><strong>Topic D: </strong>Use SUBTOTAL and Database Functions</li>
+</ul>
+<p><strong>Lesson 5: </strong>Visualizing Data with Basic Charts</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Charts</li>
+  <li><strong>Topic B: </strong>Modify and Format Charts</li>
+</ul>
+<p><strong>Lesson 6: </strong>Analyzing Data with PivotTables, Slicers, and PivotCharts</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a PivotTable</li>
+  <li><strong>Topic B: </strong>Analyze PivotTable Data</li>
+  <li><strong>Topic C: </strong>Present Data with PivotCharts</li>
+  <li><strong>Topic D: </strong>Filter Data by Using Slicers</li>
+</ul>

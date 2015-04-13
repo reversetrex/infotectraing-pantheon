@@ -1,0 +1,285 @@
+<h2>Session 1</h2>
+  <h3>Section A: Database Tables</h3>
+  <ul>
+    <li>Tables</li>
+    <li>Representing Data with Tables</li>
+    <li>SQL Server Management Studio</li>
+  </ul>
+  <h3>Section B: Database Relationships</h3>
+  <ul>
+    <li>Flat File Databases</li>
+    <li>Relational Databases</li>
+    <li>RDBMS Benefits</li>
+    <li>Related Tables</li>
+    <li>Review</li>
+    <li>Recursive Relationships</li>
+    <li>M:N Relationships</li>
+  </ul>
+  <h3>Section C: Understanding DML</h3>
+  <ul>
+    <li>Structured Query Language</li>
+    <li>DDL/DML</li>
+    <li>Data Control Language</li>
+  </ul>
+  <h3>Section D: Database Data Types</h3>
+  <ul>
+    <li>Data Types</li>
+    <li>Choosing a Data Type</li>
+    <li>SQL Data Types</li>
+    <li>Integers</li>
+    <li>Exact Numbers</li>
+    <li>Money Data Types</li>
+    <li>Exceeding Data Type Limits</li>
+    <li>Approximate Numerics</li>
+    <li>Character Data Types</li>
+    <li>Variable vs. Fixed</li>
+    <li>Dates and Times</li>
+    <li>Numeric and Alphabetic Date Formats</li>
+    <li>DateTime2(n)</li>
+    <li>ISO 8601 Format</li>
+    <li>DateTimeOffset(n)</li>
+  </ul>
+  <h3>Section E: Creating and Manipulating Tables</h3>
+  <ul>
+    <li>Table Types</li>
+    <li>Simple Syntax</li>
+    <li>NULL or NOT NULL</li>
+    <li>Creating a Table</li>
+    <li>Adding Columns using ALTER TABLE</li>
+    <li>Adding Columns with Default Values</li>
+    <li>Changing Columns using ALTER TABLE</li>
+    <li>UNIQUE Constraints</li>
+    <li>Adding UNIQUE Contraints</li>
+  </ul>
+  <h3>Section F: Selecting Data</h3>
+  <ul>
+    <li>SELECT Statement</li>
+    <li>Performing a SELECT</li>
+    <li>Selecting Data using Expressions</li>
+    <li>Specifiying Column Order and Aliases</li>
+    <li>Special Character Considerations</li>
+    <li>Using Operators and Expressions</li>
+    <li>Schema Defined</li>
+    <li>Character Operators</li>
+    <li>Arithmetic Expressions</li>
+    <li>Using Table Aliases</li>
+  </ul>
+  <h3>Section G: Filtering Data using Comparisons</h3>
+  <ul>
+    <li>WHERE Clauses</li>
+    <li>Comparison Operators</li>
+    <li>Logical Operators</li>
+    <li>Using WHERE Clauses</li>
+    <li>Using Comparison Operators</li>
+    <li>Combining using AND</li>
+    <li>Combining using OR and NOT</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Filtering Data using Lists and Ranges</h3>
+  <ul>
+    <li>Range of Values</li>
+    <li>Selecting a Range of Values</li>
+    <li>Selecting Values in a List</li>
+  </ul>
+  <h3>Section B: Filtering Data using Pattern Matching</h3>
+  <ul>
+    <li>Understanding String Pattern Matching</li>
+    <li>String Comparison Operators</li>
+    <li>Using LIKE Operators</li>
+    <li>Percent (%) Wildcards</li>
+    <li>Underscore (_)Wildcards</li>
+    <li>Braces ([]) Wildcards</li>
+  </ul>
+  <h3>Section C: Filtering Data with NULLs</h3>
+  <ul>
+    <li>NULLs Defined</li>
+    <li>NULL Handling</li>
+  </ul>
+  <h3>Section D: Selecting Data using Functions</h3>
+  <ul>
+    <li>Aggregate Function Types</li>
+  </ul>
+  <h3>Section E: Sorting Data</h3>
+  <ul>
+    <li>Sorting Data with ORDER BY</li>
+    <li>Ordinal Column Position</li>
+    <li>Using ORDER BY</li>
+    <li>ORDER BY Ordinal Column Position</li>
+  </ul>
+  <h3>Section F: Working with Duplicates</h3>
+  <ul>
+    <li>Eliminating Duplicates</li>
+    <li>Using DISTINCT</li>
+  </ul>
+  <h3>Section G: Joining Data</h3>
+  <ul>
+    <li>Introduction to JOINs</li>
+    <li>JOIN Process</li>
+    <li>INNER JOIN</li>
+    <li>INNER JOIN Example</li>
+    <li>Joining Data with Table Aliases</li>
+    <li>INNER JOIN with DISTINCT</li>
+  </ul>
+  <h3>Section H: OUTER and CROSS JOINs</h3>
+  <ul>
+    <li>OUTER JOIN Defined</li>
+    <li>OUTER JOIN Example</li>
+    <li>FULL OUTER JOIN Example</li>
+    <li>CROSS JOIN Defined</li>
+    <li>CROSS JOIN Example</li>
+  </ul>
+  <h3>Section I: Combining and Limiting Result Sets</h3>
+  <ul>
+    <li>UNIONs</li>
+    <li>UNION ALL vs. UNION</li>
+    <li>UNION Correct Syntax</li>
+    <li>Limiting Rows using TOPN</li>
+    <li>INTERSECT Defined</li>
+    <li>EXCEPT Defined</li>
+    <li>INTERSECT and EXCEPT Example</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Adding Data</h3>
+  <ul>
+    <li>Inserting Data</li>
+    <li>INSERT Example</li>
+    <li>Inserting Multiple Rows</li>
+    <li>Inserting Partial Values</li>
+  </ul>
+  <h3>Section B: Updating and Deleting Data</h3>
+  <ul>
+    <li>Updating Data</li>
+    <li>UPDATE Example</li>
+    <li>Updating Multiple Rows and Columns</li>
+    <li>UPDATE Example Continued</li>
+    <li>Deleting Data</li>
+    <li>DELETE Example</li>
+    <li>Deleting Data using Subqueries</li>
+    <li>Understanding Transactions</li>
+    <li>Creating and Commiting a Transaction</li>
+  </ul>
+  <h3>Section C: Working with Views</h3>
+  <ul>
+    <li>View Defined</li>
+    <li>View Types</li>
+    <li>Standard Views</li>
+    <li>CREATE VIEW Example</li>
+    <li>Using a View to Rename Columns</li>
+    <li>Filtering Data with Views</li>
+    <li>Creating Views Graphically</li>
+  </ul>
+  <h3>Section D: Stored Procedures and Functions</h3>
+  <ul>
+    <li>Stored Procedures Defined</li>
+    <li>SP Parameters and Best Practices</li>
+    <li>CREATE PROC Example</li>
+    <li>Late Binding</li>
+    <li>Using Parameters with Stored Procedures</li>
+    <li>Built-in vs. User-Defined Functions</li>
+    <li>Function Parameters</li>
+    <li>Sample Scalar Function Syntax</li>
+    <li>Proper Function Body Syntax</li>
+    <li>Calling Scalar Functions</li>
+    <li>Table-Valued Functions</li>
+    <li>Scalar Function Example</li>
+  </ul>
+  <h3>Section E: Data Normalization</h3>
+  <ul>
+    <li>Database Design Phases</li>
+    <li>Understanding Database Normalization</li>
+    <li>Design Problems</li>
+    <li>Row INSERT Anomalies</li>
+    <li>DELETE Anomalies</li>
+    <li>UPDATE Anomalies</li>
+  </ul>
+  <h3>Section F: First Normal Form</h3>
+  <ul>
+    <li>Overview of Normal Forms</li>
+    <li>First Normal Form Rules</li>
+    <li>First Normal Form Example 1</li>
+    <li>Candidate Keys Defined</li>
+    <li>Primary Keys Defined</li>
+    <li>Non-Prime Attributes Defined</li>
+    <li>First Normal Form Example 2</li>
+    <li>First Normal Form Anomalies</li>
+  </ul>
+  <h3>Section G: Second and Third Normal Forms</h3>
+  <ul>
+    <li>Functional Dependency Defined</li>
+    <li>Second Normal Form Rules</li>
+    <li>Second Normal Form Example</li>
+    <li>Second Normal Form Rules Continued</li>
+    <li>Transitive Dependencies</li>
+    <li>Third Normal Form</li>
+  </ul>
+  <h3>Section H: Fourth and Fifth Normal Forms</h3>
+  <ul>
+    <li>BCNF</li>
+    <li>Fourth Normal Form Example</li>
+    <li>Fifth Normal Form Example</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Primary, Foreign, and Composite Keys</h3>
+  <ul>
+    <li>Primary Keys Defined</li>
+    <li>Foreign Keys</li>
+    <li>Composite Keys</li>
+    <li>Creating a Table with a Primary Key</li>
+  </ul>
+  <h3>Section B: Clustered Indexes</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Indexes Improve Table Scans</li>
+    <li>Seek</li>
+    <li>Clustered Index Benefits</li>
+    <li>Data Storage Considerations</li>
+    <li>Clustered Index on a Heap Table</li>
+  </ul>
+  <h3>Section C: Non-Clustered Indexes</h3>
+  <ul>
+    <li>Non-Clustered Index Basics</li>
+    <li>Non-Clustered Index on a Heap Table</li>
+    <li>Non-Clustered Index Benefits</li>
+    <li>Index Creation</li>
+    <li>Dropping an Index</li>
+    <li>Non-Indexed Table Execution Plan</li>
+    <li>Indexed Table Execution Plan</li>
+  </ul>
+  <h3>Section D: Database Security Concepts</h3>
+  <ul>
+    <li>SQL Security Steps</li>
+    <li>Fixed Server Roles</li>
+    <li>Permissions Hierarchy</li>
+    <li>Adding Database Users</li>
+    <li>Special Database Users</li>
+    <li>Permissions</li>
+    <li>Database Roles</li>
+    <li>Creating a Role</li>
+    <li>Role Usage</li>
+  </ul>
+  <h3>Section E: Database Backup and Restore</h3>
+  <ul>
+    <li>SQL Backup Methods</li>
+    <li>Backup Rights and Permissions</li>
+    <li>Backing Up to Disk</li>
+    <li>Backup Frequency Considerations</li>
+    <li>Full Backups</li>
+    <li>Full Backup Syntax</li>
+    <li>Restore vs. Recovery</li>
+    <li>Automatic Recovery</li>
+    <li>Performing a Full Backup</li>
+    <li>Backup with Compression</li>
+    <li>Restore Types</li>
+    <li>Restore Process</li>
+    <li>Simple Restore</li>
+  </ul>
+  <h3>Section F: Incremental Backups</h3>
+  <ul>
+    <li>Incremental Backup Usage</li>
+    <li>Incremental Backups Defined</li>
+    <li>Normal Log Backup</li>
+    <li>Backup Log Options</li>
+    <li>Restoring the Log</li>
+    <li>Transaction Log Backup Example</li>
+    <li>Transaction Log Restore Example</li>
+  </ul>

@@ -1,0 +1,91 @@
+<p> <strong>Unit 1: Introduction <br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the relevance and usages for SharePoint Portal Server 2003 </li>
+</ul>
+<p><strong> Unit 2: SharePoint Features<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Define information work and its challenges </li>
+  <li> Describe the major features of SharePoint Portal Server 2003 </li>
+  <li> List the key product concepts and terms </li>
+  <li> Describe the core technologies </li>
+  <li> Distinguish between Windows SharePoint Services and SharePoint Portal Server </li>
+</ul>
+<p><strong> Unit 3: Windows SharePoint Services Architecture<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the architecture of Microsoft SharePoint Products and Technologies </li>
+</ul>
+<p><strong> Unit 4: Creating Code in SharePoint<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the development model for SharePoint Portal Server </li>
+</ul>
+<p><strong> Unit 5: Deploying SharePoint Products and Technologies<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the requirements for deploying SharePoint Products and Technologies </li>
+  <li> Install SharePoint Products and Technologies </li>
+</ul>
+<p><strong> Unit 6: Securing Microsoft SharePoint Portal Server 2003<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe how security is implemented in SharePoint Products and Technologies </li>
+</ul>
+<p><strong> Unit 7: Managing Permissions<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Manage permissions for SharePoint Products and Technologies </li>
+</ul>
+<p><strong> Unit 8: SharePoint Content and Office 2003 Integration<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the content types available in SharePoint Portal Server </li>
+  <li> Describe how SharePoint Portal Server integrates with Office 2003 </li>
+</ul>
+<p><strong> Unit 9: Planning Single Server Deployments<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Plan a single server deployment </li>
+</ul>
+<p><strong> Unit 10: Connecting Enterprise Applications and Using Single Sign-On<br>
+</strong>Lab: Configuring Single Sign-On</p>
+<ul>
+  <li> Enable Single Sign-On </li>
+  <li> Configuring a Group Credential Set </li>
+  <li> Configuring an Individual Credential Set </li>
+  <li> Testing the Credential Sets </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Connect enterprise applications </li>
+  <li>Configure single sign-on&nbsp;</li>
+</ul>
+<p><strong> Unit 11: Upgrading to Windows SharePoint Services or SharePoint Portal Server 2003 from Previous SharePoint Releases<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Upgrade from previous versions of SharePoint </li>
+</ul>
+<p><strong> Unit 12: Areas and Navigation<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe areas and navigation </li>
+</ul>
+<p><strong> Unit 13: Managing SharePoint Portal Server 2003 Areas and Navigation<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Manage areas and navigation </li>
+</ul>
+<p><strong> Unit 14: Managing Sites<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Administer a site </li>
+  <li> Maintain a site </li>
+  <li>Backup and restore a site&nbsp;</li>
+</ul>
+<p><strong> Unit 15: Deploying a SharePoint Portal Server Web Farm<br>
+</strong>After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Deploy a SharePoint Portal Server Web Farm </li>
+</ul>

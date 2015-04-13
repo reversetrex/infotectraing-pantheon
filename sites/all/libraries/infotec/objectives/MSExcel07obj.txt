@@ -1,0 +1,18 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> explore the Excel 2007 environment. </li>
+  <li> work with an Excel worksheet by entering and selecting the data in it. You will also save the data in the worksheet. </li>
+  <li> modify a worksheet. </li>
+  <li> perform calculations. </li>
+  <li> format a worksheet. </li>
+  <li> develop a workbook. </li>
+  <li> print workbook contents. </li>
+  <li> customize the layout of the Excel application window. <strong></strong></li>
+  <li> enhance the workbook. </li>
+  <li> automate workbook creation by using templates. </li>
+  <li> organize data using tables. create and modify charts. </li>
+  <li> analyze data using PivotTables and PivotCharts. </li>
+  <li> work with graphic objects. </li>
+  <li> calculate with advanced formulas. </li>
+  <li> sort and filter data. </li>
+</ul>

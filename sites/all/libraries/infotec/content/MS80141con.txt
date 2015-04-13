@@ -1,0 +1,10 @@
+<p><strong>Module 1: Introduction and Overview</strong> - This chapter teaches you which scenarios are best suited for each platform, what the comparative strengths of each are in different application scenarios, and how  to build applications that integrate features from both SharePoint and
+ Microsoft Dynamics CRM 4.0.</p>
+
+<p><strong>Module 2: Extending Microsoft Dynamics  CRM 4.0 with data from SharePoint</strong> - This chapter teaches basic Microsoft Dynamics CRM 4.0 customization concepts and  skills, and focuses on extending the highly structured data characteristic of Microsoft Dynamics CRM with related but less structured data often stored in SharePoint.</p>
+
+<p><strong>Module 3: Consume Microsoft Dynamics CRM 4.0 Data from Windows SharePoint Services 3.0</strong> - This chapter introduces Windows SharePoint Services 3.0 (WSS) customization features, such as pages and web parts, which can be used to expose Microsoft Dynamics CRM 4.0 data in WSS. This is primarily used for building reports, and it relies on features available in Windows SharePoint Services 3.0.</p>
+
+<p><strong>Module 4: Building Data-Aware Applications Using Microsoft Office SharePoint Server 2007</strong> - This chapter explains Microsoft Office SharePoint Server 2007 features that can integrate with Microsoft Dynamics CRM 4.0, focusing on the Business Data Catalog and Excel Services.</p>
+
+<p><strong>Module 5: Advanced Integration Scenarios</strong> - This chapter introduces several advanced integration scenarios for Microsoft Dynamics CRM 4.0 and Windows SharePoint Services integration.</p>

@@ -1,0 +1,85 @@
+<p><strong>Module 1: Designing a Database Server Infrastructure</strong> - This module explains how to design an appropriate database server infrastructure for a given business application scenario - including how to decide between on-premise, cloud-based, and hybrid database servers, hardware capacity planning, considerations for storage hardware, and strategies for consolidating database server hardware.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning a Database Server Infrastructure</li>
+  <li>Planning Server Hardware</li>
+  <li>Considerations for Database Server Consolidation</li>
+  <li>Managing Server Resources in a Consolidated Database Infrastructure</li>
+</ul>
+<p><strong>Module 2: Designing a Logical Database Schema</strong> - This module explains how to design a logical schema for a database based on application requirements. This includes planning the level of normalization, and schema and table design, and the use of views.</p>
+<p>Lessons</p>
+<ul>
+  <li>Relational Database Design Techniques</li>
+  <li>Planning Schemas and Tables</li>
+</ul>
+<p><strong>Module 3: Designing a Physical Database Implementation</strong> - This module explains how to design the physical implementation of a database for a given set of requirements. The design will include data files, log files, filegroups, and data partitioning, as well as whether or not to use data compression.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning Files and Filegroups</li>
+  <li>Planning a Partitioning Data</li>
+  <li>Planning Compression</li>
+</ul>
+<p><strong>Module 4: Incorporating Data Files into Databases</strong> - <p>This modules discusses how to consider options for including data files in a database design.</p>
+<p>Lessons</p>
+<ul>
+  <li>Considerations for Working with Data Files in SQL Server 2012</li>
+  <li>Implementing FileStream and FileTables</li>
+  <li>Searching Data Files</li>
+</ul>
+<p><strong>Module 5: Tuning Database Performance</strong> - This module explains how to plan and manage indexes and how to use query plans to optimize database performance.</p>
+<p>Lessons</p>
+<ul>
+  <li>Optimizing Query Performance by Using Indexes</li>
+  <li>Working with Query Plans</li>
+  <li>Performance Monitoring</li>
+</ul>
+<p><strong>Module 6: Designing Database Security</strong> - This module explains the key considerations for designing security for SQL Server instances and databases.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Security Planning</li>
+  <li>Planning Security</li>
+  <li>Contained Databases</li>
+  <li>Protecting Data with Encryption</li>
+</ul>
+<p><strong>Module 7: Policy Based Management</strong> - This module explains how to plan policy-based management to manage server instances, databases, and other SQL Server 2012 objects more efficiently.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Policy-Based Management</li>
+  <li>Planning and Implementing Policy-Based Management</li>
+</ul>
+<p><strong>Module 8: Monitoring Server Health</strong> - This module explains how to plan SQL Server health monitoring and to implement health monitoring by using SQL Server Utility.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Server Health Monitoring</li>
+  <li>SQL Server Utility</li>
+</ul>
+<p><strong>Module 9: Designing a Database Backup Solution</strong> - This module explains how to identify and implement the appropriate backup strategy for a given scenario.</p>
+<p>Lessons</p>
+<ul>
+  <li>SQL Server Backup and Restore</li>
+  <li>Planning a Recovery Strategy</li>
+</ul>
+<p><strong>Module 10: Automating Multi-Server Maintenance</strong> - This module explains how to better plan and manage multi-server maintenance and automation.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Maintenance Automation</li>
+  <li>Managing Multiple Servers</li>
+</ul>
+<p><strong>Module 11: Managing SQL Server with PowerShell</strong> - This module provides an overview of PowerShell and describes the benefits of using PowerShell to manage SQL Server 2012.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Windows PowerShell</li>
+  <li>Scripting with Windows PowerShell</li>
+</ul>
+<p><strong>Module 12: Replicating Data</strong> - This module explains how to design an optimal replication strategy from a given set of business and technical requirements.</p>
+<p>Lessons</p>
+<ul>
+  <li>SQL Server Replication</li>
+  <li>Planning Replication</li>
+</ul>
+<p><strong>Module 13: Planning High Availability</strong> - This module explains how to plan and implement a high availability solution.</p>
+<p>Lessons</p>
+<ul>
+  <li>High Availability in SQL Server 2012</li>
+  <li>AlwaysOn Availability Groups</li>
+</ul>

@@ -1,0 +1,1 @@
+This five-day instructor-led course provides students with the knowledge and skills to plan, deploy, and manage Configuration Manager 2007. The course focuses on planning and deploying sites and clients, configuring software distribution, deploying operating systems, and managing software updates. It also focuses on remote tools and managing mobile devices.

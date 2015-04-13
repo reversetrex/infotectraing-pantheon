@@ -1,0 +1,208 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Security Fundamentals</li>
+    <li>Microsoft Certification Paths</li>
+    <li>Knowledge Domains</li>
+    <li>Taking the Exam</li>
+    <li>Exam Prep Tips</li>
+  </ul>
+  <h3>Section B: Security Principles</h3>
+  <ul>
+    <li>Windows Server Editions</li>
+    <li>AAA</li>
+    <li>Least Privilege</li>
+    <li>Attack Surface</li>
+    <li>Defense-in-Depth</li>
+  </ul>
+  <h3>Section C: Threats and Risks</h3>
+  <ul>
+    <li>Threats and Risks Defined</li>
+    <li>Personal Risk Assessment</li>
+    <li>Internal Threats</li>
+    <li>External Threats</li>
+    <li>Types of Attackers</li>
+    <li>Common Attack Methods</li>
+    <li>Social Engineering</li>
+    <li>Attack Phases</li>
+  </ul>
+  <h3>Section D: Authentication Fundamentals</h3>
+  <ul>
+    <li>Authentication</li>
+    <li>Credential Types</li>
+    <li>Weak Authentication</li>
+    <li>Examples of Weak Authentication</li>
+    <li>Strong Authentication</li>
+    <li>RADIUS Servers</li>
+    <li>User Directories</li>
+  </ul>
+  <h3>Section E: Windows/PKI Authentication</h3>
+  <ul>
+    <li>Windows Authentication Methods</li>
+    <li>Kerberos Authentication</li>
+    <li>Public Key Cryptography</li>
+    <li>Certificates</li>
+    <li>Public Key Infrastructure</li>
+  </ul>
+  <h3>Section F: Password Policies</h3>
+  <ul>
+    <li>Password Policy Options</li>
+    <li>Password Hashes</li>
+    <li>Account Lockout Policies</li>
+    <li>runas Option</li>
+    <li>Resetting the User Password</li>
+  </ul>
+  <h3>Section G: User/Group Management</h3>
+  <ul>
+    <li>Creating New User Accounts</li>
+    <li>New User Password</li>
+    <li>Settings/Considerations</li>
+    <li>Managing User Account Security</li>
+    <li>Creating New Groups</li>
+    <li>Managing Group Memberships</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Permission Management</h3>
+  <ul>
+    <li>Windows Permissions</li>
+    <li>Delegating Administration Rights</li>
+    <li>File System Permissions</li>
+    <li>Understanding Offline Files</li>
+    <li>Configuring NTFS Basic Permissions</li>
+    <li>Configuring NTFS Advanced Permissions</li>
+    <li>Overriding Inheritance Permissions</li>
+    <li>Configuring Share Permissions</li>
+    <li>Configuring Resource Ownership</li>
+    <li>Understanding Permissions Inheritance</li>
+  </ul>
+  <h3>Section B: Auditing</h3>
+  <ul>
+    <li>Auditing Defined</li>
+    <li>Security Audit Events Spreadsheet</li>
+    <li>Enabling Auditing in Group Policy Editor</li>
+    <li>Configuring Advanced Auditing Policies</li>
+  </ul>
+  <h3>Section C: Physical Security Solutions</h3>
+  <ul>
+    <li>Importance of Physical Security</li>
+    <li>Physical Security Defined</li>
+    <li>Physical Security Applications</li>
+    <li>Physical Security Checklist</li>
+    <li>Restricting Device Installation with GP</li>
+    <li>Restricting Local Logon using GPE</li>
+    <li>Understanding Keyloggers</li>
+  </ul>
+  <h3>Section D: Malware Protection</h3>
+  <ul>
+    <li>Viruses Defined</li>
+    <li>Worms Defined</li>
+    <li>Types of Viruses</li>
+    <li>Indications of Viral Infection</li>
+    <li>Virus Phases</li>
+    <li>Trojan Horses Defined</li>
+    <li>Common Trojan Horse Programs</li>
+    <li>Buffer Overflows Defined</li>
+  </ul>
+  <h3>Section E: Internet Explorer Security</h3>
+  <ul>
+    <li>Internet Explorer General Options</li>
+    <li>IT Security Zones</li>
+    <li>Secure Web Sites</li>
+    <li>InPrivate Filtering</li>
+    <li>InPrivate Browsing</li>
+  </ul>
+  <h3>Section F: Encryption Basics</h3>
+  <ul>
+    <li>Cryptography</li>
+    <li>Simple Encryption</li>
+    <li>Cryptography Concepts</li>
+    <li>Uses of Cryptography</li>
+    <li>Encryption Types</li>
+    <li>Symmetric Encryption</li>
+    <li>Asymmetric Encryption</li>
+    <li>Public Key Cryptography</li>
+    <li>PKI Applications</li>
+  </ul>
+  <h3>Section G: Windows Encryption Technologies</h3>
+  <ul>
+    <li>Windows Encrypting File System</li>
+    <li>EFS Benefits</li>
+    <li>EFS Inheritance</li>
+    <li>BitLocker Drive Encryption</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Network Perimeter Security</h3>
+  <ul>
+    <li>Firewalls</li>
+    <li>Network Firewalls</li>
+    <li>Packet Filtering Firewalls</li>
+    <li>Stateful Inspection Firewall</li>
+    <li>Personal Firewalls</li>
+    <li>Hardware/Software</li>
+    <li>UTM/SCM</li>
+  </ul>
+  <h3>Section B: Network Segmentation</h3>
+  <ul>
+    <li>Network Isolation</li>
+    <li>VLANs</li>
+    <li>VLAN Example</li>
+    <li>VLAN Tagging</li>
+    <li>Trunk Example</li>
+    <li>Virtual Private Network</li>
+    <li>VPN Protocols</li>
+    <li>Perimeter Networks</li>
+    <li>Perimeter Network Example</li>
+    <li>NAT/Perimeter Networks</li>
+    <li>Planning Perimeter Networks</li>
+    <li>Honeypots</li>
+    <li>Server/Domain Isolation</li>
+  </ul>
+  <h3>Section C: NAP</h3>
+  <ul>
+    <li>Network Access Protection</li>
+    <li>NAP Requirements</li>
+    <li>NAP Implementation Methods</li>
+    <li>NAP Architecture</li>
+  </ul>
+  <h3>Section D: Network Protocol Security</h3>
+  <ul>
+    <li>Network Protocols</li>
+    <li>Network Scanning</li>
+    <li>Scanning Types</li>
+    <li>Sniffers</li>
+    <li>ARP Spoofing</li>
+  </ul>
+  <h3>Section E: Wireless Network Security</h3>
+  <ul>
+    <li>Wi-Fi Vulnerabilities</li>
+    <li>Wi-Fi Security</li>
+    <li>Wired Equivalent Privacy</li>
+    <li>WPA/WPA2</li>
+    <li>802.11i Security</li>
+    <li>802.1X</li>
+    <li>802.1X Demo</li>
+    <li>802.1X Deployment</li>
+  </ul>
+  <h3>Section F: Client Protection</h3>
+  <ul>
+    <li>User Account Control Settings</li>
+    <li>UAC Local Policies</li>
+    <li>Run Users as Administrators</li>
+    <li>Windows Updates</li>
+    <li>Restriction/Control Policies</li>
+  </ul>
+  <h3>Section G: Server Protection</h3>
+  <ul>
+    <li>Microsoft Baseline Security Analyzer</li>
+    <li>MBSA Results</li>
+    <li>Services</li>
+    <li>Security Updating DNS</li>
+    <li>NTLM</li>
+  </ul>
+  <h3>Section H: E-mail Protection</h3>
+  <ul>
+    <li>E-mail Vulnerabilities</li>
+    <li>E-mail Hygiene</li>
+    <li>Protection Methods</li>
+    <li>Junk E-mail Filtering</li>
+  </ul>

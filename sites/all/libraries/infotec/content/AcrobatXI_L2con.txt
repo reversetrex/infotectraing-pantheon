@@ -1,0 +1,33 @@
+<p><strong>Lesson 1: </strong>Customizing the Acrobat XI Pro Workspace</p>
+<ul>
+  <li><strong>Topic A: </strong>Customize the Toolbars</li>
+  <li><strong>Topic B: </strong>Customize the Tool Sets</li>
+</ul>
+<p><strong>Lesson 2: </strong>Creating PDFs from Technical Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Create PDF Documents Using Autodesk AutoCAD</li>
+  <li><strong>Topic B: </strong>Measure Technical Drawings</li>
+</ul>
+<p><strong>Lesson 3: </strong>Enhancing PDF Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Embed Multimedia</li>
+  <li><strong>Topic B: </strong>Enhance PDF Document Accessibility</li>
+</ul>
+<p><strong>Lesson 4: </strong>Securing PDF Documents</p>
+<ul>
+  <li><strong>Topic A: </strong>Manage the Security of PDF Documents</li>
+  <li><strong>Topic B: </strong>Validate PDF Documents</li>
+</ul>
+<p><strong>Lesson 5: </strong>Creating Interactive PDF Forms</p>
+<ul>
+  <li><strong>Topic A: </strong>Create a PDF Form</li>
+  <li><strong>Topic B: </strong>Compile and Manage PDF Form Data</li>
+</ul>
+<p><strong>Lesson 6: </strong>Finalizing PDF Files for Commercial Printing</p>
+<ul>
+  <li><strong>Topic A: </strong>Apply Color Management Settings</li>
+  <li><strong>Topic B: </strong>Preview Printed Effects</li>
+  <li><strong>Topic C: </strong>Perform Preflight on a PDF Document</li>
+  <li><strong>Topic D: </strong>Create PDF/X, PDF/A, and PDF/E Compliant Files</li>
+  <li><strong>Topic E: </strong>Create a Composite and Color Separations</li>
+</ul>

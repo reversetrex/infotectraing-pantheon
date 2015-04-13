@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Create a basic document.</li>
+  <li>Edit documents by locating and modifying text.</li>
+  <li>Format text.</li>
+  <li>Format paragraphs.</li>
+  <li>Use Word tools to make your documents more accurate.</li>
+  <li>Add tables to a document.</li>
+  <li>Add graphic elements to a document.</li>
+  <li>Control a document's page setup and its overall appearance.</li>
+</ul>

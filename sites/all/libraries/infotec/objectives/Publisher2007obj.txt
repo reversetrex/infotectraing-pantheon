@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>create a one-page publication. </li>
+  <li>modify a publication's layout and structure. </li>
+  <li>edit content in the publication. format a publication. </li>
+  <li>format pictures. </li>
+  <li>identify the options for distributing a publication. </li>
+</ul>

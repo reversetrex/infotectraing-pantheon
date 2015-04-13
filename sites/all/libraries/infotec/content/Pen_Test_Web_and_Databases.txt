@@ -1,0 +1,76 @@
+<h2>Session 1</h2>
+  <h3>Section A: The Essence of SQL Injection</h3>
+  <ul>
+    <li>Databases</li>
+    <li>Vulnerabilities / Common Attacks</li>
+    <li>SQL Injections</li>
+    <li>Impacts of SQL Injection</li>
+    <li>Business Impacts of SQL Injection</li>
+    <li>Using SQL Injection</li>
+    <li>SQL Injection Enumeration</li>
+    <li>Extended Stored Procedures</li>
+    <li>Lee Lawson Video</li>
+  </ul>
+  <h3>Section B: Direct Attacks and Protection</h3>
+  <ul>
+    <li>Direct Attacks</li>
+    <li>Attacking Database Servers</li>
+    <li>Obtaining Sensitive Information</li>
+    <li>Hacking Tools</li>
+    <li>Oracle Security Tips</li>
+    <li>Metasploit</li>
+    <li>Metasploit Demo</li>
+    <li>Finding and Fixing SQL Injections</li>
+    <li>Hardening Databases</li>
+  </ul>
+  <h3>Section C: SQL Injection in Action</h3>
+  <ul>
+    <li>Injection Attack</li>
+    <li>Injection Attack Demo</li>
+    <li>Joel Helkason Video</li>
+  </ul>
+  <h3>Section D: Attack Methods</h3>
+  <ul>
+    <li>Web Server Market Share</li>
+    <li>Common Web App Threats</li>
+    <li>Progression of the Professional Hacker</li>
+    <li>Anatomy of a Web Application Attack</li>
+    <li>A Generic Web Application System</li>
+    <li>Query Strings</li>
+    <li>URL Mappings to Web Application Systems</li>
+    <li>Penetration Methodologies</li>
+  </ul>
+  <h3>Section E: Most Common Attacks Illustrated</h3>
+  <ul>
+    <li>Vertical Privilege Escalation</li>
+    <li>XSS: Cross-Site Scripting</li>
+    <li>Business Impacts of XSS</li>
+    <li>Finding/Fixing XSS</li>
+    <li>Injection Flaws</li>
+    <li>Unvalidated Input</li>
+    <li>Unvalidated Input Illustrated</li>
+    <li>Business Impacts of Unvalidated Input</li>
+    <li>Finding/Fixing Unvalidated Input</li>
+    <li>Attacks Against IIS</li>
+    <li>Unicode</li>
+  </ul>
+  <h3>Section F: Tools of the Trade Part I</h3>
+  <ul>
+    <li>N-Stalker</li>
+    <li>NTOSpider</li>
+    <li>Free Web Assessment Tools</li>
+    <li>N-Stalker Demo</li>
+    <li>HTTrack</li>
+    <li>Wikto</li>
+  </ul>
+  <h3>Section G: Tools of the Trade Part II</h3>
+  <ul>
+    <li>Paros Proxy</li>
+    <li>Paros Proxy Demo</li>
+    <li>Burp Proxy</li>
+    <li>Dictionary Maker/Cookies</li>
+    <li>Acunetix Web Scanner</li>
+    <li>Eclipse for Code Review</li>
+    <li>OWASP WebScarab</li>
+    <li>Samurai Web Testing</li>
+  </ul>

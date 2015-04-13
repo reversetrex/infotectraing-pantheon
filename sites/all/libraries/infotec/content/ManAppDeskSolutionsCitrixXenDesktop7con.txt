@@ -1,0 +1,673 @@
+<h3>Module 1: Understanding the Architecture of a XenApp and XenDesktop Solution</h3>
+<ul>
+  <li>XenApp or XenDesktop</li>
+  <li>XenApp and XenDesktop Architecture Overview</li>
+  <li>User Layer
+    <ul>
+      <li>Citrix Receiver</li>
+    </ul>
+  </li>
+  <li>Access Layer
+    <ul>
+      <li>Citrix NetScaler</li>
+      <li>Citrix StoreFront</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Control Layer
+    <ul>
+      <li>Delivery Controller</li>
+      <li>Machine Creation Services</li>
+      <li>Citrix Provisioning Services</li>
+      <li>Hypervisor</li>
+      <li>Virtual Delivery Agent</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Resource Layer
+    <ul>
+      <li>Applications</li>
+      <li>Operating System Image</li>
+      <li>Citrix Profile Management</li>
+      <li>Policies</li>
+      <li>Personal vDisk</li>
+    </ul>
+  </li>
+  <li>Management Layer
+    <ul>
+      <li>Citrix Studio</li>
+      <li>Citrix Director</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>XenApp and XenDesktop Sites</li>
+  <li>Ports</li>
+  <li>New Features</li>
+  <li>Deprecated Features</li>
+  <li>Discussion Question</li>
+  <li>Reinforcement Exercise: XenDesktop 7 Components</li>
+</ul>
+<h3>Module 2: Managing Licenses and Delegating Administration</h3>
+<ul>
+  <li>Managing Licenses in Studio
+    <ul>
+      <li>Discussion Question</li>
+      <li>Types of Licenses</li>
+      <li>Downloading, Allocating, and Importing a License File
+        <ul>
+          <li>To Download, Allocate, and Import a License File</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+      <li>Adding a License Administrator
+        <ul>
+          <li>To Add a License Administrator</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Managing Delegated Administration
+    <ul>
+      <li>Administrators</li>
+      <li>Roles</li>
+      <li>Scopes
+        <ul>
+          <li>To Add an Administrator</li>
+          <li>To Create a Custom Scope Using Studio</li>
+          <li>To Edit a Custom Scope</li>
+          <li>To Create a Custom Role</li>
+          <li>To Edit a Custom Role</li>
+          <li>To Edit an Administrator's Permissions</li>
+        </ul>
+      </li>
+      <li>Running a Delegated Administration Report
+        <ul>
+          <li>To Run a Delegated Administration Report</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+      <li>Using PowerShell</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Monitoring Configuration Logs
+    <ul>
+      <li>To Display Configuration Log Content</li>
+      <li>To Generate Configuration Log Reports</li>
+      <li>To Change the Configuration Log Settings</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Troubleshooting: Managing Licenses and Delegated Administration</li>
+  <li>Reinforcement Exercise: Configuring Roles and Scopes</li>
+</ul>
+<h3>Module 3: Managing and Monitoring the Hypervisor</h3>
+<ul>
+  <li>Architecture Overview</li>
+  <li>Creating a Virtual Machine from an ISO
+    <ul>
+      <li>Creating a Virtual Machine
+        <ul>
+          <li>To Create a Virtual Machine From an ISO</li>
+          <li>To Install a Windows OS onto a Virtual Machine</li>
+        </ul>
+      </li>
+      <li>Installing XenServer Tools
+        <ul>
+          <li>To Install XenServer Tools on a Virtual Machine</li>
+        </ul>
+      </li>
+      <li>Generalizing the Virtual Machine
+        <ul>
+          <li>To Generalize the Virtual Machine</li>
+        </ul>
+      </li>
+      <li>Creating a Template
+        <ul>
+          <li>To Create a Template from a Virtual Machine</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Managing Virtual Machines within a Hypervisor
+    <ul>
+      <li>Creating a Virtual Machine
+        <ul>
+          <li>To Create a Virtual Machine Using XenCenter</li>
+        </ul>
+      </li>
+      <li>Taking a Snapshot
+        <ul>
+          <li>To Take a Snapshot in XenCenter</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+      <li>Restoring a Virtual Machine From Sysprep
+        <ul>
+          <li>To Restore a Virtual Machine from Sysprep</li>
+        </ul>
+      </li>
+      <li>Copying a Virtual Machine
+        <ul>
+          <li>To Copy a Virtual Machine Using XenCenter</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+      <li>Reverting to a Snapshot
+        <ul>
+          <li>To Revert to a Snapshot in XenCenter</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Adjusting Virtual Machine or Template Resources
+    <ul>
+      <li>Adding Storage to a Virtual Machine or Template
+        <ul>
+          <li>To Add Storage to a Virtual Machine or Template in XenCenter</li>
+        </ul>
+      </li>
+      <li>Adjusting the Storage Allocated to a Virtual Machine
+        <ul>
+          <li>To Adjust the Storage Allocated to a Virtual Machine in XenCenter</li>
+        </ul>
+      </li>
+      <li>Adjusting the Memory Allocated to a Virtual Machine or Template
+        <ul>
+          <li>To Adjust Virtual Machine or Template Memory Allocations in XenCenter</li>
+        </ul>
+      </li>
+      <li>Adjusting vCPUs Allocated to a Virtual Machine or Template
+        <ul>
+          <li>To adjust the vCPUs allocated to a Virtual Machine or Template in XenCenter</li>
+          <li>To Remove a Virtual NIC in XenCenter</li>
+        </ul>
+      </li>
+      <li>Managing a Virtual NIC
+        <ul>
+          <li>To Remove a Virtual NIC in XenCenter</li>
+          <li>To Add a Virtual NIC in XenCenter</li>
+          <li>To Adjust a Virtual NIC in XenCenter</li>
+          <li>To Activate or Deactivate a Virtual NIC in XenCenter</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Configuring and Customizing Alerts
+    <ul>
+      <li>To Configure and Customize Alerts in XenCenter</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Troubleshooting: Managing and Monitoring Hypervisors</li>
+  <li>Reinforcement Exercise 1: Creating a Virtual Machine Template</li>
+  <li>Reinforcement Exercise 2: Completing the Setup Process After a Sysprep</li>
+</ul>
+<h3>Module 4: Managing Desktops and Applications</h3>
+<ul>
+  <li>Architecture Overview</li>
+  <li>Connecting to Resources</li>
+  <li>Managing Machine Catalogs</li>
+  <li>To Create New Resource Settings</li>
+  <li>Using Machine Creation Services</li>
+  <li>Discussion Question</li>
+  <li>Creating a Machine Catalog for Server Desktops and Hosted Applications
+    <ul>
+      <li>Installing the Virtual Delivery Agent
+        <ul>
+          <li>To Install and Configure the VDA on a Server OS</li>
+          <li>To Install and Configure the VDA on a Desktop OS</li>
+        </ul>
+      </li>
+      <li>Creating a Machine Catalog for Windows Server
+        <ul>
+          <li>Using a Virtual IP Address</li>
+          <li>To Create a Server OS Machine Catalog</li>
+        </ul>
+      </li>
+      <li>Creating a Machine Catalog for Windows Desktop
+        <ul>
+          <li>To Create a Desktop OS Machine Catalog</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Managing Delivery Groups
+    <ul>
+      <li>To Create a Delivery Group for Application Delivery</li>
+      <li>Discussion Question
+        <ul>
+          <li>To Create a Delivery Group for Anonymous User Access</li>
+          <li>To Create a Delivery Group for User Desktops</li>
+        </ul>
+      </li>
+      <li>Organizing Applications in Folders
+        <ul>
+          <li>To Organize Applications in Folders</li>
+        </ul>
+      </li>
+      <li>Securing Connections</li>
+    </ul>
+  </li>
+  <li>Managing Resources
+    <ul>
+      <li>To Add Machines to a Machine Catalog</li>
+      <li>To Perform an Update to the Master Image Virtual Machine</li>
+      <li>To Update the Desktops in a Machine Catalog</li>
+      <li>Managing Active Directory Accounts
+        <ul>
+          <li>To Manage Active Directory Accounts</li>
+        </ul>
+      </li>
+      <li>Managing Power for Machines in a Desktop OS Delivery Group
+        <ul>
+          <li>To Manage Power for Machines in a Desktop OS Delivery Group</li>
+          <li>To Reallocate Machines in a Delivery Group</li>
+          <li>To Shut Down and Restart Desktops</li>
+        </ul>
+      </li>
+      <li>Enabling and Disabling Maintenance Mode
+        <ul>
+          <li>To Enable and Disable Maintenance Mode</li>
+        </ul>
+      </li>
+      <li>Removing Desktops from Delivery Groups
+        <ul>
+          <li>To Remove Desktops from Delivery Groups</li>
+        </ul>
+      </li>
+      <li>Deleting a Delivery Group
+        <ul>
+          <li>To Delete a Delivery Group</li>
+        </ul>
+      </li>
+      <li>Deleting Machines from a Machine Catalog
+        <ul>
+          <li>To Delete Machines from a Machine Catalog</li>
+          <li>To Delete a Machine Catalog</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Troubleshooting: Managing Desktops and Applications</li>
+  <li>Reinforcement Exercise: Delivering Server Desktops</li>
+</ul>
+<h3>Module 5: Managing StoreFront</h3>
+<ul>
+  <li>StoreFront Architectural Overview
+    <ul>
+      <li>StoreFront Components</li>
+      <li>StoreFront Communication</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>StoreFront Management Console</li>
+  <li>Creating a New Store
+    <ul>
+      <li>To Create and Add a New Store</li>
+    </ul>
+  </li>
+  <li>Creating Anonymous User Stores
+    <ul>
+      <li>To Create a Store for Anonymous User Access</li>
+    </ul>
+  </li>
+  <li>Hiding a Store
+    <ul>
+      <li>To Hide a Store</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Managing Authentication
+    <ul>
+      <li>Configuring Authentication
+        <ul>
+          <li>To Configure Authentication Methods</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Enabling End Users to Change Their Passwords
+    <ul>
+      <li>To Enable End Users to Change Expired Passwords</li>
+    </ul>
+  </li>
+  <li>Managing Delivery Controllers
+    <ul>
+      <li>Adding Delivery Controllers
+        <ul>
+          <li>To Add Delivery Controllers</li>
+        </ul>
+      </li>
+      <li>To Remove Delivery Controllers</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Removing a Store
+    <ul>
+      <li>To Remove a Store</li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Troubleshooting: Managing StoreFront</li>
+  <li>Reinforcement Exercise: Creating and Configuring a New Store</li>
+</ul>
+<h3>Module 6: Managing Policies and Profiles</h3>
+<ul>
+  <li>Policy Precedence (Studio vs. Group Policy Objects)</li>
+  <li>Creating Policies Using Studio
+    <ul>
+      <li>Unfiltered Policy</li>
+      <li>Using a Policy Template in Studio
+        <ul>
+          <li>To Create a Policy from a Template</li>
+          <li>To Create a Policy Using Studio</li>
+        </ul>
+      </li>
+      <li>Applying a Policy Using Studio
+        <ul>
+          <li>To Apply a Policy</li>
+        </ul>
+      </li>
+      <li>Editing a Policy Using Studio
+        <ul>
+          <li>To Edit a Policy</li>
+        </ul>
+      </li>
+      <li>Prioritizing Policies Using Studio
+        <ul>
+          <li>To Prioritize a Policy</li>
+        </ul>
+      </li>
+      <li>Discussion Questions
+        <ul>
+          <li>To Create a Computer Template in Studio</li>
+        </ul>
+      </li>
+      <li>Exporting a Policy Template Using Studio
+        <ul>
+          <li>To Export a Policy Template</li>
+        </ul>
+      </li>
+      <li>Importing a Policy Template Using Studio
+        <ul>
+          <li>To Import a Policy Template</li>
+        </ul>
+      </li>
+      <li>Running the Resultant Set of Policy (RSOP)
+        <ul>
+          <li>To Create the RSOP Using the Group Policy Management Console</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Creating Policies Using Group Policy
+    <ul>
+      <li>Creating and Applying a Group Policy Object
+        <ul>
+          <li>To Create a GPO</li>
+        </ul>
+      </li>
+      <li>Editing a Group Policy Object
+        <ul>
+          <li>To Edit a Policy</li>
+        </ul>
+      </li>
+      <li>Using a User Template with Group Policy
+        <ul>
+          <li>To Use a User Template</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+      <li>Importing a Policy Template with Group Policy
+        <ul>
+          <li>To Import a Policy Template</li>
+        </ul>
+      </li>
+      <li>Exporting a Policy Template with Group Policy
+        <ul>
+          <li>To Export a Policy Template</li>
+        </ul>
+      </li>
+      <li>Prioritizing a Policy Using Group Policy
+        <ul>
+          <li>To Change the Priority of a Policy</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Troubleshooting: Managing Policies</li>
+  <li>Managing End-User Profiles
+    <ul>
+      <li>Configuring Folder Redirection
+        <ul>
+          <li>To Configure Folder Redirection</li>
+        </ul>
+      </li>
+      <li>Managing Profile Settings Using Citrix Policies
+        <ul>
+          <li>To Manage Profile Settings Using Citrix Policies</li>
+        </ul>
+      </li>
+      <li>Resolving Conflicting Profiles
+        <ul>
+          <li>To Resolve Conflicting Profiles</li>
+        </ul>
+      </li>
+      <li>Streaming End-User Profiles
+        <ul>
+          <li>To Stream End-User Profiles</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+    </ul>
+  </li>
+  <li>Troubleshooting: Profile Management</li>
+  <li>Reinforcement Exercise 1: Working with Policies</li>
+  <li>Reinforcement Exercise 2: Working with Profiles</li>
+</ul>
+<h3>Module 7: Managing and Monitoring Sessions, Sites, and End Users with  Director</h3>
+<ul>
+  <li>Director Overview
+    <ul>
+      <li>To Monitor an End-User Session</li>
+      <li>To Access Director</li>
+    </ul>
+  </li>
+  <li>Monitoring within the Director Dashboard
+    <ul>
+      <li>Monitoring Infrastructure
+        <ul>
+          <li>To Monitor the Infrastructure</li>
+        </ul>
+      </li>
+      <li>Monitoring Connected Sessions
+        <ul>
+          <li>To Monitor Connected Sessions</li>
+        </ul>
+      </li>
+      <li>Monitoring Logon Duration Averages
+        <ul>
+          <li>To Monitor Logon Duration Averages</li>
+        </ul>
+      </li>
+      <li>Monitoring Machine and End-User Connection Failures
+        <ul>
+          <li>To Monitor End-User Connection Failures</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Monitoring and Managing End-User Sessions
+    <ul>
+      <li>Viewing End-User Sessions
+        <ul>
+          <li>To View End-User Sessions</li>
+        </ul>
+      </li>
+      <li>Searching for an End User
+        <ul>
+          <li>To Search for an End User</li>
+        </ul>
+      </li>
+      <li>Monitoring End-User Applications
+        <ul>
+          <li>To Monitor End-User Applications</li>
+        </ul>
+      </li>
+      <li>Monitoring End-User Machine Processes
+        <ul>
+          <li>To Monitor End-User Machine Processes</li>
+        </ul>
+      </li>
+      <li>Managing an End User's Machine Power Status
+        <ul>
+          <li>To Manage an End User's Machine Power Status</li>
+        </ul>
+      </li>
+      <li>Enabling or Disabling Maintenance Mode
+        <ul>
+          <li>To Enable or Disable Maintenance Mode</li>
+        </ul>
+      </li>
+      <li>Resetting an End-User Profile
+        <ul>
+          <li>To Reset an End-User Profile</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+      <li>Monitoring HDX Channels
+        <ul>
+          <li>To Monitor HDX Channels</li>
+        </ul>
+      </li>
+      <li>Sending a Message to an End User
+        <ul>
+          <li>To Send a Message to an End User</li>
+        </ul>
+      </li>
+      <li>Shadowing an End-User Session
+        <ul>
+          <li>To Shadow an End-User Session</li>
+        </ul>
+      </li>
+      <li>Disconnecting an End-User Session
+        <ul>
+          <li>To Disconnect an End-User Session</li>
+        </ul>
+      </li>
+      <li>Logging an End User Off
+        <ul>
+          <li>To Log an End User Off</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+      <li>Monitoring Historical Trends
+        <ul>
+          <li>To Monitor Historical Trends</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Troubleshooting: Managing Sites, Sessions, and End Users with Director</li>
+  <li>Reinforcement Exercise: Using Director</li>
+</ul>
+<h3>Module 8: Managing Printing</h3>
+<ul>
+  <li>Print Management Process</li>
+  <li>Default Printing Behavior</li>
+  <li>Configuring Client Printing
+    <ul>
+      <li>Modifying Client Printer Auto-Creation
+        <ul>
+          <li>To Modify Client Printer Auto-Creation Behavior</li>
+        </ul>
+      </li>
+      <li>Discussion Question</li>
+      <li>Adding Session Printers
+        <ul>
+          <li>To Add Session Printers</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Managing Printer Drivers
+    <ul>
+      <li>Automatic Installation of In-Box Printer Drivers
+        <ul>
+          <li>To Configure the Automatic Installation of Printer Drivers</li>
+        </ul>
+      </li>
+      <li>Configuring Printer Driver Mapping and Compatibility
+        <ul>
+          <li>To Configure Printer Driver Mapping and Compatibility</li>
+        </ul>
+      </li>
+      <li>Universal Printer Driver</li>
+      <li>Controlling Universal Printing Behavior</li>
+    </ul>
+  </li>
+  <li>Optimizing Printing Performance
+    <ul>
+      <li>To Configure Printing Optimization</li>
+    </ul>
+  </li>
+  <li>Discussion Question</li>
+  <li>Setting Up and Managing the Universal Print Server
+    <ul>
+      <li>To Set Up and Manage the Universal Print Server</li>
+    </ul>
+  </li>
+  <li>Troubleshooting: Managing Printing</li>
+  <li>Reinforcement Exercise: Managing Printing</li>
+</ul>
+<h3>Module 9: Managing Provisioning Services</h3>
+<ul>
+  <li>Citrix Provisioning Services</li>
+  <li>Machine Creation Services or Provisioning Services</li>
+  <li>Provisioning Services Overview and Architecture</li>
+  <li>Discussion Question</li>
+  <li>Navigating the Provisioning Services Console
+    <ul>
+      <li>To Navigate the Provisioning Services Console</li>
+    </ul>
+  </li>
+  <li>To Create a Provisioning Services Master Virtual Machine</li>
+  <li>To Install the Virtual Delivery Agent (VDA)</li>
+  <li>Creating the vDisk</li>
+  <li>To Convert the Hard Drive of the Master Target Device to a vDisk</li>
+  <li>Setting the vDisk Mode
+    <ul>
+      <li>To set the vDisk Mode</li>
+    </ul>
+  </li>
+  <li>Creating the Machine Catalog
+    <ul>
+      <li>To Create a Diskless Target Device Template</li>
+      <li>To Create the Machine Catalog</li>
+    </ul>
+  </li>
+  <li>Discussion Question</li>
+  <li>To Assign a Machine Catalog to a Delivery Group</li>
+  <li>Discussion Question</li>
+  <li>To Update a vDisk</li>
+  <li>Promoting Updated Versions
+    <ul>
+      <li>To Promote Updated vDisk Versions</li>
+    </ul>
+  </li>
+  <li>Discussion Question</li>
+  <li>VHD Chain of Differencing Disks</li>
+  <li>Merging VHD Differencing Disks
+    <ul>
+      <li>To Merge VHD Differencing Disks</li>
+    </ul>
+  </li>
+  <li>Troubleshooting: Provisioning Services</li>
+  <li>Reinforcement Exercise: Provisioning Services</li>
+</ul>

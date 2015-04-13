@@ -1,0 +1,137 @@
+<p><strong>Module 1: Introduction to Mastering Microsoft Project - This module provides an overview of how the features of Project relate to the job of the project manager.</strong></p>
+<ul>
+  <li>Describe how Project relates to the discipline of Project management.</li>
+  <li>Know the significant new features of   Project 2010.</li>
+  <li>Navigate to the primary views available using the Ribbon</li>
+  <li>Choose Views that display task, resource, or assignment information.</li>
+  <li>Select table within views to change the information that is available to see and edit.</li>
+  <li>Relate the features of Project to the 5 steps for building a plan in Project.</li>
+</ul>
+<p><strong>Module 2: A Quick and Easy Overview of Managing with Project - This module demonstrates the steps required to create and use Project through the life cycle of a project.</strong></p>
+<ul>
+  <li>Create a new project and prepare it for data entry.</li>
+  <li>Enter project tasks.</li>
+  <li>Sequence the tasks.</li>
+  <li>Define resources.</li>
+  <li>Estimate Task duration and assign resources.</li>
+  <li>Baseline the project.</li>
+  <li>Track project progress.</li>
+</ul>
+<p><strong>Module 3: Setting Up a Project - This module explains how to create a new project and establish the basic constraints that Project will use for its calculations.</strong></p>
+<ul>
+  <li>Use multiple methods to create a new project, including opening an Excel file and a SharePoint Tasks list.</li>
+  <li>Establish one or more calendars to constrain resource availability.</li>
+  <li>Configure Project to calculate the schedule from the Start Date forward, or from the Finish Date backward.</li>
+</ul>
+<p><strong>Module 4: Manually Schedule vs. Auto Schedule - This module explains how to manually schedule project tasks and how to leverage the auto schedule feature.</strong></p>
+<ul>
+  <li>Describe which project functions are turned off for tasks using Manually Schedule mode.</li>
+  <li>Change the task mode from Manually Schedule to Auto Schedule and back.</li>
+  <li>Identify tasks that are in Manually Schedule mode by the task mode column and shape on the Gantt chart.</li>
+  <li>Describe situations that are particularly appropriate for using Manually Schedule.</li>
+  <li>Describe the limitations that a user must be aware of when using Manually Schedule mode.</li>
+</ul>
+<p><strong>Module 5: Creating a Work Breakdown Structure - This module explains how to create a useful work breakdown structure and enter it into Project.</strong></p>
+<ul>
+  <li>Build and use summary and subordinate tasks.</li>
+  <li>Understand and use milestones.</li>
+  <li>Develop WBS Outlines.</li>
+  <li>Assign completion criteria.</li>
+  <li>Evaluate the WBS.</li>
+  <li>Understand and use WBS templates.</li>
+</ul>
+<p><strong>Module 6: Identifying Task Relationships - This module explains the rules for establishing dependency links between tasks and presents the features to use Project to establish and display these dependencies.</strong></p>
+<ul>
+  <li>Understand and use the types of task relationships.</li>
+  <li>Understand and use various methods to create relationships.</li>
+  <li>Determine and display task sequence.</li>
+  <li>Understand and use lag, lead, and delay.</li>
+</ul>
+<p><strong>Module 7: Defining resources within Project - This module explains how to enter resources and specific resource information in Microsoft Project and assign resources to specific tasks.</strong></p>
+<ul>
+  <li>Define individual resources that will be used on the project.</li>
+  <li>Record the cost (s) of using each type of resource.</li>
+  <li>Record the limit of availability for each type of resource by establishing a resource calendar and defining the   maximum units of that resource.</li>
+</ul>
+<p><strong>Module 8: Making Work Package Estimates - This module explains how Microsoft Project calculates task duration, task work (effort) and task resources. Students will be able to choose among three task types as they enter task estimates and they will know which task type is appropriate for the type of estimate they are making.</strong></p>
+<ul>
+  <li>Enter estimates for duration and costs for each task.</li>
+  <li>Distinguish between task types and describe when each is appropriate.</li>
+  <li>Describe the relationship between work, units, and duration.</li>
+  <li>Describe the way Effort Driven scheduling is affected by work, units, and duration.</li>
+  <li>Assign tasks to resources using the Team Planner view.</li>
+</ul>
+<p><strong>Module 9: Creating an Initial Schedule - This module explains how Project calculates a schedule based on task relationships and task duration. Students will understand the purpose of identifying critical path tasks and will be able to identify schedule float within the project.</strong></p>
+<ul>
+  <li>Calculate the Schedule: The Theory Behind the Software.</li>
+  <li>Critical Path.</li>
+  <li>Schedule Float.</li>
+  <li>Constraints.</li>
+  <li>Deadlines.</li>
+  <li>Task Relationships and Crashing a Schedule.</li>
+  <li>Milestones.</li>
+  <li>Task Inspector.</li>
+</ul>
+<p><strong>Module 10: Create a Resource Leveled Schedule - This module explains how over-allocated resources create unrealistic schedules and shows methods for rescheduling in order to create a realistic schedule based on resource   availability.</strong></p>
+<ul>
+  <li>Project Statistics.</li>
+  <li>Resource Graph and Resource Sheet.</li>
+  <li>Resource Usage View.</li>
+  <li>Resource Allocation.</li>
+  <li>Task Usage View.</li>
+  <li>Realistic Resource Planning.</li>
+  <li>Resource Leveling.</li>
+  <li>Leveling Settings.</li>
+  <li>Leveling Settings Defined - Leveling Calculations.</li>
+  <li>Leveling Settings Defined - Resolving Over-allocations.</li>
+  <li>The Leveling Gantt Demonstrates Results of Leveling.</li>
+  <li>Manual Leveling.</li>
+</ul>
+<p><strong>Module 11: Managing the Project - This module explains how to use Project to control a project. Students will save their plan to a baseline and see how entering actual task performance data enables them to view differences between planned and actual performance.</strong></p>
+<ul>
+  <li>Tracking Field Definitions.</li>
+  <li>Creating the Project Baseline.</li>
+  <li>Displaying the Baseline on a Gantt Chart.</li>
+  <li>The Tracking Gantt.</li>
+  <li>Recording Progress Using % Complete.</li>
+  <li>Updating Task and Resource Status.</li>
+  <li>Recording Progress Using Actual Work.</li>
+  <li>Variance.</li>
+  <li>Percent Complete.</li>
+  <li>Cost.</li>
+  <li>Evaluating and Displaying Variance.</li>
+  <li>Scheduling interruptions.</li>
+  <li>Splitting tasks.</li>
+  <li>Rescheduling Work.</li>
+</ul>
+<p><strong>Module 12: Formatting Output and Printing Reports - This module explains how to format the many views and reports available in Project.</strong></p>
+<ul>
+  <li>Formatting the Timeline</li>
+  <li>Using the Gantt Wizard</li>
+  <li>Visual Reports</li>
+  <li>Standard Reports</li>
+  <li>Custom Reports</li>
+  <li>Editing a Custom Report</li>
+  <li>Reports</li>
+  <li>Grouping, sorting, and filtering</li>
+  <li>Copy Picture to Office Wizard</li>
+  <li>More Formatting for the Gantt Chart</li>
+  <li>Reporting Against Budget</li>
+  <li>Creating a Budget</li>
+</ul>
+<p><strong>Module 13: Managing Multiple Projects - This module explains how to view many projects as parts of one very large project in order to gain new views on resource availability and task relationships among projects.</strong></p>
+<ul>
+  <li>Integrating Multiple Projects</li>
+  <li>Consolidating Project Files</li>
+  <li>Resource Pools</li>
+  <li>Summary</li>
+</ul>
+<p><strong>Module 14: Advanced Topics - This module explains how to leverage some of the advanced features of Project.</strong></p>
+<ul>
+  <li>Customizing WBS Prefix</li>
+  <li>Applying Grouping and Grouping customized Fields</li>
+  <li>Applying Filtering functions</li>
+  <li>Leveraging Global Templates</li>
+  <li>Identify resource delay within a   Task</li>
+  <li>Applying Deadlines to a project</li>
+</ul>

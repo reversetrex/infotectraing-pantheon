@@ -1,0 +1,5 @@
+<p>This one-day instructor-led course provides students with the knowledge and skills to appreciate the architecture, new features and application compatibility considerations of the Windows 7 operating system.</p>
+
+<p>Windows 7 is the latest client operating system release from Microsoft.  Windows 7 offers improvements in performance and reliability, advanced scenarios for user interaction including multi-touch support at the operating system level, innovative hardware changes including sensor support and many other features.</p>
+
+<p>The course is packed with demos to provide an overview of the majority of new features in Windows 7, and the primary alternatives for interacting with them from managed code.</p>

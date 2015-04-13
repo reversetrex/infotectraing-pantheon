@@ -1,0 +1,11 @@
+<ul>
+     <li> Construct basic PL/SQL blocks </li>
+     <li> Manage exception handling </li>
+     <li> Process data using cursors </li>
+     <li> Develop and manage stored procedures and functions </li>
+     <li> Create and manage database triggers </li>
+     <li> Implement PL/SQL packages </li>
+     <li> Utilize PL/SQL tables and records </li>
+     <li> Use PL/SQL collections and bulk operations </li>
+     <li> Reference PL/SQL built-In packages and their descriptions </li>
+   </ul>

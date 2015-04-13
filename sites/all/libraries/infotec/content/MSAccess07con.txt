@@ -1,0 +1,126 @@
+<p><strong>Lesson 1: Exploring the Microsoft Office Access 2007 Environment</strong></p>
+
+<ul> 
+	<li>Examine Database Concepts</li>
+	<li>Explore the User Interface</li> 
+	<li>Use an Existing Access Database</li> 
+	<li>Customize the Access Environment</li> 
+	<li>Obtain Help</li>
+</ul>
+
+
+<p><strong>Lesson 2: Designing a Database</strong></p>
+
+<ul>
+	<li>Describe the Relational Database Design Process</li>
+	<li>Define Database Purpose</li>
+	<li>Review Existing Data</li> 
+	<li>Determine Fields</li> 
+	<li>Group Fields into Tables</li> 
+	<li>Normalize Data</li> 
+	<li>Designate Primary and Foreign Keys</li> 
+	<li>Determine Table Relationships</li>
+</ul>
+
+<p><strong>Lesson 3: Building a Database</strong></p>
+
+<ul> 
+	<li>Create a New Database</li>
+	<li>Create a Table</li> 
+	<li>Manage Tables</li> 
+	<li>Create a Table Relationship</li> 
+	<li>Save a Database as a Previous Version</li>
+</ul>
+
+<p><strong>Lesson 4: Managing Data in a Table</strong></p>
+
+<ul>
+	<li>Modify Table Data</li> 
+	<li>Sort Records</li> 
+	<li>Work with Subdatasheets</li>
+</ul>
+
+<p><strong>Lesson 5: Querying a Database</strong></p>
+
+<ul>
+	<li>Filter Records</li> 
+	<li>Create a Query</li> 
+	<li>Add Criteria to a Query</li> 
+	<li>Add a Calculated Field to a Query</li> 
+	<li>Perform Calculations on a Record Grouping</li>
+</ul>
+
+<p><strong>Lesson 6: Designing Forms</strong></p>
+
+<ul> 
+	<li>View Data Using an Access Form</li>
+	<li>Create a Form</li> 
+	<li>Modify the Design of a Form</li>
+</ul>
+
+<p><strong>Lesson 7: Generating Reports</strong></p>
+
+<ul>
+	<li>View an Access Report</li> 
+	<li>Create a Report</li> 
+	<li>Add a Custom Calculated Field to a Report</li> 
+	<li>Format the Controls in a Report</li> 
+	<li>Apply an AutoFormat Style to a Report</li> 
+	<li>Prepare a Report for Print</li>
+</ul>
+
+<p><strong>Lesson 8: Controlling Data Entry</strong></p>
+
+<ul> 
+	<li>Restrict Data Entry Using Field Properties</li> 
+	<li>Establish a Pattern for Entering Field Values</li> 
+	<li>Create a List of Values for a Field</li>
+</ul>
+
+<p><strong>Lesson 9: Joining Tables</strong></p>
+
+<ul> 
+	<li>Create Query Joins</li> 
+	<li>Join Unrelated Tables</li>
+	<li>Relate Data Within a Table</li>
+</ul>
+
+<p><strong>Lesson 10: Creating Flexible Queries</strong></p>
+
+<ul> 
+<li>Topic 3A: Set Select Query Properties</li> 
+<li>Topic 3B: Create Parameter Queries</li> 
+<li>Topic 3C: Create Action Queries</li>
+</ul>
+
+<p><strong>Lesson 11: Improving Forms</strong></p>
+
+<ul>
+	<li>Design a Form Layout</li>
+	<li>Enhance the Appearance of a Form</li> 
+	<li>Restrict Data Entry in Forms</li> 
+	<li>Add a Command Button to a Form</li> 
+	<li>Create a Subform</li>
+</ul>
+
+<p><strong>Lesson 12: Customizing Reports</strong></p>
+
+<ul> 
+	<li>Organize Report Information</li> 
+	<li>Format the Report</li> 
+	<li>Set Report Control Properties</li> 
+	<li>Control Report Pagination</li> 
+	<li>Summarize Report Information</li> 
+	<li>Add a Subreport to an Existing Report</li> 
+	<li>Create a Mailing Label Report</li>
+</ul>
+
+<p><strong>Lesson 13: Sharing Data Across Applications</strong></p>
+
+<ul> 
+	<li>Import Data into Access</li> 
+	<li>Export Data</li> 
+	<li>Analyze Access Data in Excel</li> 
+	<li>Export Data to a Text File</li> 
+	<li>Merge Access Data with a Word Document</li>
+</ul>

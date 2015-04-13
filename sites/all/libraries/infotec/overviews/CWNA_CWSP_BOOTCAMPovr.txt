@@ -1,0 +1,10 @@
+<strong>CWNA:</strong>
+<br><br>
+
+The Wireless LAN Administration course, whether in an academic format or a 5-day fast-track format, provides the networking professional a complete foundation of knowledge for entering into or advancing in the wireless networking industry. From basic RF theory to 802.11 frame exchange processes, this course delivers hands on training that will benefit the novice as well as the experienced network professional.
+<br><br>
+
+<strong>CWSP:</strong>
+<br><br>
+
+The Wireless LAN Security course consists of hands on learning using the latest enterprise wireless LAN security and auditing equipment. This course addresses in detail the most up-to-date WLAN intrusion and DoS tools and techniques, functionality of the 802.11i amendment to the 802.11 standard, the inner-workings of each EAP type used with wireless LANs today, and every class and type of WLAN security solution available on the market - from wireless intrusion prevention systems to wireless network management systems.

@@ -1,0 +1,30 @@
+<p><strong>Lesson 1: Exploring the Excel Environment</strong></p>
+  <ul>
+    <li>Explore the User Interface</li>
+    <li>Work with the Ribbon</li>
+    <li>Work with Contextual Tabs</li>
+    <li>Use the Excel Galleries</li>
+    <li>Customize the Excel Interface</li>
+  </ul>
+<p><strong>Lesson 2: Organizing Data</strong></p>
+  <ul>
+    <li>Explore the Enhancements in Excel 2007 Spreadsheets</li>
+    <li>Insert Tables</li>
+    <li>Format Tables</li>
+  </ul>
+<p><strong>Lesson 3: Analyzing Data</strong></p>
+  <ul>
+    <li>Apply Conditional Formatting</li>
+    <li>Sort Data in a Spreadsheet</li>
+    <li>Filter Data in a Spreadsheet</li>
+    <li>Apply a Formula</li>
+  </ul>
+<p><strong>Lesson 4: Presenting Data</strong></p>
+  <ul>
+    <li>Create Charts</li>
+    <li>Format Charts</li>
+    <li>Work with Illustrations</li>
+    <li>Create PivotTables and PivotCharts</li>
+    <li>Share Excel Charts</li>
+    <li>Save Data in Presentable Formats</li>
+  </ul>

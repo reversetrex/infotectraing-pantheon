@@ -1,0 +1,59 @@
+<p><strong>Day 1</strong></p>
+<p><strong>Chapter 1: Course Introduction</strong></p>
+<p><strong>Chapter 2: Layer 2 Switching</strong></p>
+<ul>
+  <li>Ethernet Bridging Basics</li>
+  <li>Terminology and Design Considerations</li>
+  <li>Overview of Enterprise Switching Platforms</li>
+  <li>Enabling and Monitoring Layer 2 Switching Operations</li>
+  <li>Lab 1: Implementing Layer 2 Switching</li>
+</ul>
+<p><strong>Chapter 3: Virtual Networks </strong></p>
+<ul>
+  <li>Overview of VLANs</li>
+  <li>Configuring and Monitoring VLANs</li>
+  <li>Voice VLAN</li>
+  <li>Native VLAN</li>
+  <li>Routed VLAN Interfaces</li>
+  <li>Lab 2: Implementing Virtual Networks</li>
+</ul>
+<p><strong>Chapter 4: Spanning Tree </strong></p>
+<ul>
+  <li>Spanning Tree Protocol</li>
+  <li>Rapid Spanning Tree Protocol</li>
+  <li>Configuring and Monitoring STP and RSTP</li>
+  <li>Protection Features: BPDU Protection</li>
+  <li>Protection Features: Loop Protection</li>
+  <li>Protection Features: Root Protection</li>
+  <li>Lab 3: Implementing Spanning Tree</li>
+</ul>
+<p><strong>Day 2</strong></p>
+<p><strong>Chapter 5: Port Security</strong></p>
+<ul>
+  <li>MAC Limiting</li>
+  <li>DHCP Snooping</li>
+  <li>Dynamic ARP Inspection (DAI)</li>
+  <li>IP Source Guard</li>
+  <li>Lab 4: Implementing Port Security</li>
+</ul>
+<p><strong>Chapter 6: Device Security and Firewall Filters</strong></p>
+<ul>
+  <li>Storm Control</li>
+  <li>Firewall Filters</li>
+  <li>Lab 5: Implementing Storm Control and Firewall Filters</li>
+</ul>
+<p><strong>Chapter 7: Virtual Chassis</strong></p>
+<ul>
+  <li>Overview of Virtual Chassis</li>
+  <li>Configuring and Monitoring a Virtual Chassis</li>
+  <li>Lab 6: Implementing Virtual Chassis Systems</li>
+</ul>
+<p><strong>Chapter 8: High Availability Features</strong></p>
+<ul>
+  <li>Overview of High Availability Networks</li>
+  <li>Link Aggregation Groups</li>
+  <li>Redundant Trunk Groups</li>
+  <li>Lab 7: Implementing High Availability Features</li>
+</ul>
+<p><strong>Appendix A: Ethernet Ring Protection Switching</strong></p>
+<p><strong>Appendix B: Multiple Spanning Tree Protocol</strong></p>

@@ -1,0 +1,34 @@
+<p><strong>Lesson  1: Getting Started with OneNote 2010</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Explore the OneNote Interface</li>
+  <li><strong>Topic 1B: </strong>Create a Notebook</li>
+  <li><strong>Topic 1C: </strong>Customize the OneNote Interface</li>
+</ul>
+<p><strong>Lesson  2: Creating Notes</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Enter Note</li>
+  <li><strong>Topic 2B: </strong>Create Template-Based Notes</li>
+  <li><strong>Topic 2C: </strong>Format Notes</li>
+  <li><strong>Topic 2D: </strong>Draw Shapes</li>
+  <li><strong>Topic 2E: </strong>Embed Content</li>
+</ul>
+<p><strong>Lesson  3: Organizing and Working with OneNote</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Organize Notes</li>
+  <li><strong>Topic 3B: </strong>Add Tags</li>
+  <li><strong>Topic 3C: </strong>Search Notes</li>
+  <li><strong>Topic 3D: </strong>Save and Print Notes</li>
+</ul>
+<p><strong>Lesson  4: Integrating OneNote with Other Applications</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Customize the OneNote View</li>
+  <li><strong>Topic 4B: </strong>Use Outlook with OneNote</li>
+  <li><strong>Topic 4C: </strong>Use OneNote with Other Office  Applications</li>
+  <li><strong>Topic 4D: </strong>Publish Notes Pages</li>
+</ul>
+<p><strong>Lesson  5: Collaborating and Working with Notes</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Share Notebooks on a Network Location</li>
+  <li><strong>Topic 5B: </strong>Work with Shared Notebooks</li>
+</ul>
+<p><strong>Appendix  A: Using OneNote on Mobile Devices</strong></p>

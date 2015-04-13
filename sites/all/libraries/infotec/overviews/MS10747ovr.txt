@@ -1,0 +1,1 @@
+This five-day instructor-led course provides students with the knowledge and skills to configure and manage a Microsoft System Center 2012 Configuration Manager site and its associated site systems in the role of Configuration Manager Administrators.

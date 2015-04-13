@@ -1,0 +1,9 @@
+<h2>Session 1</h2>
+<h3>Section A: Customer Satisfaction</h3>
+<ul>
+  <li>The Customer Service Connection</li>
+  <li>Working with Customers</li>
+  <li>Extraordinary Customer Service</li>
+  <li>The Customer Service Resource</li>
+  <li>Key Point</li>
+</ul>

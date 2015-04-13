@@ -1,0 +1,6 @@
+<p> At the end of this course, you will be able to: </p>
+<ul>
+  <li> Understand the ITIL model sufficiently to be able to develop, implement and manage an Integrated Change and Release Management framework, using Configuration Management as a critical component </li>
+  <li>Take and pass the exam for the Practitioner's Certificate in Control and Release </li>
+  <li>Understand best practices for requesting, assessing, approving and deploying changes to IT services, and be able to relate how these processes contribute to an increase in functionality and quality of IT services.</li>
+</ul>

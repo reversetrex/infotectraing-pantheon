@@ -1,0 +1,51 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the overall server and client Lync Server 2013 architecture.</li>
+  <li>Describe Lync 2013 features and user scenarios.</li>
+  <li>Describe the Lync Server deployment process.</li>
+  <li>Describe the components of a Lync Server 2013 Design.</li>
+  <li>Plan for Microsoft Solutions Framework for Lync 2013.</li>
+  <li>Plan Infrastructure Requirements for Lync Server 2013.</li>
+  <li>Use the Lync Server 2013 Planning Tool.</li>
+  <li>Use Topology Builder.</li>
+  <li>Plan for Site Topology.</li>
+  <li>Design a Site Topology.</li>
+  <li>Plan the Server Infrastructure.</li>
+  <li>Design Documentation Using Microsoft Office.</li>
+  <li>Use Lync Server 2013 management interfaces.</li>
+  <li>Configure Role-Based Access Control.</li>
+  <li>Prepare for client deployment.</li>
+  <li>Deploy and manage clients.</li>
+  <li>Prepare for device deployment.</li>
+  <li>Deploy and manage Internet Protocol (IP) phones.</li>
+  <li>Describe conferencing in Lync Server 2013.</li>
+  <li>Describe dial-in conferencing in Lync Server 2013.</li>
+  <li>Manage and administer dial-in conferencing in Lync Server 2013.</li>
+  <li>Describe the conferencing capabilities of Lync Server 2013.</li>
+  <li>Design audio and video for web conferencing.</li>
+  <li>Plan for instant message and presence Federation.</li>
+  <li>Design Edge services.</li>
+  <li>Describe the features and concepts for Persistent Chat in Lync Server 2013.</li>
+  <li>Design Lync Server 2013 to include Persistent Chat.</li>
+  <li>Deploy and configure Persistent chat in Lync Server 2013.</li>
+  <li>Describe the Archiving service.</li>
+  <li>Describe the Monitoring service.</li>
+  <li>Configure the Archiving and Monitoring services.</li>
+  <li>Describe and use the Lync Server 2013 troubleshooting tools.</li>
+  <li>Describe the required daily, weekly, and monthly maintenance tasks.</li>
+  <li>Describe the fundamental troubleshooting approach to Lync Server 2013 issues.</li>
+  <li>Use SIP commands and analyze SIP logs.</li>
+  <li>Describe high availability in Lync Server 2013.</li>
+  <li>Configure High Availability features in Lync Server 2013.</li>
+  <li>Plan for load balancing in Lync Server 2013.</li>
+  <li>Design load balancing in Lync Server 2013.</li>
+  <li>Describe the high availability options in Lync Server 2013.</li>
+  <li>Describe the tools for backing up and restoring Lync Server 2013 data.</li>
+  <li>Backup and restore critical Lync Server 2013 data.</li>
+  <li>Export and import critical Lync Server 2013 data.</li>
+  <li>Describe design considerations for branch site scenarios.</li>
+  <li>Describe the migration process.</li>
+  <li>Describe migration and coexistence topologies.</li>
+  <li>Plan for client and device migration.</li>
+  <li>Design a software deployment strategy for Lync 2013.</li>
+</ul>

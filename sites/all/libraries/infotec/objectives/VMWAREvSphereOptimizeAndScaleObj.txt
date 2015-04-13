@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, learners are able to perform the following:</p>
+<ul>
+  <li>Configure and manage ESXi networking and storage for a large and sophisticated enterprise.</li>
+  <li>Manage changes to the vSphere environment.</li>
+  <li>Optimize the performance of all vSphere components.</li>
+  <li>Troubleshoot operational faults and identify their root causes.</li>
+  <li>Use VMware vSphere ESXi Shell and VMware vSphere Management Assistant (vMA) to manage vSphere.</li>
+  <li>Use VMware vSphere Auto Deploy to provision ESXi hosts.</li>
+</ul>

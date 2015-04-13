@@ -1,0 +1,62 @@
+<p><strong>Lesson 1: Creating Complex Illustrations</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Create a Custom Shape Using Simple Shapes</li>
+  <li><strong>Topic 1B: </strong>Create Perspective Drawings</li>
+  <li><strong>Topic 1C: </strong>Create Compound Paths</li>
+  <li><strong>Topic 1D: </strong>Offset Paths</li>
+  <li><strong>Topic 1E: </strong>Erase Shapes</li>
+</ul>
+<p><strong>Lesson 2: Enhancing Complex Illustrations</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Organize Objects with Layers</li>
+  <li><strong>Topic 2B: </strong>Create Symbols</li>
+  <li><strong>Topic 2C: </strong>Create a Pattern Swatch</li>
+  <li><strong>Topic 2D: </strong>Create a Mesh</li>
+  <li><strong>Topic 2E: </strong>Create Custom Brushes</li>
+  <li><strong>Topic 2F: </strong>Apply Color Using Live Paint</li>
+  <li><strong>Topic 2G: </strong>Recolor Artwork</li>
+</ul>
+<p><strong>Lesson 3: Creating a Vector Version of a  Raster Graphic</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Trace Artwork</li>
+  <li><strong>Topic 3B: </strong>Adjust the Results of Tracing</li>
+  <li><strong>Topic 3C: </strong>Create a Custom Preset</li>
+  <li><strong>Topic 3D: </strong>Convert a Traced Object to Paths</li>
+</ul>
+<p><strong>Lesson 4: Creating Special Effects</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Apply Effects</li>
+  <li><strong>Topic 4B: </strong>Create Masks</li>
+  <li><strong>Topic 4C: </strong>Simplify Paths</li>
+  <li><strong>Topic 4D: </strong>Create Blends</li>
+  <li><strong>Topic 4E: </strong>Share Graphic Styles</li>
+  <li><strong>Topic 4F: </strong>Create 3D Effects</li>
+</ul>
+<p><strong>Lesson 5: Working with Graphs</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Create a Graph</li>
+  <li><strong>Topic 5B: </strong>Format a Graph</li>
+</ul>
+<p><strong>Lesson 6: Working with Variables</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Create Variables</li>
+  <li><strong>Topic 6B: </strong>Create Data Sets</li>
+</ul>
+<p><strong>Lesson 7: Outputting Documents</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Set Up Color Management</li>
+  <li><strong>Topic 7B: </strong>Preview an Overprint</li>
+  <li><strong>Topic 7C: </strong>Apply Spot Colors</li>
+  <li><strong>Topic 7D: </strong>Print a Composite Proof</li>
+  <li><strong>Topic 7E: </strong>Create Color Separations</li>
+  <li><strong>Topic 7F: </strong>Create an Adobe PDF File</li>
+</ul>
+<p><strong>Lesson 8: Exporting Graphics for the Web  and Mobile Devices</strong></p>
+<ul>
+  <li><strong>Topic 8A: </strong>Convert Colors to Web-Safe Colors</li>
+  <li><strong>Topic 8B: </strong>Work with Actions</li>
+  <li><strong>Topic 8C: </strong>Export a File as an SWF File</li>
+  <li><strong>Topic 8D: </strong>Create Slices</li>
+  <li><strong>Topic 8E: </strong>Add Interactivity to an SVG File</li>
+  <li><strong>Topic 8F: </strong>Preview an Illustration for Mobile Devices</li>
+</ul>

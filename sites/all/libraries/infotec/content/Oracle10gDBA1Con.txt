@@ -1,0 +1,114 @@
+<p><strong>DBA Overview and the Oracle System Architecture</strong></p>
+<ul>
+  <li> DBA Responsibilities </li>
+  <li> Privileges Necessary for a DBA </li>
+  <li> Oracle Database </li>
+  <li> Oracle Instance </li>
+  <li> Oracle Processes </li>
+  <li> Memory Structures: the SGA </li>
+  <li> Shared Pool </li>
+  <li> Database Buffer Cache </li>
+  <li> Configuring Multiple Buffer Pools </li>
+  <li> Redo Log Buffer </li>
+  <li> Redo Log Files </li>
+  <li> Checkpoints </li>
+  <li> Background Processes </li>
+  <li> Control Files </li>
+  <li> Parameter File </li>
+  <li> Using the Alert Log </li>
+</ul>
+<p><strong> OEM &ndash; Database Control </strong></p>
+<ul>
+  <li> Oracle Processes </li>
+  <li> Using dbcontrol to Manage a Database </li>
+  <li> Starting the OEM agent </li>
+</ul>
+<p><strong> Memory Management </strong></p>
+<ul>
+  <li> Dynamic resizing of caches </li>
+  <li> Using multiple block sizes </li>
+  <li> Configuration of advisors </li>
+  <li> Recycle and Keep pool </li>
+</ul>
+<p><strong> Transaction Processing </strong></p>
+<ul>
+  <li> Transactions </li>
+  <li> Read Consistency </li>
+  <li> Undo Segments </li>
+  <li> The UNDO tablespace </li>
+  <li> Processing SQL Statements </li>
+  <li> SELECT Operation </li>
+  <li> UPDATE Operation </li>
+  <li> COMMIT Operation </li>
+</ul>
+<p><strong> Segments and Storage </strong></p>
+<ul>
+  <li> Tablespaces </li>
+  <li> Datafiles </li>
+  <li> Segments </li>
+  <li> Temporary Segments </li>
+  <li> Extents </li>
+  <li> Data Blocks </li>
+  <li> Using the Data Dictionary </li>
+</ul>
+<p><strong> Manage Schema Objects </strong></p>
+<ul>
+  <li> Tables </li>
+  <li> Integrity Constraints </li>
+  <li> Dynamic Storage Allocation </li>
+  <li> Managing Free Space </li>
+  <li> Chained and Migrated Data </li>
+  <li> Allocating Extents </li>
+  <li> Deallocating Extents </li>
+  <li> Using ROWID </li>
+  <li> Indexes </li>
+  <li> Bit-mapped Indexes </li>
+  <li> Reverse Key Indexes </li>
+</ul>
+<br>
+<ul>
+  <li> Function-based Indexes </li>
+  <li> Index Organized Tables </li>
+  <li> Sequences </li>
+  <li> Views </li>
+  <li> Synonyms </li>
+</ul>
+<p> Startup and Shutdown </p>
+<ul>
+  <li> Optimal Flexible Architecture </li>
+  <li> Directory Structure for the Oracle Server </li>
+  <li> Pre-Installation Tasks </li>
+  <li> Installation Process </li>
+  <li> Startup the Instance </li>
+  <li> Mount the Database </li>
+  <li> Open the Database </li>
+  <li> Shutdown the Database </li>
+</ul>
+<p> Create a Database </p>
+<ul>
+  <li> Naming the Database </li>
+  <li> The Parameter File </li>
+  <li> Using SPFILE </li>
+  <li> Defining the System Identifier </li>
+  <li> Adding Control Files </li>
+  <li> Adding Redo Log Members </li>
+  <li> Using Database Configuration Assistant </li>
+  <li> Create a database using Oracle Managed Files (OMF) </li>
+</ul>
+<p> Managing Database Users and Security </p>
+<ul>
+  <li> Users Accounts (Schema) </li>
+  <li> Creating, Altering, and Deleting a User </li>
+  <li> Profiles </li>
+  <li> Privileges </li>
+  <li> Grant and Revoke Commands </li>
+  <li> Object Privileges </li>
+  <li> System Privileges </li>
+  <li> Password Management </li>
+  <li> Roles </li>
+  <li> Guidelines for Designing Roles </li>
+  <li> Predefined Roles </li>
+  <li> Maintaining Privileges and Roles in the Data Dictionary </li>
+  <li> Managing passwords </li>
+  <li> Managing resources<strong></strong></li>
+</ul>

@@ -1,0 +1,13 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Provision Office 365</li>
+  <li>Plan and Implement Networking and Security in Office 365</li>
+  <li>Manage Cloud Identities</li>
+  <li>Implement and Manage Identities by Using DirSync</li>
+  <li>Implement and Manage Federated Identities for Single Sign-On (SSO)</li>
+  <li>Monitor and Troubleshoot Office 365 Availability and Usage</li>
+  <li>Manage Clients and End-User Devices</li>
+  <li>Provision SharePoint Online Site Collections</li>
+  <li>Configure Exchange Online and Lync Online for End Users</li>
+  <li>Plan for Exchange Online and Lync Online</li>
+</ul>

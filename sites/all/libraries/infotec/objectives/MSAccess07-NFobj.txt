@@ -1,0 +1,7 @@
+Upon successful completion of this course, students will be able to:
+<ul>
+  <li>explore the Microsoft Office Access 2007 interface. </li>
+  <li>work with tables and forms. </li>
+  <li>create queries and reports using the enhanced features of Access 2007. </li>
+  <li>work with external data. </li>
+</ul>

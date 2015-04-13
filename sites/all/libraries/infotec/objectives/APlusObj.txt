@@ -1,0 +1,18 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>identify the components of standard desktop personal computers.</li>
+  <li>identify fundamental components and functions of personal computer operating systems.</li>
+  <li>identify best practices followed by professional personal computer technicians.</li>
+  <li>install and configure computer components.</li>
+  <li>install and configure system components.</li>
+  <li>maintain and troubleshoot peripheral components.</li>
+  <li>troubleshoot system components.</li>
+  <li>install and configure operating systems.</li>
+  <li>maintain and troubleshoot installations of Microsoft Windows.</li>
+  <li>identify network technologies.</li>
+  <li>install and manage network connections.</li>
+  <li>support laptops and portable computing devices.</li>
+  <li>support printers and scanners.</li>
+  <li>identify personal computer security concepts.</li>
+  <li>support personal computer security.</li>
+</ul>

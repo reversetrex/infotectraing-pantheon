@@ -1,0 +1,49 @@
+<p><strong>Lesson 1: Creating a Custom Design Template</strong></p>
+<ul>
+  <li>Define Design Template Characteristics</li>
+  <li>Create a Custom Color Scheme</li>
+  <li>Set Up a Slide Master</li>
+  <li>Format Custom Bullets</li>
+  <li>Add a Footer</li>
+  <li>Modify the Notes Master</li>
+  <li>Save a Custom Design Template</li>
+</ul>
+<p><strong>Lesson 2: Adding Organization Charts and Diagrams</strong></p>
+<ul>
+  <li>Working with Organization Charts</li>
+  <li>Update an Organization Chart</li>
+  <li>Applying a Chart Layout</li>
+  <li>Create a Diagram</li>
+  <li>Draw a Flowchart</li>
+</ul>
+<p><strong>Adding Special Effects</strong></p>
+<ul>
+  <li>Add Sound and Movies</li>
+  <li>Add Animation</li>
+  <li>Emphasize Objects</li>
+  <li>Set a Motion Path</li>
+  <li>Set the Order of Effects</li>
+</ul>
+<p><strong>Lesson 4: Creating Web Presentations</strong></p>
+<ul>
+  <li>Create a Group Home Page with the AutoContent Wizard</li>
+  <li>Hyperlink to a Web Page</li>
+  <li>Publish as a Web Page</li>
+</ul>
+<p><strong>Lesson 5: Collaborating in PowerPoint</strong></p>
+<ul>
+  <li>Set Password Protection</li>
+  <li>Work with Comments</li>
+  <li>Send a Presentation for Review</li>
+  <li>Merge Revision Copies</li>
+  <li>Apply Reviewer Changes</li>
+</ul>
+<p><strong>Lesson 6: Delivering a Presentation</strong></p>
+<ul>
+  <li>Hyperlink Within PowerPoint</li>
+  <li>Add an Action Button</li>
+  <li>Set Up a Custom Show</li>
+  <li>Annotate a Presentation</li>
+  <li>Working with Narrations and Slide Timings</li>
+  <li>Set Up a Slide Show to Repeat Automatically</li>
+</ul>

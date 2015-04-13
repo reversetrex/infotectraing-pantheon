@@ -1,0 +1,1 @@
+Students will create a project plan file containing tasks, organize these tasks in a work breakdown structure containing task relationships, create and assign resources, and finalize the project to implement the project plan.

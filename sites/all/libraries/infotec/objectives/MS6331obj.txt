@@ -1,0 +1,25 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Identify installation prerequisites and requirements for VMM, select secure settings for VMM installations; and install VMM management packs.</li>
+  <li>Describe prerequisites for installing the Administrator Console; configure the Windows Firewall for the VMM Administrator Console; and configure managed hosts.</li>
+  <li>Describe prerequisites for the VMM Self-Service Portal; configure IIS to support the Self-Service Portal; and install the Self-Service Portal.</li>
+  <li>Configure host server hardware to support VMs.</li>
+  <li>Add VM hosts to VMM; install the VMM agent; add VMWare servers to VMM; and create filters.</li>
+  <li>Configure delegated administration; set host or group permissions; and configure VMM settings to support a test environment.</li>
+  <li>Configure access to the VMM Self-Service Portal; configure quotas on the VMM Self-Service Portal; and self-provision VMs using the VMM Self-Service Portal.</li>
+  <li>Add a VMM library including library shares and library servers and manage the contents of VMM library shares.</li>
+  <li>Deploy VMs using multiple methods; and use Intelligent Placement to deploy VMs.</li>
+  <li>Identify considerations for SAN VM migrations; perform a Quick Migration; and use Intelligent Placement to move a VM.</li>
+  <li>Convert a physical computer to a VM.</li>
+  <li>Convert other VM formats to Hyper-V VMs using VMM.</li>
+  <li>Describe considerations for configuring host clustering and describe procedures for configuring host clustering.</li>
+  <li>Describe considerations for configuring guest clustering and describe procedures for configuring guest clustering.</li>
+  <li>Identify scenarios where VMM Checkpoints may be used to meet operational requirements and create a VM Checkpoint.</li>
+  <li>Describe considerations for patch management using System Center Configuration Manager (SCCM) and deploy patches using WSUS.</li>
+  <li>Describe and configure SCOM reporting.</li>
+  <li>Use SCOM to select potential virtualization targets based on workload and performance characteristics.</li>
+  <li>Describe considerations for monitoring host server utilization; measure and analyze host server utilization; and identify important considerations in growth planning.</li>
+  <li>Monitor and manage the progress of VMM jobs.</li>
+  <li>Locate failed jobs and recover failed jobs.</li>
+</ul>

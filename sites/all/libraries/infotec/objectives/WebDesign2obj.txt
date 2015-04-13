@@ -1,0 +1,8 @@
+Upon successful completion of this course, students will be able to:
+<ul>
+  <li>create forms. </li>
+  <li>create advanced styles and page layouts. </li>
+  <li>optimize a website for accessibility. </li>
+  <li>optimize a website for search engines. </li>
+  <li>publish a website.</li>
+</ul>

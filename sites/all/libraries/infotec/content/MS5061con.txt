@@ -1,0 +1,9 @@
+<p> Unit 1: Overview of Microsoft Office SharePoint Server 2007 </p>
+<p> Unit 2: Planning and Designing for Microsoft Office SharePoint Server 2007 </p>
+<p> Unit 3: Deploying Microsoft Office SharePoint Server 2007 </p>
+<p> Unit 4: Administering Microsoft Office SharePoint Server 2007 </p>
+<p> Unit 5: Implementing Portal Solutions </p>
+<p> Unit 6: Implementing Content Management Solutions </p>
+<p> Unit 7: Implementing Business Intelligence Solutions </p>
+<p> Unit 8: Implementing Search and Indexing </p>
+<p> Unit 9: Maintaining and Optimizing Microsoft Office SharePoint Server 2007 </p>

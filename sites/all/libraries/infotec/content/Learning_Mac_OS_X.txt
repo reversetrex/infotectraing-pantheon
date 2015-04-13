@@ -1,0 +1,99 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Mac Types</li>
+    <li>Understanding Connections</li>
+    <li>USB</li>
+    <li>FireWire</li>
+    <li>Ethernet</li>
+    <li>Audio and Display</li>
+    <li>Out of the Box</li>
+    <li>Setup Assistant</li>
+    <li>Transfer Information</li>
+    <li>Initial Network Setup</li>
+    <li>Apple ID and Registration</li>
+    <li>User Account Setup</li>
+    <li>Personal Picture</li>
+    <li>MobileMe</li>
+  </ul>
+  <h3>Section B: Getting Started</h3>
+  <ul>
+    <li>Operating Systems</li>
+    <li>Restart</li>
+    <li>Shut Down</li>
+    <li>Sleep Mode</li>
+  </ul>
+  <h3>Section C: Navigating Your Mac</h3>
+  <ul>
+    <li>The Finder</li>
+    <li>Navigating the Finder</li>
+    <li>Column View</li>
+    <li>Cover Flow</li>
+    <li>Quick View</li>
+    <li>Finder Application Menu</li>
+    <li>Search Box</li>
+    <li>Sidebar</li>
+    <li>Shared Resources Links</li>
+    <li>Sidebar Places</li>
+    <li>Sidebar Searches</li>
+    <li>Set Finder Preferences</li>
+    <li>Advanced Finder Preferences</li>
+    <li>Get Info</li>
+    <li>File Association</li>
+  </ul>
+  <h3>Section D: Advanced Navigation Tips</h3>
+  <ul>
+    <li>The Menu Bar</li>
+    <li>System Preference Icons</li>
+    <li>The Dock</li>
+    <li>Customizing the Dock</li>
+    <li>Minimize Using</li>
+    <li>Dock Preferences</li>
+    <li>Adding Content to the Dock</li>
+    <li>Organizing the Dock</li>
+    <li>Application Switching</li>
+  </ul>
+  <h3>Section E: Customizing Your Mac</h3>
+  <ul>
+    <li>Choosing a Desktop Picture</li>
+    <li>Customizing Screen Savers</li>
+    <li>The Appearance Pane</li>
+    <li>Expose</li>
+    <li>Expose Preferences</li>
+    <li>Spaces</li>
+  </ul>
+  <h3>Section F: Working with the Dashboard</h3>
+  <ul>
+    <li>Dashboard</li>
+    <li>Managing Widgets</li>
+    <li>Spotlight</li>
+    <li>User Accounts</li>
+    <li>Managing User Accounts</li>
+    <li>Adding New Users</li>
+    <li>Parental Controls</li>
+  </ul>
+  <h3>Section G: Getting Online</h3>
+  <ul>
+    <li>Getting Connected</li>
+    <li>Dial-Up</li>
+    <li>Broadband</li>
+    <li>Network Setup Assistant</li>
+    <li>Location Name</li>
+    <li>Connection Method</li>
+    <li>Network Security Access</li>
+    <li>Additional Network Preferences</li>
+  </ul>
+  <h3>Section H: Communication with Others</h3>
+  <ul>
+    <li>Opening Mail</li>
+    <li>Outgoing Mail Settings</li>
+    <li>Interface Overview</li>
+    <li>Creating an Email</li>
+    <li>Replying to an Email</li>
+    <li>Deleting an Email</li>
+    <li>Web Browsers</li>
+    <li>Browser Buttons and Bars</li>
+    <li>iChat</li>
+    <li>Add Buddies</li>
+    <li>Chat</li>
+  </ul>

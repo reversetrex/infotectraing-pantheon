@@ -1,0 +1,25 @@
+<p><strong>Module 1: Managing a Windows Server 2008 Network Infrastructure Server  Lifecycle</strong> - This module explains how to design an Active Directory forest based on  business and technical requirements.</p>
+
+<p><strong>Module 2: Monitoring Windows Server 2008 Infrastructure Roles / Designing an Active Directory Domain Infrastructure in Windows Server 2008</strong> - This module explains how to design an Active Directory domain infrastructure based on business and technical requirements.</p>
+
+<p><strong>Module 3: Managing Network  Access Protection</strong> - This module explains how to design Active Directory sites and  replication roles.</p>
+
+<p><strong>Module 4: Managing Remote Access</strong> - This module explains how to design Active Directory domain administrative structures in Windows Server 2008.</p>
+
+<p><strong>Module 5: Managing and  Maintaining DNS and DHCP Server Roles</strong> - This module explains how to design Active Directory Group Policies in  Windows Server 2008.</p>
+
+<p><strong>Module 6: Maintaining Security  for Network Servers</strong> - This module explains how to design AD DS security in Windows Server 2008.</p>
+
+<p><strong>Module 7: Designing Active  Directory High Availability in Windows Server 2008</strong> - This module explains how to design Active  Directory high availability and disaster recovery in Windows Server 2008.</p>
+
+<p><strong>Module 8: Designing AD DS  Disaster Recovery in Windows Server 2008</strong> - This module explains how to design AD DS disaster recovery in Windows  Server 2008.</p>
+
+<p><strong>Module 9: Designing Public Key  Infrastructure in Windows Server 2008</strong> - This module explains how to design Public Key Infrastructure in Windows  Server 2008.</p>
+
+<p><strong>Module 10: Designing an AD RMS  Infrastructure in Windows Server 2008</strong> - This module explains how to design AD RMS infrastructure in Windows Server 2008.</p>
+
+<p><strong>Module 11: Designing an Active  Directory Federation Services Implementation in Windows Server 2008</strong> - This module explains how to design an Active Directory Federation Services (AD FS) implementation.</p>
+
+<p><strong>Module 12: Designing an AD LDS Implementation</strong> - This module explains how to design an AD LDS implementation.</p>
+
+<p><strong>Module 13: Designing Active  Directory Migrations in Windows Server 2008</strong> - This  module explains how to design Active Directory migrations in Windows Server 2008.</p>

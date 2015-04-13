@@ -1,0 +1,16 @@
+<ul>
+  <li> Introduction to IPv6 </li>
+  <li> IPv6 Operation </li>
+  <li> Advanced IPv6 Topics </li>
+  <li> Routing in IPv6 Networks </li>
+  <li> Using IPv6 Services </li>
+  <li> IPv6 Transition Mechanisms </li>
+  <li> IPv6 Deployment Introduction to IPv6 </li>
+  <li> Implementing IPv6 Features </li>
+  <li> Integrating IPv6 into an IPv4 Network </li>
+  <li> Configuring Routing Protocols in an IPv6 Environment </li>
+  <li> Describing Advanced IPv6 Services </li>
+  <li> Deploying IPv6 </li>
+  <li> Deploying IPv6 in a Service Provider Environment </li>
+  <li> Deploying IPv6 in an Enterprise Environment </li>
+</ul>

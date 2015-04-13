@@ -1,0 +1,8 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Create PDF files from technical documents.</li>
+  <li>Enhance the utility and accessibility of PDF documents.</li>
+  <li>Create interactive PDF forms using Adobe LiveCycle Designer.</li>
+  <li>Make a PDF document ready for commercial printing.</li>
+  <li>Finalize PDF files for commercial printing.</li>
+</ul>

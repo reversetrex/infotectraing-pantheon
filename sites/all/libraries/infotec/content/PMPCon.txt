@@ -1,0 +1,82 @@
+<p><strong>Lesson 1: Initiating  a Project</strong></p>
+<ul>
+  <li> Topic 1A: Apply  Project Management Processes</li>
+  <li> Topic 1B: Create a  Project Charter</li>
+  <li> Topic 1C: Develop a  Preliminary Project Scope Statement</li>
+</ul>
+<p><strong>Lesson 2: Planning  Project Work</strong></p>
+<ul>
+  <li> Topic 2A: Develop  Project Management Plan</li>
+  <li> Topic 2B: Create a  Scope Management Plan</li>
+  <li> Topic 2C: Create a  Scope Statement</li>
+  <li> Topic 2D: Develop a  Work Breakdown Structure (WBS)</li>
+</ul>
+<p><strong>Lesson 3: Developing  Project Schedules, Cost Estimates, and Budgets</strong></p>
+<ul>
+  <li> Topic 3A: Create an  Activity List </li>
+  <li> Topic 3B: Create a  Project Network Diagram</li>
+  <li> Topic 3C: Estimate  Activity Resources</li>
+  <li> Topic 3D: Estimate  Activity Durations</li>
+  <li> Topic 3E: Identify  the Critical Path</li>
+  <li> Topic 3F: Develop a  Project Schedule</li>
+  <li> Topic 3G: Estimate  Project Costs</li>
+  <li> Topic 3H: Establish a  Cost Baseline</li>
+</ul>
+<p><strong>Lesson 4: Planning  Project Quality, Staffing, and Communications</strong></p>
+<ul>
+  <li> Topic 4A: Create a  Quality Management Plan</li>
+  <li> Topic 4B: Document  Roles, Responsibilities, and Reporting Relationships</li>
+  <li> Topic 4C: Acquire  Project Team</li>
+  <li> Topic 4D: Create a  Communications Management Plan</li>
+</ul>
+<p><strong>Lesson 5: Analyzing  Risks and Planning Risk Response</strong></p>
+<ul>
+  <li> Topic 5A: Create a  Risk Management Plan</li>
+  <li> Topic 5B: Identify  Project Risks and Triggers</li>
+  <li> Topic 5C: Perform  Qualitative Risk Analysis</li>
+  <li> Topic 5D: Perform  Quantitative Risk Analysis</li>
+  <li> Topic 5E: Develop a  Risk Response Plan</li>
+</ul>
+<p><strong>Lesson 6: Planning  Project Procurement</strong></p>
+<ul>
+  <li> Topic 6A: Prepare a  Contract Statement of Work</li>
+  <li> Topic 6B: Prepare a  Procurement Document</li>
+</ul>
+<p><strong>Lesson 7: Executing  Project Work</strong></p>
+<ul>
+  <li> Topic 7A: Direct and  Manage Project Execution</li>
+  <li> Topic 7B: Perform  Quality Assurance</li>
+  <li> Topic 7C: Develop  Project Team</li>
+  <li> Topic 7D: Information  Distribution</li>
+  <li> Topic 7E: Request  Seller Responses</li>
+  <li> Topic 7F: Select  Sellers</li>
+</ul>
+<p><strong>Lesson 8: Monitoring  and Controlling Project Work</strong></p>
+<ul>
+  <li> Topic 8A: Monitor and  Control Project Work</li>
+  <li> Topic 8B: Manage  Changes to Performance Baselines</li>
+  <li> Topic 8C: Review  Deliverables and Work Results</li>
+  <li> Topic 8D: Control  Project Scope</li>
+</ul>
+<p><strong>Lesson 9: Monitoring  and Controlling Project Schedule and Costs</strong></p>
+<ul>
+  <li> Topic 9A: Control the  Project Schedule</li>
+  <li> Topic 9B: Control  Project Costs</li>
+</ul>
+<p><strong>Lesson 10:  Monitoring and Controlling Project Quality, Staffing, and Communications</strong></p>
+<ul>
+  <li> Topic 10A: Perform  Quality Control</li>
+  <li> Topic 10B: Manage  Project Team</li>
+  <li> Topic 10C: Report  Project Performance</li>
+  <li> Topic 10D: Manage  Stakeholders</li>
+</ul>
+<p><strong>Lesson 11:  Monitoring and Controlling Project Risk and Contracts</strong></p>
+<ul>
+  <li> Topic 11A: Monitor  and Control Project Risk</li>
+  <li> Topic 11B: Administer  a Contract</li>
+</ul>
+<p><strong>Lesson 12: Closing  the Project</strong></p>
+<ul>
+  <li>  Topic 12A: Close a  Project</li>
+  <li>Topic  12B: Close a Contract</li>
+</ul>

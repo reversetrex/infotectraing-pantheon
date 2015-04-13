@@ -1,0 +1,1 @@
+This three-day instructor-led course provides students with the knowledge and skills to utilize Windows PowerShell for administering and automating administration of Windows Server 2008. The course focuses on cmdlets, script structure and flow control, language syntax, and implementation details of scripting administrative tasks using COM, WMI, and .NET foundations.

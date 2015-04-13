@@ -1,0 +1,12 @@
+<p> At the end of the course, students will be able to: </p>
+<ul>
+  <li> Describe the uses of and ways to execute the Transact-SQL language. </li>
+  <li> Use querying tools. </li>
+  <li> Write SELECT queries to retrieve data. </li>
+  <li> Group and summarize data by using Transact-SQL. </li>
+  <li> Join data from multiple tables. </li>
+  <li> Write queries that retrieve and modify data by using subqueries. </li>
+  <li> Modify data in tables. </li>
+  <li> Query text fields with full-text search. </li>
+  <li> Describe how to create programming objects. </li>
+</ul>

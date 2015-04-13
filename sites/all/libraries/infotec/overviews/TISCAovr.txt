@@ -1,0 +1,1 @@
+TICSA represents base level certification, and is designed for system or network administrators responsible for security administration of systems or networks in an enterprise alongside their regular responsibilities. This first-tier certification recognizes that not all security professionals need to become security wizards to perform serious and effective security work.

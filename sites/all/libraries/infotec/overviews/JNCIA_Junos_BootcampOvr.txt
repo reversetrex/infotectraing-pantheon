@@ -1,0 +1,1 @@
+The JNCIA-Junos Certification Bootcamp is a 2-day event that provides the foundational and practical knowledge required to begin configure Juniper routing products running Junos Software. This course will also help prepare networking professionals for the JNCIA-Junos Certification.

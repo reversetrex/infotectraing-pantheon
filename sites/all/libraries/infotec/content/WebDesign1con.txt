@@ -1,0 +1,77 @@
+<strong>Web Design with XHTML, HTML and CSS Level 1:</strong>
+<br />
+<br />
+
+<strong>Lesson 1: Creating a Basic Web Page</strong>
+<ul>
+  <li>Topic 1A: Introduction to Web Design and Development </li>
+  <li>Topic 1B: Create a Basic Page Structure</li>
+</ul>
+
+<strong>Lesson 2: Structuring Content</strong>
+<ul>
+  <li>Topic 2A: Create Headings and Horizontal Rules </li>
+  <li>Topic 2B: Control Text Flow </li>
+  <li>Topic 2C: Create Lists</li>
+</ul>
+
+<strong>Lesson 3: Applying Styles Using CSS</strong>
+<ul>
+  <li>Topic 3A: Format Text </li>
+  <li>Topic 3B: Format Lists </li>
+  <li>Topic 3C: Format Images </li>
+  <li>Topic 3D: Modify Page Background</li>
+</ul>
+
+<strong>Lesson 4: Working with Tables</strong>
+<ul>
+  <li>Topic 4A: Create a Table </li>
+  <li>Topic 4B: Modify the Table Structure </li>
+  <li>Topic 4C: Format the Table</li>
+</ul>
+
+<strong>Lesson 5: Linking Web Pages</strong>
+<ul>
+  <li>Topic 5A: Create Hypertext Links </li>
+  <li>Topic 5B: Create Image Links </li>
+  <li>Topic 5C: Create Email Links </li>
+  <li>Topic 5D: Format Links</li>
+</ul>
+
+<strong>Web Design with XHTML, HTML and CSS Level 2:</strong>
+<br /><br />
+
+<strong>Lesson 1: Creating Web Page Layouts</strong>
+<ul>
+  <li>Topic 1A: Group Content </li>
+  <li>Topic 1B: Create Box Layouts</li>
+</ul>
+
+<strong>Lesson 2: Managing CSS</strong>
+<ul>
+  <li>Topic 2A: Apply Advanced CSS Selectors </li>
+  <li>Topic 2B: Create an External CSS </li>
+  <li>Topic 2C: Apply a CSS to Multiple Pages </li>
+  <li>Topic 2D: Apply Browser-Specific CSS </li>
+  <li>Topic 2E: Provide Alternate CSS</li>
+</ul>
+
+<strong>Lesson 3: Testing a Website</strong>
+<ul>
+  <li>Topic 3A: Test Markup </li>
+  <li>Topic 3B: Test CSS</li>
+</ul>
+
+<strong>Lesson 4: Creating Advanced Navigation</strong>
+<ul>
+  <li>Topic 4A: Create CSS-Based Menus </li>
+  <li>Topic 4B: Incorporate Images in CSS-Based Menus </li>
+  <li>Topic 4C: Create Image Maps</li>
+</ul>
+
+<strong>Lesson 5: Incorporating Meta-Content and Multimedia</strong>
+<ul>
+  <li>Topic 5A: Refresh and Redirect Pages </li>
+  <li>Topic 5B: Link Media </li>
+  <li>Topic 5C: Embed Media</li>
+</ul>

@@ -1,0 +1,14 @@
+<h2>Session 1</h2>
+<h3> Section A: Conflicts Between Family and Friends</h3>
+<ul>
+  <li>Samantha and Roger</li>
+  <li>Four Skills</li>
+  <li>Fred and Joe</li>
+  <li>Mother and Daughter</li>
+  <li>Boyfriend and Girlfriend</li>
+</ul>
+<h3>Section B: Conflicts in Other Relationships</h3>
+<ul>
+  <li>Kim and Her Boss</li>
+  <li>Summary</li>
+</ul>

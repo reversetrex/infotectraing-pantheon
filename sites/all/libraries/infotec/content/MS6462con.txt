@@ -1,0 +1,135 @@
+<strong>Module 1: Creating and  Hosting Workflows</strong>
+<p>This module explains how to create and host Windows Workflow Foundation (WF) workflows.</p>
+<ol>
+  <li>Overview of Windows Workflow Foundation</li>
+  <li>Creating Sequential Workflows</li>
+  <li>Creating State Machine Workflows</li>
+  <li>Modifying Workflows at Runtime</li>
+</ol>
+<strong>Lab: Creating and Hosting  Workflows</strong>
+<ol>
+  <li>Creating and hosting a simple sequential workflow</li>
+  <li>Passing parameters into a workflow</li>
+  <li>Creating a state machine workflow</li>
+  <li>Hosting the state machine workflow</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Explain Windows Workflow Foundation concepts and features.</li>
+  <li>Create sequential workflows.</li>
+  <li>Create state machine workflows.</li>
+  <li>Modify workflows at run time.</li>
+</ol>
+
+<strong>Module 2: Applying  Conditions and Rules</strong>
+<p>This module explains how to apply conditions and rules in a workflow.</p>
+<ol>
+  <li>Implementing Flow Control</li>
+  <li>Defining and Executing Rule Sets</li>
+  <li>Forward Chaining of Rules</li>
+  <li>Changing Rules at Run Time</li>
+</ol>
+<strong>Lab: Applying Conditions  and Rules</strong>
+<ol>
+  <li>Making Decisions</li>
+  <li>Performing Iteration</li>
+  <li>Defining Policies</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Implement conditional branching in a workflow.</li>
+  <li>Define and execute rule sets.</li>
+  <li>Forward chain rules.</li>
+  <li>Change rules at run time.</li>
+</ol>
+
+<strong>Module 3: Communicating  with Workflows</strong>
+<p>This module explains how to communicate between workflows, host processes, and services.</p>
+<ol>
+  <li>Calling Methods on the Host Process</li>
+  <li>Handling Events from the Host Process</li>
+  <li>Consuming Services from a Workflow</li>
+  <li>Publishing a Workflow as a Service</li>
+</ol>
+<strong>Lab: Communicating with Workflows</strong>
+<ol>
+  <li>Invoking a Method on the Host Process</li>
+  <li>Handling Events from the Host Process</li>
+  <li>Consuming Services from a Workflow</li>
+  <li>Publishing a Workflow as a Service</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Call methods on the host process.</li>
+  <li>Handle events from the host process.</li>
+  <li>Consume services from a workflow.</li>
+  <li>Publish a workflow as a service.</li>
+</ol>
+
+<strong>Module 4: Creating and Configuring Custom Activities</strong>
+<p>This module explains how to  create and configure custom activities.</p>
+<ol>
+  <li>Creating Custom Activities</li>
+  <li>Creating Custom Composite Activities</li>
+  <li>Customizing Activity Serialization</li>
+  <li>Defining Custom Activity Layout</li>
+</ol>
+<strong>Lab: Creating and  Configuring Custom Activities</strong>
+<ol>
+  <li>Creating a Custom Activity</li>
+  <li>Validating a Custom Activity</li>
+  <li>Developing a Custom Activity Designer</li>
+  <li>Creating a Custom Composite Activity</li>
+</ol>
+<p>After completing this  module, students will be able to:</p>
+<ol>
+  <li>Create a custom activity.</li>
+  <li>Create a custom composite activity.</li>
+  <li>Define custom activity layout.</li>
+  <li>Customize activity serialization.</li>
+</ol>
+
+<strong>Module 5: Creating and  Managing Runtime Services</strong>
+<p>This module explains how to create and manage runtime services.</p>
+<ol>
+  <li>Creating a Custom Runtime Service</li>
+  <li>Hydrating and Dehydrating Workflows</li>
+  <li>Monitoring Workflows</li>
+  <li>Tracking Workflows</li>
+</ol>
+<strong>Lab: Creating and Managing  Runtime Services</strong>
+<ol>
+  <li>Creating a Custom Runtime Service</li>
+  <li>Hydrating and Dehydrating Workflows</li>
+  <li>Monitoring Workflows</li>
+  <li>Tracking Workflows</li>
+</ol>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Create a custom runtime service.</li>
+  <li>Hydrate and dehydrate workflows.</li>
+  <li>Monitor workflows.</li>
+  <li>Track workflows.</li>
+</ol>
+
+<strong>Module 6: Managing Faults, Cancellations, Transactions, and Compensations</strong>
+<p>This module explains how to  manage faults, cancellations, transactions, and compensations in a workflow.</p>
+<ol>
+  <li>Handling Faults</li>
+  <li>Handling Cancellations</li>
+  <li>Creating and Managing Transactions</li>
+  <li>Creating and Handling Compensations</li>
+</ol>
+<strong>Lab: Managing Faults,  Transactions, and Compensations</strong>
+<ol>
+  <li>Handling Faults</li>
+  <li>Implementing Transactional Behavior</li>
+  <li>Implementing Compensation Behavior</li>
+</ol>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Handle faults in a workflow.</li>
+  <li>Handle cancellations in a workflow.</li>
+  <li>Create and manage transactions in a workflow.</li>
+  <li>Create and handle compensations.</li>
+</ol>

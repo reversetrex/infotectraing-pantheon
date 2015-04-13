@@ -1,0 +1,10 @@
+<p>Upon completing this course, you will be able to customize the PowerPoint 2013 application, and effectively create, collaborate on, secure, and distribute complex multimedia presentations for a variety of situations. You will:</p>
+<ul>
+  <li>Modify the PowerPoint environment.</li>
+  <li>Customize design templates.</li>
+  <li>Add SmartArt to a presentation.</li>
+  <li>Work with media and animations.</li>
+  <li>Collaborate on a presentation.</li>
+  <li>Customize a slide show.</li>
+  <li>Secure and distribute a presentation.</li>
+</ul>

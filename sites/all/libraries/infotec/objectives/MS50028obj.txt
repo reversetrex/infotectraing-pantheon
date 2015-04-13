@@ -1,0 +1,13 @@
+<p>After completing this course,  students will be able to:</p>
+
+<ul>
+  <li>Install and configure a management group.</li>
+  <li>Install a clustered Root Management Server.</li>
+  <li>Configure management group and agent settings.</li>
+  <li>Install and configure reporting.</li>
+  <li>Manage Agentless Exception Monitoring.</li>
+  <li>Manage Audit Collection Services.</li>
+  <li>Use Windows PowerShell to manage the management group.</li>
+  <li>Configure a management group hierarchy.</li>
+  <li>Migrate from Microsoft Operations Manager 2005 to System Center  Operations Manager 2007.</li>
+</ul>

@@ -1,0 +1,82 @@
+<p><strong>Module 1: Introduction to Team Foundation Server Administration</strong></p>
+<p>This module introduces the student to the TFS administration process by explaining, in brief, the development process, how TFS supports a development environment and the role of the administrator in supporting the development process. Application Lifecycle Management concepts will be explained and TFS specific terminology will be defined and explained. Students will be introduced to the responsibilities of administering TFS 2010.</p>
+<ul>
+	<li>What is Application Lifecycle Management?</li>
+    <li>Visual Studio and Application Lifecycle Management</li>
+    <li>What is Team Foundation Server?</li>
+    <li>Overview of the Development Process</li>
+    <li>TFS Components and Terms</li>
+    <li>Role of the Administrator in the Development Process</li>
+    <li>TFS Administration Overview</li>
+</ul>
+<p><strong>Module 2: Planning and Deploying TFS 2010</strong></p>
+<p>This module explains how to plan for, install and configure TFS. Students will become familiar with the architectural requirements and options, installation steps and basic TFS topological and configuration options.  Instructors will cover the basic knowledge required to deploy TFS and supply foundational information that will be required for successful completion of other modules.</p>
+<ul>
+	<li>TFS Topologies</li>
+    <li>Architectural requirements, Hardware considerations and Software considerations</li>
+    <li>Networking requirements including firewall and ports</li>
+    <li>Domain, Workgroup and Service accounts</li>
+    <li>SQL Server and SharePoint requirements</li>
+    <li>Topology considerations for small teams, single server, existing infrastructure or more than 1 server, and server farms</li>
+    <li>Planning for Version Control Proxy</li>
+</ul>
+<p><strong>Module 3: Configuration and Operations of TFS 2010</strong></p>
+<p>This module explains this basic principles of configuration and operation of TFS 2010. Students will become   familiar with the various TFS security groups and permissions, the practice of administering project collections and team projects, and the administrative knowledge required to support Build. Students will also review administrative   information on testing and configuring reporting and analysis services.</p>
+<ul>
+	<li>Default TFS Security groups and configuring permissions</li>
+    <li>Managing team project collections and team projects</li>
+    <li>Managing the TFS build System</li>
+    <li>Configuring Reporting and Analysis Services</li>
+</ul>
+<p><strong>Module 4: Client Connectivity</strong></p>
+<p>This module covers the various clients   that can be used to connect to Team Foundation Server 2010. Students will   connect to TFS 2010 with Team Explorer, Microsoft Office Excel 2010 and Team Web Access. Students will review the different license requirements, different clients that can be used to connect to TFS and will be able to describe how to configure Visual Studio and Team Explorer for Team Server Proxy.</p>
+<ul>
+	<li>Client Connectivity License Requirements</li>
+    <li>IDE Configuration for TFS Integration</li>
+    <li>Team Explorer 2010</li>
+    <li>Microsoft Office Connectivity</li>
+    <li>Team Web Access</li>
+    <li>Configuring Visual Studio and Team Explorer for Proxy Server</li>
+    <li>Resolving TFS connectivity issues</li>
+</ul>
+<p><strong>Module 5: Customization of Team Projects</strong></p>
+<p>This module explains how to customize team project workflow, work item features. Students will work with the Team   Foundation Server Power Tools and modify the existing project workflow and work items. Students will also create work item queries and modify work item templates.</p>
+<ul>
+	<li>Managing Work item Queries</li>
+    <li>Customizing Work items and Workflow</li>
+    <li>TFS Power tools</li>
+    <li>Reporting</li>
+</ul>
+<p><strong>Module 6: Administering Version Control</strong></p>
+<p>This module explains how to administer version control in Team Foundation Server. Students will review the processes for managing workspaces, work with branching and merging, create shelve sets and discuss the 5 key scenarios for using shelvesets.</p>
+<ul>
+	<li>Managing Workspaces</li>
+    <li>Administering Branching and Merging</li>
+    <li>Managing Shelvesets</li>
+</ul>
+<p><strong>Module 7: Upgrading, Migrating, and Integration</strong></p>
+<p>This module covers the process of upgrading to Team Foundation Server, migrating data to Team Foundation Server   and how to integrate Team Foundation Server with other Source Control systems.</p>
+<ul>
+	<li>Upgrading to TFS 2010</li>
+    <li>Migrating to TFS 2010</li>
+    <li>Visual Source Safe Migrations</li>
+    <li>Integration with TFS</li>
+</ul>
+<p><strong>Module 8: Advanced Administration</strong></p>
+<p>This module explains several different advanced administration topics that expand on concepts covered in previous   modules.  Students will review the process of installation validation, advanced   management of TFS Application and Data Tiers, Rebuilding a warehouse, moving a TFS instance to a new server or new domain, and installing and configuring Team Foundation Server Proxy.</p>
+<ul>
+	<li>Validating an installation</li>
+    <li>Manual configuration of SharePoint and reporting services post-installation</li>
+    <li>Advanced management of TFS Application and Data Tiers</li>
+    <li>Rebuilding the Warehouse</li>
+    <li>Service Account management</li>
+    <li>Version Control Proxy Deployment</li>
+    <li>Fault Tolerant Solutions</li>
+</ul>
+<p><strong>Module 9: Backup, Restore and Monitoring TFS 2010</strong></p>
+<p>This module explains how backup and restore Team Foundation Server 2010 and the best practices for monitoring TFS   2010.  Students will review the various tools for monitoring TFS 2010 and will review the steps for backing up and restoring TFS in a disaster recovery situation.</p>
+<ul>
+	<li>Backing Up TFS 2010</li>
+    <li>Restoring TFS 2010</li>
+    <li>Monitoring TFS 2010</li>
+</ul>

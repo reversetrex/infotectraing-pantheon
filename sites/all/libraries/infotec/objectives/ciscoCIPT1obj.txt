@@ -1,0 +1,9 @@
+<p> After completing this course the student should be able to : </p>
+<ul>
+  <li> Deploy a Cisco CallManager 5.0 server in a cluster using a supported IP telephony deployment model. </li>
+  <li> Perform platform and general administration, and implement disaster recovery </li>
+  <li> Deploy SCCP and SIP endpoints in a Cisco CallManager 5.0 cluster </li>
+  <li> Deploy a dial plan consisting of gateways, trunks, route plan elements, hunt groups, partitions, and calling search spaces </li>
+  <li> Implement multiple site deployments with fallback telephony services in the remote branches, call admission control over the WAN bandwidth, and automated call rerouting through the PSTN when the WAN bandwidth is insufficient. </li>
+  <li> Configure Cisco CallManager to enable end-user features and services </li>
+</ul>

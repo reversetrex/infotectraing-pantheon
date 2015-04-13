@@ -1,0 +1,7 @@
+<p><strong>CIW Site Designer teaches you how to design and publish Web sites.<br><br>General topics include:</strong></p>
+<ul>
+	<li><strong>Web Site Development Essentials</strong> - such as the site development process, customer expectations, and ethical and legal issues in Web development.</li>
+	<li><strong>Web Design Elements</strong> - such as aesthetics, the user experience, navigation, usability and accessibility.</li>
+	<li><strong>Basic Web Technologies</strong> - such as basic Hypertext Markup Language (HTML), Extensible HTML (XHTML) and extended technologies, image files, GUI site development applications, site publishing and maintenance.</li>
+	<li><strong>Advanced Web Technologies</strong> - such as multimedia and plug-in technologies, client-side and server-side technologies, and Web databases.</li>
+</ul>

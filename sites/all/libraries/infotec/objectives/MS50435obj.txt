@@ -1,0 +1,8 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Create SharePoint environment.</li>
+  <li>Install Microsoft SharePoint Foundation 2010.</li>
+  <li>Set up a Site Collections.</li>
+  <li>Administer SharePoint farms.</li>
+  <li>Customize navigation of  SharePoint Site.</li>
+</ul>

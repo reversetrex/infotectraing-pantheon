@@ -1,0 +1,2 @@
+This course describes how to implement a data warehouse platform to support a BI solution. Students will learn how to create a data warehouse with Microsoft SQL Server 2014, implement ETL with SQL Server Integration Services, and validate and cleanse data with SQL Server Data Quality Services and SQL Server Master Data Services.<br><br>
+Note: This course is designed for customers who are interested in learning SQL Server 2012 or SQL Server 2014.  It covers the new features in SQL Server 2014, but also the important capabilities across the SQL Server data platform.

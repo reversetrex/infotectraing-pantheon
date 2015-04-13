@@ -1,0 +1,34 @@
+<p><strong>Lesson 1: Getting Started with Visio 2007</strong></p>
+<ul>
+  <li>Topic 1A: Explore the Visio Interface </li>
+  <li>Topic 1B: Get Help in Visio</li>
+</ul>
+
+<p><strong>Lesson 2: Creating a Route Map </strong></p>
+<ul>
+  <li>Topic 2A: Add Shapes to a Drawing </li>
+  <li>Topic 2B: Manipulate Shapes </li>
+  <li>Topic 2C: Add Text </li>
+  <li>Topic 2D: Format Text </li>
+  <li>Topic 2E: Change the Stacking Order</li>
+</ul>
+
+<p><strong>Lesson 3: Enhancing a Basic Diagram </strong></p>
+<ul>
+  <li>Topic 3A: Manage Shapes</li>
+  <li>Topic 3B: Format Shapes</li>
+</ul>
+
+<p><strong>Lesson 4: Creating Process Diagrams </strong></p>
+<ul>
+  <li>Topic 4A: Create a Flowchart </li>
+  <li>Topic 4B: Apply Page Styles </li>
+  <li>Topic 4C: Create a Cross-Functional Flowchart</li>
+  <li>Topic 4D: Create a Workflow Diagram</li>
+</ul>
+  
+<p><strong>Lesson 5: Representing an Organization Hierarchy </strong></p>
+<ul>
+  <li>Topic 5A: Create an Organization Chart</li>
+  <li>Topic 5B: Modify an Organization Chart</li>
+</ul>

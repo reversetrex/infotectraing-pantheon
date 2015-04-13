@@ -1,0 +1,118 @@
+<p><strong>Module 1: Overview of System Center 2012 R2 Configuration Manager</strong> - In this module, you will learn about the basic features of System Center 2012 R2 Configuration Manager, the various types of sites, and the site system roles that you can deploy. System Center 2012 R2 Configuration Manager takes advantage of a redesign of several features in previous versions of Configuration Manager. This module covers the enhancements and modifications made to the Configuration Manager console. You will explore the interface of the Configuration Manager console and learn how to navigate it to locate and use important features. Additionally, you will review the tools that are available for monitoring and troubleshooting Configuration Manager.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to System Center 2012 R2 Configuration Manager</li>
+  <li>Overview of the System Center 2012 R2 Configuration Manager Architecture</li>
+  <li>Managing Configuration Manager by Using Configuration Manager Administration Tools</li>
+  <li>Using Tools for Monitoring and Troubleshooting a Configuration Manager Site</li>
+</ul>
+<p><strong>Module 2: Discovering and Organizing Resources</strong> - You can manage computer and user resources within a System Center 2012 R2 Configuration Manager environment only when Configuration Manager has discovered these resources and assigned them to a site. In this module, you will learn about boundaries and boundary groups that help create logical network locations that contain discovered computers based upon IP addresses or Active Directory sites. You can use these boundary configurations for client site assignment and for helping clients find content from associated site systems. You also will learn about the discovery processes that you can use to identify computers, users, and the network infrastructure within your network environment. You then will learn about collections that support logical groupings of resources. You use these groupings for management tasks such as targeting software updates, managing applications, or deploying compliance settings to resources.</p>
+<p>Additionally, you will learn to implement role-based administration by using security roles, security scopes, and collections. Role-based administration determines both the tasks that an administrative user can perform, and the objects and resources on which the user can perform those tasks.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Boundaries and Boundary Groups</li>
+  <li>Configuring Resource Discovery</li>
+  <li>Configuring User and Device Collections</li>
+  <li>Configuring Role-Based Administration</li>
+</ul>
+<p><strong>Module 3: Managing the Configuration Manager Client Agent</strong> - You can install the System Center 2012 R2 Configuration Manager client agent software on devices such as workstations, laptops, servers, and mobile devices. Then, you can manage these devices and perform operations such as reporting hardware and software inventory information, installing software, and con­figuring settings required for compliance. Configuration Manager provides several options for installing the client software. This module explains the supported operating systems and devices, the software requirements, and the different methods for installing the client software. After installing the client software, you can configure the client settings to perform routine management tasks. This module describes some of the default and custom client settings that you can configure. The module also describes how to monitor the operations and client health of the Configuration Manager client agent software by using alerts and the client health evaluator.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Configuration Manager Client Agent</li>
+  <li>Deploying Configuration Manager Client Agents</li>
+  <li>Managing Client Settings in Configuration Manager</li>
+  <li>Configuring and Monitoring Client Status</li>
+</ul>
+<p><strong>Module 4: Managing Inventory and Software Metering</strong> - The first feature that you likely will use in your Microsoft System Center 2012 R2 Configuration Manager implementation is inventory collection. Collecting hardware and software details provides a foundation that you can use with many other advanced features, such as application deployment. For example, you can use inventory details such as memory, operating system, IP address, or installed applications to identify clients that might need an upgrade, or as a basis for creating custom collections. To enhance standard inventory collection, you can implement the Asset Intelligence feature to provide additional data for reports and information about the software titles installed on specific clients.</p>
+<p>Software metering provides a way to monitor and collect software usage data from your System Center 2012 R2 Configuration Manager clients. When you combine this data with software inventory and the Asset Intelligence feature, this can help you determine a number of software-usage scenarios, so that you can plan software deployments and licensing.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Inventory Collection</li>
+  <li>Configuring Hardware Inventory</li>
+  <li>Configuring Software Inventory</li>
+  <li>Managing Inventory Collection</li>
+  <li>Configuring Asset Intelligence</li>
+  <li>Configuring Software Metering</li>
+</ul>
+<p><strong>Module 5: Querying and Reporting Data</strong> - Microsoft System Center 2012 R2 Configuration Manager stores a large amount of data about the devices in your environment. You may not always want to perform all management tasks on all of the devices simultaneously. Therefore, to help you locate devices in your environment that meet specific criteria, you can create queries. You then can use these queries to create collections or to find clients and install the Configuration Manager client on them. This module describes queries and the methods to create and run them. Additionally, you may want to run reports about your environment. To be able to run Configuration Manager reports, you have to install a reporting services point, which this module details.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Queries</li>
+  <li>Managing Queries</li>
+  <li>Configuring SQL Server Reporting Services</li>
+</ul>
+<p><strong>Module 6: Managing Software Distribution and Deployment by Using Packages and Programs</strong> - Traditionally, Microsoft Systems Management Server 2003 and Microsoft System Center Configuration Manager 2007 product lines utilized packages and programs for deploying software. System Center 2012 Configuration Manager introduced the concept of applications, which provides a new software deployment model that is more flexible than the conventional packages and programs. However, this did not eliminate the need to use packages and programs.</p>
+<p>Typically, you will deploy software to computers running Windows and Apple OS X by using applications. However, you can still use packages and programs in many situations for Windows-based computers. For example, you can deliver content to Windows-based clients to support running scripts. Additionally, you can use packages and programs to deploy content to Linux and UNIX-based computers.</p>
+<p>This module is the first of many that focus on software deployment. This module describes how to manage software by using packages and programs, while subsequent modules cover the application-management model.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Software Deployment</li>
+  <li>Configuring Packages and Programs</li>
+  <li>Distributing Content to Distribution Points</li>
+  <li>Deploying Programs to Configuration Manager Clients</li>
+</ul>
+<p><strong>Module 7: Creating and Deploying Applications</strong> - The System Center 2012 R2 Configuration Manager application deployment model enhances the capabilities of packages and programs for delivery of software to Windows operating systems, the Mac operating system (Mac OS X), and mobile devices. When deploying to Windows, System Center 2012 R2 Configuration Manager, in addition to packages and programs, uses Configuration Manager applications. These applications are best for deploying installer-based software, such as Windows installations that are .msi-file based. This is because they provide a more intelligent software deployment model.</p>
+<p>With the Configuration Manager application deployment model, you can create a single deployment for Windows-based clients and mobile device clients that provide different installation options depending on specifically defined conditions. For example, you can install an application locally on user’s primary devices and deploy a virtual version of the application when they are on other devices, all through the same deployment. You can do this by using features such as requirements and dependencies. Additional features, such as state-based reporting and detection methods, can help you create intelligent deployments.</p>
+<p>In this module, you will learn about the application model and the basics for creating, deploying, and managing applications with Configuration Manager. You will also learn how to use Configuration Manager Software Center and Configuration Manager Application Catalog to install available applications.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Application Management</li>
+  <li>Creating Applications</li>
+  <li>Deploying Applications</li>
+  <li>Managing Applications</li>
+</ul>
+<p><strong>Module 8: Deploying Additional Application Types</strong> - Windows 8 has introduced a new application type named the Windows Store app, which is designed specifically to run on devices running Windows 8. Windows Store apps have a new .appx extension, which facilitates your installation to multiple device types across the Internet and within your enterprise. Microsoft System Center 2012 R2 Configuration Manager allows you to install Windows Store apps to devices running Windows 8 either by linking to Windows Store apps or by installing .appx files directly.</p>
+<p>In many cases, you might want your users to have access to an application that is not installed directly on their computer. Microsoft Application Virtualization (App-V) allows you to install applications in an isolated, nonpermanent environment on a Windows-based computer. Managing virtualized applications with System Center 2012 R2 Configuration Manager is similar to managing other applications.</p>
+<p>In this module, you will learn about managing deployments on unconventional applications. This module describes how to install Windows Store apps and virtualized applications.</p>
+<p>Lessons</p>
+<ul>
+  <li>Deploying Windows Store Apps by Using System Center 2012 R2 Configuration Manager</li>
+  <li>Deploying Virtual Applications by Using System Center 2012 R2 Configuration Manager</li>
+</ul>
+<p><strong>Module 9: Deploying and Managing Software Updates</strong> - For many organizations, maintaining software updates is a priority, and is at the top of administrators’ network-management tasks. Software update management helps ensure that computer devices maintain operational efficiency, and helps maintain the stability of the network infrastructure.</p>
+<p>By using the software updates feature in Configuration Manager, you can implement an end-to-end management process for the complex task of identifying, deploying, and monitoring software updates to your Configuration Manager clients.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Software Updates Feature</li>
+  <li>Preparing a Configuration Manager Site for Software Updates</li>
+  <li>Managing Software Updates</li>
+  <li>Configuring Automatic Deployment Rules</li>
+  <li>Monitoring and Troubleshooting Software Updates</li>
+</ul>
+<p><strong>Module 10: Implementing Endpoint Protection by Using System Center 2012 R2 Configuration Manager</strong> - System Center 2012 R2 Configuration Manager provides a number of security-related features that you can use to help protect client computers from malware threats and configure specific Windows Firewall settings for clients. Based on System Center 2012 Endpoint Protection functionality, Endpoint Protection in Configuration Manager 2012 supports the deployment, management, and monitoring of antimalware policies and Windows Firewall settings on client computers.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Endpoint Protection in Configuration Manager</li>
+  <li>Configuring and Monitoring Endpoint Protection Policies</li>
+</ul>
+<p><strong>Module 11: Managing Operating Systems Deployment</strong> - You can use the operating system deployment feature in System Center 2012 R2 Configuration Manager to create hard drive images that you can deploy to unmanaged computers and those that Configure Manager manages. There are several scenarios in which you can deploy operating systems by using Configuration Manager, including when you are working with new systems or when you are upgrading existing ones. Operating system deployment uses both Configuration Manager and Windows components to manage and deliver operating system images. You can configure settings on a reference computer prior to capturing an image of its hard drive or by using task sequences that Configuration Manager creates after you deploy the image to a target system.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Operating System Deployment</li>
+  <li>Preparing a Site for Operating System Deployment</li>
+  <li>Building and Capturing a Reference Operating System Image</li>
+  <li>Deploying an Operating System</li>
+</ul>
+<p><strong>Module 12: Managing Compliance Settings and Profiles</strong> - One of the more difficult tasks that information technology (IT) administrators face is to ensure that all the systems in their organization use, and retain, an optimal configuration at all times. IT administrators and team members must have confidence that the systems’ configurations are correct, regardless of whether they are monitoring changes to servers or documenting compliance requirements. The compliance settings feature can play a key role in documenting existing configurations, in quickly discovering systems that have undesired configuration changes, and in automatically remediating some undesired configurations.</p>
+<p>This module will detail the compliance settings feature, and how you can use it to manage your systems.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Compliance Settings</li>
+  <li>Configuring Compliance Settings</li>
+  <li>Viewing Compliance Results</li>
+</ul>
+<p><strong>Module 13: Mobile Device Management Using System Center 2012 R2 Configuration Manager</strong> - Increasingly, users are using mobile devices not only to retrieve their email messages and synchronize calendar appointments, but also to work on files and documents outside of the office. Additionally, more and more users are utilizing important line-of-business (LOB) applications that enable them to be productive whenever and wherever work calls. These users often use mobile devices for tasks that they might previously have performed only on desktop computers. Therefore, many organizations are considering the management of mobile devices in ways that they previously reserved for desktop computers. In this module, you will learn about performing mobile device management by using the Microsoft Exchange Server connector for Microsoft System Center 2012 R2 Configuration Manager. You will also learn how you can integrate Windows Intune with Configuration Manager for mobile device management.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Mobile Device Management</li>
+  <li>Managing Mobile Devices by Using the Windows Intune Connector</li>
+  <li>Deploying Applications to Mobile Devices</li>
+</ul>
+<p><strong>Module 14: Configuring Wake On LAN, Power Management, and Remote Control</strong> - Managing client computers remotely is an integral part of managing a network efficiently and is a key feature in System Center 2012 R2 Configuration Manager. Typically, it is not feasible, logistically or financially, to travel to a client workstation to perform minor repairs or assist with software issues. Additionally, you may not always want to have computers running before you deploy software applications or updates. To help reduce energy costs and environmental impact, you may want to monitor and implement corporate-wide power management policies that you can use to control the state of client computers. There also may be situations in which you need to reconfigure BIOS settings on remote computers, or turn on or off remote computers. System Center 2012 R2 Configuration Manager supports various types of remote-management tasks by using Wake On LAN, power-management policies, Remote Control, and out of band management features.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Wake On LAN</li>
+  <li>Overview of Out of Band Management</li>
+  <li>Configuring Power Management Settings</li>
+  <li>Configuring Remote Control</li>
+</ul>

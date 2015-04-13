@@ -1,0 +1,31 @@
+<h2>Session 1</h2>
+  <h3>Section A: Managing for Commitment</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: The New Workforce</h3>
+  <ul>
+    <li>What is Loyalty?</li>
+    <li>The New Millennium</li>
+    <li>New Values</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Building Commitment</h3>
+  <ul>
+    <li>Trust</li>
+    <li>Communication</li>
+    <li>Showing You Care</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Six Steps to Loyalty</h3>
+  <ul>
+    <li>Catering to Employees</li>
+    <li>Step 1: Communicate Candidly</li>
+    <li>Step 2: Empower Employees</li>
+    <li>Step 3: Develop Employees</li>
+    <li>Step 4: Show Appreciation</li>
+    <li>Step 5: Manage Ethically and Impartially</li>
+    <li>Step 6: Promote Workplace Wellness</li>
+    <li>Conclusion</li>
+  </ul>

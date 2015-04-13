@@ -1,0 +1,1 @@
+This three-day instructor-led course provides students with the knowledge and skills to manage Microsoft Team Foundation Server 2010.  The course focuses on the technologies used in Team Foundation Server 2010 and the techniques used to deploy, manage and support Team Foundation Server 2010.

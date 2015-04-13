@@ -1,0 +1,102 @@
+<p><strong>Lesson 1: Exploring Storage and Networking Fundamentals</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Storage  Basics</li>
+  <li><strong>Topic 1B: </strong>Describe  Network Basics</li>
+  <li><strong>Topic 1C: </strong>Identify  Network Data Delivery Techniques</li>
+</ul>
+<p><strong>Lesson 2: Describing Physical Networking Hardware</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Describe  Networking Hardware</li>
+  <li><strong>Topic 2B: </strong>Examine  HBA/NIC/PCI Technology</li>
+</ul>
+<p><strong>Lesson 3: Examining Disk Technologies</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Examine  Disk Fundamentals</li>
+  <li><strong>Topic 3B: </strong>Describe  SATA Technology</li>
+  <li><strong>Topic 3C: </strong>Describe  SCSI/iSCSI Technologies</li>
+  <li><strong>Topic 3D: </strong>Describe  SAS Technology</li>
+  <li><strong>Topic 3E: </strong>Describe  the Fibre Channel Architecture</li>
+  <li><strong>Topic 3F: </strong>Describe  the RAID System</li>
+</ul>
+<p><strong>Lesson 4: Identifying Removable Media Technologies</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Describe  Tape Technologies</li>
+  <li><strong>Topic 4B: </strong>Describe  Optical Disc and SSD Technologies</li>
+</ul>
+<p><strong>Lesson 5: Describing Modular Storage Arrays and Disk Enclosures</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Describe  Modular Storage Array Technologies</li>
+  <li><strong>Topic 5B: </strong>Describe  Disk Enclosures</li>
+</ul>
+<p><strong>Lesson 6: Examining Storage Network Connectors and Cabling</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Describe  Copper Cable Connectivity</li>
+  <li><strong>Topic 6B: </strong>Describe  Fiber Cable Connectivity</li>
+</ul>
+<p><strong>Lesson 7: Describing Storage Architectures</strong></p>
+<ul>
+  <li><strong>Topic 7A: </strong>Describe  the DAS Architecture</li>
+  <li><strong>Topic 7B: </strong>Describe  the NAS Architecture</li>
+  <li><strong>Topic 7C: </strong>Describe  the SAN Architecture</li>
+  <li><strong>Topic 7D: </strong>Describe  Content Addressable Storage Technologies</li>
+</ul>
+<p><strong>Lesson 8: Describing Ethernet Network Technologies</strong></p>
+<ul>
+  <li><strong>Topic 8A: </strong>Describe  Ethernet Networks</li>
+  <li><strong>Topic 8B: </strong>Multipath  over Ethernet Networks</li>
+  <li><strong>Topic 8C: </strong>Protocols  on Ethernet Networks</li>
+</ul>
+<p><strong>Lesson 9: Describing an FC SAN</strong></p>
+<ul>
+  <li><strong>Topic 9A: </strong>Describe  the FC SAN Architecture</li>
+  <li><strong>Topic 9B: </strong>Describe  Zones</li>
+  <li><strong>Topic 9C: </strong>Describe  Fabric Services and Extension Technologies</li>
+  <li><strong>Topic 9D: </strong>Describe  Converged Storage Network Technologies</li>
+  <li><strong>Topic 9E: </strong>Describe  Multipathing Issues</li>
+</ul>
+<p><strong>Lesson 10: Describing Storage Management</strong></p>
+<ul>
+  <li><strong>Topic 10A: </strong>Execute  Storage Provisioning</li>
+  <li><strong>Topic 10B: </strong>Describe  Volume Management</li>
+  <li><strong>Topic 10C: </strong>Monitor  Storage Networks</li>
+  <li><strong>Topic 10D: </strong>Describe  Storage De-duplication and Compression</li>
+  <li><strong>Topic 10E: </strong>Describe  Management Protocols and Interfaces</li>
+  <li><strong>Topic 10F: </strong>Examine  ILM</li>
+</ul>
+<p><strong>Lesson 11: Describing Storage Network Implementation</strong></p>
+<ul>
+  <li><strong>Topic 11A: </strong>Identify  Implementation Parameters of SAS/SATA</li>
+  <li><strong>Topic 11B: </strong>Describe  Storage Networks That Use Switch Technology</li>
+  <li><strong>Topic 11C: </strong>Describe  Storage Networks That Use HBA Technology</li>
+  <li><strong>Topic 11D: </strong>Describe  Storage Layouts</li>
+  <li><strong>Topic 11E: </strong>Examine  Storage Network Implementation Environmental Concerns</li>
+  <li><strong>Topic 11F: </strong>Examine  Implementation and Maintenance Factors of Storage Equipment</li>
+</ul>
+<p><strong>Lesson 12: Introducing Storage Virtualization</strong></p>
+<ul>
+  <li><strong>Topic 12A: </strong>Describe  Storage Virtualization</li>
+  <li><strong>Topic 12B: </strong>Describe  Storage Virtualization Implementation</li>
+  <li><strong>Topic 12C: </strong>Describe  the SNIA Shared Storage Model</li>
+</ul>
+<p><strong>Lesson 13: Examining Storage Network Management</strong></p>
+<ul>
+  <li><strong>Topic 13A: </strong>Describe  Storage Network Management</li>
+  <li><strong>Topic 13B: </strong>Describe  SAN Management</li>
+  <li><strong>Topic 13C: </strong>Troubleshoot  Common Network Problems</li>
+  <li><strong>Topic 13D: </strong>Troubleshoot  Common FC Problems</li>
+</ul>
+<p><strong>Lesson 14: Evaluating Storage Performance</strong></p>
+<ul>
+  <li><strong>Topic 14A: </strong>Identify  Storage Latency and Throughput</li>
+  <li><strong>Topic 14B: </strong>Examine  Tuning and Workload Balance</li>
+  <li><strong>Topic 14C: </strong>Evaluate  Storage Device Bandwidth</li>
+  <li><strong>Topic 14D: </strong>Evaluate  Network Device Bandwidth</li>
+  <li><strong>Topic 14E: </strong>Evaluate  Storage and Host Tools</li>
+</ul>
+<p><strong>Lesson 15: Securing Storage Networks</strong></p>
+<ul>
+  <li><strong>Topic 15A: </strong>Describe  Storage Security</li>
+  <li><strong>Topic 15B: </strong>Manage  Storage Redundancy</li>
+  <li><strong>Topic 15C: </strong>Examine  Backup and Recovery Technologies</li>
+  <li><strong>Topic 15D: </strong>Describe  Business Continuity</li>
+</ul>

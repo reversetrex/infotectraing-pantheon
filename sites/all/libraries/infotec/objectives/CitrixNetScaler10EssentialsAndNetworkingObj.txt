@@ -1,0 +1,16 @@
+<p>Upon successful completion of this course, learners are able to:</p>
+<ul>
+  <li>Identify the capabilities and functionality of the NetScaler.</li>
+  <li>Explain basic NetScaler network architecture.</li>
+  <li>Obtain, install, and manage NetScaler licenses.</li>
+  <li>Explain how SSL is used to secure the NetScaler.</li>
+  <li>Implement NetScaler TriScale Technology, including Clustering.</li>
+  <li>Configure advanced load balancing and GSLB on the NetScaler system.</li>
+  <li>Optimize the NetScaler system for traffic handling and management.</li>
+  <li>Customize the NetScaler system for traffic flow and content-specific requirements.</li>
+  <li>Demonstrate monitoring and reporting through native NetScaler logging tools.</li>
+  <li>Employ recommended tools and techniques to troubleshoot common NetScaler network and connectivity issues.</li>
+  <li>Identify the unique capabilities and functionality of the NetScaler SDX platform.</li>
+  <li>Identify the networking characteristics of the NetScaler SDX platform.</li>
+  <li>Explain the process of provisioning and administration of NetScaler VPX instances on a NetScaler SDX appliance.</li>
+</ul>

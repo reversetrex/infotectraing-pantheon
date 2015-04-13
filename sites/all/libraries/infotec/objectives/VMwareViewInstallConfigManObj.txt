@@ -1,0 +1,9 @@
+<p>At the end of  the course, you should understand the features and operation of VIEW and be  able to:</p>
+<ul>
+  <li>Install and configure View components.</li>
+  <li>Create and manage dedicated and floating desktop pools.</li>
+  <li>Deploy and manage linked-clone virtual desktops.</li>
+  <li>Configure and manage desktops that run in local mode.</li>
+  <li>Configure secure access to desktops through a public network.</li>
+  <li>Use ThinApp to package applications.</li>
+</ul>

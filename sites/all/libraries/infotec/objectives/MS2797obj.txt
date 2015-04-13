@@ -1,0 +1,9 @@
+<p> At course completion, students will be able to:</p>
+<ul>
+  <li> Design a reporting solution. </li>
+  <li>Develop a reporting solution. </li>
+  <li> Collaborate with application developers to complete reporting and analytical interfaces. </li>
+  <li> Deploy and manage a Reporting Services solution. </li>
+  <li> Design security for a Reporting Services solution. </li>
+  <li> Optimize report execution performance. </li>
+</ul>

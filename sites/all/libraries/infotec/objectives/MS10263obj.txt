@@ -1,0 +1,11 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Implement Service-Oriented Architecture tenets in WCF services</li>
+    <li>Host WCF services in a variety of Windows hosts</li>
+    <li>Define and implement WCF service contracts, data contracts, and message contracts</li>
+    <li>Use multiple endpoints with various messaging patterns</li>
+    <li>Test, troubleshoot, monitor, and diagnose WCF services</li>
+    <li>Ensure service reliability using transactions and message queues</li>
+    <li>Secure WCF services using message and transport security</li>
+    <li>Extend WCF using behaviors, dispatchers, inspectors, and formatters</li>
+</ul>

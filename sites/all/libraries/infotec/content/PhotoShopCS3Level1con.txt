@@ -1,0 +1,38 @@
+<p><strong>Lesson 1: Exploring the Photoshop Environment</strong></p>
+  Topic 1A: Explore the Photoshop Interface <br />
+  Topic 1B: Customize the Workspace <br />
+  Topic 1C: Explore the Navigation Tools<br />
+
+<p><strong>Lesson 2: Working with Image Areas</strong></p>
+  Topic 2A: Select Image Areas <br />
+  Topic 2B: Save a Selection <br />
+  Topic 2C: Modify a Selection<br />
+
+<p><strong>Lesson 3: Working with Layers</strong></p>
+  Topic 3A: Create Layers <br />
+  Topic 3B: Create Type Layers <br />
+  Topic 3C: Transform Layers <br />
+  Topic 3D: Alter Type Properties <br />
+  Topic 3E: Apply Layer Styles <br />
+  Topic 3F: Undo Previous Steps <br />
+  Topic 3G: Arrange and Group Layers<br />
+
+<p><strong>Lesson 4: Enhancing Images</strong></p>
+  Topic 4A: Paint Strokes on an Image <br />
+  Topic 4B: Apply Filter Effects <br />
+  Topic 4C: Convert an Image to Black and White <br />
+  Topic 4D: Blend Layers <br />
+  Topic 4E: Merge Layers and Flatten Images<br />
+
+<p><strong>Lesson 5: Saving Images for Web and Print</strong></p>
+  Topic 5A: Save Images for Use in Print Applications <br />
+  Topic 5B: Save Images for the Web <br />
+  Topic 5C: Save Images as PDF <br />
+
+<p><strong>Lesson 6: Managing Assets with Adobe Bridge</strong></p>
+  Topic 6A: Explore Adobe Bridge <br />
+  Topic 6B: Work with Adobe Bridge <br />
+  Topic 6C: Work with Stacks and Filters in Adobe Bridge <br />
+  Topic 6D: Apply Metadata and Keywords to Files<br />
+
+<p><strong>Appendix A: Adobe Certified Expert (ACE) Program</strong></p>

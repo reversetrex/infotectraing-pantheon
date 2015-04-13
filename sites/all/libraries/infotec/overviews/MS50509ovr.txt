@@ -1,0 +1,1 @@
+This two-day instructor-led course provides students with the knowledge and skills required to implement an endpoint malware protection solution using Microsoft Forefront Endpoint Protection 2010 (FEP).

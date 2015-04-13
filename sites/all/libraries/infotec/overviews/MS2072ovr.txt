@@ -1,0 +1,1 @@
+This course provides students with the knowledge and skills required to install, configure, administer, and troubleshoot the client-server database management system of Microsoft SQL Server 2000. Course 2072 is a revision of Course 832, System Administration for Microsoft SQL Server 7.0. The course content is being revised to reflect changes in the product.

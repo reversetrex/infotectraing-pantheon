@@ -1,0 +1,463 @@
+<p><strong>Module:&nbsp; Fundamentals of Network</strong></p>
+  1. Key  elements of network<br />
+  2.  Logical Elements of Network<br />
+  3.  Types of network media<br />
+  4.  Media Access Methods<br />
+  5. OSI  Model<br />
+  6.  TCP/IP Model<br />
+  7.  Transmission Modes<br />
+  8.  Types of Transmission<br />
+  9.  Logical Network Classification<br />
+  10.  Network Topologies<br />
+  11.  Physical Network Classification<br />
+  12.  Network Equipments<br />
+  
+<p><strong>Module: Network Protocols</strong></p>
+  1.  Introduction to protocols<br />
+  2.  Implementing Network protocols<br />
+  3.  Application Layer Protocols<br />
+  4.  Presentation Layer Protocol<br />
+  5.  Session Layer Protocol<br />
+  6.  Transport Layer Protocols<br />
+  7.  Network Layer Protocols<br />
+  8. Data  link Layer Protocol<br />
+  
+<p><strong>Module: Protocol Analysis</strong></p>
+  1.  Overview of TCP/IP<br />
+  2.  Relation to other Protocol<br />
+  3.  Tcp/ip Protocol suite<br />
+  4. TCP<br />
+  5. IP<br />
+  
+<p><strong>Module: IEEE standards</strong></p>
+  1.  Introduction to IEEE standards<br />
+  2. IEEE  LAN Protocol Specification<br />
+  3.  Wireless Networking Standards<br />
+  
+<p><strong>Module: Network Security</strong></p>
+  1.  Overview of Network Security<br />
+  2. The  need for network security<br />
+  3. The  goals of network security<br />
+  4.  Security awareness<br />
+  5.  Functions of Network security administrator<br />
+  
+<p><strong>Module: Security Standards  Organizations</strong></p>
+  1.  Internet Corporation for Assigned Names and Numbers (ICANN)<br />
+  2.  International Organization for Standardization (ISO)<br />
+  3.  Consultative Committee For Telephone and Telegraphy(CCITT)<br />
+  4.  International Telecommunication Union(ITU)<br />
+  5.  American National Standards Institute(ANSI)<br />
+  6. Institute Of Electronics and Electrical  Engineers(IEEE)<br />
+  7.  Electronic Industries Association <br />
+  8. National Center for Standards and Certification  Information (NIST)<br />
+  9.  World Wide Web Consortium (W3C)<br />
+  
+<p><strong>Module: Security Standards</strong></p>
+  1.  Introduction to Standards<br />
+  2.  Introduction to Internet Standards<br />
+  3.  Standards Creation Committee<br />
+  4.  Internet Standards<br />
+  5.  Cabling Standards<br />
+  6.  Specification Standards<br />
+  
+<p><strong>Module: Security Policy</strong></p>
+  1.  Security Policy overview<br />
+  2. Concept  Of Security Policy<br />
+  3. Key  Security Elements<br />
+  4.  Security Awareness Programs<br />
+  5.  Goals of security Policies<br />
+  6.  Vital role of a security policy<br />
+  7.  Classification of Security policy<br />
+  8.  Policy design<br />
+  9.  Contents of Security Policy <br />
+  10.  Privacy and Confidentiality<br />
+  11.  Security levels<br />
+  12.  Security organization and policy development<br />
+  13.  Security policy features<br />
+  14.  Configuration of security policy<br />
+  15.  Implementation of security policy<br />
+  16.  Incident Handling and Escalation Procedures<br />
+  17.  Security operations and life cycle management<br />
+  18.  Securing Assets<br />
+  19.  Defining Responses to Security Violations<br />
+  20.  Presenting and Reviewing the Process<br />
+  21.  Compliance with Law and Policy<br />
+  22.  Transborder encryption issues<br />
+  23.  Points To Remember While Writing Security Policy<br />
+  
+<p><strong>Module: Hardening Physical Security</strong></p>
+  1. Need  for physical security<br />
+  2.  Security Stastics<br />
+  3.  Physical Security Breach Incidents<br />
+  4. Who  is Accountable for Physical Security?<br />
+  5.  Factors Affecting Physical Security<br />
+  6.  Physical Security Threats<br />
+  7.  Prevention &amp; Detection of physical hazards<br />
+  8.  Premises Security<br />
+  9. EPS  (Electronic Physical Security) <br />
+  10.  Challenges in Ensuring Physical Security <br />
+  11.  Countermeasures<br />
+  12.  Mantrap <br />
+  13.  Physical Security Checklist<br />
+  
+<p><strong>Module: Network  Security Threats</strong></p>
+  1. Current Statistics<br />
+  2. Defining Terms: Vulnerability, Threats, and Attacks<br />
+  3. Types of Attackers<br />
+  4. Classification of Hackers<br />
+  5. Techniques<br />
+  6. Common Vulnerabilities and Exposures (CVE)<br />
+  7. Threats<br />
+  8. Attacks<br />
+  9. Hiding Evidence of an Attack<br />
+  10. Problems Detecting Network Attacks<br />
+  11. Network Scanning Tools<br />
+  
+<p><strong>Module:  Intrusion Detection System (IDS) and Intrusion Prevention Systems (IPS)</strong></p>
+  1. Introduction to IDS<br />
+  2. History of Intrusion Detection<br />
+  3. Intrusion Detection Concepts<br />
+  4. IDS for an Organization<br />
+  5. Characteristics of IDS<br />
+  6. Importance of IDS <br />
+  7. Aggregate Analysis with IDS<br />
+  8. Types of IDS <br />
+  9. Deployment of IDS<br />
+  10. Types of Signatures<br />
+  11. True/False-Positive/Negative<br />
+  12. Major Methods of Operation<br />
+  13. IDS Tool <br />
+  14. Intrusion Prevention System<br />
+  15. Information Flow in IDS and IPS<br />
+  16. IPS Tool <br />
+  17. IDS Vs IPS<br />
+  
+<p><strong>Module: Firewalls</strong></p>
+  1. Firewalls: Introduction<br />
+  2. Security features <br />
+  3. Multiple components of Firewall<br />
+  4. Firewall Operations<br />
+  5. Software Firewall<br />
+  6. Hardware Firewall<br />
+  7. Types of Firewalls<br />
+  8. Pix Firewall<br />
+  9. Basic features of PIX firewall<br />
+  10. ADvanced Features of PIX firewall<br />
+  11. Firewall Features<br />
+  12. Establishing Rules and Restrictions for your Firewall<br />
+  13. Firewall Configuration Strategies <br />
+  14. Scalability <br />
+  15. Productivity <br />
+  16. Firewall Architecture<br />
+  17. Handling threats and security tasks<br />
+  18. Protection against hacking<br />
+  19. Centralization and Documentation<br />
+  20. Multi-layer firewall protection<br />
+  21. Firewall deployment strategies<br />
+  22. Specialty firewalls and Reverse firewalls<br />
+  23. Advantages of using Firewalls<br />
+  24. Disadvantages of using Firewalls<br />
+  25. Threats<br />
+  26. Limitations of Firewalls<br />
+  27. Personal Firewall Software<br />
+  28. Personal Firewall Hardware<br />
+  29. Firewall Log Analysis<br />
+  30. Comparison of Various Firewall Products<br />
+  31. T-REX Open Source Firewall<br />
+  32. SQUID<br />
+  33. WinGate<br />
+  34. Symantec Enterprise  Firewall<br />
+  35. Firewall Testers<br />
+  
+<p><strong>Module: Packet  Filtering and Proxy Servers</strong></p>
+  1. Application layer gateway<br />
+  2. Proxy servers<br />
+  
+<p><strong>Module: Bastion  Host and Honeypots</strong></p>
+  1. Bastion Hosts<br />
+  2. Honeypot<br />
+  3. Honeynet<br />
+
+<p><strong>Module:  Securing Modems</strong></p>
+  1. Introduction to Modems<br />
+  2. Origin of Modems<br />
+  3. Modem Features<br />
+  4. Types of Modems<br />
+  5. Modem Security<br />
+  6. Categorizing Modem Access<br />
+  7. Modem Attacks<br />
+  8. Modem Risks<br />
+  9. Modem Failure Symptoms<br />
+  10. Troubleshooting Modems<br />
+  
+<p><strong>Module: Troubleshooting Network</strong></p>
+  1. Introduction to troubleshooting<br />
+  2. Troubleshooting Network devices<br />
+  3. Troubleshooting Network Slowdowns<br />
+  4. Troubleshooting Wireless devices<br />
+  5. A Troubleshooting Methodology<br />
+  6. TCP/IP Troubleshooting Utilities<br />
+  7. Troubleshooting Tools<br />
+  
+<p><strong>Module:  Hardening Routers</strong></p>
+  1. Introduction to Routers<br />
+  2. Routing Metrics<br />
+  3. Multiple Routing<br />
+  4. Types of Routers<br />
+  5. Routing Algorithms<br />
+  6. Internet work Operating Systems (IOS)<br />
+  7. IOS: FEATURES<br />
+  8. Routing Principles<br />
+  9. Modes Of Operation<br />
+  10. IP Routing<br />
+  11. IP Source Routing<br />
+  12. Configuration of Routers<br />
+  13. Router Configuration Modes<br />
+  14. Finger Tool<br />
+  15. Disabling the auxiliary and closing extra interfaces<br />
+  16. BOOTp service<br />
+  17. TCP and UDP small servers<br />
+  18. Disabling Proxy ARP<br />
+  19. Disabling SNMP<br />
+  20. Disabling NTP<br />
+  21. Hardening a Router<br />
+  22. Cisco Discovery Protocol<br />
+  23. Filtering Network Traffic<br />
+  24. Access Control List<br />
+  25. Log System Error Messages<br />
+  26. Securing Routers: Committed Access Rate<br />
+  27. Securing Routers: Secure Shell<br />
+  28. Router Commands<br />
+  29. Types of Routing<br />
+  30. Routing Protocols<br />
+  31. Routing Table Maintenance Protocol (RTMP) <br />
+  32. Troubleshooting a router<br />
+  33. Components of router security<br />
+  34. Router security: testing tools<br />
+  
+<p><strong>Module:  Hardening Operating Systems</strong></p>
+  1. BIOS security<br />
+  2. Windows Registry<br />
+  3. Configuring Windows Services<br />
+  4. Process<br />
+  5. Resource Access<br />
+  6. Discretionary Access Control List (DACL)<br />
+  7. Privileges<br />
+  8. Objects And Permissions<br />
+  9. Rights Vs Permissions<br />
+  10. NTFS File System Permissions<br />
+  11. Encryption File System<br />
+  12. Windows Network Security<br />
+  13. Windows infrastructure features<br />
+  14. Kerberos Authentication And Domain Security<br />
+  15. Trust Relationships Between Domains<br />
+  16. IP Security<br />
+  17. Windows Security Tools<br />
+  18. Windows<br />
+  19. Windows Certificate Authorities<br />
+  20. Certificate Authority Requirements <br />
+  21. Desktop Management<br />
+  22. File Management<br />
+  23. Security Issues<br />
+  24. Linux<br />
+  25. Linux Certificate Authorities<br />
+  26. Pluggable Authentication Module<br />
+  27. Network Information Services<br />
+  28. Group Management Utilities<br />
+  29. Network File System<br />
+  30. Permission Management Tools <br />
+  31. System Logger Utility<br />
+  32. Unix Security<br />
+  33. Macintosh Security<br />
+  
+<p><strong>Module: Patch  Management</strong></p>
+  1. Introduction<br />
+  2. The Patch Concept<br />
+  3. Patch Sources<br />
+  4. Patch testing<br />
+  5. Patch Monitoring and Management<br />
+  6. Consolidating Patches on Red hat Network<br />
+  7. Red Hat Up2date Patch Management Utility Installation  Steps <br />
+  8. Red Hat Up2date Patch Management: Command Line  Interface<br />
+  9. Patch Management Process<br />
+  10. Windows Update Services<br />
+  11. Microsoft  Patch Management Tool: Microsoft  Baseline Security Analyzer <br />
+  12. Patch Management Tool<br />
+  
+<p><strong>Module: Log  Analysis</strong></p>
+  1. Introduction to Log Analysis<br />
+  2. Overview of log analysis<br />
+  3. Audit Events <br />
+  4. Log Types<br />
+  5. Log Files<br />
+  6. Limitations of log files<br />
+  7. System Log Aggregation, Statistics And Analysis<br />
+  8. Overview of logging<br />
+  9. Monitoring for Intrusion and Security Event<br />
+  10. Investigating Log Files<br />
+  11. Importance of log review<br />
+  12. Log Analysis Tools<br />
+  13. How to Secure Logs(Log Security)<br />
+  
+<p><strong>Module:  Application Security</strong></p>
+  1. Importance of Application Security<br />
+  2. Why Is Web Security So Difficult?<br />
+  3. Application Threats and Counter Measures<br />
+  4. Web Applications <br />
+  5. Embedded Application Security (EMBASSY)<br />
+  6. Secure Coding<br />
+  
+<p><strong>Module: Web  Security</strong></p>
+  1. Overview of Web Security<br />
+  2. Common Threats On Web<br />
+  3. Identifying Unauthorized Devices<br />
+  4. Restrictive Access<br />
+  5. Network Addresses<br />
+  6. Tracking the Connectivity: Tracert/Traceroute<br />
+  7. Testing the Traffic Filtering Devices<br />
+  8. Installing and Protecting IIS<br />
+  9. Client Authorization<br />
+  10. Client-Side Data<br />
+  11. Client Authentication<br />
+  12. Input Data Validation<br />
+  13. Browsing Analysis<br />
+  14. Browser Security<br />
+  16. Common Gateway Interface(CGI)<br />
+  
+<p><strong>Module: E-mail  Security</strong></p>
+  1. Overview of E-mail<br />
+  2. History of E-mail<br />
+  3. Basics of E-Mail<br />
+  4. Types of E-Mail<br />
+  5. Web Based Versus POP3 E-mail<br />
+  6. Components of an Email<br />
+  7. E-Mail Servers<br />
+  8. Testing the Email Server<br />
+  9. E-Mail Encryption<br />
+  10. Installing WorkgroupMail<br />
+  11. Configuring Outlook Express<br />
+  12. Secure Email<br />
+  13. Certificate Revocation<br />
+  14. E-mail Authentication<br />
+  15. E-mail protocols// inc all protocols<br />
+  16. Client and server architecture<br />
+  17. E-Mail Security Risks<br />
+  18. How to defend against E-Mail security risks<br />
+  19. Tools for E-mail Security<br />
+  20. Tracking e-mails<br />
+  
+<p><strong>Module: Authentication: Encryption, Cryptography and Digital Signatures</strong></p>
+  1. Authentication<br />
+  2. VeriSign Authentication<br />
+  3. Evolution of Encryption<br />
+  4. Digital Certificates<br />
+  5. Certificate Encryption Process<br />
+  6. Public and Private Keys<br />
+  7. Digital Signatures<br />
+  
+<p><strong>Module: Virtual  Private Networks</strong></p>
+  1. Introduction to Virtual Private Network<br />
+  2. Types of VPN<br />
+  3. Working of VPN<br />
+  4. Tunneling<br />
+  5. Point to point Tunneling Protocol(PPTP)<br />
+  6. Layer 2 Tunnel Protocol<br />
+  7. VPN Security<br />
+  8. Connection to VPN <br />
+  9. Step1: Setting Up VPN<br />
+  10. Step2: Implement DHCP Services<br />
+  11. Step3: Create An Enterprise Certificate Authority<br />
+  12. Step 4: Install IAS<br />
+  13. Step 5: Configure IAS<br />
+  14. Step 6: Create A Remote Access Policy<br />
+  15. Step 7: Configure The VPN Server <br />
+  16. Step 8: Associate The VPN Server With The DHCP Server <br />
+  17. Step 9: Configure Remote Clients <br />
+  18. Step 10: Test The Client Connection <br />
+  19. VPN Policies <br />
+  20. VPN Registrations And Passwords <br />
+  21. Risk Associated With VPN <br />
+  22. Pre Implementation Review &ndash; Auditing <br />
+  23. Implementation Review &ndash; Auditing <br />
+  24. Post Implementation Review And Reporting<br />
+  
+<p><strong>Module:  Wireless Network Security</strong></p>
+  1. Introduction to Wireless<br />
+  2. Types of Wireless Networks<br />
+  3. Components of Wireless Network<br />
+  4. Wireless Technologies<br />
+  5. Wireless Communications: Examples<br />
+  6. Devices using Wireless Communications<br />
+  7. Service Set Identifier (SSID)<br />
+  8. Detecting Wireless Network<br />
+  9. Types of Wireless Attacks<br />
+  10. Wireless Threats<br />
+  11. Overview of Wi-Fi<br />
+  12. Open Wi-Fi Vulnerabilities<br />
+  13. WLANs in Public Space<br />
+  14. Risks Due To Wireless Networks<br />
+  15. Wired Equivalent Privacy<br />
+  16. Wireless Network Attack Tool: AirSnarf<br />
+  17. Tools to detect MAC Address Spoofing: Wellenreiter v2<br />
+  18. WLAN Management<br />
+  19. Wireless Security<br />
+  20. Wireless Auditing<br />
+  21. DHCP Services <br />
+  22. Mobile Security Through Certificates<br />
+  23. Certificate Management Through PKI<br />
+  24. Trouble Shooting Wireless Network<br />
+  25. Wireless Network Security Checklist<br />
+  
+<p><strong>Module:  Creating Fault Tolerance</strong></p>
+  1. Network Security: Fault Tolerance<br />
+  2. Why Create Fault Tolerance<br />
+  3. Planning For Fault Tolerance<br />
+  4. Network Security<br />
+  5. Reasons for Network Failure<br />
+  6. Reasons For System Failure <br />
+  7. Preventive Measures<br />
+  
+<p><strong>Module:  Incident Response</strong></p>
+  1. What is an Incident<br />
+  2. Category of Incident<br />
+  3. Types of Incident<br />
+  4. Who should I report an Incident<br />
+  5. Step by Step Procedure<br />
+  6. Managing Incidents<br />
+  7. What Is an Incident Response<br />
+  8. Incident Response Architecture<br />
+  9. Six Step Approach for Incident Handling (PICERF  Methodology) <br />
+  10. Incident Response Team<br />
+  11. Obstacles in Building a Successful Incident Response  Team<br />
+  12. Computer Security Incident Response Team<br />
+  
+<p><strong>Module: Disaster  Recovery and Planning</strong></p>
+  1. Overview of Disaster and its types<br />
+  2. What is a Disaster Recovery<br />
+  3. Principles of Disaster Recovery<br />
+  4. Types of Disaster Recovery Systems <br />
+  5. Backup Site<br />
+  6. Recovery of Small and Large Computer Systems<br />
+  7. Emergency Management<br />
+  8. Disaster Recovery Planning<br />
+  9. Process of Disaster Recovery Plan <br />
+  10. Disaster Recovery Testing <br />
+  11. Disaster Recovery Planning Team <br />
+  12. Business Process Inventory<br />
+  13. Risk Analysis<br />
+  14. Business Continuity Planning Process <br />
+  15. Business Continuity Management<br />
+  16. Six myths about Business Continuity Management and  Disaster Recovery<br />
+  17. Disaster Prevention<br />
+  
+<p><strong>Module: Network  Vulnerability Assessment</strong></p>
+  1. Statistics of Network Vulnerabilities in 2006 <br />
+  2. Vulnerability Assessment<br />
+  3. Goals of vulnerability assessment <br />
+  4. Features of a good vulnerability assessment<br />
+  5. Vulnerability classes <br />
+  6. Source Of Vulnerabilities<br />
+  7. Choice of Personnel for Network Vulnerability  Assessment<br />
+  8. Network vulnerability Assessment methodology: <br />
+  9. How to assess vulnerability assessment tools<br />
+  10. Selecting vulnerability assessment tools<br />

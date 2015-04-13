@@ -1,0 +1,19 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Describe what ASP is, what platforms and applications support it, and the role of scripting languages, objects, and components in ASP programming. </li>
+  <li> Use Server-side Includes to improve Web programming efficiency through modularization. </li>
+  <li> Describe the role of the ASP Response object and use its Write, Redirect, and output control properties and methods. </li>
+  <li> Describe the role of the ASP Request object and use its Form, QueryString, and ServerVariables collections to obtain user-supplied information and environment details. </li>
+  <li> Determine the value of cookies in maintaining user state and use the Cookie collections of the Request and Response objects. </li>
+  <li> Describe what ASP components are and use the Server object to instantiate </li>
+  <li> ASP components. </li>
+  <li> Use the Ad Rotator, Browser Capabilities, and Content Linking components. </li>
+  <li> Describe the difference between ASP applications and sessions and use the </li>
+  <li> Global.asa file to launch application and session events. </li>
+  <li> Describe what Scripting Objects are and use the Dictionary, FileSystemObject, and TextStream objects to further enable your ASP Web sites. </li>
+  <li> Describe the relationship between ASP and ADO and create a database connection from a Web site. </li>
+  <li> Use the Recordset object to display database records, create on-the-fly combo boxes and option groups, and filter records based on user input. </li>
+  <li> Add, update, and delete records in a database using both ADO and SQL query methods. </li>
+  <li> Use stored procedures and parameter queries to improve database access on the Web. </li>
+  <li> Create a data browser that allows forward and backward recordset browsing and a paged recordset display system. </li>
+</ul>

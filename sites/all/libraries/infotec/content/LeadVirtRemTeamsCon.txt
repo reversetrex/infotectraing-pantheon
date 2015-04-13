@@ -1,0 +1,20 @@
+<p> <strong>Unit 1: Fundamentals of virtual teams</strong><br>
+  Topic A: Defining virtual teams<br>
+  Topic B: Serving in virtual teams<br>
+Topic C: Conducting an orientation session</p>
+<p><strong>Unit 2: Effectiveness, social dynamics, and decision-making</strong><br>
+  Topic A: Effectiveness<br>
+  Topic B: Social dynamics<br>
+Topic C: Decision-making</p>
+<p> <strong>Unit 3: Obstacles and success factors</strong><br>
+  Topic A: Obstacles<br>
+Topic B: Success factors</p>
+<p> <strong>Unit 4: Communication</strong><br>
+  Topic A: Effective communication<br>
+  Topic B: Enhancing communication<br>
+  Topic C: Communication barriers<br>
+Topic D: Technologies used for communication</p>
+<p> <strong>Unit 5: Alternative office arrangements</strong><br>
+  Topic A: Working in alternative offices<br>
+  Topic B: Telecommuting<br>
+</p>

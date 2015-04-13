@@ -1,0 +1,9 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Understand MOF's three lifecycle phases, manage layer and the sixteen service management functions (SMFs) within the architecture.</li>
+  <li>Comprehend the main goals and objectives of each lifecycle phase (and manage layer) and the service management functions (SMFs) that live within each.</li>
+  <li>Be aware of key MOF definitions and terms.</li>
+  <li>Understand how to integrate the MOF IT Service  Management Framework into their own organization.</li>
+  <li>Be prepared to take the MOF Foundation Certificate examination.</li>
+</ul>

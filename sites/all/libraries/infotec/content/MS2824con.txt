@@ -1,0 +1,24 @@
+<p><strong> Unit 1: Overview of Microsoft ISA Server 2004 <br>
+</strong>This Unit provides an introduction to ISA Server 2004. It introduces the core functionality provided by ISA Server 2004 and presents an overview of how ISA Server 2004 integrates with other security practices to form a defense-in-depth approach to network security. The Unit also describes the most common deployment scenarios for ISA Server 2004. </p>
+<p><strong> Unit 2: Installing and Maintaining ISA Server 2004 <br>
+</strong>This Unit describes how to install ISA Server 2004, how to install and configure the ISA Server client software, and how to maintain ISA Server 2004 after installation. </p>
+<p><strong> Unit 3: Enabling Access to Internet Resources <br>
+</strong>This Unit explains how to provide access to Internet resources for internal corporate clients while maintaining network security. The Unit discusses different ways to implement this and also how to configure rules for access. </p>
+<p><strong> Unit 4: Configuring ISA Server 2004 as a Firewall <br>
+</strong>This Unit explains how to configure ISA Server 2004 to provide firewall capabilities and restrict traffic into and out of the network. The Unit describes how to configure firewall policies and rules to provide specific functionality. </p>
+<p><strong> Unit 5: Configuring Access to Internal Resources <br>
+</strong>This Unit explains how to configure Web and server publishing rules to publish internal network resources to the Internet without compromising internal network security. </p>
+<p><strong> Unit 7: Advanced Application and Web Filtering <br>
+</strong>This Unit explains how application and Web filtering can be used for very specific filtering of traffic that flows through the ISA Server. The Unit shows how to configure application and Web filtering to provide advanced protection for the internal network. </p>
+<p><strong> Unit 8: Configuring Virtual Private Network Access for Remote Clients and Networks <br>
+</strong>This Unit explains how to provide access to the internal network for remote users while maintaining network security by implementing a virtual private network (VPN). The Unit shows how to configure ISA Server 2004 to provide a VPN solution. </p>
+<p><strong> Unit 9: Implementing Caching to Improve Browsing Performance <br>
+</strong>This Unit explains how ISA Server can cache content that clients request from the Internet to provide a quicker response to the client. This Unit discusses how to configure caching for maximum efficiency. </p>
+<p><strong> Unit 10: Monitoring ISA Server 2004 <br>
+</strong>This Unit explains how administrators can use monitoring features of ISA Server to track network activity and monitor ISA Server performance. </p>
+<p><strong> Unit 11: Implementing ISA Server 2004 Enterprise Edition <br>
+</strong>This Unit will focus on the concepts related to planning and implementing an ISA Server 2004 infrastructure. This Unit will highlight the differences between ISA Server 2004 Standard Edition and Enterprise Edition and explain how to implement the Enterprise Edition features. </p>
+<p><strong> Unit 12: Implementing ISA Server 2004 Enterprise Edition: Back-to-Back Firewall Scenario <br>
+</strong>The primary focus of this Unit is the lab where the students will implement ISA Server Enterprise Edition in a back-to-back firewall configuration that includes network load balancing and shared caching. The Unit information will introduce the complexities of implementing a back-to-back firewall configuration and then provide guidelines for deploying this configuration. In the lab, the students will implement and test a back-to-back firewall scenario. This Unit should prepare students to implement a scalable back-to-back firewall solution using ISA Server Enterprise Edition based on a minimal but realistic set of business requirements. </p>
+<p><strong> Unit 13: Implementing ISA Server 2004 Enterprise Edition: Site-to-Site VPN Scenario <br>
+</strong>The primary focus of this Unit is the lab where the students will implement ISA Server Enterprise Edition in a branch office site-to-site VPN scenario that include VPN network load balancing. The Unit information will introduce the complexities of implementing a branch office site-to-site VPN scenario and then provide guidelines for deploying this configuration. In the lab, the students will implement and test the deployment scenario. This Unit should prepare students to implement a scalable site-to-site VPN solution using ISA Server Enterprise Edition. The scenario will demonstrate how to implement a site-to-site VPN scenario that reflects a minimal but realistic set of business requirements. </p>

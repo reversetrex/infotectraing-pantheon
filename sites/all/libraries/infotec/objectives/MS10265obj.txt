@@ -1,0 +1,20 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Evaluate a variety of business cases, and then  select an appropriate combination of data access technologies and tools most  appropriate to each case.</li>
+  <li>Describe the roles of Entity Framework, WCF Data  Services, and ADO.NET for building and maintaining applications.</li>
+  <li> Use LINQ on  top of these technologies to improve productivity and the quality of their  applications.</li>
+  <li>Use the tools provided with the Entity  Framework to map the conceptual model used by the business logic of an  application to the logical data model provided by a database.</li>
+  <li>Query an Entity Data Model (EDM) by using  common methods such as LINQ to Entities, Entity SQL, and the classes in the  EntityClient namespace.</li>
+  <li>Perform data modification tasks on data in an  EDM.</li>
+  <li>Explain the function of the Object Services  model implemented by the Entity Framework and the support provided by the  Object Services API for addressing the issues faced by enterprise applications  that have to handle multiple concurrent users simultaneously accessing the same  data.</li>
+  <li>Describe best practices for designing and  building a scalable, optimized data access layer by using Object Services.</li>
+  <li>Customize and extend entities with their own  business logic and use advanced mappings to shape the data model to their  business and application requirements.</li>
+  <li>Reuse existing business classes in a data  access layer built by using the Entity Framework.</li>
+  <li>Address the architectural issues that can  arise when building an n-tier enterprise application by using the Entity  Framework.</li>
+  <li>Build extensible solutions that can update  data in an n-tier enterprise application by using the Entity Framework.</li>
+  <li>Access offline data or data that that has  limited availability in client applications.</li>
+  <li>Design, develop, and consume a simple WCF Data  Service.</li>
+  <li>Use WCF Data Services to update and delete  data and to handle multi-user concerns.</li>
+  <li>Develop high performance, scalable ADO.NET  applications that can query and update data.</li>
+  <li>Explain how LINQ to SQL  enables development against a logical model which abstracts the low-level  details of querying ADO.NET tables and result sets.</li>
+</ul>

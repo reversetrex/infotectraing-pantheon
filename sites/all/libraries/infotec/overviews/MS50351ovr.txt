@@ -1,0 +1,1 @@
+This 2-day instructor-led course will teach you all the new development changes that were made to SharePoint 2010 including (Sandboxed solutions, LINQ, REST, Client Object Model, BCS, Workflows and Claims based authentication.

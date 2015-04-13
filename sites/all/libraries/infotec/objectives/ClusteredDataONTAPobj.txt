@@ -1,0 +1,22 @@
+<p>By the end of this course, you should be able to:</p>
+<ul>
+  <li>Explain the primary benefits of a Data ONTAP cluster</li>
+  <li>Create a cluster</li>
+  <li>Implement role-based administration</li>
+  <li>Manage the physical and logical resources within a cluster</li>
+  <li>Manage features to guarantee nondisruptive operations</li>
+  <li>Discuss storage and RAID concepts</li>
+  <li>Create aggregates</li>
+  <li>List the steps that are required to enable storage failover (SFO)</li>
+  <li>Create a flash pool</li>
+  <li>Build a namespace using multiple volumes</li>
+  <li>Configure FlexCache</li>
+  <li>Create an infinite volume</li>
+  <li>Identify supported cluster interconnect switches</li>
+  <li>Set up and configure SAN and NAS protocols</li>
+  <li>Configure the storage-efficiency features</li>
+  <li>Administer mirroring technology and data protection</li>
+  <li>Explain the notification capabilities of a cluster</li>
+  <li>Scale a cluster horizontally</li>
+  <li>Configure the storage QoS feature</li>
+</ul>

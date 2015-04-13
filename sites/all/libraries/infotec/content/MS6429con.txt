@@ -1,0 +1,13 @@
+<p><strong>Module 1: Implementing Windows Media Services</strong> - This module explains how to implement Windows Media Services.</p>
+
+<p><strong>Module 2: Implementing Content Streaming</strong> - This module explains how to implement Streaming solutions.</p>
+
+<p><strong>Module 3: Configuring Windows  Media Services</strong> - This module explains how to configure Windows Media Services.</p>
+
+<p><strong>Module 4: Configuring Content  Security</strong> - This module explains how to configure content security.</p>
+
+<p><strong>Module 5: Configuring Playlists and Advertising</strong> - This module explains how to configure playlists and advertising.</p>
+
+<p><strong>Module 6: Configuring Windows  Media Services for Advanced Scenarios</strong> - This module explains how configure Windows Media Services for advanced scenarios.</p>
+
+<p><strong>Module 7: Troubleshooting  Windows Media Services</strong> - This module explains how troubleshoot Windows Media Services.</p>

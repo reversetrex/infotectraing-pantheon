@@ -1,0 +1,55 @@
+<p><strong> Unit 1: Creating Complex Illustrations </strong></p>
+<ul>
+  <li> Topic 1A: Create Shapes Using the Pathfinder Commands </li>
+  <li>Topic 1B: Create Compound Paths </li>
+  <li>Topic 1C: Offset Paths </li>
+  <li>Topic 1D: Apply Effects </li>
+  <li>Topic 1E: Create Symbols </li>
+  <li>Topic 1F: Create Custom Pattern Brushes </li>
+  <li>Topic 1G: Organize Objects with Layers </li>
+  <li>Topic 1H: Modify Global Colors</li>
+</ul>
+<p><strong> Unit 2: Providing Support for PSD and PDF Files </strong></p>
+<ul>
+  <li> Topic 2A: Open Layered Photoshop Documents </li>
+  <li>Topic 2B: Create an Adobe PDF File</li>
+</ul>
+<p><strong> Unit 3: Creating a Vector Version of a Raster Graphic </strong></p>
+<ul>
+  <li> Topic 3A: Manually Trace Raster Images </li>
+  <li>Topic 3B: Trace Artwork Automatically </li>
+  <li>Topic 3C: Adjust the Results of a Tracing </li>
+  <li>Topic 3D: Apply a Custom Preset </li>
+  <li>Topic 3E: Convert a Tracing Object to Paths</li>
+</ul>
+<p><strong> Unit 4: Coloring Artwork Using Live Paint </strong></p>
+<ul>
+  <li> Topic 4A: Apply Paint Using Live Paint </li>
+  <li>Topic 4B: Correct Gaps in Objects </li>
+  <li>Topic 4C: Convert Objects to Live Paint Groups</li>
+</ul>
+<p><strong> Unit 5: Creating a Poster </strong></p>
+<ul>
+  <li> Topic 5A: Simplify Paths </li>
+  <li>Topic 5B: Create Clipping Masks </li>
+  <li>Topic 5C: Create 3D Effects </li>
+  <li>Topic 5D: Create Blends </li>
+  <li>Topic 5E: Share Graphic Styles</li>
+</ul>
+<p><strong> Unit 6: Exporting Graphics for the Web </strong></p>
+<ul>
+  <li> Topic 6A: Convert Colors to Web-Safe Colors </li>
+  <li>Topic 6B: Create Slices </li>
+  <li>Topic 6C: Add Interactivity to an SVG File </li>
+  <li>Topic 6D: Export Web Graphics</li>
+</ul>
+<p><strong> Unit 7: Applying Color Management </strong></p>
+<ul>
+  <li> Topic 7A: Decide When to Use Color Management </li>
+  <li>Topic 7B: Set Up Color Management</li>
+</ul>
+<p><strong> Unit 8: Outputting Documents </strong></p>
+<ul>
+  <li> Topic 8A: Print a Composite Proof </li>
+  <li>Topic 8B: Create Color Separations </li>
+</ul>

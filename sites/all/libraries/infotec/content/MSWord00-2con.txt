@@ -1,0 +1,47 @@
+<p><strong> Unit 1: Working with Sections </strong></p>
+<ul>
+  <li> Creating Sections </li>
+  <li>Newspaper Columns </li>
+  <li>Using Sections to Change Page Orientation </li>
+</ul>
+<p><strong> Unit 2: Managing Tables and Table Data </strong></p>
+<ul>
+  <li> Creating and Formatting Tables </li>
+  <li>Working with Table Data </li>
+  <li>Drawing Your Own Table </li>
+  <li>Link and Embed Excel Data </li>
+</ul>
+<p><strong> Unit 3: Using Mail Merge </strong></p>
+<ul>
+  <li> Creating a Mail Merge Document </li>
+  <li>Completing a Main Document </li>
+  <li>The Merge </li>
+  <li>Sorting and Filtering Merges </li>
+  <li>Using an Alternative Data Source to Create Mailing Labels </li>
+</ul>
+<p><strong> Unit 4: Styles and AutoText </strong></p>
+<ul>
+  <li> Applying and Displaying Styles </li>
+  <li>Creating Custom Styles </li>
+  <li>Using Heading Styles to Organize a Document </li>
+  <li>AutoText Entries </li>
+</ul>
+<p><strong> Unit 5: Introduction to Templates </strong></p>
+<ul>
+  <li> Templates at a Glance </li>
+  <li>Using Templates </li>
+  <li>Creating a New Fax Cover Sheet Based on a Template </li>
+</ul>
+<p><strong> Unit 6: Introduction to Macros </strong></p>
+<ul>
+  <li> Running and Recording Macros </li>
+  <li>Working with Existing Macros </li>
+  <li>Custom Toolbars </li>
+</ul>
+<p><strong> Unit 7: The Internet and the Web </strong></p>
+<ul>
+  <li> About the Internet, the Web, and Email </li>
+  <li>Creating a Web Page Based on a Template </li>
+  <li>Adding Hyperlinks to a Web Page </li>
+  <li>Adding Graphical Elements to a Web Page </li>
+</ul>

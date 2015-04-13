@@ -1,0 +1,13 @@
+<p>Upon successful completion of this course, learners are able to perform the following: </p>
+<ul>
+  <li>Determine when and how to use monitoring tools to administer network environments running Presentation Server software.</li>
+  <li>Configure metrics, alarms and Health Monitoring and Recovery tests.</li>
+  <li>Plan and optimize the server farm.</li>
+  <li>Monitor and troubleshoot connectivity to the data store.</li>
+  <li>Monitor and troubleshoot the Citrix IMA Service and the ICA communication channel.</li>
+  <li>Troubleshoot session initialization, client settings and Application Streaming sessions.</li>
+  <li>Monitor and troubleshoot published and streamed applications.</li>
+  <li>Determine how Citrix and Active Directory policies are applied and troubleshoot unexpected policy results.</li>
+  <li>Monitor, optimize and troubleshoot printing and printing policies.</li>
+  <li>Monitor, optimize and troubleshoot Web Interface and Secure Gateway.</li>
+</ul>

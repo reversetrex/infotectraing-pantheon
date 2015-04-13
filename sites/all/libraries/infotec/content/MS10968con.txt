@@ -1,0 +1,51 @@
+<p><strong>Module 1: The Office 365 Deployment Challenge</strong> - This module reviews the features of Office 365 and identifies recent improvements to the service. You then identify the Office 365 Deployment Challenge and list the benefits of the FastTrack approach compared to the traditional Plan-Prepare-Migrate deployment process.</p>
+<p>Lessons</p>
+<ul>
+  <li>Reviewing Office 365</li>
+  <li>Introducing the FastTrack Deployment Methodology</li>
+  <li>Getting to the Pilot</li>
+</ul>
+<p><strong>Module 2: Planning the Pilot Phase</strong> - In this module you learn how to plan the Pilot phase of the FastTrack Deployment process for Office 365. Because the aim of the FastTrack approach is to minimize up-front planning, there is relatively little planning and pre-Pilot scoping to carry out.</p>
+<p>The content for this phase will use material from the Software Assurance Planning Services (SAPS) Office 365 FastTrack Pilot, which is a three-day engagement delivered over a three-week timescale. Although your engagement may not fall under the SAPS umbrella, there are plenty of useful resources and guidance to help shape your approach to this Pilot phase.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Pilot Phase</li>
+  <li>Identifying Environmental and Software Prerequisites</li>
+  <li>Planning for Pilot Users</li>
+  <li>Planning for Team Collaboration</li>
+</ul>
+<p><strong>Module 3: Planning the Deploy Phase - Part 1</strong> - In this module, you transition from the Pilot Phase to the Deploy Phase and start creating the design for bringing users into Office 365 permanently. You plan out this migration and identify the design factors that indicate which approach you should take to bring your customer’s organization onto the cloud platform. This module covers the first parts of the Deploy Phase, such as domain and user identity mapping, which form the basis for the additional planning in the next module.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Deploy Phase</li>
+  <li>Planning Service Selection</li>
+  <li>Planning Networking and Domains</li>
+  <li>Planning User Management</li>
+</ul>
+<p><strong>Module 4: Planning the Deploy Phase – Part 2</strong> - This module covers the second part of Deploy phase, during which you examine the key issues of migrating email accounts to Exchange Online, setting up SharePoint Online and providing the functionality and control that this service requires, introducing Lync Online to the organization, and deploying Office 365 ProPlus so that users can take advantage of the improvements in this new release.</p>
+<p>After this phase is complete, you can then move on to the Enhance Phase to plan the more advanced configurations of Office 365.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning Email Migration</li>
+  <li>Planning SharePoint Site Collections and sites</li>
+  <li>Planning Lync Online</li>
+  <li>Planning Office 365 ProPlus Deployment</li>
+</ul>
+<p><strong>Module 5: Planning the Enhance Phase – Part 1</strong> - Now that you have completed planning the Deploy Phase, you may find that your customer now has all the facilities they need from Office 365 and does not want to deploy any further functionality. However, it is more likely that the success of the Office 365 Pilot and Deploy phases will lead to calls for greater integration with the cloud-based platform. In particular, the Enhance Phase delivers two key benefits that larger organizations are likely to want, which are single sign-on and hybrid Exchange Server operation. This module covers both these areas.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Enhance Phase</li>
+  <li>Planning Single Sign-On</li>
+  <li>Planning Hybrid Exchange Deployments</li>
+</ul>
+<p><strong>Module 6: Planning the Enhance Phase – Part 2</strong> - In this module, you move on from planning for single sign-on (SSO) and hybrid Exchange Server to plan any further enhancements within the Enhance Phase. These enhancements can include message sanitation for on-premises, hybrid, or cloud-only environments with Exchange Online Protection, customization of the SharePoint Online user experience using a range of tools, and integration of SharePoint Online with on-premises SharePoint Server 2013, using SSO for authentication.</p>
+<p>Use of these additional facilities will depend on your customers’ requirements; therefore, it is possible that customers may not need these options. However, you do need to consider these areas in your design and identify if there is a requirement for each option.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning Exchange Online Protection</li>
+  <li>Planning SharePoint Online Customization</li>
+  <li>Planning Hybrid SharePoint Implementations</li>
+</ul>
+<p><strong>Module 7: Case Study</strong> - In this final exercise, you will bring together all the knowledge you have gained from this course to create a design plan for a FastTrack deployment in a challenging customer environment. Within the limitations of the classroom setup, this exercise attempts to replicate the considerations that you might experience with a real-life deployment. Many of the technical points in the scenario are based on live deployments, although the overall scenario is based on a fictitious organization.</p>
+<p>Each student will be assigned to a group. Each group is required to create and present a design plan for implementing Office 365 at Trey Research by using the FastTrack methodology. This plan should meet the requirements of the customer that are provided in the case study, and by the instructor who will role-play the part of the customer.</p>
+<p>Each group will then have a total of 30 minutes to present its plan to the class, which should include the three phases of their design. After a group presents its plan, there will then be a critique time of 15 minutes, where the instructor and the other groups will question the group's design decisions.</p>

@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Query and manipulate data with Entity Framework</li>
+    <li>Use ASP.NET Web API to create HTTP-based services and consume them from .NET and non-.NET clients</li>
+    <li>Extend ASP.NET Web API services using message handlers, model binders, action filters, and media type formatters</li>
+    <li>Create SOAP-based services with the Windows Communication Foundation (WCF) and consume them from .NET clients</li>
+    <li>Apply design principles to service contracts and extend WCF services using custom runtime components and behaviors</li>
+    <li>Secure WCF services using transport and message security</li>
+    <li>Use Windows Azure Service Bus for relayed messaging and brokered messaging using queues and topics</li>
+    <li>Host services on on-premises servers, and on various Windows Azure environments, such as Web Roles, Worker Roles, and Web Sites</li>
+    <li>Deploy services to both on-premises servers and Windows Azure</li>
+    <li>Store and access data in Windows Azure Storage, and configure storage access rights</li>
+    <li>Monitor and log services, both on-premises and in Windows Azure</li>
+    <li>Implement federated authentication by using ACS with ASP.NET Web API services</li>
+    <li>Create scalable, load-balanced services</li>
+</ul>

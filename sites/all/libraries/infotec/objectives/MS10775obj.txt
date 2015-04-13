@@ -1,0 +1,21 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Plan and install SQL Server.</li>
+    <li>Describes the system databases, the physical structure of databases and the most common configuration options related to them.</li>
+    <li>Explain the concept of the transaction log and SQL Server recovery models and implement different backup strategies available with SQL Server.</li>
+    <li>Create SQL Server Backups.</li>
+    <li>Restore SQL Server databases.</li>
+    <li>Use the import/export wizards and explain how they relate to SSIS.</li>
+    <li>Work with SQL Server security models, logins and users.</li>
+    <li>Work with fixed server roles, user-defined server roles, fixed database roles and user-defined database roles.</li>
+    <li>Work with permissions and the assignment of permissions.</li>
+    <li>Work with SQL Server Audit.</li>
+    <li>Work with SQL Server Agent, jobs and job history.</li>
+    <li>Implement SQL Server agent security, proxy accounts and credentials.</li>
+    <li>Configure database mail, alerts and notifications.</li>
+    <li>Create database maintenance plans.</li>
+    <li>Work with SQL Profiler and SQL Trace stored procedures.</li>
+    <li>Introduce DMVs and the configuration of data collection.</li>
+    <li>Work with Central Management Servers and Multi-Server queries, Virtualization of SQL Server and Data-Tier Applications.</li>
+    <li>Troubleshoot SQL Server databases.</li>
+</ul>

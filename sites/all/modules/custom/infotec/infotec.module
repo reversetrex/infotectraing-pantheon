@@ -1,0 +1,170 @@
+<?php
+/**
+ * @file
+ * Infotec MSSQL Drupal Module provides a customized MSSQL client interface for listing Infotec courses in a form and for
+ * creating web site pages that contain the course information. This module handles all ajax communication with
+ * forms and supports direct function calls for course information.
+ *
+ * Logging files can be found in the classes/logger/logs directory. Logging files are turned on/off by setting the debug parameters
+ * in the appropriate sections of the config.ini file.
+ *
+ * @package infotec
+ * @subpackage infotec module
+ * @author gbellucci
+ * @version 1.0
+ */
+require(__DIR__ . '/vendor/autoload.php');
+
+// < PHP 5.4
+if (!function_exists('http_response_code')) {
+	function http_response_code($newcode = NULL) {
+		static $code = 200;
+		if($newcode !== NULL) {
+			header('X-PHP-Response-Code: '.$newcode, true, $newcode);
+			if(!headers_sent()) {
+				$code = $newcode;
+			}
+		}
+		return $code;
+	}
+}
+
+// create the bridgeClient object
+// listens for for form ajax requests
+$gBridgeClient = new \infotec\BridgeClient(__DIR__ . '/config.ini');
+if(!empty($gBridgeClient)) {
+
+	// listen for AJAX requests to the bridge
+	if(isset($_REQUEST['bridge'])) {
+		// call the bridge to handle the request
+		$rsp = $gBridgeClient->ajaxRequest($_REQUEST);
+		if ( is_array( $rsp ) ) {
+
+			// send out headers
+			header( 'Cache-Control: no-cache, must-revalidate' );
+			header( 'Expires:' . date( 'r', time() + ( 86400 * 365 ) ) );
+			header( 'Content-type: application/json' );
+			http_response_code($rsp['status']);
+			echo $rsp['ajaxRsp'];
+		}
+		exit( 0 );
+	}
+}
+else {
+	// the bridgeClient was not created
+	trigger_error('BridgeClient did not initialize', E_USER_ERROR);
+	exit(0);
+}
+
+/**
+ * Implements hook_init
+ */
+function infotec_init() {
+	$path = drupal_get_path('module', 'infotec');
+	// drupal_add_js($path . '/js/dbridge.js');
+	drupal_add_js($path . '/js/dbridge.min.js');
+	drupal_add_js($path . '/js/ui/jquery-ui.js');
+}
+
+/**
+ * Implements hook_menu
+ *
+ * infotec course url format is:
+ *    http://example.com/course/<delivery-method>/<course id>/<course-title>
+ *
+ * @return mixed
+ */
+function infotec_menu() {
+    $items['course'] = array(
+        'title'           => '',                      // no page title
+        'page callback'   => 'infotec_courseRequest', // callback function name
+        'access callback' => TRUE,
+        'type' => MENU_CALLBACK                       // will not appear in menus
+    );
+
+    return($items);
+}
+
+/**
+ * Callback function for course information requests
+ * called by Drupal for URLs that match the course url format
+ *
+ * @param string $groupName - the first item in the path (following 'course')
+ * @param string $courseID - the course identifier
+ *
+ * @return string
+ */
+function infotec_courseRequest($groupName='', $courseID='') {
+	global $gBridgeClient;
+	$variables = array();
+	$output = '';
+
+	if(empty($gBridgeClient)) {
+		// create a bridgeClient object - because Drupal caches this module code
+		// the global bridgeClient object may not have been created so create one now.
+		$gBridgeClient = new \infotec\BridgeClient(__DIR__ . '/config.ini');
+	}
+	$dbg = new \ecpi\dbc('infotec.module');
+	$dbg->set_debug(intval($gBridgeClient->cfg->get('module.debug')), 10);
+    $dbg->log_entry(__FUNCTION__, sprintf("groupName: %s, courseID: %s", $groupName, $courseID));
+
+    // request the $variables for this course
+    if(!empty($courseID)) {
+	    // this asks for four different queries
+	    // these are returned to the formatting function as one associative array indexed by query name
+	    // and returned to this function as a render array for the infotec_template
+	    $askFor = 'courseDetails;courseSched;relatedCourses;courseFormats';
+	    $variables = $gBridgeClient->request(
+			array('sql' => $askFor,             // the sql request from the sqlStore
+			      'dman' => 'pageFormat',       // the formatting function in the data manager
+			      'CourseNumber' => $courseID,  // course identifier for courseDetails
+				  'COURSE_NO' => $courseID,     // course identifier for courseSched
+	              'CourseNumber_1' => $courseID // course identifier for relatedCourses and courseFormats
+			));
+
+	    $dbg->log_entry(__FUNCTION__ . ' /template variables: ', $variables);
+	    $output = theme('infotec_template', $variables);
+	    $dbg->log_entry(__FUNCTION__ . ' /output: ', $output);
+    }
+	return($output);
+}
+
+/**
+ * Implements hook_theme
+ * Sets the name and location of the template used to display course information.
+ *
+ * @param $existing
+ * @param $type
+ * @param $theme
+ * @param $path
+ *
+ * @return array
+ */
+function infotec_theme($existing, $type, $theme, $path) {
+	$template = array();
+
+	// get the name and path for this module
+	$name = variable_get('theme_default', NULL);
+	$path = drupal_get_path('module', 'infotec');
+
+	// define the template and template path for Drupal
+	$template['template'] = 'templates/page-infotec';
+	$template['path'] = $path;
+
+	return (
+		array ('infotec_template' => $template)
+	);
+}
+
+/**
+ * Implements hook_permission.
+ */
+function infotec_permission() {
+    return(
+        array('infotec mssql access' =>
+          array('title' => 'Infotec MSSQL Access',
+                'description' => 'Allow access to infotec pages.'
+          )
+        )
+    );
+}

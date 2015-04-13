@@ -1,0 +1,181 @@
+<p><strong>MS 6424</strong></p>
+
+<p><strong>Module 1: Exploring Windows Server 2008 Active Directory Roles</strong> - This module provides an overview of the Active Directory (AD) server roles.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Active Directory Domain Services (AD DS)</li>
+  <li>Overview of Active Directory Lightweight Directory Services (AD LDS)</li>
+  <li>Overview of Active Directory Digital Certificates (AD CS)</li>
+  <li>Overview of Active Directory Rights Management Solution (AD RMS)</li>
+  <li>Overview of Active Directory Federation Solution (AD FS)</li>
+</ul>
+
+<p><strong>Module 2: Introduction to Active Directory Domain Services</strong> - This module explains the reasons for deploying AD DS and describes the AD DS components.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Active Directory Domain Services</li>
+  <li>Overview of AD DS Logical Components</li>
+  <li>Overview of AD DS Physical Components</li>
+</ul>
+
+<p><strong>Module 3: Introduction to Active Directory Lightweight Directory  Services</strong> - This module explains how AD LDS works and how to configure AD LDS components.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>AD LDS Overview</li>
+  <li>Implementing and Administering AD LDS</li>
+  <li>Implementing AD LDS Replication</li>
+  <li>Comparing AD DS and AD LDS</li>
+</ul>
+
+<p><strong>Module 4: Introduction to Active Directory Certificate Services</strong> - This module explains how AD CS works and how to implement AD CS certificate enrollment.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>AD CS Overview</li>
+  <li>Understanding AD CS Certificates</li>
+  <li>Implementing Certificate Enrollment and Revocation</li>
+</ul>
+
+<p><strong>Module 5: Introduction to Active Directory Rights Management Services</strong> - This module explains how AD RMS works and how to configure AD RMS settings.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>AD RMS Overview</li>
+  <li>Understanding AD RMS</li>
+  <li>Managing AD RMS</li>
+</ul>
+
+<p><strong>Module 6: Introduction to Active Directory Federation Services</strong> - This module explains how AD FS works and how to configure AD FS components.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>AD FS Overview</li>
+  <li>AD FS Deployment Scenarios</li>
+  <li>Configuring AD FS Components</li>
+</ul>
+
+<p><strong>Module 7: Creating AD Domain Services User and Computer Objects</strong> - This module explains how to configure AD DS user and computer accounts.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Managing User Accounts</li>
+  <li>Creating Computer Accounts</li>
+  <li>Using Queries to Locate Objects in Active Directory</li>
+</ul>
+
+<p><strong>Module 8: Creating Active Directory Domain Services Groups and  Organizational Units</strong> - This module explains how to configure AD DS group accounts and organizational units (OU).</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introduction to AD DS Groups</li>
+  <li>Managing Group Accounts</li>
+  <li>Creating Organizational Units</li>
+</ul>
+
+<p><strong>Module 9: Managing Access to Resources</strong> - This module explains how to manage access to shared resources in an AD DS environment.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Managing Access Overview</li>
+  <li>Assigning Permissions to Shared Resources</li>
+  <li>Managing NTFS File and Folder Permissions</li>
+  <li>Determining Effective Permission</li>
+</ul>
+
+<p><strong>MS 6425</strong></p>
+
+<p><strong>Module 1: Implementing  Active Directory Domain Services</strong> - This module explains how to install and configure Active Directory Domain Services and install and  configure a read-only domain controller.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Installing Active Directory Domain Services</li>
+  <li>Deploying Read-Only Domain Controllers</li>
+  <li>Configuring AD DS Domain Controller Roles</li>
+</ul>
+
+<p><strong>Module 2: Configuring Domain Name Service for Active Directory Domain  Services</strong> - This module explains how to  configure Domain Name Services (DNS) for Active Directory Domain Services.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Active Directory Domain Services and DNS Integration</li>
+  <li>Configuring Active Directory Integrated Zones</li>
+  <li>Configuring Read Only DNS Zones</li>
+</ul>
+
+<p><strong>Module 3: Configuring Active Directory Objects and Trusts</strong> - This module explains how to configure Active Directory Objects and Trusts.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Configuring Active Directory Objects</li>
+  <li>Strategies for Using Groups</li>
+  <li>Automating AD DS Object Management</li>
+  <li>Delegating Administrative Access to AD DS Objects</li>
+  <li>Configuring AD DS Trusts</li>
+</ul>
+
+<p><strong>Module 4: Configuring Active Directory Sites and Replication</strong> - This module explains how to configure Active Directory sites and replication.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of AD DS Replication</li>
+  <li>Overview of AD DS Sites and Replication</li>
+  <li>Configuring and Monitoring AD DS Replication</li>
+</ul>
+
+<p><strong>Module 5: Creating and Configuring Group Policy</strong> - This module explains how to create and configure Group Policy.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of Group Policy</li>
+  <li>Configuring the Scope of Group Policy Objects</li>
+  <li>Evaluating the Application of Group Policy Objects</li>
+  <li>Managing Group Policy Objects</li>
+  <li>Delegating Administrative Control of Group Policy</li>
+</ul>
+
+<p><strong>Module 6: Configuring User Environments Using Group Policy</strong> - This module explains how to configure user environments using Group Policy.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Configuring Group Policy Settings</li>
+  <li>Configuring Scripts and Folder Redirection Using Group Policies</li>
+  <li>Configuring Administrative Templates</li>
+  <li>Group Policy Preferences</li>
+  <li>Deploying Software Using Group Policy</li>
+</ul>
+
+<p><strong>Module 7: Implementing Security Using Group Policy</strong> - This module explains how to implement security using Group Policy.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Configuring Security Policies</li>
+  <li>Implementing Fine-Grained Password Policies</li>
+  <li>Restricting Group Membership and Access to Software</li>
+  <li>Managing Security Using Security Templates</li>
+</ul>
+
+<p><strong>Module 8: Implementing an Active Directory Domain Services Monitoring  Plan</strong> - This module explains how to  implement Active Directory Domain Services monitoring plan.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Monitoring AD DS Using Event Viewer</li>
+  <li>Monitoring Active Directory Domain Servers Using Reliability and    Performance Monitor</li>
+  <li>Configuring AD DS Auditing</li>
+</ul>
+
+<p><strong>Module 9: Implementing an Active Directory Domain Services Maintenance  Plan</strong> - This module explains how to  implement an Active Directory Domain Services maintenance plan.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Maintaining the AD DS Domain Controllers</li>
+  <li>Backing Up Active Directory Domain Services</li>
+  <li>Restoring Active Directory Domain Services</li>
+</ul>
+
+<p><strong>Module 10: Troubleshooting Active Directory, DNS, and Replication  Issues</strong> - This module explains how to  troubleshoot Active Directory Domain Services, Domain Name Service, and Active  Directory replication.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Troubleshooting Active Directory Domain Services</li>
+  <li>Troubleshooting DNS Integration with AD DS</li>
+  <li>Troubleshooting AD DS Replication</li>
+</ul>
+
+<p><strong>Module 11: Troubleshooting Group Policy Issues</strong> - This module explains how to troubleshoot the application of Group Policy objects.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Introduction to Group Policy Troubleshooting</li>
+  <li>Troubleshooting Group Policy Application</li>
+  <li>Troubleshooting Group Policy Settings</li>
+</ul>
+
+<p><strong>Module 12: Implementing an Active Directory Domain Services Infrastructure</strong> - This module explains how to  implement an Active Directory Domain Services Infrastructure.</p>
+<p><strong>Lessons</strong></p>
+<ul>
+  <li>Overview of the AD DS Deployment</li>
+  <li>Planning a Group Policy Strategy</li>
+</ul>

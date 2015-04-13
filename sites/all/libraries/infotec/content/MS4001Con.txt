@@ -1,0 +1,30 @@
+<p><strong>Unit 1: Trends in Team Collaboration</strong></p>
+<ul>
+  <li> What Is Team Collaboration? </li>
+  <li> Exercise: Identifying Key Traits of Team Collaboration </li>
+  <li> Traditional vs. Virtual Teams </li>
+  <li> The Challenge of Virtual Team Collaboration </li>
+  <li> Expert Video: Industry Trends in Team Collaboration </li>
+  <li> Demonstration: Microsoft Windows SharePoint Services </li>
+</ul>
+<p><strong> Unit 2: Accelerating Team Effectiveness </strong></p>
+<ul>
+  <li> Introduction to Adventure Works </li>
+  <li> Establishing Team Priorities </li>
+  <li> Exercise 1: Exploring Windows SharePoint Services </li>
+  <li> Exercise 2: Reviewing Team Web Site Features </li>
+</ul>
+<p><strong> Unit 3: Addressing Team Complexity </strong></p>
+<ul>
+  <li> The Challenge of Team Complexity </li>
+  <li> Exercise 1: Managing Team Documents </li>
+  <li> Exercise 2: Solving Problems </li>
+  <li> Exercise 3: Streamlining and Improving Processes </li>
+</ul>
+<p><strong> Unit 4: Promoting Team Creativity </strong></p>
+<ul>
+  <li> The People Side of Collaboration </li>
+  <li> Exercise 1: Brainstorming in a Virtual Environment </li>
+  <li> Exercise 2: Responding to Client Needs </li>
+</ul>
+<p>&nbsp; </p>

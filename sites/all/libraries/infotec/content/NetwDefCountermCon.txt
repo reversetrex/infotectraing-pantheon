@@ -1,0 +1,60 @@
+<p><strong> Unit 1:</strong><strong>Network Defense Fundamentals<br>
+</strong>Describe Network Defense<br>
+  Identify Defensive Technologies<br>
+  Describe the Objectives of Access Control<br>
+  Identify the Impact of Defense<br>
+Define the Concepts of Network Auditing</p>
+<p><strong> Unit 2:</strong><strong>Designing Firewall Systems<br>
+</strong>Examine Firewall Components<br>
+  Create a Firewall Policy<br>
+  Rule Sets and Packet Filters<br>
+  Proxy Server<br>
+  The Bastion Host<br>
+The Honeypot</p>
+<p><strong> Unit 3:</strong><strong>Configuring Firewalls<br>
+</strong>Firewall Implementation Practices<br>
+  Installing and Configuring Firewall-1<br>
+  Monitor Firewall-1<br>
+  Installing and Configuring ISA Server 2000<br>
+  Monitor ISA Server<br>
+  IPChains Concepts<br>
+Implementing Firewall Technologies</p>
+<p><strong> Unit 4:</strong><strong>Configuring VPNs<br>
+</strong>VPN Fundamentals<br>
+  IP Security Protocol (IPSec) <br>
+  VPN Design and Architecture<br>
+  VPN Security<br>
+Configuring a VPN</p>
+<p><strong> Unit 5:</strong><strong>Designing an IDS<br>
+</strong>The Goals of an Intrusion Detection System<br>
+  Technologies and Techniques of Intrusion Detection<br>
+  Host-based Intrusion Detection<br>
+  Network-based Intrusion Detection<br>
+  The Analysis<br>
+  How to Use an IDS<br>
+What an Intrusion Detection System Cannot Do</p>
+<p><strong> Unit 6:</strong><strong>Configuring an IDS<br>
+</strong>Snort Foundations<br>
+  Installing Snort<br>
+  Snort as an IDS<br>
+  IDScenter<br>
+Configuring ISS Scanners</p>
+<p><strong> Unit 7:</strong><strong>Analyzing Intrusion Signatures<br>
+</strong>Describe the Concepts of Signature Analysis<br>
+  Common Vulnerabilities and Exposures (CVE)<br>
+  Signatures<br>
+  Normal Traffic Signatures<br>
+Abnormal Traffic Signatures</p>
+<p><strong> Unit 8:</strong><strong>Performing a Risk Analysis<br>
+</strong>Concepts of Risk Analysis<br>
+  Methods of Risk Analysis<br>
+  The Process of Risk Analysis<br>
+  Techniques to Minimize Risk<br>
+Continual Risk Analysis</p>
+<p><strong> Unit 9:</strong><strong>Creating a Security Policy<br>
+</strong>Concepts of Security Policies<br>
+  The Policy Design<br>
+  The Policies<br>
+  An Example Policy<br>
+  Incident Handling and Escalation Procedures<br>
+Partner Policies</p>

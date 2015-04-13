@@ -1,0 +1,51 @@
+<p><strong>MS 2261:</strong></p>
+
+<p>After completing the first part of this course, students will be able to:</p>
+
+<ul>
+  <li>Perform and troubleshoot an attended installation of the Windows XP operating system.</li>
+  <li>Perform post installation configuration (user configuration, apply service packs, etc.).</li>
+  <li>Answer end user questions related to upgrading from a previous version of Windows.</li>
+  <li>Troubleshoot system startup and user logon problems.</li>
+  <li>Monitor and analyze system performance.</li>
+  <li>Monitor, manage, and troubleshoot access to files and folders.</li>
+  <li>Troubleshoot connecting to local and network print devices.</li>
+  <li>Configure and troubleshoot hardware devices and drivers.</li>
+  <li>Configure and troubleshoot storage devices.</li>
+  <li>Configure and troubleshoot display devices.</li>
+  <li>Troubleshoot network protocols and services.</li>
+  <li>Configure and troubleshoot Advanced Configuration and Power Interface (ACPI).</li>
+  <li>Configure and troubleshoot input and output (I/O) devices.</li>
+  <li>Configure support for multiple languages or multiple locations.</li>
+  <li>Troubleshoot security settings and local security policy.</li>
+  <li>Configure and troubleshoot local user and group accounts.</li>
+  <li>Troubleshoot the TCP/IP protocol.</li>
+  <li>Configure and troubleshoot Internet Connection Firewall (ICF) settings.</li>
+  <li>Troubleshoot name resolution issues.</li>
+  <li>Configure and troubleshoot remote connections.</li>
+  <li>Configure and troubleshoot end user systems using remote Desktop and Remote Assistance.</li>
+</ul>
+
+<p><strong>MS 2262:</strong></p>
+
+<p>After completing the second part of this course, students will be able to:</p>
+
+<ul>
+  <li>Configure and troubleshoot applications.</li>
+  <li>Set application compatibility settings.</li>
+  <li>Troubleshoot application installation problems.</li>
+  <li>Configure and troubleshoot e-mail account configurations.</li>
+  <li>Configure and troubleshoot Internet Explorer.</li>
+  <li>Configure and troubleshoot Outlook Express.</li>
+  <li>Configure the operating system to support applications.</li>
+  <li>Configure and troubleshoot file system access and file permission problems on multi-boot computers.</li>
+  <li>Resolve issues related to usability of applications.</li>
+  <li>Manage Microsoft Outlook data, including configuring, importing, and exporting data, and fixing corrupted data.</li>
+  <li>Resolve issues related to customizing Internet Explorer.</li>
+  <li>Resolve issues related to customizing Outlook Express.</li>
+  <li>Resolve issues related to customizing the operating system.</li>
+  <li>Configure and troubleshooting connectivity for applications.</li>
+  <li>Configure application security.</li>
+  <li>Identify and troubleshoot problems related to security permissions.</li>
+  <li>Answer end user questions related to application  security settings.</li>
+</ul>

@@ -1,0 +1,1 @@
+This five-day instructor-led course provides the knowledge and skills to design, optimize, and maintain a database administrative solution for Microsoft SQL Server 2008.

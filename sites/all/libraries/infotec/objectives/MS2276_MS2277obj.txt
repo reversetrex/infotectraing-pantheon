@@ -1,0 +1,23 @@
+<ul>
+  <li>Describe the  Transmission Control Protocol/Internet Protocol (TCP/IP) protocol architecture. </li>
+  <li>Convert  Internet Protocol (IP) addresses between decimal and binary. </li>
+  <li>Calculate a  subnet mask. </li>
+  <li>Create subnets  using Variable-Length Subnet Mask (VLSM) and Classless Inter-Domain Routing  (CIDR). </li>
+  <li>Configure a  host to use a static IP address. </li>
+  <li>Assign IP  addresses in a multiple subnet network. </li>
+  <li>Describe the IP  routing process. </li>
+  <li>Configure a  host to obtain an IP address automatically. </li>
+  <li>Configure a  host so that automatic private IP address configuration is disabled. </li>
+  <li>Configure a  host to use name servers. </li>
+  <li>Isolate common  connectivity issues. </li>
+  <li>Configure  routing by using the Routing and Remote Access service. </li>
+  <li>Allocate IP  addressing by using DHCP. </li>
+  <li>Manage and  monitor DHCP. </li>
+  <li>Resolve names. </li>
+  <li>Resolve host  names by using DNS. </li>
+  <li>Manage and  monitor DNS. </li>
+  <li>Resolve network  basic input/output system (NetBIOS) names by using WINS. </li>
+  <li>Secure network  traffic by using IPSec and certificates. </li>
+  <li>Configure  network access. </li>
+  <li>Manage  and monitor network access.</li>
+</ul>

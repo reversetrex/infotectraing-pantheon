@@ -1,0 +1,76 @@
+<p><strong>Day 1</strong></p>
+<p><strong>Chapter 1: Course Introduction </strong></p>
+<p><strong>Chapter 2: Junos Operating System Fundamentals</strong></p>
+<ul>
+  <li>The Junos OS</li>
+  <li>Traffic Processing</li>
+  <li>Platforms Running the Junos OS</li>
+</ul> 
+<p><strong>Chapter 3: User Interface Options </strong></p>
+<ul>
+  <li>User Interface Options</li>
+  <li>The Junos CLI: CLI Basics</li>
+  <li>The Junos CLI: Operational Mode</li>
+  <li>The Junos CLI: Configuration Mode</li>
+</ul>    
+<p><strong>Chapter 4: Initial Configuration</strong></p>
+<ul>
+  <li>Factory-Default Configuration</li>
+  <li>Initial Configuration</li>
+  <li>Interface Configuration</li>
+</ul>    
+<p><strong>Chapter 5: Secondary System Configuration</strong></p>
+<ul>
+  <li>User Configuration and Authentication</li>
+  <li>System Logging and Tracing</li>
+  <li>Network Time Protocol</li>
+  <li>Archiving Configurations</li>
+  <li>SNMP</li>
+</ul>
+<p><strong>Chapter 6: Operational Monitoring and Maintenance</strong></p>
+<ul>
+  <li>Monitoring Platform and Interface Operation</li>
+  <li>Network Utilities</li>
+  <li>Maintaining the Junos OS</li>
+  <li>Password Recovery</li>
+</ul>
+<p><strong>Appendix A: Interface Configuration Examples</strong></p>
+<ul>
+  <li>Review of the Interface Configuration Hierarchy</li>
+  <li>Interface Configuration Examples</li>
+  <li>Using Configuration Groups</li>
+</ul>          
+<p><strong>Appendix B: The J-Web Interface </strong></p>
+<ul>
+  <li>The J-Web GUI</li>
+  <li>Configuration</li>
+</ul>
+<p><strong>Day 2</strong></p>             
+<p><strong>Chapter 2: Routing Fundamentals</strong></p>
+<ul>
+  <li> Routing Concepts: Overview of Routing</li>
+  <li>Routing Concepts: The Routing Table</li>
+  <li>Routing Concepts: Routing Instances</li>
+  <li>Static Routing</li>
+  <li>Dynamic Routing</li>
+</ul>
+<p><strong>Chapter 3: Routing Policy</strong></p>
+<ul>
+  <li>Routing Policy Overview</li>
+  <li>Case Study: Routing Policy</li>
+  <li>Lab 2: Routing Policy</li>
+</ul>                  
+<p><strong>Chapter 4: Firewall Filters</strong></p>
+<ul>
+  <li>Firewall Filters Overview</li>
+  <li>Case Study: Firewall Filters</li>
+  <li>Unicast Reverse-Path-Forwarding Checks</li>
+</ul>                                  
+<p><strong>Appendix A: Class of Service</strong></p>
+<ul>
+  <li>CoS Overview</li>
+  <li>Traffic Classification</li>
+  <li>Traffic Queuing</li>
+  <li>Traffic Scheduling</li>
+  <li>Case Study: CoS</li>
+</ul>

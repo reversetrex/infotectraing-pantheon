@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Assess and determine desktop deployment options.</li>
+    <li>Plan an image management strategy.</li>
+    <li>Implement desktop security.</li>
+    <li>Capture and manage a desktop operating system image.</li>
+    <li>Plan and implement User State Migration.</li>
+    <li>Plan and deploy desktops by using the Microsoft Deployment Toolkit.</li>
+    <li>Plan and deploying desktops by using System Center 2012 Configuration Manager.</li>
+    <li>Plan and implement a Remote Desktop Services infrastructure.</li>
+    <li>Manage user state virtualization for enterprise desktops.</li>
+    <li>Plan and implement an updates infrastructure to support enterprise desktops.</li>
+    <li>Protect enterprise desktops from malware and data loss.</li>
+    <li>Monitoring the performance and health of the desktop infrastructure.</li>
+</ul>

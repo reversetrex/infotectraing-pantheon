@@ -1,0 +1,1 @@
+The Microsoft MS10748 course describes how to plan and deploy a System Center 2012 Configuration Manager hierarchy, including a central administration site (CAS), one or more primary sites and secondary sites, and all associated site systems. This course also covers migration from System Center Configuration Manager 2007.

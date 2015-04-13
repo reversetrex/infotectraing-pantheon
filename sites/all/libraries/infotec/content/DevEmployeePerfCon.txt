@@ -1,0 +1,28 @@
+<p> <strong>Unit 1: Managing difficult employees</strong><br>
+  Topic A: Understanding difficult employees<br>
+  Topic B: Assessing and identifying difficult personality types<br>
+  Topic C: Dealing with difficult employees<br>
+  Topic D: Monitoring behavior<br>
+  <strong><br>
+  Unit 2: Communication </strong><br>
+  Topic A: Effective communication<br>
+  Topic B: Communicating with difficult employees<br>
+  <br>
+  <strong>Unit 3: Feedback</strong><br>
+  Topic A: Giving and receiving feedback<br>
+Topic B: Positive and constructive feedback
+<br>
+Topic C: Monitoring performance<br>
+  Topic D: Communication styles<br>
+  Topic E: Difficult feedback sessions<br>
+  <br>
+  <strong>Unit 4: Conflicts</strong><br>
+  Topic A: Conflicts in the workplace<br>
+  Topic B: Conflicts and the organization<br>
+  <strong><br>
+  Unit 5: Resolving conflicts</strong><br>
+  Topic A: Styles of conflict resolution<br>
+  Topic B: The process of conflict resolution<br>
+  Topic C: Resolving team conflicts<br>
+  Topic D: Communication and conflict resolution </p>
+<br>

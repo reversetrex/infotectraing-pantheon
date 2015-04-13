@@ -1,0 +1,55 @@
+<p><strong>Lesson 1: Getting Started with Personal Computers</strong></p>
+
+<ul>
+	<li>Personal Computer Basics</li> 
+	<li>Personal Computer Hardware</li>
+	<li>Personal Computer Functionality</li>
+</ul>
+
+<p><strong>Lesson 2: Exploring Windows Vista</strong></p>
+
+<ul>
+	<li>Topic 2A: Log On to Windows Vista</li>
+	<li>Explore the Desktop</li> 
+	<li>Manipulate Open Windows</li> 
+	<li>Use Help And Support</li> 
+	<li>Turn Off the Personal Computer</li>
+</ul>
+
+<p><strong>Lesson 3: Customizing the Windows Vista Desktop</strong></p>
+
+<ul>
+	<li>Customize the Start Menu</li>
+	<li>Customize the Taskbar</li> 
+	<li>Personalize the Desktop</li> 
+	<li>Set a Screen Saver</li> 
+	<li>Configure the Sidebar</li>
+</ul>
+
+<p><strong>Lesson 4: Using Common Tools and Programs in Vista</strong></p>
+
+<ul>
+	<li>Create a Document in WordPad</li>
+	<li>Format a Document in WordPad</li> 
+	<li>Work with the Calculator</li> 
+	<li>Customize a Graphic with the Paint Tool</li>
+</ul>
+
+<p><strong>Lesson 5: Managing Folders and Files</strong></p>
+
+<ul>
+	<li>Navigate Folders with Windows Explorer</li>
+	<li>Work with Folders and Files</li> 
+	<li>Organize Files and Folders</li> 
+	<li>Search for Folders and Files</li> 
+	<li>Use the Advanced Search Options</li> 
+	<li>Burn Data on Storage Media</li>
+</ul>
+
+<p><strong>Lesson 6: Browsing the Internet</strong></p>
+
+<ul>
+	<li>Become Familiar with the Internet</li>
+	<li>Browse Websites with Internet Explorer 7.0</li> 
+	<li>Download and Install a Gadget</li>
+</ul>

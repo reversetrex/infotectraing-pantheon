@@ -1,0 +1,1 @@
+This three-day instructor-led course introduces Windows Server 2008 clustering and provides students with the knowledge and skills to implement, maintain, and troubleshoot clusters.

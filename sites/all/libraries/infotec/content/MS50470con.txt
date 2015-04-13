@@ -1,0 +1,54 @@
+<p><strong>Module 1: The Role of  the Site Owner</strong></p>
+<ul>
+  <li>The role of the site owner / power user</li>
+  <li>The tools for the site owner</li>
+</ul>
+<p><strong>Module 2: SharePoint Review</strong></p>
+<ul>
+  <li>A review of SharePoint basics</li>
+</ul>
+<p><strong>Module 3: Using and Customizing Lists</strong></p>
+<ul>
+  <li>List Settings</li>
+  <li>Customizing Columns</li>
+  <li>Site Columns</li>
+  <li>Content Types</li>
+  <li>Creating Lists by Importing Excel Files</li>
+  <li>Creating and Modifying Views</li>
+  <li>Content Types</li>
+  <li>Communications Options</li>
+  <li>Overview of Workflows</li>
+</ul>
+<p><strong>Module 4: Creating Forms Libraries</strong></p>
+<ul>
+  <li>Creating Forms Libraries from InfoPath</li>
+  <li>Module 5: Creating Web Pages</li>
+  <li>Lessons</li>
+  <li>Creating Web Pages</li>
+  <li>Creating Web Part Pages</li>
+</ul>
+<p><strong>Module 6: Sites and Workspaces</strong></p>
+<ul>
+  <li>Site Customization</li>
+  <li>Site Navigation</li>
+  <li>Web Parts</li>
+</ul>
+<p><strong>Module 7: Users and Groups</strong></p>
+<ul>
+  <li>Users and Groups</li>
+  <li>Permissions</li>
+  <li>Adding users</li>
+  <li>Adding Site Collection Administrators</li>
+  <li>Reviewing permissions</li>
+  <li>Sending E-mail to site users</li>
+  <li>List and Library Permissions</li>
+  <li>Creating Groups</li>
+  <li>Creating Custom Permission Levels</li>
+  <li>Audiences</li>
+  <li>Managing User Alerts</li>
+</ul>
+<p><strong>Module 8: Activity</strong></p>
+<ul>
+  <li>Site Web Analytics Reports</li>
+  <li>Site Collection Web Analytics Reports</li>
+</ul>

@@ -1,0 +1,14 @@
+<p><strong> Unit 1: Introduction to Microsoft Office SharePoint Portal Server 2003<br>
+</strong>This Unit provides an overview of the features provided by SharePoint Portal Server. The Unit also describes the architecture and design goals of SharePoint Portal Server and provides an overview of the SharePoint Portal Server administration model.</p>
+<p><strong> Unit 2: Installing SharePoint Portal Server<br>
+</strong>This Unit explains the prerequisites for installing SharePoint Portal Server. The Unit also describes how to install SharePoint Portal Server using both Microsoft SQL Server 2000 Desktop Engine (MSDE) and SQL Server.</p>
+<p><strong> Unit 3: Configuring SharePoint Portal Server 2003<br>
+</strong>This Unit describes how to configure SharePoint Portal Server as well as create and configure the portal sites and virtual servers. This Unit describes how to define the server topology, configure the security options for SharePoint Portal Server, and enable optional services such as the Hypertext Markup Language (HTML) viewer.</p>
+<p><strong> Unit 4: Managing the Portal Site<br>
+</strong>This Unit defines concepts and practices for managing portal content, access, and personalization services. This Unit describes how to configure security, define portal navigation, organize information in an intuitive manner, and enable personalization features to allow users to customize their interaction with the portal.</p>
+<p><strong> Unit 5: Managing Indexing and Search<br>
+</strong>This Unit describes key concepts and management practices for indexing, content sources, and search. This Unit describes how to make content from a variety of sources available from the portal site by implementing indexing and search features.</p>
+<p><strong> Unit 6: Extending SharePoint Portal Server Deployments<br>
+</strong>This Unit examines guidelines and best practices for extending your SharePoint Server deployment. This Unit describes how to add additional servers to provide better performance and implement shared services to reduce the administrative burden.</p>
+<p><strong> Unit 7: Maintaining SharePoint Portal Server<br>
+</strong>This Unit describes key concepts and management practices for maintaining the SharePoint Portal Server environment. This Unit describes how to back up portal data and how to restore the data, as well as how to monitor the Sharepoint Portal Server infrastructure.</p>

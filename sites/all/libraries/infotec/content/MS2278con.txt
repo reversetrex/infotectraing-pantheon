@@ -1,0 +1,69 @@
+<p><strong> Unit 1: Introducing Windows Server 2003 Network Infrastructure Planning, Tools, and Documentation </strong></p>
+<ul>
+  <li> Introducing the Network Design </li>
+  <li>Planning a Windows Server 2003 Network Infrastructure Project </li>
+</ul>
+<p><strong> Unit 2: Planning and Optimizing a TCP/IP Physical and Logical Network </strong></p>
+<ul>
+  <li> Planning a Functional TCP/IP Solution </li>
+  <li>Evaluating Network Performance </li>
+</ul>
+<p><strong> Unit 3: Planning and Troubleshooting Routing and Switching </strong></p>
+<ul>
+  <li> Selecting Intermediate Devices </li>
+  <li>Planning an Internet Connectivity Strategy </li>
+  <li>Planning Routing Communications </li>
+  <li>Troubleshooting TCP/IP Routing </li>
+</ul>
+<p><strong> Unit 4: Planning, Optimizing, and Troubleshooting DHCP </strong></p>
+<ul>
+  <li> Planning a DHCP Strategy </li>
+  <li>Securing a DHCP Solution </li>
+  <li>Optimizing DHCP </li>
+  <li>Troubleshooting DHCP </li>
+</ul>
+<p><strong> Unit 5: Planning a DNS Strategy </strong></p>
+<ul>
+  <li> Planning DNS Servers </li>
+  <li>Planning a Namespace </li>
+  <li>Planning Zones </li>
+  <li>Planning Zone Replication and Delegation </li>
+  <li>Integrating DNS and WINS </li>
+</ul>
+<p><strong> Unit 6: Optimizing and Troubleshooting DNS </strong></p>
+<ul>
+  <li> Optimizing DNS Servers </li>
+  <li>Troubleshooting Host Name Resolution </li>
+</ul>
+<p><strong> Unit 7: Planning and Optimizing WINS </strong></p>
+<ul>
+  <li> Planning a WINS Solution </li>
+  <li>Identifying WINS Optimization Requirements </li>
+  <li>Optimizing WINS Traffic </li>
+</ul>
+<p><strong> Unit 8: Planning and Troubleshooting IPSec </strong></p>
+<ul>
+  <li> Understanding Default Policy Rules </li>
+  <li>Planning an IPSec Deployment </li>
+  <li>Troubleshooting IPSec Communications </li>
+</ul>
+<p><strong> Unit 9: Planning Network Access </strong></p>
+<ul>
+  <li> Introducing Network Access </li>
+  <li>Selecting Network Access Connection Methods </li>
+  <li>Selecting a Remote Access Policy Strategy </li>
+  <li>Selecting a Network Access Authentication Method </li>
+  <li>Planning a Network Access Strategy </li>
+</ul>
+<p><strong> Unit 10: Troubleshooting Network Access </strong></p>
+<ul>
+  <li>Troubleshooting Network Access Resources </li>
+  <li>Troubleshooting LAN Authentication </li>
+  <li>Troubleshooting Remote Access </li>
+</ul>
+<p><strong> Unit 11: Planning a Windows Server 2003 Network Infrastructure </strong></p>
+<ul>
+  <li> Introducing Planning Documentation </li>
+  <li>Preparing Development and Test Environments </li>
+  <li>Managing and Maintaining the Environment </li>
+</ul>

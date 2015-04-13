@@ -1,0 +1,44 @@
+<p><strong> Unit 1: Exploring the Basics of ActionScript </strong></p>
+<ul>
+  <li> View a Flash File </li>
+  <li>Create a Basic Navigation </li>
+  <li>Apply Effects to Buttons </li>
+  <li>Set a Timeline Path Using Dot Notation </li>
+</ul>
+<p><strong> Unit 2: Planning Movies </strong></p>
+<ul>
+  <li> Create a Storyboard </li>
+  <li>Create Modularity in Flash </li>
+</ul>
+<p><strong> Unit 3: Creating Simple Interactivity </strong></p>
+<ul>
+  <li> Apply Effects at Runtime </li>
+  <li>Manipulate Variable Values Using Scripts </li>
+  <li>Set the Scroll and Tab Properties </li>
+  <li>Add a Movie Clip Script </li>
+  <li>Set Volume Using ActionScript </li>
+  <li>Create Conditional Statements</li>
+</ul>
+<p><strong> Unit 4: Creating a Video Game </strong></p>
+<ul>
+  <li> Respond to Key Presses </li>
+  <li>Manipulate Movie Clips </li>
+  <li>Animate an Object</li>
+</ul>
+<p><strong> Unit 5: Creating Complex Interactivity </strong></p>
+<ul>
+  <li> Make Movie Clips Draggable </li>
+  <li>Specify the Drop Target </li>
+  <li>Mark Targets Using Arrays </li>
+  <li>Create a Loop </li>
+  <li>Prevent Overlaps </li>
+  <li>Check Variable Values </li>
+  <li>Compare Arrays </li>
+  <li>Create an Easing Effect </li>
+</ul>
+<p><strong> Unit 6: Using Components </strong></p>
+<ul>
+  <li> Create a Check Box </li>
+  <li>Create a Radio Button </li>
+  <li>Create a Combo Box </li>
+</ul>

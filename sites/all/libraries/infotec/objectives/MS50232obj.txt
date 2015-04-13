@@ -1,0 +1,8 @@
+<p><strong>After completing this  course, students will be able to:</strong></p>
+<ul>
+  <li>Articulate the core scenarios for Office Communications  Server 2007 R2.</li>
+  <li>Articulate architectural requirements of OCS 2007 R2.</li>
+  <li>Install and deploy a pilot for Office Communications Server  2007 R2.</li>
+  <li>Create steps for a pilot.</li>
+  <li>Understand  integration of Exchange 2007 SP1 Unified Messaging.</li>
+</ul>

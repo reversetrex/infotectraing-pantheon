@@ -1,0 +1,6 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Use advanced formatting techniques </li>
+  <li> Organize content </li>
+  <li> Use advanced collaboration features </li>
+</ul>

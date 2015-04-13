@@ -1,0 +1,15 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Install and configure Windows Server 2012.</li>
+  <li>Manage Windows Server 2012 by using Windows PowerShell.</li>
+  <li>Manage storage in Windows Server 2012.</li>
+  <li>Implement network services.</li>
+  <li>Implement Remote Access.</li>
+  <li>Implement Failover Clustering.</li>
+  <li>Implement Hyper-V.</li>
+  <li>Implement Failover Clustering with Hyper-V.</li>
+  <li>Implementing secure data access for users and devices.</li>
+  <li>Implement Active Directory Domain Services (AD DS).</li>
+  <li>Implement Active Directory Federation Services (AD FS).</li>
+  <li>Monitor and maintain Windows Server 2012.</li>
+</ul>

@@ -1,0 +1,1 @@
+After completing this course, students will be able to design an Active Directory infrastructure and services in Windows Server 2008.

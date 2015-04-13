@@ -1,0 +1,35 @@
+<h2>Session 1</h2>
+  <h3>Section A: Empowerment</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>What is Empowerment?</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: Changing Organizations</h3>
+  <ul>
+    <li>The New Workforce</li>
+    <li>Customers</li>
+    <li>A Different Way</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Changing Mindsets</h3>
+  <ul>
+    <li>Overlooking Customers</li>
+    <li>From Pyramids to Circles</li>
+    <li>Resistance to Change</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Changing Relationships</h3>
+  <ul>
+    <li>With Customers</li>
+    <li>With Coworkers</li>
+    <li>Teams</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section E: Changing Structures</h3>
+  <ul>
+    <li>Get Feedback</li>
+    <li>Develop a Vision</li>
+    <li>Define Measurements</li>
+    <li>Conclusion</li>
+  </ul>

@@ -1,0 +1,140 @@
+<p><strong>Lesson 1: Getting Started with Outlook</strong></p>
+
+<ul>
+	<li>Explore the Outlook Interface</li> 
+	<li>Send a Simple Message</li>
+	<li>Reading Messages</li> 
+	<li>Reply to and Forward a Message</li> 
+	<li>Print a Message</li> 
+	<li>Delete a Message</li>
+</ul>
+
+<p><strong>Lesson 2: Composing Messages</strong></p>
+
+<ul>
+	<li>Address a Message</li> 
+	<li>Format a Message</li> 
+	<li>Check Spelling and Grammar</li> 
+	<li>Attach a File</li>
+</ul>
+
+<p><strong>Lesson 3: Organizing Messages</strong></p>
+
+<ul>
+<li>Open and Save an Attachment</li> 
+<li>Flag a Message</li> 
+<li>Organize Content with Folders</li>
+</ul>
+
+<p><strong>Lesson 4: Managing Contacts</strong></p>
+
+<ul>
+	<li>Add a Contact</li>
+	<li>Sort and Find Contacts</li> 
+	<li>Find the Geographical Location of a Contact</li> 
+	<li>Manage Contacts</li>
+</ul>
+
+<p><strong>Lesson 5: Scheduling Appointments</strong></p>
+
+<ul>
+<li>Explore the Outlook Calendar</li>
+<li>Schedule an Appointment</li> 
+<li>Assign Categories and Edit Appointments</li>
+</ul>
+
+<p><strong>Lesson 6: Scheduling Meetings</strong></p>
+
+<ul>
+<li>Schedule a Meeting</li>
+<li>Reply to a Meeting Request</li> 
+<li>Propose a New Meeting Time</li> 
+<li>Manage Meetings</li> 
+<li>Print the Calendar</li>
+</ul>
+
+<p><strong>Lesson 7: Managing Tasks and Notes</strong></p>
+
+<ul>
+<li>Create a Task</li>
+<li>Edit and Update a Task</li> 
+<li>Create a Note</li> 
+<li>Edit a Note</li> 
+<li>Display a Note on the Desktop</li>
+</ul>
+
+<p><strong>Lesson 8: Setting Calendar Options</strong></p>
+
+<ul>
+	<li>Set Work Days and Times</li>
+	<li>Display an Additional Time Zone</li> 
+	<li>Set Availability Options</li>
+</ul>
+
+<p><strong>Lesson 9: Customizing Message Options</strong></p>
+
+<ul>
+	<li>Modify Message Settings</li>
+	<li>Modify Delivery Options</li> 
+	<li>Change the Message Format</li> 
+	<li>Notify Others That You will be Out of the Office</li> 
+	<li>Create a Distribution List</li> 
+	<li>Insert a Hyperlink</li>
+</ul>
+
+<p><strong>Lesson 10: Tracking Work Activities Using the Journal</strong></p>
+
+<ul>
+	<li>Automatically Record a Journal Entry</li>
+	<li>Manually Record a Journal Entry</li> 
+	<li>Modify a Journal Entry</li>
+</ul>
+
+<p><strong>Lesson 11: Managing Tasks</strong></p>
+
+<ul>
+	<li>Assign a Task</li>
+	<li>Reply to a Task Request</li> 
+	<li>Send a Task Update</li> 
+	<li>Track Assigned Tasks</li>
+</ul>
+
+<p><strong>Lesson 12: Sharing Folder Information</strong></p>
+
+<ul>
+	<li>Specify Folder Permissions</li>
+	<li>Delegate Access to Folders</li> 
+	<li>Access Another User's Folder</li> 
+	<li>Send Calendar Information in an Email Message</li>
+</ul>
+
+<p><strong>Lesson 13: Customizing the Outlook Environment</strong></p>
+
+<ul>
+	<li>Customize the Toolbar</li>
+	<li>Create a New Toolbar</li> 
+	<li>Customize the Menu Bar</li> 
+	<li>Customize the Quick Access Toolbar</li> 
+	<li>Customize the To-Do Bar</li> 
+	<li>Create a Folder Home Page</li>
+</ul>
+
+<p><strong>Lesson 14: Locating Outlook Items</strong></p>
+
+<ul>
+	<li>Topic 7A: Sort Messages Using Multiple Criteria</li>
+	<li>Find Messages</li> 
+	<li>Find Outlook Items Using Multiple Criteria</li> 
+	<li>Filter Messages</li> 
+	<li>Organize Messages</li> 
+	<li>Manage Junk Email</li>
+</ul>
+
+<p><strong>Lesson 15: Working with Public Folders</strong></p>
+
+<ul>
+	<li>Topic 8A: Create a Public Folder</li>
+	<li>Add Users to a Public Folder</li> 
+	<li>Post Information in a Public Folder</li> 
+	<li>Send an Email Message to a Public Folder</li>
+</ul>

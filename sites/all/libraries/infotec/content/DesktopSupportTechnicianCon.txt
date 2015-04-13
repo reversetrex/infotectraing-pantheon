@@ -1,0 +1,98 @@
+<p><strong>2261: </strong></p>
+<p>Module 1: Introduction to Supporting Users </p>
+<ol>
+  <li>The Desktop Support Technician </li>
+  <li>The Windows Desktop Operating Systems </li>
+  <li>Tools for Troubleshooting Windows Desktop Operating Systems </li>
+</ol>
+<p>Module 2: Resolving Installation Issues </p>
+<ol>
+  <li>Preparing for Installation </li>
+  <li>Preparing the Hard Disk for Installation </li>
+  <li>How the Installation Process Works </li>
+  <li>Troubleshooting an Attended Installation </li>
+  <li>Troubleshooting an Upgrade </li>
+  <li>Troubleshooting an Unattended Installation </li>
+  <li>Troubleshooting the Boot Process </li>
+</ol>
+<p>Module 3: Resolving Desktop Management Issues</p>
+<ol>
+  <li>Troubleshooting Logon </li>
+  <li>Troubleshooting User Configuration </li>
+  <li>Troubleshooting Multilingual Configuration </li>
+  <li>Troubleshooting Security and Local Policy Settings </li>
+  <li>Troubleshooting System Performance </li>
+  <li>Resolving Desktop Management Issues </li>
+</ol>
+<p>Module 4: Resolving File and Folder Issues</p>
+<ol>
+  <li>Managing Files and Folders </li>
+  <li>Troubleshooting Access to Files and Folders </li>
+  <li>Troubleshooting Access to Shared Files and Folders </li>
+  <li>Troubleshooting Access to Offline Files </li>
+</ol>
+<p>Module 5: Resolving Hardware Issues</p>
+<ol>
+  <li>Managing Drivers </li>
+  <li>Troubleshooting Storage Devices </li>
+  <li>Troubleshooting Display Devices </li>
+  <li>Troubleshooting Import and Output (I/O) Devices </li>
+  <li>Troubleshooting Advanced Configuration and Power Interface (ACPI) </li>
+</ol>
+<p>Module 6: Resolving Print Issues</p>
+<ol>
+  <li>Installing Local and Network Printers </li>
+  <li>Troubleshooting Printer Drivers </li>
+  <li>Troubleshooting Printers and Print Jobs </li>
+  <li>Auditing Printers </li>
+</ol>
+<p>Module 7: Resolving Network Connectivity Issues</p>
+<ol>
+  <li>Applying the OSI Model </li>
+  <li>Managing Computer Addressing </li>
+  <li>Managing Name Resolution </li>
+  <li>Troubleshooting Remote Connection Issues</li>
+</ol>
+<p><strong>2262: </strong></p>
+<p>Module 1: Introduction to Desktop Application Support </p>
+<ol>
+  <li>Overview of Desktop Application Support </li>
+  <li>Overview of the Windows System Architecture </li>
+  <li>Overview of Application Installation </li>
+</ol>
+<p>Module 2: Introduction to Troubleshooting Applications </p>
+<ol>
+  <li>Troubleshooting MS-DOS-Based and Win16 Applications </li>
+  <li>Troubleshooting Win32 Applications </li>
+  <li>Troubleshooting Application Compatibility Issues </li>
+  <li>Troubleshooting Security Issues Related to Applications </li>
+</ol>
+<p>Module 3: Supporting Microsoft Internet Explorer</p>
+<ol>
+  <li>Configuring General Settings </li>
+  <li>Configuring Security and Privacy Settings </li>
+  <li>Configuring Content Settings </li>
+  <li>Configuring Connectivity Settings </li>
+  <li>Configuring Program and Advanced Settings </li>
+  <li>Customizing Internet Explorer </li>
+</ol>
+<p>Module 4: Supporting Outlook Express</p>
+<ol>
+  <li>Configuring Outlook Express for Email </li>
+  <li>Managing Outlook Express Data </li>
+  <li>Configuring Outlook Express for Newsgroups </li>
+</ol>
+<p>Module 5: Supporting Microsoft Office</p>
+<ol>
+  <li>Introduction to Supporting Microsoft Office </li>
+  <li>Supporting Office Installation </li>
+  <li>Supporting an Upgrade </li>
+  <li>Managing Office Security and Recoverability </li>
+  <li>Managing Office Language Features </li>
+</ol>
+<p>Module 6: Supporting Microsoft Outlook</p>
+<ol>
+  <li>Configuring Outlook </li>
+  <li>Managing Outlook Data </li>
+  <li>Troubleshooting Outlook </li>
+</ol>

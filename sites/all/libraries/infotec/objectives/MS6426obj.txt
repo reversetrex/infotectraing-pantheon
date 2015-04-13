@@ -1,0 +1,11 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe identity and access solutions.</li>
+  <li>Configure Active Directory Certificate Services.</li>
+  <li>Deploy and manage certificates.</li>
+  <li>Configure Active Directory Lightweight Directory Services.</li>
+  <li>Configure Active Directory Federation Services.</li>
+  <li>Configure Active Directory Rights Management Services.</li>
+  <li>Maintain access management solutions.</li>
+  <li>Troubleshoot identity and access solutions.</li>
+</ul>

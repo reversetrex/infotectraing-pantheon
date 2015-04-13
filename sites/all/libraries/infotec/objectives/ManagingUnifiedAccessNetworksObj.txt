@@ -1,0 +1,13 @@
+<p>By the end of this course, you will achieve the following objectives:</p>
+<ul>
+  <li>Describe the architecture, licensing, migration capabilities, assurance, compliance features, and setup of Cisco Prime Infrastructure 2.0.</li>
+  <li>Identify the pre-deployment and design tasks in the design lifecycle phase.</li>
+  <li>Describe how to deploy device configurations with Cisco Prime Infrastructure.</li>
+  <li>Examine the different available templates and their capabilities and how to create configurations and deploy them using these templates.</li>
+  <li>Describe roles of operations workforce and applicable features of Cisco Prime Infrastructure.</li>
+  <li>Preform device discovery and configuration tasks.</li>
+  <li>Explore the monitoring and management capabilities of Cisco Prime Infrastructure</li>
+  <li>Create monitoring templates, and perform health and performance monitoring.</li>
+  <li>Use Prime Infrastructure to troubleshoot and perform problem isolation</li>
+  <li>create and customize a wide range of reports using Prime Infrastructure 2.0</li>
+</ul>

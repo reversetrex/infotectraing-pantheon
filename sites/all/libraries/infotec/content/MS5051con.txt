@@ -1,0 +1,9 @@
+<ul>
+  <li>Unit  1: Introduction to Exchange Server Monitoring and Troubleshooting</li>
+  <li>Unit  2: Monitoring and Troubleshooting Client Performance and Connectivity</li>
+  <li>Unit  3: Troubleshooting Access to Resources and Messages </li>
+  <li>Unit  4: Monitoring and Troubleshooting Mail Flow</li>
+  <li>Unit  5: Monitoring and Troubleshooting Mailbox Servers</li>
+  <li>Unit  6: Monitoring and Troubleshooting External and Additional Services</li>
+  <li>Unit 7: Identifying Trends in a Messaging System</li>
+</ul>

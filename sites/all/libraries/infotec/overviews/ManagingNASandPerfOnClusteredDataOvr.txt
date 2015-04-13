@@ -1,0 +1,1 @@
+This course combines CIFS, NFS, and performance analysis topics into a single, in-depth one-week course. It provides the knowledge and skills that you need to administer CIFS version 1.x to 2.x and NFS versions 3, 4, and 4.1 in a clustered Data ONTAP operating system. You also learn the skills you need to collect and analyze performance data from NetApp storage systems.

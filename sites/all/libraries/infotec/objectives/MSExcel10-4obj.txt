@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Manipulate data using statistical and lookup functions.</li>
+  <li>Analyze data using the data analysis tools in Microsoft Excel 2010.</li>
+  <li>Make investment decisions using the financial functions in Excel 2010.</li>
+  <li>Examine data using math functions in Excel 2010.</li>
+  <li>Manipulate data using text and information functions in Excel.</li>
+  <li>Create templates and work with Excel's advanced chart options.</li>
+  <li>Manage data in Excel workbooks.</li>
+</ul>

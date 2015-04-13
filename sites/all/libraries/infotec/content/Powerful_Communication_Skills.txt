@@ -1,0 +1,44 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Communication Skills</li>
+  </ul>
+  <h3>Section B: Listening Concepts</h3>
+  <ul>
+    <li>Attending</li>
+    <li>Following</li>
+    <li>Reflecting</li>
+    <li>Listening Skills</li>
+  </ul>
+  <h3>Section C: Communication Methods</h3>
+  <ul>
+    <li>Passive</li>
+    <li>Aggressive</li>
+    <li>Assertive</li>
+    <li>Emotional Control</li>
+    <li>Being Effective</li>
+  </ul>
+  <h3>Section D: Basic Communication Skills</h3>
+  <ul>
+    <li>Nonverbal Skills</li>
+    <li>Body Language</li>
+    <li>Eye Contact</li>
+    <li>Public Speaking</li>
+    <li>Writing Skills</li>
+    <li>Applying Skills</li>
+  </ul>
+  <h3>Section E: Pressurized Situations</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Negative Self-talk</li>
+    <li>Handling Criticism</li>
+    <li>Problem Solving</li>
+    <li>Conflict Management</li>
+  </ul>
+  <h3>Section F: Communication Tools</h3>
+  <ul>
+    <li>Charisma</li>
+    <li>Technology</li>
+    <li>Applying Concepts</li>
+    <li>Conclusion</li>
+  </ul>

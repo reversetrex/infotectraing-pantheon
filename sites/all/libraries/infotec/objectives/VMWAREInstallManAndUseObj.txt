@@ -1,0 +1,9 @@
+<p>At the end of this course, students will be able to:</p>
+<ul>
+  <li>Install and configure ESX Server</li>
+  <li>Install and configure Virtual Center</li>
+  <li>Install and Use vi client to manage virtual machines</li>
+  <li>Understand how ESX works with remote storage options such as NAS, SAN, and iSCSI.</li>
+  <li>Troubleshoot/resolve many ESX Issues</li>
+  <li>Migrate/Move and Manage VMs</li>
+</ul>

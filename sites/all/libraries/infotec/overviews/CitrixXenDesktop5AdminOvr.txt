@@ -1,0 +1,5 @@
+Gain the foundation necessary to effectively centralize and manage desktops in the data center and deliver them as a service to users anywhere. You will learn how to select a desktop delivery model for each user group based on their needs, build proof-of-concept and production XenDesktop environments, assign virtual desktops to users, and customize the user experience through policies. You will also learn how to build a Provisioning services farm to enable single-image desktop management and how to host virtual machines on the client device using Citrix XenClient.<br/><br/>
+
+You will learn about XenDesktop 5.5 new HDX enhancements, including quality video and audio on WAN connections, full Windows 7 aero graphical experience, and simplified HDX configuration. This new and helpful content is not included in the course manual, but instructors have it for classroom review.<br/><br/>
+
+This course includes an exam voucher for Exam A19 Citrix XenDesktop 5 Administration, the requirement for the CCA for Citrix XenDesktop 5.

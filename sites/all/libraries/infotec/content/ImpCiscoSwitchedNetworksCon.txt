@@ -1,0 +1,12 @@
+<ul>
+  <li>Module 0: Course Overview</li>
+  <li>Module 1: Analyzing Campus Network Designs</li>
+  <li>Module 2: Implementing VLANs in Campus Networks</li>
+  <li>Module 3: Implementing Spanning Tree</li>
+  <li>Module 4: Implementing Inter-VLAN Routing</li>
+  <li>Module 5: Implementing First Hop Redundancy in a Campus Environment</li>
+  <li>Module 6: Implementing a Highly Available Network</li>
+  <li>Module 7: Minimizing Service Loss and Data Theft in a Campus Network</li>
+  <li>Module 8: Integrating Wireless LANs into a Campus Network</li>
+  <li>Module 9: Accommodating Voice and Video in Campus Networks</li>
+</ul>

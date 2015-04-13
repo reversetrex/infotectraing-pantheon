@@ -1,0 +1,9 @@
+<p>In this course, you will identify and use raster and vector drawing and painting tools to create and edit images. You will also apply masks to hide and show image layers, filters to create special effects, and layer styles to create layer effects. You will utilize smart objects, layer comps, actions, and batch processing to streamline workflow. You will create and edit video, and animate graphics in your videos.</p>
+<p>You will:</p>
+<ul>
+  <li>Draw images by using raster tools such as brushes, stamps, erasers, and gradients.</li>
+  <li>Create visuals by using vector tools such as the pen, shape, and type tools.</li>
+  <li>Create special effects and streamline workflow by using advanced layer tools such as masks, filters, layer styles, smart objects, and layer comps.</li>
+  <li>Streamline your workflow with actions and batch processing.</li>
+  <li>Create videos and animate graphics within your videos.</li>
+</ul>

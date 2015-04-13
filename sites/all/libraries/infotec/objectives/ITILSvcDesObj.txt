@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course will understand:</p>
+<ul type="disc">
+  <li>Management and control of all Service Design activities</li>
+  <li>Management and application of Service Design concepts, inputs, outputs and activities</li>
+  <li>Knowledge of Service Design principles and management of Service Design processes</li>
+  <li>Control and coordination of Service Design technology related activities</li>
+  <li>Justification and control of the organizational and technological issues on Service Design</li>
+  <li>Analysis, justification and selection of the implementation approaches, challenges, critical success factors and risks</li>
+</ul>

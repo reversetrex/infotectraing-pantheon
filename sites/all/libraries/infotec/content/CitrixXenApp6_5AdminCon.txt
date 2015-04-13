@@ -1,0 +1,183 @@
+<p><strong>Module 1: Introducing XenApp</strong></p>
+<ul>
+  <li>XenApp Editions</li>
+  <li>XenApp Features</li>
+  <li>XenApp Architecture</li>
+  <li>AppCenter</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 2: Licensing XenApp</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>To License XenApp</li>
+  <li>License Administration Console</li>
+  <li>Installing Licensing</li>
+  <li>License File Management</li>
+  <li>High Availability Considerations</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 3: Installing XenApp</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>XenApp Server Role Manager</li>
+  <li>Hardware Requirements</li>
+  <li>Software Requirements</li>
+  <li>Installation Decisions</li>
+  <li>Server Configuration Tool</li>
+  <li>Dyamic Data Center Provisioning</li>
+  <li>Role-based Uninstall</li>
+  <li>XenApp Configuration Options</li>
+  <li>Web Interface Installation Decisions</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 4: Configuring XenApp Administration</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Worker Groups</li>
+  <li>Administrator Privilege Levels</li>
+  <li>Configuration Logging</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 5: Installing and Configuring Web Interface</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Web Interface Ports</li>
+  <li>Web Interface Installation</li>
+  <li>Site Creation</li>
+  <li>Web Interface Site Modification</li>
+  <li>Specifying Citrix Plug-in Backup URLs</li>
+  <li>Site Appearance</li>
+  <li>Workspace Control</li>
+  <li>Citrix Plug-ins and Web Interface</li>
+  <li>Authentication Configuration</li>
+  <li>Secure Access Configuration</li>
+  <li>Server Configuration</li>
+  <li>Web Interface Site Removal</li>
+  <li>Troubleshooting Web Interface Issues</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 6: Delivering Applications and Content</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Published Resources</li>
+  <li>VM Hosted Apps</li>
+  <li>Organizing Published Resources for Users</li>
+  <li>Advanced Published Resource Settings</li>
+  <li>Published Resource Configuration</li>
+  <li>Troubleshooting Application Delivery Issues</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 7: Streaming Applications</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Application Streaming</li>
+  <li>Citrix Offline Plug-in</li>
+  <li>Citrix Streaming Profiler</li>
+  <li>Application Delivery Methods</li>
+  <li>The Use Web Delivery Method</li>
+  <li>To Stream to Servers</li>
+  <li>Publishing a Streamed Application</li>
+  <li>Configuring Sites for Streaming Applications</li>
+  <li>Offline Access Management</li>
+  <li>Troubleshooting Streaming Issues</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 8: Configuring Policies</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Group Policy Integration</li>
+  <li>Policy Evaluation</li>
+  <li>Policy Rules</li>
+  <li>Support for Policy Templates</li>
+  <li>Policy Filtering</li>
+  <li>Policy Modeling</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 9: Configuring Load Management</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Load Manager</li>
+  <li>Load Balancing</li>
+  <li>Load Calculation</li>
+  <li>Load Evaluator Configuration</li>
+  <li>Load Balancing Policies</li>
+  <li>Preferential Load Balancing</li>
+  <li>Troubleshooting Load Management Issues</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 10: Optimizing the User Experience</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Optimizing Session Performance</li>
+  <li>HDX Broadcast Session Reliability</li>
+  <li>HDX Broadcast Session Reliability Considerations</li>
+  <li>HDX RealTime</li>
+  <li>HDX Plug-n-Play</li>
+  <li>HDX MediaStream Windows Media Redirection</li>
+  <li>HDX MediaStream Flash Redirection</li>
+  <li>HDX 3D Image Acceleration</li>
+  <li>HDX 3D Progressive Display</li>
+  <li>User Profiles</li>
+  <li>Troubleshooting User Experience Issues</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 11: Configuring Self-Service Applications</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Self-Service Applications Technologies</li>
+  <li>Citrix Receiver</li>
+  <li>Citrix Merchandising Server</li>
+  <li>Plug-ins</li>
+  <li>Troubleshooting Self-Service Application Issues</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 12: Configuring Printing</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Printing Concepts</li>
+  <li>Default Printing Behavior</li>
+  <li>Printer Provisioning</li>
+  <li>Printing Pathways</li>
+  <li>Printer Drivers</li>
+  <li>Citrix Universal Printing</li>
+  <li>Administrator-Assigned Network Printers</li>
+  <li>Workspace Control and Proximity Printing</li>
+  <li>Printing Preferences</li>
+  <li>Printing Bandwidth</li>
+  <li>Troubleshooting Printing Issues</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 13: Securing XenApp</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>XenApp Security Solutions</li>
+  <li>SecureICA</li>
+  <li>Citrix SSL Relay</li>
+  <li>Access Gateway</li>
+  <li>Web Interface Configuration</li>
+  <li>Security Configuration Best Practices</li>
+  <li>Troubleshooting Access Gateway with XenApp</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 14: Monitoring XenApp</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>Health Monitoring and Recovery</li>
+  <li>Service Monitoring for XenApp</li>
+  <li>License Usage Monitoring</li>
+  <li>Workflow Studio Overview</li>
+  <li>Accessing the Farm using PowerShell</li>
+  <li>Administering the Farm using Commands</li>
+  <li>Test Your Knowledge</li>
+</ul>
+<p><strong>Module 15: Additional Components</strong></p>
+<ul>
+  <li>Overview</li>
+  <li>SmartAuditor</li>
+  <li>Single Sign-on</li>
+  <li>Branch Optimization</li>
+  <li>Provisioning Services</li>
+  <li>Power and Capacity Management</li>
+  <li>XenServer</li>
+  <li>Test Your Knowledge</li>
+</ul>

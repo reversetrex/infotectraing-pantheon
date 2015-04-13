@@ -1,0 +1,11 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> create a complex illustration. </li>
+  <li>provide support for PDF and PSD files. </li>
+  <li>convert raster graphics to vector graphics. </li>
+  <li>color an artwork using the Live Paint feature. </li>
+  <li>create a poster. </li>
+  <li>export a graphic for the web. </li>
+  <li>apply color management so that colors match as closely as possible. </li>
+  <li>prepare documents for composite and commercial printing. </li>
+</ul>

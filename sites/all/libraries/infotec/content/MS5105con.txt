@@ -1,0 +1,72 @@
+<p><strong> Unit 1: Preparing to Deploy Windows Vista Business Desktops</strong></p>
+<p> In this Unit, students are provided guidelines for an effective desktop deployment. Students are also introduced to tools and technologies used in the desktop deployment life cycle. Finally, students are introduced to the process and team guidance provided by the Microsoft Solution Accelerator for Business Desktop Deployment 2007.</p>
+<ul>
+  <li> Overview of the Windows Vista Desktop Deployment Process </li>
+  <li>Tools and Technologies Used in the Desktop Deployment Life Cycle </li>
+  <li>Process and Team Guidance Using Business Desktop Deployment 2007</li>
+</ul>
+<p> After completing this Unit, students will be able to:</p>
+<ul>
+  <li> Provide guidelines and considerations for an effective and efficient Windows Vista business desktop deployment. </li>
+  <li>Describe the tools and technologies used throughout the desktop deployment lifecycle. </li>
+  <li>Use Solution Accelerator for Business Desktop Deployment 2007 as a resource for deploying Windows Vista business desktops.</li>
+</ul>
+<p><strong> Unit 2: Application Compatibility Remediation</strong></p>
+<p> In this Unit, students learn the process for addressing common application compatibility issues experienced during a typical operating system deployment. Students will also learn how to use the Microsoft Application Compatibility Toolkit (ACT) to help inventory, analyze, and mitigate application compatibility issues.</p>
+<ul>
+  <li> Resolving Application Compatibility Issues </li>
+  <li>Introduction to the Application Compatibility Toolkit 5.0 </li>
+  <li>Lab: Evaluating Application Compatibility Using the Microsoft Application Compatibility Toolkit</li>
+</ul>
+<p> After completing this Unit, students will be able to:</p>
+<ul>
+  <li> Describe the process used to resolve common application compatibility issues during an operating system deployment. </li>
+  <li>Inventory and analyze application compatibility information using the Application Compatibility Toolkit. </li>
+</ul>
+<p><strong> Unit 3: User State Migration</strong></p>
+<p> In this Unit, students learn about user state migration and how tools such as Windows Easy Transfer and the Microsoft Windows User State Migration Tool (USMT) can be used for various migration scenarios.</p>
+<ul>
+  <li> Overview of the User State Migration Task </li>
+  <li>Introduction to the User State Migration Tool 3.0 </li>
+  <li>Lab: Migrating User State Using the User State Migration Tool</li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the tools and configuration process for performing a user state migration task. </li>
+  <li>Migrate user and computer settings using the User State Migration Tool.</li>
+</ul>
+<p><strong> Unit 4: Computer Imaging Technologies for Windows Vista</strong></p>
+<p> In this Unit students learn about the underlying architecture of the computer imaging system that is used to create and deploy a custom image of a Windows Vista desktop.</p>
+<ul>
+  <li> Overview of Windows Vista Installation Architecture </li>
+  <li>Implementing a Windows Vista Imaging System </li>
+  <li>Lab: Customizing and Imaging a Windows Vista Business Desktop</li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe the architecture of the Windows Vista imaging system. </li>
+  <li>Determine which tools are required to implement a Windows Vista imaging system.</li>
+</ul>
+<p><strong> Unit 5: Deploying Windows Vista Using Lite Touch and Zero Touch</strong></p>
+<p> In this Unit, students learn how to use the Solution Accelerator for Business Desktop Deployment 2007 to deploy a Windows Vista image using a Lite Touch or Zero Touch methodology.</p>
+<ul>
+  <li> Overview of Lite Touch and Zero Touch Deployment Methods </li>
+  <li>Deploying a Lite Touch Scenario Using BDD 2007 </li>
+  <li>Lab: Performing a Lite Touch Upgrade Using BDD 2007</li>
+</ul>
+<p> After completing this Unit, students will be able to:</p>
+<ul>
+  <li> Select an appropriate deployment method based upon an organization's infrastructure management process. </li>
+  <li>Deploy the Windows Vista operating system using the Lite Touch methodology.</li>
+</ul>
+<p><strong> Unit 6: Securing a Windows Vista Desktop</strong></p>
+<p> In this Unit, students learn about the new security features incorporated into Windows Vista.</p>
+<ul>
+  <li> Overview of Desktop Security </li>
+  <li>Security Enhancements in Windows Vista </li>
+  <li>Lab: Securing a Windows Vista Desktop </li>
+</ul>
+<p> After completing this Unit, students will be able to: </p>
+<ul>
+  <li> Describe considerations and technologies used to secure desktops that run Windows Vista. </li>
+</ul>

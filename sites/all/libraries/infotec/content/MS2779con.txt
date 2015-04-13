@@ -1,0 +1,25 @@
+<p><strong>Module 1: Creating  Databases and Database Files</strong> - This module explains how to create databases, filegroups, schemas, and database snapshots.</p>
+
+<p><strong>Module 2: Creating Data Types and Tables</strong> - This  module explains how to create data types and tables. It also describes how to create partitioned tables.</p>
+
+<p><strong>Module 3: Using XML</strong> - This  module explains how to use the FOR XML clause and the OPENXML function. It also  describes how to use the xml data type and its methods.</p>
+
+<p><strong>Module 4: Creating and  Tuning Indexes</strong> - This module explains how  to plan, create, and optimize indexes. It also describes how to create XML indexes.</p>
+
+<p><strong>Module 5: Implementing  Data Integrity by Using Constraints</strong> - This module explains how to implement constraints and provides an overview of data integrity.</p>
+
+<p><strong>Module 6: Implementing  Data Integrity by Using Triggers and XML Schemas</strong> - This module explains how to implement triggers and XML schemas.</p>
+
+<p><strong>Module 7: Implementing  Views</strong> - This module explains how  to create views.</p>
+
+<p><strong>Module 8: Implementing  Stored Procedures</strong> - This module explains how to create stored procedures and functions. It also describes execution plans,  plan caching, and query compilation.</p>
+
+<p><strong>Module 9: Implementing  Functions</strong> - This module explains how  to create functions. It also describes how to control the execution context.</p>
+
+<p><strong>Module 10: Implementing Managed Code in the Database</strong> - This module explains how to implement managed database objects.</p>
+
+<p><strong>Module 11: Managing  Transactions and Locks</strong> - This module explains how to use transactions and the SQL Server locking mechanisms to meet the  performance and data integrity requirements of your applications.</p>
+
+<p><strong>Module 12: Using Service  Broker</strong> - This module explains how to build a messaging-based solution with Service Broker.</p>
+
+<p><strong>Module 13: Using  Notification Services (Optional)</strong> - This  module explains how to develop applications that generate and send timely  messages to subscribers.</p>

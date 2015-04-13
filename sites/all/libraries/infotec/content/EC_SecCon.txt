@@ -1,0 +1,49 @@
+<ul>
+  <li>Module  1: The Need for Security Analysis</li>
+  <li>Module 2: Advanced Googling</li>
+  <li>Module 3: TCP/IP Packet Analysis</li>
+  <li>Module  4: Advanced Sniffing Techniques</li>
+  <li>Module  5: Vulnerability Analysis with Nessus</li>
+  <li>Module  6: Advanced Wireless Testing</li>
+  <li>Module  7: Designing a DMZ</li>
+  <li>Module  8: Snort Analysis</li>
+  <li>Module  9: Log Analysis</li>
+  <li>Module  10: Advanced Exploits and Tools</li>
+  <li>Module 11: Penetration Testing Methodologies</li>
+  <li>Module 12: Customers and Legal Agreements</li>
+  <li>Module 13: Rules of Engagement</li>
+  <li>Module 14: Penetration Testing Planning and Scheduling</li>
+  <li>Module 15: Pre Penetration Testing Checklist</li>
+  <li>Module 16: Information Gathering</li>
+  <li>Module 17: Vulnerability Analysis</li>
+  <li>Module 18: External Penetration  Testing</li>
+  <li>Module 19: Internal Network  Penetration Testing</li>
+  <li>Module 20: Routers and Switches  Penetration Testing</li>
+  <li>Module 21: Firewall Penetration  Testing</li>
+  <li>Module 22: IDS Penetration Testing</li>
+  <li>Module 23: Wireless Network  Penetration Testing</li>
+  <li>Module 24: Denial of Service  Penetration Testing</li>
+  <li>Module 25: Password Cracking  Penetration Testing</li>
+  <li>Module 26: Social Engineering  Penetration Testing</li>
+  <li>Module 27: Stolen Laptop, PDAs and  Cell phones Penetration Testing</li>
+  <li>Module 28: Application Penetration  Testing</li>
+  <li>Module 29: Physical Security  Penetration Testing</li>
+  <li>Module 30: Database Penetration  testing</li>
+  <li>Module 31: VoIP Penetration Testing</li>
+  <li>Module 32: VPN Penetration Testing</li>
+  <li>Module 33: War Dialing</li>
+  <li>Module 34: Virus and Trojan Detection</li>
+  <li>Module 35: Log Management Penetration  Testing</li>
+  <li>Module 36: File Integrity Checking</li>
+  <li>Module 37: Blue Tooth and Hand held  Device Penetration Testing</li>
+  <li>Module 38: Telecommunication and  Broadband Communication Penetration Testing</li>
+  <li>Module 39: Email Security Penetration  Testing</li>
+  <li>Module 40: Security Patches  Penetration Testing</li>
+  <li>Module 41: Data Leakage Penetration  Testing</li>
+  <li>Module 42: Penetration Testing  Deliverables and Conclusion</li>
+  <li>Module 43: Penetration Testing Report  and Documentation Writing</li>
+  <li>Module 44: Penetration Testing Report  Analysis</li>
+  <li>Module 45: Post Testing Actions</li>
+  <li>Module 46: Ethics of a Licensed  Penetration Tester</li>
+  <li>Module 47: Standards  and Compliance</li>
+</ul>

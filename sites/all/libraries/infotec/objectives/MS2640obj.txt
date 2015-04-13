@@ -1,0 +1,19 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Describe the key differences between ASP and ASP.NET. </li>
+  <li>Create an ASP.NET Web application by using Microsoft Visual Studio .NET. </li>
+  <li>Create an ASP.NET Web Application UI. </li>
+  <li>Use the trace feature of ASP.NET to obtain information about executed requests. </li>
+  <li>Access databases in an ASP.NET Web application by using Microsoft ADO.NET. </li>
+  <li>Create and call a COM object from an ASP.NET Web page. </li>
+  <li>Explain how XML Web services is beneficial to distributed Internet computing. </li>
+  <li>Create an XML Web service by using Visual Studio .NET. </li>
+  <li>Create client code that can create and call a remote XML Web service. </li>
+  <li>List server and client-side state management techniques and explain how ASP.NET improves state management. </li>
+  <li>Use the ASP.NET Application object to track data that is associated with an ASP.NET Web application. </li>
+  <li>Use the ASP.NET Session object to track data that is associated with an individual user session. </li>
+  <li>Use the ASP.NET HttpCookie object to store client-side data. </li>
+  <li>Explain what approach would be the best for migrating a ASP Web application to ASP.NET, given a specific ASP Web application scenario. </li>
+  <li>Implement Forms-based authentication in an ASP.NET Web application </li>
+  <li>Prepare an ASP.NET Web application for deployment </li>
+</ul>

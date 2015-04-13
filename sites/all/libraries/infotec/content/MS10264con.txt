@@ -1,0 +1,60 @@
+<p><strong>Module 1: Overview of Web Application  Design</strong></p>
+<blockquote>
+  <p>  This module  describes the underlying architecture and design of a Web application</p>
+</blockquote>
+<p><strong>Module 2: Designing a Web Application</strong></p>
+<blockquote>
+  <p>  This module  describes the best practices and trade-offs that you need to make when  designing a Web application.</p>
+</blockquote>
+<p><strong>Module 3: Developing MVC Models</strong></p>
+<blockquote>
+  <p>  This module  describes the MVC development model (Models, Controllers, and Views) and how to  create the Models that are used to access and modify the data in a data source.</p>
+</blockquote>
+<p><strong>Module 4: Developing MVC Controllers</strong></p>
+<blockquote>
+  <p>  This module  describes how to create the Controllers that are used to respond to communications  from the user and how to implement the application flow and logic.</p>
+</blockquote>
+<p><strong>Module 5: Developing MVC Views</strong></p>
+<blockquote>
+  <p>  This module  describes how to create the Views that are used to expose the application UI.  The module also covers how to manage pre-action and post-action behavior of  Controller action methods using the included action filters are provided as  part of MVC.</p>
+</blockquote>
+<p><strong>Module 6: Designing for Discoverability</strong></p>
+<blockquote>
+  <p>  This module  describes how to implement the navigational design and also how discoverability  will be achieved through content keywords and page URLs.</p>
+</blockquote>
+<p><strong>Module 7: Writing Server-Side Code for Web  Forms</strong></p>
+<blockquote>
+  <p>  This module  describes the advanced features of server-side coding and technologies.  The module describes how to allow the website  to move into a global and web farm environment through localization, shared  sessions, and custom user controls.  The  module will also cover how to use the custom validator and regular expressions.</p>
+</blockquote>
+<p><strong>Module 8: Optimizing Data Management for  Web Forms</strong></p>
+<blockquote>
+  <p>  This module  describes how to optimize and display data management tasks for a Web  Forms-based application using Dynamic Data, Data Binding, LinqToEntities,  server side controls, and server-side code.</p>
+</blockquote>
+<p><strong>Module 9: Ensuring Quality by Debugging,  Unit Testing, and Refactoring</strong></p>
+<blockquote>
+  <p>  This module  describes how to perform check-in testing for their Web Forms and MVC  applications as well as how to use the built-in debugging capabilities of  VS2010.</p>
+</blockquote>
+<p><strong>Module 10: Securing a Web Application</strong></p>
+<blockquote>
+  <p>  This module  describes how to mitigate common security threats and to implement the essentials  (must haves) of Web security in both MVC and Web Forms applications.</p>
+</blockquote>
+<p><strong>Module 11: Applying Master Pages and CSS</strong></p>
+<blockquote>
+  <p>  This module  describes how to achieve a consistent UI in a reusable manner.</p>
+</blockquote>
+<p><strong>Module 12: Developing Client Side Scripts  and Services</strong></p>
+<blockquote>
+  <p>  This module  described how to develop client-side scripts and services for a responsive,  rich, and interactive application UI.</p>
+</blockquote>
+<p><strong>Module 13: Implementing Advanced AJAX in a  Web Application</strong></p>
+<blockquote>
+  <p>  This module  describes the programmatic side of AJAX enabled controls (as well as extending  server controls to include AJAX functionality) on a Web Forms page as well as  implementing AJAX on a MVC page<strong></strong>.</p>
+</blockquote>
+<p><strong>Module 14: Deploying a Web Application</strong></p>
+<blockquote>
+  <p>  This module  describes how to plan, configure, and perform deployment tasks associated with  a production Web site. The module also describes the Web site lifecycle as it  pertains to deployment.</p>
+</blockquote>
+<p><strong>Module 15: Developing a Web Application by  Using Silverlight</strong></p>
+<blockquote>
+  <p>  This module  introduce students to Silverlight by having them integrate a Silverlight module  into an existing ASP.NET application. Students will learn how to add a  Silverlight project to an existing solution, leverage the existing Web  application by calling a WCF service, and display the information in  Silverlight.</p>
+</blockquote>

@@ -1,0 +1,50 @@
+<p><strong>MS 20410</strong></p>
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Install and Configure Windows Server 2012.</li>
+    <li>Describe AD DS infrastructure, and install and configure domain controllers.</li>
+    <li>Manage AD DS objects.</li>
+    <li>Automate AD DS administration.</li>
+    <li>Describe Internet Protocol Version 4 (IPv4) addressing.</li>
+    <li>Describe installing and configuring Dynamic Host Configuration Protocol (DHCP), in addition to managing a DHCP database.</li>
+    <li>Describe name resolution for Windows operating system clients and Windows Server servers.</li>
+    <li>Describe implementing IPv6 addressing.</li>
+    <li>Describe implementing storage configuration options for Windows Server 2012.</li>
+    <li>Enable and configure file and print services in Windows Server 2012.</li>
+    <li>Describe implementing Group Policy.</li>
+    <li>Increase security in a Windows Server 2012 infrastructure by using Group Policy Objects, AppLocker, and Windows Firewall.</li>
+    <li>Describe Microsoft Virtualization technologies, including Hyper-V.</li>
+</ul>
+<p><strong>MS 20411</strong></p>
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Implement a Group Policy infrastructure.</li>
+    <li>Manage user desktops with Group Policy.</li>
+    <li>Manage user and service accounts.</li>
+    <li>Maintain Active Directory Domain Services (AD DS).</li>
+    <li>Configure and troubleshoot Domain Name System (DNS).</li>
+    <li>Configure and troubleshoot Remote Access.</li>
+    <li>Install, configure, and troubleshoot the Network Policy Server (NPS) role.</li>
+    <li>Implement Network Access Protection (NAP).</li>
+    <li>Optimize file services.</li>
+    <li>Configure encryption and advanced auditing.</li>
+    <li>Deploy and maintain server images.</li>
+    <li>Implement Update Management.</li>
+    <li>Monitor Windows Server 2012.</li>
+</ul>
+<p><strong>MS 20412</strong></p>
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Implement advanced network services.</li>
+    <li>Implement advanced file services.</li>
+    <li>Implement Dynamic Access Control.</li>
+    <li>Implement network load balancing (NLB).</li>
+    <li>Implement failover clustering.</li>
+    <li>Implement failover clustering with Hyper-V.</li>
+    <li>Implement disaster recovery.</li>
+    <li>Implement distributed Active Directory Domain Services (AD DS) deployments.</li>
+    <li>Implement AD DS sites and replication.</li>
+    <li>Implement Active Directory Certification Services (AD CS).</li>
+    <li>Implement Active Directory Rights Management Services (AD RMS).</li>
+    <li>Implement Active Directory Federation Services (AD FS).</li>
+</ul>

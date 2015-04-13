@@ -1,0 +1,13 @@
+<p> After completing this course, students will be able to:</p>
+<ul>
+  <li> Design a networking solution for a small or medium-sized business based on a given scenario. </li>
+  <li> Install or upgrade to Microsoft Windows&reg; Small Business Server 2003. </li>
+  <li> Configure Windows Small Business Server 2003 by completing the tasks on the To-Do List. </li>
+  <li> Manage messaging and collaboration in Windows Small Business Server 2003. </li>
+  <li> Manage and monitor Windows Small Business Server 2003. </li>
+  <li> Install or upgrade to Microsoft Windows Server Edition. </li>
+  <li> Configure Windows Server 2003, Standard Edition. </li>
+  <li> Secure a Windows Server 2003, Standard Edition network. </li>
+  <li> Manage Windows Server 2003, Standard Edition. </li>
+  <li>Expand a Windows Small Business Server 2003 network.</li>
+</ul>

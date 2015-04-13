@@ -1,0 +1,61 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Create the activity structure.</li>
+    <li>Enter the information needed to plan and schedule the various tasks involved in the execution of a project.</li>
+    <li>Save the structure as a template and know how activities within the WBS can be modified or deleted.</li>
+    <li>Create an activity hierarchy from a project.</li>
+    <li>Copy an activity from a WBS template and from an existing project.</li>
+    <li>Set up rate cards for projects.</li>
+    <li>Create and send project quotations.</li>
+    <li>Furnish quotations for repetitive services.</li>
+    <li>Convert quotes for projects when work is received from customers.</li>
+    <li>Define a work breakdown structure for a quotation.</li>
+    <li>Copy activities to the quotation from a work breakdown structure template and know how to generate quotation lines based on these activities.</li>
+    <li>Review the quote before it is sent to the customer.</li>
+    <li>Submit a quotation for approval.</li>
+    <li>Confirm the quote after the confirmation is received from the customer.</li>
+    <li>Transfer the quotation lines to a new or an existing project.</li>
+    <li>Create budgets automatically, transfer the work breakdown structure, and know how to perform scheduling and resource assignment from the quote to the project.</li>
+    <li>Schedule resources for various project activities.</li>
+    <li>Perform scheduling by matching project activities with similar resource requirements as the competencies of the workers.</li>
+    <li>Define competencies such as education, skills, certifications and other competencies for employees.</li>
+    <li>Set up parameters, such as a skill set match threshold and availability match threshold.</li>
+    <li>Define the requirements for performing activities on the work breakdown structure of the project.</li>
+    <li>Schedule resources based on the availability of resources.</li>
+    <li>Assign resources to project activities based on the project demand.</li>
+    <li>Calculate a skill match percentage and availability percentage when matching resources to project activities.</li>
+    <li>View the various inquiry forms and reports and analyze the usage of resources.</li>
+    <li>Create project contracts and associate the billing rules.</li>
+    <li>Bill the customer based on the completion of specific milestones in the project.</li>
+    <li>Invoice the project based on the percentage of work completed.</li>
+    <li>Initiate the invoicing process.</li>
+    <li>Create an invoice proposal.</li>
+    <li>Reformat the invoice based on the customer’s demand.</li>
+    <li>Submit and post the invoice.</li>
+    <li>Define and request a customer advance.</li>
+    <li>Post an invoice for the customer advance.</li>
+    <li>Reconcile the actual amount with the customer advance payments.</li>
+    <li>Assign customer payment retention terms to the different levels of projects.</li>
+    <li>Create and invoice transactions with customer payment retention terms attached.</li>
+    <li>Review the amount retained by the customer, and then release the retailed amount.</li>
+    <li>Make inquiries about customer payment retentions, and know how to generate the Customer payment retention report.</li>
+    <li>Process payment retentions.</li>
+    <li>Create and invoice purchase orders by attaching the payment retention term, and know how to review accounting transactions.</li>
+    <li>Post an invoice to release the retained vendor payment.</li>
+    <li>Make inquiries on vendor payment retentions that are based on purchase orders and invoices.</li>
+    <li>Print the Vendor payment retention report in two views.</li>
+    <li>Set up the PWP clause.</li>
+    <li>Create and invoice purchase orders by attaching the PWP term.</li>
+    <li>Create corresponding customer invoices.</li>
+    <li>Review the payment status of vendor invoices with regard to the related customer invoice.</li>
+    <li>Receive customer payments.</li>
+    <li>Release vendor payments in accordance with the PWP threshold criteria.</li>
+    <li>Inquire on outstanding payments based on vendor invoices subject to the PWP clause.</li>
+    <li>Print the Pay when paid report in two layouts.</li>
+    <li>Set up a project category as an indirect cost category.</li>
+    <li>Set up indirect cost components.</li>
+    <li>Set up an indirect component group.</li>
+    <li>Specify a project category as an indirect cost category.</li>
+    <li>Create the compounding rules and assign the indirect cost component category to projects, project contracts, a resource and billing rules.</li>
+    <li>Post and process different transactions with indirect cost components attached and know how to review the indirect costs calculated and posted for the transactions.</li>
+</ul>

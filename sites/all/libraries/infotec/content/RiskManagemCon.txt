@@ -1,0 +1,44 @@
+<p><strong>Introduction</strong><br>
+  What is risk?<br>
+  <br>
+  <strong>Unit 1: Defining Risk</strong><br>
+  The Multiple Facets of Risk<br>
+  A Typology of Risk<br>
+  The Nature of Risk<br>
+  Integrated Risk Management<br>
+  Assessing Risk Appetite <br>
+  Legal Brief: Know the Law<br>
+  <strong><br>
+  Unit 2: Assessing the Risks</strong><br>
+  Risk Mapping<br>
+  The ABC Classification of Risks <br>
+  Net Present Value to Assess New Projects<br>
+  Perceived Risk vs. Actual Risk<br>
+  Using Stress Tests to Assess Catastrophic Risk<br>
+  Legal Brief: Assessing Legal Risks<br>
+  <br>
+  <strong>Unit 3: Managing the Risks</strong><br>
+  Addressing the Risks<br>
+  Accepting That Zero Risk Is Not an Option<br>
+  Business Continuity Planning (BCP)<br>
+  Crisis Management and Communication<br>
+  Using Data Models vs. Common Sense<br>
+  Legal Brief: Reducing Legal Risk<br>
+  <br>
+  <strong>Unit 4: Controlling the Risks</strong><br>
+  Internal Control Systems<br>
+  Detective, Preventive, and Protective Systems<br>
+  Corporate Governance Risk<br>
+  Audit Risk<br>
+  Management Audits<br>
+  The New Role of the Risk Manager<br>
+  Implementing a Reasonable Approach Toward Risk<br>
+  Legal Brief: Knowing and Watching the Law<br>
+  <br>
+  <strong>Appendix</strong><br>
+  Recap: The Risk Management Process<br>
+  Appendix to Unit 1<br>
+  Appendix to Unit 2<br>
+  Appendix to Unit 3<br>
+  Appendix to Unit 4<br>
+  Additional Reading</p>

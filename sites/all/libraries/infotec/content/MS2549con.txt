@@ -1,0 +1,52 @@
+<strong>Unit 1: Implementing WSE 3.0 Security and Policy<br>
+</strong>This unit introduces Web Services Enhancements (WSE) 3.0. It explains the Web service WS-* standards implemented by WSE and the WSE 3.0 architecture. The unit also shows how to protect Web services with WSE using policies, encryption, digital signing, and security credentials. </div>
+<p> Units</p>
+<ul>
+  <li> What is WSE 3.0 Security? </li>
+  <li>Implementing WSE 3.0 Policies </li>
+</ul>
+<p><strong> Unit 2: Implementing WSE 3.0 Custom Policy Assertions<br>
+</strong>This unit introduces the WSE 3.0 custom policy assertion mechanism. It shows the architecture of the custom policy assertions in WSE 3.0 and how to use custom policy assertions in a Web service. </p>
+<p> Units</p>
+<ul>
+  <li> What is a WSE 3.0 Custom Policy Assertion? </li>
+  <li>Applying Custom Policy Assertions </li>
+</ul>
+<p><strong> Unit 3: Handling Large Data Transfer by Using WSE 3.0<br>
+</strong>This unit describes how to send and receive large files by using WSE 3.0. It discusses the Message Transmission Optimization Mechanism (MTOM) protocol, how to send and receive files, and how to handle bulky data in binary format in SOAP messages. </p>
+<p> Units</p>
+<ul>
+  <li> What is the Message Transmission Optimization Mechanism (MTOM)? </li>
+  <li>How to Use MTOM with WSE 3.0 </li>
+</ul>
+<p><strong> Unit 4: Implementing WSE 3.0 SOAP Messaging<br>
+</strong>This unit describes how to implement SOAP messaging. It describes how to send and receive SOAP messages in Web services by using different sets of protocols. </p>
+<p> Units</p>
+<ul>
+  <li> What is SOAP Messaging? </li>
+  <li>Sending and Receiving SOAP Messages </li>
+  <li>TCP and HTTP Messaging </li>
+</ul>
+<p><strong> Unit 5: Implementing SOAP Headers and Extensions<br>
+</strong>This unit describes SOAP headers and extensions. It explains what a SOAP header is, and how a Web service processes a SOAP extension. </p>
+<p> Units</p>
+<ul>
+  <li> What is a SOAP Header? </li>
+  <li>What is a SOAP Extension? </li>
+</ul>
+<p><strong> Unit 6: Implementing WSE 3.0 Routing<br>
+</strong>This unit discusses the routing mechanisms supported in WSE 3.0. It explains how to route Web method calls and how to implement content-based routing. </p>
+<p> Units</p>
+<ul>
+  <li> What is Routing? </li>
+  <li>Using WSE 3.0 Routing </li>
+</ul>
+<p><strong> Unit 7: Optimizing and Protecting Message Queuing<br>
+</strong>This unit discusses techniques for improving the security and optimizing the performance of applications that use the queuing mechanisms. It also describes how to verify whether messages posted to a queue are delivered successfully and how to correlate a message reply posted to a queue with the original message. </p>
+<p> Units</p>
+<ul>
+  <li> How to Reduce Message Queue Bottlenecks </li>
+  <li>How to Verify Message Delivery </li>
+  <li>How to Correlate Message Replies </li>
+  <li>How to Use Encryption and Authentication in Message Queues </li>
+</ul>

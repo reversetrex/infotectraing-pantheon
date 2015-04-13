@@ -1,0 +1,39 @@
+<b>MS6435</b>
+
+<br><br>
+
+<p>After completing this course, students will  be able to:</p>
+
+<ul>
+  <li>Describe key components of network infrastructure design.</li>
+  <li>Describe how to design a secure network.</li>
+  <li>Design a plan for allocating IP addresses to workstations and servers.</li>
+  <li>Design a network topology.</li>
+  <li>Describe the internal considerations for network security and how they can be addressed.</li>
+  <li>Design an appropriate name resolution system that incorporates Domain Name System (DNS).</li>
+  <li>Optimize a name resolution system that incorporates DNS and Windows Internet Name Service (WINS).</li>
+  <li>Design a solution for network access.</li>
+  <li>Design a Network Access Protection (NAP) solution.</li>
+  <li>Design a solution for operating system deployment and maintenance.</li>
+  <li>Design the deployment of file services.</li>
+  <li>Design print services in Windows Server 2008.</li>
+  <li>Design high availability for applications and services.</li>
+</ul>
+
+<b>MS6437</b>
+
+<br><br>
+
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Design IIS 7 Web Farms.</li>
+  <li>Optimize IIS 7 for Performance and Stability.</li>
+  <li>Design IIS 7 for Security.</li>
+  <li>Design IIS 7 for reliability, recovery, and monitoring.</li>
+  <li>Design and prepare a Terminal Services infrastructure.</li>
+  <li>Design a terminal services maintenance strategy.</li>
+  <li>Design a Windows Media Services installation for live and on-demand delivery.</li>
+  <li>Implement virtualization to consolidate servers, support legacy applications, and create a test environment.</li>
+  <li>Determine virtualization appropriateness and virtual server provisioning.</li>
+</ul>

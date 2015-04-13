@@ -1,0 +1,5 @@
+This course introduces students to PL/SQL and helps them understand the benefits of Oracle's proprietary database language.<br /><br />
+- Students learn to create PL/SQL blocks of application code that can be shared by multiple users, forms, reports, and data management applications.<br /><br />
+- Students learn to create anonymous PL/SQL blocks as well as named stored procedures, functions, packages and triggers.<br /><br />
+- Students learn to develop, execute, and manage PL\SQL stored program units, subprograms, triggers, declaring identifiers and both user-defined and pre-defined exceptions.<br /><br />
+- Students are introduced to the utilization of some of the more useful Oracle-supplied packages.

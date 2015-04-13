@@ -1,0 +1,6 @@
+<p>After completing this course, you should be able to:</p>
+<ul>
+  <li>Identify vulnerabilities in the current design of a vSphere environment and recommend corrective actions</li>
+  <li>Harden vSphere components as described in <em>vSphere  Hardening Guide</em></li>
+  <li>Recommend configuration and change management policies, processes, and systems</li>
+</ul>

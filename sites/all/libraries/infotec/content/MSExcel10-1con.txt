@@ -1,0 +1,42 @@
+<p><strong>Lesson 1: Creating a Basic Excel Worksheet</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Identify the Elements of the User Interface</li>
+  <li><strong>Topic 1B: </strong>Customize the Excel Interface</li>
+  <li><strong>Topic 1C: </strong>Work with Cells</li>
+  <li><strong>Topic 1D: </strong>Enter Data in an Excel Workbook</li>
+  <li><strong>Topic 1E: </strong>Obtain Help in Excel</li>
+</ul>
+<p><strong>Lesson 2: Performing Calculations in an Excel Worksheet</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Create Basic Formulas</li>
+  <li><strong>Topic 2B: </strong>Calculate the Cell Values by Using Functions</li>
+  <li><strong>Topic 2C: </strong>Copy Formulas and Functions</li>
+</ul>
+<p><strong>Lesson 3: Modifying an Excel Worksheet</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Manipulate Data</li>
+  <li><strong>Topic 3B: </strong>Modify the Worksheet Elements</li>
+  <li><strong>Topic 3C: </strong>Search for Data in a Worksheet</li>
+  <li><strong>Topic 3D: </strong>Modify Rows and Columns</li>
+</ul>
+<p><strong>Lesson 4: Formatting an Excel Worksheet</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Modify Fonts</li>
+  <li><strong>Topic 4B: </strong>Check a Worksheet for Spelling Errors</li>
+  <li><strong>Topic 4C: </strong>Apply Number Formatting</li>
+  <li><strong>Topic 4D: </strong>Add Borders and Colors to Cells</li>
+  <li><strong>Topic 4E: </strong>Align the Content in a Cell</li>
+  <li><strong>Topic 4F: </strong>Apply Cell Styles</li>
+</ul>
+<p><strong>Lesson 5: Printing Excel Workbooks</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Set the Page Layout Options</li>
+  <li><strong>Topic 5B: </strong>Set Page Breaks</li>
+  <li><strong>Topic 5C: </strong>Print a Workbook</li>
+</ul>
+<p><strong>Lesson 6: Managing an Excel Workbook</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Format Worksheet Tabs</li>
+  <li><strong>Topic 6B: </strong>Manage Worksheets</li>
+  <li><strong>Topic 6C: </strong>View Worksheets and  Workbooks</li>
+</ul>

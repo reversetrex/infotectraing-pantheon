@@ -1,0 +1,8 @@
+<p><strong>Upon successful completion of this course, students will be able to:</strong></p>   
+<ul>
+  <li>Create a basic web page.</li>
+  <li>Structure content.</li>
+  <li>Apply styles.</li>
+  <li>Work with tables.</li>
+  <li>Navigate a website.</li>
+</ul>

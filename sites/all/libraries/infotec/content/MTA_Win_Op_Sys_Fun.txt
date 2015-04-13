@@ -1,0 +1,257 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Windows Operating System</li>
+    <li>Microsoft Certification Paths</li>
+    <li>Knowledge Domains</li>
+    <li>Exam Prerequisites</li>
+    <li>Taking the Exam</li>
+    <li>Exam Preparation Tips</li>
+  </ul>
+  <h3>Section B: Windows OS</h3>
+  <ul>
+    <li>DOS, the Precursor</li>
+    <li>DOS Screens</li>
+    <li>Windows 3.1</li>
+    <li>Windows 95</li>
+    <li>Windows NT</li>
+    <li>Windows 7</li>
+    <li>Windows Evolution</li>
+    <li>Basic OS Architecture</li>
+    <li>Rings in Windows</li>
+  </ul>
+  <h3>Section C: Windows Interfaces</h3>
+  <ul>
+    <li>Identifying Windows Interfaces</li>
+    <li>Desktop/Taskbar</li>
+    <li>GUI Overview</li>
+    <li>Command Prompt</li>
+    <li>PowerShell</li>
+  </ul>
+  <h3>Section D: Planning Installations</h3>
+  <ul>
+    <li>Exploring OS Editions</li>
+    <li>Edition Upgrades</li>
+    <li>OS Requirements</li>
+    <li>Determining Requirements</li>
+    <li>PC Upgrade Advisor</li>
+    <li>Upgrade Paths</li>
+  </ul>
+  <h3>Section E: Advanced Installation Topics</h3>
+  <ul>
+    <li>Application Compatibility Topics</li>
+    <li>Planning for Upgrades</li>
+    <li>Installation Types</li>
+    <li>Product Identification Keys</li>
+    <li>Virtualization</li>
+    <li>Virtualization Types</li>
+  </ul>
+  <h3>Section F: Desktop Features</h3>
+  <ul>
+    <li>Configuring Start Menu</li>
+    <li>Customizing Start Menu</li>
+    <li>Adding Administrative Tools</li>
+    <li>Configuring Taskbar</li>
+    <li>Notification Area</li>
+  </ul>
+  <h3>Section G: Configuring the Interface</h3>
+  <ul>
+    <li>User Profiles</li>
+    <li>Gadgets</li>
+    <li>Changing Display Settings</li>
+    <li>Aero</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Using Native Applications</h3>
+  <ul>
+    <li>Notepad</li>
+    <li>WordPad</li>
+    <li>Calculator</li>
+    <li>Internet Explorer</li>
+    <li>Gallery</li>
+    <li>Snipping</li>
+    <li>Media Center and Player</li>
+  </ul>
+  <h3>Section B: Configuration Settings</h3>
+  <ul>
+    <li>Msconfig General Settings</li>
+    <li>Boot Config</li>
+    <li>Services Tab</li>
+    <li>Blue Screen of Death</li>
+    <li>Tools Tab</li>
+    <li>System Information App</li>
+  </ul>
+  <h3>Section C: The Control Panel</h3>
+  <ul>
+    <li>Applets</li>
+    <li>Control Panel Categories</li>
+    <li>Control Panel Views</li>
+    <li>Super Control Panel</li>
+  </ul>
+  <h3>Section D: Control Panel Applets</h3>
+  <ul>
+    <li>Control Applets</li>
+    <li>Ease of Access Center</li>
+    <li>Default Programs Applet</li>
+    <li>Powercfg Command Line Tool</li>
+  </ul>
+  <h3>Section E: Mobility Solutions</h3>
+  <ul>
+    <li>Sync Center</li>
+    <li>Windows Mobility Center</li>
+    <li>Enabling Remote Desktop</li>
+    <li>Using Remote Assistance</li>
+  </ul>
+  <h3>Section F: MMC and PowerShell</h3>
+  <ul>
+    <li>The MMC</li>
+    <li>New Taskpad View</li>
+    <li>PowerShell</li>
+  </ul>
+  <h3>Section G: Planning for Applications</h3>
+  <ul>
+    <li>Using Localized Applications</li>
+    <li>32-Bit and 64-Bit</li>
+    <li>Networked Applications</li>
+    <li>Installation Information</li>
+  </ul>
+  <h3>Section H: Application and Deployment Control</h3>
+  <ul>
+    <li>Group Policy App Deployment</li>
+    <li>Configuring Applications</li>
+    <li>Deleting Applications</li>
+    <li>Using MED-V</li>
+    <li>VDI</li>
+    <li>Services</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Malware</h3>
+  <ul>
+    <li>Security</li>
+    <li>Viruses and Worms</li>
+    <li>Trojans and Backdoors</li>
+    <li>Phishing Attacks</li>
+    <li>Avoiding Phishing Attacks</li>
+    <li>Planning for Malware Protection</li>
+    <li>Microsoft Protection Methods</li>
+  </ul>
+  <h3>Section B: Controlling Malware</h3>
+  <ul>
+    <li>Windows Defender</li>
+    <li>Installing</li>
+    <li>Configuring MSE</li>
+    <li>Action Center</li>
+    <li>Configuring User Account Control</li>
+  </ul>
+  <h3>Section C: File Systems</h3>
+  <ul>
+    <li>Common File System Features</li>
+    <li>Windows File Systems</li>
+    <li>Comparing File Systems</li>
+    <li>New NTFS Features</li>
+    <li>Encryption</li>
+    <li>Compression</li>
+  </ul>
+  <h3>Section D: Libraries</h3>
+  <ul>
+    <li>Library Features</li>
+    <li>Creating a Library</li>
+    <li>Adding Folders</li>
+    <li>Customizing Libraries</li>
+  </ul>
+  <h3>Section E: Network Shares</h3>
+  <ul>
+    <li>Network Hardware</li>
+    <li>TCP/IP</li>
+    <li>Name Resolution</li>
+    <li>Windows Workgroups</li>
+    <li>Windows Homegroups</li>
+    <li>Windows Domains</li>
+    <li>Network Share Types</li>
+    <li>Share Permissions</li>
+  </ul>
+  <h3>Section F: Creating Shares</h3>
+  <ul>
+    <li>Public Shares</li>
+    <li>Create and Share Folders</li>
+    <li>Basic Shares</li>
+    <li>Advanced Shares</li>
+    <li>Map Drive to Shared Location</li>
+  </ul>
+  <h3>Section G: Using Printers</h3>
+  <ul>
+    <li>Installing Printers</li>
+    <li>Sharing Printers</li>
+    <li>Permissions</li>
+    <li>MS XPS Document Writer</li>
+  </ul>
+  <h3>Section H: Managing Devices</h3>
+  <ul>
+    <li>Device Drivers</li>
+    <li>Locating Device Drivers</li>
+    <li>Installing Drivers</li>
+    <li>Custom Device Software</li>
+    <li>Device Driver Manager</li>
+    <li>Plug and Play</li>
+    <li>Initial Device Installation</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Storage</h3>
+  <ul>
+    <li>Types of Storage</li>
+    <li>Selecting Hard Drives</li>
+    <li>Hard Disk Standards</li>
+    <li>FAT vs. NTFS</li>
+    <li>Networked Storage</li>
+    <li>DFS for File Distribution</li>
+    <li>DFS for File Aggregation</li>
+    <li>RAID Levels</li>
+    <li>Basic and Dynamic Disks</li>
+    <li>Create a VHD File</li>
+    <li>Cloud Storage</li>
+  </ul>
+  <h3>Section B: Troubleshooting Theory</h3>
+  <ul>
+    <li>Troubleshooting Methodologies</li>
+    <li>REACT Details</li>
+    <li>Research Example</li>
+    <li>Engage</li>
+    <li>Adjust</li>
+    <li>Configure and Take Note</li>
+    <li>The OSI Model</li>
+    <li>ITIL Publications</li>
+  </ul>
+  <h3>Section C: Troubleshooting Tools</h3>
+  <ul>
+    <li>Disk Defragmenter</li>
+    <li>Command Line Defrag</li>
+    <li>Disk Cleanup</li>
+    <li>Scheduling Tasks</li>
+    <li>Event Viewer</li>
+    <li>Task Manager</li>
+  </ul>
+  <h3>Section D: Backup Solutions</h3>
+  <ul>
+    <li>Information Management</li>
+    <li>Backup Methods</li>
+    <li>Backup Tools</li>
+    <li>Backup Target Options</li>
+    <li>Backup and Restore Limitations</li>
+    <li>Backup Planning Process</li>
+    <li>Testing Recovery Processes</li>
+  </ul>
+  <h3>Section E: Backup and Restore</h3>
+  <ul>
+    <li>System Image</li>
+    <li>Configure System Restore</li>
+    <li>Restore Points</li>
+    <li>Advanced Boot Options</li>
+  </ul>
+  <h3>Section F: Patch Management</h3>
+  <ul>
+    <li>Windows Update</li>
+    <li>Microsoft Update Life Cycle</li>
+    <li>Patch Management Options</li>
+    <li>WSUS Implementation</li>
+    <li>Microsoft Update</li>
+  </ul>

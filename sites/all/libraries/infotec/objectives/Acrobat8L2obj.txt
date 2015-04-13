@@ -1,0 +1,8 @@
+<p>Upon  successful completion of this course, students will be able to:</p>
+<ul>
+  <li>create PDF files from technical documents.</li>
+  <li>enhance the utility and accessibility of PDF documents.</li>
+  <li>create interactive PDF forms.</li>
+  <li>begin preparing a PDF document for commercial printing.</li>
+  <li>finalize PDF files for commercial printing.</li>
+</ul>

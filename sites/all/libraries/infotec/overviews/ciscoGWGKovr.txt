@@ -1,0 +1,1 @@
+The goal of the GWGK v2.0 course is to provide students with information and practice activities to prepare them to install, configure, monitor and troubleshoot Cisco voice gateways and gatekeepers in Enterprise installations, in accord with the recommendations of Cisco's Solution Reference Network Design for IP Telephony guides.

@@ -1,0 +1,37 @@
+<p>The JavaScript Specialist course focuses on the fundamental concepts of the JavaScript language. This
+course will empower you with the skills to design client-side, platform-independent solutions that greatly
+increase the value of your Web site by providing interactivity and interest. You will learn how to use
+JavaScript to communicate with users, modify the Document Object Model (DOM), control program flow,
+validate forms, animate images, create cookies, change XHTML on the fly, and communicate with
+databases.</p>
+
+<p><strong>This course will enable you to:</strong></p>
+
+<p><strong>Part 1: Essential JavaScript Principles and Practices</strong></p>
+<ul>
+  <li>Identify characteristics of JavaScript and common programming practices </li>
+  <li>Work with variables and data in JavaScript </li>
+  <li>Use JavaScript functions, methods, and events </li>
+</ul>
+
+<p><strong>Part 2: Intermediate JavaScript Programming Techniques</strong></p>
+<ul>
+  <li>Use JavaScript statements to control program flow </li>
+  <li>Use the JavaScript Document Object Model (DOM) </li>
+  <li>Use JavaScript language objects and create expressions </li>
+  <li>Create and use custom JavaScript objects </li>
+  <li>Debug and troubleshoot JavaScript code </li>
+</ul>
+
+<p><strong>Part 3: Applied JavaScript</strong></p>
+<ul>
+  <li>Use JavaScript to develop interactive forms </li>
+  <li>Modify X/HTML with JavaScript </li>
+  <li>Address JavaScript security issues involving browsers and cookies </li>
+</ul>
+
+<p><strong>Part 4: JavaScript Technology Extensions</strong></p>
+<ul>
+  <li>Implement JavaScript libraries </li>
+  <li>Use JavaScript and AJAX to create interactive web application </li>
+</ul>

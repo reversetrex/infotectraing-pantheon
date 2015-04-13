@@ -1,0 +1,18 @@
+<h2>Session 1</h2>
+  <h3>Section A: Write It, File It</h3>
+  <ul>
+    <li>Objective Not Subjective</li>
+    <li>Documentation Saves</li>
+    <li>Hairy Spider Question</li>
+    <li>Correct Documentation</li>
+    <li>Time Challenge</li>
+  </ul>
+  <h3>Section B: Taking It to the Next Level</h3>
+  <ul>
+    <li>Incident Report</li>
+    <li>Name that Act</li>
+    <li>EEOC</li>
+    <li>E-mail Communication</li>
+    <li>Digital Records</li>
+    <li>Such a Snap</li>
+  </ul>

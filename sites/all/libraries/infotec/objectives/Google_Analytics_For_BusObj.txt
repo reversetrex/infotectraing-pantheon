@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Describe the basics of Google Analytics.</li>
+  <li>Create and activate a Google Analytics account.</li>
+  <li>Manage a Google Analytics account.</li>
+  <li>Configure goals and funnels in Google Analytics.</li>
+  <li>Create filters in Google Analytics.</li>
+  <li>Identify and  interpret various Google Analytics reports</li>
+</ul>

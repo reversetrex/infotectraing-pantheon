@@ -1,0 +1,11 @@
+<p><strong>Students will learn the following:</strong></p>
+<ul>
+  <li>How to access and use Apple's troubleshooting references.</li>
+  <li>How to use Apple's troubleshooting tools.</li>
+  <li>How to use general troubleshooting theory to shorten repair turnaround times and minimize service parts ordered.</li>
+  <li>How to disassemble and reassemble Apple desktop and portable hardware.</li>
+  <li>How to avoid ESD damage.</li>
+  <li>How to avoid CRT damage and injury.</li>
+  <li>How LCDs and CRTs work.</li>
+  <li>How to configure and test Mac network access.</li>
+</ul>

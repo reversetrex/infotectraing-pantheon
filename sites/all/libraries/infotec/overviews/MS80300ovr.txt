@@ -1,0 +1,1 @@
+This one-day instructor-led course provides students with an introduction to Microsoft Dynamics AX2012. The purpose of this course is to give new users an overview of the benefits of the application, the functionality available, and the underlying technology. Students will have the opportunity to use the application to perform typical end-user tasks.

@@ -1,0 +1,11 @@
+<p><strong>Module 1: Installing and Configuring the Microsoft Office  Groove 2007 Client (for Enterprise  Customers)</strong> - This module explains how to  work as a team dynamically and effectively inside a collaborative workspace by  using the Groove 2007 Client.</p>
+
+<p><strong>Module 2: Installing and Configuring the Microsoft Office  Groove 2007 Relay Server</strong> - This module explains how to  conduct a fresh installation of the Microsoft Groove relay server; how to  generate the relay server keys in the Groove relay server; how to generate the  SOAP identity keys; how to customize the Relay Server Quota and Tuning  Settings; and how to back up key files, configure startup and recovery  settings, and start the relay server.</p>
+
+<p><strong>Module 3: Installing and Configuring Microsoft Office  Groove 2007 Management Server</strong> - This module explains how to  conduct a fresh installation of the Groove Management Server; how to set up a  Web site to require authentication to access it; how to add, edit, remove, and  enable role-based access control for Groove Management Server administrators;  how to create a domain; and how to connect a Management Server with Groove  Relay Servers.</p>
+
+<p><strong>Module 4: Installing and Configuring Microsoft Office Groove 2007 Data Bridge Server</strong> - This module explains how to conduct a fresh installation of the Groove Data Bridge Server and how to configure the Groove 2007 Data Bridge Server.</p>
+
+<p><strong>Module 5: Working in Microsoft Office Groove Server 2007</strong> - This module explains how to configure an Identity template with Groove Server 2007; how to create a Device Policy template; how to create a member; and how to use a new account.</p>
+
+<p><strong>Module 6: Configuring Active Directory Integration Within Microsoft Office Groove Server 2007</strong> - This module explains how to configure directory integration with Groove Server 2007; how to set up the Active Directory connection; how to map Active  Directory directory service objects to Groove; how to set up the  synchronization interval; and how to check if a connection is working.</p>

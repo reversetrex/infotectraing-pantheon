@@ -1,0 +1,32 @@
+<p><strong>Lesson 1: Getting Started with Photoshop</strong></p>
+<ul>
+  <li><strong>Topic A: </strong>Introduction to Photoshop</li>
+  <li><strong>Topic B: </strong>Adobe Bridge and Mini Bridge</li>
+  <li><strong>Topic C: </strong>Navigate the Photoshop Workspace</li>
+  <li><strong>Topic D: </strong>Customize the Photoshop Workspace</li>
+</ul>
+<p><strong>Lesson 2: Beginning with Image Basics</strong></p>
+<ul>
+  <li><strong>Topic A: </strong>Manage Image Elements and Formats</li>
+  <li><strong>Topic B: </strong>Work with Digital Devices</li>
+</ul>
+<p><strong>Lesson 3: Managing Selections and Layers</strong></p>
+<ul>
+  <li><strong>Topic A: </strong>Use Selection Tools</li>
+  <li><strong>Topic B: </strong>Manage Layers</li>
+</ul>
+<p><strong>Lesson 4: Making Image Adjustments</strong></p>
+<ul>
+  <li><strong>Topic A: </strong>Modify an Image</li>
+  <li><strong>Topic B: </strong>Image Repairs</li>
+</ul>
+<p><strong>Lesson 5: Refining Images</strong></p>
+<ul>
+  <li><strong>Topic A: </strong>Layer Adjustments</li>
+  <li><strong>Topic B: </strong>Introduction to Camera Raw</li>
+</ul>
+<p><strong>Lesson 6: Saving Images for Web and Print</strong></p>
+<ul>
+  <li><strong>Topic A: </strong>Save Images for the Web</li>
+  <li><strong>Topic B: </strong>Save Images for Print</li>
+</ul>

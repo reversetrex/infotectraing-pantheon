@@ -1,0 +1,10 @@
+<p>Completing this workshop will:</p>
+<ul>
+  <li>Provide the learner with the background information related to how the federal Risk Management Framework (RMF) was developed, the expectations set by Congress and OMB, as well as the manner in which the RMF integrates with other information and business processes.</li>
+  <li>Provide the learner with the specific requirements and processes required to appropriately categorize an information system, including the federal mandates, requisite inputs, tasks, and related processes.</li>
+  <li>Provide the learner with the specific requirements and processes required to appropriately select security controls for an information system, including the federal mandates, requisite inputs, tasks, and related processes.</li>
+  <li>Provide the learner with the specific requirements and processes required to implement security controls for an information system, including the federal mandates, requisite inputs, tasks, and related processes.</li>
+  <li>Provide the learner with the specific requirements and processes required to appropriately assess the security controls for an information system, including the federal mandates, requisite inputs, tasks, and related processes.</li>
+  <li>Provide the learner with the specific requirements and processes required to appropriately authorize an information system, including the federal mandates, requisite inputs, tasks, and related processes.</li>
+  <li>Provide the learner with the specific requirements and processes required to conduct continuous monitoring of an information system, including the federal mandates, requisite inputs, tasks, and related processes.  This includes the two primary objectives of near real-time risk management and ongoing security authorization.</li>
+</ul>

@@ -1,0 +1,279 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introducing Exchange 2007</h3>
+  <ul>
+    <li>Course Overview</li>
+    <li>Prerequisites</li>
+    <li>What's New</li>
+    <li>64-Bit Changes</li>
+  </ul>
+  <h3>Section B: Exchange Roles</h3>
+  <ul>
+    <li>Mailbox Server</li>
+    <li>Hub Transport Server</li>
+    <li>Edge Transport Server</li>
+    <li>Unified Messaging</li>
+  </ul>
+  <h3>Section C: Exchange Server Editions</h3>
+  <ul>
+    <li>Matching the Environment</li>
+    <li>Client Access Licenses</li>
+    <li>Licensing Issues</li>
+    <li>Outlook License Requirements</li>
+  </ul>
+  <h3>Section D: Installation Preparation</h3>
+  <ul>
+    <li>System Requirements</li>
+    <li>Hardware Recommendations</li>
+    <li>Infrastructure Requirements</li>
+    <li>Software Prerequisites</li>
+  </ul>
+  <h3>Section E: Active Directory Preparation</h3>
+  <ul>
+    <li>Installation Requirements</li>
+    <li>Preparing to Install</li>
+    <li>.NET Framework 2.0</li>
+    <li>Windows PowerShell</li>
+    <li>Legacy Exchange Permissions</li>
+    <li>Prepare Schema</li>
+    <li>Prepare AD</li>
+    <li>Prepare Domain</li>
+  </ul>
+  <h3>Section F: Exchange Installation</h3>
+  <ul>
+    <li>Typical Setup</li>
+    <li>Start Installation</li>
+    <li>Installation Type</li>
+    <li>Readiness Checks</li>
+    <li>2000/2003 Coexistence</li>
+    <li>Routing Group Connector</li>
+    <li>Group Names</li>
+    <li>Finalize Deployment</li>
+    <li>Exchange 2003 Groups</li>
+  </ul>
+  <h3>Section G: Advanced Installation</h3>
+  <ul>
+    <li>Edge Transport</li>
+    <li>Install Edge Transport</li>
+    <li>DNS Suffix</li>
+    <li>Cross-Forest Deployment</li>
+    <li>Resource Forest Deployment</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Exchange Administration</h3>
+  <ul>
+    <li>Management Console</li>
+    <li>Management Shell</li>
+    <li>Active Directory Permissions</li>
+    <li>Data Types</li>
+    <li>Administrator Roles</li>
+    <li>Add Administrator</li>
+    <li>Security Groups</li>
+  </ul>
+  <h3>Section B: Exchange Management Console</h3>
+  <ul>
+    <li>Organization</li>
+    <li>Organization Configuration Node</li>
+    <li>Server Configuration Node</li>
+    <li>Recipient Configuration Node</li>
+    <li>Edge Transport Node</li>
+  </ul>
+  <h3>Section C: Exchange Management Shell</h3>
+  <ul>
+    <li>Windows PowerShell</li>
+    <li>Basic Shell Commands</li>
+    <li>Getting Help</li>
+    <li>Get-ExCommand</li>
+    <li>Get-Mailbox</li>
+    <li>Prohibit Send Quota</li>
+    <li>Create Mailbox</li>
+  </ul>
+  <h3>Section D: Advanced Shell Features</h3>
+  <ul>
+    <li>Pipelining Commands</li>
+    <li>Format-List</li>
+    <li>Mailbox Statistics</li>
+    <li>Bulk Management</li>
+    <li>Move Mailboxes</li>
+    <li>Scripting Management Shell</li>
+  </ul>
+  <h3>Section E: Removing Exchange 2003</h3>
+  <ul>
+    <li>Preparation</li>
+    <li>Steps for Removal</li>
+    <li>Moving Public Folders Hierarchy</li>
+    <li>Recipient Update Services</li>
+    <li>Enterprise Recipient Update</li>
+    <li>Routing Group Connectors</li>
+  </ul>
+  <h3>Section F: E-mail Domains</h3>
+  <ul>
+    <li>E-mail Addresses</li>
+    <li>Accepted Domains</li>
+    <li>E-mail Address Policies</li>
+    <li>Adding E-mail Addresses</li>
+    <li>Creating Accepted Domains</li>
+    <li>Editing E-mail Address Policies</li>
+    <li>New E-mail Address Policies</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Configure Recipients</h3>
+  <ul>
+    <li>Disable/Remove</li>
+    <li>Recipient Types</li>
+    <li>Create Mail Contact</li>
+    <li>Mailboxes</li>
+    <li>Mailbox Types</li>
+    <li>Create Mailbox</li>
+    <li>Mailbox Properties</li>
+    <li>Remove Mailbox</li>
+  </ul>
+  <h3>Section B: Resource Mailboxes</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Create Room Mailbox</li>
+    <li>Resource Properties</li>
+    <li>Convert Mailbox</li>
+    <li>Calendar Concierge</li>
+    <li>Mailbox Permissions</li>
+    <li>Scheduling Options</li>
+    <li>Scheduling Meetings</li>
+  </ul>
+  <h3>Section C: Mail-Enabled Groups</h3>
+  <ul>
+    <li>Distribution Groups</li>
+    <li>Universal Groups</li>
+    <li>Create Distribution Groups</li>
+    <li>Configure Distribution Groups</li>
+    <li>Special Distribution Groups</li>
+    <li>Dynamic Distribution Groups</li>
+    <li>Create Dynamic Group</li>
+    <li>Dynamic Group Properties</li>
+  </ul>
+  <h3>Section D: Public Folders</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Requirements</li>
+    <li>Managing Public Folders</li>
+    <li>Removing Public Folders</li>
+    <li>Client Settings</li>
+    <li>Offline Address Book</li>
+    <li>Remove Public Folder Database</li>
+  </ul>
+  <h3>Section E: Message Flow</h3>
+  <ul>
+    <li>Hub Transport Servers</li>
+    <li>Connectors</li>
+    <li>Receive Connector Settings</li>
+    <li>Create Send Connector</li>
+    <li>Send Connector Settings</li>
+    <li>Message Limits</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Edge Transport Server</h3>
+  <ul>
+    <li>Edge Transport Configuration</li>
+    <li>EdgeSync</li>
+    <li>New Edge Subscription</li>
+    <li>Complete Edge Subscription</li>
+    <li>Verify Connectivity</li>
+    <li>EdgeSync Process</li>
+    <li>Verify Server Settings</li>
+  </ul>
+  <h3>Section B: Spam Rules</h3>
+  <ul>
+    <li>Spam Rule Precedence</li>
+    <li>Precedence Continued</li>
+    <li>Connection Filtering</li>
+    <li>Recipient Filtering</li>
+    <li>Sender Reputation</li>
+    <li>Content Filtering</li>
+    <li>Updating Anti-Spam</li>
+  </ul>
+  <h3>Section C: Transport Rules</h3>
+  <ul>
+    <li>Transport Rule Types</li>
+    <li>Transport Rule Creation</li>
+    <li>Message Classification</li>
+    <li>New Transport Rule</li>
+    <li>Apply Classification</li>
+  </ul>
+  <h3>Section D: Compliance Features</h3>
+  <ul>
+    <li>Journaling</li>
+    <li>Messaging Records Management</li>
+    <li>Standard Journaling</li>
+    <li>Premium Journaling</li>
+    <li>Managed Content Settings</li>
+    <li>Custom Folders</li>
+    <li>Managed Folder Mailbox Policy</li>
+    <li>Managed Folder Assistant</li>
+  </ul>
+  <h3>Section E: Client Connectivity</h3>
+  <ul>
+    <li>Outlook Web Access</li>
+    <li>Create Certificate</li>
+    <li>Request Certificate</li>
+    <li>Apply Certificate</li>
+    <li>View Certificate</li>
+    <li>File Access</li>
+  </ul>
+  <h3>Section F: Configuring Client Access</h3>
+  <ul>
+    <li>Client Connectivity</li>
+    <li>Recipient Configuration</li>
+    <li>Mailbox Policies</li>
+    <li>Client Access Role</li>
+    <li>ActiveSync</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Connecting with Outlook</h3>
+  <ul>
+    <li>Autodiscover Service</li>
+    <li>Outlook Anywhere</li>
+    <li>Configuring Client Access</li>
+    <li>Connecting Client Machines</li>
+  </ul>
+  <h3>Section B: Local Continuous Replication</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Configuring LCR</li>
+    <li>Copy Status</li>
+    <li>Restoring the Local Database</li>
+  </ul>
+  <h3>Section C: Cluster Continuous Replication</h3>
+  <ul>
+    <li>Requirements</li>
+    <li>Features</li>
+    <li>Install CCR</li>
+    <li>Single Copy Clusters</li>
+  </ul>
+  <h3>Section D: Disaster Recovery</h3>
+  <ul>
+    <li>Protecting Data</li>
+    <li>Full Server Recovery</li>
+    <li>Recovery Server Roles</li>
+  </ul>
+  <h3>Section E: Data Recovery</h3>
+  <ul>
+    <li>Database Portability</li>
+    <li>Recovery Storage Groups</li>
+    <li>Missing Data</li>
+    <li>Create Storage Group</li>
+    <li>Create Recovery Database</li>
+    <li>Recover Data</li>
+  </ul>
+  <h3>Section F: Mail Flow Troubleshooting</h3>
+  <ul>
+    <li>Mail Queues</li>
+    <li>Queue Viewer</li>
+    <li>System Monitoring</li>
+    <li>Performance Monitor</li>
+  </ul>
+  <h3>Section G: Message Tracking</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Tracking Parameters</li>
+    <li>Tracking Results</li>
+    <li>Protocol Logging</li>
+    <li>Enable Protocol Logging</li>
+  </ul>

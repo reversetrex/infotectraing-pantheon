@@ -1,0 +1,3 @@
+This new Jump Start courseware comes from the early readiness content that was used for Live delivery directly from Microsoft. This 3-day course was taught to over 1400 students and received an NSAT of 164 from the post-event survey similar to the MTM format used for MOC courses. This is a demo-based course and does not include labs.<br /><br />
+
+"Microsoft Office 365 for IT Professionals" is specially tailored for technologists looking for real-world proof of how cloud-based Office 365 enables organizations to solve more problems from more places. Microsoft Office 365 brings together cloud versions of our most trusted email communication and collaboration software -- Exchange Online, SharePoint Online and Lync Online -- with the Office Professional Plus desktop suite.

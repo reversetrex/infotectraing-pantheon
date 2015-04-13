@@ -1,0 +1,107 @@
+<p><strong>Module 1: Overview of the Lync Server 2010 Design Process</strong> - This module explains all components of Lync Server 2010 architecture. It also describes the design process for a Lync Server 2010 design.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Lync Server 2010 Architecture</li>
+  <li>Overview of Lync Server 2010 Core Capabilities</li>
+  <li>Introduction to the Lync Server 2010 Design Process</li>
+  <li>Assessing Infrastructure Requirements and Updating Design</li>
+  <li>Planning for all Microsoft Solutions Framework Phases</li>
+</ul>
+<p><strong>Module 2: Designing a Lync Server 2010 Topology</strong> - This module describes how to design a complete Lync Server 2010 topology including defining network sites and regions, sizing and placing server roles, and adhering to organization compliance requirements.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning Infrastructure Requirements for Lync Server 2010</li>
+  <li>Using the Lync Server 2010 Planning Tool</li>
+  <li>Using Topology Builder</li>
+  <li>Planning for Site Topology</li>
+  <li>Designing the Site Topology</li>
+  <li>Planning the Server Infrastructure</li>
+  <li>Design Documentation Using Microsoft Office</li>
+</ul>
+<p><strong>Module 3: Designing for Conferencing and External Scenarios</strong> - This module describes how to plan and design for all the external scenarios including Edge Server design and the different conferencing modalities that are provided for internal and external users.</p>
+<p>Lessons</p>
+<ul>
+  <li>Conferencing and External Capabilities of Lync Server 2010</li>
+  <li>Designing for Dial-In Conferencing</li>
+  <li>Designing for Audio/Video and Web Conferencing</li>
+  <li>Planning for IM and Presence Federation</li>
+  <li>Designing Edge Services</li>
+  <li>Planning for DNS implementation</li>
+  <li>Planning for PKI Implementation</li>
+</ul>
+<p><strong>Module 4: Planning and Designing Load Balancing</strong> - This module explains how to create a Load Balancing Design based on the topology design that can deliver both the capacity and the failover requirements for an organization.</p><p>Lessons</p>
+<ul>
+  <li>Planning for Load Balancing</li>
+  <li>Designing Load Balancing</li>
+</ul>
+<p><strong>Module 5: Designing a Mediation Server Topology</strong> - This module explains how to configure Server Virtualization by using Hyper-V. It explains the features of Hyper-V. It also describes how to configure Live Migration in Hyper-V and how to effectively use System Center Virtual Machine Manager R2.</p>
+<p>Lessons</p>
+<ul>
+  <li>Designing Mediation Server</li>
+  <li>Designing Media Bypass</li>
+</ul>
+<p><strong>Module 6: Designing Voice Infrastructure</strong> - This module explains how to design a Voice infrastructure that meets the needs of the organization and integrates with or replaces an existing Voice Platform.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Lync Server 2010 Voice Architecture</li>
+  <li>Lync Server 2010 Telephony Interoperability Options</li>
+  <li>Defining Number Manipulation</li>
+  <li>Defining Voice Policies      </li>
+  <li>Designing a Voice Routing Solution</li>
+  <li>Address Book Service in Lync Server 2010</li>
+</ul>
+<p><strong>Module 7: Creating a Network Design for Lync Server 2010</strong> - This module explains how to calculate the expected bandwidth usage, and design and implement a Call Admission Control solution.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning for Media Requirements</li>
+  <li>Planning for Bandwidth Based on Usage</li>
+  <li>Planning for Call Admission Control</li>
+  <li>Designing Call Admission Control</li>
+</ul>
+<p><strong>Module 8: Designing Response Group Services</strong> - This module explains how to assess the requirements for and design Response Group Services for advanced scenarios. This module includes a review of the Response Group Services features and functionality.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Response Group Services</li>
+  <li>Planning for Response Group Services</li>
+  <li>Designing Response Group Services</li>
+</ul>
+<p><strong>Module 9: Designing Location Services in Lync Server 2010</strong> - This module explains how to assess the requirements for Emergency Services and how to plan for, and design Emergency Services in Lync Server 2010. This module discusses location information from an international perspective.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning for Location Services</li>
+  <li>Designing Location Services</li>
+</ul>
+<p><strong>Module 10: Designing Exchange Server Unified Messaging Integration with Lync Server 2010</strong> - This module explains how to evaluate the business requirements for an Exchange 2010 voice mail solution. This module describes how to design an integrated solution that includes both Exchange Server Unified Messaging and Lync Server 2010.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Exchange Server 2010 Unified Messaging</li>
+  <li>Planning a Voice Mail Solution for Lync Server 2010</li>
+  <li>Designing a Voice Mail Solution for Lync Server 2010</li>
+</ul>
+<p><strong>Module 11: Designing Resiliency</strong> - This module explains how to plan and design resiliency for Lync Server 2010 deployment with IM, Presence, Conferencing, and Voice.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning Site Resiliency</li>
+  <li>Designing Site Resiliency</li>
+  <li>Designing System Monitoring</li>
+</ul>
+<p><strong>Module 12: Designing Backup and Disaster Recovery</strong> - This module explains how to design backup and disaster recovery for Lync Server 2010.</p>
+<p>Lessons</p>
+<ul>
+  <li>Designing a Backup and Restore Strategy</li>
+  <li>Lync Server 2010 Backup and Recovery Considerations</li>
+</ul>
+<p><strong>Module 13: Designing Monitoring and Archiving</strong> - This module explains how to design monitoring and archiving server topologies for Lync Server 2010.</p>
+<p>Lessons</p>
+<ul>
+  <li>Designing Monitoring Server Topology</li>
+  <li>Designing Archiving Server Topology</li>
+</ul>
+<p><strong>Module 14: Planning a Migration to Lync Server 2010</strong> - This module explains how to analyze the current infrastructure and plan a Lync Server 2010 design and based on that design a coexistence and migration strategy for existing voice infrastructure and Office Communications Server 2007 R2. This module describes a migration strategy for clients and devices.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Coexistence and Migration</li>
+  <li>Designing a Migration Strategy</li>
+  <li>Planning for Clients and Devices</li>
+  <li>Designing a Client Migration and Device Migration Strategy</li>
+</ul>

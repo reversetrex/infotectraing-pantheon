@@ -1,0 +1,14 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Deploy and manage Exchange Server 2013.</li>
+  <li>Plan and configure the Mailbox server role.</li>
+  <li>Manage recipient objects, address policies, and address lists in Exchange Server 2013.</li>
+  <li>Plan and implement the Client Access server role in Exchange Server 2013.</li>
+  <li>Securely plan and configure Microsoft Outlook Web App and mobile messaging using the Client Access server.</li>
+  <li>Understand and manage highly available Client Access servers in Exchange Sever 2013.</li>
+  <li>Plan for disaster mitigation, implement back up and recovery for Exchange Server 2013.</li>
+  <li>Plan and configure message transport in an Exchange Server 2013 organization.</li>
+  <li>Plan message security options, implement an antivirus solutions, and implement an anti-spam solution.</li>
+  <li>Configure permissions and secure Exchange Server 2013.</li>
+  <li>Monitor, maintain, and troubleshoot an Exchange Server 2013 environment.</li>
+</ul>

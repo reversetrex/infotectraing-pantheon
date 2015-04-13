@@ -1,0 +1,32 @@
+<p> After completing this course the student should be able to:</p>
+<ul><li> Describe the features and benefits of implementing IPv6 </li>
+  <li> Describe the operation of IPv6 including neighbor discovery </li>
+  <li> Describe Cisco IOS IPv6 features set </li>
+  <li> Describe the integration and coexistence strategies available for deploying IPv6 </li>
+  <li> Design and deploy appropriate mechanism for the implementation of IPv6 networks </li>
+  <li> Describe, implement, and configure, and maintain: </li>
+  <li> IPv6 addressing and auto-configuration features </li>
+  <li> IPv6 services such as Extended ACL in IPv6 networks </li>
+  <li> Routing protocols (RIPv6, I / IS-IS, BGP4+) in IPv6 networks </li>
+  <li> Appropriate IPv6 Transition mechanisms such as tunnels and NAT-PT</li>
+  <li> Identify IPv6 Data Link Layer Protocols </li>
+  <li> Identify IPv6 Integration Methods </li>
+  <li>Configuring Advanced ACLs in an IPv6 Environment </li>
+  <li> Identify DNS in an IPv6 Environment </li>
+  <li> Implement DHCPv6 Prefix Delegation </li>
+  <li> Renumber an IPv6 Network </li>
+  <li> Implement Dual Stack for IP Network </li>
+  <li> Describe IPv6 Tunneling Mechanisms </li>
+  <li> Identify Other Protocol Transition Mechanisms </li>
+  <li> Identifying Security and Transition Issues in an IPv6 Environment </li>
+  <li> Describe IPv6-enable Routing Protocols </li>
+  <li> Implement Multicasting in and IPv6 Network </li>
+  <li> Deploy IP over IPv6 Tunnel </li>
+  <li> Mobile IP </li>
+  <li> Multicasting (new labs to be provided) </li>
+  <li> Identify Multihoming Issues </li>
+  <li> Manage IPv6 Services </li>
+  <li> Troubleshoot an IPv6 Network </li>
+  <li> Identify IPv6 SP Deployment Strategies </li>
+  <li> Identify IPv6 Enterprise Deployment Strategies </li>
+</ul>

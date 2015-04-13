@@ -1,0 +1,52 @@
+<p><strong>Lesson 1: Creating Complex Illustrations</strong> <br />
+  Topic 1A: Create a Custom Shape Using Simple Shapes <br />
+  Topic 1B: Create Compound Paths <br />
+  Topic 1C: Offset Paths <br />
+  Topic 1D: Erase Shapes<br />
+  <br />
+  <strong>Lesson 2: Enhancing Complex Illustrations</strong> <br />
+  Topic 2A: Apply Effects <br />
+  Topic 2B: Create Symbols <br />
+  Topic 2C: Create Custom Brushes <br />
+  Topic 2D: Organize Objects With Layers <br />
+  Topic 2E: Modify Global Colors <br />
+  Topic 2F: Create a Mesh<br />
+  <br />
+  <strong>Lesson 3: Creating a Vector Version of a Raster Graphic</strong> <br />
+  Topic 3A: Open Layered Photoshop Documents <br />
+  Topic 3B: Trace Raster Images Manually <br />
+  Topic 3C: Trace Artwork Automatically <br />
+  Topic 3D: Adjust the Results of Tracing <br />
+  Topic 3E: Apply a Custom Preset <br />
+  Topic 3F: Convert a Traced Object to Paths<br />
+  <br />
+  <strong>Lesson 4: Coloring Artwork</strong> <br />
+  Topic 4A: Apply Color Using Live Paint <br />
+  Topic 4B: Correct Gaps in Objects <br />
+  Topic 4C: Convert Objects to Live Paint Groups <br />
+  Topic 4D: Apply Color Using Live Color<br />
+</p>
+<p><strong>Lesson 5: Creating Special Effects</strong> <br />
+  Topic 5A: Simplify Paths <br />
+  Topic 5B: Create Masks <br />
+  Topic 5C: Create 3D Effects <br />
+  Topic 5D: Create Blends <br />
+  Topic 5E: Share Graphic Styles<br />
+  <br />
+  <strong>Lesson 6: Applying Color Management</strong> <br />
+  Topic 6A: Decide When to Use Color Management <br />
+  Topic 6B: Set Up Color Management<br />
+  <br />
+  <strong>Lesson 7: Outputting Documents</strong> <br />
+  Topic 7A: Create a Crop Area <br />
+  Topic 7B: Preview an Overprint <br />
+  Topic 7C: Print a Composite Proof <br />
+  Topic 7D: Create Color Separations <br />
+  Topic 7E: Create an Adobe PDF File<br />
+  <br />
+  <strong>Lesson 8: Exporting Graphics for the Web and Mobile</strong> <br />
+  Topic 8A: Convert Colors to Web-Safe Colors <br />
+  Topic 8B: Create Slices <br />
+  Topic 8C: Add Interactivity to an SVG File <br />
+  Topic 8D: Export Web Graphics <br />
+  Topic 8E: Preview an Illustration for Mobile Output</p>

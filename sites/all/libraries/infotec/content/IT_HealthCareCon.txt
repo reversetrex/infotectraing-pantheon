@@ -1,0 +1,78 @@
+<p><strong>MODULE 1: Healthcare Fundamentals</strong></p>
+<blockquote>
+    UNIT 1: Code of  Conduct<br />
+    UNIT 2: Organizational Structure<br />
+    UNIT 3: Medical  Roles<br />
+    UNIT 4: Medical  Departments<br />
+    UNIT 5: Basic  clinical terms<br />
+    UNIT 6: Medical  interfaces fundamentals
+</blockquote>
+
+<p><strong>MODULE 2: Computer/Peripherials</strong></p>
+<blockquote>
+	UNIT 1: Types of  computers<br />
+    UNIT 2: Internal PC components<br />
+    UNIT 3: Peripheral Devices<br />
+    UNIT 4: Peripheral Device Connections and Cables<br />
+    UNIT 5: Troubleshooting the Computer<br />
+    UNIT 6: Technical Roles<br />
+</blockquote>
+
+<p><strong>MODULE 3: Network Foundations</strong></p>
+<blockquote>
+	UNIT 1: OSI  Model<br />
+    UNIT 2: Network  Devices<br />
+    UNIT 3: Network  Protocols<br />
+    UNIT 4: Intranet<br />
+    UNIT 5: Internet<br />
+    UNIT 6: Wireless  Connectivity<br />
+    UNIT 7: Network  &amp; Business Communications<br />
+    UNIT 8: Network  Troubleshooting<br />
+</blockquote>
+
+<p><strong>MODULE 4: Healthcare Environment</strong></p>
+<blockquote>
+	UNIT 1: Healthcare Devices<br />
+    UNIT 2: Clinical environment aspects<br />
+    UNIT 3: Healthcare Software Modules<br />
+</blockquote>
+
+<p><strong>MODULE 5: Medical Interfaces</strong></p>
+<blockquote>
+	UNIT 1: HL7<br />
+    UNIT 2: ePrescribing<br />
+    UNIT 3: Billing<br />
+</blockquote>
+
+<p><strong>MODULE 6: Clinical Software and Change Control</strong></p>
+<blockquote>
+	UNIT 1: Clinical Software and problems<br />
+    UNIT 2: Change control best practices<br />
+</blockquote>
+
+<p><strong>MODULE 7: Document Storage and Management</strong></p>
+<blockquote>
+	UNIT 1: Storage  Options<br />
+    UNIT 2: Document  Imaging<br />
+</blockquote>
+
+<p><strong>MODULE 8: Security</strong></p>
+<blockquote>
+	UNIT 1: Physical placement of devices<br />
+    UNIT 2: Physical controls and Environmental Factors<br />
+    UNIT 3: Access  Control<br />
+    UNIT 4: Encryption and PKI<br />
+    UNIT 5: Securing  Communication<br />
+    UNIT 6: Securing  Storage<br />
+    UNIT 7: Remote  Access<br />
+    UNIT 8: Wireless  Security<br />
+    UNIT 9: Business Continuity<br />
+    UNIT 10: Healthcare  IT Attack Venues<br />
+</blockquote>
+
+<p><strong>MODULE 9: Regulatory  Requirements</strong></p>
+<blockquote>
+	UNIT 1: Agencies<br />
+    UNIT 2: HIPAA Compliance<br />
+    UNIT 3: Best Practices and Documentation<br />
+</blockquote>

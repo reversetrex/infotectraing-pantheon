@@ -1,0 +1,137 @@
+<strong>2541:</strong><br /><br />
+
+<strong>Unit 1: Connecting to Databases and Reading Data</strong>
+<p>This unit introduces the fundamental skills required to  connect to a database and read data from the database. It describes how to use  ADO.NET data providers to connect to various different kinds of databases, and  how to execute a query that returns a scalar value from the database. It also  describes how to use connection pooling to achieve scalability, and how to  handle connection events and exceptions.</p>
+<strong>Lessons for Unit 1:</strong>
+<ol>
+  <li>What  Is ADO.NET?</li>
+  <li>The  Process for Connecting to a Database and Reading Data</li>
+  <li>What  Is Connection Pooling?</li>
+</ol>
+
+<strong>Unit 2: Querying and Updating Databases by Using Commands</strong>
+<p>This unit describes how to create and run commands that  return a scalar value, return a result set, update data in the database, or  update the schema of the database. It also describes how to create and run  parameterized commands.</p>
+<strong>Lessons for Unit 2:</strong>
+<ol>
+  <li>ADO.NET  Commands</li>
+  <li>The  Process for Passing Parameters into Commands</li>
+  <li>After  completing this unit, students will be able to:</li>
+  <li>List  the different types of ADO.NET commands.</li>
+  <li>Explain  the process for creating and executing parameterized commands.</li>
+  <li>Create  and run query commands.</li>
+  <li>Create  and run parameterized commands.</li>
+  <li>Create  and run update commands.</li>
+</ol>
+
+<strong>Unit 3: Performing Transactional Operations</strong>
+<p>This unit describes how to manage transactions in a .NET  application at the middle tier. It describes how to write ADO.NET code to  start, commit, and rollback local transactions. It also describes how to  specify an appropriate isolation level for a transaction, and how to enlist in distributed  transactions.</p>
+<strong>Lessons for Unit 3:</strong>
+<ol>
+  <li>What  Is a Transaction?</li>
+  <li>The  Process for Managing Local Transactions</li>
+  <li>The  Process for Managing Distributed Transactions</li>
+  <li>Isolation  Levels</li>
+</ol>
+
+<strong>Unit 4: Performing Disconnected Operations Programmatically</strong>
+<p>This unit describes how to create and use DataSets  programmatically. It describes how to create DataSet, DataTable, and DataColumn  objects, how to populate a DataSet manually, and how to load and save data by  using a DataAdapter. It also describes how to create in-memory views on data by  using a DataView.</p>
+<strong>Lessons for Unit 4:</strong>
+<ol>
+  <li>What  Is the ADO.NET Disconnected Model?</li>
+  <li>The  Process for Loading and Saving Data in a DataSet</li>
+  <li>What  Are DataViews?<strong></strong></li>
+</ol>
+
+<strong>2542:</strong><br /><br />
+
+<strong>Unit 1:  Minimizing and Handling Database Operation Conflicts</strong>
+<p>This unit  describes how to minimize data access conflicts, and how to handle these  conflicts when they occur. It describes how to implement optimistic concurrency  in the ADO.NET disconnected model, and how to implement optimistic concurrency  by using the various isolation levels available in SQL Server 2005.</p>
+<strong>Lessons for Unit 1:</strong>
+<ol>
+  <li>Why Do Data Conflicts Arise?</li>
+  <li>Isolation Levels Available in SQL Server 2005</li>
+  <li>Guidelines for Using SQL Server 2005 Isolation Levels</li>
+</ol>
+
+<strong>Unit 2:  Handling Large Objects</strong>
+<p>This unit  describes how to read and write large values efficiently to a SQL Server  database. It describes how to read large binary values and large text values by  using SequentialAccess for a SqlDataReader. It also describes how to write  large binary values and large text values, and how to conserve resources when  writing large values.</p>
+<strong>Lessons for Unit 2:</strong>
+<ol>
+  <li>What Are Binary Large Objects and Character Large Objects?</li>
+  <li>The Process for Reading Large Objects from a Database</li>
+  <li>The Process for Writing Large Objects to a Database<strong></strong></li>
+</ol>
+
+<strong>Unit 3:  Enhancing Database Performance</strong>
+<p>This unit  describes how to enhance database performance by using new features available  in ADO.NET 2.0. The unit describes how to perform asynchronous data operations,  create multiple active result sets, perform batch updates, and perform bulk copies.</p>
+<strong>Lessons for Unit 3:</strong>
+<ol>
+  <li>ADO.NET Enhancements in the .NET Framework 2.0</li>
+  <li>SQL Server Provider Statistics</li>
+  <li>Access multiple result sets concurrently.</li>
+  <li>Perform asynchronous data access operations.</li>
+  <li>Perform a batch update.</li>
+  <li>Perform a bulk data copy.</li>
+</ol>
+
+<strong>Unit 4:  Creating Managed Code Objects for SQL Server 2005</strong>
+<p>This unit  describes how to create database objects for SQL Server 2005 in a .NET  Framework programming language. It describes how to create stored procedures,  triggers, user-defined functions, aggregates, and user-defined types in managed  code. Additionally, it describes how to deploy an assembly that contains  managed objects into SQL Server 2005, and how to declare database objects to  reference the managed objects.</p>
+<strong>Lessons for Unit 4:</strong>
+<ol>
+  <li>The Benefits of Creating Managed Code Objects</li>
+  <li>Demonstration: The Process for Importing an Existing  Assembly into SQL Server 2005</li>
+  <li>Demonstration: The Process for Implementing Managed Code  Objects in SQL Server 2005</li>
+</ol>
+
+<strong>Unit 5:  Querying XML by Using XPath</strong>
+<p>This unit  describes how to use XPath in a .NET Framework application. It describes how to  create an XPathNavigator object on an XML document, and how to locate content  and evaluate expressions by using the XPathNavigator object. Additionally, it  describes how to edit XML data by using the XPathNavigator object.</p>
+<strong>Lessons for Unit 5:</strong>
+<ol>
+  <li>The XPath Data Model</li>
+  <li>The Process for Selecting and Editing XML Data by Using  XPathNavigator</li>
+  <li>The Process for Evaluating XPath Expressions by Using  XPathNavigator</li>
+</ol>
+
+<strong>Unit 6:  Transforming XML by Using XSLT Style Sheets</strong>
+<p>This unit  describes how to transform XML documents in a .NET Framework application. It  introduces how to load an XSLT style sheet in an application, and how to  execute the style sheet to transform an XML document. The unit also describes  how to pass parameters into a style sheet, and how to create and use extension  objects.</p>
+<strong>Lessons for Unit 6:</strong>
+<ol>
+  <li>What Is XSLT?</li>
+  <li>The Process for Executing an XSLT Style Sheet</li>
+  <li>What  Are Extension Objects?</li>
+</ol>
+
+<strong>Unit 5: Performing Disconnected Operations by Using Visual  Studio 2005 Wizards</strong>
+<p>This unit describes how to create typed DataSets,  DataAdapters, and TableAdapters by using the TableAdapter Configuration Wizard  and the Data Source Configuration Wizard in Visual Studio 2005. It also  describes how to write type-safe code to access data in a typed DataSet.</p>
+<strong>Lessons for Unit 5:</strong>
+<ol>
+  <li>Comparing  Untyped DataSets with Typed DataSets</li>
+  <li>What  Are Table Adapters?</li>
+  <li>Demonstration:  Creating a Typed DataSet by Using Visual Studio 2005 Wizards</li>
+</ol>
+
+<strong>Unit 6: Performing XML Operations on Disconnected Data</strong>
+<p>This unit describes how to read and write DataSets in XML  format. It describes how to read and write data only, schema only, or a  combination of the two. It also describes how to read and write a DataSet as a  DiffGram, so that modifications to the data can be retained when the DataSet is  serialized to XML format.</p>
+<strong>Lessons for Unit 6:</strong>
+<ol>
+  <li>XML  Representations of DataSets</li>
+  <li>What  Are DiffGrams?</li>
+  <li>Save  and load DataSet schema information.</li>
+</ol>
+
+<strong>Unit 7:  Reading and  Writing XML Data</strong>
+<p>This unit describes how to use the XmlReader and XmlWriter  classes to serially read and write XML data. It describes how to read elements,  attributes, and text content in an XML document, and perform validation against  an XML schema. It also describes how to create an XML document and write  elements, attributes, namespace declarations, and text content.</p>
+<strong>Lessons for Unit 7:</strong>
+<ol>
+  <li>The  Process for Serially Reading XML Data</li>
+  <li>The  Process for Serially Writing XML Data</li>
+</ol>
+
+<strong>Unit  8: Processing XML Data by Using DOM</strong>
+<p>This unit describes how to process XML data in memory by  using the Document Object Model (DOM). It describes how to load an XML document  into a DOM tree, and validate the XML document against an XML schema. It also  describes how to read existing XML content, modify XML content, and save the  DOM tree to an XML document.</p>
+<strong>Lessons for Unit 8:</strong>
+<ol>
+  <li>What  Is DOM?</li>
+  <li>What  Are DOM Trees?</li>
+  <li>Types  of XML Nodes in a DOM Tree</li>
+</ol>

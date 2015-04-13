@@ -1,0 +1,23 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Introduce the entire SQL Server platform and its major tools. It will cover editions, versions, basics of network listeners, and concepts of services and service accounts.</li>
+  <li>Determine appropriate data types to be used when designing tables, convert data between data types, and create alias data types.</li>
+  <li>Be aware of good design practices regarding SQL Server tables and be able to create tables using T-SQL. (Note: partitioned tables are not covered).</li>
+  <li>Implement PRIMARY KEY, FOREIGN KEY, DEFAULT, CHECK and UNIQUE constraints, and investigate cascading FOREIGN KEY constraints.</li>
+  <li>Determine appropriate single column and composite indexes strategies.</li>
+  <li>Create tables as heaps and tables with clustered indexes. Also consider the design of a table and suggest an appropriate structure.</li>
+  <li>Read and interpret details of common elements from execution plans.</li>
+  <li>Design effective non-clustered indexes.</li>
+  <li>Design and implement views</li>
+  <li>Design and implement stored procedures.</li>
+  <li>Work with table types, table valued parameters and use the MERGE statement to create stored procedures that update data warehouses.</li>
+  <li>Design and implement functions, both scalar and table-valued. (Also describe where they can lead to performance issues).</li>
+  <li>Perform basic investigation of a deadlock situation and learn how transaction isolation levels affect application concurrency.</li>
+  <li>Use both traditional T-SQL error handling code and structured exception handling.</li>
+  <li>Design and implement DML triggers</li>
+  <li>Learn appropriate uses for SQL CLR integration and implement an existing .NET assembly within SQL Server.</li>
+  <li>Store XML data and schemas in SQL Server.</li>
+  <li>Perform basic queries on XML data in SQL Server.</li>
+  <li>Work with the GEOGRAPHY and GEOMETRY data types</li>
+  <li>Implement and query a full-text index.</li>
+</ul>

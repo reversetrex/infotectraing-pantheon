@@ -1,0 +1,1 @@
+<p> This course is intended for experienced database professionals currently implementing and administering non Microsoft enterprise database management systems who need to expand their database skill-set to SQL Server 2005. </p>

@@ -1,0 +1,143 @@
+<h2>The ADA and Disability Law Course Session 1</h2>
+  <h3>Section A: Knowing the ADA</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Introduction</li>
+    <li>What is the ADA?</li>
+    <li>Conversation</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: The ADA and Hiring</h3>
+  <ul>
+    <li>Compliance</li>
+    <li>Conversation</li>
+    <li>Job Descriptions</li>
+    <li>Hiring Right</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Living with the ADA</h3>
+  <ul>
+    <li>Accommodation</li>
+    <li>Improving Productivity</li>
+    <li>Assessment</li>
+  </ul>
+<h2>Successful Hiring Course Session 1</h2>
+  <h3>Section A: Knowing the Law</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Objectives</li>
+    <li>Introduction</li>
+    <li>Hiring Right</li>
+    <li>Conversation</li>
+    <li>Playing by the Rules</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Describing the Job</h3>
+  <ul>
+    <li>Efficiency and Productivity</li>
+    <li>Conversation</li>
+    <li>Putting it on Paper</li>
+    <li>Conversation</li>
+    <li>Getting the Word Out</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Interviewing Right</h3>
+  <ul>
+    <li>Preparation</li>
+    <li>Interview Questions</li>
+    <li>Face to Face</li>
+    <li>Conversation</li>
+    <li>Do's and Don'ts</li>
+    <li>Assessment</li>
+  </ul>
+<h2>Successful Termination Course Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>Objectives</li>
+    <li>The Productive Team</li>
+    <li>A Positive Process</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Knowing the Law</h3>
+  <ul>
+    <li>Employment Relationship</li>
+    <li>Conversation</li>
+    <li>Salvaging the Job</li>
+    <li>Listen Up</li>
+    <li>Rightful Termination</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Applying the Law</h3>
+  <ul>
+    <li>Progressive Discipline</li>
+    <li>What Went Wrong?</li>
+    <li>The Discharge Discussion</li>
+    <li>Perspectives</li>
+    <li>Strategies for Success</li>
+    <li>Assessment</li>
+  </ul>
+<h2>Preventing Sexual Harassment in the Workplace Course Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Welcome</li>
+    <li>Mandatory Training Requirements</li>
+    <li>Using this Program</li>
+    <li>Learning Objectives</li>
+    <li>Self-Assessment</li>
+  </ul>
+  <h3>Section B: Knowing the Law</h3>
+  <ul>
+    <li>Quick Facts</li>
+    <li>Civil Rights Act of 1964 (Title Vll)</li>
+    <li>Mistakes to Avoid</li>
+    <li>Meet the Characters</li>
+    <li>EEOC</li>
+    <li>Quid Pro Quo Harassment</li>
+    <li>Hostile Work Environment</li>
+    <li>Interactive Review</li>
+  </ul>
+  <h3>Section C: Knowing Your Rights and Responsibilities</h3>
+  <ul>
+    <li>The Problem of Sexual Harassment</li>
+    <li>Interactive Review</li>
+    <li>The Supervisor's Role</li>
+    <li>Employee Rights</li>
+    <li>Employer Responsibilities</li>
+    <li>Three Hostile Cases</li>
+    <li>E-Mail Use and Abuse</li>
+    <li>Employer Assessment</li>
+  </ul>
+  <h3>Section D: Developing and Enforcing a Policy</h3>
+  <ul>
+    <li>Sexual Harassment Policy</li>
+    <li>Policy Components</li>
+    <li>When to Take Action</li>
+    <li>Staying Alert for Harassment</li>
+    <li>Employer Assessment</li>
+  </ul>
+  <h3>Section E: Responding to Harassment</h3>
+  <ul>
+    <li>Preliminary Steps</li>
+    <li>Investigative Procedures</li>
+    <li>Fair Treatment</li>
+    <li>Resolving the Problem</li>
+    <li>Outcome</li>
+    <li>Interactive Review</li>
+  </ul>
+  <h3>Section F: Expert Tactics</h3>
+  <ul>
+    <li>Communication</li>
+    <li>Eye of the Beholder</li>
+    <li>Defining Harassment</li>
+    <li>Walking the Talk    24/7</li>
+    <li>Responding to Harassment</li>
+    <li>The Bottom Line</li>
+  </ul>
+  <h3>Section G: A Healthy and Productive Workplace</h3>
+  <ul>
+    <li>Suggestions for Success</li>
+    <li>Long-Term Costs of Harassment</li>
+    <li>Tips for Keeping It Positive</li>
+    <li>Final Assessment</li>
+  </ul>

@@ -1,0 +1,18 @@
+<p><strong> Day 1: </strong></p>
+<p> Unit 1: Exploring the Excel Environment<br>
+Unit 2: Working with an Excel Worksheet<br>
+Unit 3: Modifying a Worksheet<br>
+Unit 4: Performing Calculations<br>
+Unit 5: Formatting a Worksheet<br>
+Unit 6: Developing a Workbook<br>
+Unit 7: Printing Workbook Contents<br>
+Unit 8: Customizing Layout</p>
+<p><strong> Day 2: </strong></p>
+<p> Unit 1: Enhancing Workbooks<br>
+Unit 2: Creating Workbooks Using Templates<br>
+Unit 3: Organizing Data Using Tables<br>
+Unit 4: Presenting Data Using Charts<br>
+Unit 5: Analyzing Data Using PivotTables and PivotCharts<br>
+Unit 6: Enhancing Visual Appeal Using Graphic Objects<br>
+Unit 7: Calculating Data with Advanced Formulas<br>
+Unit 8: Sorting and Filtering Data</p>

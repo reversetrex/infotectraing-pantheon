@@ -1,0 +1,32 @@
+<h2>Session 1</h2>
+  <h3>Section A: Better Business Communication</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: The Meeting</h3>
+  <ul>
+    <li>Before the Meeting</li>
+    <li>During the Meeting</li>
+    <li>Leading the Meeting</li>
+    <li>Decisions and Actions</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: The Memo</h3>
+  <ul>
+    <li>Business Communication</li>
+    <li>Your Audience</li>
+    <li>Brainstorming, Organizing, and Editing</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: The Presentation</h3>
+  <ul>
+    <li>The Introduction</li>
+    <li>Getting Attention</li>
+    <li>Nonverbal</li>
+    <li>Your Voice</li>
+    <li>Dealing with Questions</li>
+    <li>Successful Communication</li>
+    <li>Conclusion</li>
+  </ul>

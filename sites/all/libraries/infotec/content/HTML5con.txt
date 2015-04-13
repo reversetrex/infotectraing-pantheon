@@ -1,0 +1,35 @@
+<p><strong>Lesson 1: Creating a Basic Web Page</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Describe the Basic Concepts of the Web</li>
+  <li><strong>Topic 1B: </strong>Create a Basic Web Page</li>
+  <li><strong>Topic 1C: </strong>Format a Web Page</li>
+  <li><strong>Topic 1D: </strong>Create Lists</li>
+</ul>
+
+<p><strong>Lesson 2: Structuring Content</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Create Headers and Footers</li>
+  <li><strong>Topic 2B: </strong>Categorize Text</li>
+</ul>
+
+<p><strong>Lesson 3: Applying Styles Using CSS</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Enhance Text</li>
+  <li><strong>Topic 3B: </strong>Format Lists</li>
+  <li><strong>Topic 3C: </strong>Modify the Page Background</li>
+  <li><strong>Topic 3D: </strong>Apply Background Properties to Images</li>
+</ul>
+
+<p><strong>Lesson 4: Working with Tables</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Create a Table</li>
+  <li><strong>Topic 4B: </strong>Modify a Table Structure</li>
+  <li><strong>Topic 4C: </strong>Format a Table Using CSS</li>
+</ul>
+
+<p><strong>Lesson 5: Navigating a Website</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Create Links</li>
+  <li><strong>Topic 5B: </strong>Create Image and Email Links</li>
+  <li><strong>Topic 5C: </strong>Format Links Using CSS</li>
+</ul>

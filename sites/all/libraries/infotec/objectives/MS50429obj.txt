@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to explore the following tools:</p>
+<ul>
+  <li>Business  Intelligence Center</li>
+  <li>Analysis Services</li>
+  <li>Excel Services</li>
+  <li>Business Connectivity  Services</li>
+  <li>Visio Services</li>
+  <li>Access Services</li>
+  <li>Power Pivot</li>
+  <li>Performance Point</li>
+  <li>Bing Maps</li>
+</ul>

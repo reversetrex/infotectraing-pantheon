@@ -1,0 +1,22 @@
+<p><strong> Day 1: </strong></p>
+<p> Unit 1: Exploring the Word Environment</p>
+<p> Unit 2: Creating a Document</p>
+<p> Unit 3: Editing a Document</p>
+<p> Unit 4: Formatting Text</p>
+<p> Unit 5: Formatting Paragraphs</p>
+<p> Unit 6: Adding Tables</p>
+<p> Unit 7: Enhancing Visual Appeal Using Graphic Objects</p>
+<p> Unit 8: Proofing a Document</p>
+<p> Unit 9: Controlling Page Appearance </p>
+<p><strong> Day 2: </strong></p>
+<p> Unit 1: Managing Lists</p>
+<p> Unit 2: Customizing Tables and Charts</p>
+<p> Unit 3: Customizing Character and Paragraph Formats</p>
+<p> Unit 4: Customizing Styles for Document Elements</p>
+<p> Unit 5: Modifying Pictures</p>
+<p> Unit 6: Creating Customized Graphic Elements</p>
+<p> Unit 7: Structuring Content Using Quick Parts</p>
+<p> Unit 8: Controlling Text Flow</p>
+<p> Unit 9: Automating Tasks</p>
+<p> Unit 10: Automating Document Creation</p>
+ <p>Unit 11: Automating Mail Merges</p>

@@ -1,0 +1,175 @@
+<ol>
+  <li>Configuring the X Window  System, Localization, and Printing</li>
+  <ol type="a">
+    <li>Configuring Basic X  Features</li>
+    <ol type="i">
+      <li>X Server Options for Linux</li>
+      <li>Methods of Configuring X</li>
+      <li>X Configuration Options</li>
+      <li>Obtaining X Display  Information</li>
+    </ol>
+    <li>Configuring X Fonts</li>
+    <ol type="i">
+      <li>Font Technologies and  Formats</li>
+      <li>Configuring X Core Fonts</li>
+      <li>Configuring a Font Server</li>
+      <li>Configuring  Xft Fonts</li>
+    </ol>
+    <li>Managing GUI Logins</li>
+    <ol type="i">
+      <li>The X GUI Login System</li>
+      <li>Running an XDMCP Server</li>
+      <li>Configuring an XDMCP  Server</li>
+    </ol>
+    <li>Using X for Remote Access</li>
+    <ol type="i">
+      <li>X Client/Server Principles</li>
+      <li>Using Remote X Clients</li>
+    </ol>
+    <li>X Accessibility</li>
+    <ol type="i">
+      <li>Keyboard and Mouse  Accessibility Issues</li>
+      <li>Screen Display Settings</li>
+      <li>Using Additional Assistive  Technologies</li>
+    </ol>
+    <li>Configuring Localization  and Internationalization</li>
+    <ol type="i">
+      <li>Setting Your Time Zone</li>
+      <li>Querying and Setting Your  Locale</li>
+    </ol>
+    <li>Configuring Printing</li>
+    <ol type="i">
+      <li>Conceptualizing the Linux  Printing Architecture</li>
+      <li>Understanding PostScript  and Ghostscript</li>
+      <li>&nbsp;</li>
+      <li>Running a Printing System</li>
+      <li>Configuring CUPS</li>
+      <li>Monitoring and Controlling  the Print Queue</li>
+    </ol>
+  </ol>
+  <li>Administering the System</li>
+  <ol type="a">
+    <li>Managing Users and Groups</li>
+    <ol type="i">
+      <li>Understanding Users and  Groups</li>
+      <li>Configuring User Accounts</li>
+      <li>Configuring Groups</li>
+    </ol>
+    <li>Tuning User and System  Environments</li>
+    <li>Using System Log Files</li>
+    <ol type="i">
+      <li>Understanding <em>syslogd</em></li>
+      <li>Setting Logging Options</li>
+      <li>Manually Logging Data</li>
+      <li>Rotating Log Files</li>
+      <li>Reviewing Log File  Contents</li>
+    </ol>
+    <li>Maintaining the System  Time</li>
+    <ol type="i">
+      <li>Linux Time Concepts</li>
+      <li>Manually Setting the Time</li>
+      <li>Using NTP</li>
+    </ol>
+    <li>Running Jobs in the Future</li>
+    <ol type="i">
+      <li>Understanding the Role of <em>cron</em></li>
+      <li>Creating System <em>cron</em> Jobs</li>
+      <li>Creating User <em>cron </em>Jobs</li>
+      <li>Using <em>at</em></li>
+    </ol>
+  </ol>
+  <li>Configuring Basic  Networking</li>
+  <ol type="a">
+    <li>Understand TCP/IP  Networking</li>
+    <ol type="i">
+      <li>Knowing the Basic  Functions of Network Hardware</li>
+      <li>Investigating Types of  Network Hardware</li>
+      <li>Understanding Network  Packets</li>
+      <li>Understanding Network  Protocol Stacks</li>
+      <li>Knowing TCP/IP Protocol  Type</li>
+    </ol>
+    <li>Understanding Network  Addressing</li>
+    <ol type="i">
+      <li>Using Network Addresses</li>
+      <li>Resolving Hostnames</li>
+      <li>Network Ports</li>
+    </ol>
+    <li>Configuring Linux for a  Local Network</li>
+    <ol type="i">
+      <li>Network Hardware  Configuration</li>
+      <li>Configuring with DHCP</li>
+      <li>Configuring with a Static  IP Address</li>
+      <li>Configuring Routing</li>
+      <li>Using GUI Configuration  Tools</li>
+      <li>Using the <em>ifup</em> and  <em>ifdown</em> Commands</li>
+      <li>Configuring Hostnames</li>
+    </ol>
+    <li>Diagnosing Network  Connections</li>
+    <ol type="i">
+      <li>Testing Basic Connectivity</li>
+      <li>Tracing a Route</li>
+      <li>Checking Network Status</li>
+      <li>Examining Raw Network Traffic</li>
+      <li>Using Additional Tools</li>
+    </ol>
+  </ol>
+  <li>Writing Scripts,  Configuring E-mail, and Using Databases</li>
+  <ol type="a">
+    <li>Managing the Shell  Environment</li>
+    <ol type="i">
+      <li>Reviewing Environment  Variables</li>
+      <li>Understanding Common  Environment Variables</li>
+      <li>Using Aliases</li>
+      <li>Modifying Shell  Configuration Files</li>
+    </ol>
+    <li>Writing Scripts</li>
+    <ol type="i">
+      <li>Beginning a Shell Script</li>
+      <li>Using Commands</li>
+      <li>Using Variables</li>
+      <li>Using Conditional  Expressions</li>
+      <li>Using Loops</li>
+      <li>Using Functions</li>
+    </ol>
+    <li>Managing E-mail</li>
+    <ol type="i">
+      <li>Understanding E-mail</li>
+      <li>Choosing E-mail Software</li>
+      <li>Managing E-mail</li>
+      <li>Securing Your E-mail  Server</li>
+    </ol>
+    <li>Managing Data with SQL</li>
+    <ol type="i">
+      <li>Picking a SQL Package</li>
+      <li>Understanding SQL Basics</li>
+      <li>Using MySQL</li>
+    </ol>
+  </ol>
+  <li>Securing Your System</li>
+  <ol type="a">
+    <li>Administering Network  Security</li>
+    <ol type="i">
+      <li>Using Super Server  Restrictions</li>
+      <li>Disabling Unused Servers</li>
+    </ol>
+    <li>Administering Local  Security</li>
+    <ol type="i">
+      <li>Securing Password</li>
+      <li>Limiting <em>root</em> Access</li>
+      <li>Setting Login, Process,  and Memory Limits</li>
+      <li>Locating SUID/SGID Files</li>
+    </ol>
+    <li>Configuring SSH</li>
+    <ol type="i">
+      <li>SSH Basics</li>
+      <li>Setting SSH Options for  Your System</li>
+      <li>SSH Security  Considerations</li>
+    </ol>
+    <li>Using GPG</li>
+    <ol type="i">
+      <li>Generating and Importing  Keys</li>
+      <li>Encrypting and Decrypting  Data</li>
+      <li>Signing messages and  Verifying Signatures </li>
+    </ol>
+  </ol>
+</ol>

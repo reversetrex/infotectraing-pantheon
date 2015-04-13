@@ -1,0 +1,9 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> create images for use on the web. </li>
+  <li>prepare images to be viewed across different platforms. </li>
+  <li>manage color in a Photoshop image. </li>
+  <li>use the advanced image and video support features available in Photoshop CS2. </li>
+  <li>automate Photoshop tasks. </li>
+  <li>incorporate the use of variables in a Photoshop composition. </li>
+</ul>

@@ -1,0 +1,38 @@
+<p><strong>Lesson 1: Getting Started with Microsoft Office 2013</strong></p>
+<ul>
+  <li>Topic A: Common Features</li>
+  <li>Topic B: Office 2013 and the Cloud</li>
+</ul>
+<p><strong>Lesson 2: Working with Microsoft Word 2013</strong></p>
+<ul>
+  <li>Topic A: Edit a PDF</li>
+  <li>Topic B: Work with Tables</li>
+  <li>Topic C: Embed Video</li>
+  <li>Topic D: Edit Documents</li>
+  <li>Topic E: Read Documents</li>
+</ul>
+<p><strong>Lesson 3: Working with Microsoft Excel 2013</strong></p>
+<ul>
+  <li>Topic A: Streamline Workflow with Templates</li>
+  <li>Topic B: Accelerate Data Insertion with Flash Fill</li>
+  <li>Topic C: Incorporate Charts</li>
+  <li>Topic D: Analyze Data</li>
+</ul>
+<p><strong>Lesson 4: Working with Microsoft PowerPoint 2013</strong></p>
+<ul>
+  <li>Topic A: Apply a Theme from the Start Screen</li>
+  <li>Topic B: Leverage the Enhanced Presenter View</li>
+  <li>Topic C: Collaborate with Colleagues on a Single Presentation</li>
+  <li>Topic D: Incorporate Objects</li>
+</ul>
+<p><strong>Lesson 5: Working with Microsoft Access 2013</strong></p>
+<ul>
+  <li>Topic A: Explore Web Apps</li>
+  <li>Topic B: Utilize Templates</li>
+</ul>
+<p><strong>Lesson 6: Working with Microsoft Outlook 2013</strong></p>
+<ul>
+  <li>Topic A: Navigate Through Mail, Calendars, Contacts, and Tasks</li>
+  <li>Topic B: Connect to Social Networks</li>
+  <li>Topic C: Identify Additional Outlook 2013 Features</li>
+</ul>

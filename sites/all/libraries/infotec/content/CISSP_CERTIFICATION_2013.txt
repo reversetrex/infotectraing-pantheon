@@ -1,0 +1,633 @@
+<h2>CISSP Access Control 2013 Session 1</h2>
+  <h3>Section A: Access Control Basics</h3>
+  <ul>
+    <li>Access Control</li>
+    <li>Least Privilege</li>
+    <li>Accountability</li>
+    <li>Physical Access</li>
+    <li>Administrative Access</li>
+    <li>Logical Access</li>
+  </ul>
+  <h3>Section B: Data Classification</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Classification Criteria</li>
+    <li>Data Responsibility</li>
+    <li>Commercial Data</li>
+    <li>Government Data</li>
+  </ul>
+  <h3>Section C: Access Control Techniques</h3>
+  <ul>
+    <li>Control Types</li>
+    <li>Control Categories</li>
+    <li>Security Labels</li>
+    <li>Discretionary</li>
+    <li>Mandatory</li>
+    <li>Nondiscretionary</li>
+    <li>Access Control Lists</li>
+  </ul>
+  <h3>Section D: Access Control Implementation</h3>
+  <ul>
+    <li>Centralized Authentication</li>
+    <li>RADIUS</li>
+    <li>TACACS</li>
+    <li>Decentralized</li>
+    <li>Hybrid Model</li>
+  </ul>
+  <h3>Section E: Identification and Authentication</h3>
+  <ul>
+    <li>Phases</li>
+    <li>Type 1 Authentication</li>
+    <li>Type 2 Authentication</li>
+    <li>Type 3 Authentication</li>
+    <li>Single Sign-on</li>
+    <li>Kerberos</li>
+    <li>Kerberos Process</li>
+    <li>SESAME</li>
+  </ul>
+  <h3>Section F: Attack and Monitor</h3>
+  <ul>
+    <li>Brute Force</li>
+    <li>Dictionary</li>
+    <li>Denial of Service</li>
+    <li>Spoofing</li>
+    <li>Man-in-the-Middle</li>
+    <li>Access Control Assurance</li>
+    <li>Monitoring</li>
+    <li>Intrusion Detection</li>
+    <li>Penetration Testing</li>
+  </ul>
+<h2>CISSP Business Continuity and Disaster Recovery Planning 2013 Session 1</h2>
+  <h3>Section A: BCP Project Scope</h3>
+  <ul>
+    <li>Industry and Professional Standards</li>
+    <li>Legislative Compliance</li>
+    <li>Overview</li>
+    <li>Organization Analysis</li>
+    <li>Planning Team</li>
+    <li>Resource Requirements</li>
+    <li>Legal Requirements</li>
+  </ul>
+  <h3>Section B: Business Impact Analysis</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Interruption</li>
+    <li>Resource Prioritization</li>
+    <li>Continuity Strategy</li>
+    <li>BCP Approval</li>
+  </ul>
+  <h3>Section C: DRP Planning and Recovery</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Identification</li>
+    <li>Crisis Management</li>
+    <li>Recovery</li>
+    <li>Data Center Alternatives</li>
+    <li>More Alternatives</li>
+    <li>Processing Agreement</li>
+  </ul>
+  <h3>Section D: Recovery Plan</h3>
+  <ul>
+    <li>Emergency Response</li>
+    <li>Data Backup</li>
+    <li>Backup Types</li>
+    <li>Off-site Storage</li>
+    <li>Utilities</li>
+    <li>Logistics</li>
+    <li>Emergency Services</li>
+  </ul>
+  <h3>Section E: Recovery Plan Implementation</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Training</li>
+    <li>Checklist Test</li>
+    <li>Structured Walk-through</li>
+    <li>Simulation Test</li>
+    <li>Parallel Test</li>
+    <li>Full-interruption Test</li>
+  </ul>
+<h2>CISSP Cryptography 2013 Session 1</h2>
+  <h3>Section A: History and Goals</h3>
+  <ul>
+    <li>Ancient History</li>
+    <li>Modern History</li>
+    <li>Confidentiality</li>
+    <li>Integrity</li>
+    <li>Authentication</li>
+    <li>Nonrepudiation</li>
+    <li>Cryptographic Uses</li>
+  </ul>
+  <h3>Section B: Concepts and Methodologies</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Transposition Cipher</li>
+    <li>Substitution Cipher</li>
+    <li>Cipher Categories</li>
+    <li>Cipher Process</li>
+    <li>Symmetric Algorithms</li>
+    <li>Asymmetric Algorithms</li>
+    <li>Message Authentication</li>
+  </ul>
+  <h3>Section C: Cryptographic Algorithms</h3>
+  <ul>
+    <li>Overview</li>
+    <li>DES</li>
+    <li>Triple DES</li>
+    <li>IDEA/Blowfish/Skipjack</li>
+    <li>AES</li>
+    <li>RSA/El Gamal</li>
+    <li>Hashing Algorithms</li>
+    <li>Other Hashing Algorithms</li>
+  </ul>
+  <h3>Section D: Cryptographic Practices</h3>
+  <ul>
+    <li>Digital Signatures</li>
+    <li>Signature Types</li>
+    <li>Key Distribution</li>
+    <li>Steganography</li>
+    <li>PKI</li>
+  </ul>
+  <h3>Section E: System Architecture</h3>
+  <ul>
+    <li>PEM</li>
+    <li>MOSS</li>
+    <li>S/MIME</li>
+    <li>SSL</li>
+    <li>HTTPS</li>
+    <li>SET</li>
+    <li>IPSec</li>
+    <li>ISAKMP</li>
+  </ul>
+  <h3>Section F: Methods of Attack</h3>
+  <ul>
+    <li>Brute Force</li>
+    <li>Known Plaintext</li>
+    <li>Chosen Ciphertext</li>
+    <li>Chosen Plaintext</li>
+    <li>Meet-in-the-Middle</li>
+    <li>Man-in-the-Middle</li>
+    <li>Birthday</li>
+    <li>Replay</li>
+  </ul>
+<h2>CISSP Information Security Governance and Risk Management 2013 Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Why CISSP?</li>
+    <li>Requirements</li>
+    <li>Required Domains</li>
+  </ul>
+  <h3>Section B: The Security Triangle</h3>
+  <ul>
+    <li>Securing the System</li>
+    <li>Confidentiality</li>
+    <li>Integrity</li>
+    <li>Availability</li>
+  </ul>
+  <h3>Section C: Security Management Training</h3>
+  <ul>
+    <li>Information Security Governance</li>
+    <li>Audit Frameworks for Compliance</li>
+    <li>Security Administration</li>
+    <li>Organizational</li>
+    <li>Physical Risks</li>
+    <li>Human Risks</li>
+    <li>Risk Management Terms</li>
+    <li>Risk Management Options</li>
+    <li>Legal Responsibility</li>
+    <li>Risk Assessment Methodologies</li>
+    <li>Risk Assessment Team</li>
+  </ul>
+  <h3>Section D: Risk Assessment</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Cost vs. Benefit</li>
+    <li>Single Loss Expectancy</li>
+    <li>Annual Loss Expectancy</li>
+    <li>Calculating Overall Risk</li>
+    <li>Pros and Cons</li>
+    <li>Qualitative Assessment</li>
+    <li>Selecting Controls</li>
+  </ul>
+  <h3>Section E: Security Policy</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Security Policy Types</li>
+    <li>Standards</li>
+    <li>Guidelines</li>
+    <li>Procedures</li>
+  </ul>
+  <h3>Section F: Job Policies and Training</h3>
+  <ul>
+    <li>Hiring Practices</li>
+    <li>Termination Practices</li>
+    <li>Job Descriptions</li>
+    <li>Job Activities</li>
+    <li>Security Awareness</li>
+    <li>Tailoring Training</li>
+    <li>ISO Responsibilities</li>
+  </ul>
+<h2>CISSP Legal, Regulations, Investigations, and Compliance 2013 Session 1</h2>
+  <h3>Section A: Types of Computer Crime</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Military Attacks</li>
+    <li>Business Attacks</li>
+    <li>Financial Attacks</li>
+    <li>Terrorist Attacks</li>
+    <li>Grudge Attacks</li>
+    <li>Fun Attacks</li>
+    <li>Hacking/Cracking</li>
+  </ul>
+  <h3>Section B: Categories of Law</h3>
+  <ul>
+    <li>Criminal Law</li>
+    <li>Civil Law</li>
+    <li>Admin/Regulatory Law</li>
+    <li>Categories of Law</li>
+    <li>Intellectual Property Law</li>
+    <li>Trade Secrets</li>
+    <li>Copyrights</li>
+    <li>Trademarks</li>
+    <li>Patents</li>
+  </ul>
+  <h3>Section C: Computer Laws</h3>
+  <ul>
+    <li>Technology Threat</li>
+    <li>Government Intervention</li>
+    <li>Fraud and Abuse Act</li>
+    <li>Computer Security Act</li>
+    <li>Amended Security Act</li>
+    <li>Security Reform Act</li>
+    <li>Privacy Acts</li>
+    <li>USA Patriot Act</li>
+    <li>Liability</li>
+  </ul>
+  <h3>Section D: Types of Incidents</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Incident Categories</li>
+    <li>Scanning Incidents</li>
+    <li>Compromise Incidents</li>
+    <li>Malicious Code Incidents</li>
+    <li>DoS Incidents</li>
+  </ul>
+  <h3>Section E: Incident Handling</h3>
+  <ul>
+    <li>Knowledge</li>
+    <li>Response</li>
+    <li>Contain Damage</li>
+    <li>Reporting</li>
+  </ul>
+  <h3>Section F: Investigation and Evidence</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Evidence Handling</li>
+    <li>Evidence Types</li>
+    <li>Evidence Admissibility</li>
+    <li>Search and Seizure</li>
+  </ul>
+  <h3>Section G: Ethics</h3>
+  <ul>
+    <li>Overview</li>
+    <li>(ISC)2 Code of Ethics</li>
+    <li>Ten Commandments</li>
+    <li>RFC 1087</li>
+    <li>Ethics Topics</li>
+    <li>Common Computer Ethics Fallacies</li>
+  </ul>
+<h2>CISSP Operations Security 2013 Session 1</h2>
+  <h3>Section A: Administrative Management</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Duty Separation</li>
+    <li>Least Access</li>
+    <li>Accountability</li>
+    <li>Privacy and Protection</li>
+    <li>Legal Requirements</li>
+    <li>Illegal Activities</li>
+  </ul>
+  <h3>Section B: Operation Controls</h3>
+  <ul>
+    <li>Record Retention</li>
+    <li>Backups</li>
+    <li>Data Removal</li>
+    <li>Antivirus Controls</li>
+    <li>Privileged Functions</li>
+    <li>Resource Protection</li>
+  </ul>
+  <h3>Section C: Auditing</h3>
+  <ul>
+    <li>Audit Procedures</li>
+    <li>Frequency</li>
+    <li>Audit Trails</li>
+    <li>Audit Reporting</li>
+    <li>Sampling</li>
+    <li>Retention</li>
+  </ul>
+  <h3>Section D: Monitoring</h3>
+  <ul>
+    <li>What is Monitoring?</li>
+    <li>Categories</li>
+    <li>Warning Banners</li>
+    <li>Keystroke Monitoring</li>
+    <li>Traffic Analysis</li>
+    <li>Trend Analysis</li>
+    <li>Tools</li>
+    <li>Failure Recognition</li>
+  </ul>
+  <h3>Section E: Intrusion Detection</h3>
+  <ul>
+    <li>Intrusion Prevention</li>
+    <li>IDS Types</li>
+    <li>Penetration Testing</li>
+    <li>Inappropriate Activity</li>
+  </ul>
+  <h3>Section F: Threats and Countermeasures</h3>
+  <ul>
+    <li>Interception</li>
+    <li>Human Factors</li>
+    <li>Fraud and Theft</li>
+    <li>Employee Sabotage</li>
+    <li>Disaster Recovery</li>
+    <li>Hackers</li>
+    <li>Espionage</li>
+    <li>Malicious Code</li>
+  </ul>
+<h2>CISSP Physical (Environmental) Security 2013 Session 1</h2>
+  <h3>Section A: Physical Security Threats</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Threats 1 - 5</li>
+    <li>Threats 6 - 9</li>
+    <li>Threats 10 - 12</li>
+  </ul>
+  <h3>Section B: Facility Requirements</h3>
+  <ul>
+    <li>Security Policy</li>
+    <li>Critical Path Analysis</li>
+    <li>Access Controls</li>
+  </ul>
+  <h3>Section C: Physical Security Controls</h3>
+  <ul>
+    <li>Administrative Controls</li>
+    <li>Fences/Gates</li>
+    <li>Lighting</li>
+    <li>Security Guards/Dogs</li>
+    <li>Keys/Badges</li>
+    <li>Detective Controls/CCTV</li>
+    <li>Restriction/Escorts</li>
+    <li>Technical Controls</li>
+  </ul>
+  <h3>Section D: Environmental Issues</h3>
+  <ul>
+    <li>Power</li>
+    <li>HVAC</li>
+    <li>Water Leakage/Flooding</li>
+    <li>Fire Detection/Suppress</li>
+    <li>Natural Disasters</li>
+  </ul>
+  <h3>Section E: Physical Security</h3>
+  <ul>
+    <li>Fire Safety</li>
+    <li>Physical Access Control</li>
+    <li>Administrative Controls</li>
+    <li>Employee Training</li>
+    <li>Egress Safety</li>
+    <li>Detective Controls</li>
+  </ul>
+<h2>CISSP Security Architecture and Design 2013 Session 1</h2>
+  <h3>Section A: Organization</h3>
+  <ul>
+    <li>Computer Hardware Types</li>
+    <li>CPU</li>
+    <li>RAM</li>
+    <li>ROM</li>
+    <li>Erasable PROM</li>
+    <li>Memory Addressing</li>
+    <li>Cache Memory</li>
+    <li>Virtual Memory</li>
+  </ul>
+  <h3>Section B: Machine Operation</h3>
+  <ul>
+    <li>Hardware/Software</li>
+    <li>Machine Types</li>
+    <li>Execution Cycle</li>
+    <li>Scalar Processors</li>
+    <li>CPU Types</li>
+    <li>Capabilities</li>
+  </ul>
+  <h3>Section C: Operating Modes/Protection Mechanisms</h3>
+  <ul>
+    <li>Operating States</li>
+    <li>Operating Modes</li>
+    <li>Storage Types</li>
+    <li>Layering</li>
+    <li>Abstraction</li>
+    <li>Least Privilege</li>
+    <li>Accountability</li>
+    <li>Definitions</li>
+  </ul>
+  <h3>Section D: Evaluation Criteria</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Orange Book</li>
+    <li>TCSEC</li>
+    <li>Other Criteria</li>
+    <li>International Criteria</li>
+    <li>SEI-CMMI</li>
+  </ul>
+  <h3>Section E: Security Models</h3>
+  <ul>
+    <li>State Machine Model</li>
+    <li>Bell-LaPadula Model</li>
+    <li>Biba Model</li>
+    <li>Clark-Wilson Model</li>
+    <li>Information Flow Model</li>
+    <li>Noninterference Model</li>
+    <li>Graham-Denning Model</li>
+    <li>Harrison-Ruzzo-Ullman Model</li>
+    <li>Brewer-Nash Model</li>
+  </ul>
+  <h3>Section F: Common Flaws and Security Issues</h3>
+  <ul>
+    <li>Covert Channels</li>
+    <li>Initialization State</li>
+    <li>Parameter Checking</li>
+    <li>Maintenance Hooks</li>
+    <li>Programming</li>
+    <li>Timing Issues</li>
+    <li>EMR</li>
+  </ul>
+<h2>CISSP Software Development Security 2013 Session 1</h2>
+  <h3>Section A: Application Issues</h3>
+  <ul>
+    <li>Software Development</li>
+    <li>Application Environments</li>
+    <li>Malicious Code</li>
+    <li>Agents</li>
+    <li>Applets</li>
+    <li>Objects</li>
+  </ul>
+  <h3>Section B: Databases and Warehousing</h3>
+  <ul>
+    <li>Databases</li>
+    <li>Relational Database</li>
+    <li>Record Identification</li>
+    <li>Query Language</li>
+    <li>Data Access Methods</li>
+    <li>Data Warehouses</li>
+    <li>Aggregation</li>
+    <li>Inference</li>
+    <li>Polyinstantiation</li>
+  </ul>
+  <h3>Section C: Data and Information Storage</h3>
+  <ul>
+    <li>Data Handling</li>
+    <li>Data Storage</li>
+    <li>Virtual Memory</li>
+    <li>Information Retrieval</li>
+    <li>Knowledge-based Systems</li>
+    <li>Audit and Assurance Mechanisms</li>
+  </ul>
+  <h3>Section D: System Development Controls</h3>
+  <ul>
+    <li>Coding Controls</li>
+    <li>Development Life Cycle</li>
+    <li>Design</li>
+    <li>Certification</li>
+    <li>Certification Standards</li>
+  </ul>
+  <h3>Section E: Security Development Controls</h3>
+  <ul>
+    <li>Isolation Architecture</li>
+    <li>Administration Controls</li>
+    <li>Design Control</li>
+    <li>System Control</li>
+    <li>Modes of Operation</li>
+    <li>Integrity Levels</li>
+    <li>Service Level Agreement</li>
+  </ul>
+  <h3>Section F: Malicious Code</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Players</li>
+    <li>Viruses</li>
+    <li>Virus Types</li>
+    <li>OS Vulnerability</li>
+    <li>Other Malicious Code</li>
+    <li>Antivirus Protection</li>
+  </ul>
+  <h3>Section G: Methods of Attack</h3>
+  <ul>
+    <li>Brute Force</li>
+    <li>Social Engineering</li>
+    <li>DoS/DDoS</li>
+    <li>Spoofing</li>
+    <li>Pseudo Flaw</li>
+    <li>Buffer Overflow</li>
+    <li>TOC/TOU</li>
+    <li>Rootkits</li>
+  </ul>
+<h2>CISSP Telecommunications and Network Security 2013 Session 1</h2>
+  <h3>Section A: OSI Reference Model</h3>
+  <ul>
+    <li>Protocols</li>
+    <li>Standards Organizations</li>
+    <li>OSI Overview</li>
+    <li>Logical Data Flow</li>
+    <li>Physical Data Flow</li>
+  </ul>
+  <h3>Section B: OSI Layers</h3>
+  <ul>
+    <li>Application Layer</li>
+    <li>Presentation Layer</li>
+    <li>Session Layer</li>
+    <li>Transport Layer</li>
+    <li>Network Layer</li>
+    <li>Data-link Layer</li>
+    <li>Physical Layer</li>
+    <li>TCP/IP Model</li>
+  </ul>
+  <h3>Section C: Media/LAN Topologies</h3>
+  <ul>
+    <li>Twisted Pair</li>
+    <li>Coaxial</li>
+    <li>Fiber Optics</li>
+    <li>Wireless Technologies</li>
+    <li>Star Topology</li>
+    <li>Bus Topology</li>
+    <li>Ring Topology</li>
+    <li>Tree Topology</li>
+    <li>Mesh Topology</li>
+  </ul>
+  <h3>Section D: LAN/WAN/Remote Access</h3>
+  <ul>
+    <li>Ethernet</li>
+    <li>Other Access Methods</li>
+    <li>Signaling Types</li>
+    <li>Network Types</li>
+    <li>Dial-up</li>
+    <li>ISDN</li>
+    <li>DSL</li>
+    <li>Wireless/Cable</li>
+  </ul>
+  <h3>Section E: Remote Access Security</h3>
+  <ul>
+    <li>VPN</li>
+    <li>PPTP</li>
+    <li>IPSec</li>
+    <li>Connection Security</li>
+    <li>User Authentication</li>
+    <li>Node Authentication</li>
+  </ul>
+  <h3>Section F: Network Devices</h3>
+  <ul>
+    <li>Hubs</li>
+    <li>Bridges</li>
+    <li>Switches</li>
+    <li>Routers</li>
+    <li>Gateways</li>
+    <li>Firewalls</li>
+  </ul>
+  <h3>Section G: Firewalls</h3>
+  <ul>
+    <li>1st Generation</li>
+    <li>2nd and 3rd Generation</li>
+    <li>4th and 5th Generation</li>
+    <li>Packet Filtering Router</li>
+    <li>Screened Host</li>
+    <li>Dual-Homed Host</li>
+    <li>Screened Subnet</li>
+  </ul>
+  <h3>Section H: Security Protocols and Services</h3>
+  <ul>
+    <li>TCP/IP</li>
+    <li>Network Layer</li>
+    <li>Transport Layer</li>
+    <li>Application Layer</li>
+    <li>SDLC/HDLC</li>
+    <li>Frame Relay</li>
+    <li>ISDN</li>
+    <li>X.25</li>
+  </ul>
+  <h3>Section I: Security Techniques</h3>
+  <ul>
+    <li>Tunneling</li>
+    <li>Network Monitors</li>
+    <li>Transparency</li>
+    <li>Hash Tools</li>
+    <li>E-mail Security</li>
+    <li>Facsimile Security</li>
+    <li>Voice Communication</li>
+  </ul>
+  <h3>Section J: Common Network Attacks</h3>
+  <ul>
+    <li>Network Abuses</li>
+    <li>ARP</li>
+    <li>DoS/DDoS</li>
+    <li>Flooding</li>
+    <li>Spoofing</li>
+    <li>Spamming</li>
+    <li>Eavesdropping</li>
+    <li>Sniffers</li>
+  </ul>

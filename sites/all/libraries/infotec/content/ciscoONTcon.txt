@@ -1,0 +1,8 @@
+<ul>
+  <li> Describe Network Requirements </li>
+  <li>Describing Cisco VoIP Implementations </li>
+  <li>Introduction to IP QoS </li>
+  <li>Implementing the DiffServ QoS Model </li>
+  <li>Implementing AutoQoS </li>
+  <li>Wireless Security </li>
+</ul>

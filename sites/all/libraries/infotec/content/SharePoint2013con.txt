@@ -1,0 +1,213 @@
+  <h2>Session 1</h2>
+    <h3>Section A: SharePoint 2013</h3>
+    <ul>
+      <li>What is SharePoint?</li>
+      <li>Team Site</li>
+      <li>Navigate SharePoint</li>
+      <li>Quick Launch</li>
+      <li>All Site Content</li>
+    </ul>
+    <h3>Section B: Control Navigation</h3>
+    <ul>
+      <li>Breadcrumb Trails</li>
+      <li>Add Content to Quick Launch</li>
+      <li>Add Content to Site Settings</li>
+      <li>New Navigation Link</li>
+      <li>Change Order</li>
+      <li>Publish Site Quick Launch</li>
+      <li>Content and Structure for Navigation</li>
+    </ul>
+    <h3>Section C: List Items</h3>
+    <ul>
+      <li>Manage List Items</li>
+      <li>Create New List Items</li>
+      <li>Add New Task</li>
+      <li>Add Task to Timeline</li>
+      <li>Add Calendar Items</li>
+      <li>Add New Calendar Event</li>
+      <li>Edit Content</li>
+      <li>Change View</li>
+      <li>Create Announcements</li>
+    </ul>
+    <h3>Section D: Work with Document Libraries</h3>
+    <ul>
+      <li>Uploading Documents</li>
+      <li>Upload Multiple Documents</li>
+      <li>Check Out Documents</li>
+      <li>Check In Documents</li>
+      <li>Check In Other Documents</li>
+    </ul>
+    <h3>Section E: Content Collaboration</h3>
+    <ul>
+      <li>Version List Items</li>
+      <li>Edit Version List</li>
+      <li>Change Document Version</li>
+      <li>Delete List Items</li>
+      <li>Managing List Items</li>
+      <li>Calendar Collaboration</li>
+      <li>Web App Collaboration</li>
+      <li>Spreadsheet Collaboration</li>
+      <li>Create Alerts and Lists</li>
+      <li>Use Ratings</li>
+      <li>Create Personal Views</li>
+    </ul>
+  <h2>Session 2</h2>
+    <h3>Section A: SharePoint Sites</h3>
+    <ul>
+      <li>Building and Managing SharePoint Sites</li>
+      <li>Site Permissions</li>
+      <li>Create a Subsite</li>
+      <li>Create a Subsite: Templates</li>
+      <li>Create a Subsite: Permissions</li>
+      <li>Site Navigation Settings</li>
+      <li>Set Up Groups</li>
+      <li>Create a Publishing Site</li>
+      <li>Creating a SharePoint Sites Summary</li>
+    </ul>
+    <h3>Section B: Create SharePoint Sites</h3>
+    <ul>
+      <li>Modify a SharePoint Site</li>
+      <li>Configure Site Structure</li>
+      <li>Site Settings: Tree View</li>
+      <li>Content Organizer</li>
+      <li>Site Features</li>
+      <li>Content Organizer Continued</li>
+      <li>Content Organizer Rules</li>
+      <li>Manage Site Publishing Features</li>
+      <li>Enable Publishing Features under a Team</li>
+      <li>Team Subsites under Publishing Sites</li>
+      <li>Enable Team Site Collaboration Features</li>
+      <li>Site Features Summary</li>
+    </ul>
+    <h3>Section C: Manage Site Access</h3>
+    <ul>
+      <li>Manage Users and Groups</li>
+      <li>Create a Group</li>
+      <li>Group Permissions</li>
+      <li>Add Users to a Group</li>
+      <li>Manage User Permissions</li>
+      <li>Manage User Access</li>
+      <li>Manage Users and Groups Summary</li>
+    </ul>
+    <h3>Section D: Content Management with Pages</h3>
+    <ul>
+      <li>Manage Pages</li>
+      <li>Create a New Page</li>
+      <li>Change Page Layout</li>
+      <li>Web Part Page</li>
+      <li>Web Part Page Example</li>
+      <li>Publishing Page</li>
+      <li>Team Page vs. Publishing Page</li>
+      <li>Edit a Publishing Page</li>
+      <li>Delete a Page</li>
+    </ul>
+    <h3>Section E: Administrative Tasks</h3>
+    <ul>
+      <li>Perform Administrative Tasks</li>
+      <li>Display User Alerts</li>
+      <li>Recover Assets</li>
+      <li>Site Web Analysis</li>
+      <li>List and Library Reports</li>
+    </ul>
+    <h3>Section F: Understanding Workflows</h3>
+    <ul>
+      <li>Workflows</li>
+      <li>Active Workflows</li>
+      <li>Add and Manage a Workflow</li>
+    </ul>
+  <h2>Session 3</h2>
+    <h3>Section A: Lists and Libraries</h3>
+    <ul>
+      <li>Manage Lists and Libraries</li>
+      <li>Add a Calendar App</li>
+      <li>Add a Document Library</li>
+      <li>Add a Contacts List</li>
+      <li>Document Library Settings</li>
+    </ul>
+    <h3>Section B: Add View Options</h3>
+    <ul>
+      <li>Enable Email Notifications</li>
+      <li>Shortcuts to Mobile Site URL</li>
+      <li>Manage Document Templates</li>
+      <li>Manage List Views</li>
+    </ul>
+    <h3>Section C: Column Management</h3>
+    <ul>
+      <li>Add a Column</li>
+      <li>Create a Site Column</li>
+      <li>Column Options</li>
+      <li>Add a Column to a List</li>
+      <li>Manage Column Properties</li>
+      <li>Column Validation</li>
+      <li>Content Types</li>
+      <li>Associate Content Types</li>
+      <li>Custom Content</li>
+    </ul>
+    <h3>Section D: Work with Content Types</h3>
+    <ul>
+      <li>Document Sets</li>
+    </ul>
+    <h3>Section E: Web Parts</h3>
+    <ul>
+      <li>Add Web Parts</li>
+      <li>Configure Web Parts</li>
+      <li>Importing Web Parts</li>
+      <li>Exporting Web Parts</li>
+      <li>Hide or Remove a Web Part</li>
+    </ul>
+  <h2>Session 4</h2>
+    <h3>Section A: My Site</h3>
+    <ul>
+      <li>Configure My Site</li>
+      <li>Configure My Profile</li>
+      <li>Edit Contact Information</li>
+      <li>Add Colleagues</li>
+      <li>Configure RSS Feeds</li>
+      <li>Colleague Tracker Web Part</li>
+      <li>Select Themes</li>
+    </ul>
+    <h3>Section B: My Site Collaboration</h3>
+    <ul>
+      <li>Update Profile Status</li>
+      <li>Share Pictures</li>
+      <li>Share Documents in My Site</li>
+      <li>Organization Hierarchy</li>
+      <li>Add Web Parts in My Site</li>
+    </ul>
+    <h3>Section C: Notes and Tags</h3>
+    <ul>
+      <li>Add Tags and Notes to Content</li>
+      <li>Add Note and Tag to Library</li>
+      <li>Rate Items</li>
+      <li>Use Tag Clouds</li>
+      <li>Newsfeed Settings</li>
+    </ul>
+    <h3>Section D: Search Administration</h3>
+    <ul>
+      <li>Perform Search Administration</li>
+      <li>Searchable Columns</li>
+      <li>List Searches</li>
+      <li>Site Search Visibility</li>
+      <li>Site Level Searches</li>
+    </ul>
+    <h3>Section E: Search Results</h3>
+    <ul>
+      <li>View Search Results</li>
+      <li>Browse Search Results</li>
+      <li>Search Result Alerts</li>
+      <li>Preview Documents</li>
+      <li>Best Bet Results</li>
+      <li>Query Rules</li>
+      <li>New Query Rule</li>
+    </ul>
+    <h3>Section F: Perform Advanced Searches</h3>
+    <ul>
+      <li>Advanced Searches</li>
+      <li>Boolean Operators</li>
+      <li>Wildcard</li>
+      <li>Advanced Search Settings</li>
+      <li>Content Editor Web Part</li>
+      <li>Properties Search</li>
+      <li>People Search, Phonetic Search</li>
+      <li>Link to Search Center</li>
+    </ul>

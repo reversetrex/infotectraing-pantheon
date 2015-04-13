@@ -1,0 +1,148 @@
+<p><strong>Module 1 / Peripherals and Adapters</strong></p>
+<ul>
+ <li>Safety Procedures</li>
+ <li>Health and Safety Laws</li>
+ <li>Electrical Safety</li>
+ <li>Cable Management</li>
+ <li>Lifting Techniques and Weight Limitations</li>
+ <li>Static Electricity and ESD</li>
+ <li>Implementing an Anti-ESD Service Kit</li>
+ <li>Motherboard Components</li>
+ <li>System Case Types</li>
+ <li>Disassembling a PC</li>
+ <li>Motherboard Layout</li>
+ <li>Bus Architecture</li>
+ <li>Motherboard Components</li>
+ <li>Power Supplies</li>
+ <li>Electrical Circuits</li>
+ <li>Power Supply Unit (PSU)</li>
+ <li>Installing a Power Supply Unit</li>
+ <li>Identifying PC Components</li>
+ <li>Connection Interfaces</li>
+ <li>I/O Ports and Cables</li>
+ <li>Legacy Port Types</li>
+ <li>USB Ports</li>
+ <li>SCSI</li>
+ <li>Display Connectors and Cable Types</li>
+ <li>Audio Connectors</li>
+ <li>Identifying PC Ports</li>
+ <li>Peripherals and Expansion Slots</li>
+ <li>Basic Input Devices</li>
+ <li>Touch Screens and Digitizers</li>
+ <li>Installing and Configuring Peripherals</li>
+ <li>Expansion Bus</li>
+ <li>Adapter Cards</li>
+ <li>Output and Multimedia Devices</li>
+ <li>Display Devices</li>
+ <li>Comparing Display Technologies</li>
+ <li>Video Adapters</li>
+ <li>Audio Devices</li>
+ <li>Multimedia Input Devices</li>
+ <li>Connecting Peripheral Devices</li>
+</ul>
+<p><strong>Module 2 / System Components</strong></p>
+<ul>
+ <li>Mass Storage Devices</li>
+ <li>Hard Drives</li>
+ <li>Host Bus Adapters</li>
+ <li>Installing Disk Drives</li>
+ <li>RAID Removable Storage Devices</li>
+ <li>Optical Disc Storage</li>
+ <li>Flash Memory</li>
+ <li>Floppy Drives</li>
+ <li>Tape Drives</li>
+ <li>Adding Storage Devices</li>
+ <li>System Memory</li>
+ <li>Memory Types</li>
+ <li>Memory Characteristics</li>
+ <li>Installing and Upgrading Memory</li>
+ <li>Upgrading Memory</li>
+ <li>Processors</li>
+ <li>Central Processing Unit (CPU)</li>
+ <li>CPU Architectures</li>
+ <li>Other CPU Features</li>
+ <li>CPU Packaging</li>
+ <li>Cooling Systems</li>
+ <li>Removing a CPU</li>
+ <li>Installing or Upgrading a CPU BIOS</li>
+ <li>CMOS Setup</li>
+ <li>BIOS Component Information</li>
+ <li>Configuring the Boot Sequence</li>
+ <li>Configuring Onboard Devices</li>
+ <li>BIOS Security</li>
+ <li>Firmware Upgrades</li>
+ <li>Using Built-in Diagnostics</li>
+ <li>CMOS Setup</li>
+ <li>Custom Configuration</li>
+ <li>Configuring Computers for Business</li>
+ <li>Configuring Computers for Home Use</li>
+</ul>
+<p><strong>Module 3 / Laptops and Printers</strong></p>
+<ul>
+ <li>Laptops</li>
+ <li>Portable Computers</li>
+ <li>Laptop Components</li>
+ <li>Upgrading Laptops</li>
+ <li>Power Supplies for Portable Computers</li>
+ <li>Printer Types</li>
+ <li>Printer Types</li>
+ <li>Laser Printers</li>
+ <li>Inkjet Printers</li>
+ <li>Dot Matrix Printers</li>
+ <li>Thermal Transfer Printers</li>
+ <li>Scanners</li>
+ <li>Installing and Configuring Printers</li>
+ <li>Installing and Configuring a Printer</li>
+ <li>Maintaining Printers</li>
+ <li>Routine Maintenance of Laser Printers</li>
+ <li>Maintaining Other Printer Types</li>
+ <li>Installing a Printer</li>
+ <li>Preventive Maintenance</li>
+ <li>Environmental Controls</li>
+ <li>Power Problems</li>
+ <li>MSDS Documentation</li>
+ <li>Disposal and Recycling</li>
+ <li>Cleaning and Preventive Maintenance</li>
+ <li>Professionalism and Communication</li>
+ <li>Customer Service Skills</li>
+ <li>Communication Skills</li>
+ <li>Professionalism</li>
+ <li>Handling Customer Complaints</li>
+ <li>Incident Response Policy</li>
+ <li>Upgrading the Graphics Adapter</li>
+ <li>Removing and Installing FRUs</li>
+</ul>
+<p><strong>Module 4 / Networking Essentials</strong></p>
+<ul>
+ <li>Network Hardware</li>
+ <li>Basic Network Concepts</li>
+ <li>Network Topologies</li>
+ <li>The OSI Model</li>
+ <li>Network Components</li>
+ <li>Twisted-Pair Network Cabling</li>
+ <li>Other Network Cabling Types</li>
+ <li>TCP/IP Essentials</li>
+ <li>TCP/IP</li>
+ <li>Internet Protocol and IP Addressing</li>
+ <li>Configuring TCP/IP</li>
+ <li>IP Version 6</li>
+ <li>TCP and UDP</li>
+ <li>DNS</li>
+ <li>Internet Application Protocols</li>
+ <li>Other TCP/IP Application Protocols</li>
+ <li>Wireless Networking</li>
+ <li>Wireless Networks</li>
+ <li>WLAN Security</li>
+ <li>Configuring an Access Point</li>
+ <li>Wireless Communication Ports</li>
+ <li>Building a Network</li>
+ <li>Internet Access</li>
+ <li>The Internet</li>
+ <li>Accessing the Internet</li>
+ <li>Dial-up Access</li>
+ <li>ISDN</li>
+ <li>xDSL (Digital Subscriber Line)</li>
+ <li>Other Broadband Services</li>
+ <li>Configuring Firewalls</li>
+ <li>Voice-over-IP</li>
+</ul>

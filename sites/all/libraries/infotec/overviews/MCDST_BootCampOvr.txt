@@ -1,0 +1,7 @@
+<p><strong>MS 2261:</strong></p>
+
+<p>This three-day instructor led course is to provide individuals who are new to Microsoft Windows XP with the knowledge and skills necessary to troubleshoot basic problems end users will face while running Microsoft Windows XP Professional in an Active Directory network environment, or Windows XP Home edition in a workgroup environment. This is an introductory course designed to provide an overview of operating system concepts and how to troubleshoot Windows XP.</p>
+
+<p><strong>MS 2262:</strong></p>
+
+<p>This two-day instructor led course is to provide individuals who are new to Microsoft Windows XP with the knowledge and skills necessary to troubleshoot basic problems end users will face related to configuring and maintaining applications such as Microsoft Office, Outlook Express, Internet Explorer and other applications that run on a Microsoft Windows XP Operating System. This is an introductory course designed to provide information on how to troubleshoot applications running on Microsoft Windows XP.</p>

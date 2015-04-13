@@ -1,0 +1,6 @@
+<p> After completing this course the student should be able to: </p>
+<ul>
+  <li> Harden Cisco IP telephony devices, prevent toll fraud, understand cryptographic concepts, and apply cryptography to a Cisco Unified CallManager cluster </li>
+  <li> Make IP video telephony calls with Cisco Unified Video Advantage and describe the basic components and characteristics of video calls and Cisco Unified CallManager configuration parameters that enable video </li>
+  <li> Classify and use system management tools that can be used in a Cisco Unified CallManager environment </li>
+</ul>

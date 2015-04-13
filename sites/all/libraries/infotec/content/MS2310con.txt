@@ -1,0 +1,127 @@
+<p><strong> Unit 1: Overview of the Microsoft .NET Framework and Dynamic Web Sites <br>
+</strong>This Unit explains how to describe .NET Framework and ASP.NET. </p>
+<ul>
+  <li> Overview of the .NET Framework </li>
+  <li>Overview of ASP.NET </li>
+  <li>Overview of the Lab application </li>
+</ul>
+<p><strong> Unit 2: Using Microsoft Visual Studio .NET <br>
+</strong>This Unit explains how to create new projects, and how to use the primary features in Visual Studio .NET. </p>
+<ul>
+  <li> Overview of Visual Studio .NET </li>
+  <li>Creating an ASP.NET Web Application Project </li>
+</ul>
+<p><strong> Unit 3: Using Microsoft .NET Languages <br>
+</strong>This Unit will introduce the various languages that support .NET. This Unit will concentrate on Visual Basic .NET and C#. Students will use Visual Studio .NET to create a class project and write code in either Visual Basic .NET or C#. </p>
+<ul>
+  <li> Overview of the .NET languages </li>
+  <li>Comparison of the .NET languages </li>
+  <li>Writing Visual Basic .NET code </li>
+  <li>Creating a Component Using Visual Basic .NET </li>
+</ul>
+<p><strong> Unit 4: Creating a Microsoft ASP.NET Page <br>
+</strong>This Unit explains how to create and display a ASP.NET page. </p>
+<ul>
+  <li> Creating ASP.NET Web Forms </li>
+  <li>Using Server Controls </li>
+</ul>
+<p><strong> Unit 5: Adding Code to a Microsoft ASP.NET Page <br>
+</strong>This Unit explains how to add event procedures to an ASP.NET page. Examples will be show in Visual Studio .NET and C#. </p>
+<ul>
+  <li> Adding Event Procedures to Server Controls </li>
+  <li>Using Code-Behind Pages </li>
+  <li>Using Page Events </li>
+</ul>
+<p><strong> Unit 6: Debugging <br>
+</strong>This Unit explains how to use the debugger to create breakpoints, set watch variables, and step between pages and components in a Web application. </p>
+<ul>
+  <li> Debugging in Visual Studio .NET </li>
+  <li>Using Tracing </li>
+</ul>
+<p><strong> Unit 7: Validating User Input <br>
+</strong>This Unit explains how to use the client-side and server-side validation controls to screen data. </p>
+<ul>
+  <li> Overview of user input validation </li>
+  <li>Using validation controls </li>
+  <li>Using multiple validation controls </li>
+</ul>
+<p><strong> Unit 8: Creating User Controls <br>
+</strong>This Unit explains user controls and how to create them. </p>
+<ul>
+  <li> Creating user controls </li>
+  <li>Adding user controls to an ASP.NET page </li>
+</ul>
+<p><strong> Unit 9: Accessing Data Using Microsoft Visual Studio .NET <br>
+</strong>This Unit explains a conceptual overview of the objects in ADO.NET. </p>
+<ul>
+  <li> Overview of ADO.NET </li>
+  <li>Creating a connection to the database </li>
+  <li>Displaying a DataSet in a list-bound control </li>
+  <li>Using templates with list-bound controls </li>
+</ul>
+<p><strong> Unit 10: Accessing Data with Microsoft ADO.NET <br>
+</strong>This Unit explains how to manually add data access tools to a Web application. </p>
+<ul>
+  <li> Introduction to using ADO.NET </li>
+  <li>Accessing data with DataSets </li>
+  <li>Using multiple tables </li>
+  <li>Accessing data with DataReaders </li>
+  <li>Securing a SQL Server database </li>
+</ul>
+<p><strong> Unit 11: Calling Stored Procedures with Microsoft ADO.NET <br>
+</strong>This Unit explains how to accomplish complex data access tasks from a Web application. </p>
+<ul>
+  <li> Overview of stored procedures </li>
+  <li>Calling stored procedures </li>
+</ul>
+<p><strong> Unit 12: Reading and Writing XML Data <br>
+</strong>This Unit explains the methods that can be used for reading data from an XML files. </p>
+<ul>
+  <li> Overview of XML architecture in ASP.NET </li>
+  <li>Reading and writing XML to and from DataSet data </li>
+  <li>Working with XML data </li>
+  <li>Displaying XML data </li>
+</ul>
+<p><strong> Unit 13: Building an XML Web Service <br>
+</strong>This Unit explains how to build a XML Web service. </p>
+<ul>
+  <li> Overview of XML Web services <br>
+  Creating an XML Web service </li>
+</ul>
+<p><strong> Unit 14: Using XML Web Services from a Microsoft ASP.NET Page <br>
+</strong>This Unit explains how to call a XML Web service from a Web application and incorporate the returned data into the site. </p>
+<ul>
+  <li> Overview of using XML Web services </li>
+  <li>Calling a XML Web service via HTTP </li>
+  <li>Using proxy to call an XML Web service </li>
+</ul>
+<p><strong> Unit 15: Managing State <br>
+</strong>This Unit explains how to store application and session data by using a variety of methods. </p>
+<ul>
+  <li> State management <br>
+  Using application and session variables <br>
+  Using cookies and cookie-less sessions <br>
+  Using the Cache object</li>
+</ul>
+<p><strong> Unit 16: Configuring a Microsoft ASP.NET Web Application <br>
+</strong>This Unit explains how to configure and deploy an ASP.NET application. </p>
+<ul>
+  <li> Using ASP.NET output caching <br>
+  Configuring an ASP.NET Web application <br>
+  Deploying an ASP.NET Web application </li>
+</ul>
+<p><strong> Unit 17: Securing a Web Application <br>
+</strong>This Unit explains how to secure a Web application by using a variety of technologies. </p>
+<ul>
+  <li> Web application security overview&mdash;Authentications vs. Authorization </li>
+  <li>Windows-based security </li>
+  <li>Forms-based security </li>
+  <li>Microsoft Passport Authentication </li>
+  <li>Securing a XML Web Service </li>
+</ul>
+<p><strong> Unit 18: Review <br>
+</strong>This Unit tests students on many of the ASP.NET skills that they have learned throughout the course. </p>
+<ul>
+  <li> Review of course material. </li>
+  <li>Game </li>
+</ul>

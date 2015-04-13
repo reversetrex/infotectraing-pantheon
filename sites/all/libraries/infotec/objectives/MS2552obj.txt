@@ -1,0 +1,8 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Understand the Windows SharePoint Services architecture and the business benefits provided by deploying Windows SharePoint Services. </li>
+  <li>Enhance collaboration by using Windows SharePoint Services. </li>
+  <li>Install and configure a Windows SharePoint Services server. </li>
+  <li>Administer Windows SharePoint Services servers. </li>
+  <li>Administer Windows SharePoint Services sites. </li>
+</ul>

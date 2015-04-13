@@ -1,0 +1,11 @@
+<p><strong>Module 1: Managing a Windows Server 2008 Network Infrastructure Server Lifecycle</strong> - This module explains how to support and maintain Active Directory  servers to meet changing business requirements in an enterprise environment.</p>
+
+<p><strong>Module 2: Monitoring Windows  Server 2008 Infrastructure Roles</strong> - This module explains how to create baselines using the WRPM and through  analysis, make decisions to improve server performance.</p>
+
+<p><strong>Module 3: Managing Network Access Protection</strong> - This module explains how to create and evaluate a monitoring plan based  on business needs and environments. It also explains how to determine the  health of Active Directory servers using performance monitoring and even log  triggers.</p>
+
+<p><strong>Module 4: Managing Remote Access</strong> - This module explains how to implement the methodology of maintaining  Windows Server 2008 AD DS.</p>
+
+<p><strong>Module 5: Managing and  Maintaining DNS and DHCP Server Roles</strong> - This module explains how to deploy proven methods to harden the Active  Directory servers.</p>
+
+<p><strong>Module 6: Maintaining Security  for Network Servers</strong> - This  module explains how to add non-AD-DS service roles to a Windows Server 2008  network and manage those roles with supplied tools.</p>

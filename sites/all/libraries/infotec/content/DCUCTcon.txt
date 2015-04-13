@@ -1,0 +1,124 @@
+<p><strong>1: Cisco UCS B-Series Troubleshooting</strong></p>
+<ul>
+ <li>Troubleshooting Cisco UCS B-Series Architecture and Initialization
+ <ul>
+   <li>Identify Cisco UCS System Architecture</li>
+   <li>Cisco Troubleshooting Methodology</li>
+   <li>Troubleshoot Cisco UCS System Initialization</li>
+   <li>Gathering Information with Embedded Tools</li>
+   <li>Troubleshoot Cisco UCS Hardware Discovery</li>
+ </ul>
+ </li>
+ <li>Troubleshooting Cisco UCS B-Series Configuration
+ <ul>
+   <li>Understand Cisco UCS System Configuration</li>
+   <li>Understand Cisco UCS Server Deployment Configuration</li>
+   <li>Troubleshoot Cisco UCS Server Deployment</li>
+   <li>Troubleshoot Cisco UCS Management Configuration</li>
+   <li>Cisco UCS System Password Recovery</li>
+ </ul>
+ </li>
+ <li>Troubleshooting Cisco UCS B-Series Operation
+ <ul>
+   <li>Cisco UCS System Power Management</li>
+   <li>Troubleshoot UCS Manager Remote Access</li>
+   <li>Troubleshoot Cisco UCS B-Series Server Boot</li>
+   <li>Troubleshoot Operating System Software Drivers</li>
+ </ul>
+ </li>
+ <li>Troubleshooting Cisco UCS B-Series LAN and SAN Connectivity
+ <ul>
+   <li>Understand Cisco UCS B-Series LAN Connectivity</li>
+   <li>Troubleshoot Cisco UCS B-Series LAN Connectivity</li>
+   <li>Troubleshoot Redundant Connectivity</li>
+   <li>Understand Cisco UCS B-Series SAN Connectivity</li>
+   <li>Troubleshoot Cisco UCS B-Series SAN Connectivity</li>
+   <li>Troubleshoot Cisco UCS B-Series SAN Boot</li>
+   <li>Use SPAN for Troubleshooting</li>
+   <li>Verify Packet Flow</li>
+   <li>Troubleshoot Cisco UCS Integration with Virtualization Platform</li>
+ </ul>
+ </li>
+ <li>Troubleshooting and Upgrading Cisco UCS Manager
+ <ul>
+   <li>Identify Firmware Packaging</li>
+   <li>Plan Cisco UCS Firmware Installation</li>
+   <li>Determine Firmware Levels on Cisco UCS Components</li>
+   <li>Perform the Firmware Upgrade Process</li>
+ </ul>
+ </li>
+ <li>Troubleshooting Cisco UCS B-Series Hardware
+ <ul>
+   <li>Identify Defective Hardware</li>
+   <li>Troubleshoot Memory</li>
+ </ul>
+ </li>
+</ul>
+<p><strong>2: Cisco UCS C-Series Troubleshooting</strong></p>
+<ul>
+ <li>Cisco UCS C-Series Architecture and Configuration
+ <ul>
+   <li>Identify Cisco UCS C-Series Architecture</li>
+   <li>Understand Cisco UCS C-Series Configuration</li>
+   <li>Troubleshoot the Cisco UCS CSeries Initialization</li>
+   <li>Cisco UCS C-Series Password Recovery</li>
+ </ul>
+ </li>
+ <li>Troubleshooting Cisco UCS C-Series Hardware and Firmware
+ <ul>
+   <li>Identify the Cisco UCS C-Series Firmware</li>
+   <li>Cisco Host Upgrade Utility</li>
+   <li>Perform the Firmware Upgrade Process</li>
+   <li>Troubleshoot the Cisco UCS CSeries Boot</li>
+   <li>Troubleshoot Memory</li>
+ </ul>
+ </li>
+ <li>Troubleshooting Cisco UCS C-Series LAN and SAN Connectivity
+ <ul>
+   <li>Troubleshoot Cisco UCS C-Series LAN Connectivity</li>
+   <li>Troubleshoot Cisco UCS C-Series SAN Connectivity</li>
+   <li>Troubleshoot Cisco UCS C-Series SAN Boot</li>
+ </ul>
+ </li>
+ <li>Troubleshooting Locally Attached Storage
+ <ul>
+   <li>Identify Cisco UCS C-Series Server RAID Options</li>
+   <li>Cisco UCS C-Series RAID Troubleshooting</li>
+   <li>Troubleshoot Cisco UCS C-Series Server Local Storage</li>
+ </ul>
+ </li>
+ <li>Troubleshooting Operating System-Related Issues
+ <ul>
+   <li>Identify Cisco UCS C-Series Servers Operating System Specifics</li>
+   <li>Troubleshoot Operating System Deployment on Cisco UCS C-Series Servers</li>
+   </ul>
+   </li>
+</ul>
+<p><strong>3: Cisco UCS C-Series Integration Troubleshooting</strong></p>
+<ul>
+ <li>Integrating Cisco UCS C-Series and Cisco UCS Manager
+ <ul>
+   <li>Cisco UCS C-Series Integration Architecture</li>
+   <li>Cisco UCS C-Series to Cisco UCS Manager Integration</li>
+   <li>Verify Cisco UCS C-Series Integration</li>
+ </ul>
+ </li>
+ <li>Troubleshooting Cisco UCS C-Series and Cisco UCS Manager Integration
+ <ul>
+   <li>Troubleshoot FEX Deployment for Integrated Cisco UCS C-Series Server</li>
+   <li>Troubleshoot Integrated Cisco UCS C-Series Server</li>
+ </ul>
+ </li>
+</ul>
+<p><strong>Course Labs</strong></p>
+<ul>
+ <li>Lab 1-1: Cisco UCS Network Baseline Documentation</li>
+ <li>Lab 1-2: Cisco UCS Management and Service Profile Deployment</li>
+ <li>Lab 1-3: Troubleshoot Cisco UCS B-Series Server Boot from SAN</li>
+ <li>Lab 1-4: Troubleshoot LAN Connectivity: Part 1</li>
+ <li>Lab 1-5: Troubleshoot LAN Connectivity: Part 2</li>
+ <li>Lab 1-6: Troubleshoot Failover Connectivity: Part 1</li>
+ <li>Lab 1-7: Troubleshoot Failover Connectivity: Part 2</li>
+ <li>Lab 2-1: Troubleshoot Cisco UCS C-Series Server Boot from SAN</li>
+ <li>Lab 2-2: Troubleshoot Network Connectivity</li>
+</ul>

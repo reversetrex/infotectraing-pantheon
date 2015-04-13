@@ -1,0 +1,128 @@
+<p><strong>Module 1: Introduction to Microsoft SQL Server 2014</strong> - This module introduces the SQL Server platform and major tools. It discusses editions, versions, tools used to query, documentation sources, and the logical structure of databases.</p>
+<p>Lessons</p>
+<ul>
+  <li>The Basic Architecture of SQL Server</li>
+  <li>SQL Server Editions and Versions</li>
+  <li>Getting Started with SQL Server Management Studio</li>
+</ul>
+<p><strong>Module 2: Introduction to T-SQL Querying</strong> - This module introduces Transact SQL as the primary querying language of SQL Server. It discusses the basic structure of T-SQL queries, the logical flow of a SELECT statement, and introduces concepts such as predicates and set-based operations.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introducing T-SQL</li>
+  <li>Understanding Sets</li>
+  <li>Understanding Predicate Logic</li>
+  <li>Understanding the Logical Order of Operations in SELECT statements</li>
+</ul>
+<p><strong>Module 3: Writing SELECT Queries</strong> - This module introduces the fundamentals of the SELECT statement, focusing on queries against a single table.</p>
+<p>Lessons</p>
+<ul>
+  <li>Writing Simple SELECT Statements</li>
+  <li>Eliminating Duplicates with DISTINCT</li>
+  <li>Using Column and Table Aliases</li>
+  <li>Writing Simple CASE Expressions</li>
+</ul>
+<p><strong>Module 4: Querying Multiple Tables</strong> - This module explains how to write queries which combine data from multiple sources in SQL Server. The module introduces the use of JOINs in T-SQL queries as a mechanism for retrieving data from multiple tables.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding Joins</li>
+  <li>Querying with Inner Joins</li>
+  <li>Querying with Outer Joins</li>
+  <li>Querying with Cross Joins and Self Joins</li>
+</ul>
+<p><strong>Module 5: Sorting and Filtering Data</strong> - This module explains how to enhance queries to limit the rows they return, and to control the order in which the rows are displayed. The module also discusses how to resolve missing and unknown results.</p>
+<p>Lessons</p>
+<ul>
+  <li>Sorting Data</li>
+  <li>Filtering Data with a WHERE Clause</li>
+  <li>Filtering with the TOP and OFFSET-FETCH Options</li>
+  <li>Working with Unknown and Missing Values</li>
+</ul>
+<p><strong>Module 6: Working with SQL Server 2014 Data Types</strong> - This module explains the data types SQL Server uses to store data. It introduces the many types of numeric and special-use data types. It also explains conversions between data types, and the importance of type precedence.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introducing SQL Server 2014 Data Types</li>
+  <li>Working with Character Data</li>
+  <li>Working with Date and Time Data</li>
+</ul>
+<p><strong>Module 7: Using DML to Modify Data</strong> - This module describes the use of Transact-SQL Data Manipulation Language to perform inserts, updates, and deletes to your data.</p>
+<p>Lessons</p>
+<ul>
+  <li>Inserting Data</li>
+  <li>Modifying and Deleting Data</li>
+</ul>
+<p><strong>Module 8: Using Built-In Functions</strong> - This module introduces the use of functions that are built in to SQL Server Denali, and will discuss some common usages including data type conversion, testing for logical results and nullability.</p>
+<p>Lessons</p>
+<ul>
+  <li>Writing Queries with Built-In Functions</li>
+  <li>Using Conversion Functions</li>
+  <li>Using Logical Functions</li>
+  <li>Using Functions to Work with NULL</li>
+</ul>
+<p><strong>Module 9: Grouping and Aggregating Data</strong> - This module introduces methods for grouping data within a query, aggregating the grouped data and filtering groups with HAVING. The module is designed to help the student grasp why a SELECT clause has restrictions placed upon column naming in the GROUP BY clause as well as which columns may be listed in the SELECT clause.</p>
+<p>Lessons</p>
+<ul>
+  <li>Using Aggregate Functions</li>
+  <li>Using the GROUP BY Clause</li>
+  <li>Filtering Groups with HAVING</li>
+</ul>
+<p><strong>Module 10: Using Subqueries</strong> - This module will introduce the use of subqueries in various parts of a SELECT statement. It will include the use of scalar and multi-result subqueries, and the use of the IN and EXISTS operators.</p>
+<p>Lessons</p>
+<ul>
+  <li>Writing Self-Contained Subqueries</li>
+  <li>Writing Correlated Subqueries</li>
+  <li>Using the EXISTS Predicate with Subqueries</li>
+</ul>
+<p><strong>Module 11: Using Table Expressions</strong> - This module introduces T-SQL expressions which return a valid relational table, typically for further use in the query. The module discusses views, derived tables, common table expressions and inline table-valued functions.</p>
+<p>Lessons</p>
+<ul>
+  <li>Using Derived Tables</li>
+  <li>Using Common Table Expressions</li>
+  <li>Using Views</li>
+  <li>Using Inline Table-Valued Functions</li>
+</ul>
+<p><strong>Module 12: Using Set Operators</strong> - This module introduces Microsoft SharePoint Server as a platform for BI, and then focuses on building BI dashboards and scorecards with PerformancePoint Services.</p>
+<p>Lessons</p>
+<ul>
+  <li>Writing Queries with the UNION Operator</li>
+  <li>Using EXCEPT and INTERSECT</li>
+  <li>Using APPLY</li>
+</ul>
+<p><strong>Module 13: Using Window Ranking, Offset, and Aggregate Functions</strong> - This module introduces window functions including ranking, aggregate and offset functions. Much of this functionality is new to SQL Server 2012. It will cover the use of T-SQL functions such as ROW_NUMBER, RANK, DENSE_RANK, NTILE, LAG, LEAD, FIRST_VALUE and LAST_VALUE to perform calculations against a set, or window, of rows.</p>
+<p>Lessons</p>
+<ul>
+  <li>Creating Windows with OVER</li>
+  <li>Exploring Window Functions</li>
+</ul>
+<p><strong>Module 14: Pivoting and Grouping Sets</strong> - This module discusses techniques for pivoting data in T-SQL as well to introduce the fundamentals of the GROUPING SETS clause. It will also cover the use of GROUP BY ROLLUP and GROUP BY CUBE syntax in SQL Server.</p>
+<p>Lessons</p>
+<ul>
+  <li>Writing Queries with PIVOT and UNPIVOT</li>
+  <li>Working with Grouping Sets</li>
+</ul>
+<p><strong>Module 15: Executing Stored Procedures</strong> - This module introduces the use of existing stored procedures in a T-SQL querying environment. It discusses the use of EXECUTE, how to pass input and output parameters to a procedure, and how to invoke system stored procedures.</p>
+<p>Lessons</p>
+<ul>
+  <li>Querying Data with Stored Procedures</li>
+  <li>Passing Parameters to Stored Procedures</li>
+  <li>Creating Simple Stored Procedures</li>
+  <li>Working with Dynamic SQL</li>
+</ul>
+<p><strong>Module 16: Programming with T-SQL</strong> - This module provides a basic introduction to T-SQL programming concepts and objects. It discusses batches, variables, control of flow elements such as loops and conditionals, how to create and execute dynamic SQL statements, and how to use synonyms.</p>
+<p>Lessons</p>
+<ul>
+  <li>T-SQL Programming Elements</li>
+  <li>Controlling Program Flow</li>
+</ul>
+<p><strong>Module 17: Implementing Error Handling</strong> - This module introduces the use of error handlers in T-SQL code. It will introduce the difference between compile errors and run-time errors, and will cover how errors affect batches. The module will also cover how to control error handling using TRY/CATCH blocks, the use of the ERROR class of functions, and the use of the new THROW statement.</p>
+<p>Lessons</p>
+<ul>
+  <li>Using TRY / CATCH Blocks</li>
+  <li>Working with Error Information</li>
+</ul>
+<p><strong>Module 18: Implementing Transactions</strong> - This module introduces the concepts of transaction management in SQL Server. It will provide a high-level overview of transaction properties, cover the basics of marking transactions with BEGIN, COMMIT and ROLLBACK.</p>
+<p>Lessons</p>
+<ul>
+  <li>Transactions and the Database Engine</li>
+  <li>Controlling Transactions</li>
+  <li>Isolation Levels</li>
+</ul>

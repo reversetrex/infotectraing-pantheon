@@ -1,0 +1,1 @@
+This three day course will prepare IT professionals for the role of Enterprise Administrator. Students will learn how to design application infrastructure solutions based on Windows Server 2008 to meet varying business and technical requirements.

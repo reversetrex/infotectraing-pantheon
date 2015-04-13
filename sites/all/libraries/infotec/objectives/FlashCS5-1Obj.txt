@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Get started with Flash CS5.</li>
+  <li>Add shapes, color, and lines with drawing and  painting tools.</li>
+  <li>Create symbols and instances.</li>
+  <li>Identify and compare image types.</li>
+  <li>Manipulate objects.</li>
+  <li>Create and modify text and convert text to  shapes.</li>
+  <li>Identify animation tools and features and  create an animation.</li>
+  <li>Enter simple code in  ActionScript and add a code snippet to Flash.</li>
+</ul>

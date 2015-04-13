@@ -1,0 +1,9 @@
+<p> Student will create and modify new databases and their various objects and will maintain data consistency and integrity; improve queries, forms, and reports; and also integrate Microsoft&reg; Office Access&trade; 2007 with other applications. </p>
+<ul>
+  <li> modify the design and field properties of a table to streamline data entry and maintain data integrity. </li>
+  <li> retrieve data from tables using joins. </li>
+  <li> create flexible queries to display specified records, allow for user-determined query criteria, and modify data using queries. </li>
+  <li> enhance the capabilities of a form. </li>
+  <li> customize reports to organize the displayed information and produce specific print layouts. </li>
+  <li> share Access data across other applications. </li>
+</ul>

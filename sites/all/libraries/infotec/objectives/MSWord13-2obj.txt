@@ -1,0 +1,12 @@
+<p>In this course, you will expand your knowledge of Microsoft Word. You will work with tables and charts to organize and summarize data. You will use styles and themes to customize the look of your documents. You will add images and custom graphic elements to your documents to graphically show information. You will add building blocks of information and updatable fields to the document to improve efficiency. You will control how text flows around graphics, between paragraphs, and between pages, and use section, page, and column breaks in your documents. You will use templates to maintain consistency between documents. You will use the mail merge feature to customize and personalize content. Finally, you will create and use macros to automate tasks. You will:</p>
+<ul>
+  <li>Work with tables and charts.</li>
+  <li>Customize formats using styles and themes.</li>
+  <li>Use images in a document.</li>
+  <li>Create custom graphic elements.</li>
+  <li>Insert content using Quick Parts.</li>
+  <li>Control text flow.</li>
+  <li>Use templates.</li>
+  <li>Use mail merge.</li>
+  <li>Use macros.</li>
+</ul>

@@ -1,0 +1,29 @@
+<p><strong>Level 1:</strong></p>
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Identify  basic functions of collaboration technology and Microsoft SharePoint Foundation  2010 team sites.</li>
+  <li>Add and  modify list items and work with list views.</li>
+  <li>Add, edit,  and share documents across libraries and wikis.</li>
+  <li>Communicate  and collaborate with team members.</li>
+  <li>Work  remotely with SharePoint content.</li>
+  <li>Customize  your SharePoint environment.</li>
+  <li>Create a  team site.</li>
+  <li>Perform basic site  administration.</li>
+</ul>
+<p><strong>Level 2:</strong></p>
+<p>Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>Brand a  site collection.</li>
+  <li>Manage  lists in a site collection.</li>
+  <li>Manage  document libraries.</li>
+  <li>Manage form  libraries.</li>
+  <li>Manage  content structures in a site collection.</li>
+  <li>Manage a  workflow.</li>
+  <li>Manage  indexing and searching options.</li>
+  <li>Enable  offline work with SharePoint sites using SharePoint Workspace 2010.</li>
+  <li>Manage a  SharePoint application using Central Administration.</li>
+  <li>Manage user  access.</li>
+  <li>Manage  security options in Microsoft SharePoint Foundation 2010.</li>
+  <li>Manage site  usage.</li>
+  <li>Perform site maintenance.</li>
+</ul>

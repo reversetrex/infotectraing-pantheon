@@ -1,0 +1,11 @@
+<p>By the end of the course, you should understand the features and operation of Horizon View and be able to do the following:</p>
+<ul>
+  <li>Install and configure Horizon View components.</li>
+  <li>Create and manage dedicated and floating desktop pools.</li>
+  <li>Deploy and manage linked-clone virtual desktops.</li>
+  <li>Configure and manage desktops that run in local mode.</li>
+  <li>Configure user profiles with View Persona Management.</li>
+  <li>Configure secure access to desktops through a public network.</li>
+  <li>Use ThinApp to package applications.</li>
+  <li>Entitle applications by using Horizon View.</li>
+</ul>

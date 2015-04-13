@@ -1,0 +1,19 @@
+<ol>
+  <li>Managing Memory</li>
+  <li>Managing Storage &amp; The Segment Advisor</li>
+  <li>Managing Resources</li>
+  <li>Automating Tasks With The Scheduler (Basic)</li>
+  <li>Automating Tasks With The Scheduler (Advanced)</li>
+  <li>Globalization</li>
+  <li>Diagnosing Database Problems</li>
+  <li>Automatic Storage Management</li>
+  <li>Recovery Concepts</li>
+  <li>Oracle Flashback Technology</li>
+  <li>Flashback Database</li>
+  <li>Instance Recovery</li>
+  <li>Configuring RMAN</li>
+  <li>Backup With RMAN</li>
+  <li>RMAN Management With EM</li>
+  <li>User-Managed Recovery Operations</li>
+  <li>Recovery With RMAN</li>
+</ol>

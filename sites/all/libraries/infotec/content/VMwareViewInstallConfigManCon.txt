@@ -1,0 +1,69 @@
+<p><strong>MODULE 1 – Course  Introduction</strong></p>
+<ul type="disc">
+  <li>Introductions and course logistics</li>
+  <li>Course objectives</li>
+</ul>
+<p><strong>MODULE 2 – Introduction  to VMware View</strong></p>
+<ul type="disc">
+  <li>View features and components<strong></strong></li>
+</ul>
+<p><strong>MODULE 3 – View  Connection Server</strong></p>
+<ul type="disc">
+  <li>Installation and configuration</li>
+</ul>
+<p><strong>MODULE 4 – View  Desktops</strong></p>
+<ul type="disc">
+  <li>View Agent</li>
+  <li>PCoIP and other remote display protocols</li>
+  <li>USB redirection and multimedia redirection</li>
+</ul>
+<p><strong>MODULE 5 – View  Client Options</strong></p>
+<ul type="disc">
+  <li>View Client<strong></strong></li>
+  <li>View Client with Local Mode<strong></strong></li>
+  <li>Thin clients<strong></strong></li>
+  <li>Virtual Printing<strong></strong></li>
+</ul>
+<p><strong>MODULE 6 –View  Administrator</strong></p>
+<ul type="disc">
+  <li>Configure automated pools of dedicated and floating desktops<strong></strong></li>
+  <li>Role-based delegated administration<strong></strong></li>
+  <li>Managing ThinApp applications with ViewManager<strong></strong></li>
+  <li>Monitoring the View deployment<strong></strong></li>
+</ul>
+<p><strong>MODULE 7 –  Configuring and Managing Linked Clones</strong></p>
+<ul type="disc">
+  <li>View Composer<strong></strong></li>
+  <li>Deploying and provisioning linked-clone desktops<strong></strong></li>
+  <li>Managing linked-clone desktops<strong></strong></li>
+  <li>Managing persistent disks<strong></strong></li>
+</ul>
+<p><strong>MODULE 8 – Local-Mode  Desktops</strong></p>
+<ul type="disc">
+  <li>Local-mode desktops</li>
+  <li>View Transfer Server and Transfer Server repository</li>
+  <li>Local-mode operations</li>
+</ul>
+<p><strong>MODULE 9 –  Command-Line Tools and Backup Options</strong></p>
+<ul type="disc">
+  <li>Vdmadmin utility<strong></strong></li>
+  <li>Clients in kiosk mode<strong></strong></li>
+  <li>Backing up the View databases<strong></strong></li>
+  <li>Restoring the View databases<strong></strong></li>
+</ul>
+<p><strong>MODULE 10 – Managing  View Security</strong></p>
+<ul type="disc">
+  <li>View security server</li>
+  <li>Network configuration and authentication options</li>
+</ul>
+<p><strong>MODULE 11 – View  Manager Performance and Scalability</strong></p>
+<ul type="disc">
+  <li>Replica connection servers</li>
+  <li>Performance considerations and load balancing</li>
+</ul>
+<p><strong>MODULE 12 – VMware  ThinApp</strong></p>
+<ul type="disc">
+  <li>Using ThinApp to capture applications</li>
+  <li>Deploying and updating ThinApp packages</li>
+  <li>Virtualizing Internet  Explorer 6 for use on a Windows 7 system</li>
+</ul>

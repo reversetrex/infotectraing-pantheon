@@ -1,0 +1,68 @@
+<p><strong>Lesson 1: Getting Started with Microsoft Office 2010</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Customize the User Interface<br />
+    <strong>Topic 1B: </strong>Work with Contextual Tabs<br />
+    <strong>Topic 1C: </strong>Save Files<br />
+    <strong>Topic 1D: </strong>Print Files<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Modifying Documents Using Microsoft Office Word 2010</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Use the Navigation Pane<br />
+    <strong>Topic 2B: </strong>Apply Text Styles<br />
+    <strong>Topic 2C: </strong>Work with SmartArt Graphics<br />
+    <strong>Topic 2D: </strong>Insert Screenshots in a Document<br />
+    <strong>Topic 2E: </strong>Compare Reviewed Documents<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Working with Spreadsheets Using Microsoft Office Excel 2010 </strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Work with Tables in Excel 2010<br />
+    <strong>Topic 3B: </strong>Apply Conditional Formatting<br />
+    <strong>Topic 3C: </strong>Apply a Formula<br />
+    <strong>Topic 3D: </strong>Work with Charts<br />
+    <strong>Topic 3E: </strong>Create Sparklines<br />
+    <strong>Topic 3F: </strong>Work with PivotTables and PivotCharts<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Creating Dynamic Presentations Using Microsoft PowerPoint  2010 </strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Apply Themes<br />
+    <strong>Topic 4B: </strong>Apply Picture Effects to Presentations<br />
+    <strong>Topic 4C: </strong>Applying Animation Effects<br />
+    <strong>Topic 4D: </strong>Add Videos to a Presentation<br />
+    <strong>Topic 4E: </strong>Divide a Presentation into Sections<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Working with Databases Using Microsoft Office Access 2010 </strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Work with Tables<br />
+    <strong>Topic 5B: </strong>Work with Forms<br />
+    <strong>Topic 5C: </strong>Work with Macros<br />
+    <strong>Topic 5D: </strong>Work with Reports<br />
+    <strong>Topic 5E: </strong>Work with External Data<br />
+    <strong>Topic 5F: </strong>Designing a Database for the Web<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Managing Tasks with Microsoft Office Outlook 2010</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 6A: </strong>Manage Mail Messages<br />
+    <strong>Topic 6B: </strong>Locate Information Quickly<br />
+    <strong>Topic 6C: </strong>Share Calendar Information<br />
+    <strong>Topic 6D: </strong>Share Information by Using an Electronic  Business Card<br />
+    <strong>Topic 6E: </strong>Add RSS Feeds Through Outlook 2010<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 7: Sharing Microsoft Office 2010 Files</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 7A: </strong>Protect Files<br />
+    <strong>Topic 7B: </strong>Share Files Using Office Web Apps<br />
+  </p>
+</blockquote>

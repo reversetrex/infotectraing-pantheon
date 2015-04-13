@@ -1,0 +1,346 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Why Windows 7?</li>
+    <li>Compatibility</li>
+    <li>Enhancements</li>
+    <li>Vista Pain Repairs</li>
+    <li>70-680 Exam</li>
+    <li>70-680 Objectives</li>
+    <li>Windows 7 Network</li>
+  </ul>
+  <h3>Section B: Installation Methods</h3>
+  <ul>
+    <li>Previous Installation Methods</li>
+    <li>Current Boot Practices</li>
+    <li>Current Installation Methods</li>
+    <li>Sole Operating Systems</li>
+    <li>Dual Booting</li>
+    <li>Using bcdedit</li>
+    <li>Default Boot Loader</li>
+    <li>Deleting Database Entries</li>
+  </ul>
+  <h3>Section C: Upgrade Methods</h3>
+  <ul>
+    <li>Upgrade Considerations</li>
+    <li>Windows 7 Upgrade Advisor</li>
+    <li>Installing the Advisor</li>
+    <li>Running the Advisor</li>
+    <li>Anytime Upgrade</li>
+  </ul>
+  <h3>Section D: Clean Installation Planning</h3>
+  <ul>
+    <li>Hardware Requirements</li>
+    <li>Booting from a USB Drive</li>
+    <li>Create a Bootable USB Drive</li>
+    <li>Preparing a Network Share</li>
+    <li>Preparing WDS</li>
+  </ul>
+  <h3>Section E: Performing a Clean Install</h3>
+  <ul>
+    <li>Clean Install Process</li>
+    <li>Install Windows 7</li>
+    <li>Initial Setup Tasks</li>
+  </ul>
+  <h3>Section F: Migrating Windows</h3>
+  <ul>
+    <li>Migration Options</li>
+    <li>Wipe-and-Load</li>
+    <li>Side-by-Side</li>
+    <li>Previous Versions</li>
+    <li>Windows Easy Transfer</li>
+    <li>Migrating from XP</li>
+  </ul>
+  <h3>Section G: Image-Based Deployment</h3>
+  <ul>
+    <li>The History of Imaging</li>
+    <li>WIM Files</li>
+    <li>Manual Image Deployment</li>
+    <li>Automated Image Deployment</li>
+    <li>Microsoft Deployment Toolkit</li>
+    <li>Installing MDT 2010</li>
+    <li>The Deployment Workbench</li>
+  </ul>
+  <h3>Section H: Capturing System Images</h3>
+  <ul>
+    <li>Creating a Deployment Share</li>
+    <li>Importing an OS Image</li>
+    <li>Customizing the Share</li>
+    <li>Task Sequencing</li>
+    <li>Updating the Deployment Share</li>
+    <li>Sysprepping</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Manipulating Images</h3>
+  <ul>
+    <li>Deployment Tools</li>
+    <li>DISM tool</li>
+    <li>Mounted Image Directory</li>
+    <li>Image Application Management</li>
+    <li>Image Driver Management</li>
+    <li>Adding Drivers to Images</li>
+    <li>Image Update Management</li>
+  </ul>
+  <h3>Section B: Advanced Imaging Techniques</h3>
+  <ul>
+    <li>WinSIM tool</li>
+    <li>Creating an Answer File</li>
+    <li>VHD File</li>
+    <li>Boot from VHD</li>
+    <li>Working with a VHD</li>
+    <li>Creating a VHD in Disk Management</li>
+  </ul>
+  <h3>Section C: Working with Device Drivers</h3>
+  <ul>
+    <li>Device Drivers</li>
+    <li>Updating Device Drivers</li>
+    <li>Using Device Manager to Update Drivers</li>
+    <li>Disable or Uninstall Drivers</li>
+    <li>Advanced Options</li>
+    <li>Driver Certificate Verification</li>
+    <li>sigverif.exe</li>
+  </ul>
+  <h3>Section D: Hardware Compatibility</h3>
+  <ul>
+    <li>Windows 7 Hardware Compatibility</li>
+    <li>Driver Install Process</li>
+    <li>Installing Vista Drivers</li>
+    <li>Verify Driver Installation</li>
+    <li>Devices and Printers</li>
+    <li>Device Stage</li>
+  </ul>
+  <h3>Section E: Internet Explorer 8</h3>
+  <ul>
+    <li>Compatibility View</li>
+    <li>Security Settings</li>
+    <li>Add-ons and Provider Management</li>
+    <li>InPrivate Filtering</li>
+    <li>InPrivate Mode</li>
+    <li>Certificates</li>
+  </ul>
+  <h3>Section F: Understanding Application Compatibility</h3>
+  <ul>
+    <li>Application Compatibility</li>
+    <li>Compatibility Properties</li>
+    <li>Compatibility Wizard</li>
+    <li>Windows XP Mode</li>
+    <li>Installing / Configuring Windows XP mode</li>
+    <li>16-Bit Example</li>
+    <li>Windows XP Mode Applications</li>
+  </ul>
+  <h3>Section G: Using Application Restrictions</h3>
+  <ul>
+    <li>Application Restrictions</li>
+    <li>Software Restriction Policies</li>
+    <li>AppLocker</li>
+  </ul>
+  <h3>Section H: Understanding IPv4 and IPv6</h3>
+  <ul>
+    <li>Networking in Windows 7</li>
+    <li>The Network Stack</li>
+    <li>IPv4 Addressing</li>
+    <li>Subnet Masks</li>
+    <li>Default Gateways</li>
+    <li>Public vs. Private Addressing</li>
+    <li>Device Naming</li>
+    <li>IPv6</li>
+    <li>IPv6 Benefits</li>
+    <li>IPv6 Address Space</li>
+    <li>IPv6 Address Types</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Configuring IP Protocols</h3>
+  <ul>
+    <li>The Need for Configuration</li>
+    <li>Network Connection Properties</li>
+    <li>IPv4 Properties</li>
+    <li>IPv4 Advanced Settings</li>
+    <li>IPv6 Properties</li>
+    <li>netsh: Net Shell</li>
+    <li>netsh: Interface</li>
+    <li>netsh: IPv4 Interface</li>
+    <li>Setting a Static Address</li>
+    <li>Commands Directly from Command Prompt</li>
+    <li>netsh: IPv6 Interface</li>
+  </ul>
+  <h3>Section B: Managing Networking Configurations</h3>
+  <ul>
+    <li>Wireless Network Connections</li>
+    <li>Preferred Wireless Networks</li>
+    <li>Wireless Security Settings</li>
+    <li>Network Adapters</li>
+    <li>Location Aware Printers</li>
+    <li>Adding Additional Network Adapters</li>
+    <li>Installing the Drivers</li>
+  </ul>
+  <h3>Section C: Windows Firewall</h3>
+  <ul>
+    <li>The Windows Firewall</li>
+    <li>Networking Concepts</li>
+    <li>Configuring Windows Firewall</li>
+    <li>Turning the Firewall On/Off</li>
+    <li>The WFAS Interface</li>
+    <li>Connection Security Rules</li>
+    <li>Firewall Monitoring</li>
+  </ul>
+  <h3>Section D: Remote System Management</h3>
+  <ul>
+    <li>RDC</li>
+    <li>Using RDC</li>
+    <li>Remote Assistance</li>
+    <li>WinRM</li>
+    <li>WinRS</li>
+    <li>Remote PowerShell</li>
+  </ul>
+  <h3>Section E: Updating Windows 7</h3>
+  <ul>
+    <li>Update Operations</li>
+    <li>Configuring via Group Policy Editor</li>
+    <li>Checking for Updates</li>
+    <li>Viewing Update History</li>
+    <li>Roll Back</li>
+  </ul>
+  <h3>Section F: System Event Monitoring</h3>
+  <ul>
+    <li>The Event Viewer</li>
+    <li>Configuring Event Logging</li>
+    <li>Filtering the Log</li>
+    <li>Custom Views</li>
+    <li>Event Subscriptions</li>
+    <li>Assigning Tasks to Events</li>
+    <li>Command Line Event Management</li>
+  </ul>
+  <h3>Section G: System Performance Monitoring</h3>
+  <ul>
+    <li>Performance Analysis</li>
+    <li>Task Manager</li>
+    <li>Resource Monitor</li>
+    <li>Reliability Monitor</li>
+    <li>Performance Monitor</li>
+    <li>Data Collector Sets</li>
+    <li>Reports</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Performance Tuning</h3>
+  <ul>
+    <li>Optimizing Performance</li>
+    <li>TCP Window Size</li>
+    <li>Page File</li>
+    <li>Power Management</li>
+    <li>Advanced Power Settings</li>
+    <li>Adjusting Visual Effects</li>
+    <li>Management of Services</li>
+    <li>Processor Scheduling</li>
+  </ul>
+  <h3>Section B: Managing Storage</h3>
+  <ul>
+    <li>Disk Management</li>
+    <li>Additional Menu Items</li>
+    <li>RAID Arrays</li>
+    <li>RAID</li>
+    <li>Removable Storage</li>
+    <li>The Hard Drive Cache</li>
+    <li>DiskPart</li>
+    <li>Defrag (Command Line)</li>
+    <li>Defrag Report (Command Line)</li>
+    <li>Disk Defragment</li>
+    <li>Disk Cleanup</li>
+  </ul>
+  <h3>Section C: Securing Authentication</h3>
+  <ul>
+    <li>Authentication</li>
+    <li>Troubleshooting Authentication Issues</li>
+    <li>User Accounts</li>
+    <li>Multifactor Authentication</li>
+    <li>User Rights</li>
+    <li>Credential Manager</li>
+    <li>Certificate Manager</li>
+  </ul>
+  <h3>Section D: Sharing Resources</h3>
+  <ul>
+    <li>Folder Virtualization</li>
+    <li>Share Permissions</li>
+    <li>NTFS Permissions</li>
+    <li>Effective Permissions</li>
+    <li>HomeGroup Management</li>
+    <li>Printer Sharing</li>
+  </ul>
+  <h3>Section E: User Rights Management</h3>
+  <ul>
+    <li>User Account Control</li>
+    <li>Configuring User Account Control</li>
+    <li>Group Policy Settings</li>
+    <li>Admin Approval Mode</li>
+    <li>User Rights within Group Policy</li>
+    <li>Profile System Performance</li>
+  </ul>
+  <h3>Section F: Windows 7 Encryption</h3>
+  <ul>
+    <li>Encryption Technologies</li>
+    <li>BitLocker</li>
+    <li>Encrypted File System</li>
+    <li>Recommendations for EFS</li>
+    <li>EFS within Group Policy Mode</li>
+    <li>BitLocker To Go</li>
+    <li>BitLocker Recovery Key</li>
+    <li>BitLocker Options</li>
+    <li>Viewing the BitLocker Recovery Key</li>
+  </ul>
+  <h3>Section G: Remote Connectivity</h3>
+  <ul>
+    <li>NAP</li>
+    <li>VPNs</li>
+    <li>Creating a VPN Connection</li>
+    <li>VPN Settings/Options</li>
+    <li>VPN Reconnect</li>
+    <li>Enabling VPN Reconnect</li>
+    <li>Creating a Dial-Up Connection</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Configuring Mobility Options</h3>
+  <ul>
+    <li>Offline Files</li>
+    <li>Enabling Offline Files</li>
+    <li>Sharing Offline Files</li>
+    <li>Managing Offline Files</li>
+    <li>Migrating Power Configurations</li>
+  </ul>
+  <h3>Section B: Understanding BranchCache</h3>
+  <ul>
+    <li>BranchCache</li>
+    <li>Operating Modes</li>
+    <li>BranchCache Facts</li>
+    <li>Netsh BranchCache</li>
+    <li>Group Policy BranchCache</li>
+  </ul>
+  <h3>Section C: Implementing DirectAccess</h3>
+  <ul>
+    <li>DirectAccess</li>
+    <li>DirectAccess Requirements</li>
+    <li>Group Policy DirectAccess</li>
+    <li>Netsh DirectAccess</li>
+  </ul>
+  <h3>Section D: Backing Up Windows 7</h3>
+  <ul>
+    <li>System Recovery Disc</li>
+    <li>Verifying the System Recovery Disc</li>
+    <li>Full System Backup</li>
+    <li>Scheduling Backups</li>
+  </ul>
+  <h3>Section E: System Restore and Recovery</h3>
+  <ul>
+    <li>System Protection</li>
+    <li>Creating a Restore Point</li>
+    <li>Configure System Protection Settings</li>
+    <li>System Restore</li>
+    <li>Reverting to a Restore Point</li>
+    <li>Last Known Good</li>
+  </ul>
+  <h3>Section F: File Management and Recovery</h3>
+  <ul>
+    <li>Shadow Copies</li>
+    <li>Previous File Versions</li>
+    <li>Copy Previous File Version</li>
+    <li>Restore Previous File Version</li>
+    <li>Scheduling Restore Points</li>
+  </ul>

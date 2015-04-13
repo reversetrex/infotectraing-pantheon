@@ -1,0 +1,72 @@
+<p><strong>Lesson  1: Network Defense Fundamentals</strong></p>
+  Topic  1A: Network Defense <br />
+  Topic  1B: Defensive Technologies <br />
+  Topic  1C: Objectives of Access Control <br />
+  Topic  1D: The Impact of Defense <br />
+  Topic  1E: Network Auditing Concepts<br />
+  
+<p><strong>Lesson  2: Advanced TCP/IP</strong></p>
+  Topic  2A: TCP/IP Concepts <br />
+  Topic  2B: Analyzing the Three-way Handshake <br />
+  Topic  2C: Capturing and Identifying IP Datagrams <br />
+  Topic  2D: Capturing and Identifying ICMP Messages <br />
+  Topic  2E: Capturing and Identifying TCP Headers <br />
+  Topic  2F: Capturing and Identifying UDP Headers <br />
+  Topic  2G: Analyzing Packet Fragmentation <br />
+  Topic  2H: Analyzing an Entire Session<br />
+  
+<p><strong>Lesson  3: Routers and Access Control Lists</strong></p>
+  Topic  3A: Fundamental Cisco Security <br />
+  Topic  3B: Routing Principles <br />
+  Topic  3C: Removing Protocols and Services <br />
+  Topic  3D: Creating Access Control Lists <br />
+  Topic  3E: Implementing Access Control Lists <br />
+  Topic  3F: Logging Concepts<br />
+  
+<p><strong>Lesson  4: Designing Firewalls</strong></p>
+  Topic  4A: Firewall Components <br />
+  Topic  4B: Create a Firewall Policy <br />
+  Topic  4C: Rule Sets and Packet Filters <br />
+  Topic  4D: Proxy Server <br />
+  Topic  4E: The Bastion Host <br />
+  Topic  4F: The Honeypot<br />
+  
+<p><strong>Lesson  5: Configuring Firewalls</strong></p>
+  Topic  5A: Understanding Firewalls <br />
+  Topic  5B: Configuring Microsoft ISA Server 2006 <br />
+  Topic  5C: IPTables Concepts <br />
+  Topic  5D: Implementing Firewall Technologies<br />
+  
+<p><strong>Lesson  6: Implementing IPSec and VPNs</strong></p>
+  Topic  6A: Internet Protocol Security <br />
+  Topic  6B: IPSec Policy Management <br />
+  Topic  6C: IPSec AH Implementation <br />
+  Topic  6D: Combining AH and ESP in IPSec <br />
+  Topic  6E: VPN Fundamentals <br />
+  Topic  6F: Tunneling Protocols <br />
+  Topic  6G: VPN Design and Architecture <br />
+  Topic  6H: VPN Security <br />
+  Topic  6I: Configuring a VPN<br />
+  
+<p><strong>Lesson  7: Designing an Intrusion Detection System</strong></p>
+  Topic  7A: The Goals of an Intrusion Detection System <br />
+  Topic  7B: Technologies and Techniques of Intrusion Detection <br />
+  Topic  7C: Host-based Intrusion Detection <br />
+  Topic  7D: Network-based Intrusion Detection <br />
+  Topic  7E: The Analysis <br />
+  Topic  7F: How to Use an IDS <br />
+  Topic  7G: What an IDS Cannot Do<br />
+  
+<p><strong>Lesson  8: Configuring an IDS</strong></p>
+  Topic  8A: Snort Foundations <br />
+  Topic  8B: Snort Installation <br />
+  Topic  8C: Snort as an IDS <br />
+  Topic  8D: Configuring Snort to Use a Database <br />
+  Topic  8E: Running an IDS on Linux<br />
+  
+<p><strong>Lesson  9: Securing Wireless Networks</strong></p>
+  Topic  9A: Wireless Networking Fundamentals <br />
+  Topic  9B: Wireless LAN (WLAN) Fundamentals <br />
+  Topic  9C: Wireless Security Solutions <br />
+  Topic  9D: Wireless Auditing<br />
+  Topic  9E: Wireless Trusted Networks<br />

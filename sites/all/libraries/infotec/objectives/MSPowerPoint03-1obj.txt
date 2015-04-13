@@ -1,0 +1,11 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li>manipulate an existing PowerPoint presentation.</li>
+  <li>begin creating a presentation.</li>
+  <li>format text slides.</li>
+  <li>add tables to a presentation.</li>
+  <li>chart data in a presentation.</li>
+  <li>modify objects on slides.</li>
+  <li>add images to a presentation.</li>
+  <li>prepare to deliver a presentation.</li>
+</ul>

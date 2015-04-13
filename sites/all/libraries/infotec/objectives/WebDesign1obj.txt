@@ -1,0 +1,13 @@
+Upon successful completion of this course, students will be able to:
+<ul>
+  <li>create a basic web page. </li>
+  <li>structure the content on your web page. </li>
+  <li>apply styles to the page elements. </li>
+  <li>create, modify, and format a table. </li>
+  <li>link web pages.</li>
+  <li>create web page layouts. </li>
+  <li>manage CSS. </li>
+  <li>test a website. </li>
+  <li>create advanced navigation. </li>
+  <li>incorporate meta-content and multimedia.</li>
+</ul>

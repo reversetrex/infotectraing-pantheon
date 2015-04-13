@@ -1,0 +1,82 @@
+<p><strong>Module 1: Implementing IPv4 Services</strong> - This module explains how to plan and troubleshoot IPv4-based networks to ensure a properly functioning network environment.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning IPv4 Addressing</li>
+  <li>Managing and Troubleshooting IPv4 Connectivity</li>
+  <li>Deploying Dynamic Host Configuration Protocol</li>
+  <li>Managing and Troubleshooting DHCP</li>
+</ul>
+<p><strong>Module 2: Implementing Name Resolution by Using DNS</strong> - This module explains how to deploy, configure, manage, and troubleshoot Domain Name System (DNS).</p>
+<p>Lessons</p>
+<ul>
+  <li>Implementing DNS Servers</li>
+  <li>Configuring Zones in DNS</li>
+  <li>Configuring DNS Integration with AD DS</li>
+  <li>Configuring Advanced DNS Settings</li>
+  <li>Configuring DNS Resolution Between Zones</li>
+</ul>
+<p><strong>Module 3: Implementing IPv6</strong> - This module explains how to implement coexistence between IPv4 and IPv6 networks and transition from an IPv4 network to an IPv6 network.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of IPv6 Addressing</li>
+  <li>Implementing IPv6 and IPv4 Coexistence</li>
+  <li>Transitioning from IPv4 to IPv6</li>
+</ul>
+<p><strong>Module 4: Implementing IPAM</strong> - This module explains how to implement and manage the IP Address Management (IPAM) feature in Windows Server 2012 and Windows Server 2012 R2.</p>
+<p>Lessons</p>
+<ul>
+  <li>IPAM Overview</li>
+  <li>Deploying IPAM</li>
+  <li>Managing IP Address Spaces by Using IPAM</li>
+</ul>
+<p><strong>Module 5: Implementing Remote Access</strong> - This module explains how to implement remote access technologies such as DirectAccess, Virtual Private Networks (VPNs) and Web Application Proxy (WAP) in Windows Server 2012 and Windows Server 2012 R2. It also describes the different implementation scenarios for small or medium-sized organizations and enterprise organizations.</p>
+<p>Lessons</p>
+<ul>
+  <li>Remote Access Overview</li>
+  <li>Implementing DirectAccess by Using the Getting Started Wizard</li>
+  <li>Implementing and Managing an Advanced DirectAccess Infrastructure</li>
+  <li>Implementing VPN</li>
+  <li>Planning a Complex Remote Access Infrastructure</li>
+  <li>Implementing Web Application Proxy</li>
+</ul>
+<p><strong>Module 6: Implementing Network Security</strong> - This module explores some of the technologies in Windows Server 2012 and Windows Server 2012 R2 that you can use to help to mitigate these network security threats such as Windows Firewall with Advanced Security, IPSec and connection security rules.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Windows Firewall with Advanced Security</li>
+  <li>Configuring IPsec and Connection Security Rules</li>
+  <li>Implementing Isolation Zones</li>
+</ul>
+<p><strong>Module 7: Implementing Network Access Protection</strong>This module explains how to configure, monitor, and troubleshoot Network Policy Server(NPS) and Network Access protection (NAP).</p>
+<p>Lessons</p>
+<ul>
+  <li>Implementing NPS</li>
+  <li>Network Access Protection Overview</li>
+  <li>Configuring NAP</li>
+  <li>Configuring IPsec Enforcement for NAP</li>
+  <li>Monitoring and Troubleshooting NAP</li>
+</ul>
+<p><strong>Module 8: Implementing Networking for Branch Offices</strong> - This module explains the different ways that you can use Windows Server 2012 and Windows Server 2012 R2 to overcome the limitations of branch office scenarios using technologies such as Distributed File System (DFS) and BranchCache.</p>
+<p>Lessons</p>
+<ul>
+  <li>Networking Features and Considerations for Branch Offices</li>
+  <li>Implementing DFS for Branch Offices</li>
+  <li>Implementing BranchCache for Branch Offices</li>
+</ul>
+<p><strong>Module 9: Implementing Networking Infrastructure for File and Data Services</strong> - This module explains the key network file and data services available in Windows Server 2012 and Windows Server 2012 R2. It also explains how to implement the network file and data services to address the network and remote storage needs of your organization.</p>
+<p>Lessons</p>
+<ul>
+  <li>Implementing iSCSI</li>
+  <li>Implementing High Performance Networking Features</li>
+</ul>
+<p><strong>Module 10: Implementing and Managing Networking in Hyper-V</strong> - This module describes the networking components available in Hyper-V and describes how to configure these components.</p>
+<p>Lessons</p>
+<ul>
+  <li>Creating and Using Hyper-V Virtual Switches</li>
+  <li>Configuring Advanced Hyper-V Networking Features</li>
+</ul>
+<p><strong>Module 11: Virtualizing Your Network Infrastructure</strong> - This module explains the concepts and technologies related to virtualizing a physical network infrastructure in Windows Server 2012 and Windows Server 2012 R2. It also explains how to implement some core components of these technologies such as Hyper-V Network Virtualization(HNV) and the built in software gateway in Windows Server 2012 R2.</p>
+<p>Lessons</p>
+<ul>
+  <li>Implementing Hyper-V Network Virtualization</li>
+  <li>Managing Your Virtualized Network Infrastructure</li>
+</ul>

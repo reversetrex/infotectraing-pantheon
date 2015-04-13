@@ -1,0 +1,13 @@
+<p> At the end of the course, students will be able to: </p>
+<ul>
+  <li> Configure routing by using the Routing and Remote Access service. </li>
+  <li> Allocate IP addressing by using DHCP. </li>
+  <li> Manage and monitor DHCP. </li>
+  <li> Resolve names. </li>
+  <li> Resolve host names by using DNS. </li>
+  <li> Manage and monitor DNS. </li>
+  <li> Resolve network basic input/output system (NetBIOS) names by using WINS. </li>
+  <li> Secure network traffic by using IPSec and certificates. </li>
+  <li> Configure network access. </li>
+  <li>Manage and monitor network access.</li>
+</ul>

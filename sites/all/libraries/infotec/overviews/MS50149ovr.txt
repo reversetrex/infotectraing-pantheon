@@ -1,0 +1,1 @@
+<p>This 5 day deep-dive will guide individuals through the process of architecting and setting up SharePoint 2007 applications and customizations from an Operations viewpoint.</p>

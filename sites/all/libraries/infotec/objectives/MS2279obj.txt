@@ -1,0 +1,13 @@
+<ul>
+  <li> Describe the logical and physical components of Active Directory. </li>
+  <li> Create and configure a forest and domain structure by using an Active Directory infrastructure design. </li>
+  <li> Plan and implement an organizational unit structure. </li>
+  <li> Plan and implement Active Directory user, group, and computer accounts. </li>
+  <li> Plan and implement a Group Policy strategy to centrally manage users and computers in an enterprise. </li>
+  <li> Deploy, manage, and troubleshoot software that is deployed using Group Policy. </li>
+  <li> Implement sites to manage and monitor Active Directory replication. </li>
+  <li> Plan and implement the placement of domain controllers, global catalog servers, and DNS servers that are integrated with Active Directory. </li>
+  <li> Plan and manage operations masters. </li>
+  <li> Back up, restore, and maintain Active Directory. </li>
+  <li> Plan and implement an Active Directory infrastructure that is based on a directory service design that an enterprise architect provides. </li>
+</ul>

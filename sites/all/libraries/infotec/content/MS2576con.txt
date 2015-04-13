@@ -1,0 +1,16 @@
+<p><strong> Unit 1: Introduction to IIS 6.0 <br>
+</strong>This Unit explains the main features of IIS 6.0. In addition, the Unit provides an overview of the request processing, metabase architectures, security model, and the deployment considerations for IIS 6.0. </p>
+<p><strong> Unit 2: Installing IIS 6.0 and Configuring Baseline Security <br>
+</strong>This Unit teaches how to install and configure IIS 6.0. The Unit also teaches how to install the IIS 6.0 software, configure the default Web site, and set baseline security by using the Security Configuration Wizard of Microsoft Windows Server 2003 SP1. </p>
+<p><strong> Unit 3: Implementing Web Server and Web Site Security <br>
+</strong>This Unit explains how to secure an IIS 6.0 Web server and Web sites hosted on a Web server. The Unit also describes the various security techniques students can use for user authentication, authorization, and secure communications. </p>
+<p><strong> Unit 4: Creating Additional Web and FTP Sites <br>
+</strong>This Unit explains how to create additional Web sites and FTP sites. The Unit also explains how to create and manage virtual directories and various methods of hosting multiple Web sites on a single Web server. </p>
+<p><strong> Unit 5: Administering the IIS Metabase <br>
+</strong>This Unit describes the IIS 6.0 metabase structure and explains how to manage the IIS 6.0 metabase. The Unit also explains how to perform backup and recovery of the metabase and how to export and import metabase files. </p>
+<p><strong> Unit 6: Managing Web Sites and Applications <br>
+</strong>This Unit describes the various server-side application infrastructures that IIS 6.0 supports, the requirements and security considerations for running these applications. The Unit also explains how to configure IIS 6.0 to support server-side applications, the benefits of application pools and the guidelines for configuring security, reliability, and performance for application pools. </p>
+<p><strong> Unit 7: Monitoring IIS 6.0 Performance and Security <br>
+</strong>This Unit provides an introduction to the IIS 6.0 logging functionality, and the IIS 6.0 log formats. The Unit also explains how to locate relevant event log data, IIS 6.0 tracing and the auditing of the metabase. </p>
+<p><strong> Unit 8: Migrating Web Sites and Applications from Earlier Versions of IIS <br>
+</strong>This Unit describes the concepts and procedures for migrating. The Unit also explains the differences between migrating and upgrading, how to run the IIS Migration Tool, the advantages and limitations of the tool, and the manual migration process. </p>

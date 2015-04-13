@@ -1,0 +1,6 @@
+<ul>
+  <li> Course Introduction </li>
+  <li>Securing IP telephony </li>
+  <li>Enabling IP video telephony </li>
+  <li>Monitoring and Managing IP telephony </li>
+</ul>

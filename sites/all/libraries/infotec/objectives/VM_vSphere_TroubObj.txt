@@ -1,0 +1,8 @@
+<p><strong>At the end of the course, you should understand the features and operation of VIEW and be able to:</strong></p>
+<ol>
+  <li>Use the VMware vSphere Client and service console commands to configure or diagnose and rectify problems on ESX.</li>
+  <li> Use the vSphere Client and  the VMware vSphere Management Assistant (vMA) appliance to configure  or diagnose and rectify problems on ESX and ESXi hosts.</li>
+  <li> Use ESXi technical support  mode to diagnose and rectify problems on ESXi.</li>
+  <li> Create and use a network  sniffer to capture and display virtual switch network traffic.</li>
+  <li>Use  the vSphere Client and command-line tools to troubleshoot VMware VMotion,  VMware Storage VMotion,  VMware High Availability, and VMware Distributed Resource.</li>
+</ol>

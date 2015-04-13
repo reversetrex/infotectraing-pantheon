@@ -1,0 +1,23 @@
+<strong>2541:</strong>
+<p>After completing this  workshop, students will be able to:</p>
+<ol>
+  <li>Connect  to databases and read data.</li>
+  <li>Query  and update databases by using commands.</li>
+  <li>Perform  transactional operations.</li>
+  <li>Perform  disconnected operations programmatically.</li>
+  <li>Perform  disconnected operations by using Visual Studio 2005 wizards.</li>
+  <li>Perform  XML operations on disconnected data.</li>
+  <li>Read  and write XML data.</li>
+  <li>Process XML data by using the Document Object Model DOM.</li>
+</ol>
+
+<p><strong>2542:</strong>
+<p>After  completing this workshop, students will be able to:</p>
+<ol>
+  <li>Minimize and handle database operation conflicts.</li>
+  <li>Handle large objects.</li>
+  <li>Enhance database performance.</li>
+  <li>Create managed code objects for SQL Server 2005.</li>
+  <li>Query XML by using XPath.</li>
+  <li>Transform  XML by using XSLT style sheets.</li>
+</ol>

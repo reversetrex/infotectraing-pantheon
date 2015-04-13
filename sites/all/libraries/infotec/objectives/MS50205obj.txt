@@ -1,0 +1,7 @@
+<p>After completing this course, students will:</p>
+
+<ul>
+  <li>Have the knowledge and skills necessary to complete branding projects and make functional customizations to Windows SharePoint Services v3 and Microsoft Office SharePoint Server 2007.</li>
+  <li>Understand the extent of customizations available using in-browser tool and learn the advantages of using SharePoint Designer 2007 to further enhance SharePoint site customization such as changing  master pages and creating multiple-step workflows.</li>
+  <li>Understand how SharePoint Designer 2007 can help with administrative tasks such as backing up and restoring sites to alternate locations.</li>
+</ul>

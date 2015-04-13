@@ -1,0 +1,254 @@
+  <h2>Session 1</h2>
+    <h3>Section A: Plan Windows Server Installation</h3>
+    <ul>
+      <li>Server Installation Scenario</li>
+      <li>Server Editions</li>
+      <li>Server Requirements</li>
+      <li>Plan Roles for Servers</li>
+    </ul>
+    <h3>Section B: Installing Windows Server 2012</h3>
+    <ul>
+      <li>Server Core and GUI</li>
+      <li>Virtual Machine Install Demo</li>
+    </ul>
+    <h3>Section C: Upgrading from Previous Versions</h3>
+    <ul>
+      <li>Plan Server Upgrade</li>
+      <li>Upgrade from Windows Server 2008</li>
+      <li>Upgrade Compatibility</li>
+    </ul>
+    <h3>Section D: Configuring Initial Installation</h3>
+    <ul>
+      <li>First Steps after Installation</li>
+      <li>Configure Server Core</li>
+      <li>Strong Passwords</li>
+      <li>Continue Server Core Configuration</li>
+      <li>Compare to GUI Installation</li>
+      <li>Rename Computer</li>
+      <li>Server Manager</li>
+    </ul>
+    <h3>Section E: PowerShell</h3>
+    <ul>
+      <li>PowerShell Commands</li>
+      <li>PowerShell ISE</li>
+      <li>WhatIf</li>
+    </ul>
+    <h3>Section F: Other Tasks and Features</h3>
+    <ul>
+      <li>More Initial Configuration Tasks</li>
+      <li>Create Account in Server Core</li>
+      <li>Create Admin Account with GUI</li>
+      <li>Features on Demand</li>
+      <li>DISM</li>
+      <li>Add Features in Offline Images</li>
+      <li>Remove Features in Offline Images</li>
+    </ul>
+    <h3>Section G: Server Installation Conversion</h3>
+    <ul>
+      <li>Convert the Server Installation</li>
+      <li>Convert Server Core to GUI</li>
+      <li>Convert GUI to Server Core</li>
+      <li>GUI Initial Configurations</li>
+      <li>Configure Services</li>
+      <li>NIC Teaming</li>
+      <li>PowerShell Desired State Configuration</li>
+      <li>Install and Configure PowerShell DSC</li>
+    </ul>
+  <h2>Session 2</h2>
+    <h3>Section A: Active Directory</h3>
+    <ul>
+      <li>Introduction to Active Directory</li>
+      <li>Steps of Active Directory</li>
+      <li>Install Active Directory</li>
+      <li>Active Directory Migration</li>
+      <li>Promote to Domain Controller</li>
+      <li>Read Only Domain Controller</li>
+      <li>Prerequisites Check</li>
+      <li>Test Core Machine Domain Controller</li>
+      <li>Install AD DS on Test Core Machine</li>
+    </ul>
+    <h3>Section B: Organize and Manage Active Directory</h3>
+    <ul>
+      <li>Promote Core Machine</li>
+      <li>Set IP Address</li>
+      <li>Install from Media</li>
+      <li>IFM and Service Records</li>
+      <li>DNS Manager and Service Records</li>
+      <li>Global Catalog</li>
+      <li>Active Directory Sites and Services</li>
+      <li>Active Directory on Windows Azure</li>
+      <li>Domain Users and Computers</li>
+      <li>Create Users and Computers</li>
+      <li>Configure Users and Computers</li>
+      <li>Copy or Delete Users and Computers</li>
+      <li>Active Directory Bulk Tasks</li>
+      <li>Automate Active Directory Accounts</li>
+      <li>Perform Bulk Active Directory Options</li>
+      <li>Join Computers to the Domain</li>
+      <li>Offline Domain Join</li>
+    </ul>
+    <h3>Section C: Active Directory Groups and OUs</h3>
+    <ul>
+      <li>Create and Manage AD Groups</li>
+      <li>Active Directory Group Scopes</li>
+      <li>Group Example</li>
+      <li>Domain Local Groups and Group Nesting</li>
+      <li>Delete and Enumerate Groups</li>
+      <li>Convert Groups</li>
+      <li>Organizational Units</li>
+      <li>Manage Active Directory Groups</li>
+    </ul>
+  <h2>Session 3</h2>
+    <h3>Section A: Netting Windows Server</h3>
+    <ul>
+      <li>Netting the Windows Server Environment</li>
+      <li>Subnetting Example</li>
+      <li>Decimal to Binary Conversion</li>
+      <li>Calculate Size of Subnet</li>
+      <li>Supernetting</li>
+    </ul>
+    <h3>Section B: IPv4 and IPv6</h3>
+    <ul>
+      <li>IPv4 vs. IPv6</li>
+      <li>Interoperability between IPv4 and IPv6</li>
+      <li>IPv6 Translation</li>
+      <li>ISATAP and Teredo</li>
+      <li>Configure ISATAP and Teredo</li>
+    </ul>
+    <h3>Section C: Dynamic Host Configuration Protocol</h3>
+    <ul>
+      <li>Deploy DHCP</li>
+      <li>Install DHCP</li>
+      <li>Dynamic Address</li>
+      <li>Authorize DHCP Server</li>
+      <li>DHCP Address Scope</li>
+      <li>Configure DHCP Options</li>
+      <li>Further DHCP Configuration</li>
+      <li>PXE Boot</li>
+      <li>DHCP Relay Agent</li>
+    </ul>
+    <h3>Section D: DNS</h3>
+    <ul>
+      <li>Deploy and Configure DNS</li>
+      <li>Root Hints</li>
+      <li>Forwarders</li>
+      <li>DNS Cache</li>
+      <li>Integration of Primary Zones</li>
+      <li>Host and PTR Resource Records</li>
+    </ul>
+    <h3>Section E: File and Share Access Protocol</h3>
+    <ul>
+      <li>Sharing and Security Permissions</li>
+      <li>Key Sharing Points</li>
+      <li>Create and Configure Shares</li>
+      <li>Verify Share Permissions</li>
+      <li>Configure Offline Files</li>
+      <li>NTFS Permissions</li>
+      <li>Network Folders: On Further Review</li>
+      <li>Access-Based Enumeration</li>
+      <li>Volume Shadow Copy Service</li>
+      <li>File Deletion Example</li>
+      <li>NTFS Quotas</li>
+      <li>Work Folders</li>
+      <li>Configure Work Folders</li>
+    </ul>
+    <h3>Section F: Print and Document Servers</h3>
+    <ul>
+      <li>Configure Print and Document Services</li>
+      <li>Enterprise Print Management</li>
+      <li>Printer Drivers and Pooling</li>
+      <li>Print Management</li>
+      <li>Add Printer</li>
+      <li>Install Printer on Client Machine</li>
+      <li>Enable Printer Pooling</li>
+      <li>Print Priorities</li>
+      <li>Printer Permissions</li>
+      <li>Easy Print Printer Driver</li>
+    </ul>
+  <h2>Session 4</h2>
+    <h3>Section A: Configure Local Storage</h3>
+    <ul>
+      <li>Configuring Local Storage</li>
+      <li>Disk Points</li>
+      <li>Computer Management</li>
+      <li>Virtual Hard Drive</li>
+      <li>Storage Pools and Disk Pools</li>
+      <li>Storage Pool by Using a Disk Enclosure</li>
+      <li>Configuring for Remote Management</li>
+      <li>Windows Remote Manager</li>
+      <li>Down-Level Server Management</li>
+      <li>Day-to-Day Management Tasks</li>
+      <li>Windows Firewall</li>
+      <li>Manage Multiple Servers</li>
+      <li>Roles on Remote Servers</li>
+    </ul>
+    <h3>Section B: Virtual Machine Settings</h3>
+    <ul>
+      <li>Create and Configure Settings</li>
+      <li>Resource Metering</li>
+      <li>Integration Services</li>
+      <li>Windows Server 2012 Hyper-V Features</li>
+    </ul>
+    <h3>Section C: Create/Configure Virtual Machine Storage</h3>
+    <ul>
+      <li>Virtual Disks</li>
+      <li>Differencing Disks</li>
+      <li>Modify VHDs</li>
+      <li>Pass-Through Disks</li>
+      <li>Hyper-V Virtual Machines and Snapshots</li>
+      <li>Storage Quality of Service</li>
+    </ul>
+    <h3>Section D: Virtual Networks</h3>
+    <ul>
+      <li>Set up Virtual Networks</li>
+      <li>Hyper-V Virtual Switches</li>
+      <li>Network Performance</li>
+      <li>Performance Tips</li>
+      <li>MAC Address</li>
+      <li>Network Isolation</li>
+      <li>Legacy Network Adapter, NIC Teaming</li>
+    </ul>
+  <h2>Session 5</h2>
+    <h3>Section A: Group Policy Objects</h3>
+    <ul>
+      <li>Create and Manage in Group Policy</li>
+      <li>Why Configure a Central Store?</li>
+      <li>Central Store</li>
+      <li>Copy Templates</li>
+      <li>Starter GPOs</li>
+      <li>Create Limitations Example</li>
+    </ul>
+    <h3>Section B: Security Policies</h3>
+    <ul>
+      <li>Configure Security Policies</li>
+      <li>Create More GPOs</li>
+      <li>Disable View of Control Panel</li>
+      <li>Security Filtering</li>
+      <li>Configure Security Policies</li>
+      <li>Default Domain Policy</li>
+      <li>Group Permission Using Group Policy</li>
+      <li>Permissions and Rights</li>
+      <li>User Rights Management</li>
+      <li>Security Option Settings</li>
+      <li>Audit Policy</li>
+      <li>Security Templates</li>
+      <li>Recap</li>
+      <li>Local Users and Groups</li>
+      <li>User Account Control</li>
+    </ul>
+    <h3>Section C: Application Restriction Policy</h3>
+    <ul>
+      <li>Configure Application Restriction</li>
+      <li>Configure AppLocker Rules</li>
+      <li>Configure Rule Enforcement</li>
+      <li>Software Restriction Policies</li>
+    </ul>
+    <h3>Section D: Windows Firewall</h3>
+    <ul>
+      <li>Configure Windows Firewall</li>
+      <li>Rules for Multiple Profiles</li>
+      <li>Connection Security Rules</li>
+      <li>Authenticated Firewall Exceptions</li>
+      <li>Create Inbound and Outbound Rules</li>
+      <li>Import and Export Policy Settings</li>
+    </ul>

@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Communicate using MSN Messenger.</li>
+  <li>Personalize your mail by using stationery and signatures. </li>
+  <li>Organize Outlook items by grouping, creating Search Folders, setting rules, and applying conditional formatting. </li>
+  <li>Use contacts to share, link, and communicate information. </li>
+  <li>Save and archive mail. </li>
+  <li>Create a custom form. </li>
+  <li>Set up your computer for offline and remote use.</li>
+</ul>

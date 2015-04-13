@@ -1,0 +1,34 @@
+<h2>Session 1</h2>
+  <h3>Section A: Being a Good Coach</h3>
+  <ul>
+    <li>The Ultimate Coaching</li>
+    <li>Round 1</li>
+    <li>Round 2</li>
+    <li>Hats of a Coach</li>
+  </ul>
+  <h3>Section B: Counselor</h3>
+  <ul>
+    <li>The Counseling Equation</li>
+    <li>Involve Employees in Decisions</li>
+  </ul>
+  <h3>Section C: Professional Skill Groomer</h3>
+  <ul>
+    <li>Sink or Swim</li>
+    <li>Right Way</li>
+  </ul>
+  <h3>Section D: Mentor</h3>
+  <ul>
+    <li>The Importance of Mentoring</li>
+    <li>Sharing Experience</li>
+  </ul>
+  <h3>Section E: Qualities of a Good Coach</h3>
+  <ul>
+    <li>What Makes a Good Coach?</li>
+    <li>Dealing with Conflict</li>
+    <li>Conflict Resolution</li>
+  </ul>
+  <h3>Section F: Motivation</h3>
+  <ul>
+    <li>How to Motivate</li>
+    <li>Conclusion</li>
+  </ul>

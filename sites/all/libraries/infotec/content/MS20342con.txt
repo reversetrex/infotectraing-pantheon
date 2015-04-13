@@ -1,0 +1,82 @@
+<p><strong>Module 1: Designing and Implementing Site Resilience</strong> - This module explains how to design and implement site resilience for Exchange Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Site Resilience and High Availability in Exchange Server 2013</li>
+  <li>Planning a Site Resilient Implementation</li>
+  <li>Implementing Site Resilience</li>
+</ul>
+<p><strong>Module 2: Planning Virtualization for Microsoft Exchange Server 2013</strong> - This module explains how to plan a virtualization strategy for Exchange Server 2013 roles.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning a Hyper-V Deployment to Exchange Server 2013</li>
+  <li>Virtualizing Exchange Server 2013 Server Roles</li>
+</ul>
+<p><strong>Module 3: Overview of Exchange Server 2013 Unified Messaging</strong> - This module explains the basic concept of Unified Messaging in Exchange Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Telephony Technologies</li>
+  <li>Unified Messaging in Exchange Server 2013</li>
+  <li>Unified Messaging Components</li>
+</ul>
+<p><strong>Module 4: Designing and Implementing Exchange Server 2013 Unified Messaging</strong> - This module explains how to design and implement Exchange Server 2013 Unified Messaging.</p>
+<p>Lessons</p>
+<ul>
+  <li>Designing a Unified Messaging Deployment</li>
+  <li>Deploying and Configuring Unified Messaging Components</li>
+  <li>Designing and Implementing Exchange Server 2013 UM Integration with Lync Server 2013</li>
+</ul>
+<p><strong>Module 5: Designing and Implementing Message Transport Security</strong> - This module explains how to design and implement message transport security.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Messaging Policy and Compliance Requirements</li>
+  <li>Designing and Implementing Transport Compliance</li>
+  <li>Designing and Implementing Active Directory Rights Management Services (AD RMS) Integration with Exchange Server 2013</li>
+</ul>
+<p><strong>Module 6: Designing and Implementing Message Retention</strong> - This module explains how to design and implement message retention in Exchange Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Messaging Records Management and Archiving</li>
+  <li>Designing In-Place Archiving</li>
+  <li>Designing and Implementing Message Retention</li>
+</ul>
+<p><strong>Module 7: Designing and Implementing Messaging Compliance</strong> - This module explains how to design and implement messaging compliance.</p>
+<p>Lessons</p>
+<ul>
+  <li>Designing and Implementing Data Loss Prevention</li>
+  <li>Designing and Implementing In-Place Hold</li>
+  <li>Designing and Implementing In-Place eDiscovery</li>
+</ul>
+<p><strong>Module 8: Designing and Implementing Administrative Security and Auditing</strong> - This module explains how to design and implement administrative security in an Exchange Server 2013 environment.</p>
+<p>Lessons</p>
+<ul>
+  <li>Designing and Implementing Role-Based Access Control (RBAC)</li>
+  <li>Designing and Implementing Split Permissions</li>
+  <li>Planning and Implementing Audit Logging</li>
+</ul>
+<p><strong>Module 9: Managing Exchange Server 2013 with Exchange Management Shell</strong> - This module explains how to use Windows PowerShell 3.0 to manage Exchange Server 2013.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Windows PowerShell 3.0</li>
+  <li>Managing Exchange Server Recipients by Using the Exchange Management Shell</li>
+  <li>Using Windows PowerShell to Manage Exchange Server</li>
+</ul>
+<p><strong>Module 10: Designing and Implementing Integration with Microsoft Exchange Online</strong> - This module explains how to design and implement integration with Exchange Online.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning for Exchange Online</li>
+  <li>Planning and Implementing the Migration to Exchange Online</li>
+  <li>Planning to Coexist with Exchange Online</li>
+</ul>
+<p><strong>Module 11: Designing and Implementing Messaging Coexistence</strong> - This module explains how to design and implement messaging coexistence.</p>
+<p>Lessons</p>
+<ul>
+  <li>Designing and Implementing Federation</li>
+  <li>Designing Coexistence Between Exchange Server Organizations</li>
+  <li>Designing and Implementing Cross-Forest Mailbox Moves</li>
+</ul>
+<p><strong>Module 12: Designing and Implementing Exchange Server Upgrades</strong> - This module explains how to design and implement upgrades from previous Exchange Server versions.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning the Upgrade from Previous Exchange Server Versions</li>
+  <li>Implementing the Upgrade from Previous Exchange Versions</li>
+</ul>

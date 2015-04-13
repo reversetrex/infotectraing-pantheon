@@ -1,0 +1,100 @@
+<p><strong>Module 1:  Overview of Management in an Enterprise Data Center</strong></p>
+<p>In this module, students will be able to describe the enterprise data center and how to use System Center 2012 to manage the enterprise data center.</p>
+<ul>
+  <li>Overview of the Enterprise Data Center</li>
+  <li>Overview of the Microsoft System Center 2012 R2 Components</li>
+</ul>
+<p><strong>Module 2: Planning and Implementing a Server Virtualization Strategy</strong></p>
+<p>In this module, students will be able to plan and implement a server virtualization strategy using System Center 2012.</p>
+<ul>
+  <li>Planning a VMM Deployment</li>
+  <li>Planning and Implementing a Server Virtualization Host Environment</li>
+</ul>
+<p><strong>Module 3: Planning and Implementing Networks and Storage for Virtualization</strong></p>
+<p>In this module, students will be able to plan and implement the network and storage infrastructure required to deploy a virtualized server infrastructure.</p>
+<ul>
+  <li>Planning a Storage Infrastructure for Virtualization</li>
+  <li>Implementing a Storage Infrastructure for Virtualization</li>
+  <li>Planning and Implementing a Network Infrastructure for Virtualization</li>
+  <li>Planning and Implementing Network Virtualization</li>
+</ul>
+<p><strong>Module 4: Planning and Deploying Virtual Machines</strong></p>
+<p>In this module, students will be able to plan and deploy virtual machines on Windows Hyper-V.</p>
+<ul>
+  <li>Planning a Virtual Machine Configuration</li>
+  <li>Preparing for Virtual Machine Deployments with VMM</li>
+  <li>Deploying Virtual Machines</li>
+  <li>Planning and Implementing Hyper-V Replica</li>
+</ul>
+<p><strong>Module 5: Planning and Implementing a Virtualization Administration Solution</strong></p>
+<p>In this module, students will be able to plan and implement a virtualization administration solution by using System Center 2012.</p>
+<ul>
+  <li>Planning and Implementing Automation with System Center 2012</li>
+  <li>Planning and Implementing System Center 2012 Administration</li>
+  <li>Planning and Implementing Self-Service Options in System Center 2012</li>
+  <li>Planning and Implementing Updates in a Server Virtualization Infrastructure</li>
+</ul>
+<p><strong>Module 6: Planning and Implementing a Server Monitoring Strategy</strong></p>
+<p>In this module, students will be able to plan and implement a server monitoring strategy using the Windows Server 2012 tools and using Operations Manager.</p>
+<ul>
+  <li>Planning Monitoring in Windows Server 2012</li>
+  <li>Overview of Operations Manager</li>
+  <li>Planning and Configuring Monitoring Components</li>
+  <li>Configuring Integration with VMM</li>
+</ul>
+<p><strong>Module 7: Planning and Implementing High Availability for File Services and Applications</strong></p>
+<p>In this module, students will be able to plan and implement an application and file services infrastructure that is highly available.</p>
+<ul>
+  <li>Planning and Implementing Storage Spaces</li>
+  <li>Planning and Implementing a DFS</li>
+  <li>Planning and Implementing NLB</li>
+</ul>
+<p><strong>Module 8: Planning and Implementing a High Availability Infrastructure Using Failover Clustering</strong></p>
+<p>In this module, students will be able to plan and implement a high availability server infrastructure by using the failover clustering features in Windows Server 2012.</p>
+<ul>
+  <li>Planning an Infrastructure for Failover Clustering</li>
+  <li>Implementing Failover Clustering</li>
+  <li>Planning and Implementing Updates for Failover Clusters</li>
+  <li>Integrating Failover Clustering with Server Virtualization</li>
+  <li>Planning a Multisite Failover Cluster</li>
+</ul>
+<p><strong>Module 9: Planning and Implementing a Business Continuity Strategy</strong></p>
+<p>In this module, students will be able to plan and implement a business continuity strategy in a Windows Server 2012 environment.</p>
+<ul>
+  <li>Overview of Business Continuity Planning</li>
+  <li>Planning and Implementing Backup Strategies</li>
+  <li>Planning and Implementing Recovery</li>
+  <li>Planning and Implementing Backup and Recovery of Virtual Machines</li>
+</ul>
+<p><strong>Module 10: Planning and Implementing an Public Key Infrastructure</strong></p>
+<p>In this Module, students will be able to plan and implement a PKI deployment, and plan and implement a certificate management solution.</p>
+<ul>
+  <li>Planning and Implementing Deployment of a Certification Authority</li>
+  <li>Planning and Implementing Certificate Templates</li>
+  <li>Planning and Implementing Certificate Distribution and Revocation</li>
+  <li>Planning and Implementing Key Archival and Recovery</li>
+</ul>
+<p><strong>Module 11: Planning and Implementing an Identity Federation Infrastructure</strong></p>
+<p>In this module, students will be able to plan and implement an AD FS server deployment and claims aware application access.</p>
+<ul>
+  <li>Planning and Implementing an AD FS Server Infrastructure</li>
+  <li>Planning and Implementing AD FS Claim Providers and Relying Parties</li>
+  <li>Planning and Implementing AD FS Claims and Claim Rules</li>
+  <li>Planning and Implementing Web Application Proxy</li>
+</ul>
+<p><strong>Module 12: Planning and Implementing Data Access for Users and Devices</strong></p>
+<p>In this module, students will be able to plan and implement Dynamic Access Control (DAC), Workplace Join and Work Folders.</p>
+<ul>
+  <li>Planning and Implementing DAC</li>
+  <li>Planning Workplace Join</li>
+  <li>Planning Work Folders</li>
+</ul>
+<p><strong>Module 13: Planning and Implementing an Information Rights Management Infrastructure</strong></p>
+<p>In this module, students will be able to plan and implement an AD RMS deployment, plan and manage AD RMS templates and access, and plan and implement external access to AD RMS services.</p>
+<ul>
+  <li>AD RMS Overview</li>
+  <li>Planning and Implementing an AD RMS Cluster</li>
+  <li>Planning and Implementing AD RMS Templates and Policies</li>
+  <li>Planning and Implementing External Access to AD RMS Services</li>
+  <li>Planning and Implementing AD RMS Integration with Dynamic Access Control</li>
+</ul>

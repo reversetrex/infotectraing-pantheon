@@ -1,0 +1,12 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Explore the types of applications you can build, how the user interface can be used, and how to create Flash movies.</li>
+  <li>Create and manipulate graphics in your Flash document.</li>
+  <li>Add text and Flash components to your Flash document.</li>
+  <li>Animate graphics using different techniques.</li>
+  <li>Add interactivity to your Flash document using buttons.</li>
+  <li>Work with movie clips.</li>
+  <li>Add audio to a movie.</li>
+  <li>Add video to a movie for creating dynamic animations in Flash.</li>
+  <li>Publish Flash documents.</li>
+</ul>

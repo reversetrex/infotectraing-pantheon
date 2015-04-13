@@ -1,0 +1,1 @@
+Join LearnKey expert Jason Manibog as he guides you through our Windows Server 2012 Configuring Advanced Services course. In this course students will learn the technical skills associated with exam 70-412. This course will cover topics such as: identity and access solutions, network services, storage solutions and more! Users will gain the knowledge they need to succeed.

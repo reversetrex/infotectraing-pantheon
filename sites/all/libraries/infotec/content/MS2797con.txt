@@ -1,0 +1,109 @@
+<p><strong> Unit 1: Designing a Reporting Solution<br>
+</strong>In this Unit, students will learn how to identify user requirements and business requirements for a reporting solution. They will then learn how to match the requirements of the user to Reporting Services technologies.</p>
+<p> Units</p>
+<ul>
+  <li> Evaluating Business Requirements for a Reporting Solution </li>
+  <li>Designing for Reporting Services </li>
+</ul>
+<p> Lab 1: Designing a Reporting Solution</p>
+<ul>
+  <li> Identifying Reporting Solution Users </li>
+  <li>Creating a Reporting Solution Specification </li>
+</ul>
+<p> After completing this Unit, students will be able to:</p>
+<ul>
+  <li> Evaluate the business requirements for a reporting solution. </li>
+  <li>Design a Reporting Services implementation. </li>
+</ul>
+<p><strong> Unit 2: Developing a Reporting Solution <br>
+</strong>In this Unit, students will first identify how best to develop reports using the powerful Business Intelligence Development Studio Report Designer tool. This will include a review of best practice for report layout, and how this is affected by the various rendering formats available. Secondly, they will identify the considerations for effective development of a report model to enable more experienced users to create their own reports.</p>
+<p> Units</p>
+<ul>
+  <li> Developing Reports </li>
+  <li>Developing Report Models </li>
+</ul>
+<p> Lab 2: Developing a Reporting Solution</p>
+<ul>
+  <li> Creating Reports from a Report Specification </li>
+  <li>Working With Report Models </li>
+</ul>
+<p> After completing this Unit, students will be able to:</p>
+<ul>
+  <li> Create a Reporting Services solution. </li>
+  <li>Create a report model and use it to create a report with Report Builder. </li>
+</ul>
+<p><strong> Unit 3: Integrating Reporting Services with Applications<br>
+</strong>In this Unit, students will review the options for integrating Reporting Services reports into a custom application. They will look at using direct URL access, the report viewer controls provided by Microsoft Visual Studio 2005, the Reporting Services SharePoint Web Parts, and the Reporting Services Web services. Lastly, they will discuss which approach, or combination of approaches, might suit different BI applications and their different kinds of users.</p>
+<p> Units</p>
+<ul>
+  <li> Integrating with Custom Applications </li>
+  <li>Controlling Reporting Services by Using Web Services </li>
+</ul>
+<p> Lab 3: Integrating Reporting Services with Applications</p>
+<ul>
+  <li> Integrating Reports into an ASP.NET Application. </li>
+  <li>Integrating a Report into a SharePoint Services Solution </li>
+  <li>Implementing a Reporting Services Web Service Client </li>
+</ul>
+<p> After completing this Unit, students will be able to:</p>
+<ul>
+  <li> Integrate Reporting Services with custom applications. </li>
+  <li>Design Web service clients for Reporting Services. </li>
+</ul>
+<p><span class="style1"> Unit 4: Deploying and Managing a Reporting Solution<br>
+</span>In this Unit, students will learn how to deploy a Reporting Services solution into a production environment, and how to manage report distribution.</p>
+<p> Units</p>
+<ul>
+  <li> Deploying a Reporting Services Solution </li>
+  <li>Managing Report Distribution </li>
+</ul>
+<p> Lab 4: Managing Report Deployment and Distribution</p>
+<ul>
+  <li> Deploying Reports </li>
+  <li>Managing Report Distribution </li>
+</ul>
+<p> After completing this Unit, students will be able to:</p>
+<ul>
+  <li> Deploy a Reporting Services solution. </li>
+  <li>Manage Report Distribution. </li>
+</ul>
+<p><strong> Unit 5: Designing Security for a Reporting Solution<br>
+</strong>In this Unit, students will learn how to secure a Reporting Services solution.</p>
+<p> Units</p>
+<ul>
+  <li> Designing an Authentication Strategy </li>
+  <li>Designing an Authorization Strategy </li>
+  <li>Designing a Secure Communication Strategy </li>
+</ul>
+<p> Lab 5: Securing Reporting Services</p>
+<ul>
+  <li> Configuring Authentication </li>
+  <li>Configuring Authorization </li>
+  <li>Configuring Secure Communications </li>
+</ul>
+<p> After completing this Unit, students will be able to:</p>
+<ul>
+  <li> Design an authentication strategy for Reporting Services. </li>
+  <li>Design an authorization strategy for Reporting Services. </li>
+  <li>Design a secure communication strategy for Reporting Services. </li>
+</ul>
+<p><strong> Unit 6: Optimizing Report Performance<br>
+</strong>In this Unit, students will learn how to optimize a Reporting Services solution.</p>
+<p> Units</p>
+<ul>
+  <li> Monitoring Report Execution </li>
+  <li>Designing a Report Execution Strategy </li>
+  <li>Scaling Reporting Services </li>
+</ul>
+<p> Lab 6: Optimizing Performance</p>
+<ul>
+  <li> Monitoring Reporting Services </li>
+  <li>Optimizing Report Execution </li>
+  <li>Scaling Reporting Services </li>
+</ul>
+<p> After completing this Unit, students will be able to:</p>
+<ul>
+  <li> Monitor report execution. </li>
+  <li>Design a report execution strategy to optimize performance. </li>
+  <li>Design a scalability strategy for Reporting Services. </li>
+</ul>

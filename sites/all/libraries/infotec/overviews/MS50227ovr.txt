@@ -1,0 +1,1 @@
+This 5-day Instructor-led course shows how to fully utilize 2007 Microsoft Office system applications in your SharePoint environment. The course will be hands-on, walking you through all of the basic features of WSS and MOSS sites, so that after the course ends you can go back into your environment and implement a solution.

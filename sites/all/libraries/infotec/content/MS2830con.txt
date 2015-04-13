@@ -1,0 +1,62 @@
+<p><strong> Unit 1: Introduction to Designing Security </strong></p>
+<ul>
+  <li> Introduction to Designing Security for Microsoft Networks </li>
+  <li> Contoso Pharmaceuticals: A Case Study </li>
+</ul>
+<p><strong> Unit 2: Creating a Plan for Network Security </strong></p>
+<ul>
+  <li> Introduction to Security Policies </li>
+  <li> Defining a Process for Designing Network Security </li>
+  <li> Creating a Security Design Team </li>
+</ul>
+<p><strong> Unit 3: Identifying Threats to Network Security </strong></p>
+<ul>
+  <li> Introduction to Security Threats </li>
+  <li> Predicting Threats to Security </li>
+</ul>
+<p><strong> Unit 4: Analyzing Security Risks </strong></p>
+<ul>
+  <li> Introduction to Risk Management </li>
+  <li> Creating a Risk Management Plan </li>
+</ul>
+<p><strong> Unit 5: Creating a Security Design for Physical Resources </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Physical Resources </li>
+  <li> Designing Security for Physical Resources </li>
+</ul>
+<p><strong> Unit 6: Creating a Security Design for Computers </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Computers </li>
+  <li> Designing Security for Computers </li>
+</ul>
+<p><strong> Unit 7: Creating a Security Design for Accounts </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Accounts </li>
+  <li> Designing Security for Accounts </li>
+</ul>
+<p><strong> Unit 8: Creating a Security Design for Authentication </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Authentication </li>
+  <li> Designing Security for Authentication </li>
+</ul>
+<p><strong> Unit 9: Creating a Security Design for Data </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Data </li>
+  <li> Designing Security for Data </li>
+</ul>
+<p><strong> Unit 10: Creating a Security Design for Data Transmission </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Data Transmission </li>
+  <li> Designing Security for Data Transmission </li>
+</ul>
+<p><strong> Unit 11: Creating a Security Design for Network Perimeters </strong></p>
+<ul>
+  <li> Determining Threats and Analyzing Risks to Network Perimeters </li>
+  <li> Designing Security for Network Perimeters </li>
+</ul>
+<p><strong> Unit 12: Designing Responses to Security Incidents </strong></p>
+<ul>
+  <li> Introduction to Auditing and Incident Response </li>
+  <li> Designing an Audit Policy </li>
+  <li> Designing an Incident Response Procedure </li>
+</ul>

@@ -1,0 +1,46 @@
+<h2>Session 1</h2>
+  <h3>Section A: Module One</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Step 1 - Like Me</li>
+    <li>Step 2 - Know Me</li>
+    <li>Roles</li>
+    <li>Responsibility</li>
+    <li>Relationships</li>
+  </ul>
+  <h3>Section B: Module One (cont.)</h3>
+  <ul>
+    <li>Step 3 - Know Them</li>
+    <li>Step 4 - Grow</li>
+    <li>Review</li>
+  </ul>
+  <h3>Section C: Module Two</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Negativity</li>
+    <li>Feedback</li>
+    <li>Step 5 - Take Action</li>
+    <li>Conversation Model</li>
+    <li>Step 6 - Anticipate</li>
+  </ul>
+  <h3>Section D: Module Two (cont.)</h3>
+  <ul>
+    <li>Step 7 - Be Positive</li>
+    <li>Step 8 - Persist</li>
+    <li>Review</li>
+  </ul>
+  <h3>Section E: Module Three</h3>
+  <ul>
+    <li>Overview</li>
+    <li>Five Diff. Behaviors</li>
+    <li>Decision Making</li>
+    <li>Step 9 - Lighten Up</li>
+    <li>Step 10 - Take Care of Me</li>
+    <li>Leadership Qualities</li>
+  </ul>
+  <h3>Section F: Module Three (cont.)</h3>
+  <ul>
+    <li>Step 11 - Have Patience</li>
+    <li>Step 12 - Be Committed</li>
+    <li>Review</li>
+  </ul>

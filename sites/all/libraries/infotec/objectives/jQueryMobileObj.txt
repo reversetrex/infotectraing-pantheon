@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+
+<ul>
+  <li>Use simple HTML to create mobile-optimized sites</li>
+  <li>Create a custom jQuery UI widget using the widget library</li>
+  <li>Structure your sites for browsing on mobile devices</li>
+  <li>Include forms for interactive sites</li>
+  <li>Convert desktop sites into mobile versions</li>
+  <li>Theme your jQuery Mobile site</li>
+</ul>

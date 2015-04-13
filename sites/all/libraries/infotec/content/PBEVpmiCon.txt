@@ -1,0 +1,14 @@
+<p>Unit 1: Introduction to Earned Value Project Management</p>
+<p>Unit 2: Overview of Earned Value Project Management</p>
+<p>Unit 3: The Genesis and Evolution of Earned Value</p>
+<p>Unit 4: The Earned Value Body of Knowledge</p>
+<p>Unit 5: Scope the Project</p>
+<p>Unit 6: Plan and Schedule the Project</p>
+<p>Unit 7: Estimate the Resources and Authorize Budgets to form CAPs</p>
+<p>Unit 8: Establish the Earned Value Project Baseline</p>
+<p>Unit 9: Employ Earned Value in Project Procurements</p>
+<p>Unit 10: Monitor Performance against the Earned Value Baseline</p>
+<p>Unit 11: Forecasting the Final Cost and Schedule Results</p>
+<p>Unit 12: Manage the Project Portfolio using Earned Value</p>
+<p>Unit 13: Implement Earned Value on All Projects</p>
+<p>Unit 14: Fulfill Your Fiduciary Duty and Comply with Sarbanes-Oxley</p>

@@ -1,0 +1,13 @@
+<p>Upon completion of this course, learners are able to:</p>
+<ul>
+ <li>Define and end-to-end mobile solution.</li>
+ <li>Understand the foundational concepts of MDM and MAM.</li>
+ <li>Design and deploy a XenMobile Enterprise solution.</li>
+ <li>Integrate common components in a XenMobile Enterprise implementation.</li>
+ <li>Setup and manage applications and data for mobile devices.</li>
+ <li>Enroll mobile devices and revoke access when needed.</li>
+ <li>Gain configuration and restriction policy definition knowledge.</li>
+ <li>Deploy policies to devices in a systematic manner.</li>
+ <li>Manage corporate profile information on personal mobile devices.</li>
+ <li>Troubleshoot common issues.</li>
+</ul>

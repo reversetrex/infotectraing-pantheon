@@ -1,0 +1,148 @@
+<p><strong>Introduction to JavaScript</strong></p>
+<ul>
+  <li>Introduction to Scripting</li>
+  <li>JavaScript Characteristics</li>
+  <li>JavaScript and Common Programming Concepts</li>
+  <li>JavaScript Flavors and Versions</li>
+  <li>Server-Side vs. Client-Side Applications</li>
+  <li>Annotating Your Code with 
+    Comments</li>
+</ul>
+
+<p><strong> Working with Variables and Data in JavaScript</strong></p>
+<ul>
+  <li>Using JavaScript to Communicate with the User</li>
+  <li>Using Data More Than Once: Variables</li>
+  <li>JavaScript Expressions</li>
+  <li>Operators</li>
+  <li>Inline Scripting, Simple User Events, and Basic Event Handlers</li>
+  <li>Keywords and Reserved Words</li>
+</ul>
+
+<p><strong>Functions, Methods and Events in JavaScript</strong></p>
+<ul>
+  <li>Introduction to Functions</li>
+  <li>Defining a Function</li>
+  <li>Calling a Function</li>
+  <li>User Events and JavaScript Event Handlers</li>
+  <li>Methods as Functions</li>
+</ul>
+
+<p><strong> Controlling Program Flow in JavaScript</strong></p>
+<ul>
+  <li>Controlling Decisional Program Flow</li>
+  <li>The if...else Statement</li>
+  <li>The while Statement</li>
+  <li>The do...while Statement</li>
+  <li>The for Statement</li>
+  <li>The break Statement</li>
+  <li>The continue Statement</li>
+  <li>The switch Statement</li>
+</ul>
+
+<p><strong>The JavaScript Document Object Model (DOM)</strong></p>
+<ul>
+  <li>The JavaScript Document Object Model (DOM)</li>
+  <li>The window Object</li>
+  <li>The document Object</li>
+  <li>The with Statement</li>
+  <li>The image Object</li>
+  <li>The history Object</li>
+  <li>The location Object</li>
+  <li>The navigator Object</li>
+</ul>
+
+<p><strong>JavaScript Language Objects</strong></p>
+<ul>
+  <li>Introduction to JavaScript</li>
+  <li>Language Objects</li>
+  <li>The String Object</li>
+  <li>Evaluating Strings</li>
+  <li>JavaScript Regular Expressions</li>
+  <li>The Array Object</li>
+  <li>The Date Object</li>
+  <li>Setting and Extracting Time Information</li>
+  <li>The Math Object</li>
+</ul>
+
+<p><strong>  Developing Interactive Forms with JavaScript</strong></p>
+<ul>
+  <li>Interactive Forms</li>
+  <li>Overview of Form Elements</li>
+  <li>Referring to Form Elements</li>
+  <li>The form Object</li>
+  <li>The button Object</li>
+  <li>The checkbox Object</li>
+  <li>The text and textarea Objects</li>
+  <li>The radio Object</li>
+  <li>The select Object</li>
+  <li>Form Validation</li>
+</ul>
+
+<p><strong>JavaScript Security</strong></p>
+<ul>
+  <li>Introduction to JavaScript Security Issues</li>
+  <li>Browser vs. Operating System</li>
+  <li>Browser-Specific Security Issues</li>
+  <li>Browser Compatibility and Client-Side Detection</li>
+  <li>Script blocking</li>
+  <li>Differences in document.write Among Browsers</li>
+  <li>Malicious and Accidental Coding</li>
+  <li>Frame-to-Frame URL Changing</li>
+  <li>Signed Scripts</li>
+  <li>Cross-Site Scripting (XSS)</li>
+  <li>Cookies and Security in JavaScript</li>
+  <li>Creating Secure JavaScript Code</li>
+</ul>
+
+<p><strong>Custom JavaScript Objects</strong></p>
+<ul>
+  <li> Creating Custom Objects</li>
+  <li>Creating a JavaScript Object: The Constructor</li>
+  <li>Creating an Instance of a Custom Object</li>
+  <li>Creating Object Methods</li>
+  <li>Creating Functions for Your Objects</li>
+</ul>
+
+<p><strong>Changing X/HTML on the Fly</strong></p>
+<ul>
+  <li>Changing X/HTML on the Fly</li>
+  <li>Using the getElementByID Method</li>
+  <li>Using the getElementsByName  Method</li>
+  <li>Using the getElementsByTagName Method</li>
+  <li>Modifying Attributes within the DOM</li>
+  <li>Appending Text to the DOM</li>
+  <li>JavaScript Libraries</li>
+</ul>
+
+<p><strong>JavaScript Libraries</strong></p>
+<ul>
+  <li>Choosing a Code Library</li>
+  <li>External and Pre-Made Scripts</li>
+  <li>Loading Your First Library</li>
+  <li>Using JavaScript Library Plug-ins</li>
+  <li>Best Practices with JavaScript Libraries</li>
+  <li>Copyright Issues and JavaScript</li>
+</ul>
+
+<p><strong>JavaScript and AJAX</strong></p>
+<ul>
+  <li>Introduction to AJAX</li>
+  <li>Introduction to XML</li>
+  <li>Interactions Among JavaScript, XML and XHTML</li>
+  <li>Using AJAX Scripts</li>
+  <li>AJAX and Servers</li>
+  <li>AJAX and Databases</li>
+  <li>Usability Issues with AJAX</li>
+  <li>Combining AJAX with Libraries</li>
+  <li>Alternatives to XML-based AJAX</li>
+</ul>
+
+<p><strong>Debugging and Troubleshooting JavaScript</strong></p>
+<ul>
+  <li>What Is Debugging?</li>
+  <li>Tools for Debugging Code</li>
+  <li>Testing Code in Various Browsers</li>
+  <li>Debugging Logical Errors</li>
+  <li>JavaScript and Mobile Devices</li>
+</ul>

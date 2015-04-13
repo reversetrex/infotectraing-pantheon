@@ -1,0 +1,20 @@
+<p><strong> Unit 1: Introducing Windows Forms <br>
+</strong>This Unit introduces Windows forms and controls in the .NET Framework. Students will learn how to create and populate base forms and inherited forms by using the Microsoft Visual Studio &acirc; .NET Framework. They will also learn how to add controls to a form and how to create Multiple Document Interface (MDI) applications.</p>
+<p><strong> Unit 2: Working With Controls <br>
+</strong>This Unit explains how to create event procedures (handlers) in your application that will run in response to user actions. Students will learn how to add programming logic to the event procedures of a control, how to use the Windows Forms intrinsic controls, dialog boxes, and menus, and how to validate the data entered by users of your application. </p>
+<p><strong> Unit 3: Building Controls <br>
+</strong>This Unit explains how to extend the functionality of an existing Windows control, combine multiple existing controls into a composite control, and build a new custom control. Students will also learn how to add design-time licensing support to a control.</p>
+<p><strong> Unit 4: Using Data in Windows Forms Applications <br>
+</strong>This Unit explains how to bind Windows forms to various data sources by using ADO .NET. Students will learn about binding Windows forms to data from sources such as databases and XML files. Students will get an overview of the XML Web services programming model and learn how to create applications that use XML Web services. The Unit also provides an overview of how to persist data to and read data from files and isolated storage. </p>
+<p><strong> Unit 5: Interoperating with Managed Objects <br>
+</strong>This Unit explains how to use .NET and COM components in a Windows Forms application. Students will also learn how to call Win32 APIs in their Windows Forms application.&nbsp;</p>
+<p><strong> Unit 6: Printing and Reporting in Windows Forms Applications <br>
+</strong>This Unit explores how to implement printing in a Windows Forms application and how to create reports in a Windows Forms application by using Crystal Reports for Visual Studio .NET. </p>
+<p><strong> Unit 7: Asynchronous Programming <br>
+</strong>This Unit explains how to use the techniques of asynchronous programming and multithreading to avoid blocking the user interface of an application. </p>
+<p><strong> Unit 8: Enhancing the Usability of Applications <br>
+</strong>This Unit covers how to use the accessibility, Help, and localization features available in the .NET Framework. </p>
+<p><strong> Unit 9: Deploying Windows Forms Applications <br>
+</strong>This Unit explains assemblies and how to use strong-named assemblies and the Global Assembly Cache (GAC) in the .NET Framework. Students will also learn how to configure and deploy .NET-based applications.</p>
+<p><strong> Unit 10: Securing Windows Forms Applications <br>
+</strong>This Unit explains the .NET Framework security model. Students will learn how to use .NET Framework security features in Windows Forms applications. </p>

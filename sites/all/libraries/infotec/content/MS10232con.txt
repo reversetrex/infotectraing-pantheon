@@ -1,0 +1,16 @@
+<ul>
+  <li>Module 1: Advanced ASP.NET Concepts for  SharePoint</li>
+  <li>Module 2: Designing for User Experience</li>
+  <li>Module 3: Designing for Data</li>
+  <li>Module 4: Designing Data Capture and  Integration</li>
+  <li>Module 5: Designing Artefacts</li>
+  <li>Module 6: Designing Processing Solutions</li>
+  <li>Module 7: Designing Packaging</li>
+  <li>Module 8: Designing a Development Strategy</li>
+  <li>Module 9: Developing Versioning and Deployment</li>
+  <li>Module 10: Designing Information Architecture  and Navigation</li>
+  <li>Module 11: Designing Branding and  Customization</li>
+  <li>Module 12: Designing Security</li>
+  <li>Module 13: Designing for Page and Data Access  Performance</li>
+  <li>Module 14: Designing  Testing Strategy</li>
+</ul>

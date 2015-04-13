@@ -1,0 +1,39 @@
+<p><strong>Lesson 1: Creating PDFs from Technical Documents</strong></p>
+<ul>
+	<li><strong>Topic 1A: </strong>Create PDF Documents Using Autodesk AutoCAD</li>
+    <li><strong>Topic 1B: </strong>Measure Technical Drawings</li>
+</ul>
+
+<p><strong>Lesson 2: Enhancing PDF Documents </strong></p>
+<ul>
+	<li><strong>Topic 2A: </strong>Embed Multimedia</li>
+    <li><strong>Topic 2B: </strong>Enhance PDF Document Accessibility</li>
+</ul>
+
+<p><strong>Lesson 3: Creating Interactive PDF Forms in Adobe LiveCycle Designer</strong></p>
+<ul>
+	<li><strong>Topic 3A: </strong>Create a PDF Form</li>
+    <li><strong>Topic 3B: </strong>Add Form Fields</li>
+    <li><strong>Topic 3C: </strong>Create Calculations</li>
+    <li><strong>Topic 3D: </strong>Submit a Form</li>
+    <li><strong>Topic 3E: </strong>Track Forms</li>
+    <li><strong>Topic 3F: </strong>Compile Returned Forms</li>
+    <li><strong>Topic 3G: </strong>Organize Compiled Data</li>
+</ul>
+
+<p><strong>Lesson 4: Preparing PDF Files for Commercial Printing</strong></p>
+<ul>
+	<li><strong>Topic 4A: </strong>Examine the Commercial Printing Process</li>
+    <li><strong>Topic 4B: </strong>Create PDF Files for Prepress</li>
+    <li><strong>Topic 4C: </strong>Apply Color Management Settings</li>
+    <li><strong>Topic 4D: </strong>Modify Adobe PDF Settings for Prepress</li>
+    <li><strong>Topic 4E: </strong>Preview Printed Effects</li>
+</ul>
+
+<p><strong>Lesson 5: Finalizing PDF Files for Commercial Printing</strong></p>
+<ul>
+	<li><strong>Topic 5A: </strong>Preflight Documents</li>
+    <li><strong>Topic 5B: </strong>Create PDF/X, PDF/A, and PDF/E Compliant Files</li>
+    <li><strong>Topic 5C: </strong>Create a Composite</li>
+    <li><strong>Topic 5D: </strong>Create Color Separations</li>
+</ul>

@@ -1,0 +1,12 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Describe Microsoft Office SharePoint Server 2007 </li>
+  <li> Plan for and design a Microsoft Office SharePoint Server 2007 implementation. </li>
+  <li> Deploy Microsoft Office SharePoint Server 2007 </li>
+  <li> Administer Microsoft Office SharePoint Sjerver 2007 </li>
+  <li> Implement a portal solution with Microsoft Office SharePoint Server 2007. </li>
+  <li> Implement a content management solution with Microsoft Office SharePoint Server 2007. </li>
+  <li> Implement a business intelligence solution with Microsoft Office SharePoint Server 2007. </li>
+  <li> Implement a search and indexing solution with Microsoft Office SharePoint Server 2007. </li>
+  <li> Maintain and optimize Microsoft Office SharePoint Server 2007. </li>
+</ul>

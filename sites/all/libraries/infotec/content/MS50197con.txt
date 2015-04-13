@@ -1,0 +1,19 @@
+<p><strong>Module 1: Introduction to Microsoft Silverlight 2.0</strong> - This module explains some of the basic concepts of web development and introduces the Microsoft Silverlight technology.</p>
+
+<p><strong>Module 2: Getting Started with Silverlight 2.0</strong> - This module will help students develop the skills necessary to create simple Silverlight 2.0 applications. It will also define the Silverlight architecture and help set the platform for working with the Extensible Application Markup Language (XAML).</p>
+
+<p><strong>Module 3: Building the User Interface</strong> - This module provides in-depth detail of the page layout model and the content and items control that can be used to define it.</p>
+
+<p><strong>Module 4: Customizing Appearance</strong> - This module provides in-depth detail of the page layout model and the content and items control that can be used to define it.</p>
+
+<p><strong>Module 5: Graphics and Multimedia</strong> - This module explains the primary mechanisms of displaying media as well as Silverlight specific features that enhance the user experience.</p>
+
+<p><strong>Module 6: Animating Silverlight</strong> - This module explains some basic concepts of animation and how to apply animations within a Silverlight application.</p>
+
+<p><strong>Module 7: Managed and Unmanaged Silverlight 2.0 Code</strong> - This module provides insights into the languages and libraries that could be used to develop Silverlight 2.0 applications.</p>
+
+<p><strong>Module 8: Silverlight Service Architecture</strong> - This module discusses the Silverlight 2 .0 Service Architecture used to access web  services and retrieve information from other resources such as sockets and  feeds.</p>
+
+<p><strong>Module 9: Silverlight Data Access</strong> - The focus of this module is the use of data - binding fea tures available to Silverlight and to how to define custom templates for items controls.</p>
+
+<p><strong>Module 10: Packaging and Deploying Silverlight</strong> - This module describes how to prepare a Silverlight 2.0 application for deployment.</p>

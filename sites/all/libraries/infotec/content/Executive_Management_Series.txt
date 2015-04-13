@@ -1,0 +1,112 @@
+<h2>Empowerment Course Session 1</h2>
+  <h3>Section A: Empowerment</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>What is Empowerment?</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: Changing Organizations</h3>
+  <ul>
+    <li>The New Workforce</li>
+    <li>Customers</li>
+    <li>A Different Way</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Changing Mindsets</h3>
+  <ul>
+    <li>Overlooking Customers</li>
+    <li>From Pyramids to Circles</li>
+    <li>Resistance to Change</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Changing Relationships</h3>
+  <ul>
+    <li>With Customers</li>
+    <li>With Coworkers</li>
+    <li>Teams</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section E: Changing Structures</h3>
+  <ul>
+    <li>Get Feedback</li>
+    <li>Develop a Vision</li>
+    <li>Define Measurements</li>
+    <li>Conclusion</li>
+  </ul>
+<h2>Managing for Commitment Course Session 1</h2>
+  <h3>Section A: Managing for Commitment</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: The New Workforce</h3>
+  <ul>
+    <li>What is Loyalty?</li>
+    <li>The New Millennium</li>
+    <li>New Values</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Building Commitment</h3>
+  <ul>
+    <li>Trust</li>
+    <li>Communication</li>
+    <li>Showing You Care</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Six Steps to Loyalty</h3>
+  <ul>
+    <li>Catering to Employees</li>
+    <li>Step 1: Communicate Candidly</li>
+    <li>Step 2: Empower Employees</li>
+    <li>Step 3: Develop Employees</li>
+    <li>Step 4: Show Appreciation</li>
+    <li>Step 5: Manage Ethically and Impartially</li>
+    <li>Step 6: Promote Workplace Wellness</li>
+    <li>Conclusion</li>
+  </ul>
+<h2>Managing Change at Work Course Session 1</h2>
+  <h3>Section A: Managing Change</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Course Overview</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section B: Facing Change</h3>
+  <ul>
+    <li>Dealing with Change</li>
+    <li>Effective Managers</li>
+    <li>Leading Change</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section C: Understanding Change</h3>
+  <ul>
+    <li>The Change Model</li>
+    <li>Denial</li>
+    <li>Resistance</li>
+    <li>Exploration</li>
+    <li>Commitment</li>
+    <li>Key Fact</li>
+  </ul>
+  <h3>Section D: Leading for Change</h3>
+  <ul>
+    <li>People and Change</li>
+    <li>People and Denial</li>
+    <li>People and Resistance</li>
+    <li>People and Exploration</li>
+    <li>Conclusion</li>
+  </ul>
+<h2>Quality Focused Supervision Course Session 1</h2>
+  <h3>Section A: Supervisor Excellence</h3>
+  <ul>
+    <li>Getting Started</li>
+  </ul>
+  <h3>Section B: Influence-Style Management</h3>
+  <ul>
+    <li>Leadership Influence</li>
+  </ul>
+  <h3>Section C: Principles of Influence</h3>
+  <ul>
+    <li>Involvement over Surveillance</li>
+    <li>Communication over Intimidation</li>
+    <li>Leadership over Authority</li>
+  </ul>

@@ -1,0 +1,12 @@
+<p>On course completion, students will be able to:</p>
+<ul>
+  <li>Identify types and characteristics of PC  components, including motherboard, CPU, memory, and storage, input, and output  devices.</li>
+  <li>Install and configure peripheral devices.</li>
+  <li>Identify types and characteristics of portable  computers.</li>
+  <li>Install and configure Microsoft Windows 2000,  Microsoft Windows XP, and Microsoft Windows Vista.</li>
+  <li>Perform basic PC maintenance and  troubleshooting.</li>
+  <li>Understand fundamental principles of securing  IT systems and working safely.</li>
+  <li>Communicate effectively with customers.</li>
+  <li>Install and configure print devices.</li>
+  <li>Understand  fundamental principles of implementing LANs and internet access.</li>
+</ul>

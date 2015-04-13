@@ -1,0 +1,81 @@
+<p><strong> Unit 1: Overview of the Microsoft .NET Platform </strong></p>
+<ul>
+  <li> What Is the Microsoft .NET Platform? </li>
+  <li>What Is the .NET Framework? </li>
+  <li>What Are the .NET Framework Components? </li>
+  <li>What Are the Visual Basic .NET Enhancements? </li>
+</ul>
+<p><strong> Unit 2: Development Environment Features </strong></p>
+<ul>
+  <li> Describing the Integrated Development Environment </li>
+  <li>Creating Visual Basic .NET Projects </li>
+  <li>Using Development Environment Features </li>
+  <li>Debugging Applications </li>
+  <li>Compiling in Visual Basic .NET </li>
+</ul>
+<p><strong> Unit 3: Language and Syntax Enhancements </strong></p>
+<ul>
+  <li> Data Types </li>
+  <li>Using Variables </li>
+  <li>Functions, Subroutines, and Properties </li>
+  <li>Exception Handling </li>
+</ul>
+<p><strong> Unit 4: Object-Oriented Design for Visual Basic .NET </strong></p>
+<ul>
+  <li> Designing Classes </li>
+  <li>Object-Oriented Programming Concepts </li>
+  <li>Advanced Object-Oriented Programming Concepts using Microsoft Visio &reg; </li>
+</ul>
+<p><strong> Unit 5: Object-Oriented Programming in Visual Basic .NET </strong></p>
+<ul>
+  <li> Defining Classes </li>
+  <li>Creating and Destroying Objects </li>
+  <li>Inheritance </li>
+  <li>Interfaces </li>
+  <li>Working with Classes </li>
+</ul>
+<p><strong> Unit 6: Using Windows Forms </strong></p>
+<ul>
+  <li> Why Use Windows Forms? </li>
+  <li>Structure of Windows Forms </li>
+  <li>Using Windows Forms </li>
+  <li>Using Controls </li>
+  <li>Windows Forms Inheritance </li>
+</ul>
+<p><strong> Unit 7: Building Web Applications </strong></p>
+<ul>
+  <li> Introduction to ASP .NET </li>
+  <li>Creating Web Form Applications </li>
+  <li>Building Web Services </li>
+  <li>Using Web Services </li>
+</ul>
+<p><strong> Unit 8: Using ADO .NET </strong></p>
+<ul>
+  <li> ADO .NET Overview </li>
+  <li>.NET Data Providers </li>
+  <li>The DataSet Object </li>
+  <li>Data Designers and Data Binding </li>
+  <li>XML Integration </li>
+</ul>
+<p><strong> Unit 9: Developing Components in Visual Basic .NET </strong></p>
+<ul>
+  <li> Components Overview </li>
+  <li>Creating Serviced Components </li>
+  <li>Creating Component Classes </li>
+  <li>Creating Windows Forms Controls </li>
+  <li>Creating Web Forms User Controls </li>
+  <li>Threading </li>
+</ul>
+<p><strong> Unit 10: Deploying Applications </strong></p>
+<ul>
+  <li> Describing Assemblies </li>
+  <li>Choosing a Deployment Strategy</li>
+  <li>Deploying Applications </li>
+</ul>
+<p><strong> Unit 11: Upgrading to Visual Basic .NET </strong></p>
+<ul>
+  <li> Deciding Whether to Upgrade </li>
+  <li>Options for Upgrading </li>
+  <li>Recommendations </li>
+  <li>Performing the Upgrade </li>
+</ul>

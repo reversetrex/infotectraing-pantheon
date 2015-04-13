@@ -1,0 +1,8 @@
+<p>Upon completion of this course, learners are able to: </p>
+<ul>
+  <li>Install EdgeSight </li>
+  <li>Configure EdgeSight </li>
+  <li>Perform advanced configurations </li>
+  <li>Diagnose and troubleshoot issues using EdgeSight </li>
+  <li>Install and Configure EdgeSight for Load Testing </li>
+</ul>

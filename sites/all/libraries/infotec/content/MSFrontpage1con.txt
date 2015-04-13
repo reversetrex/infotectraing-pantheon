@@ -1,0 +1,57 @@
+<p><strong> Unit 1: Creating a Web </strong></p>
+<ul>
+  <li> Overview of Web Development </li>
+  <li>Create a New Web Site </li>
+  <li>Create and Format Web Page Text </li>
+  <li>Create Pages </li>
+  <li>Import Web Pages </li>
+</ul>
+<p><strong> Unit 2: Adding Images </strong></p>
+<ul>
+  <li> Add a Picture to a Web Page </li>
+  <li>Edit a Picture </li>
+  <li>Add a New Drawing </li>
+  <li>Add a Photo Gallery </li>
+  <li>Modify a Photo Gallery </li>
+</ul>
+<p><strong> Unit 3: Creating Links </strong></p>
+<ul>
+  <li> Add Hyperlinks </li>
+  <li>Add Bookmark Links </li>
+  <li>Link from an Image </li>
+</ul>
+<p><strong> Unit 4: Adding Tables </strong></p>
+<ul>
+  <li> Insert a Table </li>
+  <li>Set Table Properties </li>
+  <li>Set Cell Properties </li>
+  <li>Edit a Table's Structure </li>
+  <li>Split Tables </li>
+  <li>AutoFormat a Table </li>
+</ul>
+<p><strong> Unit 5: Formatting a Web Page </strong></p>
+<ul>
+  <li> Apply a Theme </li>
+  <li>Customize a Theme </li>
+  <li>Create and Format with Styles </li>
+  <li>Set the Background </li>
+  <li>Test in Multiple Browsers </li>
+</ul>
+<p><strong> Unit 6: Designing Your Web Pages </strong></p>
+<ul>
+  <li> Design a Web Page Layout </li>
+  <li>Lay Out a Web Page with Tables </li>
+  <li>Create and Apply a Dynamic Web Template </li>
+</ul>
+<p><strong> Unit 7: Structuring a Web Site with Navigation View </strong></p>
+<ul>
+  <li> Create a Navigation Structure </li>
+  <li>Modify a Navigation Structure </li>
+  <li>Remove a Web Page from a Web's Navigation Structure </li>
+</ul>
+<p><strong> Unit 8: Publishing a Web </strong></p>
+<ul>
+  <li>Prepare Your Web Site for Publishing </li>
+  <li>Publish Your Web </li>
+  <li>Publish a Web Site from One Location to Another </li>
+</ul>

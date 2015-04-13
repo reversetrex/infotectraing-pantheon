@@ -1,0 +1,10 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Create a basic worksheet.</li>
+  <li>Modify a worksheet.</li>
+  <li>Perform calculations.</li>
+  <li>Format a worksheet.</li>
+  <li>Develop a workbook.</li>
+  <li>Print the contents of a workbook.</li>
+  <li>Customize the layout of the Excel window.</li>
+</ul>

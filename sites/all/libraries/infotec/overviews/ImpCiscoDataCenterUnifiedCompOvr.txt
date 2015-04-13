@@ -1,0 +1,3 @@
+This course is designed to serve the needs of engineers and technicians who implement Cisco Unified Computing System (UCS) B-Series Blade Servers and Cisco UCS C-Series Rack-Mount Servers.
+<br><br>
+You will be guided through rack installation and provisioning of server hardware, operating systems, hypervisors, and applications. Much of the content is devoted to management and maintenance. DCUCI v5.0 covers the implementation and operation of Cisco UCS in the data center.

@@ -1,0 +1,18 @@
+<p>What You'll Learn:</p>
+<ul>
+  <li>The vCloud Automation Center architecture and its use in multivendor cloud environments.</li>
+  <li>Install and configure vCloud Automation Center 6.0.</li>
+  <li>Deploy Distributed Execution Managers and agents for vCloud Automation Center connectivity.</li>
+  <li>Configure endpoints to support compute fabric connectivity.</li>
+  <li>Manage vCloud Automation Center 6.0 entities on VMware hardware, third-party hardware, and cloud infrastructures.</li>
+  <li>Configure vCloud Automation Center infrastructure services.</li>
+  <li>Configure and manage tenants and blueprints.</li>
+  <li>Configure and manage a service catalog.</li>
+  <li>Configure and manage role-based access control.</li>
+  <li>Request and manage machines using the user portal.</li>
+  <li>Configure vCloud Automation Center workflows.</li>
+  <li>Integrate VMware vCenter Orchestrator with vCloud Automation Center.</li>
+  <li>Automate application provisioning with VMware vCloud Application Director.</li>
+  <li>Manage and monitor machines and resource reclamation.</li>
+  <li>Manage cost reporting with VMware IT Business Management Suite.</li>
+</ul>

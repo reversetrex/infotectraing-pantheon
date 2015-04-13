@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Use Microsoft Office Word 2007 with other programs.</li>
+  <li>Collaborate on documents.</li>
+  <li>Manage document versions.</li>
+  <li>Add reference marks and notes.</li>
+  <li>Make long documents easier to use.</li>
+  <li>Secure a document.</li>
+</ul>

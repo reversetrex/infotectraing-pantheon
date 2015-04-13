@@ -1,0 +1,31 @@
+<p><strong>MS 6425</strong></p>
+<p>After completing this course, students will be able to:</p>
+<ul>
+ <li>Describe the features and functionality of  Active Directory Domain Services.</li>
+ <li>Perform secure and efficient administration of Active Directory.</li>
+ <li>Manage users and service accounts.</li>
+ <li>Manage groups.</li>
+ <li>Manage computer accounts.</li>
+ <li>Implement a Group Policy infrastructure.</li>
+ <li>Manage User Desktops with Group Policy.</li>
+ <li>Manage enterprise security and configuration by using Group Policy settings.</li>
+ <li>Secure administration.</li>
+ <li>Improve the security of authentication in an AD DS Domain.</li>
+ <li>Configure Domain Name System.</li>
+ <li>Administer AD DS domain controllers.</li>
+ <li>Manage sites and Active Directory Replication.</li>
+ <li>Monitor, maintain and back up directory Service to ensure Directory Service continuity.</li>
+ <li>Manage multiple domains and forests.</li>
+</ul>
+<p><strong>MS 6426</strong></p>
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe identity and access solutions.</li>
+  <li>Configure Active Directory Certificate Services.</li>
+  <li>Deploy and manage certificates.</li>
+  <li>Configure Active Directory Lightweight Directory Services.</li>
+  <li>Configure Active Directory Federation Services.</li>
+  <li>Configure Active Directory Rights Management Services.</li>
+  <li>Maintain access management solutions.</li>
+  <li>Troubleshoot identity and access solutions.</li>
+</ul>

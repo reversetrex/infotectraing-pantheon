@@ -1,0 +1,1 @@
+Crystal Reports XI: Level 1 is the primary recommended course you should take if your job responsibilities require you to obtain output from databases. It is also the first course in the Crystal Reports XI series. In this course, you will build basic list and group reports that work with almost any database.

@@ -1,0 +1,7 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Maintain and optimize Windows Vista systems.</li>
+  <li>Configure Windows Vista Media Applications.</li>
+  <li>Configure Windows Vista Productivity Applications.</li>
+</ul>
+

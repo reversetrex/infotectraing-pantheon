@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>Identify the various elements of the Adobe InDesign interface.</li>
+  <li>Design documents.</li>
+  <li>Enhance documents with formats, color, and styles.</li>
+  <li>Work with page elements. manage objects.</li>
+  <li>Work with tables.</li>
+  <li>Finalize documents.</li>
+</ul>

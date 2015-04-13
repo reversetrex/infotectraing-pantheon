@@ -1,0 +1,695 @@
+<p> Unit I: Computer Forensics in Today&rsquo;s World </p>
+<ul>
+  <li> Introduction </li>
+  <li> History of Forensics </li>
+  <li> Definition of Forensic Science </li>
+  <li> Definition of Computer Forensics </li>
+  <li> What Is Computer Forensics? </li>
+  <li> Need for Computer Forensics </li>
+  <li> Evolution of Computer Forensics </li>
+  <li> Computer Forensics Flaws and Risks </li>
+  <li> Corporate Espionage Statistics </li>
+  <li> Modes of Attacks </li>
+  <li> Cyber Crime </li>
+  <li> Examples of Cyber Crime </li>
+  <li> Reason for Cyber Attacks </li>
+  <li> Role of Computer Forensics in Tracking Cyber Criminals </li>
+  <li> Rules of Computer Forensics </li>
+  <li> Computer Forensics Methodologies </li>
+  <li> Accessing Computer Forensics Resources </li>
+  <li> Preparing for Computing Investigations </li>
+  <li> Maintaining professional conduct </li>
+  <li> Understanding Enforcement Agency Investigations </li>
+  <li> Understanding Corporate Investigations </li>
+  <li> Investigation Process </li>
+  <li> Digital Forensics </li>
+</ul>
+<p> Unit II: Law And Computer Forensics </p>
+<ul>
+  <li> What Is Cyber Crime? </li>
+  <li> What Is Computer Forensics? </li>
+  <li> Computer Facilitated Crimes </li>
+  <li> Reporting Security Breaches to Law Enforcement </li>
+  <li> National Infrastructure Protection Center </li>
+  <li> FBI </li>
+  <li> Federal Statutes </li>
+  <li> Cyber Laws </li>
+  <li> Approaches to Formulate Cyber Laws </li>
+  <li> Scientific Working Group on Digital Evidence (SWGDE) </li>
+  <li> Federal Laws </li>
+  <li> The USA Patriot Act of 2001 </li>
+  <li> Freedom of Information Act </li>
+  <li> Building Cyber Crime Case </li>
+  <li> How the FBI Investigates Computer Crime? </li>
+  <li> How to Initiate an Investigation? </li>
+  <li> Legal Issues Involved in Seizure of Computer Equipments </li>
+  <li> Searching With a Warrant </li>
+  <li> Searching Without a Warrant </li>
+  <li> Privacy Issues Involved in Investigations </li>
+  <li> International Issues Related to Computer Forensics </li>
+  <li> Crime Legislation of EU </li>
+  <li> Cyber Crime Investigation </li>
+</ul>
+<p> Unit III: Computer Investigation Process </p>
+<ul>
+  <li> Investigating Computer Crime </li>
+  <li> Investigating a Company Policy Violation </li>
+  <li> Investigation Methodology </li>
+  <li> Evaluating the Case </li>
+  <li> Before the Investigation </li>
+  <li> Document Everything </li>
+  <li> Investigation Plan </li>
+  <li> Obtain Search Warrant </li>
+  <li> Warning Banners </li>
+  <li> Shutdown the Computer </li>
+  <li> Collecting the Evidence </li>
+  <li> Confiscation of Computer Equipments </li>
+  <li> Preserving the Evidence </li>
+  <li> Importance of Data-recovery Workstations and Software </li>
+  <li> Implementing an Investigation </li>
+  <li> Understanding Bit-stream Copies </li>
+  <li> Imaging the Evidence Disk </li>
+  <li> Examining the Digital Evidence </li>
+  <li> Closing the Case </li>
+  <li> Case Evaluation </li>
+</ul>
+<p> Unit IV: Computer Security Incident Response Team </p>
+<ul>
+  <li> Present Networking Scenario </li>
+  <li> Vulnerability </li>
+  <li> Vulnerability Statistics </li>
+  <li> What Is an Incident? </li>
+  <li> A Study by CERT Shows Alarming Rise in Incidents (security Breach </li>
+  <li> How to Identify an Incident </li>
+  <li> Whom to Report an Incident? </li>
+  <li> Incident Reporting </li>
+  <li> Category of Incidents </li>
+  <li> Handling Incidents </li>
+  <li> Procedure for Handling Incident </li>
+  <li> Preparation </li>
+  <li> Identification </li>
+  <li> Containment </li>
+  <li> Eradication </li>
+  <li> Recovery </li>
+  <li> Follow up </li>
+  <li> What Is CSIRT? </li>
+  <li> Why an Organization Needs an Incident Response Team? </li>
+  <li> Need for CSIRT </li>
+  <li> Example of CSIRT </li>
+  <li> CSIRT Vision </li>
+  <li> Vision </li>
+  <li> Best Practices for Creating a CSIRT </li>
+  <li> Step 1: Obtain Management Support and Buy-In </li>
+  <li> Step 2: Determine the CSIRT Development Strategic </li>
+  <li> Step 3: Gather Relevant Information </li>
+  <li> Step 4: Design your CSIRT Vision </li>
+  <li> Step 5: Communicate the CSIRT Vision </li>
+  <li> Step 6: Begin CSIRT Implementation </li>
+  <li> Step 7: Announce the CSIRT </li>
+  <li> Other Response Teams Acronyms and CSIRTs around the world </li>
+  <li> World CSIRT </li>
+</ul>
+<p> Unit V: Computer Forensic Laboratory Requirements </p>
+<ul>
+  <li> Budget Allocation for a Forensics Lab </li>
+  <li> Physical Location Needs of a Forensic Lab </li>
+  <li> Work Area of a Computer Forensics Lab </li>
+  <li> General Configuration of a Forensic </li>
+  <li> Equipment Needs in a Forensics Lab </li>
+  <li> Ambience of a Forensics Lab </li>
+  <li> Environmental Conditions </li>
+  <li> Recommended Eyestrain Considerations </li>
+  <li> Structural Design Considerations </li>
+  <li> Electrical Needs </li>
+  <li> Communications </li>
+  <li> Basic Workstation Requirements in a Forensic Lab </li>
+  <li> Consider stocking the following hardware peripherals </li>
+  <li> Maintain Operating System and Application Inventories </li>
+  <li> Common Terms </li>
+  <li> Physical Security Recommendations for a Forensic Lab </li>
+  <li> Fire-Suppression Systems </li>
+  <li> Evidence Locker Recommendations </li>
+  <li> Evidence Locker Combination Recommendations </li>
+  <li> Evidence Locker Padlock Recommendations </li>
+  <li> Facility Maintenance </li>
+  <li> Auditing a Computer Forensics Lab </li>
+  <li> Auditing a Forensics Lab </li>
+  <li> Forensics Lab </li>
+  <li> Mid Sized Lab </li>
+  <li> Forensic Lab Licensing Requisite </li>
+  <li> Forensic Lab Manager Responsibilities </li>
+</ul>
+<p> Unit VI: Understanding File systems and Hard disks </p>
+<ul>
+  <li> Disk Drive Overview - I </li>
+  <li> Hard Disk </li>
+  <li> Disk Platter </li>
+  <li> Tracks </li>
+  <li> Tracks Numbering </li>
+  <li> Sector </li>
+  <li> Sector addressing </li>
+  <li> Cluster </li>
+  <li> Cluster Size </li>
+  <li>Slack Space</li>
+  <li> Lost Clusters </li>
+<li> Bad Sector </li>
+  <li> Understanding File Systems </li>
+  <li> Types of File System </li>
+  <li> List of Disk File Systems </li>
+  <li> List of Network file systems </li>
+  <li> Special Purpose File systems </li>
+  <li> Popular Linux File systems </li>
+  <li> Sun Solaris 10 File system - ZFS </li>
+  <li> Windows File systems </li>
+  <li> Mac OS X File system </li>
+  <li> CD-ROM / DVD File system </li>
+  <li> File system Comparison </li>
+  <li> Boot Sector </li>
+  <li> Exploring Microsoft File Structures </li>
+  <li> Disk Partition Concerns </li>
+  <li> Boot Partition Concerns </li>
+  <li> Examining FAT </li>
+  <li> NTFS </li>
+  <li> NTFS System Files </li>
+  <li> NTFS Partition Boot Sector </li>
+  <li> NTFS Master File Table (MFT) </li>
+  <li> NTFS Attributes </li>
+  <li> NTFS Data Stream </li>
+  <li> NTFS Compressed Files </li>
+  <li> NTFS Encrypted File Systems (EFS) </li>
+  <li> EFS File Structure </li>
+  <li> Metadata File Table (MFT) </li>
+  <li> EFS Recovery Key Agent </li>
+  <li> Deleting NTFS Files </li>
+  <li> Understanding Microsoft Boot Tasks </li>
+  <li> Windows XP system files </li>
+  <li> Understanding Boot Sequence DOS </li>
+  <li> Understanding MS-DOS Startup Tasks </li>
+  <li> Other DOS Operating Systems </li>
+  <li> Registry Data </li>
+  <li> Examining Registry Data </li>
+</ul>
+<p> Unit VII: Windows Forensics </p>
+<ul>
+  <li> Locating Evidence on Windows Systems </li>
+  <li> Gathering Volatile Evidence </li>
+  <li> Pslist </li>
+  <li> Forensic Tool: fport </li>
+  <li> Forensic Tool - Psloggedon </li>
+  <li> Investigating Windows File Slack </li>
+  <li> Examining File Systems </li>
+  <li> Built-in Tool: Sigverif </li>
+  <li> Word Extractor </li>
+  <li> Checking Registry </li>
+  <li> Reglite.exe </li>
+  <li> Tool: Resplendent Registrar 3.30 </li>
+  <li> Microsoft Security ID </li>
+  <li> Importance of Memory Dump </li>
+  <li> Manual Memory Dumping in Windows 2000 </li>
+  <li> Memory Dumping in Windows XP and Pmdump </li>
+  <li> System State Backup </li>
+  <li> How to Create a System State Backup? </li>
+  <li> Investigating Internet Traces </li>
+  <li> Tool - IECookiesView </li>
+  <li> Tool - IE History Viewer </li>
+  <li> Forensic Tool: Cache Monitor </li>
+  <li> CD-ROM Bootable Windows XP </li>
+  <li> Bart PE </li>
+  <li> Ultimate Boot CD-ROM </li>
+  <li> List of Tools in UB CD-ROM </li>
+  <li> Desktop Utilities </li>
+  <li> File Analysis Tools </li>
+  <li> File Management Tools </li>
+  <li> File Recovery Tools </li>
+  <li> File Transfer Tools </li>
+  <li> Hardware Info Tools </li>
+  <li> Process Viewer Tools </li>
+  <li> Registry Tools </li>
+</ul>
+<p> Unit VIII:&nbsp; Linux and Macintosh Boot processes </p>
+<ul>
+  <li> UNIX Overview </li>
+  <li> Linux Overview </li>
+  <li> Understanding Volumes -I </li>
+  <li> Exploring Unix/Linux Disk Data Structures </li>
+  <li> Understanding Unix/linux Boot Process </li>
+  <li> Understanding Linux Loader </li>
+  <li> Linux Boot Process Steps </li>
+  <li> Step 1: The Boot Manager </li>
+  <li> Step 2: init </li>
+  <li> Step 2.1: /etc/inittab </li>
+  <li> runlevels </li>
+  <li> Step 3: Services </li>
+  <li> Understanding Permission Modes </li>
+  <li> Unix and Linux Disk Drives and Partitioning Schemes </li>
+  <li> Mac OS X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li>
+  <li> Mac OS X Hidden Files </li>
+  <li> Booting Mac OS X </li>
+  <li> Mac OS X Boot Options </li>
+  <li>The Mac OS X Boot Process</li>
+  <li> Installing Mac OS X on Windows XP </li>
+  <li> PearPC </li>
+  <li> MacQuisition Boot CD </li>
+</ul>
+<p> Unit IX: Linux Forensics </p>
+<ul>
+  <li> Use of Linux as a Forensics Tool </li>
+  <li> Recognizing Partitions in Linux </li>
+  <li> File System in Linux </li>
+  <li> Linux Boot Sequence </li>
+  <li> Linux Forensics </li>
+  <li> Case Example </li>
+  <li> Step-by-step approach to Case 1 (a) </li>
+  <li> Step-by-step approach to Case 1 (b) </li>
+  <li> Step-by-step approach to Case 1 (c) </li>
+  <li> Step-by-step approach to Case 1 (d) </li>
+  <li> Case 2 </li>
+  <li> Challenges in disk forensics with Linux </li>
+  <li> Step-by-step approach to Case 2 (a) </li>
+  <li> Step-by-step approach to Case 2 (b) </li>
+  <li> Step-by-step approach to Case 2 (c) </li>
+  <li> Popular Linux Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li>
+</ul>
+<p> Unit XX: Data Acquisition and Duplication </p>
+<ul>
+  <li> Determining the Best Acquisition Methods </li>
+  <li> Data Recovery Contingencies </li>
+  <li> MS-DOS Data Acquisition Tools </li>
+  <li> DriveSpy </li>
+  <li> DriveSpy Data Manipulation Commands </li>
+  <li> DriveSpy Data Preservation Commands </li>
+  <li> Using Windows Data Acquisition Tools </li>
+  <li> Data Acquisition Tool: AccessData FTK Explorer </li>
+  <li> FTK </li>
+  <li> Acquiring Data on Linux </li>
+  <li> dd.exe (Windows XP Version) </li>
+  <li> Data Acquisition Tool: Snapback Exact </li>
+  <li> Data Arrest </li>
+  <li> Data Acquisition Tool: SafeBack </li>
+  <li> Data Acquisition Tool: Encase </li>
+  <li> Need for Data Duplication </li>
+  <li> Data Duplication Tool: R-drive Image </li>
+  <li> Data Duplication Tool: DriveLook </li>
+  <li> Data Duplication Tool: DiskExplorer </li>
+</ul>
+<p> Unit XI: Recovering Deleted Files </p>
+<ul>
+  <li> Introduction </li>
+  <li> Digital Evidence </li>
+  <li> Recycle Bin in Windows </li>
+  <li> Recycle Hidden Folder </li>
+  <li> Recycle folder </li>
+  <li> How to Undelete a File? </li>
+  <li> Tool: Search and Recover </li>
+  <li> Tool: Zero Assumption Digital Image Recovery </li>
+  <li> Data Recovery in Linux </li>
+  <li> Data Recovery Tool: E2undel </li>
+  <li> Data Recovery Tool: O&amp;O Unerase </li>
+  <li> Data Recovery Tool: Restorer 2000 </li>
+  <li> Data Recovery Tool: Badcopy Pro </li>
+  <li> Data Recovery Tool: File Scavenger </li>
+  <li> Data Recovery Tool: Mycroft V3 </li>
+  <li> Data Recovery Tool: PC Parachute </li>
+  <li> Data Recovery Tool: Stellar Phoenix </li>
+  <li> Data Recovery Tool: Filesaver </li>
+  <li> Data Recovery Tool: Virtual Lab </li>
+  <li> Data Recovery Tool: R-linux </li>
+  <li> Data recovery tool: Drive and Data Recovery </li>
+  <li> Data recovery tool: active@ UNERASER - DATA recovery </li>
+  <li> Data recovery tool: Acronis Recovery Expert </li>
+  <li> Data Recovery Tool: Restoration </li>
+  <li> Data Recovery Tool: PC Inspector File Recovery </li>
+</ul>
+<p> Unit XII: Image Files Forensics </p>
+<ul>
+  <li> Introduction to Image Files </li>
+  <li> Recognizing an Image File </li>
+  <li> Understanding Bitmap and Vector Images </li>
+  <li> Metafile Graphics </li>
+  <li> Understanding Image File Formats </li>
+  <li> File types </li>
+  <li> Understanding Data Compression </li>
+  <li> Understanding Lossless and Lossy Compression </li>
+  <li> Locating and Recovering Image Files </li>
+  <li> Repairing Damaged Headers </li>
+  <li> Reconstructing File Fragments </li>
+  <li> Identifying Unknown File Formats </li>
+  <li> Analyzing Image File Headers </li>
+  <li> Picture Viewer: Ifran View </li>
+  <li> Picture Viewer: Acdsee </li>
+  <li> Picture Viewer: Thumbsplus </li>
+  <li> Steganography in Image Files </li>
+  <li> Steganalysis Tool: Hex Workshop </li>
+  <li> Steganalysis Tool: S-tools </li>
+  <li> Identifying Copyright Issues With <br>
+    Graphics </li>
+</ul>
+<p> Unit XIII: Steganography </p>
+<ul>
+  <li> Introduction </li>
+  <li> Important Terms in Stego-forensics </li>
+  <li> Background Information to Image Steganography </li>
+  <li> Steganography History </li>
+  <li> Evolution of Steganography </li>
+  <li> Steps for Hiding Information in Steganography </li>
+  <li> Six Categories of Steganography in Forensics </li>
+  <li> Types of Steganography </li>
+  <li> What Is Watermarking </li>
+  <li> Classification of Watermarking </li>
+  <li> Types of Watermarks </li>
+  <li> Steganographic Detection </li>
+  <li> Steganographic Attacks </li>
+  <li> Real World Uses of Steganography </li>
+  <li> Steganography in the Future </li>
+  <li> Unethical Use of Steganography </li>
+  <li> Hiding Information in Text Files </li>
+  <li> Hiding Information in Image Files </li>
+  <li> Process of Hiding Information in Image Files </li>
+  <li> Least Significant Bit </li>
+  <li> Masking and Filtering </li>
+  <li> Algorithms and Transformation </li>
+  <li> Hiding Information in Audio Files </li>
+  <li> Low-bit Encoding in Audio Files </li>
+  <li> Phase Coding </li>
+  <li> Spread Spectrum </li>
+  <li> Echo Data Hiding </li>
+  <li> Hiding Information in DNA </li>
+  <li> TEMPEST </li>
+  <li> The Steganography Tree </li>
+  <li> Steganography Tool: Fort Knox </li>
+  <li> Steganography Tool: Blindside </li>
+  <li> Steganography Tool: S- Tools </li>
+  <li> Steganography Tool: Steghide </li>
+  <li> Steganography Tool: Digital Identity </li>
+  <li> Steganography Tool: Stegowatch </li>
+  <li> Tool : Image Hide </li>
+  <li> Data Stash </li>
+  <li> Tool: Mp3Stego </li>
+  <li> Tool: Snow.exe </li>
+  <li> Tool: Camera/Shy </li>
+  <li> Steganography Detection </li>
+</ul>
+<p> Unit XIV: Computer Forensic Tools </p>
+<ul>
+  <li> Dump Tool:&nbsp; DS2DUMP </li>
+  <li> Dump Tool: Chaosreader </li>
+  <li> Slack Space &amp; Data Recovery Tools: Drivespy </li>
+  <li> Slack Space &amp; Data Recovery Tools: Ontrack </li>
+  <li> Hard Disk Write Protection Tools: Pdblock </li>
+  <li> Hard Disk Write Protection Tools: Nowrite &amp; Firewire Drivedock </li>
+  <li> Permanent Deletion of Files:pdwipe </li>
+  <li> Disk Imaging Tools: Image &amp; Iximager </li>
+  <li> Disk Imaging Tools: Snapback Datarrest </li>
+  <li> Partition Managers: PART &amp; Explore2fs </li>
+  <li> Linux/unix Tools: Ltools and Mtools </li>
+  <li> Linux/UNIX tools: TCT and TCTUTILs </li>
+  <li> Password Recovery Tool: @Stake </li>
+  <li> ASRData </li>
+  <li> SMART Screenshot </li>
+  <li> Ftime </li>
+  <li> Oxygen Phone Manager </li>
+  <li> Multipurpose Tools: Byte Back&nbsp; &amp; Biaprotect </li>
+  <li> Multipurpose Tools: Maresware </li>
+  <li> Multipurpose Tools: LC Technologies Software </li>
+  <li> Multipurpose Tools: Winhex Specialist Edition </li>
+  <li> Multipurpose Tools: Prodiscover DFT </li>
+  <li> Toolkits: NTI tools </li>
+  <li> Toolkits: R-Tools-I </li>
+  <li> Toolkits: R-Tools-II </li>
+  <li> Toolkits: DataLifter </li>
+  <li> Toolkits: AccessData </li>
+  <li> LC Technology International Hardware </li>
+  <li> Screenshot of Forensic Hardware </li>
+  <li> Image MASSter Solo&nbsp; and FastBloc </li>
+  <li> RMON2 Tracing Tools and <br>
+  MCI DoStracker </li>
+  <li> EnCase </li>
+</ul>
+<p> Unit XV: Application password crackers </p>
+<ul>
+  <li> Password - Terminology </li>
+  <li> What is a Password Cracker? </li>
+  <li> How Does A Password Cracker Work? </li>
+  <li> Various Password Cracking Methods </li>
+  <li> Classification of Cracking Software </li>
+  <li> System Level&nbsp; Password Cracking </li>
+  <li> Application Password Cracking </li>
+  <li> Application Software Password Cracker </li>
+  <li> Distributed Network Attack-I </li>
+  <li> Distributed Network Attack-II </li>
+  <li> Passware Kit </li>
+  <li> Accent Keyword Extractor </li>
+  <li> Advanced Zip Password Recovery </li>
+  <li> Default Password Database </li>
+  <li> http://phenoelit.darklab.org/ </li>
+  <li> http://www.defaultpassword.com/ </li>
+  <li> http://www.cirt.net/cgi-bin/passwd.pl </li>
+  <li> Password Cracking Tools List </li>
+</ul>
+<p> Unit XVI: Investigating Logs </p>
+<ul>
+  <li> Audit Logs and Security </li>
+  <li> Audit Incidents </li>
+  <li> Syslog </li>
+  <li> Remote Logging </li>
+  <li> Linux Process Accounting </li>
+  <li> Configuring Windows Logging </li>
+  <li> Setting up Remote Logging in Windows </li>
+  <li> NtSyslog </li>
+  <li> EventReporter </li>
+  <li> Application Logs </li>
+  <li> Extended Logging in IIS Server </li>
+  <li> Examining Intrusion and Security Events </li>
+  <li> Significance of Synchronized Time </li>
+  <li> Event Gathering </li>
+  <li> EventCombMT </li>
+  <li> Writing Scripts </li>
+  <li> Event Gathering Tools </li>
+  <li> Forensic Tool: Fwanalog </li>
+  <li> End-to End Forensic Investigation </li>
+  <li> Correlating Log files </li>
+  <li> Investigating TCPDump </li>
+  <li> IDS Loganalyais:RealSecure </li>
+  <li> IDS Loganalysis :SNORT </li>
+</ul>
+<p> Unit XVII: &nbsp;Investigating network traffic </p>
+<ul>
+  <li> Overview of Network Protocols </li>
+  <li> Sources of Evidence on a Network </li>
+  <li> Overview of Physical and Data-link Layer of the OSI Model </li>
+  <li> Evidence Gathering at the Physical Layer </li>
+  <li> Tool: Windump </li>
+  <li> Evidence Gathering at the Data-link Layer </li>
+  <li> Tool: Ethereal </li>
+  <li> Tool: NetIntercept </li>
+  <li> Overview of Network and Transport Layer of the OSI Model </li>
+  <li> Evidence Gathering at the Network and Transport Layer-(I) </li>
+  <li> Gathering Evidence on a Network </li>
+  <li> GPRS Network Sniffer : Nokia LIG </li>
+  <li> NetWitness </li>
+  <li> McAffee Infinistream Security Forensics </li>
+  <li> Snort 2.1.0 </li>
+  <li> Documenting the Gathered Evidence on a Network </li>
+  <li> Evidence Reconstruction for Investigation </li>
+</ul>
+<p> Unit XVIII: Router Forensics </p>
+<ul>
+  <li> What Is a Router? </li>
+  <li> Functions of a Router </li>
+  <li> A Router in an OSI Model </li>
+  <li> Routing Table and Its Components </li>
+  <li> Router Architecture </li>
+  <li> Implications of a Router Attack </li>
+  <li> Types of Router Attacks </li>
+  <li> Denial of Service (DoS) Attacks </li>
+  <li> Investigating Dos Attacks </li>
+  <li> Smurfing &ndash; Latest in Dos Attacks </li>
+  <li> Packet &ldquo;Mistreating&rdquo; Attacks </li>
+  <li> Routing Table Poisoning </li>
+  <li> Hit-and-run Attacks Vs. Persistent Attacks </li>
+  <li> Router Forensics Vs. Traditional Forensics </li>
+  <li> Investigating Routers </li>
+  <li> Chain of Custody </li>
+  <li> Incident Response &amp; Session Recording </li>
+  <li> Accessing the Router </li>
+  <li> Volatile Evidence Gathering </li>
+  <li> Router Investigation Steps - I </li>
+  <li> Analyzing the Intrusion </li>
+  <li> Logging </li>
+  <li> Incident Forensics </li>
+  <li> Handling a Direct Compromise Incident </li>
+  <li> Other Incidents </li>
+</ul>
+<p> Unit XIX: Investigating Web Attacks </p>
+<ul>
+  <li> Indications of a web attack </li>
+  <li> Responding to a web attack </li>
+  <li> Overview of web logs </li>
+  <li> Mirrored Sites </li>
+  <li> N-Stealth </li>
+  <li> Investigating static and dynamic IP address </li>
+  <li> Tools for locating IP Address: Nslookup </li>
+  <li> Tools for locating IP Address: Traceroute </li>
+  <li> Tools for locating IP Address:<br>
+NeoTrace (Now McAfee Visual Trace) </li>
+  <li> Tools for locating IP Address: Whois </li>
+  <li> Web page defacement </li>
+  <li> Defacement using DNS compromise </li>
+  <li> Investigating DNS Poisoning </li>
+  <li> SQL Injection Attacks </li>
+  <li> Investigating SQL Injection Attacks </li>
+  <li> Investigating FTP Servers </li>
+  <li> Investigating FTP Logs </li>
+  <li> Investigating IIS Logs </li>
+  <li> Investigating Apache Logs </li>
+  <li> Investigating DHCP Server Logfile </li>
+</ul>
+<p> Unit XX: Tracking E-mails and Investigating E-mail crimes </p>
+<ul>
+  <li> Understanding Internet Fundamentals </li>
+  <li> Understanding Internet Protocols </li>
+  <li> Exploring the Roles of the Client and Server in E-mail </li>
+  <li> E-mail Crime </li>
+  <li> Spamming, Mail Bombing, Mail Storm </li>
+  <li> Chat Rooms </li>
+  <li> Identity Fraud , Chain Letter </li>
+  <li> Sending Fakemail </li>
+  <li> Investigating E-mail Crime and Violation </li>
+  <li> Viewing E-mail Headers </li>
+  <li> Examining an E-mail Header </li>
+  <li> Viewing Header in Microsoft Outlook </li>
+  <li> Viewing Header in Eudora </li>
+  <li> Viewing Header in Outlook Express </li>
+  <li> Viewing Header in AOL </li>
+  <li> Viewing Header in Hot Mail </li>
+  <li> Viewing Header using Pine for Unix </li>
+  <li> Viewing Header in Juno </li>
+  <li> Viewing Header in Yahoo </li>
+  <li> Examining Additional Files </li>
+  <li> Microsoft Outlook Mail </li>
+  <li> Pst File Location </li>
+  <li> Tracing an E-mail Message </li>
+  <li> Using Network Logs Related&nbsp; to E-mail </li>
+  <li> Understanding E-mail Server </li>
+  <li> Examining UNIX E-mail Server Logs </li>
+  <li> Examining Microsoft E-mail Server Logs </li>
+  <li> Examining Novell GroupWise E-mail Logs </li>
+  <li> Using Specialized E-mail Forensic Tools </li>
+  <li> Tool:FINALeMAIL </li>
+  <li> Tool: R-Mail </li>
+  <li> E-Mail Examiner by Paraben </li>
+  <li> Network E-Mail Examiner by Paraben </li>
+  <li> Tracing Back </li>
+  <li> Tracing Back Web Based E-mail </li>
+  <li> Searching E-mail Addresses </li>
+  <li> E-mail Search Site </li>
+  <li> Handling Spam </li>
+  <li> Network Abuse Clearing House </li>
+  <li> Abuse.Net </li>
+  <li> Protecting Your E-mail Address From Spam </li>
+  <li> &nbsp; Tool: Enkoder Form </li>
+  <li> Tool:eMailTrackerPro </li>
+  <li> Tool:SPAM Punisher </li>
+</ul>
+<p> Unit XXI: Mobile and PDA Forensics </p>
+<ul>
+  <li> Latest Mobile Phone Access Technologies </li>
+  <li> Evidence in Mobile Phones </li>
+  <li> Mobile Phone Forensic Examination Methodology </li>
+  <li> Examining Phone Internal Memory </li>
+  <li> Examining SIM </li>
+  <li> Examining Flash Memory and Call data records </li>
+  <li> Personal Digital Assistant (PDA) </li>
+  <li> PDA Components </li>
+  <li> PDA Forensics </li>
+  <li> PDA Forensics - Examination </li>
+  <li> PDA Forensics - Identification </li>
+  <li> PDA Forensics - Collection </li>
+  <li> PDA Forensics - Documentation </li>
+  <li> Points to Be Remembered While Conducting Investigation </li>
+  <li> PDA Seizure by Paraben </li>
+  <li> SIM Card Seizure by Paraben<br>
+    (SIM Card acquisition tool) </li>
+  <li> Forensic Tool &ndash; Palm dd (pdd) </li>
+  <li> Forensic Tool - POSE </li>
+</ul>
+<p> Unit XXII:&nbsp; Investigating Trademark and Copyright Infringement </p>
+<ul>
+  <li> Trademarks </li>
+  <li> Trademark Eligibility and Benefits of Registering It </li>
+  <li> Service Mark and Trade Dress </li>
+  <li> Trademark infringement </li>
+  <li> Trademark Search </li>
+  <li> www.uspto.gov </li>
+  <li> Copyright and Copyright Notice </li>
+  <li> Investigating Copyright Status of a Particular Work </li>
+  <li> How Long Does a Copyright Last? </li>
+  <li> U.S Copyright Office </li>
+  <li> Doctrine of &ldquo;Fair Use&rdquo; </li>
+  <li> How Are Copyrights Enforced? </li>
+  <li> SCO Vs. IBM </li>
+  <li> SCO Vs Linux </li>
+  <li> Line-by-Line Copying </li>
+  <li> Plagiarism </li>
+  <li> Turnitin </li>
+  <li> Plagiarism detection tools </li>
+  <li> CopyCatch </li>
+  <li> Patent </li>
+  <li> Patent Infringement </li>
+  <li> Patent Search </li>
+  <li> Case Study: Microsoft Vs Forgent </li>
+  <li> Internet Domain Name and ICANN </li>
+  <li> Domain Name Infringement </li>
+  <li> Case Study: Microsoft.com Vs MikeRoweSoft.com </li>
+  <li> How to check for Domain Name Infringement? </li>
+</ul>
+<p> Unit XXIII:&nbsp; Investigative Reports </p>
+<ul>
+  <li> Need of an investigative report </li>
+  <li> Report specification </li>
+  <li> Report Classification </li>
+  <li> Report and Opinion </li>
+  <li> Layout of an Investigative Report </li>
+  <li> Writing Report </li>
+  <li> Use of Supporting Material </li>
+  <li> Importance of Consistency </li>
+  <li> Salient Features of a Good Report </li>
+  <li> Investigative Report Format </li>
+  <li> Before Writing the Report </li>
+  <li> Writing Report Using FTK </li>
+</ul>
+<p> Unit XIV:&nbsp; Becoming an Expert Witness </p>
+<ul>
+  <li> Who Is an Expert? </li>
+  <li> Who Is an Expert Witness? </li>
+  <li> Role of an Expert Witness </li>
+  <li> Technical Testimony&nbsp; Vs. <br>
+    Expert Testimony </li>
+  <li> Preparing for Testimony </li>
+  <li> Evidence Preparation and Documentation </li>
+  <li> Evidence Processing Steps </li>
+  <li> Rules Pertaining to an Expert Witness&rsquo; Qualification </li>
+  <li> Importance of Curriculum Vitae </li>
+  <li> Technical Definitions </li>
+  <li> Testifying in Court </li>
+  <li> The Order of Trial Proceedings </li>
+  <li> Voir dire </li>
+  <li> General Ethics While Testifying-i </li>
+  <li> Evidence Presentation </li>
+  <li> Importance of Graphics in a Testimony </li>
+  <li> Helping Your Attorney </li>
+  <li> Avoiding Testimony Problems </li>
+  <li> Testifying During Direct Examination </li>
+  <li> Testifying During Cross Examination </li>
+  <li> Deposition </li>
+  <li> Guidelines to Testify at a Deposition </li>
+  <li> Dealing With Reporters </li>
+</ul>
+<p> Unit XXV: Forensics in action </p>
+<ul>
+  <li> E-mail Hoax&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li>
+  <li> Trade Secret Theft </li>
+  <li>Operation Cyberslam</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

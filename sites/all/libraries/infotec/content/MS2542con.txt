@@ -1,0 +1,53 @@
+<p><strong> Unit 1: Minimizing and Handling Database Operation Conflicts <br>
+</strong>This unit describes how to minimize data access conflicts, and how to handle these conflicts when they occur. It describes how to implement optimistic concurrency in the ADO.NET disconnected model, and how to implement optimistic concurrency by using the various isolation levels available in SQL Server 2005. </p>
+<p> Units </p>
+<ul>
+  <li> Why Do Data Conflicts Arise? </li>
+  <li> Isolation Levels Available in SQL Server 2005 </li>
+  <li> Guidelines for Using SQL Server 2005 Isolation Levels </li>
+  <li> &nbsp;</li>
+</ul>
+<p><strong> Unit 2: Handling Large Objects <br>
+</strong>This unit describes how to read and write large values efficiently to a SQL Server database. It describes how to read large binary values and large text values by using SequentialAccess for a SqlDataReader. It also describes how to write large binary values and large text values, and how to conserve resources when writing large values. </p>
+<p> Units </p>
+<ul>
+  <li> What Are Binary Large Objects and Character Large Objects? </li>
+  <li> The Process for Reading Large Objects from a Database </li>
+  <li> The Process for Writing Large Objects to a Database </li>
+  <li> &nbsp;</li>
+</ul>
+<p><strong> Unit 3: Enhancing Database Performance <br>
+</strong>This unit describes how to enhance database performance by using new features available in ADO.NET 2.0. The unit describes how to perform asynchronous data operations, create multiple active result sets, perform batch updates, and perform bulk copies. </p>
+<p> Units </p>
+<ul>
+  <li> ADO.NET Enhancements in the .NET Framework 2.0 </li>
+  <li> SQL Server Provider Statistics </li>
+  <li> Access multiple result sets concurrently. </li>
+  <li> Perform asynchronous data access operations. </li>
+  <li> Perform a batch update. </li>
+  <li> Perform a bulk data copy. </li>
+</ul>
+<p><strong> Unit 4: Creating Managed Code Objects for SQL Server 2005 <br>
+</strong>This unit describes how to create database objects for SQL Server 2005 in a .NET Framework programming language. It describes how to create stored procedures, triggers, user-defined functions, aggregates, and user-defined types in managed code. Additionally, it describes how to deploy an assembly that contains managed objects into SQL Server 2005, and how to declare database objects to reference the managed objects. </p>
+<p> Units </p>
+<ul>
+  <li> The Benefits of Creating Managed Code Objects </li>
+  <li> Demonstration: The Process for Importing an Existing Assembly into SQL Server 2005 </li>
+  <li> Demonstration: The Process for Implementing Managed Code Objects in SQL Server 2005 </li>
+</ul>
+<p><strong> Unit 5: Querying XML by Using XPath <br>
+</strong>This unit describes how to use XPath in a .NET Framework application. It describes how to create an XPathNavigator object on an XML document, and how to locate content and evaluate expressions by using the XPathNavigator object. Additionally, it describes how to edit XML data by using the XPathNavigator object. </p>
+<p> Units </p>
+<ul>
+  <li> The XPath Data Model </li>
+  <li> The Process for Selecting and Editing XML Data by Using XPathNavigator </li>
+  <li> The Process for Evaluating XPath Expressions by Using XPathNavigator </li>
+</ul>
+<p><strong> Unit 6: Transforming XML by Using XSLT Style Sheets<br>
+</strong>This unit describes how to transform XML documents in a .NET Framework application. It introduces how to load an XSLT style sheet in an application, and how to execute the style sheet to transform an XML document. The unit also describes how to pass parameters into a style sheet, and how to create and use extension objects. </p>
+<p> Units </p>
+<ul>
+  <li> What Is XSLT? </li>
+  <li> The Process for Executing an XSLT Style Sheet </li>
+  <li> What Are Extension Objects? </li>
+</ul>

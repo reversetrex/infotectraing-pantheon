@@ -1,0 +1,92 @@
+<p><strong>Module 1: Assessing and Determining Desktop Deployment Options</strong></p>
+<p>This module describes the enterprise desktop lifecycle and explains how you can assess hardware and infrastructure readiness. The module then describes how to identify and select the most appropriate deployment option based upon organizational requirements.</p>
+<ul>
+  <li>Overview of the Enterprise Desktop Life Cycle</li>
+  <li>Assessing Hardware and Infrastructure Readiness for a Desktop Deployment</li>
+  <li>Using MAP to Assess Deployment Readiness</li>
+  <li>Overview of Enterprise Desktop Deployment Methods</li>
+  <li>Volume Activation Technologies for Enterprise Desktops</li>
+</ul>
+<p><strong>Module 2: Planning An Image Management Strategy</strong></p>
+<p>This modules describes Windows image formats and helps you to define an efficient image management strategy based upon business requirements.</p>
+<ul>
+  <li>Overview of Windows Image Format</li>
+  <li>Overview of Image Management</li>
+</ul>
+<p><strong>Module 3: Implementing Desktop Security</strong></p>
+<p>This module describes how to deploy and manage a secure desktop by implementing centralized policies, BitLocker settings, and Encrypted File System (EFS) settings.</p>
+<ul>
+  <li>Implementing a Centralized Desktop Security Solution</li>
+  <li>Planning and Implementing BitLocker</li>
+  <li>Planning and Implementing EFS</li>
+</ul>
+<p><strong>Module 4: Capturing and Managing a Desktop Operating System Image</strong></p>
+<p>This module describes how to use the Windows Assessment and Deployment Kit (ADK) and Windows Deployment Services (WDS) to create, capture, and manage a desktop operating system image.</p>
+<ul>
+  <li>Overview of Windows ADK</li>
+  <li>Managing Windows PE</li>
+  <li>Building a Reference Image by Using Windows SIM and Sysprep</li>
+  <li>Capturing and Servicing a Reference Image</li>
+  <li>Configuring and Managing Windows DS</li>
+</ul>
+<p><strong>Module 5: Planning and Implementing User State Migration</strong></p>
+<p>This modules describes how to use the User State Migration Tool (USMT) to migrate appropriate user data and settings to a new desktop operating system.</p>
+<ul>
+  <li>Overview of User State Migration</li>
+  <li>Planning User State Migration by Using USMT</li>
+  <li>Migrating User State by Using USMT</li>
+</ul>
+<p><strong>Module 6: Planning and Deploying Desktops Using the Microsoft Deployment Toolkit</strong></p>
+<p>This module describes how to use the Microsoft Deployment Toolkit (MDT) 2012 to deploy Windows operating systems in lite touch installation scenarios.</p>
+<ul>
+  <li>Planning for the LTI Environment</li>
+  <li>Implementing MDT 2012 for LTI</li>
+  <li>Integrating Windows DS with MDT</li>
+</ul>
+<p><strong>Module 7: Planning and Deploying Desktops by Using System Center 2012 Configuration Manager</strong></p>
+<p>This describes how to use System Center 2012 Configuration Manager to implement a zero touch installation for deploying enterprise desktops.</p>
+<ul>
+  <li>Planning the ZTI Environment</li>
+  <li>Preparing the Site for Operating System Deployment</li>
+  <li>Building a Reference Image by Using a Configuration Manager Task Sequence</li>
+  <li>Deploying Client Images by Using MDT Task Sequences</li>
+</ul>
+<p><strong>Module 8: Planning and Implementing a Remote Desktop Services Infrastructure</strong></p>
+<p>This module describes how to plan and implement session virtualization deployment and a virtual desktop infrastructure (VDI) based upon Windows Server 2012 Remote Desktop Services.</p>
+<ul>
+  <li>Overview of Remote Desktop Services</li>
+  <li>Planning the Remote Desktop Services Environment</li>
+  <li>Configuring a Virtual Machine–Based Desktop Infrastructure Deployment</li>
+  <li>Configuring a Session-Based Desktop Deployment</li>
+  <li>Extending the Remote Desktop Services Environment to the Internet</li>
+</ul>
+<p><strong>Module 9: Managing User State Virtualization For Enterprise Desktops</strong></p>
+<p>This module describes how to plan and configure user state virtualization to provide a consistent desktop client experience.</p>
+<ul>
+  <li>Overview of User State Virtualization</li>
+  <li>Planning User State Virtualization</li>
+  <li>Configuring Roaming Profiles, Folder Redirection, and Offline Files</li>
+  <li>Implementing UE-V</li>
+</ul>
+<p><strong>Module 10: Planning and Implementing an Updates Infrastructure to Support Enterprise Desktops</strong></p>
+<p>Students will be able to plan and implement an updates infrastructure to support both physical and virtual enterprise desktops.</p>
+<ul>
+  <li>Planning an Updates Infrastructure for the Enterprise</li>
+  <li>Supporting Software Updates with System Center 2012 Configuration Manager</li>
+  <li>Managing Updates for Virtual Machines and Images</li>
+  <li>Using Windows Intune for Managing Software Updates</li>
+</ul>
+<p><strong>Module 11: Protecting Enterprise Desktops from Malware and Data Loss</strong></p>
+<p>This module describes how to use System Center technologies such as Endpoint protection and Data Protection Manager (DPM) to protect enterprise desktops from malware and data loss.</p>
+<ul>
+  <li>Overview of System Center 2012 Endpoint Protection</li>
+  <li>Configuring System Center 2012 Endpoint Protection Client Settings and Monitoring Status</li>
+  <li>Using Windows Intune Endpoint Protection</li>
+  <li>Protecting Desktops by Using DPM</li>
+</ul>
+<p><strong>Module 12: Monitoring the Performance and Health of the Desktop Infrastructure</strong></p>
+<p>This module describes how to identify and monitor relevant services and components to ensure the health and performance of the enterprise desktop infrastructure.</p>
+<ul>
+  <li>Performance and Health Monitoring for the Desktop Infrastructure</li>
+  <li>Monitoring VDI</li>
+</ul>

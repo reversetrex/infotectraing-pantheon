@@ -1,0 +1,1 @@
+This five-day instructor-led course introduces students to network and applications infrastructure concepts and configurations provided by Window Server 2008. Students will be able to acquire a fundamental understanding in order to pursue advanced topics available for certification in the network and applications infrastructure areas.

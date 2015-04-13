@@ -1,0 +1,49 @@
+<p><strong> Unit 1: Building MDI Applications <br>
+</strong>This unit explains how to create multiple-document interface (MDI) applications that enable one parent window to host multiple documents. It demonstrates how to create MDI parent and child forms and how to determine the active MDI child and work with information on it. It also explains how to implement menu merging in an MDI application to make the menu on the parent form relevant to the active child form. </p>
+<p> Units </p>
+<ul>
+  <li> Windows Forms Layout Options. </li>
+  <li>What Are MDI Applications? </li>
+</ul>
+<p><strong> Unit 2: Customizing Windows Forms and Controls <br>
+</strong>This unit explains how to develop custom Microsoft Windows Forms and controls. Students will learn how to develop user controls, use GDI+ operations, and create new controls that inherit from the Control class. In addition, it demonstrates how to create a nonrectangular Windows Form and how to add features such as attributes and Toolbox bitmaps to controls. </p>
+<p> Units </p>
+<ul>
+  <li> What Are the Methods of Authoring Controls for Windows Forms? </li>
+  <li>Ways to Draw a User Interface by Using GDI+. </li>
+  <li>Creating a Nonrectangular Windows Form. </li>
+  <li>Create a custom user control. </li>
+</ul>
+<p><strong> Unit 3: Creating Customized Print Components <br>
+</strong>This unit explains how to print content from a Microsoft Windows Forms application by using the printing features of GDI+. Students will learn how to keep track of multiple pages when printing and render page content correctly. </p>
+<p> Units </p>
+<ul>
+  <li> Printing Features that Are Supported by .NET Framework 2.0. </li>
+  <li>Drawing Print Document Content by Using GDI+. </li>
+</ul>
+<p><strong> Unit 4: Performing Drag-and-Drop Operations and Implementing Clipboard Support <br>
+</strong>This unit introduces the properties, methods, and events that can be used to implement drag-and-drop functionality in a Microsoft Windows Forms application. Students will learn how to start and finish drag-and-drop operations and, specifically, how to implement drag-and-drop operations with a TreeView control. In addition, this unit demonstrates how to use the Clipboard to store and retrieve data. </p>
+<p> Units </p>
+<ul>
+  <li> Drag-and-Drop Operations in Windows Forms Applications. </li>
+  <li>Adding Clipboard Support in Windows Forms Applications. </li>
+</ul>
+<p><strong> Unit 5: Performing Asynchronous Tasks by Using Multithreaded Techniques <br>
+</strong>This unit demonstrates how to create Microsoft Windows Forms applications that can run tasks in the background. It explains how to make use of the asynchronous methods and other features of components that support the Asynchronous Pattern for Components. Students will also learn how to use the classes in the System.Threading namespace to run one or more tasks in the background by using multiple threads in an application. </p>
+<p> Units </p>
+<ul>
+  <li> Asynchronous Programming in Windows Forms Applications. </li>
+  <li>Creating Thread-Safe Applications. </li>
+</ul>
+<p><strong> Unit 6: Enhancing the Presentation of Windows Forms Applications <br>
+</strong>This unit describes several of the features that can be used when creating professional-looking applications. Students will learn how to build a Windows Form that has the appearance of Microsoft Office Outlook and how to configure a customized master/detail DataGridView control. In addition, this unit explains how to incorporate the PropertyGrid component and application settings features that enable users to edit and save their preferences. </p>
+<p> Units </p>
+<ul>
+  <li> Enhancing Application User Interfaces. </li>
+  <li>Customizing the DataGridView Control. </li>
+  <li>Application Settings and the PropertyGrid Control. </li>
+  <li>Explain the concepts of Windows Forms application settings and the PropertyGrid control. </li>
+  <li>Program the DataGridView control. </li>
+  <li>View and persist application settings by using the PropertyGrid control. </li>
+  <li>Implement a user interface in the style of Outlook by using rapid application development (RAD) features. </li>
+</ul>

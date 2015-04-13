@@ -1,0 +1,1 @@
+This three-day instructor-led course provides students with the knowledge and skills to set up the advanced features in the Project management and accounting module of Microsoft Dynamics AX. The course focuses on the advanced project functionality available in Microsoft DynamicsAX.

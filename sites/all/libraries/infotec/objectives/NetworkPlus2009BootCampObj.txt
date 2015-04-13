@@ -1,0 +1,7 @@
+<p>Upon successful completion  of this course, students will be able to:</p>
+<ul>
+	<li>Describe the features of  different network protocols and products for LANs, WANs, and wireless networks.</li>
+	<li>Identify threats to  network resources and appropriate security countermeasures</li>
+	<li>Install and configure  network cabling and appliances</li>
+	<li>Management, monitor, and troubleshoot networks</li>
+</ul>

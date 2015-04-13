@@ -1,0 +1,327 @@
+<h2>Module Outline </h2>
+<ul>
+  <li>Getting Started</li>
+  <li>Basic Networking</li>
+  <li>High Availability</li>
+  <li>Basic Load Balancing</li>
+  <li>Securing NetScaler</li>
+  <li>AppExpert Classic Policy Engine</li>
+  <li>Authentication and Authorization</li>
+  <li>Access Policies</li>
+  <li>End-User Access and Experience</li>
+  <li>Integrating NetScaler Gateway with XenApp and XenDesktop</li>
+  <li>AppExpert Default Policy Engine</li>
+  <li>Global Server Load Balancing</li>
+  <li>Monitoring and Management</li>
+  <li>Troubleshooting</li>
+  <li>NetScaler SDX Addendum</li>
+</ul>
+<h2>  Topic Outline</h2>
+<h3>Getting Started</h3>
+<ul>
+  <li>Getting Started</li>
+  <li>Introduction to Citrix NetScaler</li>
+  <li>NetScaler Functionality</li>
+  <li>NetScaler Overview</li>
+  <li>Product Features</li>
+  <li>Hardware Platforms</li>
+  <li>Hardware Components</li>
+  <li>nCore Configuration Architecture</li>
+  <li>Deployment Scenarios</li>
+  <li>NetScaler Gateway Overview</li>
+  <li>NetScaler Gateway Platforms</li>
+  <li>Initial NetScaler Access</li>
+  <li>NetScaler Licenses</li>
+  <li>NetScaler Gateway Licensing</li>
+  <li>To Install the NetScaler Gateway License</li>
+  <li>NetScaler Gateway Pre-Installation Checklist</li>
+  <li>Replacing Securing Gateway</li>
+  <li>Configuring NetScaler Gateway for First-time Use</li>
+  <li>Settings Configuration</li>
+  <li>End-User Access with the FQDN</li>
+  <li>Configuration Testing</li>
+  <li>Name Service Providers Configuration</li>
+  <li>Performing an Upgrade</li>
+  <li>Save the Configuration</li>
+</ul>
+<h3>Basic Networking</h3>
+<ul>
+  <li>Basic Networking  </li>
+  <li>    OSI Networking Model  </li>
+  <li>NetScaler Architecture Overview  </li>
+  <li>NetScaler-owned IP addresses  </li>
+  <li>Network Topology  </li>
+  <li>NetScaler Gateway Deployment  </li>
+  <li>NetScaler Network Interfaces  </li>
+  <li>Virtual Local Area Networks (VLANs)  </li>
+  <li>IP Address Routing  </li>
+  <li>Mac-based Forwarding Mode  </li>
+  <li>Determining the Source IP Address  </li>
+  <li>Link Aggregation</li>
+</ul>
+<h3>High Availability</h3>
+<ul>
+  <li>High Availability</li>
+  <li>High Availability Functionality</li>
+  <li>High Availability Node Configuration</li>
+  <li>Propagation and Synchronization</li>
+  <li>High Availability Management</li>
+  <li>Upgrading a High Availability Pair</li>
+  <li>High Availability Issues</li>
+  <li>High Availability Pair in Different Subnets</li>
+  <li>Adding a Remote Node</li>
+  <li>To Add a Remote Node for Independent Network Computing Mode</li>
+</ul>
+<h3> Basic Load Balancing</h3>
+<ul>
+  <li>Basic Load Balancing</li>
+  <li>Load Balancing Basics</li>
+  <li>Entity Management</li>
+  <li>Server Creation</li>
+  <li>Service Monitoring</li>
+  <li>Services Configuration Overview</li>
+  <li>Virtual Server Creation</li>
+  <li>Binding Services or Service Groups to a Virtual Server</li>
+  <li>Traffic Types</li>
+  <li>Default Monitors</li>
+  <li>Built-In Monitors</li>
+  <li>Monitor Parameters</li>
+  <li>Creating Monitors</li>
+  <li>HTTP Monitoring</li>
+  <li>Extended Application Verification (EAV) Monitoring</li>
+  <li>Extended Content Verification (ECV) Monitoring</li>
+  <li>HTTP-ECV and TCP-ECV Monitoring Process</li>
+  <li>Reverse Condition Monitoring</li>
+  <li>Setting Monitor Thresholds</li>
+  <li>Custom Monitors</li>
+  <li>XenDesktop Delivery Controller Monitoring</li>
+  <li>StoreFront Store Monitoring</li>
+  <li>TFTP Server Monitoring</li>
+  <li>Load Balancing Methods</li>
+  <li>Service Weights</li>
+  <li>Persistence and Persistence Connections</li>
+  <li>Load Balancing Configuration Protection</li>
+  <li>Load Balancing Wizards</li>
+  <li>Disabling Services</li>
+  <li>Graceful Shutdown of Services</li>
+  <li>Removing Services</li>
+  <li>Configuration Verification</li>
+  <li>The Load Balancing Visualizer</li>
+</ul>
+<h3> Securing NetScaler</h3>
+<ul>
+  <li>Securing NetScaler</li>
+  <li>SSL</li>
+  <li>SSL Session Process</li>
+  <li>Features and Benefits</li>
+  <li>Offload Performance</li>
+  <li>Digital Certificates</li>
+  <li>SSL Administration</li>
+  <li>SSL Offload Overview</li>
+  <li>Deployment Scenarios</li>
+  <li>Citrix Recommendations for SSL</li>
+  <li>SSL Renegotiation Attack</li>
+  <li>SSL Troubleshooting</li>
+  <li>SSL Offload Troubleshooting</li>
+</ul>
+<h3> AppExpert Classic Policy Engine</h3>
+<ul>
+  <li>AppExpert Classic Policy Engine</li>
+  <li>Policies Overview</li>
+  <li>Policies and Profile Configuration</li>
+  <li>Policies Creation</li>
+  <li>Traffic Policies</li>
+</ul>
+<h3> Authentication and Authorization</h3>
+<ul>
+  <li>Authentication and Authorization</li>
+  <li>System and AAA User Groups</li>
+  <li>Local Accounts</li>
+  <li>External Authentication</li>
+  <li>External Authentication for System Users</li>
+  <li>NTLMV2 Authentication</li>
+  <li>Configuration of Command Policies for Delegating Administrators</li>
+  <li>Custom Command Policy Configuration for Delegated Adminstrators</li>
+  <li>Authentication Configuration</li>
+  <li>Authentication Types Supported on NetScaler</li>
+  <li>Default Global Authentication Types Configuration</li>
+  <li>Local Users Configuration</li>
+  <li>Authentication Policies</li>
+  <li>LDAP Authentication Policies</li>
+  <li>RADIUS Authentication Policies</li>
+  <li>Client Certificate Authentication Configuration</li>
+  <li>Smart Card Authentication Configuration</li>
+  <li>To Disable Authentication</li>
+  <li>Authentication, Authorization, and Auditing (AAA) Issues</li>
+</ul>
+<h3>Access Policies</h3>
+<ul>
+  <li>Access Policies</li>
+  <li>Endpoint Analysis</li>
+  <li>Endpoint Policies</li>
+  <li>Pre-Authentication Policies</li>
+  <li>Pre-Authentication Policies and Profiles</li>
+  <li>Security Pre-Authentication Expressions Configuration of End-User Devices</li>
+  <li>Operating System Policies Configuration</li>
+  <li>Antivirus, Firewall, Internet Security, or Anti-Spam Expressions Configuration</li>
+  <li>To Configure a Client Service Scan</li>
+  <li>Security Checks Configuration</li>
+  <li>To Configure Process Policies</li>
+  <li>File Scan Policies Configuration</li>
+  <li>To Configure a Session or Pre-Authentication Policy to Check for a File on the End User Device</li>
+  <li>Registry Policies Configuration</li>
+  <li>To Configure a Registry Policy</li>
+  <li>To Create a Sample Pre-Authentication Scan</li>
+  <li>Custom Expressions Configuration</li>
+  <li>To Bind Pre-Authentication Policies</li>
+  <li>Post-Authentication Policies</li>
+  <li>End-User Logon Options Evaluation</li>
+  <li>Quarantine Groups</li>
+  <li>Endpoint Analysis Troubleshooting</li>
+</ul>
+<h3> End User Access and Experience</h3>
+<ul>
+  <li>End User Access and Experience</li>
+  <li>Connection Methods</li>
+  <li>Secure Tunnel Establishment</li>
+  <li>Network Firewalls and Proxies</li>
+  <li>Secure Tunnel Termination</li>
+  <li>NetScaler Gateway Plug-in Support</li>
+  <li>Software Firewalls</li>
+  <li>NetScaler Gateway Plug-In Integration with Citrix Receiver</li>
+  <li>Citrix Receiver Home Page</li>
+  <li>NetScaler Gateway Plug-In Selection for End-Users</li>
+  <li>NetScaler Gateway Plug-In Deployment, Upgrading, and Removal from Active Directory</li>
+  <li>Client Ports</li>
+  <li>NetScaler Gateway Plug-in Connection Configuration</li>
+  <li>End User Connections Proxy Support Enablement</li>
+  <li>Session Policies</li>
+  <li>Credential Passing</li>
+  <li>Configuring the Default Home Page for SSL VPN and Clientless VPN Connections</li>
+  <li>Timeout Settings</li>
+  <li>Split Tunneling</li>
+  <li>Timeout Settings Configuration</li>
+  <li>Client Cleanup</li>
+  <li>Single Sign-on Configuration</li>
+  <li>Client Interception</li>
+  <li>To Configure Name Service Resolution</li>
+  <li>Access Interface Configuration</li>
+  <li>Clientless Access</li>
+  <li>Domain Access Configuration for End Users</li>
+  <li>SharePoint Site</li>
+  <li>Clientless Access Settings Using Web Interface</li>
+  <li>Client Choices Page Configuration</li>
+  <li>Access Scenario Fallback Configuration</li>
+  <li>NetScaler Gateway Advanced Concepts</li>
+</ul>
+<h3> Integrating NetScaler Gateway with XenApp and XenDesktop</h3>
+<ul>
+  <li>Integrating NetScaler Gateway with XenApp and XenDesktop</li>
+  <li>NetScaler Gateway Prerequisites</li>
+  <li>Firewall Rules</li>
+  <li>StoreFront Services Deployment</li>
+  <li>Beacons</li>
+  <li>Enabling Access Method Fallback with Policies</li>
+  <li>SSL Certificate Trust</li>
+  <li>Session Policies</li>
+  <li>Session Profile Creation</li>
+  <li>Custom Clientless Access Policies Configuration for StoreFront Services</li>
+  <li>XenApp and XenDesktop Addition to a Single Site</li>
+  <li>XenMobile Platform Overview</li>
+</ul>
+<h3> AppExpert Default Policy Engine</h3>
+<ul>
+  <li>Understanding Policies</li>
+  <li>Understanding Packet-Processing Flow</li>
+  <li>Policy Process Evaluation Flow</li>
+  <li>Identifying Default Policy Expressions</li>
+  <li>Actions</li>
+  <li>Configuring Policies and Actions</li>
+  <li>Understanding Bind Points</li>
+  <li>Understanding Policy Labels</li>
+  <li>Pattern Sets</li>
+  <li>Typecasting</li>
+  <li>Responder, Rewrite, and URL Transformation</li>
+  <li>Responder Policies</li>
+  <li>Responder Actions</li>
+  <li>Respond With</li>
+  <li>Responder HTML Page Imports</li>
+  <li>Rewrite Policies</li>
+  <li>Configure a Rewrite Action</li>
+  <li>Binding Policies</li>
+</ul>
+<h3> Global Server Load Balancing</h3>
+<ul>
+  <li>Global Server Load Balancing</li>
+  <li>GSLB Deployment Methods</li>
+  <li>GSLB Concepts</li>
+  <li>GSLB Entities</li>
+  <li>GSLB DNS Methods</li>
+  <li>Metric Exchange Protocol</li>
+  <li>Implementing GSLB</li>
+  <li>Viewing and Configuring GSLB with the Visualizer</li>
+  <li>Configuration Site-to-Site Communication</li>
+  <li>RPC Node Password</li>
+  <li>Encryption of Site Metrics Exchange</li>
+  <li>Source IP Address for an RPC Node</li>
+  <li>GSLB Site Communication Example</li>
+  <li>Customizing the GSLB Configuration</li>
+  <li>Changing the GSLB Method</li>
+  <li>GSLB Persistence</li>
+  <li>Using Dynamic Weights for Services</li>
+  <li>Monitoring GSLB Services</li>
+  <li>Binding Monitors to a GSLB Service</li>
+  <li>Monitoring GSLB Sites</li>
+  <li>Protecting the GSLB Setup Against Failure</li>
+  <li>Responding with an Empty Address Record When in the DOWN State</li>
+  <li>Backup IP Address Configuration for a GSLB Domain</li>
+  <li>Implementing GSLB Failover for Disaster Recovery</li>
+</ul>
+<h3>Monitoring and Management</h3>
+<ul>
+  <li>Monitoring and Management</li>
+  <li>Monitoring Needs</li>
+  <li>Monitoring Methods</li>
+  <li>AppFlow on the NetScaler System</li>
+  <li>HDX Insight</li>
+  <li>NetScaler Log Management</li>
+  <li>Troubleshooting Resources</li>
+  <li>Troubleshooting Tools</li>
+  <li>Display NetScaler System Information</li>
+</ul>
+<h3> Troubleshooting</h3>
+<ul>
+  <li>Labs-only module covering 4 Troubleshooting Scenarios</li>
+</ul>
+<h3>Appendix A: NetScaler SDX Addendum</h3>
+<ul>
+  <li>Introduction to the NetScaler SDX Appliance</li>
+  <li>Product Benefits</li>
+  <li>Hardware Platforms</li>
+  <li>Deployment Scenarios</li>
+  <li>Licensing</li>
+  <li>Base Architecture</li>
+  <li>IO Virtualization</li>
+  <li>VLAN Filtering</li>
+  <li>Restricting VLANs to Specific Virtual Interfaces</li>
+  <li>NetScaler SDX High Availability</li>
+  <li>Service VM Overview</li>
+  <li>Device Management</li>
+  <li>Instance Management</li>
+  <li>Provisioning a NetScaler VPX Instance on an SDX Appliance</li>
+  <li>NetScaler SDX Service VM Internals</li>
+  <li>Simple Consolidation</li>
+  <li>Data Plane Isolation with Shared Interfaces</li>
+  <li>Simple Consolidation with Delegated Administration</li>
+  <li>Consolidation Across Security Zones</li>
+  <li>SNMP</li>
+  <li>SNMP Trap Destinations</li>
+  <li>Adding an SNMP Manager Community</li>
+  <li>Configuring the NetScaler for SNMPv3 Queries</li>
+  <li>SNMP Views</li>
+  <li>SNMP Users</li>
+  <li>SNMP Alarms</li>
+  <li>System Health Monitoring</li>
+  <li>Third-Party Virtual Machines</li>
+  <li>Managing the NetScaler SDX Appliance</li>
+</ul>

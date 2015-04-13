@@ -1,0 +1,114 @@
+<p><strong>Module 1: Planning  Server Deployment and Upgrade</strong></p>
+<p>This module explains how to plan Windows Server 2008 and  Windows Server 2008 R2 deployments and upgrades.</p>
+<ul>
+  <li>Developing a Deployment Strategy</li>
+  <li>Virtualization Considerations</li>
+  <li>Selecting an Automation Strategy</li>
+  <li>Implementing an Automation Strategy</li>
+</ul>
+
+<p><strong>Module 2: Planning  Server Management and Delegated Administration</strong></p>
+<p>This module explains how to plan  for server management and delegated administration on Windows Server 2008 and  Windows Server 2008 R2 environments.</p>
+<ul>
+  <li>Remote Server Management Tools</li>
+  <li>Decentralizing Systems Administration</li>
+  <li>Lab : Implementing Role-Based Systems Administration</li>
+</ul>
+
+<p><strong>Module 3: Planning  Network Addressing and Name Resolution</strong></p>
+<p>This module explains how to plan  for IPv4 and IPv6 addressing in your network and to plan and implement DNS and  DHCP in a Windows Server 2008 and Windows Server 2008 R2 environment<strong></strong>.</p>
+<ul>
+  <li>Provisioning IPv4 Addresses on Enterprise Networks</li>
+  <li>Provisioning IPv6 Addresses on Enterprise Networks</li>
+  <li>Transitioning to IPv6</li>
+  <li>Provisioning DNS Services on Enterprise Networks</li>
+</ul>
+
+<p><strong>Module 4: Planning  and Provisioning Active Directory Domain Services</strong></p>
+<p>This module explains how to plan  and provision Active Directory Domain Services in Windows Server 2008 and  Windows Server 2008 R2 environments.</p>
+<ul>
+  <li>Deploying Domain Controllers in Multi-Site Organizations</li>
+  <li>Planning Administrative and Management Structures for AD DS</li>
+  <li>Planning a Maintenance Strategy for AD DS</li>
+  <li>Planning a Backup and Restore Strategy for AD DS</li>
+</ul>
+
+<p><strong>Module 5: Planning  Group Policy Strategy</strong></p>
+<p>This module explains how to plan  and implement Group Policy strategy n Windows Server 2008 and Windows Server  2008 R2 environments.</p>
+<ul>
+  <li>Planning Group Policy Settings</li>
+  <li>Planning the Assignment of Group Policies</li>
+  <li>Planning the Management of Group Policy Objects</li>
+</ul>
+
+<p><strong>Module 6: Planning  Active Directory Certificate Services</strong></p>
+<p>This module explains how to plan  Active Directory Certificate Services in Windows Server 2008 and Window Server  2008 R2 environments.</p>
+<ul>
+  <li>Enterprise PKI Deployment and Administration</li>
+  <li>Managing Certificate Templates</li>
+  <li>Planning Certificate Enrollment and Revocation</li>
+</ul>
+
+<p><strong>Module 7: Planning  and Provisioning Application Servers</strong></p>
+<p>This module explains how to plan  and provision application servers in Windows Server 2008 and Windows Server  2008 R2 environments.</p>
+<ul>
+  <li>Planning and Provisioning Web Services</li>
+  <li>Planning and Provisioning Presentation Virtualization</li>
+  <li>Planning and Provisioning Application Virtualization</li>
+</ul>
+
+<p><strong>Module 8: Planning  File and Print Services</strong></p>
+<p>This module explains how to plan  and implement File and Print services in your Windows Server 2008 and Windows  Server 2008 R2 environment.</p>
+<ul>
+  <li>Provisioning File Services</li>
+  <li>Provisioning and Managing Storage</li>
+  <li>Provisioning and Managing Network Print Services</li>
+  <li>Migrating File and Print Services</li>
+</ul>
+
+<p><strong>Module 9: Planning  Network Access</strong></p>
+<p>This module explains how to plan  and implement your network infrastructure components in your Windows Server  2008 and Windows server 2008 R2 environment.</p>
+<ul>
+  <li>Planning Network Security</li>
+  <li>Planning Virtual Private Networks</li>
+  <li>Planning Network Access Protection</li>
+  <li>Planning DirectAccess</li>
+</ul>
+
+<p><strong>Module 10:  Provisioning Data and Storage</strong></p>
+<p>This module explains how to  provision data and storage in your Windows Server 2008 and Windows server 2008  R2 environment.</p>
+<ul>
+  <li>Planning and Implementing Distributed File System</li>
+  <li>Planning and Implementing BranchCache</li>
+  <li>Provisioning Storage</li>
+</ul>
+
+<p><strong>Module 11: Planning  Update Deployment</strong></p>
+<p>This module explains how to plan  and implement a Windows Server Update Service topology and how to deploy and  manage updates in your Windows Server 2008 and Windows Server 2008 R2  environment.</p>
+<ul>
+  <li> WSUS Topologies</li>
+  <li>Update Management</li>
+</ul>
+
+<p><strong>Module 12: Planning  High Availability</strong></p>
+<p>This module explains how to plan  and implement High Availability in your Windows Server 2008 and Windows Server  2008 R2 environment.</p>
+<ul>
+  <li>Planning Network Load Balancing</li>
+  <li>Planning Failover Clustering</li>
+  <li>Planning for Service Availability</li>
+</ul>
+
+<p><strong>Module 13: Planning  Performance and Event Monitoring</strong></p>
+<p>This module explains how to plan  for performance and event monitoring in your Windows Server 2008 and Windows  Server 2008 R2 environment.</p>
+<ul>
+  <li>Monitoring and Analyzing Server Performance</li>
+  <li>Managing Events</li>
+</ul>
+
+<p><strong>Module 14: Enterprise  Backup and Recovery</strong></p>
+<p>This module explains how to plan  for back ups and disaster recovery in your Windows Server 2008 and Windows  Server 2008 R2 environment.</p>
+<ul>
+  <li>Disaster Recovery Concepts</li>
+  <li>Planning Windows Server Backup</li>
+  <li>Planning Recovery of Data and servers</li>
+</ul>

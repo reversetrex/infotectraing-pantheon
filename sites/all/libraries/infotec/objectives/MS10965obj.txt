@@ -1,0 +1,40 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the key features of System Center 2012 SP1.</li>
+  <li>Describe System Center 2012 SP1 Service Manager.</li>
+  <li>Describe the key methodologies adopted using ITIL and MOF.</li>
+  <li>Describe how System Center 2012 SP1 Service Manager adopts best practices using ITIL and MOF.</li>
+  <li>Describe the System Center 2012 SP1 Service Manager Architecture and Core Components.</li>
+  <li>Describe the Hardware and Software Requirements of System Center 2012 SP1 Service Manager.</li>
+  <li>Describe the Security Requirements of System Center 2012 SP1 Service Manager.</li>
+  <li>Install System Center 2012 SP1 Service Manager.</li>
+  <li>Upgrade Service Manager 2010 to System Center 2012 SP1 Service Manager.</li>
+  <li>Describe System Center 2012 Service Manager Base Configuration.</li>
+  <li>Configure Notifications.</li>
+  <li>Integrate System Center 2012 Service Manager using Connectors.</li>
+  <li>Configure the Exchange Connector.</li>
+  <li>Configure Business Services.</li>
+  <li>Describe the definition of an Incident and a Problem.</li>
+  <li>Manage Incidents.</li>
+  <li>Manage Problems.</li>
+  <li>Use Queues and Views with Incidents and Problems.</li>
+  <li>Configure Activity Management.</li>
+  <li>Configure Change Management.</li>
+  <li>Configure Release Management.</li>
+  <li>Describe the Service Catalog, Request Offerings and Service Offerings.</li>
+  <li>Manage Service Requests and Catalog Groups.</li>
+  <li>Describe the Self-Service Portal.</li>
+  <li>Perform datacenter resource provisioning with the Cloud Services Process Pack.</li>
+  <li>Configure Service Level Management.</li>
+  <li>View SLA information in Service Manager.</li>
+  <li>Describe the components of the Self-Service Portal.</li>
+  <li>Customize the Self-Service Portal.</li>
+  <li>Run reports in Service Manager.</li>
+  <li>Configure and run Data Warehouse Jobs.</li>
+  <li>Troubleshoot Data Warehouse Jobs.</li>
+  <li>Describe the Data Warehouse Cubes in Service Manager.</li>
+  <li>Describe the Process Pack for IT GRC.</li>
+  <li>Install the Process Pack for IT GRC.</li>
+  <li>Create a Control Management Program.</li>
+  <li>Manage a Control Management Program.</li>
+</ul>

@@ -1,0 +1,19 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Write SELECT queries</li>
+  <li>Query multiple tables</li>
+  <li>Sort and filter data</li>
+  <li>Describe the use of data types in SQL Server</li>
+  <li>Modify data using Transact-SQL</li>
+  <li>Use built-in functions</li>
+  <li>Group and aggregate data</li>
+  <li>Use subqueries</li>
+  <li>Use table expressions</li>
+  <li>Use set operators</li>
+  <li>Use window ranking, offset and aggregate functions</li>
+  <li>Implement pivoting and grouping sets</li>
+  <li>Execute stored procedures</li>
+  <li>Program with T-SQL</li>
+  <li>Implement error handling</li>
+  <li>Implement transactions</li>
+</ul>

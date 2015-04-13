@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+	<li>Describe the System Center 2012 Configuration Manager feature set.</li>
+    <li>Discover and organize resources.</li>
+    <li>Manage the Configuration Manager client.</li>
+    <li>Manage inventory and software metering.</li>
+    <li>Query and report data.</li>
+    <li>Manage software deployments by using packages and programs.</li>
+    <li>Create and deploy applications.</li>
+    <li>Manage application deployment.</li>
+    <li>Deploy and manage software updates.</li>
+    <li>Implement System Center 2012 Endpoint Protection.</li>
+    <li>Deploy operating systems by using System Center 2012 Configuration Manager.</li>
+    <li>Manage compliance settings on devices.</li>
+    <li>Manage mobile devices.</li>
+    <li>Configure Wake On LAN, power management, and Remote Control.</li>
+</ul>

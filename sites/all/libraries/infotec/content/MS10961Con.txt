@@ -1,0 +1,91 @@
+<p><strong>Module 1: Getting Started with Windows PowerShell</strong></p>
+<p>In this module students will learn a bit about PowerShell's purpose and history, and will learn the basics of using the shell, including the help system, command syntax, command discovery and more.</p>
+<ul>
+  <li>Overview and Background</li>
+  <li>Finding and Running Commands</li>
+</ul>
+
+<p><strong>Module 2: Working with the Pipeline</strong></p>
+<p>In this module students will learn to use PowerShell's pipeline, along with a number of new commands, to start retrieving, manipulating, and displaying data. An emphasis is placed on proper syntax and form.</p>
+<ul>
+  <li>Working with the Pipeline</li>
+  <li>Exporting, Importing and Converting Data</li>
+  <li>Filtering Objects Out of the Pipeline</li>
+  <li>Enumerating Objects in the Pipeline</li>
+</ul>
+
+<p><strong>Module 3: Understanding How the Pipeline Works</strong></p>
+<p>In this module students will learn the underlying details of how commands are passed from one command to another in the pipeline. Having seen it in action, they'll now get to see some of the theory under the hood. The emphasis will be in the ByValue and ByPropertyName techniques, with demonstrations that illustrate effective uses of each. Students will also learn techniques that can be used in lieu of pipeline binding, for when such binding is unavailable or ineffective.</p>
+<ul>
+  <li>Passing Data in the Pipeline ByValue</li>
+  <li>Passing Data in the Pipeline ByPropertyName</li>
+</ul>
+
+<p><strong>Module 4: Using PSProviders and PSDrives</strong></p>
+<p>In this module students will learn about PSProviders and PSDrives, and learn to use -Item* commands to manipulate items within a PSDrive.</p>
+<ul>
+  <li>Understanding PSProviders and PSDrives</li>
+  <li>Using PSDrives</li>
+</ul>
+
+<p><strong>Module 5: Formatting Output</strong></p>
+<p>In this module students will learn to manipulate command output to create customized on-screen, text file, and hardcopy results.</p>
+<ul>
+  <li>Using Basic Formatting</li>
+  <li>Using Advanced Formatting</li>
+  <li>Redirecting Formatted Output</li>
+</ul>
+
+<p><strong>Module 6: Using WMI and CIM</strong></p>
+<p>In this module students will learn to use Windows Management Instrumentation / Common Information Model (WMI/CIM) to retrieve, and in some cases, modify management information about local and remote computers.</p>
+<ul>
+  <li>Understanding WMI/CIM</li>
+  <li>Querying Data with WMI/CIM</li>
+  <li>Making Changes with WMI/CIM</li>
+</ul>
+
+<p><strong>Module 7: Prepare for Scripting</strong></p>
+<p>In this module students will learn about pre-requisite features to writing PowerShell scripts, including variables and PowerShell's scripting security features.</p>
+<ul>
+  <li>Using Variables</li>
+  <li>Scripting Security</li>
+  <li>Working with Alternate Credentials</li>
+</ul>
+
+<p><strong>Module 8: Moving From a Command to a Script to a Module</strong></p>
+<p>In this module students will learn to take a command that runs well in the console, and turn it into a   reusable script. A number of important concepts, such as error handling, will be introduced - but not explored in extreme depth. Students will be taught enough to be "immediately effective" with these concepts, but not given an exhaustive education. The point is to get them started in an effective fashion using best   practices, and to give them a basis for further independent exploration.</p>
+<ul>
+  <li>Moving From Command to Script</li>
+  <li>Moving From Script to Function to Module</li>
+  <li>Implementing Basic Error Handling</li>
+  <li>Using Basic Scripting Constructs</li>
+  <li>Further Exploration in Scripting</li>
+</ul>
+
+<p><strong>Module 9: Administering Remote Computers</strong></p>
+<p>In this module students will learn how to configure and use PowerShell Remoting.</p>
+<ul>
+  <li>Using Basic Remoting</li>
+  <li>Using Remote Sessions</li>
+  <li>Using Remoting for Delegated Administration</li>
+</ul>
+
+<p><strong>Module 10: Putting it All Together</strong></p>
+<p>In this module students will utilize much of what they've learned to this point in a practical, from-scratch-exercise to configure a newly-installed Server Core computer.</p>
+<ul>
+  <li>Planning the Script</li>
+</ul>
+
+<p><strong>Module 11: Using Background Jobs and Scheduled Jobs</strong></p>
+<p>In this module students will learn to create and manage background jobs and scheduled jobs.</p>
+<ul>
+  <li>Using Background Jobs</li>
+  <li>Using Scheduled Jobs</li>
+</ul>
+
+<p><strong>Module 12: Using Advanced PowerShell Techniques and Profiles</strong></p>
+<p>In this module students will learn several additional techniques and feature of Windows PowerShell.</p>
+<ul>
+  <li>Using Advanced PowerShell Techniques</li>
+  <li>Creating Profile Scripts</li>
+</ul>

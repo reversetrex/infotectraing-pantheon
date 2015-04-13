@@ -1,0 +1,11 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> create a report by using data from an existing database. </li>
+  <li> use a report to present specific data in the desired order. </li>
+  <li> create groups to summarize report data. </li>
+  <li> build formulas to calculate and display data. </li>
+  <li> format reports. </li>
+  <li> add and modify elements in a report. </li>
+  <li> create single data series charts. </li>
+  <li> distribute report data. </li>
+</ul>

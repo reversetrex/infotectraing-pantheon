@@ -1,0 +1,9 @@
+<p><strong>Module 1:  Planning a  Virtualization Strategy</strong> - This module will review key factors that  must be considered when planning a datacenter or desktop virtualization  strategy.</p>
+
+<p><strong>Module 2:  Designing a  Virtualization Platform Infrastructure and High-Availability Strategy</strong> - This module will explain how to design a  highly-available server virtualization infrastructure using Windows Server 2008  R2 Hyper-V.</p>
+
+<p><strong>Module 3:  Designing a Virtualized  Desktop Infrastructure</strong> - This module will explain how to design a  virtualized desktop infrastructure based on a local desktop or central VDI  strategy.</p>
+
+<p><strong>Module 4:  Designing an  Application Virtualization Infrastructure</strong> - This module will explain how to design an  application delivery infrastructure for virtualized desktops using Application  Virtualization 4.6.</p>
+
+<p><strong>Module 5:  Designing a  Virtualization Infrastructure Management Strategy</strong> - This module will explain the factors to consider  and Microsoft suite of applications available to design a management infrastructure.</p>

@@ -1,0 +1,59 @@
+<p><strong> Unit 1: Introduction to Computer Programs </strong></p>
+<ul>
+  <li> Overview of Software Development </li>
+  <li> Phases in the Execution of a Computer Program </li>
+  <li> Overview of Problem-Solving Techniques </li>
+  <li>Overview of Program Types</li>
+</ul>
+<p><strong> Unit 2: Introduction to Scripting </strong></p>
+<ul>
+  <li> Using Web Scripting </li>
+  <li> Using Macro Scripting </li>
+  <li>Using Windows Scripting </li>
+</ul>
+<p><strong> Unit 3: Using Data and Variables </strong></p>
+<ul>
+  <li> Using Variables </li>
+  <li> Using Operators </li>
+  <li>Using Programming Syntax </li>
+</ul>
+<p><strong> Unit 4: Using Program Logic </strong></p>
+<ul>
+  <li> Using Branching </li>
+  <li> Using Loops </li>
+  <li>Identifying Logic Errors </li>
+</ul>
+<p><strong> Unit 5: Using Procedures and Functions </strong></p>
+<ul>
+  <li> Using Procedures </li>
+  <li>Using Functions </li>
+</ul>
+<p><strong> Unit 6: Introduction to Developing a User Interface </strong></p>
+<ul>
+  <li> Designing a User Interface </li>
+  <li>Building a User Interface </li>
+</ul>
+<p><strong> Unit 7: Introduction to Working with Data </strong></p>
+<ul>
+  <li> Introduction to Managing Data </li>
+  <li> Using the Entity Relationship Model </li>
+  <li> Sorting Data by Using Keys </li>
+  <li>Using XML </li>
+</ul>
+<p><strong> Unit 8: Programming Approaches </strong></p>
+<ul>
+  <li> Using the Procedural Programming Approach </li>
+  <li> Using the Object-Oriented Programming Approach </li>
+</ul>
+<p><strong> Unit 9: Introduction to the Software Development Process </strong></p>
+<ul>
+  <li> Software Development Phases </li>
+  <li> Introduction to the Unified Modeling Language </li>
+  <li> Developing Use-Case Diagrams </li>
+  <li>Examining Other UML Diagrams </li>
+</ul>
+<p><strong> Unit 10: Where Do We Go From Here? </strong></p>
+<ul>
+  <li> Looking Back </li>
+  <li>Looking Forward</li>
+</ul>

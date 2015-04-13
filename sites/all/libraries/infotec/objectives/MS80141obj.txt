@@ -1,0 +1,16 @@
+<p>After completing this course, students will be able to:</p>
+
+<ul>
+  <li>Understand basic positioning of SharePoint and  Microsoft Dynamics CRM, and the kinds of business problems each is designed to  solve. </li>
+  <li>Identify the most common scenarios where SharePoint and Dynamics CRM can be used together. </li>
+  <li>Learn basic Microsoft Dynamics CRM  customization techniques required to build integrated applications. </li>
+  <li>Learn how to use a static URL for a Microsoft Dynamics CRM record to display associated content stored in SharePoint. </li>
+  <li>Learn how to construct a URL dynamically, based on information contained in a Dynamics CRM record, and display associated  content stored in SharePoint. </li>
+  <li>Understand and Work with SharePoint Web Parts and Pages. </li>
+  <li>Understand and Use the List Web Part for  Microsoft Dynamics CRM 4.0. </li>
+  <li>Understand and Use SharePoint Designer Data  Views to Expose Microsoft Dynamics CRM 4.0 Data.</li>
+  <li>Understand how to use the Business Data  Catalog with data From Microsoft Dynamics CRM 4.0 Filtered Views.</li>
+  <li>Understand how to configure, publish, and view Excel spreadsheets using Excel Services.</li>
+  <li>Overview the Web Parts available for the  Business Data Catalog and Excel Services to allow views of Microsoft Dynamics CRM 4.0 data to be accessible on a SharePoint dashboard.</li>
+  <li>Understand the basics of calling the Dynamics CRM 4.0 Web Services from a SharePoint ASP.NET page.</li>
+</ul>

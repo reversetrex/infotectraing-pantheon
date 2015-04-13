@@ -1,0 +1,23 @@
+<p><strong>Module  1: Preparing to Deploy Windows 7 Business Desktops</strong> - This module helps you plan and perform effective preparation tasks for  deploying Windows 7 clients. It begins by discussing client, hardware, and  deployment lifecycles. It also discusses how to assess existing computing  environments and licensing.</p>
+
+<p><strong>Module 2: Assessing Application Compatibility in Windows 7</strong> - This  module describes the process for addressing common application compatibility  issues experienced during a typical operating system deployment. It also  explains how to use the Microsoft Application Compatibility Toolkit (ACT) to  help inventory, analyze, and mitigate application compatibility issues.</p>
+
+<p><strong>Module 3: Evaluating Windows 7  Deployment Methods</strong> - This  module discusses different deployment scenarios and methods that are available  when deploying Windows 7. It also discusses various tools and technologies to  use in the different scenarios, and considerations for selecting a deployment  scenario and method.</p>
+
+<p><strong>Module 4: Designing Standard Windows 7 Images</strong> - This  module, explains the underlying architecture of the computer imaging system  that can be used to create and deploy a custom image of a Windows 7 desktop. It  also discusses the different phases of the imaging process, and how to  determine imaging strategy and image servicing opportunities in Windows 7.</p>
+
+<p><strong>Module 5: Deploying Windows 7 by Using  WAIK</strong> - This  module explains the underlying computer imaging architecture of Windows AIK  2.0, which can be used to create and deploy a custom Windows 7 desktop image.</p>
+
+<p><strong>Module 6: Deploying Windows 7 by Using  Windows Deployment Services</strong> - This module describes how WDS can be used to deploy custom system images to client  computers located within the network infrastructure.</p>
+
+<p><strong>Module 7: Deploying Windows 7 by Using  Lite Touch Installation</strong> - This  module describes how to design the Lite Touch Installation (LTI) environment, and provides you with an overview of the techniques that you can use to build  and deploy Windows 7 using the MDT and the LTI scenario.</p>
+
+<p><strong>Module 8: Deploying Windows 7 by Using Zero Touch Installation</strong> - This  module describes the necessary prerequisites and procedures for deploying the  Windows 7 operating system using Zero Touch Installation methodology.</p>
+
+<p><strong>Module 9: Migrating User State by Using WET and USMT 4.0</strong> - This  module explains user state migration, and how to use tools, such as Windows  Easy Transfer and the Microsoft Windows User State Migration Tool (USMT), in  various migration scenarios.</p>
+
+<p><strong>Module 10: Designing, Configuring, and Managing the Client Environment</strong> - This  module examines how to design, configure, and manage Windows 7 client  configurations. Specifically, it discusses Group Policy, Internet Explorer, and  system security settings.</p>
+
+<p><strong>Module 11: Planning and Deploying  Applications and Updates to Windows 7 Clients</strong> - This  module discusses the implications of deploying applications to Windows 7  clients including Microsoft Office 2007. It also discusses the use of Windows  Server Update Services (WSUS).</p>
+
+<p><strong>Module 12: Planning and Deploying  Windows 7 by Using LTI</strong> - This  module is a comprehensive lab that gives the students an opportunity to perform  an end-to-end deployment of Windows 7 by using the LTI.</p>

@@ -1,0 +1,44 @@
+<p><strong>Lesson 1: Getting Started with Microsoft Project</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Explore the Microsoft Project 2010 Environment<br />
+    <strong>Topic 1B: </strong>Display an Existing Project Plan in Different  Views<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Creating a Project Plan</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Create a Project Plan<br />
+    <strong>Topic 2B: </strong>Assign a Project Calendar<br />
+    <strong>Topic 2C: </strong>Add Tasks to a Project Plan<br />
+    <strong>Topic 2D: </strong>Enter the Task Duration Estimates<br />
+    <strong>Topic 2E: </strong>Add Resources to a Project Plan<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Managing Tasks in a Project Plan</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Outline Tasks<br />
+    <strong>Topic 3B: </strong>Link Dependent Tasks<br />
+    <strong>Topic 3C: </strong>Set Task Constraints and Deadlines<br />
+    <strong>Topic 3D: </strong>Add Notes to a Task<br />
+    <strong>Topic 3E: </strong>Add a Recurring Task<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Managing Resources in a Project Plan</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Create a Resource Calendar<br />
+    <strong>Topic 4B: </strong>Assign Resources to Tasks<br />
+    <strong>Topic 4C: </strong>Enter Costs for Resources<br />
+    <strong>Topic 4D: </strong>Resolve Resource Conflicts<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Finalizing a Project Plan</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Shorten a Project Using the Critical Path<br />
+    <strong>Topic 5B: </strong>Set a Baseline<br />
+    <strong>Topic 5C: </strong>Print a Project Summary Report<br />
+  </p>
+</blockquote>

@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the processes of establishing and using a troubleshooting methodology, and define the EDST job role and responsibilities.</li>
+  <li>Troubleshoot startup issues on a Windows 7 computer.</li>
+  <li>Troubleshoot client-configuration failures and Group Policy object (GPO) application issues.</li>
+  <li>Troubleshoot hardware device, device driver, and performance issues.</li>
+  <li>Troubleshoot network connectivity issues.</li>
+  <li>Troubleshoot remote connectivity issues.</li>
+  <li>Troubleshoot logon and resource access issues.</li>
+  <li>Troubleshoot security system issues, such as Encrypting File Systems (EFS) BitLocker Drive Encryption, and file permissions.</li>
+  <li>Troubleshoot operating system and applications issues.</li>
+</ul>

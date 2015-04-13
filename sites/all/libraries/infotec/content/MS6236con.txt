@@ -1,0 +1,17 @@
+<p><strong>Module 1: Introduction to Microsoft SQL  Server Reporting Services</strong> - The students will be introduced to the  role that Reporting Services plays in an organization&rsquo;s reporting life cycle, the key features offered by Reporting Services, and the components that make up  the Reporting Services architecture.</p>
+
+<p><strong>Module 2: Authoring Basic Reports</strong> - The students will learn the fundamentals of report authoring, including configuring data sources and data sets, creating tabular reports, summarizing data, and applying basic formatting.</p>
+
+<p><strong>Module 3: Enhancing Basic Reports</strong> - The students will learn about navigational controls and some additional types of data regions, and how to use  them to enhance a basic report.</p>
+
+<p><strong>Module 4: Manipulating Data Sets</strong> - The students will explore data sets to a greater depth, including the use of alternative data sources and interacting  with a data set through the use of parameters. Students will learn how to dynamically modify the data set underlying a data region by allowing parameters  to be sent to the underlying query, as well as will learn to use best practices to implement static and dynamic parameter lists when interacting with queries and stored procedures.</p>
+
+<p><strong>Module 5: Using Report Models</strong> - The students will learn how to create a report model so that business users can create their own reports without using the full Report Designer development environment. Students will also learn how to use Report Builder to create a report from a report model.</p>
+
+<p><strong>Module 6: Publishing and Executing Reports</strong> - The students will learn the various options you can use to publish reports to the report server and execute them.</p>
+
+<p><strong>Module 7: Using Subscriptions to Distribute Reports</strong> - The students will learn how to implement subscriptions so that you can distribute reports either automatically by e-mail or by publishing reports to a shared folder.</p>
+
+<p><strong>Module 8: Administering Reporting Services</strong> - The students will learn how to administer the Reporting Services server, how to monitor and optimize the performance of the report server, how to maintain the Reporting Services databases, and how to keep the system secure.</p>
+
+<p><strong>Module 9: Programming Reporting Services</strong> - The students will learn how to query Reporting Services information programmatically and how to automate report management tasks. Students will also learn how to render reports without relying on Report Manager, and how to extend the feature set of a report server by creating custom  code.</p>

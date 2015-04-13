@@ -1,0 +1,43 @@
+<p><strong> Unit 1: Making Your Data Available on the Web </strong></p>
+<ul>
+  <li> Create a Data Access Page by Using the Wizard </li>
+  <li>Improve the Presentation of the Data Access Page </li>
+  <li>Viewing Data Access Pages with the Browser </li>
+  <li>Edit Data Using the Data Access Page </li>
+  <li>Group Records in the Data Access Page </li>
+</ul>
+<p><strong> Unit 2: Developing a Data Access Page in Design View </strong></p>
+<ul>
+  <li> Create a Data Access Page in Design View </li>
+  <li>Incorporate a ComboBox in the Data Access Page </li>
+  <li>Test the New Record Function of the Data Access Page </li>
+  <li>Develop a PivotTable with the Office PivotTable Tool </li>
+  <li>Develop a PivotChart </li>
+</ul>
+<p><strong> Unit 3: Integrating Access into Your Business </strong></p>
+<ul>
+  <li> Import XML Data into an Access Database </li>
+  <li>Export Access Data to XML Format </li>
+  <li>Share Data with Other Office Applications </li>
+</ul>
+<p><strong> Unit 4: Automating a Business Process with VBA </strong></p>
+<ul>
+  <li> Create a Standard Module </li>
+  <li>Develop CodeCall a Procedure from a Form </li>
+  <li>Run the Procedure </li>
+</ul>
+<p><strong> Unit 5: Creating a Switchboard and Setting the Startup Options </strong></p>
+<ul>
+  <li> Create a Database Switchboard </li>
+  <li>Modify a Database Switchboard </li>
+  <li>Set the Startup Options </li>
+  <li>Modify the Startup Options </li>
+</ul>
+<p><strong> Unit 6: Distributing and Securing the Database </strong></p>
+<ul>
+  <li> Split a Database </li>
+  <li>Implement Security </li>
+  <li>Set Passwords </li>
+  <li>Encode and Decode a Database </li>
+  <li>Convert an Access Database to an MDE File </li>
+</ul>

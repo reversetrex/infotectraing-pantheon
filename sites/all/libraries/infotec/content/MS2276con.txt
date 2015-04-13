@@ -1,0 +1,33 @@
+<p><strong> Unit 1: Reviewing the Suite of TCP/IP Protocols </strong></p>
+<ul>
+  <li> Overview of the OSI Model </li>
+  <li>Overview of the TCP/IP Protocol Suite </li>
+  <li>Viewing Frames Using Network Monitor </li>
+</ul>
+<p><strong> Unit 2: Assigning IP Addresses in a Multiple Subnet Network </strong></p>
+<ul>
+  <li> Assigning IP Addresses </li>
+  <li>Creating a Subnet </li>
+  <li>Using IP Routing Tables </li>
+  <li>Overcoming Limitations of the IP Addressing Scheme </li>
+</ul>
+<p><strong> Unit 3: Configuring a Client IP Address </strong></p>
+<ul>
+  <li> Configuring a Client to Use a Static IP Address </li>
+  <li>Configuring a Host to Obtain an IP Address Automatically </li>
+  <li>Using Alternate Configuration </li>
+</ul>
+<p><strong> Unit 4: Configuring a Client for Name Resolution </strong></p>
+<ul>
+  <li> Resolving Client Names </li>
+  <li>Managing the ARP Cache </li>
+  <li>Overview of NetBIOS </li>
+  <li>Using Static Naming Methods </li>
+  <li>Using Dynamic Naming Methods </li>
+  <li>Summarizing the Name Resolution Process </li>
+</ul>
+<p><strong> Unit 5: Isolating Common Connectivity Issues </strong></p>
+<ul>
+  <li> Determining the Causes of Connectivity Issues </li>
+  <li>Network Utilities That You Can Use to Isolate Connectivity Issues </li>
+</ul>

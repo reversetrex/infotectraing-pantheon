@@ -1,0 +1,17 @@
+<p><strong>Module 1: Windows Server 2008 Installation and Configuration</strong> - This module focuses on installation options and  requirements for Windows Server 2008, including deploying Windows Server Core.</p>
+
+<p><strong>Module 2: Windows Server Core 2008 Configuration</strong> - This module focuses on Windows Server Core 2008 configuration.  Basic Server Core configuration including setting the Administrator password  and server TCP/IP configuration are covered in this module.</p>
+
+<p><strong>Module 3: Windows Server 2008  Unattended Installation</strong> - This module describes using Unattend.xml files to  install Windows Server 2008. This module also covers creating a network  deployment infrastructure for unattended installation and unattended domain  controller installation.</p>
+
+<p><strong>Module 4: Using Windows Deployment  Services</strong> - This module focuses on using Windows Deployment Services and the new  WIM image format to create and deploy custom system images.</p>
+
+<p><strong>Module 5: Microsoft Deployment  Toolkit</strong> - This module introduces the Microsoft Deployment Toolkit as a tool for  low-touch operating system deployment. This module also covers creating custom  system images for common server configurations.</p>
+
+<p><strong>Module 6: Upgrading and Migrating Active Directory</strong> - This module provides prescriptive guidance for upgrading and migrating  active directory from Windows Server 2003 to Windows Server 2008. This module  also covers upgrading specific Active Directory-related services including DNS,  Certificate Services, IPSec configuration, and GPO objects. This module  provides best-practices for Active Directory upgrades.</p>
+
+<p><strong>Module 7: Upgrading File and Print, Web, and Remote Infrastructure Servers</strong> - This module provides prescriptive  guidance for upgrading and migrating file and print servers from Windows Server  2003 to Windows Server 2008. This module also includes guidance for upgrading  and migrating application and Web servers from Windows Server 2003 to Windows  Server 2008. This module also provides guidance for upgrading and migrating  remote servers from Windows Server 2003 to Windows Server 2008.</p>
+
+<p><strong>Module 8: Migrating Workloads to  Microsoft Virtual Machines</strong> - This module provides guidance for migrating existing  workloads to a virtual machine environment using either Microsoft Virtual  Server 2005 R2 SP1 or the Windows Server virtualization role of Windows Server 2008.</p>
+
+<p><strong>Module 9: Configuring Windows Server 2008 for Performance</strong> - This module describes  considerations for hardware selection, and workload-specific tuning considerations.</p>

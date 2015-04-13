@@ -1,0 +1,29 @@
+<p><strong>Lesson 1: </strong>Managing the Project Environment</p>
+<ul>
+  <li><strong>Topic A: </strong>Link Projects</li>
+  <li><strong>Topic B: </strong>Baseline a Project</li>
+  <li><strong>Topic C: </strong>Work with Custom Fields</li>
+  <li><strong>Topic D: </strong>Change Project Options</li>
+  <li><strong>Topic E: </strong>Extend Project with Apps</li>
+</ul>
+<h3><strong>Lesson 2: </strong>Managing Task Structures </h3>
+<ul>
+  <li><strong>Topic A: </strong>Change a Task List</li>
+  <li><strong>Topic B: </strong>Create a Network Diagram</li>
+  <li><strong>Topic C: </strong>Manage the Critical Path</li>
+  <li><strong>Topic D: </strong>Use Lag and Lead</li>
+  <li><strong>Topic E: </strong>Analyze Earned Value</li>
+</ul>
+<h3><strong>Lesson 3: </strong>Generating Project Views </h3>
+<ul>
+  <li><strong>Topic A: </strong>Use View Commands</li>
+  <li><strong>Topic B: </strong>Use Existing Views</li>
+  <li><strong>Topic C: </strong>Create Custom Views</li>
+  <li><strong>Topic D: </strong>Format and Share the Timeline View</li>
+</ul>
+<h3><strong>Lesson 4: </strong>Producing Project Reports </h3>
+<ul>
+  <li><strong>Topic A: </strong>Use Existing Reports</li>
+  <li><strong>Topic B: </strong>Create Custom Reports</li>
+  <li><strong>Topic C: </strong>Export Visual Reports</li>
+</ul>

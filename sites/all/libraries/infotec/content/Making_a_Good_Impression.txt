@@ -1,0 +1,12 @@
+<h2>Session 1</h2>
+  <h3>Section A: Making a Good Impression</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Resumes and Cover Letters</li>
+    <li>Preparation</li>
+    <li>Appearance</li>
+    <li>The Interview</li>
+    <li>Outcome of Job Seekers</li>
+    <li>Major Points of Interviews</li>
+    <li>Conclusion</li>
+  </ul>

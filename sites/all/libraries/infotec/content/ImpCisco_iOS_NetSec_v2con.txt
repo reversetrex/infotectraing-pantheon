@@ -1,0 +1,33 @@
+<p><strong>Lesson 1: Networking Security Fundamentals</strong></p>
+<ul>
+ <li>Topic 1A: Introducing Networking Security Concepts</li>
+ <li>Topic 1B: Understanding Security Policies Using a Life-Cycle Approach</li>
+ <li>Topic 1C: Building a Security Strategy for Borderless Networks</li>
+</ul>
+<p><strong>Lesson 2: Protecting the Network Infrastructure</strong></p>
+<ul>
+ <li>Topic 2A: Introducing Cisco Network Foundation Protection</li>
+ <li>Topic 2B: Protecting the Network Infrastructure Using Cisco Configuration Professional</li>
+ <li>Topic 2C: Securing the Management Plane on Cisco IOS Devices</li>
+ <li>Topic 2D: Configuring AAA on Cisco IOS Devices Using Cisco Secure ACS</li>
+ <li>Topic 2E: Securing the Data Plane on Cisco Catalyst Switches</li>
+ <li>Topic 2F: Securing the Data Plane in IPv6 Environments</li>
+</ul>
+<p><strong>Lesson 3: Threat Control and Containment</strong></p>
+<ul>
+ <li>Topic 3A: Planning a Threat Control Strategy</li>
+ <li>Topic 3B: Implementing Access Control Lists for Threat Mitigation</li>
+ <li>Topic 3C: Understanding Firewall Fundamentals</li>
+ <li>Topic 3D: Understanding Firewall Fundamentals</li>
+ <li>Topic 3E: Configuring Basic Firewall Policies on Cisco ASA Appliances</li>
+ <li>Topic 3F: Understanding IPS Fundamentals</li>
+ <li>Topic 3G: Implementing Cisco IOS IPS</li>
+</ul>
+<p><strong>Lesson 4: Secure Connectivity</strong></p>
+<ul>
+ <li>Topic 4A: Understanding the Fundamentals of VPN Technologies</li>
+ <li>Topic 4B: Introducing Public Key Infrastructure</li>
+ <li>Topic 4C: Examining IPsec Fundamentals</li>
+ <li>Topic 4D: Implementing Site-to-Site VPNs on Cisco IOS Routers</li>
+ <li>Topic 4E: Implementing SSL VPNs Using Cisco ASA Appliances</li>
+</ul>

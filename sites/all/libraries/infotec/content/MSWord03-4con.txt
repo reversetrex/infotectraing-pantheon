@@ -1,0 +1,27 @@
+<p><strong> Unit 1: Using Advanced Formatting Techniques </strong></p>
+<ul>
+  <li> Overview of Advanced Formatting Techniques </li>
+  <li>Controlling Pagination </li>
+  <li>Creating Custom Styles </li>
+  <li>Using Document Backgrounds </li>
+  <li>Formatting Graphics </li>
+  <li>Working with Objects </li>
+  <li>Creating and Modifying Charts from Other Sources </li>
+</ul>
+<p><strong> Unit 2: Organizing Content </strong></p>
+<ul>
+  <li> Introduction to Organizing Content </li>
+  <li>Sorting Content </li>
+  <li>Using Mail Merge </li>
+  <li>Structuring Documents with XML </li>
+</ul>
+<p><strong> Unit 3: Using Advanced Collaboration Features </strong></p>
+<ul>
+  <li> Overview of Collaboration Features </li>
+  <li>Modifying Track Changes Options </li>
+  <li>Publishing and Editing Web Documents </li>
+  <li>Managing Document Versions </li>
+  <li>Attaching Digital Signatures to Documents </li>
+  <li>Protecting and Restricting Documents </li>
+  <li>Customizing Document Properties </li>
+</ul>

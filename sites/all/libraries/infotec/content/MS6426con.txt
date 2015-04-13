@@ -1,0 +1,10 @@
+<ul>
+  <li><strong>Module 1: Exploring IDA Solutions</strong></li>
+  <li><strong>Module 2: Configuring AD CS</strong></li>
+  <li><strong>Module 3: Deploying and Managing Certificates</strong></li>
+  <li><strong>Module 4: Configuring AD LDS</strong></li>
+  <li><strong>Module 5: Configuring AD FS</strong></li>
+  <li><strong>Module 6: Configuring AD RMS</strong></li>
+  <li><strong>Module 7: Maintaining Access Management Solutions</strong></li>
+  <li><strong>Module 8: Troubleshooting IDA Solutions</strong></li>
+</ul>

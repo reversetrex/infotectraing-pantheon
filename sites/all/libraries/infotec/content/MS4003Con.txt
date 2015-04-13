@@ -1,0 +1,43 @@
+<p><strong> Unit 1: Deriving Business Intelligence from Excel Data </strong></p>
+<p> This Unit introduces the process of deriving business intelligence from spreadsheet data both in general, as presented in the course lecture segments, and in the context of your business environment. </p>
+<p> Topics and Activities </p>
+<ul>
+  <li> What Is Business Intelligence? </li>
+  <li>The Need for Business Intelligence </li>
+  <li>Discussion: The Need for Business Intelligence </li>
+  <li>Summary of Discovering Business Intelligence in Excel </li>
+</ul>
+<p><strong> Unit 2: Summarizing Data Using Lists </strong></p>
+<p> This Unit introduces data lists and SUBTOTAL formulas, which you can use to produce meaningful subsets of your Excel data. The exercises in this Unit ask you to analyze sample data in terms of sample files for a fictitious company.</p>
+<p> Topics and Activities </p>
+<ul>
+  <li> Demonstration: Revealing Information in Data Lists </li>
+  <li>Walkthrough 1: Creating a Data List </li>
+  <li>Walkthrough 2: Creating a Crosstab Table </li>
+  <li>Walkthrough 3: Creating a SUBTOTAL Formula </li>
+  <li>Walkthrough 4: Filtering a Data List </li>
+  <li>Tips and Tricks for Using Data Lists and SUBTOTAL Formulas </li>
+</ul>
+<p><strong> Unit 3: Creating a PivotTable </strong></p>
+<p> This Unit introduces PivotTables and shows you how to create them. The information in this Unit also places PivotTables in the context of analyzing product sales by a store or a product.</p>
+<p> Topics and Activities </p>
+<ul>
+  <li> The Power of PivotTables </li>
+  <li>Demonstration: Exploring the Capabilities of PivotTables </li>
+  <li>Walkthrough 1: Creating a PivotTable </li>
+  <li>Walkthrough 2: Pivoting a PivotTable </li>
+  <li>Walkthrough 3: Adding Fields to and Removing Fields from the PivotTable </li>
+  <li>Using PivotTables to Reveal Business Intelligence </li>
+</ul>
+<p><strong> Unit 4: Fine-Tuning PivotTables</strong></p>
+<p>This Unit extends your knowledge of PivotTables by showing you how to limit the data shown in your PivotTable. You will also learn how to make your data easier to comprehend by formatting your PivotTable, adding or hiding summary rows and columns, and creating dynamic charts based on your data.</p>
+<p> Topics and Activities</p>
+<ul>
+  <li> Demonstration: Filtering Data in PivotTables</li>
+  <li>Exercise 1: Filtering a PivotTable</li>
+  <li>Walkthrough 1: Filtering a PivotTable by Using Page Fields</li>
+  <li>Walkthrough 2: Formatting a PivotTable</li>
+  <li>Walkthrough 3: Creating a PivotChart</li>
+  <li>Revealing Business Intelligence by Using Excel</li>
+  <li>Discussion: Taking Business Intelligence Outside the Workbook</li>
+</ul>

@@ -1,0 +1,34 @@
+<h2>Session 1</h2>
+  <h3>Section A: Getting Started</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Audiences</li>
+    <li>Attention</li>
+  </ul>
+  <h3>Section B: Presentation Style</h3>
+  <ul>
+    <li>Your Personality Type</li>
+    <li>Personality Types</li>
+    <li>Out of the Gray Zone</li>
+    <li>Presentation Flowchart</li>
+    <li>3 Presentation Models</li>
+    <li>To Speak or not to Speak</li>
+  </ul>
+  <h3>Section C: Presenting Your Material</h3>
+  <ul>
+    <li>What Disarms an Audience</li>
+    <li>What Arms an Audience</li>
+    <li>Rapport</li>
+    <li>Exchange of Needs</li>
+    <li>Humor</li>
+    <li>Interruptions</li>
+    <li>NLP</li>
+  </ul>
+  <h3>Section D: Tips and Tactics</h3>
+  <ul>
+    <li>Powerful Negotiation</li>
+    <li>Leading a Meeting</li>
+    <li>Tips for the Voice</li>
+    <li>Fear Factor</li>
+    <li>Conclusion</li>
+  </ul>

@@ -1,0 +1,14 @@
+<b>MS6435</b>
+
+<br><br>
+
+This course will provide students with an understanding of how to design a Windows Server 2008 Network Infrastructure that meets business and technical requirements for network services.
+
+<br><br>
+
+<b>MS6437</b>
+
+<br><br>
+
+This course will prepare IT professionals for the role of Enterprise Administrator. Students will learn how to design application infrastructure solutions based on Windows Server 2008 to meet varying business and technical requirements.
+

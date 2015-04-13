@@ -1,0 +1,85 @@
+<p><strong>Module 1: Work Breakdown Structure</strong></p>
+<p><strong>
+This module provides an overview of the functionality to add activities to a project in a hierarchical order. You can achieve this by copying activities from a WBS template or from existing projects. The activities can also be   directly added to a project.
+</strong></p>
+<ul>
+  <li>Introduction</li>
+  <li>Work Breakdown Structure Template</li>
+  <li>Creating a Project Work Breakdown Structure</li>
+  <li>Rate Card</li>
+</ul>
+<p><strong>Module 2: Project Quotations</strong></p>
+<p><strong>
+This module explains how to create the basic set up to create project quotations and define the quotation activities, schedule the activities, assign resources, submit, and approve quotations and convert the quotation to a project.
+</strong></p>
+<ul>
+  <li>Introduction</li>
+  <li>Project Quotation</li>
+  <li>Creating Project Quotes</li>
+  <li>Resource Assignment</li>
+  <li>Quotation Business Process</li>
+  <li>Transferring the Quotation to the Project</li>
+</ul>
+<p><strong>Module 3: Resource Scheduling</strong></p>
+<p><strong>
+This module explains the resource scheduling functionality in Microsoft DynamicsAX 2012 to use an organization’s resources when they are needed.
+</strong></p>
+<ul>
+  <li>Introduction</li>
+  <li>Configuring Resource Competencies</li>
+  <li>Defining Project Requirements</li>
+  <li>Assigning Resources to a Project Based on Resource Availability</li>
+  <li>Assigning Resources to a Project Based on Project Demand</li>
+  <li>Integration with Microsoft Project Integration Server 2010</li>
+  <li>Resource Assignment and Utilization – Inquiries and Reports</li>
+</ul>
+<p><strong>Module 4: Project Contracts with Billing Rules</strong></p>
+<p><strong>
+This chapter explains the concept of project contracts and the set up required to use the feature. It explains the concept of billing rules in project contracts.
+</strong></p>
+<ul>
+  <li>Introduction</li>
+  <li>Creation of Project Contracts</li>
+  <li>Overview of Billing Rules</li>
+  <li>Invoice Formats</li>
+</ul>
+<p><strong>Module 5: Project Invoicing</strong></p>
+<p><strong>
+This chapter shows how to manage project invoices in Microsoft Dynamics AX 2012. It describes the procedure to reformat invoices and display the details of the transactions in the format required by the customer. The chapter also provides a detailed description of the customer advance feature.
+</strong></p>
+<ul>
+  <li>Introduction</li>
+  <li>Invoice Processing</li>
+  <li>Customer Advance</li>
+</ul>
+<p><strong>Module 6: Payment Retention</strong></p>
+<p><strong>
+This chapter explains how to use the functionality of Customer payment retention and Vendor payment retention in Microsoft Dynamics AX 2012.
+</strong></p>
+<ul>
+  <li>Introduction</li>
+  <li>Customer Payment Retention</li>
+  <li>Vendor Payment Retention</li>
+</ul>
+<p><strong>Module 7: Subcontracting Terms</strong></p>
+<p><strong>
+This chapter covers the processes to set up the PWP terms, create and invoice a project purchase order with PWP terms, post the customer invoice, receive customer payments, and release the vendor payment. Additionally, it   explains how to inquire on the PWP transactions and print the PWP report.
+</strong></p>
+<ul>
+  <li>Introduction</li>
+  <li>Pay When Paid</li>
+  <li>Inquiries and Reports</li>
+</ul>
+<p><strong>Module 8: Cost Control</strong></p>
+<p><strong>
+This chapter shows you how to work with indirect costs in Microsoft Dynamics AX 2012. It also describes the set up required for indirect costs and how to assign the costs to a project, project contract and billing rule. It also   shows how to generate invoices with indirect costs.
+</strong></p>
+<ul>
+  <li>Introduction</li>
+  <li>Basic Setup</li>
+  <li>Defining Rules for the Indirect Cost Calculation</li>
+  <li>Assigning Indirect Cost Component Groups</li>
+  <li>Processing an Indirect Cost Transactions</li>
+  <li>Splitting Indirect Costs between Multiple Funding Sources</li>
+  <li>Adjusting Indirect Costs</li>
+</ul>

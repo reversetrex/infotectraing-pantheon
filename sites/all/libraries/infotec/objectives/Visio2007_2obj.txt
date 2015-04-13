@@ -1,0 +1,9 @@
+<p>Upon successful completion of this course, students will be able to:</p>
+<ul>
+  <li>create a custom shape. </li>
+  <li>design a custom stencil. </li>
+  <li>design styles and templates. </li>
+  <li>design a floor plan. </li>
+  <li>represent external data in Visio. </li>
+  <li>share your drawings. </li>
+</ul>

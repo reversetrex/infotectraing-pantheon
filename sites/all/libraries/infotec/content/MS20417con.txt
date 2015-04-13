@@ -1,0 +1,100 @@
+<p><strong>Module 1: Installing and Configuring Windows Server 2012</strong></p>
+<p>This module explains how to install and configure Windows Server 2012. It specifically covers requirements and considerations for installation and the installation of roles and installation types such as Server Core. It also covers the implementation and configuration of remote management of servers running Windows Server 2012.</p>
+<ul>
+  <li>Installing Windows Server 2012 R2</li>
+  <li>Configuring Windows Server 2012 R2 and Windows Server 2012</li>
+  <li>Configuring Remote Management for Windows Server 2012 R2 and Windows Server 2012</li>
+</ul>
+<p><strong>Module 2: Managing Windows Server 2012 by Using Windows PowerShell</strong></p>
+<p>This module explains how to use Windows PowerShell to manage Windows Server 2012. It will provide an overview of Windows PowerShell and the Windows PowerShell Integrated Scripting Environment (ISE). It will also cover Windows PowerShell in the context of AD DS and general server management.</p>
+<ul>
+  <li>Overview of Windows PowerShell</li>
+  <li>Using Windows PowerShell to Manage AD DS</li>
+  <li>Managing Servers by Using Windows PowerShell</li>
+</ul>
+<p><strong>Module 3: Managing Storage in Windows Server 2012</strong></p>
+<p>This module explains how to configure storage in Windows Server 2012.</p>
+<ul>
+  <li>Storage Features in Windows Server 2012</li>
+  <li>Configuring iSCSI Storage</li>
+  <li>Configuring Storage Spaces in Windows Server 2012</li>
+  <li>Configuring BranchCache in Windows Server 2012</li>
+</ul>
+<p><strong>Module 4: Implementing Network Services</strong></p>
+<p>This module explains how to configure advanced features for Domain Name System (DNS) and Dynamic Host Configuration Protocol (DHCP). It also explains how to configure IP Address Management (IPAM) and Network Access Protection (NAP).</p>
+<ul>
+  <li>Implementing DNS and DHCP Enhancements</li>
+  <li>Implementing IPAM</li>
+  <li>Managing IP Address Spaces with IPAM</li>
+  <li>NAP Overview</li>
+  <li>Implementing NAP</li>
+</ul>
+<p><strong>Module 5: Implementing Remote Access</strong></p>
+<p>This module covers the options for provisioning remote access with Windows Server 2012. It will specifically cover DirectAccess and VPNs and the considerations for implementing and managing these remote access technologies in your Windows Server 2012 environment, including the use of certificates.</p>
+<ul>
+  <li>Remote Access Overview</li>
+  <li>Implementing DirectAccess by Using the Getting Started Wizard</li>
+  <li>Implementing and Managing an Advanced DirectAccess Infrastructure</li>
+  <li>Implementing VPN</li>
+</ul>
+<p><strong>Module 6: Implementing Failover Clustering</strong></p>
+<p>This module explains how to provide high availability for network services and applications by implementing Failover Clustering. It will provide an overview of the terms and technologies as well as specific considerations and options for the services and applications under discussion.</p>
+<ul>
+  <li>Overview of Failover Clustering</li>
+  <li>Implementing a Failover Cluster</li>
+  <li>Configuring Highly-Available Applications and Services on a Failover Cluster</li>
+  <li>Maintaining a Failover Cluster</li>
+  <li>Implementing a Multisite Failover Cluster</li>
+</ul>
+<p><strong>Module 7: Implementing Hyper-V</strong></p>
+<p>This module explains how to install and configure Hyper-V virtual machines. It will cover general configuration as well as storage and networking considerations. It will also cover differences introduced in Windows Server 2012 R2.</p>
+<ul>
+  <li>Configuring Hyper-V Servers</li>
+  <li>Configuring Hyper-V Storage</li>
+  <li>Configuring Hyper-V Networking</li>
+  <li>Configuring Hyper-V Virtual Machines</li>
+</ul>
+<p><strong>Module 8: Implementing Failover Clustering with Windows Server 2012 R2 Hyper-V</strong></p>
+<p>This module explains how to deploy and manage Hyper-V virtual machines in a failover cluster. It will provide an overview of the technologies involved as well as details on general configuration and migration of virtual machines.</p>
+<ul>
+  <li>Overview of the Integration of Hyper-V Server 2012 with Failover Clustering</li>
+  <li>Implementing Hyper-V Virtual Machines on Failover Clusters</li>
+  <li>Implementing Windows Server 2012 Hyper-V Virtual Machine Movement</li>
+  <li>Implementing Hyper-V Replica</li>
+</ul>
+<p><strong>Module 9: Implementing Secure Data Access for Users and Devices</strong></p>
+<p>This module explains how to configure secure data access for users and devices. It will primarily cover the implementation of Dynamic Access Control (DAC) and Work Folders.</p>
+<ul>
+  <li>Dynamic Access Control Overview</li>
+  <li>Implementing DAC Components</li>
+  <li>Implementing DAC for Access Control</li>
+  <li>Implementing Access-Denied Assistance</li>
+  <li>Implementing and Managing Work Folders</li>
+</ul>
+<p><strong>Module 10: Implementing AD DS</strong></p>
+<p>This module explains how to implement AD DS in Windows Server 2012. It covers the deployment and configuration of domain controllers as well as the use and implementation of service accounts, Group Policy, and services offered by Windows Azure Active Directory. It also covers the general maintenance of AD DS.</p>
+<ul>
+  <li>Deploying AD DS Domain Controllers</li>
+  <li>Configuring AD DS Domain Controllers</li>
+  <li>Implementing Service Accounts</li>
+  <li>Implementing Group Policy in AD DS</li>
+  <li>Overview of Windows Azure Active Directory</li>
+  <li>Maintaining AD DS</li>
+</ul>
+<p><strong>Module 11: Implementing AD FS</strong></p>
+<p>This module explains how to implement an AD FS deployment. It will cover a single organization usage scenario as well as a business-to-business scenario. The module also covers Web Application Proxy and Workplace Join.</p>
+<ul>
+  <li>Overview of AD FS</li>
+  <li>Deploying AD FS</li>
+  <li>Implementing AD FS for a Single Organization</li>
+  <li>Deploying AD FS in a Business-to-Business Federation Scenario</li>
+  <li>Implementing Web Application Proxy</li>
+  <li>Implementing Workplace Join</li>
+</ul>
+<p><strong>Module 12: Monitoring and Maintaining Windows Server 2012</strong></p>
+<p>This module explains how to monitor and maintain Windows Server 2012. It will cover Performance Monitor and data collector sets as well as server backup and recovery technologies.</p>
+<ul>
+  <li>Monitoring Windows Server 2012</li>
+  <li>Implementing Windows Server Backup</li>
+  <li>Implementing Server and Data Recovery</li>
+</ul>

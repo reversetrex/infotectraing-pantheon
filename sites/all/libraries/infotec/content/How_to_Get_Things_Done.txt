@@ -1,0 +1,39 @@
+<h2>Session 1</h2>
+  <h3>Section A: Using Time Wisely</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Using Time Wisely</li>
+    <li>Get Organized</li>
+    <li>External Distractions</li>
+    <li>Meetings</li>
+    <li>Phone Calls</li>
+    <li>Visitors</li>
+  </ul>
+  <h3>Section B: Get Organized</h3>
+  <ul>
+    <li>Evaluate</li>
+    <li>Your Supplies</li>
+    <li>Your Desktop</li>
+    <li>Your Phone Directory</li>
+    <li>Your Calendar</li>
+    <li>Your Space</li>
+    <li>Your Equipment</li>
+    <li>TAF</li>
+  </ul>
+  <h3>Section C: Get Organized (cont.)</h3>
+  <ul>
+    <li>Working With Others</li>
+    <li>Workplace Conflicts</li>
+    <li>Resolve Conflicts</li>
+  </ul>
+  <h3>Section D: Getting More Done</h3>
+  <ul>
+    <li>Evaluate Requests</li>
+    <li>Delegating</li>
+    <li>Control Distractions</li>
+    <li>Running Out of Time?</li>
+    <li>Crisis Management</li>
+    <li>STRESS</li>
+    <li>Procrastination</li>
+    <li>Perfectionism</li>
+  </ul>

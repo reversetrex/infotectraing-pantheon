@@ -1,0 +1,15 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Gather and analyze information for designing a business solution. </li>
+  <li>Create a vision/scope document. </li>
+  <li>Create the conceptual design for a business solution. </li>
+  <li>Create the logical design for a business solution. </li>
+  <li>Create the physical design for a business solution. </li>
+  <li>Design the presentation layer of an application. </li>
+  <li>Design the data layer of an application. </li>
+  <li>Create a functional specifications document. </li>
+  <li>Create a technical specifications document. </li>
+  <li>Create a security plan. </li>
+  <li>Create a test plan. </li>
+  <li>Create a deployment plan. </li>
+</ul>

@@ -1,0 +1,79 @@
+<p><strong> Unit 1: Managing Users, Groups, and Computers </strong></p>
+<ul>
+  <li> The Windows Server 2003 Environment </li>
+  <li> Installing the Administrative Tools </li>
+  <li> Creating and Managing User Accounts </li>
+  <li> Creating and Managing Group Accounts </li>
+</ul>
+<p><strong> Unit 2: Managing Access to Resources </strong></p>
+<ul>
+  <li> Managing Shared Folder Permissions </li>
+  <li> Managing NTFS Permissions </li>
+  <li> Securing the Server </li>
+</ul>
+<p><strong> Unit 3: Managing and Maintaining a Server Environment </strong></p>
+<ul>
+  <li> Configuring Remote Desktop to Administer a Server </li>
+  <li> Managing Remote Desktop Connections </li>
+  <li> Using Device Driver Rollback </li>
+  <li> Preparing Disks Using the DiskPart Tool </li>
+  <li> Managing Disk Properties </li>
+</ul>
+<p><strong> Unit 4: Managing an Application Server Environment </strong></p>
+<ul>
+  <li> Installing and Configuring Internet Information Services 6.0 </li>
+  <li> Configuring Terminal Services with Group Policy </li>
+  <li> Planning for High Availability and Scalability </li>
+</ul>
+<p><strong> Unit 5: Managing Disaster Recovery </strong></p>
+<ul>
+  <li> Using Automated System Recovery </li>
+  <li> Using Shadow Copies </li>
+</ul>
+<p><strong> Unit 6: Maintaining Software by Using Software Update Services </strong></p>
+<ul>
+  <li> Introduction to Software Update Services </li>
+  <li> Installing and Configuring Software Update Services </li>
+  <li> Managing a Software Update Services Infrastructure </li>
+</ul>
+<p><strong> Unit 7: Planning, Implementing, Optimizing, and Troubleshooting Name Resolution </strong></p>
+<ul>
+  <li> Understanding New DNS Features </li>
+  <li> Planning a DNS Implementation </li>
+  <li> Implementing DNS </li>
+  <li> Troubleshooting Host Name Resolution </li>
+  <li> Planning a WINS Replication Strategy </li>
+</ul>
+<p><strong> Unit 8: Planning a PKI and an IPSec Deployment </strong></p>
+<ul>
+  <li> Introduction to Public Key Infrastructure </li>
+  <li> Planning a Public Key Infrastructure </li>
+  <li> Understanding Default IPSec Policy Rules </li>
+  <li> Planning an IPSec Deployment </li>
+</ul>
+<p><strong> Unit 9: Planning and Troubleshooting Network Access </strong></p>
+<ul>
+  <li> Selecting Network Access Connection Methods </li>
+  <li> Selecting Network Access Authentication Methods </li>
+  <li> Planning a Remote Access Policy Strategy </li>
+  <li> Troubleshooting Network Access </li>
+</ul>
+<p><strong> Unit 10: Implementing Active Directory </strong></p>
+<ul>
+  <li> New Active Directory Features in Windows Server 2003 </li>
+  <li> Installing Active Directory </li>
+  <li> Administering Windows Server 2003 by Using the New Active Directory Features </li>
+  <li> Configuring Trusts </li>
+</ul>
+<p><strong> Unit 11: Planning the Placement of Domain Controllers </strong></p>
+<ul>
+  <li> Planning the Placement of Domain Controllers and Global Catalog Servers </li>
+  <li> Planning the Placement of Operations Masters </li>
+</ul>
+<p><strong> Unit 12: Planning, Implementing, Managing, and Troubleshooting Group Policy </strong></p>
+<ul>
+  <li> Planning a Group Policy Strategy </li>
+  <li> Configuring Security by Using Group Policy </li>
+  <li> Managing Software by Using Group Policy </li>
+  <li> Troubleshooting Group Policy </li>
+</ul>

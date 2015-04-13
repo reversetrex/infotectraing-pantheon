@@ -1,0 +1,10 @@
+<ul>
+  <li> Help student learn, not just memorize </li>
+  <li> Focus on the area where others commonly score the worst </li>
+  <li> Help student determine knowledge gaps </li>
+  <li> Provide insider tips about the exam that are not readily available elsewhere </li>
+  <li> Identify and define PMI-isms </li>
+  <li> Help to gain familiarity with the types of exam questions </li>
+  <li> Provide page references to PMBOK Guide content </li>
+  <li> Increase your probability of passing the exam on your first try </li>
+</ul>

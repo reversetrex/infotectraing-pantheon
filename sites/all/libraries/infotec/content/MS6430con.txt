@@ -1,0 +1,29 @@
+<p><strong>Module 1: Planning for Windows Server  2008 Deployment</strong> - This module explains how to deploy Windows Server 2008.</p>
+
+<p><strong>Module 2: Managing Server Migration</strong> - This module explains how to commission and decommission Windows Server 2008.</p>
+
+<p><strong>Module 3: Planning Windows Server 2008  Server Roles</strong> - This module explains how to plan the installation of server roles in Windows Server 2008.</p>
+
+<p><strong>Module 4: Creating a Configuration Change Plan for Windows Server 2008</strong> - This module explains how to create a  configuration change plan in Windows Server 2008.</p>
+
+<p><strong>Module 5: Managing Windows Server 2008  Security</strong> - This module explains how to plan and  implement security in Windows Server 2008.</p>
+
+<p><strong>Module 6: Planning for the Application  Server Role</strong> - This module explains how to manage versioning and related frameworks in Windows Server 2008.</p>
+
+<p><strong>Module 7: Planning for Windows Server  2008 High Availability</strong> - This module explains how to plan for high  availability in Windows Server 2008.</p>
+
+<p><strong>Module 8: Maintaining Windows Server 2008  Servers</strong> - This module explains how to plan a server update maintenance schedule in Windows Server 2008.</p>
+
+<p><strong>Module 9: Maintaining a Distributed File System on Windows Server 2008</strong> - This module explains how to maintain a  DFS on Windows Server 2008.</p>
+
+<p><strong>Module 10: Planning for Windows Server 2008 Backup</strong> - This module explains how to define backup requirements and policies for administering Windows Server 2008.</p>
+
+<p><strong>Module 11: Managing Windows Server 2008  Restore</strong> - This module explains how to plan and implement a Windows Server 2008 restore.</p>
+
+<p><strong>Module 12: Monitoring Windows Server 2008  Servers</strong> - This module explains how to plan for monitoring Windows Server 2008.</p>
+
+<p><strong>Module 13: Troubleshooting Windows Server  2008 Hardware</strong> - This module explains how to troubleshoot hardware issues in Windows Server 2008.</p>
+
+<p><strong>Module 14: Troubleshooting Software  Problems</strong> - This module explains how to troubleshoot software issues in Windows Server 2008.</p>
+
+<p><strong>Module 15: Troubleshooting Windows Server 2008 Networks</strong> - This module explains how to troubleshoot network issues in Windows  Server 2008.</p>

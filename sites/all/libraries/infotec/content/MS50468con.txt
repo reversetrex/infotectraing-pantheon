@@ -1,0 +1,32 @@
+<p><strong>Module 1:  Overview</strong></p>
+<blockquote>
+  <p>  A  simple introduction module.</p>
+</blockquote>
+<p><strong>Module 2:  SharePoint Introduction</strong></p>
+<blockquote>
+  <p> In  this module, we are going to answer the all important questions of  &quot;What&quot; and &quot;Why&quot; should we be using SharePoint. We are also  going to look at the new and exciting features of SharePoint 2010.</p>
+</blockquote>
+<p><strong>Module 3:  Collaboration Experience</strong></p>
+<blockquote>
+  <p>  In  this module we take a look at the site creation process, common features of the  basic team site, advanced features of a Team Site and the new features of SharePoint  2010.</p>
+</blockquote>
+<p><strong>Module 4:  Lists</strong></p>
+<blockquote>
+  <p>  In  this module, we are going to take a look at lists from a end user standpoint,  but also very quickly from a database standpoint as well.  We will talk about all the basic SharePoint  Lists and the new lists in SharePoint 2010 and what things have changed when  working with any type of list.</p>
+</blockquote>
+<p><strong>Module 5:  List Management</strong></p>
+<blockquote>
+  <p>  We  explored the types of lists that come out of the box in the last module.  In this module, we will explore how to manage  those lists.</p>
+</blockquote>
+<p><strong>Module 6:  Permissions</strong></p>
+<blockquote>
+  <p>  In  this module we take a look at SharePoint permissions.  We will learn about SharePoint groups,  permission levels, permissions and explore the new Permission Finders.</p>
+</blockquote>
+<p><strong>Module 7:  Foundation Site Definitions</strong></p>
+<blockquote>
+  <p>  In  this module we are going to review the SharePoint Foundation site definitions.</p>
+</blockquote>
+<p><strong>Module 8:  Office Integration</strong></p>
+<blockquote>
+  <p>In this module we are  going to take a look at how SharePoint and Office interact.</p>
+</blockquote>

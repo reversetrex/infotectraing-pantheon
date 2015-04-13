@@ -1,0 +1,478 @@
+<p><strong> Unit 0 - Introductions, Expectations and More </strong></p>
+<ul>
+  <li>   Introductions and Expectations</li>
+  <li>Facilities and Services </li>
+  <li>Equipment </li>
+  <li>OFF LIMITS </li>
+  <li>Class Rules </li>
+  <li>The Problem </li>
+  <li>&quot;Hacker&quot; History </li>
+  <li>Review command line references for this class </li>
+  <li>LAB - Introduction to the use of make_log </li>
+</ul>
+<p><strong> Unit 1 - Deep understanding of the attacker mind </strong></p>
+<ul>
+  <li>Hackers, Crackers, Attackers </li>
+  <li>Attacker Motivations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li>
+  <li>Attacker Methods </li>
+</ul>
+<p><strong> Unit 2 - Classes of Attack </strong></p>
+<ul>
+  <li>Common Exploit Goals </li>
+  <li>Common Exploit Techniques </li>
+  <li>Multilevel Exploitation </li>
+  <li>Case Study </li>
+  <li>The Kevin Mitnick/Tsutomu Shimomura affair </li>
+</ul>
+<p><strong> Unit 3 - Information Gathering </strong></p>
+<ul>
+  <li> Web based resources </li>
+  <li>Internet Registration Databases </li>
+  <li>Domain Name Databases </li>
+  <li>Competitive Intelligence Scouting
+    <ul>
+      <li> EDGAR Database </li>
+      <li>Stock Exchange Websites </li>
+      <li>Company Website </li>
+      <li>Fu*&amp;# Company </li>
+      <li>Job Postings </li>
+      <li>LAB </li>
+    </ul>
+  </li>
+  <li>Usenet Newsgroups </li>
+  <li>Mailing List and List Archives
+    <ul>
+      <li> LAB </li>
+    </ul>
+  </li>
+  <li>Advanced Google Tricks
+    <ul>
+      <li> LAB - inurl, filtype, etc. </li>
+      <li>LAB - The TouchGraph Google browser </li>
+      <li>LAB - Kartoo </li>
+    </ul>
+   </li>
+  <li>Document Grinding
+    <ul>
+      <li> LAB - Document password cracking </li>
+    </ul>
+   </li>
+  <li>Privacy Review
+    <ul>
+      <li> LAB - Interactive analysis of output </li>
+    </ul>
+  </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 4 - Initial Network Discovery </strong></p>
+<ul>
+  <li> IP Block Ownership </li>
+  <li>LAB&nbsp; - Multiple tools </li>
+  <li>Domain Registry Information
+    <ul>
+      <li> LAB - Multiple tools </li>
+    </ul>
+  </li>
+  <li>Domain Name Services
+    <ul>
+      <li>LAB - dig techniques </li>
+      <li>LAB - version.bind </li>
+      <li>LAB - Web based tools </li>
+    </ul>
+  </li>
+  <li>Ping Sweeps
+    <ul>
+      <li> LAB - using ping </li>
+      <li>LAB - fping </li>
+    </ul>
+   </li>
+  <li>Beyond traceroute
+    <ul>
+      <li>LAB - traceroute </li>
+      <li>LAB - LFT </li>
+      <li>LAB - Globally placed web based tools </li>
+      <li>LAB - Advanced uses of traceroute </li>
+      <li>LAB - Paketto Kieretsu - Scanrand </li>
+    </ul>
+    </li>
+  <li>Web Code Analysis
+    <ul>
+      <li>LAB - Netscape </li>
+      <li>LAB - Web based tools </li>
+    </ul>
+  </li>
+  <li>E-Mail header analysis
+    <ul>
+      <li>LAB </li>
+    </ul>
+  </li>
+  <li>Banner Scanning </li>
+  <li>Netcat techniques
+    <ul>
+      <li>LAB - Banner scanning with netcat </li>
+    </ul>
+  </li>
+  <li>Advanced OS Fingerprinting </li>
+  <li>Web Based tools
+    <ul>
+      <li>LAB - Netcraft </li>
+      <li>Passfing </li>
+      <li>POf - Passive OS Fingerprinting
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>Nmap - Active OS Fingerprinting
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+    </ul>
+   </li>
+  <li>Advanced Port Scanning
+    <ul>
+      <li> Service Identification </li>
+      <li>Advanced&nbsp; UDP port scanning techniques </li>
+      <li>LAB - Multiple tools </li>
+    </ul>
+  </li>
+  <li>Advanced TCP port scanning techniques
+    <ul>
+      <li>LAB - nmap </li>
+    </ul>
+  </li>
+  <li>Advanced ICMP scanning
+    <ul>
+      <li>LAB - Sing </li>
+      <li>LAB - Xprobe2 </li>
+      <li>LAB - Hping2 </li>
+    </ul>
+   </li>
+  <li>Protocol Response Output Analysis
+    <ul>
+      <li>Interactive Session </li>
+    </ul>
+  </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 5 - Architectural Vulnerabilities </strong></p>
+<ul>
+  <li> The Security Presence at a glance
+    <ul>
+      <li>LAB - Network Design </li>
+    </ul>
+  </li>
+  <li>Sniffers 
+    <ul>
+      <li>LAB &ndash; tcpdump/windump </li>
+      <li>LAB - Ethereal </li>
+    </ul>
+   </li>
+  <li>Spoofing </li>
+  <li>Session Hijacking tricks
+    <ul>
+      <li>LAB </li>
+    </ul>
+  </li>
+  <li>Analog Devices
+    <ul>
+      <li>PBX </li>
+      <li>Wardialing </li>
+      <li>Fax machines </li>
+    </ul>
+  </li>
+  <li>Wireless Insecurities
+    <ul>
+      <li>LAB - Kismet or Welleinwriter</li>
+    </ul>
+  </li>
+</ul>
+<p><strong> Unit 6 - Advanced Enumeration/Further Enumeration </strong></p>
+<ul>
+  <li> Network Device enumeration
+    <ul>
+      <li>Cisco hacks </li>
+      <li>Online resources </li>
+      <li>LAB </li>
+    </ul>
+   </li>
+  <li>Unix enumeration techniques
+    <ul>
+      <li>Online Resources </li>
+      <li>MULTIPLE LABS </li>
+    </ul>
+  </li>
+  <li>Windows enumeration techniques
+    <ul>
+      <li>Online Resources </li>
+      <li>MULTIPLE LABS </li>
+    </ul>
+  </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 7 - Password cracking </strong></p>
+<ul>
+  <li>Windows 2000-2003 - &quot;Cracking the OS&quot;    <ul>
+      <li>Cryptography in your OS </li>
+      <li>Tools to audit the registry, file settings, and user accounts </li>
+      <li>MULTIPLE LABS </li>
+      </ul>
+   </li>
+  <li>UNIX/Linux
+    <ul>
+      <li>Tools and techniques </li>
+      <li>MULTIPLE LABS </li>
+    </ul>
+    </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 8 - Advanced Firewall and Router Testing </strong></p>
+<ul>
+  <li> Routers and ACL's
+    <ul>
+      <li> Fragroute
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>Nmap for FW/Router testing
+        <ul>
+          <li>LAB's with Nmap </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Uncovering Firewall Policies (Determination)
+    <ul>
+      <li>Passive and active scanning with Nmap
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>Firewalking - The technique </li>
+      <li>Firewalk - The tool
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>FWtester
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>Things Firewalls can't see </li>
+    </ul>
+    </li>
+  <li>Covert Channels
+    <ul>
+      <li>Using ICMP, TCP, and HTTP to hide traffic </li>
+      <li>Wetware - The Weakest Link </li>
+    </ul>
+  </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 9 - Vulnerability Research and Automated Scanning </strong></p>
+<ul>
+  <li>Vulnerability Assessment in the Enterprise </li>
+  <li> Automated Scanning
+    <ul>
+      <li>SARA
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>Nessus
+        <ul>
+          <li>LAB - Nessus </li>
+          <li>LAB - Using NASL </li>
+        </ul>
+      </li>
+    </ul>
+   </li>
+  <li>Vulnerability Research
+    <ul>
+      <li>CVE
+        <ul>
+          <li>LAB </li>
+          <li>Bugtrack </li>
+        </ul>
+      </li>
+      <li>The Underground!
+        <ul>
+          <li>LAB</li>
+        </ul>
+      </li>
+    </ul>
+   </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 10 - Rootkits and Trojans </strong></p>
+<ul>
+  <li> Unix rootkits
+    <ul>
+      <li>LAB </li>
+    </ul>
+  </li>
+  <li>Windows rootkits
+    <ul>
+      <li>LAB </li>
+    </ul>
+  </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 11 - Viruses and Malware </strong></p>
+<ul>
+  <li> Virus and Malware Writing 101 </li>
+  <li>Containment Measures Testing </li>
+  <li>Virus and Malware countermeasures </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 12 - Application Testing </strong></p>
+<ul>
+  <li>Server-side Applications
+    <ul>
+      <li>BIND </li>
+      <li>IIS
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>Sendmail
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Web Application Hacking
+    <ul>
+      <li>Information Leakage </li>
+      <li>Authentication </li>
+      <li>Session Management </li>
+      <li>Input Manipulation </li>
+      <li>Output Manipulation </li>
+      <li>Nikto 
+        <ul>
+          <li>LAB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>OWASP's top 10
+    <ul>
+      <li>WebGoat
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>Privileges Testing </li>
+      <li>Client-side Applications </li>
+      <li>IE
+        <ul>
+          <li>RESEARCH LAB </li>
+        </ul>
+      </li>
+      <li>Mozilla </li>
+      <li>AOL IM </li>
+    </ul>
+    </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 13 - Advanced exploits and tools </strong></p>
+<ul>
+  <li> Anatomy of an exploit
+    <ul>
+      <li>Case study </li>
+    </ul>
+  </li>
+  <li>Exploiting Complex Protocols 
+    <ul>
+      <li>SSH &amp; IPSEC
+        <ul>
+          <li>MULTIPLE LABS </li>
+        </ul>
+      </li>
+      <li>Shellcode and Payload Generators </li>
+      <li>CANVAS
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>Libexploit
+        <ul>
+          <li>LAB </li>
+        </ul>
+      </li>
+      <li>Metasploit
+        <ul>
+          <li>LAB</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<p><strong> Unit 14 - IDS Testing </strong></p>
+<ul>
+  <li>Network-Based
+    <ul>
+      <li>LAB - Snort </li>
+    </ul>
+  </li>
+  <li>Host-Based
+    <ul>
+      <li>LAB - Sam Hain </li>
+    </ul>
+  </li>
+  <li>Anomaly and Hybrids
+    <ul>
+      <li>LAB - Prelude </li>
+    </ul>
+  </li>
+  <li>The Tools and Techniques of IDS testing
+    <ul>
+      <li>Apsend </li>
+      <li>SendIP </li>
+    </ul>
+  </li>
+  <li>Stick
+    <ul>
+      <li>Snot
+        <ul>
+          <li>MULTIPLE LABS </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 15 - Honeypots &amp; Honeynets </strong></p>
+<ul>
+  <li> What are they, and how do they work
+    <ul>
+      <li>MULTIPLE LABS </li>
+      <li>Unit Review </li>
+    </ul>
+  </li>
+</ul>
+<p><strong> Unit 16 - Social Engineering </strong></p>
+<ul>
+  <li>Testing Wetware </li>
+  <li>The Human Brain and Cognition </li>
+  <li>Heard of Jack? </li>
+  <li>Types of attacks </li>
+  <li>Advanced attacks
+    <ul>
+      <li>Case studies </li>
+    </ul>
+  </li>
+  <li>Unit Review </li>
+</ul>
+<p><strong> Unit 17 - Introduction to Forensics </strong></p>
+<ul>
+  <li>Incident Response Teams </li>
+  <li>Incident response and Forensic Methodologies </li>
+  <li>Forensic Tools </li>
+  <li>Involving Law Enforcement </li>
+  <li>Unit Review </li>
+  <li>Class Wrap up and open discussion </li>
+</ul>

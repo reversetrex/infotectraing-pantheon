@@ -1,0 +1,458 @@
+<h2>Session 1</h2>
+  <h3>Section A: The Internet Today</h3>
+  <ul>
+    <li>Web Site Elements</li>
+    <li>What is the Internet?</li>
+    <li>W3C Standards</li>
+    <li>Page Types</li>
+    <li>Web Page Languages</li>
+    <li>Design Tools and Applications</li>
+  </ul>
+  <h3>Section B: Planning the Web Site</h3>
+  <ul>
+    <li>Design Considerations</li>
+    <li>Target Audience</li>
+    <li>Site Mapping</li>
+    <li>Keep Organized</li>
+  </ul>
+  <h3>Section C: Guidelines</h3>
+  <ul>
+    <li>Screen Resolution</li>
+    <li>Connection Considerations</li>
+    <li>Browser Considerations</li>
+    <li>Web Design 101</li>
+    <li>Copyright</li>
+  </ul>
+  <h3>Section D: XHTML</h3>
+  <ul>
+    <li>Understanding Code</li>
+    <li>Breaking It Down</li>
+    <li>Attributes and Values</li>
+    <li>Nested Tags</li>
+    <li>DOCTYPE</li>
+    <li>Page Tags</li>
+    <li>Meta Tags</li>
+    <li>Body Tags</li>
+    <li>Deprecated Tags</li>
+  </ul>
+  <h3>Section E: Images</h3>
+  <ul>
+    <li>Image Formats</li>
+    <li>Photo Images - JPG</li>
+    <li>Bitmap Images - PNG,WBMP</li>
+    <li>Image Attributes</li>
+    <li>Background Images</li>
+  </ul>
+  <h3>Section F: Color</h3>
+  <ul>
+    <li>RGB Color</li>
+    <li>Hexadecimal Color</li>
+    <li>Web-Safe Color</li>
+    <li>Color Attribute</li>
+    <li>Background Color</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Photoshop CS3 Basics</h3>
+  <ul>
+    <li>Image Tool Interface</li>
+    <li>Palettes</li>
+    <li>Customized Workspace</li>
+    <li>Built-In Help</li>
+  </ul>
+  <h3>Section B: Working with Photoshop CS3</h3>
+  <ul>
+    <li>Set Up Preferences</li>
+    <li>Create a Mock-up</li>
+    <li>Working with Canvas</li>
+    <li>Use Layers</li>
+    <li>Add Image</li>
+    <li>Add Text</li>
+    <li>Add Navigation Bar</li>
+    <li>Create Buttons</li>
+    <li>Add Text to Button</li>
+    <li>Background Image</li>
+  </ul>
+  <h3>Section C: Optimizing Photoshop Images</h3>
+  <ul>
+    <li>GIF Files</li>
+    <li>Optimize GIF Files</li>
+    <li>Color Reduction Methods</li>
+    <li>Selective Options</li>
+    <li>Manipulating GIF Images</li>
+    <li>Optimize JPG Files</li>
+    <li>Manual Manipulating JPG</li>
+    <li>Optimize PNG Files</li>
+    <li>PNG-24</li>
+    <li>Preview Load Times</li>
+  </ul>
+  <h3>Section D: Tables</h3>
+  <ul>
+    <li>Working with Tables</li>
+    <li>Table Attributes</li>
+    <li>Frame and Rules Attribute</li>
+    <li>Table Layout Attributes</li>
+    <li>Row Attributes</li>
+    <li>Cell Attributes</li>
+    <li>Merging</li>
+  </ul>
+  <h3>Section E: Formatting Text</h3>
+  <ul>
+    <li>Text Alignment</li>
+    <li>Formatting Options</li>
+    <li>HTML Headings</li>
+    <li>Ordered Lists</li>
+    <li>Unordered List</li>
+    <li>Nested Lists</li>
+    <li>Font Elements</li>
+    <li>Font Tag</li>
+    <li>Font Face Attribute</li>
+    <li>Font Size Attribute</li>
+  </ul>
+  <h3>Section F: Links</h3>
+  <ul>
+    <li>Using Links</li>
+    <li>Creating Links</li>
+    <li>Border Attribute</li>
+    <li>Create Text Link</li>
+    <li>Create Image Link</li>
+    <li>Image Maps</li>
+    <li>Linking Regions</li>
+    <li>E-mail Links</li>
+    <li>Named Anchors</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Cascading Style Sheets</h3>
+  <ul>
+    <li>Anatomy of a Style Sheet</li>
+    <li>Selectors</li>
+    <li>Class Selector</li>
+    <li>Pseudo-Class Selector</li>
+    <li>Apply Pseudo-Class</li>
+    <li>Apply External Style Sheets</li>
+    <li>Apply Embedded Style Sheets</li>
+    <li>Apply Inline Style Sheets</li>
+  </ul>
+  <h3>Section B: CSS Formatting</h3>
+  <ul>
+    <li>Text Formatting</li>
+    <li>Font Properties</li>
+    <li>More Font Properties</li>
+    <li>Text Formatting Example</li>
+    <li>Margin Property</li>
+    <li>Positioning</li>
+    <li>Position Property</li>
+    <li>Setting Background</li>
+    <li>Background Images</li>
+    <li>Positioning Backgrounds</li>
+  </ul>
+  <h3>Section C: Frames</h3>
+  <ul>
+    <li>Pros and Cons</li>
+    <li>What are Frames?</li>
+    <li>frameset Attributes</li>
+    <li>Frame Tags</li>
+    <li>Frame Attributes</li>
+    <li>Frame Examples</li>
+    <li>More Frame Attributes</li>
+    <li>Linking within Frames</li>
+    <li>Named Targets</li>
+    <li>Noframe</li>
+  </ul>
+  <h3>Section D: Using Multimedia on Web Pages</h3>
+  <ul>
+    <li>Multimedia Formats</li>
+    <li>Performance Issues</li>
+    <li>Audio Software</li>
+    <li>Video Software</li>
+    <li>Animation Software</li>
+    <li>QuickTime Plug-ins</li>
+    <li>RealPlayer Plug-in</li>
+    <li>Embedding Multimedia</li>
+    <li>object Attributes</li>
+    <li>Embed QuickTime Movies</li>
+    <li>Embed Flash Movies</li>
+  </ul>
+  <h3>Section E: JavaScript</h3>
+  <ul>
+    <li>Fundamentals</li>
+    <li>Script Tags</li>
+    <li>Event Handlers</li>
+    <li>JavaScript Syntax</li>
+    <li>Variables</li>
+    <li>Arrays</li>
+    <li>Functions</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Java</h3>
+  <ul>
+    <li>Java Basics</li>
+    <li>Java Applets</li>
+    <li>Java Tags</li>
+    <li>&amp;lt;applet&amp;gt; Attributes</li>
+    <li>&amp;lt;applet&amp;gt; Parameters</li>
+  </ul>
+  <h3>Section B: XML</h3>
+  <ul>
+    <li>XML Basics</li>
+    <li>XML Syntax</li>
+    <li>XML Requirements</li>
+    <li>XML with XSL</li>
+    <li>Document Type Definition</li>
+  </ul>
+  <h3>Section C: Server Technologies</h3>
+  <ul>
+    <li>Server-Side Basics</li>
+    <li>Server Considerations</li>
+    <li>Cookies</li>
+    <li>Session Types</li>
+    <li>Working with Cookies</li>
+    <li>Cookie Concerns</li>
+  </ul>
+  <h3>Section D: Databases</h3>
+  <ul>
+    <li>Database Basics</li>
+    <li>Database Types</li>
+    <li>Database Management Systems</li>
+    <li>Connectivity</li>
+    <li>Scripted Connections</li>
+  </ul>
+  <h3>Section E: Accessibility</h3>
+  <ul>
+    <li>Section 508</li>
+    <li>Alt Tags</li>
+    <li>Other Uses of Alt Tags</li>
+    <li>Create Tables Info</li>
+    <li>Assistive Device Considerations</li>
+    <li>Form Considerations</li>
+    <li>Working Form Objects</li>
+    <li>Forms with Keyboard Navigation</li>
+    <li>Other Form Considerations</li>
+  </ul>
+  <h3>Section F: Dreamweaver CS3</h3>
+  <ul>
+    <li>Learning the Interface</li>
+    <li>Working with Toolbars</li>
+    <li>Document Window</li>
+    <li>Working with Palettes and Properties</li>
+    <li>Customize Workspace</li>
+    <li>Define Web Site</li>
+    <li>Finalize Setup</li>
+  </ul>
+  <h3>Section G: Dreamweaver Essentials</h3>
+  <ul>
+    <li>Using Tables for Layout</li>
+    <li>Layout Table Mode</li>
+    <li>Edit Tables and Properties</li>
+    <li>Format Tables</li>
+    <li>Adding Background Image</li>
+    <li>Creating Borders</li>
+    <li>Add and Edit Rows/Columns</li>
+    <li>Add and Edit Content in Cells</li>
+    <li>Save Web Site</li>
+    <li>AP Divs</li>
+    <li>Working with AP Div Elements</li>
+    <li>Modify AP Div Element</li>
+    <li>Preview Page and Source Code</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Dreamweaver CS3 Templates</h3>
+  <ul>
+    <li>Converting Page to Template</li>
+    <li>Editing Master Page</li>
+    <li>Editable Optional Region</li>
+    <li>Use Template to Create Page</li>
+    <li>Repeating Table Region</li>
+    <li>Formatting/Editing Repeating Table</li>
+    <li>Using Repeating Table Options</li>
+    <li>Review Regions</li>
+    <li>Updating Template</li>
+  </ul>
+  <h3>Section B: Adding Interactivity with Dreamweaver</h3>
+  <ul>
+    <li>Building Rollover Effect</li>
+    <li>Adding Action</li>
+    <li>Building Navigation Bar</li>
+    <li>Navigation Bar Tricks</li>
+    <li>Interactive Behavior</li>
+    <li>Create Behavior Event</li>
+    <li>Setup Event</li>
+    <li>Create a Spry Effect</li>
+    <li>Preview Spry Effect</li>
+  </ul>
+  <h3>Section C: Building Web Forms with Dreamweaver</h3>
+  <ul>
+    <li>Add Form Objects</li>
+    <li>Add Text Fields</li>
+    <li>Modify Layout</li>
+    <li>Adding Check Box</li>
+    <li>Check Box Properties</li>
+    <li>Adding Radio Buttons</li>
+    <li>Using Drop-Down Menus</li>
+    <li>Add Text Area</li>
+    <li>Submit/Reset Buttons</li>
+    <li>View Form</li>
+  </ul>
+  <h3>Section D: CSS with Dreamweaver</h3>
+  <ul>
+    <li>Create CCS Rule</li>
+    <li>Set Class Selector Properties</li>
+    <li>Apply Class Selector</li>
+    <li>Apply Tag Selector</li>
+    <li>Apply Psuedo-Class</li>
+    <li>Apply More CSS Effects</li>
+    <li>Preview Psuedo-Class Selector</li>
+    <li>Apply External Style Sheet</li>
+    <li>Edit External Style Sheet</li>
+    <li>View Embedded Style Sheet</li>
+  </ul>
+  <h3>Section E: Dreamweaver Productivity Tools</h3>
+  <ul>
+    <li>Productivity Tips</li>
+    <li>Record/Replay Steps</li>
+    <li>Using History Panel</li>
+    <li>Work with Library Items</li>
+    <li>Add/Edit Library Items</li>
+    <li>Find and Replace</li>
+    <li>Find and Replace Code</li>
+  </ul>
+  <h3>Section F: XHTML and Dreamweaver</h3>
+  <ul>
+    <li>Working with Code</li>
+    <li>Quick Tag Editor - Insert HTML Mode</li>
+    <li>Quick Tag Editor - Edit HTML Mode</li>
+    <li>Quick Tag Editor - Wrap Tag Mode</li>
+  </ul>
+<h2>Session 6</h2>
+  <h3>Section A: Expression Web</h3>
+  <ul>
+    <li>Interface Basics</li>
+    <li>Design View Tools</li>
+    <li>Status Bar Tools</li>
+    <li>Setting Status Modes and Options</li>
+    <li>Edit Document Type Information</li>
+    <li>Creating a New Web Site</li>
+    <li>Add Pages</li>
+  </ul>
+  <h3>Section B: Expression Design Tools</h3>
+  <ul>
+    <li>Using Tables</li>
+    <li>Working with Layout Table and Cells</li>
+    <li>Adding Images with Tables</li>
+    <li>Format Table Layout</li>
+    <li>Add Background Images</li>
+    <li>Format Table Cells</li>
+    <li>Using Layers</li>
+    <li>Working with Layers</li>
+    <li>Add Content to Page</li>
+  </ul>
+  <h3>Section C: Expression Templates</h3>
+  <ul>
+    <li>Dynamic Web Templates</li>
+    <li>Creating Template from Existing</li>
+    <li>Working with Regions</li>
+    <li>Attach Dynamic Web Template</li>
+    <li>Editing Dynamic Templates</li>
+    <li>Detach Template</li>
+  </ul>
+  <h3>Section D: Adding Interactivity with Expressions</h3>
+  <ul>
+    <li>Creating Rollover Effect</li>
+    <li>Editing Interactive Buttons</li>
+    <li>Saving Embedded Files</li>
+    <li>Preview Site and Code</li>
+    <li>Creating a Behavior Event</li>
+    <li>Using Swap Image Behavior</li>
+  </ul>
+  <h3>Section E: Building Web Forms with Expression</h3>
+  <ul>
+    <li>Add Form Objects</li>
+    <li>Add Text Fields</li>
+    <li>Add Radio Buttons</li>
+    <li>Add Check Boxes</li>
+    <li>Add Drop-Down Menus</li>
+    <li>Add Text Areas</li>
+    <li>Submit/Reset Buttons</li>
+    <li>Finalize Form</li>
+    <li>View Form</li>
+  </ul>
+  <h3>Section F: CSS with Expression</h3>
+  <ul>
+    <li>Create Class-Based Style</li>
+    <li>Build and Apply Class-Based Style</li>
+    <li>Create Element-Based Style</li>
+    <li>Save and View External Style Sheet</li>
+    <li>ID-Based Style</li>
+    <li>Build and Apply ID-Based Style</li>
+    <li>Using External Style Sheets</li>
+    <li>Modify Style Sheets</li>
+  </ul>
+  <h3>Section G: XHTML with Expression</h3>
+  <ul>
+    <li>Working with the Code View</li>
+    <li>Quick Tag Editor</li>
+    <li>Insert HTML with Quick Tag Editor</li>
+    <li>Quick Tag Selector</li>
+  </ul>
+<h2>Session 7</h2>
+  <h3>Section A: Flash CS3</h3>
+  <ul>
+    <li>Interface Basics</li>
+    <li>Timeline</li>
+    <li>Panels</li>
+    <li>Tools Panel</li>
+    <li>Edit Bar</li>
+    <li>Customize Workspace</li>
+  </ul>
+  <h3>Section B: Flash CS3 Animation Basics</h3>
+  <ul>
+    <li>Flash in Action</li>
+    <li>Frame-by-Frame Animation</li>
+    <li>Using Tools to Align and Layout</li>
+    <li>Preview Options</li>
+    <li>Adding Frames</li>
+    <li>Shape Tweening</li>
+    <li>Morphing Process</li>
+    <li>Using Shape Hint</li>
+    <li>ActionScript</li>
+    <li>Prebuilt Actions</li>
+    <li>Motion Tweening</li>
+    <li>Converting to Symbols</li>
+    <li>Using Symbol Instances</li>
+    <li>Custom Animation Techniques</li>
+  </ul>
+  <h3>Section C: Designing Web Sites with Flash</h3>
+  <ul>
+    <li>Animated Buttons</li>
+    <li>Adding Effects to Buttons</li>
+    <li>Placing Buttons on the Stage</li>
+    <li>Converting Sounds to MP3</li>
+    <li>Defining Button Sounds</li>
+    <li>Adding Video to Movies</li>
+    <li>Video Encoding Options</li>
+    <li>Preview Video</li>
+    <li>View Bandwidth Profiler</li>
+  </ul>
+  <h3>Section D: Publishing Flash Movies</h3>
+  <ul>
+    <li>Publish Settings</li>
+    <li>Flash Publish Settings</li>
+    <li>HTML Publish Settings</li>
+    <li>Playback Settings</li>
+    <li>Quality Settings</li>
+    <li>View in Browser</li>
+    <li>Export as SWF</li>
+  </ul>
+  <h3>Section E: Managing Web Sites</h3>
+  <ul>
+    <li>Web Publishing Requirements</li>
+    <li>Choosing a Web Host</li>
+    <li>Server Space</li>
+    <li>Web Site Services</li>
+    <li>FTP</li>
+    <li>FTP in Dreamweaver</li>
+    <li>Upload to FTP Server</li>
+    <li>FTP in MS Expression Web</li>
+    <li>Upload via File System</li>
+    <li>Web Site Management</li>
+    <li>Content Management Systems</li>
+  </ul>

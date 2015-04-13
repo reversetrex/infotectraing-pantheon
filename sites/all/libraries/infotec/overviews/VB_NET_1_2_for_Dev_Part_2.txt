@@ -1,0 +1,1 @@
+In the VB.NET 1.2 for Developers Part 2 course from LearnKey, expert instructors Andy Baron, Mary Chipman and Ken Getz continue their instruction begun in Part 1. Existing application developers who want to make the transition to developing for .NET will learn skills needed to employ this major upgrade to Visual Basic to use XML web services and access data from database records.

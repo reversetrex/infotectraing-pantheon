@@ -1,0 +1,14 @@
+<p>By the end of the course, you should gain an understanding of the functions and features in vSphere 5.0 and be able to do the following:</p>
+<ul>
+  <li> List and describe key enhancements in vSphere 5.0</li>
+  <li> Upgrade a deployment from vSphere 4.1 to vSphere 5.0</li>
+  <li> Use the vSphere Web Client to manage virtual machines</li>
+  <li> List and describe key networking enhancements, including the   ESXi firewall and new features in vNetwork distributed switches</li>
+  <li> Upgrade and manage a VMware vSphere VMFS-5 datastore</li>
+  <li> Understand and configure policy-driven storage</li>
+  <li> Create a datastore cluster and configure Storage DRS</li>
+  <li> Use new displays to monitor vSphere High Availability cluster  activity</li>
+  <li> Use the Linux-based VMware vCenter Server Appliance</li>
+  <li> Use Auto Deploy to install a stateless ESXi host</li>
+  <li> Use Image Builder to modify and export an image profile</li>
+</ul>

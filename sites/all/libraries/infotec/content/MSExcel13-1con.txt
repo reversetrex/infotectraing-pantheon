@@ -1,0 +1,41 @@
+<p><strong>Lesson 1: </strong>Getting Started with Microsoft Office Excel 2013</p>
+<ul>
+  <li><strong>Topic A: </strong>Navigate the Excel User Interface</li>
+  <li><strong>Topic B: </strong>Use Excel Commands</li>
+  <li><strong>Topic C: </strong>Create and Save a Basic Workbook</li>
+  <li><strong>Topic D: </strong>Enter Cell Data</li>
+  <li><strong>Topic E: </strong>Use Excel Help</li>
+</ul>
+<p><strong>Lesson 2: </strong>Performing Calculations</p>
+<ul>
+  <li><strong>Topic A: </strong>Create Worksheet Formulas</li>
+  <li><strong>Topic B: </strong>Insert Functions</li>
+  <li><strong>Topic C: </strong>Reuse Formulas</li>
+</ul>
+<p><strong>Lesson 3: </strong>Modifying a Worksheet</p>
+<ul>
+  <li><strong>Topic A: </strong>Insert, Delete, and Adjust Cells, Columns, and Rows</li>
+  <li><strong>Topic B: </strong>Search for and Replace Data</li>
+  <li><strong>Topic C: </strong>Use Proofing and Research Tools</li>
+</ul>
+<p><strong>Lesson 4: </strong>Formatting a Worksheet</p>
+<ul>
+  <li><strong>Topic A: </strong>Modify Fonts</li>
+  <li><strong>Topic B: </strong>Add Borders and Colors to Worksheets</li>
+  <li><strong>Topic C: </strong>Apply Number Formats</li>
+  <li><strong>Topic D: </strong>Align Cell Contents</li>
+  <li><strong>Topic E: </strong>Apply Styles and Themes</li>
+  <li><strong>Topic F: </strong>Apply Basic Conditional Formatting</li>
+  <li><strong>Topic G: </strong>Create and Use Templates</li>
+</ul>
+<p><strong>Lesson 5: </strong>Printing Workbooks</p>
+<ul>
+  <li><strong>Topic A: </strong>Preview and Print a Workbook</li>
+  <li><strong>Topic B: </strong>Define the Page Layout</li>
+</ul>
+<p><strong>Lesson 6: </strong>Managing Workbooks</p>
+<ul>
+  <li><strong>Topic A: </strong>Manage Worksheets</li>
+  <li><strong>Topic B: </strong>Manage Workbook and Worksheet Views</li>
+  <li><strong>Topic C: </strong>Manage Workbook Properties</li>
+</ul>

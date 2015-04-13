@@ -1,0 +1,11 @@
+<p> Unit objectives help students become comfortable with the course, and also provide a means to evaluate learning. Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> Create and save a document; open an existing document; and use simple editing techniques. </li>
+  <li> Navigate in a large document by using the mouse and keyboard. </li>
+  <li> Edit a document by using more sophisticated techniques, including moving and copying text within a document and between documents. </li>
+  <li> Apply and remove character and paragraph formatting. </li>
+  <li> Use tabs and create and modify a table structure. </li>
+  <li> Adjust margins, add and delete page breaks, and create headers and footers. </li>
+  <li> Use Word&rsquo;s proofing tools, such as the spelling checker and thesaurus, and print a document, envelope, and labels. </li>
+  <li> Save an existing document as a Web page and preview it in a browser. </li>
+</ul>

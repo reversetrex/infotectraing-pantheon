@@ -1,0 +1,155 @@
+<p><strong>Unit 1: Introduction to Designing SQL Server Security</strong></p>
+<p>This Unit introduces the principles and methodology of designing SQL Server security. This Unit also explains the benefits 
+
+of having a security policy in place and the process of creating a security policy. In addition, this Unit teaches you the 
+
+importance of monitoring the security of SQL Server.<br>
+  <br>
+  Units</p>
+<ul>
+  <li>Principles of Database Security</li>
+  <li>Methodology for Designing a SQL Server Security Policy</li>
+  <li>Monitoring SQL Server Security<br>
+    </li>
+</ul>
+<p>After completing this Unit, students will be able to:</p>
+<ul>
+  <li>Explain the principles of SQL Server security.</li>
+  <li>Describe the methodology to design a SQL Server security policy.</li>
+  <li>Explain the importance of monitoring SQL Server security.</li>
+</ul>
+<p><strong>Unit 2: Designing a SQL Server Systems Infrastructure Security Policy</strong></p>
+<p>This Unit provides the guidelines for implementing server-level security using authentication methods. This Unit also 
+
+provides the knowledge required to develop a Microsoft Windows server-level security policy. To enable you to do this, this 
+
+Unit provides the guidelines to create password policy and determine service accounts permissions. In addition, this Unit 
+
+explains how to select an appropriate encryption method to develop a secure communication policy. This Unit also explains the 
+
+monitoring standards for SQL Server.</p>
+<p>Units</p>
+<ul>
+  <li>Integrating with Enterprise Authentication Systems</li>
+  <li>Developing Windows Server-Level Security Policies</li>
+  <li>Developing a Secure Communication Policy</li>
+  <li>Defining SQL Server Security Monitoring Standards<br>
+    </li>
+</ul>
+<p>Lab 2A: Designing a SQL Server Systems Infrastructure Security Policy</p>
+<ul>
+  <li>Developing Microsoft Windows Server-Level Security Policies</li>
+  <li>Developing a Secure Communication Policy</li>
+  <li>Integrating SQL Server Security Within the Active Directory Environment</li>
+  <li>Integrating SQL Server Security With Firewall Configurations</li>
+  <li>Discussing Systems Infrastructure Security Integration</li>
+</ul>
+<p>Lab 2B: Creating an Infrastructure Security Inventory</p>
+<ul>
+  <li>Auditing the SQL Server Logins</li>
+  <li>Auditing the Windows Local Password Policy</li>
+  <li>Auditing SQL Server Service Accounts</li>
+  <li>Monitoring Security at the Enterprise and Server Levels</li>
+</ul>
+<p>After completing this Unit, students will be able to:</p>
+<ul>
+  <li>Integrate SQL Server security with enterprise-level authentication systems.</li>
+  <li>Develop Windows server-level security policies.</li>
+  <li>Develop a secure communication policy.</li>
+  <li>Define security monitoring standards for SQL Server at the enterprise and server level.</li>
+</ul>
+<p><strong>Unit 3: Designing Security Policies for Instances and Databases</strong><br>
+  This Unit explains how to design SQL Server instance-level, database-level, and object-level security policies. This Unit 
+
+teaches the security monitoring standards for instances and databases.</p>
+<p>Units</p>
+<ul>
+  <li>Designing an Instance-Level Security Policy</li>
+  <li>Designing a Database-Level Security Policy</li>
+  <li>Designing an Object-Level Security Policy</li>
+  <li>Defining Security Monitoring Standards for Instances and Databases</li>
+</ul>
+<p>Lab 3A: Designing Security Policies for Instances and Databases</p>
+<ul>
+  <li>Designing an Instance-Level Security Policy</li>
+  <li>Designing a Database-Level Security Policy</li>
+  <li>Designing an Object-Level Security Policy</li>
+  <li>Discussing Database Security Exceptions</li>
+</ul>
+<p>Lab 3B: Validating Security Policies for Instances and Databases</p>
+<ul>
+  <li>Auditing Existing Server Logins</li>
+  <li>Auditing SQL Server Roles Membership</li>
+  <li>Analyzing Existing Object Permissions</li>
+  <li>Monitoring Security at the Instance and Database Level</li>
+</ul>
+<p>After completing this Unit, students will be able to:</p>
+<ul>
+  <li>Design a SQL Server instance-level security policy.</li>
+  <li>Design a database-level security policy.</li>
+  <li>Design an object-level security policy.</li>
+  <li>Define security monitoring standards for instances and databases.</li>
+</ul>
+<p><strong>Unit 4: Integrating Data Encryption into a Database Security Design</strong><br>
+  This Unit provides the guidelines and considerations for security data using encryption and certificates. This Unit also 
+
+describes various data encryption policies. Finally, this Unit shows how to determine a key storage method.</p>
+<p>Units</p>
+<ul>
+  <li>Securing Data by Using Encryption and Certificates</li>
+  <li>Designing Data Encryption Policies</li>
+  <li>Determining a Key Storage Method</li>
+</ul>
+<p>Lab 4: Integrating Data Encryption into a Database Security Design</p>
+<ul>
+  <li>Selecting a Data Security Method</li>
+  <li>Designing a Data Encryption Security Policy</li>
+  <li>Selecting a Key Storage Method</li>
+</ul>
+<p>After completing this Unit, students will be able to:</p>
+<ul>
+  <li>Secure data by using encryption and certificates.</li>
+  <li>Design data encryption policies.</li>
+  <li>Determine a key storage method.</li>
+</ul>
+<p><strong>Unit 5: Designing a Security Exceptions Policy</strong><br>
+This Unit provides guidelines for gathering business and regulatory requirements and comparing them with existing policy. 
+
+This Unit also covers how to determine the exceptions and their impact on security.</p>
+<p>Units</p>
+<ul>
+  <li>Analyzing Business and Regulatory Requirements</li>
+  <li>Determining the Exceptions and their Impact</li>
+</ul>
+<p>Lab 5: Designing a Security Exceptions Policy</p>
+<ul>
+  <li>Identifying Variations from the Security Policy</li>
+  <li>Obtaining Approval of the Security Policy</li>
+  <li>Discussing the Results of Policy Approval Presentations</li>
+</ul>
+<p>After completing this Unit, students will be able to:</p>
+<ul>
+  <li>Analyze business and regulatory requirements.</li>
+  <li>Determine the exceptions and their impact on security.</li>
+</ul>
+<p><strong>Unit 6: Designing a Response Strategy for Threats and Attacks</strong><br>
+  This Unit provides guidelines to respond to virus and worm attacks, denial-of-service attacks, and injection attacks.</p>
+<p>Units</p>
+<ul>
+  <li>Designing a Response Policy for Virus and Worm Attacks</li>
+  <li>Designing a Response Policy for Denial-of-Service Attacks</li>
+  <li>Designing a Response Policy for Internal and SQL Injection Attacks</li>
+</ul>
+<p>Lab 6: Designing a Response Strategy for Threats and Attacks</p>
+<ul>
+  <li>Designing a Response Policy for Virus and Worm Attacks</li>
+  <li>Designing a Response Policy for Denial-of-Service Attacks</li>
+  <li>Designing a Response Policy for Internal Attacks</li>
+  <li>Validating a Security Policy</li>
+</ul>
+<p>After completing this Unit, students will be able to:</p>
+<ul>
+  <li>Design a response policy for virus and worm attacks.</li>
+  <li>Design a response policy to handle the denial-of-service attacks.</li>
+  <li>Design a response policy to prevent internal and SQL injection attacks. </li>
+</ul>

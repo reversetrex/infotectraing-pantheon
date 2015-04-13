@@ -1,0 +1,7 @@
+<p>This five-day instructor-led course provides students with the knowledge and skills to develop Graphical User Interface (GUI) applications on Windows using the Windows Presentation Foundation managed framework.</p>
+
+<p>Window Presentation Foundation (WPF) is the Microsoft next generation managed framework for designing and creating user interfaces and presentation layer. It is a part of the Windows Vista Operating System, and is also available for installation and development on Windows XP SP2, Windows Server 2003 and Windows Server 2008, as part of the .NET Framework 3.0/3.5 Runtime Components.</p>
+
+<p>WPF provides a consistent programming model for building applications for a full smart-client installation or loading into a web browser.WPF enables richer control, design, and development of the visual aspects of Windows programs by unifying a host of application services: user interface, 2D and 3D drawing, fixed and adaptive documents, vector graphics, raster graphics, animation, data binding, audio and video.</p>
+
+<p>The course is packed with code samples, demos, exercises and labs, to facilitate understanding WPF-based UI applications design concepts, development and best practices.</p>

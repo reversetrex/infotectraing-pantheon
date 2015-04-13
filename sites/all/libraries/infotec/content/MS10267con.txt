@@ -1,0 +1,132 @@
+<p><strong>Module 1: Exploring Microsoft ASP.NET Web Applications in Microsoft Visual Studio 2010</strong></p>
+<p>This module explains the key  features of Microsoft .NET Framework and Microsoft ASP.NET. It helps you view  the complete Web application that you build in the labs throughout this course.</p>
+<ul>
+  <li>Introduction to the .NET Framework</li>
+  <li>Overview  of ASP.NET</li>
+  <li>Overview of the Lab  Application</li>
+</ul>
+
+<p><strong>Module 2: Creating Web Applications by Using Microsoft Visual Studio 2010 and  Microsoft .NET–Based Languages</strong></p>
+<p>This module describes the different  programming languages that are available when you develop Microsoft .NET  Framework applications. It explains the fundamental aspects of writing code and  creating components by using two of the .NET Framework–based languages,  Microsoft Visual Basic and Microsoft Visual C#. It provides an overview of  Microsoft Visual Studio 2010. It also explains how to create a simple Web  application.</p>
+<ul>
+  <li>Choosing  a Programming Language</li>
+  <li>Overview  of Visual Studio 2010</li>
+  <li>Creating  a Simple Web Application</li>
+</ul>
+
+<p><strong>Module 3: Creating a Microsoft ASP.NET Web Form</strong></p>
+<p>This  module explains how to create Web Forms and populate them with server controls.</p>
+<ul>
+  <li>Creating  Web Forms</li>
+  <li>Adding  and Configuring Server Controls in a Web Form</li>
+</ul>
+
+<p><strong>Module 4: Adding Functionality to a Microsoft ASP.NET Web Form</strong></p>
+<p>This module describes the various  methods that you can use to add code to your Microsoft ASP.NET Web application.  It explains how to use Web server controls, event handlers, code-behind files,  and components. In addition, it explains how to use page events, especially the  Page_Load event.</p>
+<ul>
+  <li>Working  with Code-Behind Files</li>
+  <li>Handling  Server Control Events</li>
+  <li>Creating  Classes and Components by Using Visual Studio 2010</li>
+  <li>Handling  Page Events</li>
+</ul>
+
+<p><strong>Exercise  4: Handling Page and Control Events</strong></p>
+<p>After  completing this module, students will be able to:</p>
+<ul>
+  <li>Work  with code-behind files.</li>
+  <li>Handle  server control events.</li>
+  <li>Create  classes and components by using Microsoft Visual Studio 2010.</li>
+  <li>Handle page events.</li>
+</ul>
+
+<p><strong>Module 5: Implementing Master Pages and User Controls</strong></p>
+<p>This  module explains how to create and implement master pages and how to implement user controls in a Web application.</p>
+<ul>
+  <li>Creating  Master Pages</li>
+  <li>Adding User Controls  to an ASP.NET Web Form</li>
+</ul>
+
+<p><strong>Module 6: Validating User Input</strong></p>
+<p>This module provides an overview of  user input validation. It covers information on adding, positioning, and  configuring validation controls on a Web Form. In addition, it covers  information on validating Web Forms.</p>
+<ul>
+  <li>Overview  of User Input Validation</li>
+  <li>ASP.NET  Validation Controls</li>
+  <li>Validating  Web Forms</li>
+</ul>
+
+<p><strong>Module 7: Troubleshooting Microsoft ASP.NET Web Applications</strong></p>
+<p>This module describes the steps  required to enable tracing and debugging, including how you can use debugging  and tracing in a Web application.</p>
+<ul>
+  <li>Debugging  in ASP.NET</li>
+  <li>Tracing  in ASP.NET</li>
+</ul>
+
+<p><strong>Module 8: Managing Data in an Microsoft ASP.NET 4.0 Web Application</strong></p>
+<p>This module provides an overview of  Microsoft ADO.NET. It explains how to programmatically work with data by using  ADO.NET and how to create a connection to access the data stored in a Microsoft  SQL Server database. In addition, it explains how to use the DataSet and  DataReader objects to support the local data storage and data manipulation  requirements of Web Forms.</p>
+<ul>
+  <li>Overview  of ADO.NET</li>
+  <li>Connecting  to a Database</li>
+  <li>Managing  Data</li>
+</ul>
+
+<p><strong>Module 9: Managing Data Access Tasks by Using LINQ</strong></p>
+<p>This module explains what LINQ is  and how you can use LINQ to manage both XML data and Microsoft SQL Server data  in a Microsoft ASP.NET Web application by using Web Server controls and code.</p>
+<ul>
+  <li>Overview  of LINQ</li>
+  <li>Managing  XML Data by Using LINQ to XML</li>
+  <li>Managing  SQL Data by Using LINQ to SQL and LINQ to Entities</li>
+</ul>
+
+<p><strong>Module 10: Managing Data by Using Microsoft ASP.NET Dynamic Data</strong></p>
+<p>This  module provides an overview of Microsoft ASP.NET Dynamic Data. It also covers  information on applying ASP.NET Dynamic Data. In addition, it explains how to  customize ASP.NET Dynamic Data applications.</p>
+<ul>
+  <li>Overview  of ASP.NET Dynamic Data</li>
+  <li>Applying  ASP.NET Dynamic Data</li>
+  <li>Customizing ASP.NET  Dynamic Data Applications</li>
+</ul>
+
+<p><strong>Module 11: Creating a Microsoft ASP.NET Ajax-enabled Web Forms Application</strong></p>
+<p>This module provides an overview of  Microsoft ASP.NET AJAX and explains how to create an ASP.NET AJAX application.  It also introduces the ASP.NET AJAX Control Toolkit, and explains how to  install the toolkit and add controls from the toolkit to a Web application.</p>
+<ul>
+  <li>Introduction  to Ajax</li>
+  <li>Creating  an ASP.NET Ajax Application by Using the Ajax Features for ASP.NET</li>
+  <li>Extending  an ASP.NET Web Forms Application by Using the Ajax Control Toolkit</li>
+</ul>
+
+<p><strong>Module 12: Consuming Microsoft Windows Communication Foundation Services</strong></p>
+<p>This module provides an overview of  Windows Communication Foundation services. In addition, this module describes  how to call a Windows Communication Foundation (WCF) service directly by using  a browser and a proxy from a Web application.</p>
+<ul>
+  <li>Overview  of Windows Communication Foundation Services</li>
+  <li>Calling  Windows Communication Foundation Services</li>
+  <li>Working  with WCF Data Services</li>
+</ul>
+
+<p><strong>Module 13: Managing State in Web Applications</strong></p>
+<p>This module explains how to manage  state in a Microsoft ASP.NET Web application.</p>
+<ul>
+  <li>State  Management</li>
+  <li>ASP.NET  Profiles</li>
+  <li>ASP.NET  Caching</li>
+</ul>
+
+<p><strong>Module 14: Configuring and Deploying a Microsoft ASP.NET Web Application</strong></p>
+<p>This module explains how to configure and deploy a Microsoft ASP.NET Web application by using the  machine.config and web.config files.</p>
+<ul>
+  <li>Configuring  an ASP.NET Web Application</li>
+  <li>Deploying  an ASP.NET Web Application</li>
+</ul>
+
+<p><strong>Module 15: Securing a Microsoft ASP.NET Web Application</strong></p>
+<p>This module explains the various Web  application security functionalities. It also covers information on the  infrastructure to build and deploy various Web application security  functionalities.</p>
+<ul>
+  <li>Overview  of Web Application Security</li>
+  <li>Declaratively  Configuring Authentication and Authorization</li>
+  <li>Working  Programmatically with Authentication and Authorization</li>
+</ul>
+
+<p><strong>Module 16: Implementing Advanced Technologies Supported by Microsoft Visual Studio  2010 for Web Development</strong></p>
+<p>This module describes  the new Visual Studio 2010 and .NET Framework 4 functionalities, changes, and  enhancements for improved Web development. The module also covers how Microsoft  ASP.NET MVC 2 and Microsoft Silverlight 4 fit in with .NET Framework 4 and  Visual Studio 2010.</p>
+<ul>
+  <li>Working  with the ASP.NET MVC 2 Framework</li>
+  <li>Working with  Silverlight 4</li>
+</ul>

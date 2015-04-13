@@ -1,0 +1,100 @@
+  <h2>Session 1</h2>
+    <h3>Section A: Interacting with the Computer</h3>
+    <ul>
+      <li>Computers Are Everywhere</li>
+      <li>Putting it Together</li>
+      <li>Mouse Types</li>
+      <li>Mouse Functions</li>
+      <li>Keyboard Overview</li>
+      <li>Turning on the system</li>
+      <li>Turning Off the System</li>
+    </ul>
+    <h3>Section B: First Blush Tour</h3>
+    <ul>
+      <li>Desktop Introduction</li>
+      <li>Desktop Icons</li>
+      <li>Start Menu</li>
+      <li>Navigating the OS</li>
+      <li>Hard Drive Tour</li>
+      <li>Mouse Settings</li>
+      <li>Control Panel Overview</li>
+      <li>Wireless Mouse</li>
+      <li>User Etiquette</li>
+    </ul>
+    <h3>Section C: The User Interface</h3>
+    <ul>
+      <li>GUI</li>
+      <li>Basic Programs</li>
+      <li>Windows Defender</li>
+      <li>Windows Mail</li>
+      <li>Windows Media Player</li>
+      <li>Other Windows Media Programs</li>
+      <li>Windows Meeting Space</li>
+      <li>WordPad</li>
+    </ul>
+    <h3>Section D: Organizing Your System</h3>
+    <ul>
+      <li>System Functionality</li>
+      <li>Shortcuts</li>
+      <li>Understanding Structure</li>
+      <li>Creating Folders</li>
+      <li>Managing Folders and Documents</li>
+    </ul>
+    <h3>Section E: Software Applications</h3>
+    <ul>
+      <li>Installing and Removing Applications</li>
+      <li>Software Updates</li>
+      <li>Preinstalled Software</li>
+      <li>Typical Applications</li>
+      <li>Online Applications</li>
+      <li>Shared Applications</li>
+    </ul>
+  <h2>Session 2</h2>
+    <h3>Section A: Internet Settings</h3>
+    <ul>
+      <li>Accessing the Internet</li>
+      <li>General Settings</li>
+      <li>Security Settings</li>
+      <li>Privacy Settings</li>
+      <li>Blockers and Parental Controls</li>
+      <li>Internet Content Rating Information</li>
+      <li>Certificates, AutoComplete, and Feeds</li>
+      <li>Connections and Programs</li>
+    </ul>
+    <h3>Section B: Using the Internet</h3>
+    <ul>
+      <li>Understanding the Browser</li>
+      <li>Browser Menus</li>
+      <li>Surfing Rules</li>
+      <li>Chat</li>
+      <li>Internet Communications</li>
+      <li>Understanding E-mail</li>
+      <li>Creating and Sending E-mail</li>
+    </ul>
+    <h3>Section C: Networking</h3>
+    <ul>
+      <li>Networks Defined</li>
+      <li>Network Types</li>
+      <li>Connections and Sharing</li>
+      <li>File and Folder Sharing</li>
+      <li>Printer Sharing</li>
+      <li>Password Protection and Media Sharing</li>
+      <li>Windows Firewall</li>
+      <li>Windows Security Center</li>
+      <li>Malware Protection</li>
+      <li>Working with Printers</li>
+    </ul>
+    <h3>Section D: Collaboration</h3>
+    <ul>
+      <li>Newsgroups</li>
+      <li>Google Docs</li>
+      <li>Track and Change</li>
+    </ul>
+    <h3>Section E: Troubleshooting</h3>
+    <ul>
+      <li>Beginning Troubleshoot</li>
+      <li>Diagnostic Tool</li>
+      <li>Device Manager</li>
+      <li>Help and Support</li>
+      <li>Ergonomics</li>
+    </ul>

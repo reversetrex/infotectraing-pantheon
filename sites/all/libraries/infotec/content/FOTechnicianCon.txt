@@ -1,0 +1,109 @@
+<p><strong> UNIT 1: </strong>(Chapters 1-9) </p>
+<ul>
+  <li> Course Objectives </li>
+  <li>History of Fiber Optics </li>
+  <li>Principles of Fiber Optic Transmission </li>
+  <li>Basic Principles of Light </li>
+  <li>Optical Fiber Construction and Theory </li>
+  <li>Optical Fiber Characteristics </li>
+  <li>Safety </li>
+  <li>Fiber Optic Cables Types and Applications </li>
+  <li>Mechanical &amp; Fusion Splicing </li>
+  <li>Connector Application and Theory </li>
+</ul>
+<p><strong> UNIT 2: </strong>(Chapters 10-15) </p>
+<ul>
+  <li> Fiber Optic Light Sources </li>
+  <li>Fiber Optic Detectors and Receivers </li>
+  <li>Passive Components and Multiplexers </li>
+  <li>Cable Installation and Hardware </li>
+  <li>Fiber Optic System Design Considerations </li>
+  <li>Test Equipment and Link/Cable Testing </li>
+  <li>Link/Cable Troubleshooting </li>
+  <li><em> Lab One: </em>
+    <ul>
+      <li><em>Fiber Optic Cabling Testing Procedure </em></li>
+      <li><em>FOS/FOM Preparation and Calibration </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Two: </em>
+    <ul>
+      <li><em>Visible Light Continuity Testing </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Three: </em>
+    <ul>
+      <li><em>Measuring Optical Source Output Power </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Four: </em>
+    <ul>
+      <li><em>Visual Fault Locator </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Five: </em>
+    <ul>
+      <li><em>Optical Fiber Identifier </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Six: </em>
+    <ul>
+      <li><em>Infrared Detection Card </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Seven: </em>
+    <ul>
+      <li><em>Optical Talk Set </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Eight: </em>
+    <ul>
+      <li><em>Patch Cable Testing </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Nine: </em>
+    <ul>
+      <li><em>End-to-End Attenuation Testing &ndash; Channel or Link</em></li>
+    </ul>
+  </li>
+</ul>
+<p><strong> UNIT 3: </strong>(Chapters 15-16) </p>
+<ul>
+  <li> Test Equipment and Link/Cable Testing </li>
+  <li>Link/Cable Troubleshooting with OTDR </li>
+  <li><em>Lab Ten: </em>
+    <ul>
+      <li><em>Optical Time Domain Reflectometer Testing </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Eleven: </em>
+    <ul>
+      <li><em>Acceptance Testing </em></li>
+    </ul>
+  </li>
+  <li><em>Lab Twelve: </em>
+    <ul>
+      <li><em>Proper Documentation and Maintenance Records</em></li>
+    </ul>
+  </li>
+</ul>
+<p><strong> UNIT 4: </strong></p>
+<ul>
+  <li><em> Lab Thirteen: </em>
+    <ul>
+      <li><em>Optical Fiber Link Troubleshooting </em></li>
+    </ul>
+  </li>
+  <li>Skills Testing:
+    <ul>
+      <li>Bi-directional Link Testing </li>
+      <li>Measure loss of connectors/splices </li>
+      <li>Measure Patch Cable (FOS/FOM) </li>
+      <li>Acceptance Testing (OTDR) </li>
+      <li>Loss per unit length</li>
+      <li>Cable length </li>
+      <li>Locate Fault in Optical Fiber Link </li>
+    </ul>
+  </li>
+  <li>ETA Certification Exam </li>
+</ul>

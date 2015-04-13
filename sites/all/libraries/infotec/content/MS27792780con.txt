@@ -1,0 +1,39 @@
+<p><strong>MS 2779</strong></p>
+<p><strong> Unit 1: Creating Databases and Database Files <br>
+</strong>This Unit explains how to create databases, filegroups, schemas, and database snapshots. </p>
+<p><strong> Unit 2: Creating Data Types and Tables<br>
+</strong>This Unit explains how to create data types and tables. It also describes how to create partitioned tables</p>
+<p><strong> Unit 3: Using XML<br>
+</strong>This Unit explains how to use the FOR XML clause and the OPENXML function. It also describes how to use the xml data type and its methods.</p>
+<p><strong> Unit 4: Creating and Tuning Indexes<br>
+</strong>This Unit explains how to plan, create, and optimize indexes. It also describes how to create XML indexes.</p>
+<p><strong> Unit 5: Implementing Data Integrity<br>
+</strong>This Unit explains how to implement constraints, triggers, and XML schemas.</p>
+<p><strong> Unit 6: Implementing Views<br>
+</strong>This Unit explains how to create views.</p>
+<p><strong> Unit 7: Implementing Stored Procedures and Functions<br>
+</strong>This Unit explains how to create stored procedures and functions.</p>
+<p><strong> Unit 8: Implementing Managed Code in the Database<br>
+</strong>This Unit explains how to implement managed database objects.</p>
+<p><strong> Unit 9: Using Service Broker<br>
+</strong>This Unit explains how to build a messaging-based solution with Service Broker.</p>
+<p><strong>MS 2780</strong></p>
+<p><strong> Unit 1: Installing and Configuring SQL Server 2005<br>
+</strong>This Unit explains how to plan for and install SQL Server 2005, how to manage a SQL Server 2005 installation, and how to use the SQL Server 2005 administrative tools.</p>
+<p><strong> Unit 2: Managing Databases and Files<br>
+</strong>This Unit explains how to manage databases and files.</p>
+<p><strong> Unit 3: Disaster Recovery<br>
+</strong>This Unit explains how to plan and implement a backup and restore strategy.</p>
+<p><strong> Unit 4: Managing Security<br>
+</strong>This Unit explains how to manage principals, securables, and permissions, and how to implement cryptography in a SQL Server database.</p>
+<p><strong> Unit 5: Monitoring SQL Server<br>
+</strong>This Unit explains how to monitor SQL Server performance and activity.</p>
+<p><strong> Unit 6: Transferring Data<br>
+</strong>This Unit explains how to transfer and transform data.</p>
+<p><strong> Unit 7: Automating Administrative Tasks<br>
+</strong>This Unit explains how to use the SQL Server Agent to automate administrative tasks.</p>
+<p><strong> Unit 8: Maintaining High Availability<br>
+</strong>This Unit explains how to implement high availability technologies with SQL Server 2005.</p>
+<p><strong> Unit 9: Introduction to Replication<br>
+</strong>This Unit explains considerations for implementing replication.</p>
+<p>&nbsp; </p>

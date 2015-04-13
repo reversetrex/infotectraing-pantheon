@@ -1,0 +1,1 @@
+This three-day instructor-led course teaches experienced developers the skills required to successfully develop managed (Microsoft .NET Compact Framework 2.0) applications on the Windows Mobile 6.0 platform. This course focuses on the Microsoft Visual Studio 2005 development environment, .NET Compact Framework 2.0, and the Microsoft Windows Mobile 6 SDK.

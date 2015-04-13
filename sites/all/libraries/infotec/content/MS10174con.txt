@@ -1,0 +1,326 @@
+<p><strong>Module 1: Introducing  SharePoint 2010</strong> - The goal of this module is to enable students to prepare for  and install the first server in a SharePoint 2010 farm.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+  	<li>Evaluate the Features of SharePoint 2010</li>
+    <li>Prepare for SharePoint 2010</li>
+    <li>Install SharePoint 2010</li>
+    <li>Advanced Installation of SharePoint 2010</li>
+  </ul>
+  <p><strong>Lab : Install SharePoint 2010</strong></p>
+  <ul>
+    <li>Exercise 1:  Create Active Directory Accounts for  SharePoint</li>
+    <li>Exercise 2:  Install SharePoint Server Prerequisites</li>
+    <li>Exercise 3:  Install SharePoint Server</li>
+    <li>Exercise 4:  Run the SharePoint Products Configuration  Wizard</li>
+    <li>Exercise 5:Configure  the Farm with the Farm Configuration Wizard</li>
+    <li>Exercise 6  (Optional): Install a Language Pack</li>
+  </ul>
+</blockquote>
+<p><strong>Module 2: Creating a  SharePoint 2010 Intranet</strong> - The goal of this module is to enable students to configure and administer the fundamental components of a SharePoint farm, including its  configuration, logical structure, user-facing features, and underlying engine.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Perform Initial Farm Configuration</li>
+    <li>Configure the SharePoint Logical Structure</li>
+    <li>Explore the SharePoint Web Application and Physical Architecture</li>
+  </ul>
+  <p><strong>Lab : Create a SharePoint 2010 Intranet</strong></p>
+  <ul>
+  	<li>Exercise 1:  Create a  Web Application</li>
+    <li>Exercise 2:  Create a  Site Collection</li>
+    <li>Exercise 3:  Create a  Site Collection in a New Content Database
+      <ul>
+        <li>Describe the high level structure, components, and  functioning of the farm</li>
+        <li>Perform configuration of a SharePoint farm using the Farm  Configuration Wizard</li>
+        <li>Understand the logical topology of SharePoint web apps, site  collections, and sites</li>
+        <li>Experience SharePoint user-facing functionality</li>
+        <li>Create a Web application</li>
+        <li>Create a site collection</li>
+        <li>Configure managed paths</li>
+        <li>Create  a content  database</li>
+      </ul>
+    </li>
+  </ul>
+</blockquote>
+<p><strong>Module 3:  Administering and Automating SharePoint</strong> - The goal of this module is to enable students to apply the  full range of options for administering and automating SharePoint: Central  Administration, STSADM, and Windows PowerShell. The module also introduces  students to the logs, which are mentioned in several subsequent modules and are  detailed in Module 14.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Configure Central Administration</li>
+    <li>Administer SharePoint from the Command Line</li>
+    <li>Automate SharePoint Operations with Windows PowerShell</li>
+  </ul>
+  <p><strong>Lab : Automate SharePoint with Windows PowerShell</strong></p>
+  <ul>
+    <li>Exercise 1:  Add  SharePoint Functionality to Windows PowerShell</li>
+    <li>Exercise 2:  Delegate  the Ability to Use Windows PowerShell to Manage SharePoint</li>
+    <li>Exercise 3:  Report  Web and Site Collection Properties</li>
+    <li>Exercise 4:  Create  Site Collections Using Windows PowerShell</li>
+    <li>Exercise 5:  Create  and Update Items</li>
+  </ul>
+  <p><strong>Lab : Administer SharePoint with Stsadm</strong></p>
+  <ul>
+    <li>Exercise 1: Execute Stsadm Commands</li>
+  </ul>
+</blockquote>
+<p><strong>Module 4: Configuring  Content Management</strong> - The goal of this module is to enable students to manage  content (lists, libraries, items and documents).</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Optimize Content Storage and Access</li>
+    <li>Manage Site Content Types and Site Columns</li>
+    <li>Configure the Managed Metadata Service</li>
+  </ul>
+  <p><strong>Lab : Configuring List Throttling and Remote BLOB Storage</strong></p>
+  <ul>
+    <li>Exercise 1:  Configure List Throttling</li>
+    <li>Exercise 2:  Enable  FILESTREAM and Provision the RBS Data Store</li>
+    <li>Exercise 3:  Install  RBS on All SharePoint Web and Application Servers</li>
+    <li>Exercise 4:  Configure  the Blob Size Threshold for RBS</li>
+  </ul>
+  <p><strong>Lab : Configure Managed Metadata</strong></p>
+  <ul>
+    <li>Exercise 1:  Configure  and Implement Managed Metadata</li>
+  </ul>
+</blockquote>
+<p><strong>Module 5: Configuring  Authentication</strong> - The goal of this module is to enable students to administer  authentication to SharePoint web applications.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Classic SharePoint Authentication Providers</li>
+    <li>Federated Authentication</li>
+  </ul>
+  <p><strong>Lab : Configuring Custom Authentication</strong></p>
+  <ul>
+    <li>Exercise 1:  Create  the ASP.NET Membership Database</li>
+    <li>Exercise 2:  Create a  Web Applications that Uses Claim Based Authentication</li>
+  </ul>
+  <p><strong>Lab : Configuring Secure Store</strong></p>
+  <ul>
+    <li>Exercise 1: Create User Accounts for Access to External Data</li>
+    <li>Exercise 2: Configure Secure Store Services</li>
+    <li>Exercise 3: Configure Secure Store Unattended Accounts</li>
+  </ul>
+</blockquote>
+<p><strong>Module 6: Securing  Content</strong> - The goal of this module is to enable students to manage  security of SharePoint content within a Web application.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Administer SharePoint Users and Groups</li>
+    <li>Implement SharePoint Roles and Role Assignments</li>
+    <li>Secure and Audit SharePoint Content</li>
+  </ul>
+  <p><strong>Lab : Configuring Security for SharePoint Content</strong></p>
+  <ul>
+    <li>Exercise 1:  Managing  SharePoint Groups</li>
+    <li>Exercise 2:  Creating  Custom Permission Levels</li>
+    <li>Exercise 3:  Managing  List and ListItem Permission Inheritance</li>
+    <li>Exercise 4:  Create a  Web Application Policy</li>
+  </ul>
+</blockquote>
+<p><strong>Module 7: Managing  SharePoint Customizations</strong> - The goal of this module is to enable students to manage  customizations to the SharePoint environment.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Customize SharePoint</li>
+    <li>Deploy and Manage Features and Solutions</li>
+    <li>Configure Sandboxed Solutions</li>
+  </ul>
+  <p><strong>Lab : Administering Features and Solutions</strong></p>
+  <ul>
+    <li>Exercise 1: Administering Features</li>
+    <li>Exercise 2:   Administering Solutions</li>
+  </ul>
+  <p><strong>Lab : Administering Sandboxed Solutions</strong></p>
+  <ul>
+    <li>Exercise 1: Administering SandBoxed Solutions</li>
+    <li>Exercise 2:  Modifying  SandBoxed Solutions Timer Jobs</li>
+    <li>Exercise 3:   Configuring Sandbox Points</li>
+  </ul>
+  <p><strong>Lab : Administering the Developer Dashboard</strong></p>
+  <ul>
+    <li>Configure the Developer Dashboard</li>
+  </ul>
+</blockquote>  
+<p><strong>Module 8: Configuring  and Securing SharePoint Services and Applications</strong> - The goal of this module is to enable students to manage the  SharePoint service as a whole, as well as individual services and service  applications.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Secure the Enterprise SharePoint Service</li>
+    <li>Secure and Isolate Web Applications</li>
+    <li>Configure Service Applications</li>
+  </ul>
+  <p><strong>Lab : Administer SharePoint Services</strong></p>
+  <ul>
+    <li>Exercise 1: Administer SharePoint Services</li>
+    <li>Exercise 2: Administer SharePoint Windows Services</li>
+  </ul>
+  <p><strong>Lab : Configure Application Security</strong></p>
+  <ul>
+    <li>Exercise 1: Configure Web Application and Application Pool  Security</li>
+    <li>Exercise 2: Configure SSL Security (Optional)</li>
+  </ul>
+  <p><strong>Lab : Administer Service Applications</strong></p>
+  <ul>
+    <li>Exercise 1: Explore Service Applications</li>
+    <li>Exercise 2: Create a Service Application</li>
+  </ul>
+</blockquote>
+<p><strong>Module 9: Implementing Productivity Service Applications</strong> - The goal of this module is to enable students to configure  specific service applications.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Implement Business Connectivity Services</li>
+    <li>Implement Excel Services Application</li>
+    <li>Implement PerformancePoint Services</li>
+    <li>Implement InfoPath Services</li>
+    <li>Implement Visio Services</li>
+    <li>Implement Access Services</li>
+    <li>Implement Office Web Apps</li>
+  </ul>
+  <p><strong>Lab : Implement Office Web Apps</strong></p>
+  <ul>
+    <li>Exercise 1:  Install  and Configure Office Web Apps</li>
+    <li>Exercise 2:  Configure  and Test the Office Web Apps  in a  Document Library</li>
+  </ul>
+</blockquote>
+<p><strong>Module 10: User  Profiles and Social Networking</strong> - The goal of this module is to enable students to manage user  profiles, My Sites, and social content.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Configure User Profiles</li>
+    <li>Implement SharePoint 2010 Social Networking Features</li>
+  </ul>
+  <p><strong>Lab : Lab 10 A: Configuring User Profiles</strong></p>
+  <ul>
+    <li>Exercise 1: Creating a Service Application</li>
+    <li>Exercise 2: Configuring User Profiles</li>
+    <li>Exercise 3: Connecting BDC to SharePoint Profiles</li>
+    <li>Exercise 4: Administering ForeFront Identity Manager</li>
+  </ul>
+  <p><strong>Lab : Configuring My Sites</strong></p>
+  <ul>
+    <li>Exercise 1: Configuring My Sites</li>
+    <li>Exercise 2:  Creating  a My Site</li>
+    <li>Exercise 2:  Updating  a User Profile</li>
+    <li>Exercise 3:  Administering Colleagues</li>
+    <li>Exercise 4:   Configuring Personal and Shared Documents</li>
+    <li>Exercise 5:  Creating  A My Site Personal Blog</li>
+    <li>Exercise 6:   Administering My Tags and Notes</li>
+  </ul>
+</blockquote>
+<p><strong>Module 11: Administering and Configuring SharePoint Search</strong> - The goal of this module is to enable students to configure SharePoint Search.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Configure Search</li>
+    <li>Refine Search</li>
+  </ul>
+  <p><strong>Lab : Configure Search</strong></p>
+  <ul>
+    <li>Exercise 1: Create and Configure A Content Source</li>
+    <li>Exercise 2: Configure Search Settings</li>
+    <li>Exercise 3: Add and Configure A Search Scope</li>
+  </ul>
+  <p><strong>Lab : Refine Search</strong></p>
+  <ul>
+    <li>Exercise 1: Configure Relevance</li>
+    <li>Exercise 2: Create Keywords and Best Bets</li>
+    <li>Exercise 3: Configure a Thesaurus</li>
+    <li>Exercise 4: Configure Noise Words</li>
+  </ul>
+</blockquote>
+<p><strong>Module 12: Installing  and Upgrading to SharePoint 2010</strong> - The goal of this module is to enable students to install and  upgrade to SharePoint 2010 in a variety of scenarios, and to keep SharePoint  2010 up-to-date.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Install SharePoint Servers and Farms</li>
+    <li>Upgrade to SharePoint 2010</li>
+    <li>Monitor and Troubleshoot installation and upgrade</li>
+    <li>Update SharePoint</li>
+  </ul>
+  <p><strong>Lab : Implementing Advanced SharePoint 2010 Installations</strong></p>
+  <ul>
+    <li>Exercise 1:  Create a  Multi-Server Farm</li>
+    <li>Exercise 2:  Configure  SharePoint Server Roles</li>
+    <li>Exercise 3:  Install  Language Packs</li>
+  </ul>
+  <p><strong>Lab : Scripting a SharePoint 2010 Install</strong></p>
+  <ul>
+    <li>Exercise 1:  Creating  a SharePoint 2010 Install Script</li>
+    <li>Exercise 2:   Configuring SharePoint 2010 via Scripts</li>
+    <li>Exercise 3:  Creating  a SharePoint 2010 Service Applications Script</li>
+  </ul>
+  <p><strong>Lab : Implementing SharePoint 2007 Upgrade Requirements</strong></p>
+  <ul>
+    <li>Exercise 1:   Defragmenting Content Databases</li>
+    <li>Exercise 2:  Migrating  Content Between Databases</li>
+    <li>Exercise 3:  Truncating  and Backing Up Content Databases</li>
+    <li>Exercise 4:   Installing Cumulative Update (Oct 2009)</li>
+    <li>Exercise 5:  Analyzing  the Upgrade</li>
+  </ul>
+  <p><strong>Lab : Upgrading SharePoint 2007 to SharePoint 2010</strong></p>
+  <ul>
+    <li>Exercise 1:  Upgrading  the SharePoint Binaries</li>
+    <li>Exercise 2:  Implement  a Database Attach Upgrade</li>
+    <li>Exercise 3:   Implementing a Visual Upgrade</li>
+  </ul>
+</blockquote>
+<p><strong>Module 13:  Implementing Business Continuity</strong> - The goal of this module is to enable students to configure  business continuity for SharePoint.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Lesson 1: Configure High availability</li>
+    <li>Lesson 2: Backup and Restore SharePoint</li>
+  </ul>
+  <p><strong>Lab : Implement a Backup Strategy</strong></p>
+  <ul>
+    <li>Exercise 1: Implement a Central Administration Backup  Strategy</li>
+    <li>Exercise 2: Implement a Windows PowerShell Backup Strategy</li>
+  </ul>
+  <p><strong>Lab : Implement a Restore Strategy</strong></p>
+  <ul>
+    <li>Exercise 1: Implement a Central Administration Restore  Strategy</li>
+    <li>Exercise 2: Perform a Partial Restore</li>
+  </ul>
+</blockquote>
+<p><strong>Module 14: Monitoring  and Optimizing SharePoint Performance</strong> - The goal of this module is to enable students to monitor  SharePoint performance, health, and usage, and to identify and remediate  performance and health problems.</p>
+<blockquote>
+  <p><strong>Lessons</strong></p>
+  <ul>
+    <li>Monitor Performance</li>
+    <li>SharePoint Health Analyzer</li>
+    <li>Usage reports and web analytics</li>
+    <li>Monitor and Optimize SharePoint Performance</li>
+  </ul>
+  <p><strong>Lab : Configure Diagnostic Logging</strong></p>
+  <ul>
+    <li>Exercise 1: Configure Diagnostic Logging</li>
+  </ul>
+  <p><strong>Lab : Administer Logs with the ULS Viewer</strong></p>
+  <ul>
+    <li>Troubleshoot Correlation Errors</li>
+  </ul>
+  <p><strong>Lab : Configure Health Analyzer Rules</strong></p>
+  <ul>
+    <li>Configure Health Analyzer Rules</li>
+  </ul>
+  <p><strong>Lab : Build Reports Using the SharePoint Logging Database</strong></p>
+  <ul>
+    <li>Exercise 1: Configure the Logging Database</li>
+    <li>Exercise 2: Write Reports with the Logging Database</li>
+  </ul>
+</blockquote>
+  <p><strong>After completing this module, students will be able to:</strong></p>
+  <ul>
+    <li>Configuring diagnostic logging</li>
+    <li>Understand logging levels</li>
+    <li>Enable event throttling</li>
+    <li>Set log file size limits</li>
+    <li>Understand ULS Log file structure</li>
+    <li>Understand when to use the ULS Viewer</li>
+    <li>Explore SharePoint Health Analyzer</li>
+    <li>Understand Health Analyzer rules</li>
+    <li>Identify and monitor system performance bottlenecks</li>
+  </ul>

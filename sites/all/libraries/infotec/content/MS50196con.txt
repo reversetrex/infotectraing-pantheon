@@ -1,0 +1,17 @@
+<p><strong>Module 1: The Role of the Site Owner</strong> - This module  provides an overview of the role of the site owner.</p>
+
+<p><strong>Module 2: SharePoint Review</strong> - This module provides a brief guided  tour of SharePoint from the point of view of the end-user as a review of SharePoint 2007 features and to discover a few features the student may have  not have used yet.</p>
+
+<p><strong>Module 3: Using and Customizing Lists</strong> - This module covers list and library customizations including title and  description, user access permissions, custom columns and custom views.</p>
+
+<p><strong>Module 4: Creating Forms Libraries</strong> - This module  provides an introduction to InfoPath forms creation and publishing to SharePoint.</p>
+
+<p><strong>Module 5: Creating Basic Web Pages </strong> - This  module covers the creation and maintenance of Basic Web Pages and Web Part pages.</p>
+
+<p><strong>Module 6: Sites and Workspaces </strong> - This  module covers SharePoint site customization.</p>
+
+<p><strong>Module 7: Users and Groups </strong> - This module covers SharePoint security and user permissions.</p>
+
+<p><strong>Module 8: Site Activity </strong> - This module covers the activity reporting tools available to site owners.</p>
+
+<p><strong>Module 9: Using SharePoint Designer (Optional Module)</strong> - This module provides a demonstration of SharePoint Designer.</p>

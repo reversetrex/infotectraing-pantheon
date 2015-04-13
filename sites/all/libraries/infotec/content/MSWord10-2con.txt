@@ -1,0 +1,83 @@
+<p><strong>Lesson 1: Managing Lists</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Sort a List<br />
+    <strong>Topic 1B: </strong>Renumber a List<br />
+    <strong>Topic 1C: </strong>Customize a List<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Customizing Tables and Charts</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Sort Table Data<br />
+    <strong>Topic 2B: </strong>Control Cell Layout<br />
+    <strong>Topic 2C: </strong>Perform Calculations in a Table<br />
+    <strong>Topic 2D: </strong>Create Charts<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Creating Customized Formats with Styles and Themes</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Create or Modify a Text Style<br />
+    <strong>Topic 3B: </strong>Create a Custom List or Table Style<br />
+    <strong>Topic 3C: </strong>Apply Default and Customized Document Themes<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Modifying Pictures</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Resize a Picture<br />
+    <strong>Topic 4B: </strong>Adjust the Picture Appearance Settings<br />
+    <strong>Topic 4C: </strong>Wrap Text Around a Picture<br />
+    <strong>Topic 4D: </strong>Insert and Format Screenshots in a Document<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Creating Customized Graphic Elements</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Create Text Boxes and Pull Quotes<br />
+    <strong>Topic 5B: </strong>Draw Shapes<br />
+    <strong>Topic 5C: </strong>Add WordArt and Other Special Effects to Text<br />
+    <strong>Topic 5D: </strong>Create Complex Illustrations with SmartArt<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Inserting Content Using Quick Parts</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 6A: </strong>Insert Building Blocks<br />
+    <strong>Topic 6B: </strong>Create Building Blocks<br />
+    <strong>Topic 6C: </strong>Modify Building Blocks<br />
+    <strong>Topic 6D: </strong>Insert Fields Using Quick Parts<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 7: Controlling Text Flow</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 7A: </strong>Control Paragraph Flow<br />
+    <strong>Topic 7B: </strong>Insert Section Breaks<br />
+    <strong>Topic 7C: </strong>Insert Columns<br />
+    <strong>Topic 7D: </strong>Link Text Boxes to Control Text Flow<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 8: Using Templates to Automate Document Creation</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 8A: </strong>Create a Document Based on a Template<br />
+    <strong>Topic 8B: </strong>Create a Template<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 9: Automating the Mail Merge</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 9A: </strong>Use the Mail Merge Feature<br />
+    <strong>Topic 9B: </strong>Merge Envelopes and Labels<br />
+    <strong>Topic 9C: </strong>Create a Data Source Using Word<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 10: Using Macros to Automate Tasks</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 10A: </strong>Automate Tasks Using Macros<br />
+    <strong>Topic 10B: </strong>Create a Macro<br />
+  </p>
+</blockquote>

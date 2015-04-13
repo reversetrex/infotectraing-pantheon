@@ -1,0 +1,10 @@
+<p> Upon successful completion of this course, students will be able to: </p>
+<ul>
+  <li> create a logo using simple shapes. </li>
+  <li>enhance logos. </li>
+  <li>create logos using custom paths. </li>
+  <li>create a logo with type special effects. </li>
+  <li>create an advertisement. </li>
+  <li>import body type. </li>
+  <li>manage your creative assets using Adobe Bridge. </li>
+</ul>

@@ -1,0 +1,9 @@
+Upon successful completion of this course, students will be able to:
+<ul>
+  <li>create the layout of a website. </li>
+  <li>create and manage layers. </li>
+  <li>design forms to submit and retrieve data from a database. </li>
+  <li>use frames to link and display several pages of web content within a single   browser window. </li>
+  <li>work with XML to create and display data from an XML database. </li>
+  <li>use Expression Web to collaborate on website development and design in a workgroup environment.</li>
+</ul>

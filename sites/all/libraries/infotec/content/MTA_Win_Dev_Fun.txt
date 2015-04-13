@@ -1,0 +1,58 @@
+<h2>Session 1</h2>
+  <h3>Section A: Windows Programming Basics</h3>
+  <ul>
+    <li>Understanding Windows Programming Basics</li>
+    <li>Windows Application Types</li>
+    <li>Windows Forms/WPF/Services Defined</li>
+    <li>Win32 Applications</li>
+    <li>User Interface Design Considerations</li>
+    <li>Common GUI Components</li>
+    <li>Good UI Design Considerations</li>
+    <li>Menus and Toolbars</li>
+    <li>Help Considerations</li>
+    <li>Ease of Navigation</li>
+    <li>Understanding App Development using VS</li>
+    <li>VS: Solution Explorer</li>
+    <li>Create a Windows Form App using VS</li>
+  </ul>
+  <h3>Section B: Working with Windows Forms Applications</h3>
+  <ul>
+    <li>Event Handling</li>
+    <li>Creating Event Handlers</li>
+    <li>Handling Events</li>
+    <li>Windows Forms Inheritance</li>
+    <li>Creating New Controls</li>
+    <li>User, Keyboard, and Mouse Input</li>
+    <li>Input Validation</li>
+    <li>Debugging Windows Forms Apps</li>
+    <li>VS Debugger</li>
+    <li>Example of Debugging</li>
+    <li>Debugging Windows Services</li>
+  </ul>
+  <h3>Section C: Windows Service Applications</h3>
+  <ul>
+    <li>Understanding Windows Service Apps</li>
+    <li>Service Name Considerations</li>
+    <li>Installing Windows Service Apps</li>
+    <li>Creating a Setup Project</li>
+  </ul>
+  <h3>Section D: Data Access Considerations</h3>
+  <ul>
+    <li>Accessing Data in Windows Forms Apps</li>
+    <li>Data Access Flow Control/Methods</li>
+    <li>Data Binding</li>
+    <li>Toolbox for Databound Controls</li>
+    <li>Displaying Bound Data</li>
+    <li>Binding Form Controls to a DB</li>
+    <li>Binding Form Controls using Data</li>
+    <li>Displaying Connected DataSources</li>
+    <li>Validating Databound Items</li>
+  </ul>
+  <h3>Section E: Deploying Windows Applications</h3>
+  <ul>
+    <li>Deployment Defined</li>
+    <li>Deployment Methods</li>
+    <li>ClickOnce Deployment/Update Strategies</li>
+    <li>Windows App Setup/Deployment</li>
+    <li>Deploying Windows Applications</li>
+  </ul>

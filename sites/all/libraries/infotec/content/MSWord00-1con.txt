@@ -1,0 +1,49 @@
+<p><strong> Unit 1: Word Basics </strong></p>
+<ul>
+  <li> Introduction to Word </li>
+  <li>Creating a new blank document and the basics of entering text </li>
+  <li>The File, Save As command </li>
+  <li>Opening and editing a document </li>
+  <li>Getting help in Word </li>
+</ul>
+<p><strong> Unit 2: Navigating in a Document </strong></p>
+<ul>
+  <li> Scrolling in a document </li>
+  <li>Searching in a document </li>
+</ul>
+<p><strong> Unit 3: Additional Editing Techniques </strong></p>
+<ul>
+  <li> Using the AutoCorrect feature </li>
+  <li>Techniques for selecting text </li>
+  <li>Moving and copying text </li>
+</ul>
+<p><strong> Unit 4: Character and Paragraph Formatting </strong></p>
+<ul>
+  <li> Basic character formatting techniques </li>
+  <li>Additional character formatting techniques </li>
+  <li>Paragraph formatting </li>
+  <li>Working with indents, numbered lists, and bulleted lists </li>
+  <li>Line breaks and line spacing </li>
+</ul>
+<p><strong> Unit 5: Introduction to Tabs and Tables </strong></p>
+<ul>
+  <li> Tabs </li>
+  <li>Creating a table </li>
+  <li>Editing tables </li>
+</ul>
+<p><strong> Unit 6: Controlling Page Appearance </strong></p>
+<ul>
+  <li> Headers and footers </li>
+  <li>Margins </li>
+  <li>Printing a document </li>
+</ul>
+<p><strong> Unit 7: Tools and Printing </strong></p>
+<ul>
+  <li> Using proofing tools </li>
+  <li>Page breaks </li>
+</ul>
+<p><strong> Unit 8: Creating a Web Page </strong></p>
+<ul>
+  <li> Creating a Web page </li>
+  <li>Using Themes and e xiting Word </li>
+</ul>

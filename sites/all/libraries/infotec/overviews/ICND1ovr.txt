@@ -1,0 +1,1 @@
+This course focuses on providing the skills and knowledge necessary to install, operate, and troubleshoot a small branch office Enterprise network, including configuring a switch, a router, and connecting to a WAN and implementing network security. A Student should be able to complete configuration and implementation of a small branch office network under supervision.

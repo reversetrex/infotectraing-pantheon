@@ -1,0 +1,1 @@
+This two-day instructor-led course provides students with the knowledge and skills to create a fully functional Web application by using ASP.NET 3.5.

@@ -1,0 +1,25 @@
+<p><strong>Module 1: Overview of  Configuration Manager 2007</strong> - This module provides an overview of Configuration Manager  2007 features. It also provides an overview of the Configuration Manager site  architecture and clients.</p>
+
+<p><strong>Module 2: Planning and Deploying  a Single-Site Architecture</strong> - This module explains how to prepare for and deploy a Configuration Manager site. It also describes how to discover resources and how  to upgrade an SMS 2003 site to Configuration Manager 2007.</p>
+
+<p><strong>Module 3: Planning and Deploying  Configuration Manager 2007 Clients</strong> - This module explains how to prepare for and deploy  Configuration Manager clients. It also describes how to manage client  installations and how to troubleshoot client deployment issues.</p>
+
+<p><strong>Module 4: Collecting Inventory  and Metering Software Usage</strong> - This module explains how to collect and manage hardware and  software inventory. It also describes how to configure software metering.</p>
+
+<p><strong>Module 5: Querying and Reporting  Data</strong> - This module explains how to create and run queries and  reports. It also describes how to create and run dashboards.</p>
+
+<p><strong>Module 6: Preparing for and  Managing Software Distribution</strong> - This module explains how to configure and manage software distribution. It also describes how to monitor and troubleshoot software  distribution.</p>
+
+<p><strong>Module 7: Deploying Operating  Systems Using Configuration Manager 2007</strong> - This module explains how to deploy operating systems using  Configuration Manager. It also describes how to configure operating system  deployments using PXE.</p>
+
+<p><strong>Module 8: Deploying and Managing  Software Updates</strong> - This module explains how to prepare for and manage software  updates in Configuration Manager. It also describes how to monitor and  troubleshoot software updates.</p>
+
+<p><strong>Module 9: Working with Desired Configuration Management in Configuration Manager 2007</strong> - This module explains how to configure desired configuration management in Configuration Manager. It also describes how to view compliance  results.</p>
+
+<p><strong>Module 10: Using Remote Tools and Wake On LAN Features</strong> - This module explains how to work with Configuration Manager remote tools. It also describes how to configure and monitor Wake On LAN.</p>
+
+<p><strong>Module 11: Managing Mobile Devices Using Configuration Manager 2007</strong> - This module provides an overview of mobile device management. It also describes how to configure server and client settings and how to manage mobile devices.</p>
+
+<p><strong>Module 12: Maintaining and  Troubleshooting Configuration Manager 2007</strong> - This module explains how to maintain Configuration Manager 2007 and how to troubleshoot Configuration Manager issues. It also describes  how to backup and recover data and how to work with troubleshooting tools.</p>
+
+<p><strong>Module 13: Planning and  Configuring a Multiple Site Hierarchy</strong> - This module explains how to plan and configure a multiple-site hierarchy including  installing a secondary site and installing a proxy management point. It also  describes how to decommission sites and hierarchies and how to roam in  multiple-site hierarchies.</p>

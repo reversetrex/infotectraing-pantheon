@@ -1,0 +1,26 @@
+<h2>Session 1</h2>
+  <h3>Section A: Goal Setting</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Creating Your Identity</li>
+    <li>Values</li>
+    <li>Your Mission Statement</li>
+    <li>Goal Setting</li>
+    <li>Action Plan</li>
+  </ul>
+  <h3>Section B: Motivation</h3>
+  <ul>
+    <li>Motivation</li>
+    <li>Fear of Failure</li>
+    <li>Performance Secrets</li>
+    <li>Self-Discipline</li>
+    <li>Change</li>
+  </ul>
+  <h3>Section C: Motivating Others</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Your Needs</li>
+    <li>Praise</li>
+    <li>Employee Examples</li>
+    <li>Praise (cont.)</li>
+  </ul>

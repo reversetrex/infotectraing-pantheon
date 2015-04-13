@@ -1,0 +1,36 @@
+<p><strong> Unit 1: An Introduction to Project Planning </strong></p>
+<ul>
+  <li> Why Project Plans Are Important </li>
+  <li> Components of a Project Plan </li>
+  <li> Expert Video: Jump-Start Project Success with Planning </li>
+  <li> Discussion: What Makes Projects Succeed or Fail? </li>
+</ul>
+<p><strong> Unit 2: Preparing an Effective Project Plan </strong></p>
+<ul>
+  <li> Why Effective Communication Is Important </li>
+  <li> Techniques for Communicating Effectively </li>
+  <li> Demonstration: Using the Outline View in Word to Organize Project Plans </li>
+  <li> Walkthrough: Communicating Project Information </li>
+  <li> Demonstration: Creating a Project Plan Template </li>
+  <li> Building Project Budgets </li>
+</ul>
+<p><strong> Unit 3: Building Better Project Schedules</strong></p>
+<ul>
+  <li> Building an Effective Overall Schedule </li>
+  <li> Building an Effective Gantt Chart </li>
+  <li> Exercise 1: Clearly Communicating Phases, Tasks, Milestones, and Deliverables </li>
+  <li> Best Practices for Communicating Task Detail </li>
+  <li> Exercise 2: Documenting Work Packages </li>
+  <li> Exercise 3: Linking a Task to a Work Package Document </li>
+  <li> Demonstration: Preventing Inadvertent Schedule Constraints </li>
+</ul>
+<p><strong> Unit 4: Allocating Resources to Project Tasks </strong></p>
+<ul>
+  <li> Problems and Opportunities in Resource Allocation </li>
+  <li> How Microsoft Project Calculates Task Values </li>
+  <li> Exercise: Mastering Tricky Resource Assignments </li>
+  <li> How Microsoft Project Levels Resources </li>
+  <li> Putting It All Together: Presenting Project Plans More Effectively </li>
+</ul>
+<p>&nbsp; </p>
+<p>&nbsp; </p>

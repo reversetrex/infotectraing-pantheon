@@ -1,0 +1,21 @@
+<ul>
+  <li> Define and identify origins, benefits, drawbacks, and uses of the Linux operating system. </li>
+  <li> Log in and enter commands on your Linux system. </li>
+  <li> Properly shut down and restart your Linux workstation and use LILO to start your Linux workstation. </li>
+  <li> Create and configure users and groups. </li>
+  <li> Manage the filesystem. </li>
+  <li> Manage rights to files and directories. </li>
+  <li> Use Linux text editors and redirection to create and modify files. </li>
+  <li> Archive files with tar, cpio, and other commands. </li>
+  <li> Work in the X Window environment. </li>
+  <li> Manage print services. </li>
+  <li> Add and update packages through package management utilities. </li>
+  <li> Configure the Linux environment. </li>
+  <li> Multitask commands and manage multitasking. </li>
+  <li> Configure and manage services. </li>
+  <li> Configure network services. </li>
+  <li> Work with hardware. </li>
+  <li> Troubleshoot Linux systems. </li>
+  <li> Prepare for Linux system installation. </li>
+  <li>Install a custom Linux installation.</li>
+</ul>

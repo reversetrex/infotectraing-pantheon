@@ -1,0 +1,29 @@
+<h2>Session 1</h2>
+  <h3>Section A: Recognizing Stress</h3>
+  <ul>
+    <li>Self-Assessment</li>
+    <li>What is Stress?</li>
+    <li>Conditions of Stress</li>
+    <li>Signs of Stress</li>
+    <li>Stages of Stress</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section B: Coping with Stress</h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Change Attitudes and Perceptions</li>
+    <li>Change Interaction with Environment</li>
+    <li>Change Physical Abilities to Cope</li>
+    <li>Change Your Environment</li>
+    <li>Assessment</li>
+  </ul>
+  <h3>Section C: Building Mental Fitness</h3>
+  <ul>
+    <li>Relating to Others</li>
+    <li>Mental Fitness</li>
+    <li>The Triple A Workout: Awareness</li>
+    <li>The Triple A Workout: Attitude</li>
+    <li>The Triple A Workout: Action</li>
+    <li>Reminders</li>
+    <li>Assessment</li>
+  </ul>

@@ -1,0 +1,9 @@
+<p>In this course, you will explore the new features available in Office 2013 applications. You will:</p>
+<ul>
+  <li>Identify new and enhanced features that are common across all applications in Office 2013.</li>
+  <li>Modify documents using Microsoft Word 2013.</li>
+  <li>Enhance worksheet data using Microsoft Excel 2013.</li>
+  <li>Augment a presentation using Microsoft PowerPoint 2013.</li>
+  <li>Create a database using Microsoft Access 2013.</li>
+  <li>Navigate through mail, calendars, contacts, and tasks in Microsoft Outlook 2013.</li>
+</ul>

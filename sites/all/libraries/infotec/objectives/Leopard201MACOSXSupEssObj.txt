@@ -1,0 +1,1 @@
+<p>The features of Mac OS X Server v10.5 How to configure essential services on Mac OS X Server How to use Mac OS X Server tools to monitor and troubleshoot services Effective use of Mac OS X Server to manage a small network of Macintosh computers and users How to manage access to files and services How to prepare for Apple Certified Technical Coordinator certification.</p>

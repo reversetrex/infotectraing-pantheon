@@ -1,0 +1,1 @@
+This three-day instructor-led course provides students with the knowledge and skills to upgrade their SQL Server 2005 skills to SQL Server 2008.

@@ -1,0 +1,60 @@
+<p><strong>Lesson 1: Personalizing Your Email</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 1A: </strong>Apply Stationery and Themes <br />
+    <strong>Topic 1B: </strong>Create a Custom Theme <br />
+    <strong>Topic 1C: </strong>Create a Signature <br />
+    <strong>Topic 1D: </strong>Modify Signatures <br />
+    <strong>Topic 1E: </strong>Configure Email Message Security Settings <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 2: Organizing Outlook Items</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 2A: </strong>Group Items <br />
+    <strong>Topic 2B: </strong>Create Search Folders <br />
+    <strong>Topic 2C: </strong>Apply Conditional Formatting <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 3: Managing Outlook Data Files</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 3A: </strong>Back Up Outlook Items in Outlook Data Files <br />
+    <strong>Topic 3B: </strong>Add Outlook Data Files to a Mail Profile <br />
+    <strong>Topic 3C: </strong>Change Data File Settings <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 4: Managing Contacts and Contact  Information </strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 4A: </strong>Forward Contacts <br />
+    <strong>Topic 4B: </strong>Edit an Electronic Business Card <br />
+    <strong>Topic 4C: </strong>Export Contacts <br />
+    <strong>Topic 4D: </strong>Perform a Mail Merge <br />
+    <strong>Topic 4E: </strong>Link Items to the Business Contact Manager <br />
+  </p>
+</blockquote>
+<p><strong>Lesson 5: Saving and Archiving Email</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 5A: </strong>Save Messages in Alternate Formats <br />
+    <strong>Topic 5B: </strong>Archive Messages <br />
+    <strong>Topic 5C: </strong>Protect Archives and Other Personal Folders<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 6: Creating a Custom Outlook Form</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 6A: </strong>Customize a Form <br />
+    <strong>Topic 6B: </strong>Create Outlook Items Based on a Custom Form<br />
+  </p>
+</blockquote>
+<p><strong>Lesson 7: Working Offline and Remotely</strong></p>
+<blockquote>
+  <p>
+    <strong>Topic 7A: </strong>Make Folders Available Offline <br />
+    <strong>Topic 7B: </strong>Configure Remote Procedure Calls over HTTP <br />
+    <strong>Topic 7C: </strong>Download Selected Messages<br />
+    <strong>Topic 7D: </strong>Publish Calendar Information to Office Online<br />
+  </p>
+</blockquote>

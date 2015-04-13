@@ -1,0 +1,40 @@
+<p><strong> Unit 1: Starting with a Firm Relational Foundation </strong></p>
+<ul>
+  <li> Export Video: Importance of using Relationships and Referential Integrity </li>
+  <li> Data Coming from Excel into Access </li>
+  <li> Exercise: Importing Excel Data into Existing Tables </li>
+  <li> Best Practices for Creating Tables and Utilizing Outside Data </li>
+</ul>
+<p><strong> Unit 2: Using Queries to Work with Financial Information </strong></p>
+<ul>
+  <li> Looking at Queries Available for Working with Financial Data </li>
+  <li> Exercise 1: Creating Select and Totals Queries </li>
+  <li> Exercise 2: Working with Crosstab Queries </li>
+  <li> Retrieving Only the Information You Want </li>
+  <li> Exercise 3: Adding Criteria to Queries </li>
+  <li> Best Practices for Using Queries to Their Full Potentials </li>
+</ul>
+<p><strong> Unit 3: Generating Flexible Reports for Management Use </strong></p>
+<ul>
+  <li> Creating Financial Reports Using Access </li>
+  <li> Exercise 1: Creating and Enhancing an Access Report </li>
+  <li> Using Access PivotTables and PivotCharts </li>
+  <li> Exercise 2: Displaying Data Using a PivotTable View </li>
+  <li> Exercise 3: Displaying Data Using a PivotChart View </li>
+  <li> Best Practices for Reporting Financial Information</li>
+</ul>
+<p><strong> Unit 4: Introduction to Microsoft Visual Basic for Applications </strong></p>
+<ul>
+  <li> Getting Started with Visual Basic for Applications by Using the Command Button Wizard </li>
+  <li> Exercise 1: Gaining Experience with Visual Basic for Applications Procedures </li>
+  <li> Exercise 2: Creating Event Routines Without Using Command Button Wizard </li>
+  <li> Best Practices for Using Visual Basic for Applications Code in Databases </li>
+</ul>
+<p><strong> Unit 5: Automating Excel from Access Using VBA </strong></p>
+<ul>
+  <li> Automating Microsoft Excel from Access </li>
+  <li> Exercise 1: Analyzing Information with Excel Using a Menu Command </li>
+  <li> Exercise 2: Creating Visual Basic for Applications Code that Creates an Excel Worksheet </li>
+  <li> Exercise 3: Loading a Recordset into Excel from Access </li>
+  <li> Best Practices for Avoiding the Pitfalls of Automation<strong></strong></li>
+</ul>

@@ -1,0 +1,19 @@
+<p>After completing this course, students will  be able to:</p>
+<ul>
+  <li>Describe the purpose and structure of ADO.NET 3.5.</li>
+  <li>Explain the role of data providers in ADO.NET 3.5.</li>
+  <li>List the technologies and techniques available for managing data with ADO.NET 3.5.</li>
+  <li>Insert, update, and delete data by using ADO.NET Command objects.</li>
+  <li>Implement transactions to control data integrity and concurrency.</li>
+  <li>Define and use a DataSet for retrieving data.</li>
+  <li>Use a DataSet to update a database.</li>
+  <li>Use a DataSet as a local cache in an occasionally connected environment.</li>
+  <li>Define LINQ queries for selecting data from an in-memory data structure.</li>
+  <li>Use LINQ to SQL to query data in a database.</li>
+  <li>Use LINQ to SQL to modify data and save changes to the database.</li>
+  <li>Explain how to use the ADO.NET Entity Framework to map a database schema to a logical business model.</li>
+  <li>Use the ADO.NET Entity Framework to query and manage data.</li>
+  <li>Explain how Synchronization Services supports occasionally-connected solutions.</li>
+  <li>Use Synchronization Services to download data from a SQL Server database.</li>
+  <li>Use Synchronization Services to upload data to a SQL Server database.</li>
+</ul>

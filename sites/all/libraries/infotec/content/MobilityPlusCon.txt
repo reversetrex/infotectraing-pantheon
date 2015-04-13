@@ -1,0 +1,95 @@
+<p><strong>Lesson 1: Configuring Over-the-Air Technologies</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Mobile Networking Introduction</li>
+ <li><strong>Topic B: </strong>Evaluate and Select Cellular Technologies</li>
+ <li><strong>Topic C: </strong>Implement Wi-Fi Technologies</li>
+</ul>
+<p><strong>Lesson 2: Applying RF Principles</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Apply Radio Frequency Concepts</li>
+ <li><strong>Topic B: </strong>Conduct a Site Survey and Analysis</li>
+</ul>
+<p><strong>Lesson 3: Implementing a Wireless Network Infrastructure</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Choose a Network Topology</li>
+ <li><strong>Topic B: </strong>Describe the OSI Model</li>
+ <li><strong>Topic C: </strong>Implement Network Ports and Protocols</li>
+</ul>
+<p><strong>Lesson 4: Implementing Network Infrastructure Devices and Services</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Implement a Firewall</li>
+ <li><strong>Topic B: </strong>Implement Connectivity Devices and Services</li>
+ <li><strong>Topic C: </strong>Traverse Wireless and Wired Networks</li>
+ <li><strong>Topic D: </strong>Implement Wireless IP Traffic</li>
+ <li><strong>Topic E: </strong>Configure Core Wireless Network TCP/IP Services</li>
+ <li><strong>Topic F: </strong>Implement Disaster Recovery</li>
+</ul>
+<p><strong>Lesson 5: Implementing Mobile Solutions</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Create a Mobile Device Policy</li>
+ <li><strong>Topic B: </strong>Align Mobile Device Management to Enterprise Requirements</li>
+ <li><strong>Topic C: </strong>Align Mobile Service Solutions to Enterprise Requirements</li>
+ <li><strong>Topic D: </strong>Align Mobile Infrastructure Management to Enterprise Requirements</li>
+</ul>
+<p><strong>Lesson 6: Preparing the Enterprise for a Mobile Network</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Implement the SDLC</li>
+ <li><strong>Topic B: </strong>Prepare the Infrastructure</li>
+</ul>
+<p><strong>Lesson 7: Deploying Mobile Devices</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Manage Cellular Device Activation and Deployment</li>
+ <li><strong>Topic B: </strong>Configure Mobile Device Peripherals</li>
+ <li><strong>Topic C: </strong>Complete the Onboarding and Provision Process</li>
+ <li><strong>Topic D: </strong>Complete the Off-boarding and De-provisioning Process</li>
+</ul>
+<p><strong>Lesson 8: Implementing Mobile Device Operations</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Distribute Centralized Content</li>
+ <li><strong>Topic B: </strong>Implement Deployment Best Practices</li>
+ <li><strong>Topic C: </strong>Configure Remote Capabilities</li>
+</ul>
+<p><strong>Lesson 9: Maintaining Mobile Device Operations</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Manage Lifecycle Operations</li>
+ <li><strong>Topic B: </strong>Back Up, Recover, and Segregate Data</li>
+ <li><strong>Topic C: </strong>Stay Current with New Technologies</li>
+</ul>
+<p><strong>Lesson 10: Deploying Mobile Applications and Related Technologies</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Choose Mobile App Types</li>
+ <li><strong>Topic B: </strong>Determine In-house Application Development Requirements</li>
+ <li><strong>Topic C: </strong>Implement Push Notification</li>
+</ul>
+<p><strong>Lesson 11: Implementing Mobile App Protocols and Services</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Configure Mobile Applications</li>
+ <li><strong>Topic B: </strong>Implement Proxy and Gateway Settings</li>
+ <li><strong>Topic C: </strong>Implement Information Traffic Topology</li>
+</ul>
+<p><strong>Lesson 12: Implementing Mobile Security</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Implement Encryption Methods</li>
+ <li><strong>Topic B: </strong>Implement Access Control</li>
+ <li><strong>Topic C: </strong>Implement PKI</li>
+ <li><strong>Topic D: </strong>Implement Security Monitoring</li>
+</ul>
+<p><strong>Lesson 13: Mitigating Mobile Network Risk</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Identify Risks and Threats</li>
+ <li><strong>Topic B: </strong>Implement Mitigation Techniques</li>
+</ul>
+<p><strong>Lesson 14: Implementing Incident Response</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Identify an Incident</li>
+ <li><strong>Topic B: </strong>Create and Execute a Policy-Based Response</li>
+ <li><strong>Topic C: </strong>Report an Incident</li>
+</ul>
+<p><strong>Lesson 15: Troubleshooting Mobile Devices and Networks</strong></p>
+<ul>
+ <li><strong>Topic A: </strong>Implement Troubleshooting Methodology</li>
+ <li><strong>Topic B: </strong>Troubleshoot Device Problems</li>
+ <li><strong>Topic C: </strong>Troubleshoot Application Problems</li>
+ <li><strong>Topic D: </strong>Troubleshoot Over-the-Air Connectivity Problems</li>
+ <li><strong>Topic E: </strong>Troubleshoot Security Problems</li>
+</ul>

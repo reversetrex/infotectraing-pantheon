@@ -1,0 +1,18 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Create a logical architecture design</li>
+  <li>Create a logical Service Application architecture</li>
+  <li>Create a capacity and performance plan for SharePoint 2010</li>
+  <li>Map the logical architecture, service application  architecture, and the capacity and performance plan against a physical  architecture</li>
+  <li>Design a security plan for SharePoint 2010 based on the  principle of least-privilege</li>
+  <li>Create an authentication plan for SharePoint 2010 that meets  the business requirements</li>
+  <li>Create a corporate taxonomy plan for a SharePoint 2010  environment and enable consumption of the terms within the term store</li>
+  <li>Design a SharePoint 2010 environment that supports social  computing features including user profiles and My Sites</li>
+  <li>Design and implement search strategy in SharePoint 2010</li>
+  <li>Translate business requirements for content management into  an Enterprise Content Management solution</li>
+  <li>Create a plan that reflects the role of SharePoint in an  overarching corporate Business Intelligence strategy</li>
+  <li>Develop the key SharePoint elements of a governance plan  that is in agreement with the overarching corporate governance strategy</li>
+  <li>Develop a plan for maintaining and monitoring a SharePoint  2010 deployment</li>
+  <li>Develop a business continuity plan for SharePoint 2010</li>
+  <li>Plan  an upgrade from a previous SharePoint Product and Technologies version to  SharePoint 2010</li>
+</ul>

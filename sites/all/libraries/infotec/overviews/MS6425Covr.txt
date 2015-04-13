@@ -1,0 +1,3 @@
+This five-day instructor-led course provides in-depth training on implementing, configuring, managing and troubleshooting Active Directory Domain Services (AD DS) in Windows Server 2008 and Windows Server 2008 R2 environments. It covers core AD DS concepts and functionality as well as implementing Group Policies, performing backup and restore and monitoring and troubleshooting Active Directory related issues. After completing this course students will be able to configure AD DS in their Windows Server 2008 and Windows server 2008 R2 environments.<br /><br />
+ 
+The course also provides a direct mapping to the objective domain of the 70-640: TS: Windows Server 2008 Active Directory, Configuring exam. 

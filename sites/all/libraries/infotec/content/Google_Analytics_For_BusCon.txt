@@ -1,0 +1,35 @@
+<p><strong>Lesson  1: Overview of Google Analytics</strong></p>
+<ul>
+  <li><strong>Topic 1A: </strong>Examine Online Marketing and Web  Analytics</li>
+  <li><strong>Topic 1B: </strong>Introduction to Google Analytics</li>
+</ul>
+<p><strong>Lesson  2: Getting Started with Google Analytics</strong></p>
+<ul>
+  <li><strong>Topic 2A: </strong>Create and Activate a Google Analytics  Account</li>
+  <li><strong>Topic 2B: </strong>Integrate Google Analytics and Google  AdWords</li>
+</ul>
+<p><strong>Lesson  3: Managing a Google Analytics Account</strong></p>
+<ul>
+  <li><strong>Topic 3A: </strong>Explore Google Analytics</li>
+  <li><strong>Topic 3B: </strong>Manage Website Profiles and Users</li>
+</ul>
+<p><strong>Lesson  4: Configuring Goals and Funnels in Google Analytics</strong></p>
+<ul>
+  <li><strong>Topic 4A: </strong>Configure Google Analytics Goals</li>
+  <li><strong>Topic 4B: </strong>Build Funnels in Google Analytics</li>
+</ul>
+<p><strong>Lesson  5: Creating Filters in Google Analytics</strong></p>
+<ul>
+  <li><strong>Topic 5A: </strong>Create Filters</li>
+  <li><strong>Topic 5B: </strong>Create Customized Filters in Google  Analytics</li>
+</ul>
+<p><strong>Lesson  6: Working with Google Analytics Reports</strong></p>
+<ul>
+  <li><strong>Topic 6A: </strong>Manage Reports in Google Analytics</li>
+  <li><strong>Topic 6B: </strong>Generate Visitor Reports</li>
+  <li><strong>Topic 6C: </strong>Generate Traffic Source Reports</li>
+  <li><strong>Topic 6D: </strong>Generate Content Reports</li>
+  <li><strong>Topic 6E: </strong>Generate Goals Reports</li>
+  <li><strong>Topic 6F: </strong>Examine Ecommerce Reports</li>
+  <li><strong>Topic 6G: </strong>Customize  Reports</li>
+</ul>

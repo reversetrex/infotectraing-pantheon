@@ -1,0 +1,11 @@
+<p>Upon successful completion of this course will understand:</p>
+<ul type="disc">
+  <li>Introduction to Continual Service Improvement</li>
+  <li>Continual Service Improvement Principles</li>
+  <li>Continual Service Improvement Process</li>
+  <li>Continual Service Improvement Methods and Techniques</li>
+  <li>Organization for Continual Service Improvement</li>
+  <li>Technology for Continual Service Improvement</li>
+  <li>Implementation Considerations</li>
+  <li>Critical success factors and risks</li>
+</ul>

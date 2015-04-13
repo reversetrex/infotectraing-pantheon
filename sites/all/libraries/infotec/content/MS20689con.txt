@@ -1,0 +1,74 @@
+<p><strong>Module 1: Installing Windows 8</strong> - This module explains how to plan and perform the installation of Windows 8.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introducing Windows 8</li>
+  <li>Preparing to Install Windows 8</li>
+  <li>Installing Windows 8</li>
+  <li>Automating the Installation of Windows 8</li>
+  <li>Activating Windows 8</li>
+</ul>
+<p><strong>Module 2: Upgrading and Migrating to Windows 8</strong> - This module explains how to install Windows 8 on computers that are running an existing operating system.</p>
+<p>Lessons</p>
+<ul>
+  <li>Upgrading to Windows 8</li>
+  <li>Migrating to Windows 8</li>
+  <li>Migrating User Data and Settings</li>
+</ul>
+<p><strong>Module 3: Administering Windows 8</strong> - This module explains how to administer Windows 8.</p>
+<p>Lessons</p>
+<ul>
+  <li>Local and Remote Management of Windows 8</li>
+  <li>Implementing Group Policies</li>
+  <li>Administering Windows 8 with Windows Intune</li>
+  <li>Introduction to Windows PowerShell 3.0</li>
+  <li>Windows PowerShell Remoting</li>
+  <li>Using Windows PowerShell Cmdlets</li>
+</ul>
+<p><strong>Module 4: Implementing an Application Strategy for Windows 8</strong> - This module explains how to implement an application strategy for Windows 8.</p>
+<p>Lessons</p>
+<ul>
+  <li>Application Deployment Options in Windows 8</li>
+  <li>Application Compatibility</li>
+</ul>
+<p><strong>Module 5: Configuring Applications</strong> - This module explains how to configure and control applications in Windows 8.</p>
+<p>Lessons</p>
+<ul>
+  <li>Install and Configure Applications</li>
+  <li>Managing Apps from the Windows Store</li>
+  <li>Configure Internet Explorer Settings</li>
+  <li>Configuring Application Restrictions in the Enterprise</li>
+</ul>
+<p><strong>Module 6: Configuring Remote Access</strong> - This module explains how to enable remote access.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring VPN Access</li>
+  <li>Overview of DirectAccess</li>
+</ul>
+<p><strong>Module 7: Implementing Storage in Windows 8</strong> - This module explains how to describe and implement storage in Windows 8.</p>
+<p>Lessons</p>
+<ul>
+  <li>Understanding Storage Concepts in Windows 8</li>
+  <li>Implementing BitLocker</li>
+  <li>File Caching</li>
+  <li>Overview of SkyDrive</li>
+</ul>
+<p><strong>Module 8: Troubleshooting and Recovering Windows 8</strong> - This module explains how to configure Windows Defender.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Host-Based Virus and Malware Protection</li>
+  <li>Backing Up and Restoring Files in Windows 8</li>
+  <li>Recovery options in Windows 8</li>
+</ul>
+<p><strong>Module 9: Implementing Client Hyper-V</strong> - This module explains how to describe Hyper-V for Windows 8 and describe how to use it to support legacy applications.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Client Hyper-V</li>
+  <li>Creating Virtual Machines</li>
+  <li>Managing Virtual Hard Disks</li>
+  <li>Managing Snapshots</li>
+</ul>
+<p><strong>Module 10: Implementing Online Features in Windows 8</strong> - This module is a stand-alone lab that explains how to implement online features in Windows 8.Lab : Implementing Online Features in Windows 8.</p>
+<p>Lessons</p>
+<ul>
+  <li>Creating a Virtual Network and a Virtual Machine</li>
+</ul>

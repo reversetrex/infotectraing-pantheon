@@ -1,0 +1,8 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Identify and Resolve Desktop Application Issues</li>
+  <li>Identify the Cause of and Resolve Networking Issues</li>
+  <li>Manage and Maintain Systems That Run Windows 7</li>
+  <li>Support Mobile Users</li>
+  <li>Identify the Cause of and  Resolve Security Issues</li>
+</ul>

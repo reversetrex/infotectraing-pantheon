@@ -1,0 +1,167 @@
+<p><strong>Module 1: Overview of Exchange and Active Directory</strong></p>
+<p>After completing this module, students will be able to describe how Exchange Server 2007 and Active Directory work together.</p>
+<ol>
+  <li>Review of Active Directory</li>
+  <li>Introduction to the Integration of Active Directory and Exchange Server 2007</li>
+</ol>
+<p><strong>Lab : Overview of How Exchange Server 2007 and   Active Directory Work Together</strong></p>
+<p><strong>Discussion: Explaining How Exchange Server 2007 and Active Directory Work Together</strong></p>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Describe the core components of the Active Directory directory service.</li>
+  <li>Describe the integration of Active Directory and Exchange Server 2007.</li>
+</ol>
+
+<p><strong>Module 2: Installing Exchange Server 2007</strong></p>
+<p>After completing this module, students will be able install Exchange Server 2007.</p>
+<ol>
+  <li>Introduction to the Exchange Server 2007 Server Roles</li>
+  <li>Installing Exchange Server 2007</li>
+  <li>Completing the Exchange Server 2007 Installation</li>
+</ol>
+<p><strong>Lab : Installing Exchange Server 2007</strong></p>
+<ol>
+  <li>Preparing the Environment for an Exchange Server 2007 Installation</li>
+  <li>Installing Exchange Server 2007 Client Access Server and Hub Transport Server Roles</li>
+</ol>
+<p><strong>Lab : Verifying an Exchange Server 2007 Installation</strong></p>
+<ol>
+  <li>Verifying an Exchange Server 2007 Installation</li>
+  <li>After completing this module, students will be able to:</li>
+  <li>Describe the Exchange Server 2007 server roles.</li>
+  <li>Install Exchange Server 2007.</li>
+</ol>
+
+<p><strong>Module 3: Configuring Mailbox Server Roles</strong></p>
+<p>After completing this module, students will be able to configure Mailbox Server roles.</p>
+<ol>
+  <li>Overview of Exchange Server 2007 Administration Tools</li>
+  <li>Implementing Mailbox Server Roles</li>
+  <li>Managing Public Folder Databases</li>
+</ol>
+<p><strong>Lab : Configuring Mailbox Servers</strong></p>
+<ol>
+  <li>Configuring Storage Groups and Database Files</li>
+  <li>Configuring a Public Folder and Store Referrals</li>
+</ol>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Describe the Exchange Server 2007 Administration Tools.</li>
+  <li>Implement Mailbox Server roles.</li>
+  <li>Manage Public Folder databases.</li>
+</ol>
+
+<p><strong>Module 4: Managing Recipient Objects</strong></p>
+<p>After completing this module, students will be able to manage recipient objects.</p>
+<ol>
+  <li>Managing Mailboxes</li>
+  <li>Managing Other Recipients</li>
+  <li>Overview of Managing Public Folders</li>
+</ol>
+<p><strong>Lab : Managing Recipient Objects</strong></p>
+<ol>
+  <li>Modifying Existing User Mailboxes</li>
+  <li>Configuring New Mailboxes and Mail-Enabled Objects</li>
+  <li>Managing Resource Mailboxes</li>
+  <li>Managing Mailbox Removal</li>
+</ol>
+<p>After completing this module, students   will be able to:</p>
+<ol>
+  <li>Manage mailboxes.</li>
+  <li>Manage other recipients.</li>
+  <li>Manage public folders.</li>
+  <li>Manage Mailbox removal.</li>
+</ol>
+
+<p><strong>Module 5: Managing E-Mail Addresses and Address Lists</strong></p>
+<p>After completing this module, students will be able to manage e-mail and address lists.</p>
+<ol>
+  <li>Configuring E-Mail Address Policies</li>
+  <li>Configuring Address Lists</li>
+  <li>Overview of Bulk Recipient Management Tasks</li>
+</ol>
+<p><strong>Lab : Managing E-Mail Addresses and Address Lists</strong></p>
+<ol>
+  <li>Managing E-Mail Address Policies</li>
+  <li>Managing Address Lists</li>
+  <li>Performing Recipient Bulk Management Tasks</li>
+</ol>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Configure e-mail address policies.</li>
+  <li>Configure address lists.</li>
+  <li>Describe bulk recipient management tasks.</li>
+</ol>
+
+<p><strong>Module 6: Managing Client Access</strong></p>
+<p>After completing this module, students will be able to manage client access.</p>
+<ol>
+  <li>Implementing Client Access Servers</li>
+  <li>Implementing Client Access Features</li>
+  <li>Implementing Outlook Web Access</li>
+  <li>Introduction to Implementing Mobile Messaging</li>
+</ol>
+<p><strong>Lab : Managing Client Access</strong></p>
+<ol>
+  <li>Managing Mobile Device Connectivity</li>
+  <li>Managing Outlook Web Access</li>
+</ol>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Implement client access servers.</li>
+  <li>Implement client access features.</li>
+  <li>Implement Outlook Web Access.</li>
+  <li>Implement Mobile Messaging.</li>
+</ol>
+
+<p><strong>Module 7: Managing Message Transport</strong></p>
+<p>After completing this module, students will be able to manage messaging transport.</p>
+<ol>
+  <li>Introduction to Message Transport</li>
+  <li>Implementing Message Transport</li>
+</ol>
+<p><strong>Lab : Managing Message Transport and Handling</strong></p>
+<ol>
+  <li>Troubleshooting Local Message Delivery</li>
+  <li>Troubleshooting Remote Message Delivery</li>
+  <li>Troubleshooting Message Transport</li>
+</ol>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Describe how Message Transport works in Exchange Server 2007.</li>
+  <li>Implement Message Transport.</li>
+</ol>
+
+<p><strong>Module 8: Managing Availability, Backup and   Recovery</strong></p>
+<p>After completing this module, students will be able to manage availability, and backup and recovery.</p>
+<ol>
+  <li>Implementing High-Availability for Mailbox Servers</li>
+  <li>Managing a Backup Solution</li>
+  <li>Managing a Recovery Solution</li>
+</ol>
+<p><strong>Lab : Managing Backup and Recovery</strong></p>
+<ul>
+  <li>Restoring Data using the Recovery Storage Group</li>
+</ul>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Implement high-availability for mailbox servers</li>
+  <li>Manage a backup solution.</li>
+  <li>Manage a recovery solution.</li>
+</ol>
+
+<p><strong>Module 9: Maintaining the Messaging System</strong></p>
+<p>After completing this module, students will be able to maintain the message system.</p>
+<ol>
+  <li>Overview of Implementing Change Management</li>
+  <li>Overview of Updating Exchange Servers</li>
+</ol>
+<p><strong>Lab : Maintaining the Messaging System</strong></p>
+<ul>
+  <li>Determining the Information Necessary for Change Implementation</li>
+</ul>
+<p>After completing this module, students will be able to:</p>
+<ol>
+  <li>Describe implement change management.</li>
+  <li>Describe how to update Exchange Servers.</li>
+</ol>

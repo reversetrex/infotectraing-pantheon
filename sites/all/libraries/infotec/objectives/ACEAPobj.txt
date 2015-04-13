@@ -1,0 +1,18 @@
+<p>Upon completion of this course, students will be able to perform the following tasks:</p>
+<ol>
+  <li>Describe IP application delivery with the ACE module.</li>
+  <li>Describe the structure and function of the Modular Policy CLI statements used to  configure ACE features.</li>
+  <li>Describe the capabilities the ACE module used to load balance IP-based applications.</li>
+  <li>Identify the layer 7 processing options used to provide advanced application networking.</li>
+  <li>Create new contexts and resource classes.</li>
+  <li>Create class maps and serverfarms.</li>
+  <li>Configure an ACE context load balance traffic flows.</li>
+  <li>Configure an ACE context to monitor real servers.</li>
+  <li>Implement fixups and inspection.</li>
+  <li>Describe the ACE features that provide IP application security.</li>
+  <li>Implement SSL termination.</li>
+  <li>Configure network address translations.</li>
+  <li>Describe the high availability features of the ACE module.</li>
+  <li>Configure an ACE context to perform a variety functions in an integrated environment.</li>
+  <li>Troubleshoot common SLB configuration errors.</li>
+</ol>

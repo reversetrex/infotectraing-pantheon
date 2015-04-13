@@ -1,0 +1,47 @@
+<p><strong>Lesson 1: Getting Started with Microsoft Office 2007 </strong></p>
+<ol>
+  <li>Topic 1A: Explore the User Interface </li>
+  <li>Topic 1B: Enhance Files </li>
+  <li>Topic 1C: Save Files </li>
+</ol>
+<p><strong>Lesson 2: Creating Professional-Looking Documents </strong></p>
+<ol>
+  <li>Topic 2A: Apply a Cover Page </li>
+  <li>Topic 2B: Add Building Blocks </li>
+  <li>Topic 2C: Compare Reviewed Documents </li>
+</ol>
+<p><strong>Lesson 3: Enhancing Your Spreadsheets </strong></p>
+<ol>
+  <li>Topic 3A: Organize Data </li>
+  <li>Topic 3B: Apply Conditional Formatting </li>
+  <li>Topic 3C: Apply a Formula </li>
+  <li>Topic 3D: Present Data </li>
+</ol>
+<p><strong>Lesson 4: Creating Dynamic Presentations </strong></p>
+<ol>
+  <li>Topic 4A: Create Custom Slide Layouts </li>
+  <li>Topic 4B: Enhance Presentations with Graphic Effects </li>
+  <li>Topic 4C: Customize Slide Shows </li>
+</ol>
+<p><strong>Lesson 5: Working with Access 2007 </strong></p>
+<ol>
+  <li>Topic 5A: Create a Table </li>
+  <li>Topic 5B: Design a Form Layout </li>
+  <li>Topic 5C: Query a Database </li>
+  <li>Topic 5D: Generate Reports </li>
+  <li>Topic 5E: Work with External Data </li>
+</ol>
+<p><strong>Lesson 6: Working With Outlook 2007 </strong></p>
+<ol>
+  <li>Topic 6A: Locate Information Quickly </li>
+  <li>Topic 6B: Share Your Calendar Information </li>
+  <li>Topic 6C: Notify Others that You Will be Out Of Office </li>
+  <li>Topic 6D: Share Information Using Electronic Business Card </li>
+  <li>Topic 6E: Integrate Outlook with SharePoint Services </li>
+  <li>Topic 6F: Add RSS Feeds Through Outlook 2007 </li>
+</ol>
+<p><strong>Lesson 7: Finalizing Files </strong></p>
+<ol>
+  <li>Topic 7A: Protect Files </li>
+  <li>Topic 7B: Share Files </li>
+</ol>

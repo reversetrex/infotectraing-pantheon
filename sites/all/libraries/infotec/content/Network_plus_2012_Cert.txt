@@ -1,0 +1,333 @@
+<h2>Session 1</h2>
+  <h3>Section A: Introduction</h3>
+  <ul>
+    <li>Networking Evolution</li>
+    <li>Why Network+</li>
+    <li>Network+ Domains</li>
+    <li>Prerequisites</li>
+    <li>Preparing for the Exam</li>
+    <li>Viewing Objectives</li>
+  </ul>
+  <h3>Section B: Networking Models</h3>
+  <ul>
+    <li>The OSI Model</li>
+    <li>The Seven-Layer Model</li>
+    <li>Layer 7: Application</li>
+    <li>Layer 6: Presentation</li>
+    <li>Layer 5: Session</li>
+    <li>Layer 4: Transport</li>
+    <li>Layer 3: Network</li>
+    <li>Layer 2: Data-Link</li>
+    <li>Layer 1: Physical</li>
+    <li>Terminology and the OSI</li>
+    <li>TCP/IP Model</li>
+    <li>The Four-Layer Model</li>
+    <li>Devices and the TCP Model</li>
+    <li>Protocols at Each Layer</li>
+    <li>Network Topologies</li>
+    <li>Peer-to-Peer vs. Client/Server</li>
+  </ul>
+  <h3>Section C: Applications and Devices</h3>
+  <ul>
+    <li>Network Interface Card</li>
+    <li>Hub</li>
+    <li>Bridge</li>
+    <li>Switch</li>
+    <li>Router</li>
+    <li>Multilayer Switch</li>
+    <li>Encryption Devices</li>
+    <li>Bits and Bytes</li>
+  </ul>
+  <h3>Section D: IPv4 Overview and Addressing</h3>
+  <ul>
+    <li>Binary Number</li>
+    <li>IP Addressing</li>
+    <li>Public vs. Private</li>
+    <li>Address Types</li>
+    <li>Subnetting</li>
+    <li>DHCP</li>
+    <li>DHCP Process</li>
+    <li>APIPA</li>
+    <li>Under IP</li>
+  </ul>
+  <h3>Section E: IPv6 Overview and Addressing</h3>
+  <ul>
+    <li>IPv6</li>
+    <li>IPv6 Addressing</li>
+    <li>IPv6 Address Space</li>
+    <li>IPv6 vs. IPv4</li>
+  </ul>
+  <h3>Section F: Switching Protocols</h3>
+  <ul>
+    <li>Collision Domain</li>
+    <li>Broadcast Domain</li>
+    <li>VLANs Defined</li>
+    <li>VLAN Example</li>
+    <li>VLAN Tagging</li>
+    <li>VLAN Applications</li>
+    <li>Spanning Tree Protocol</li>
+    <li>STP Port Types</li>
+    <li>Port Mirroring</li>
+  </ul>
+  <h3>Section G: Routing Protocols</h3>
+  <ul>
+    <li>Static Routing</li>
+    <li>Static Routing Issues</li>
+    <li>Routing Protocols</li>
+    <li>Distance Vector Routing</li>
+    <li>Link-State Routing</li>
+    <li>Routing Protocol Metrics</li>
+    <li>Administrative Distance</li>
+  </ul>
+<h2>Session 2</h2>
+  <h3>Section A: Networking Protocols</h3>
+  <ul>
+    <li>TCP and UDP Ports</li>
+    <li>Common Ports</li>
+    <li>TCP/IP Suite</li>
+    <li>VoIP Protocols</li>
+    <li>Network Management Protocols</li>
+    <li>Network Communications Protocols</li>
+  </ul>
+  <h3>Section B: Name Resolution</h3>
+  <ul>
+    <li>Domain Name System</li>
+    <li>Dynamic DNS</li>
+    <li>DNS Servers</li>
+  </ul>
+  <h3>Section C: Virtual Desktops</h3>
+  <ul>
+    <li>Virtualization</li>
+    <li>Using Virtual Desktops</li>
+    <li>Virtual Servers</li>
+    <li>Virtual PBX</li>
+    <li>Virtual Switches</li>
+    <li>Network as a Service</li>
+  </ul>
+  <h3>Section D: Media and Connectors</h3>
+  <ul>
+    <li>Fiber Media</li>
+    <li>Copper Cabling</li>
+    <li>Cable Categories</li>
+    <li>Copper Connectors</li>
+    <li>Cable Types</li>
+    <li>Media Converters</li>
+    <li>Wiring Distribution</li>
+  </ul>
+  <h3>Section E: WAN Solutions</h3>
+  <ul>
+    <li>Circuit Switch</li>
+    <li>Packet Switch</li>
+    <li>Selecting a WAN Link</li>
+    <li>Wireless WANs</li>
+    <li>Wired WANs</li>
+  </ul>
+  <h3>Section F: 802 Standards</h3>
+  <ul>
+    <li>802 Standards and Terminology</li>
+    <li>CSMA/CD</li>
+    <li>CSMA/CA</li>
+    <li>802.11</li>
+  </ul>
+  <h3>Section G: Planning a Small Network</h3>
+  <ul>
+    <li>Cable Length</li>
+    <li>Environmental Limitations</li>
+    <li>Equipment Limitations</li>
+    <li>Compatibility Requirements</li>
+    <li>Device Types and Requirements</li>
+    <li>List of Requirements</li>
+  </ul>
+<h2>Session 3</h2>
+  <h3>Section A: Installing Routers</h3>
+  <ul>
+    <li>Routing Tables</li>
+    <li>Router Interface Configuration</li>
+    <li>Network Address Translation</li>
+    <li>Port Address Translation</li>
+    <li>Traffic Filtering</li>
+    <li>Quality of Service</li>
+    <li>Router Diagnostics</li>
+  </ul>
+  <h3>Section B: Installing Switches</h3>
+  <ul>
+    <li>Managed vs. Unmanaged</li>
+    <li>Switch Interface Configuration</li>
+    <li>VLANs and Trunking</li>
+    <li>PoE</li>
+    <li>QoS and Traffic Filtering</li>
+    <li>Switch Diagnostics</li>
+  </ul>
+  <h3>Section C: Installing a Wireless Network</h3>
+  <ul>
+    <li>Antenna Types</li>
+    <li>WAP Placement</li>
+    <li>Frequencies and Channels</li>
+    <li>SSIDs (Enable/Disable)</li>
+    <li>Compatibility</li>
+  </ul>
+  <h3>Section D: Understanding Network Appliances</h3>
+  <ul>
+    <li>Network Appliances</li>
+    <li>Load Balancer</li>
+    <li>Proxy Server</li>
+    <li>Content Filter</li>
+    <li>VPN Concentrator</li>
+  </ul>
+  <h3>Section E: Configuration Documentation</h3>
+  <ul>
+    <li>Configuration Management</li>
+    <li>Wire Schemes</li>
+    <li>Cable Management</li>
+    <li>Asset Management</li>
+    <li>Performance Baselines</li>
+    <li>Change Management</li>
+  </ul>
+  <h3>Section F: Network Performance</h3>
+  <ul>
+    <li>Network Optimization</li>
+    <li>Traffic Shaping</li>
+    <li>High Availability</li>
+    <li>Caching Engines</li>
+    <li>CARP</li>
+  </ul>
+  <h3>Section G: Network Monitoring</h3>
+  <ul>
+    <li>SNMP</li>
+    <li>Logging</li>
+    <li>Network Sniffer</li>
+    <li>Port Scanners</li>
+    <li>Traffic Analysis</li>
+  </ul>
+<h2>Session 4</h2>
+  <h3>Section A: Troubleshooting Methodology</h3>
+  <ul>
+    <li>Troubleshooting</li>
+    <li>CompTIA Troubleshooting Process</li>
+    <li>Identify the Problem</li>
+    <li>Establish a Theory</li>
+    <li>Test the Theory</li>
+    <li>Establish a Plan</li>
+    <li>Implement the Solution</li>
+    <li>Verify Full System Functionality</li>
+    <li>Document</li>
+  </ul>
+  <h3>Section B: Troubleshooting Switches</h3>
+  <ul>
+    <li>Switching Loop</li>
+    <li>Bad Cables / Improper Cable Types</li>
+    <li>Port Configuration</li>
+    <li>VLAN Assignment</li>
+    <li>Mismatched MTU</li>
+    <li>MTU Black Hole</li>
+    <li>Power Failure</li>
+    <li>Bad Modules (SFPs, GBICs)</li>
+  </ul>
+  <h3>Section C: Troubleshooting Routers</h3>
+  <ul>
+    <li>Common Problems with Routers</li>
+    <li>Bad or Missing Routes</li>
+    <li>Configuration Errors</li>
+  </ul>
+  <h3>Section D: Troubleshooting Media</h3>
+  <ul>
+    <li>Common Cable Problems</li>
+    <li>Media Troubleshooting Tools</li>
+    <li>Protocol Analyzers</li>
+  </ul>
+  <h3>Section E: Troubleshooting Wireless</h3>
+  <ul>
+    <li>Interference</li>
+    <li>Signal Strength</li>
+    <li>Configurations</li>
+    <li>Bounce</li>
+    <li>Latency</li>
+  </ul>
+  <h3>Section F: Troubleshooting Software</h3>
+  <ul>
+    <li>Troubleshooting Tools</li>
+    <li>PING</li>
+    <li>TRACERT</li>
+    <li>IPCONFIG</li>
+    <li>NSLOOKUP</li>
+    <li>ARP</li>
+    <li>NETSTAT</li>
+  </ul>
+  <h3>Section G: Using Protocol Analyzers</h3>
+  <ul>
+    <li>Protocol Analyzer Overview</li>
+    <li>Wireshark</li>
+  </ul>
+<h2>Session 5</h2>
+  <h3>Section A: Security Concepts</h3>
+  <ul>
+    <li>CIA</li>
+    <li>AAA</li>
+    <li>Least Privilege</li>
+    <li>Attack Surface</li>
+    <li>Defense in Depth</li>
+    <li>Security Controls</li>
+    <li>Control Classes</li>
+  </ul>
+  <h3>Section B: Security Threats</h3>
+  <ul>
+    <li>Internal Threats</li>
+    <li>External Threats</li>
+    <li>Types of Attackers</li>
+    <li>Types of Attacks</li>
+    <li>Wireless Threats</li>
+    <li>Attacks</li>
+    <li>Mitigation Techniques</li>
+    <li>Risk Analysis</li>
+  </ul>
+  <h3>Section C: Security Authentication</h3>
+  <ul>
+    <li>Authentication</li>
+    <li>Credential Types</li>
+    <li>Weak Authentication</li>
+    <li>Strong Authentication</li>
+    <li>RADIUS Servers</li>
+    <li>User Directories</li>
+    <li>Windows Authentication</li>
+    <li>802.1X with EAP</li>
+    <li>Network Access Control</li>
+    <li>Public Key Infrastructure</li>
+    <li>Single Sign-On</li>
+  </ul>
+  <h3>Section D: Installing Firewalls</h3>
+  <ul>
+    <li>Firewalls</li>
+    <li>Network Firewalls</li>
+    <li>Packet Filtering Firewalls</li>
+    <li>Stateful Inspection Firewalls</li>
+    <li>Personal Firewall</li>
+    <li>Hardware vs. Software</li>
+    <li>Firewall Rules</li>
+    <li>NAT, PAT, and DMZs</li>
+  </ul>
+  <h3>Section E: Network Level Security</h3>
+  <ul>
+    <li>Remote Access Solutions</li>
+    <li>ACLs</li>
+    <li>Virtual Private Networking</li>
+    <li>VPN Protocols</li>
+    <li>IPSec</li>
+    <li>Internet Key Exchange</li>
+    <li>AH and ESP</li>
+  </ul>
+  <h3>Section F: Wireless Security</h3>
+  <ul>
+    <li>Encryption Protocols</li>
+    <li>MAC Filtering</li>
+    <li>Device Placement and Signal Strength</li>
+  </ul>
+  <h3>Section G: Security Appliances</h3>
+  <ul>
+    <li>IDS and IPS</li>
+    <li>Vulnerability Scanners</li>
+    <li>Honeypots and Honeynets</li>
+  </ul>
+  <h3>Section H: Game Over</h3>
+  <ul>
+    <li>Tom vs. Virus</li>
+  </ul>

@@ -1,0 +1,114 @@
+<p><strong>Module 1: Creating Robust and Efficient Apps for SharePoint</strong></p>
+<blockquote>In this module, you will review key aspects of the apps for SharePoint development platform, including capabilities, packaging and infrastructure, client-side programming for SharePoint, and app security. You will also learn about how to optimize the performance of your apps.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Apps for SharePoint</li>
+  <li>Communicating with SharePoint from an App</li>
+  <li>Authenticating and Authorizing Apps for SharePoint</li>
+  <li>Designing Apps for Performance</li>
+</ul>
+<p><strong>Module 2: Developing Managed Metadata Solutions</strong></p>
+<blockquote>In this module you will see metadata objects and how they are used to categorize items so that you can learn how to work with them in code. You will also see how to use the advanced features of terms and manage permissions and roles. In this way you can provide a full set of terms that users can tag content with.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Managed Metadata</li>
+  <li>Configuring Managed Metadata Term Sets</li>
+  <li>Working with Managed Metadata Fields</li>
+</ul>
+<p><strong>Module 3: Interacting with the Search Service</strong></p>
+<blockquote>The module provides an overview of the search service architecture in SharePoint 2013 as it relates to developers, before describing how to construct queries using Keyword Query Language (KQL) and FAST Query Language (FQL) and submit these queries to the search service.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>SharePoint 2013 Search Service</li>
+  <li>Building Search Queries with KQL and FQL</li>
+  <li>Executing Search Queries from Code</li>
+</ul>
+<p><strong>Module 4: Customizing the Search Experience</strong></p>
+<blockquote>In this module you will create and modify queries as well as manage search results.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Customizing Query Processing</li>
+  <li>Customizing Search Results</li>
+  <li>Configuring Result Types and Display Templates</li>
+  <li>Customizing Content Processing</li>
+</ul>
+<p><strong>Module 5: Implementing Enterprise Content Management</strong></p>
+<blockquote>In this module, you will work with SharePoint document management features in code.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Working with eDiscovery</li>
+  <li>Working with Content Management</li>
+  <li>Automating Records Management</li>
+</ul>
+<p><strong>Module 6: Developing a Publishing Site for Web Content</strong></p>
+<blockquote>In this module, you will learn how to utilize develop web content solutions for publishing sites.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Programming with the Web Content Publishing API</li>
+  <li>Developing Page Components for Web Content Publishing</li>
+</ul>
+<p><strong>Module 7: Structuring and Publishing Websites for All Users</strong></p>
+<blockquote>This module will focus on providing you with the knowledge to build web sites that are mobile device friendly, support multiple language and with proper navigation.  This will be accomplished by introducing you to SharePoint features including device channels, managed navigation and variations.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Website Structure and Navigation</li>
+  <li>Publishing Content</li>
+  <li>Publishing to Mobile Devices</li>
+  <li>Multi-language sites using Variations</li>
+</ul>
+<p><strong>Module 8: Developing Optimized Internet Sites</strong></p>
+<blockquote>In this module, you will learn how to optimize your site for Internet search engines, and maximize the performance of rendering your site content.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Optimizing a SharePoint Site for Search Engines</li>
+  <li>Optimizing Performance and Scalability</li>
+</ul>
+<p><strong>Module 9: Working with Business Connectivity Services</strong></p>
+<blockquote>In this module, you will learn how to develop Business Connectivity Services (BCS) solutions.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Business Connectivity Services in SharePoint 2013</li>
+  <li>Creating BDC Models in SharePoint Designer</li>
+  <li>Creating BDC Models in Visual Studio 2012</li>
+</ul>
+<p><strong>Module 10: Creating Advanced Business Data Connectivity Models</strong></p>
+<blockquote>This module will explore how to create custom search connectors using several different methodologies and lastly, you will learn the advanced topic of the new SharePoint 2013 external event notification feature to support SharePoint list features such as alerts and event receivers when external data changes.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Configuring BDC Models for Search</li>
+  <li>Developing Custom Connectivity Components</li>
+  <li>Working with External Events and Notifications</li>
+</ul>
+<p><strong>Module 11: Working with Business Data In Client Applications</strong></p>
+<blockquote>BCS provides a framework to access via a wide array of protocols such as WCF and OData services to a myriad of external data sources, ranging from data stored in databases to custom proprietary data stores. In this module you will work with Business Data in both custom and composite solutions.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Working with Business Data in Composite Solutions</li>
+  <li>Working with Business Data in Custom Solutions</li>
+  <li>Working with Business Data in Client Applications</li>
+</ul>
+<p><strong>Module 12: Managing and Accessing User Profile Data</strong></p>
+<blockquote>In this module, you will review key aspects of the user profile service, and see how you can write client-side and server-side code to access, update and manage user profile properties.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>User Profile Data in SharePoint 2013</li>
+  <li>Options for Accessing User Profile Data</li>
+  <li>Managing User Profile Data</li>
+  <li>Managing User Profile Properties</li>
+</ul>
+<p><strong>Module 13: Developing Microsoft SharePoint Server 2013 Advanced Solutions</strong></p>
+<blockquote>In this module, you will see some of the social features in SharePoint 2013, and you will see how you can develop apps which extend and customize the social workload; tailoring the experience for your business needs.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Social Workload</li>
+  <li>Developing Social Solutions</li>
+  <li>Working with Feeds</li>
+</ul>
+<p><strong>Module 14: Monitoring and Troubleshooting Custom SharePoint Solutions</strong></p>
+<blockquote>This module will introduce methods that you can use to improve the performance and scalability of solutions and apps.</blockquote>
+<p>Lessons</p>
+<ul>
+  <li>Debugging SharePoint Apps in Visual Studio</li>
+  <li>Diagnosing Faults in Deployed Apps</li>
+  <li>Testing Performance and Scalability</li>
+</ul>

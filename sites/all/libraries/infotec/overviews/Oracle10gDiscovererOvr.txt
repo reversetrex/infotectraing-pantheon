@@ -1,0 +1,1 @@
+This course provides hands-on experience with administration tasks for Oracle’s Graphical User Interface (GUI) based ad hoc query and data access tool – Discoverer.

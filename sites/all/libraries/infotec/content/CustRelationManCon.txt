@@ -1,0 +1,181 @@
+<p><strong>Module I - Overview of CRM</strong></p>
+<ul>
+  <li>CRM Concepts</li>
+  <li>CRM - More definitions</li>
+  <li>CRM Drivers</li>
+  <li>Constituents of a Good CRM Strategy</li>
+  <li>CRM and Technology</li>
+  <li>CRM Solutions Map</li>
+  <li>The Concept of e-CRM</li>
+  <li>e-CRM and CRM</li>
+  <li>Implementation Challenges</li>
+</ul>
+
+<p><strong>Module II - Developing a Customer Strategy</strong></p>
+<ul>
+  <li> Section 1: Fundamentals    of Customer Strategy
+    <ul>
+      <li>Customer Strategy Basics</li>
+      <li>Customer Loyalty</li>
+      <li>Customer Satisfaction</li>
+      <li>Customer profiling and Modeling</li>
+    </ul>
+  </li>
+  <li>Section 2: Evolution of a Customer Centric Enterprise
+    <ul>
+      <li>Customer Centric Enterprise - Background</li>
+      <li>Customer Centricity - Concepts</li>
+      <li>Product Centricity Vs. Customer Centricity</li>
+      <li>Customer Centric Strategy</li>
+      <li>Evolution of Customer Centric Enterprise    (CCE)</li>
+      <li>Specific Adaptations of a CCE</li>
+    </ul>
+  </li>
+  <li>Section 3: Discussing the core of successful CRM initiatives
+    <ul>
+      <li>Core of any successful CRM initiative</li>
+      <li>Seven Habits of a successful CCE</li>
+    </ul>
+  </li>
+  <li>Section 4: Mapping People, Processes and Technology
+    <ul>
+      <li>Revisiting the basic precepts</li>
+      <li>Discussing People, Processes and Technology</li>
+      <li>Transitioning from product centricity -Processes</li>
+      <li>Transitioning from product centricity -People</li>
+      <li>Transitioning from product centricity &ndash;Technology</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Module III - Customer Lifecycle Management and Lifetime Value</strong></p>
+<ul>
+  <li>Concept of Customer lifecycle</li>
+  <li>Customer Life Cycle stages - Illustrated</li>
+  <li>Customer Life Cycle Management</li>
+  <li>Managing the Customer Life Cycle in a CCE</li>
+  <li>Concept of Customer Lifetime Value</li>
+  <li>Customer Lifetime value assessment</li>
+</ul>
+
+<p><strong>Module IV - CRM Technology</strong></p>
+<ul>
+  <li>CRM Ecosystem</li>
+  <li>Customer Interaction and CRM</li>
+  <li>Three Pillars of CRM</li>
+  <li>Operational CRM</li>
+  <li>Analytical cycle of CRM</li>
+  <li>Analytical CRM</li>
+  <li>Collaborative CRM</li>
+</ul>
+
+<p><strong>Module V - Operational CRM</strong></p>
+<ul>
+  <li>Sales Force Automation</li>
+  <li>Account Management - Illustrated</li>
+  <li>Opportunity Management -Illustrated</li>
+  <li>Sales Forecasting</li>
+  <li>Sales Funnel management</li>
+  <li>Sales Pipeline Management</li>
+  <li>Marketing Automation</li>
+  <li>Campaign Management</li>
+  <li>Analyzing, Learning, Listening and Responding</li>
+  <li>Workflow Management</li>
+  <li>Marketing Communications - Illustrated</li>
+  <li>Contact Management</li>
+  <li>Contact Management - Illustrated</li>
+  <li>Ticket Management</li>
+</ul>
+
+<p><strong>Module VI - Analytical CRM</strong></p>
+<ul>
+  <li>Critical components of Customer Centric Strategies</li>
+  <li>Analytical CRM defined</li>
+  <li>CRM Intelligence Management Cycle</li>
+  <li>Analytics and Customer Life Cycle Management</li>
+  <li>CRM Data warehouse</li>
+  <li>Analytical CRM Components</li>
+  <li>Benefits from CRM Analytics</li>
+  <li>Customer Centric Data Mining</li>
+  <li>Analytical CRM application areas</li>
+  <li>Teradata Industry CRM</li>
+  <li>Requirements from an Analytical CRM application</li>
+  <li>Data Extraction - Illustrated</li>
+  <li>Data Enhancement - Illustrated</li>
+  <li>Clustering and profiling</li>
+  <li>Model building and Analysis</li>
+  <li>Scoring</li>
+  <li>CRM Analytics - Sample vendor options</li>
+  <li>Common Implementation Problems</li>
+</ul>
+
+<p><strong>Module VII - Collaborative CRM</strong></p>
+<ul>
+  <li>Collaborative CRM</li>
+  <li>Customer Centricity revisited</li>
+  <li>Channel evolution</li>
+  <li>Multi-channel Strategy</li>
+  <li>Multi-Enterprise Value Networks</li>
+  <li>Mapping Customer interactions into Life Cycle stages</li>
+  <li>Customer Interaction Centers</li>
+  <li>Avaya Communications architecture -Illustrated</li>
+  <li>Customer Interaction     Center - Detailed</li>
+  <li>Avaya Unified Communication model -Illustrated</li>
+  <li>Call Center - Explained</li>
+  <li>Evolution of Contact Centers</li>
+  <li>Contact Centers -Evolution Phases</li>
+  <li>Technology Transformation and Migration</li>
+  <li>Customer interaction -illustrated</li>
+  <li>What do portals address?</li>
+  <li>Integrating Customer Information through portals</li>
+  <li>Employee Portal</li>
+  <li>Customer Portal</li>
+  <li>Partner Portal</li>
+</ul>
+
+<p><strong>Module VIII - CRM Project Management</strong></p>
+<ul>
+  <li>CRM Initiative- Phases</li>
+  <li>Planning the CRM initiative</li>
+  <li>Preparatory Phase</li>
+  <li>Preparatory Phase - Activities</li>
+  <li>Defining the CRM vision</li>
+  <li>Assessing CRM readiness (Organizational perspective)</li>
+  <li>Analyzing business processes</li>
+  <li>Auditing the IS/IT infrastructure</li>
+  <li>Establishing CRM project objectives</li>
+  <li>Building a business case for CRM</li>
+  <li>Building the team</li>
+  <li>Ensuring involvement of key people</li>
+  <li>Prioritizing the requirements</li>
+  <li>Establishing the budget</li>
+  <li>Establishing tentative timelines</li>
+  <li>Short listing prospective CRM solution vendors</li>
+  <li>Selecting the CRM solution</li>
+  <li>Selecting the solution partner</li>
+  <li>Implementation Phase</li>
+  <li>CRM implementation project methodology</li>
+  <li>Definition Stage</li>
+  <li>Analysis Stage</li>
+  <li>Design &amp; prototyping Stage</li>
+  <li>Configuration &amp; Testing</li>
+  <li>Deployment Stage</li>
+  <li>Managing Change</li>
+  <li>Training is key to implementing change</li>
+  <li>Post Implementation Phase</li>
+  <li>Post Implementation Support</li>
+  <li>Problem areas to look out for</li>
+</ul>
+
+<p><strong>Module IX - Building a Business Case for CRM</strong></p>
+<ul>
+  <li>Need for a Business Case</li>
+  <li>Elements of a good Business Case</li>
+  <li>Challenges in quantifying CRM Benefits</li>
+  <li>Categorization of CRM Benefits</li>
+  <li>CRM Metrics Framework</li>
+  <li>CRM Benefits -Customer&rsquo;s perspective</li>
+  <li>A methodology for ROI Estimation</li>
+  <li>Presenting the benefits - Illustration</li>
+  <li>Identifying and mitigating risks</li>
+</ul>

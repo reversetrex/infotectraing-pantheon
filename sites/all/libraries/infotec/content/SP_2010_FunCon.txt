@@ -1,0 +1,67 @@
+<p><strong>Module 1: Course  Overview</strong></p>
+<p><strong>Module 2: SharePoint  2010 Introduction</strong></p>
+<ul>
+  <li>What is SharePoint?</li>
+  <li>The SharePoint Product Family</li>
+  <li>SharePoint 2010 Slices</li>
+  <li>How SharePoint Can Benefit You</li>
+  <li>How SharePoint Can Benefit Your Organization</li>
+  <li>SharePoint Search Features</li>
+  <li>Document Management Features</li>
+  <li>Social Computing Features</li>
+</ul>
+<p><strong>Module 3:  Collaboration Experience</strong></p>
+<ul>
+  <li>SharePoint Components</li>
+  <li>The Basic Process</li>
+  <li>Site Hierarchy</li>
+  <li>The Team Site Template</li>
+  <li>Site Navigation</li>
+  <li>Additional Elements of a Team Site</li>
+  <li>Content Structures (Lists and Libraries)</li>
+  <li>Office Integration</li>
+  <li>Administrator Role, Users, Groups, and  Permissions</li>
+  <li>Security Trimmed Interface</li>
+  <li>2010 UI Improvements</li>
+  <ul>
+    <li>Silverlight</li>
+    <li>AJAX</li>
+    <li>Ribbon</li>
+    <li>Wiki Home Page</li>
+  </ul>
+</ul>
+<p><strong>Module 4: Working  with Lists</strong></p>
+<ul>
+  <li>Lists Overview</li>
+  <li>Add, modify, and delete list items </li>
+  <li>Recycle Bin</li>
+  <li>List Views Discussion</li>
+  <li>Observe Public views</li>
+  <li>Create a personal view</li>
+  <li>Sort and filter lists using columns</li>
+</ul>
+<p><strong>Module 5: Working  with a Library</strong></p>
+<ul>
+  <li>What is a Library?</li>
+  <li>Benefits of a Library</li>
+  <li>Create new documents and upload documents to a  Document Library</li>
+  <li>Create a folder in a Library</li>
+  <li>Create Wiki Pages in a Wiki Page Library</li>
+  <li>Delete files in a Library and use the Recycle  Bin</li>
+</ul>
+<p><strong>Module 6: Office  Integration</strong></p>
+<ul>
+  <li>Connect a SharePoint List to Outlook</li>
+  <li>Synchronize Documents for Offline Use</li>
+  <li>Export a List to Excel</li>
+  <li>Open a List in Access</li>
+  <li>Connect to SharePoint Workspace</li>
+  <li>Office Web Apps</li>
+</ul>
+<p><strong>Module 7: Customize  your Environment as a Site Member</strong></p>
+<ul>
+  <li>Regional Settings</li>
+  <li>Create Alerts</li>
+  <li>Search the Team Site</li>
+</ul>
+<strong>Module 8: Class Wrap-Up</strong>

@@ -1,0 +1,24 @@
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Perform and troubleshoot an attended installation of the Windows XP operating system. </li>
+  <li> Perform post installation configuration (user configuration, apply service packs, etc.). </li>
+  <li> Answer end user questions related to upgrading from a previous version of Windows. </li>
+  <li> Troubleshoot system startup and user logon problems. </li>
+  <li> Monitor and analyze system performance. </li>
+  <li> Monitor, manage, and troubleshoot access to files and folders. </li>
+  <li> Troubleshoot connecting to local and network print devices. </li>
+  <li> Configure and troubleshoot hardware devices and drivers. </li>
+  <li> Configure and troubleshoot storage devices. </li>
+  <li> Configure and troubleshoot display devices. </li>
+  <li> Troubleshoot network protocols and services. </li>
+  <li> Configure and troubleshoot Advanced Configuration and Power Interface (ACPI). </li>
+  <li> Configure and troubleshoot input and output (I/O) devices. </li>
+  <li> Configure support for multiple languages or multiple locations. </li>
+  <li> Troubleshoot security settings and local security policy. </li>
+  <li> Configure and troubleshoot local user and group accounts. </li>
+  <li> Troubleshoot the TCP/IP protocol. </li>
+  <li> Configure and troubleshoot Internet Connection Firewall (ICF) settings. </li>
+  <li> Troubleshoot name resolution issues. </li>
+  <li> Configure and troubleshoot remote connections. </li>
+  <li> Configure and troubleshoot end user systems using remote Desktop and Remote Assistance. </li>
+</ul>

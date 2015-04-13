@@ -1,0 +1,9 @@
+<p> After completing this workshop, students will be able to: </p>
+<ul>
+  <li> Build MDI applications. </li>
+  <li>Customize Windows Forms and controls. </li>
+  <li>Create customized print components. </li>
+  <li>Perform drag-and-drop operations and implement Clipboard support. </li>
+  <li>Perform asynchronous tasks in Windows Forms by using multithreaded techniques. </li>
+  <li>Enhance the presentation of Windows Forms applications. </li>
+</ul>

@@ -1,0 +1,11 @@
+<p> After completing the course, students will be able to: </p>
+<ul>
+  <li> Describe data-centric applications, ADO.NET architecture, and ADO.NET and XML. </li>
+  <li> Connect to SQL Server and other data sources. </li>
+  <li> Perform connected database operations including executing SELECT commands, database definition commands, dynamic SQL commands, and commands that return data from a SQL Server database in XML. </li>
+  <li> Build a DataSet schema, populate it with data, and modify the data programmatically. </li>
+  <li> Build a DataSet from an existing data source. </li>
+  <li> Use XML techniques while working with DataSets, including mapping tables and columns, creating XSD schemas, building strongly typed DataSets, and interacting with XMLDataDocuments. </li>
+  <li> Build a Web service that uses ADO.NET to query and update a data source. </li>
+  <li> Troubleshoot errors within an ADO.NET application. </li>
+</ul>

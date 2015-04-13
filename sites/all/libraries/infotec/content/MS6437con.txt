@@ -1,0 +1,17 @@
+<p><strong>Module 1: Designing IIS Web Farms</strong> - Students will learn the process of designing IIS Web Farms with Windows  2008 and IIS 7. They will learn how to select the appropriate hardware and  software platforms. You will learn techniques to leverage Web Farm Availability  and Scalability. They will also learn how to select the proper storage.</p>
+
+<p><strong>Module 2: Optimizing IIS Performance and Stability</strong> - The students will learn about Optimizing IIS Performance and Stability.</p>
+
+<p><strong>Module 3: Designing IIS Security</strong> - In this module students will learn to establish and maintain very tight  security using Microsoft IIS 7.0.</p>
+
+<p><strong>Module 4: Design IIS Maintenance and UDDI</strong> - The students will learn how to plan for an IIS installation, taking  into account these new features. They will also learn how to deploy UDDI  services.</p>
+
+<p><strong>Module 5: Designing a Terminal Services Infrastructure</strong> - The Students will learn how to design a terminal services infrastructure including how to design a terminal services licensing strategy and how to design for remote access with TS Gateways, TS Session Broker,  RemoteApp programs, and TS Web Access.</p>
+
+<p><strong>Module 6: Designing a Terminal Services Maintenance Strategy</strong> - The students will be introduced to design and implementation planning  using WSRM policies for application resource and reporting. We will also  discuss group policy settings for terminal servers and how to design high  availability for terminal services. Finally, we will specify monitoring,  maintenance, and recovery requirements and procedures for terminal services.</p>
+
+<p><strong>Module 7: Design Windows Media Services Infrastructure Administration</strong> - The students will learn about designing Windows Media Services in  Windows Server 2008. They will become familiarized with live and on-demand  content delivery.</p>
+
+<p><strong>Module 8: Design Virtualization Infrastructure</strong> - The students will implement virtualization to consolidate servers, deploy branch office infrastructure servers, support legacy applications, and  create a test environment.</p>
+
+<p><strong>Module 9: Designing Virtualization Provisioning</strong> - The students will learn how to determine virtualization appropriateness and virtual  server provisioning. Students will also learn the importance of customizing  virtual servers to standard configurations and also learn about virtual server deployment.</p>

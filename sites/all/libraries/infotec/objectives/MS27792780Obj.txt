@@ -1,0 +1,27 @@
+<p><strong>MS 2779</strong></p>
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Create databases and database files </li>
+  <li> Create data types and tables </li>
+  <li> Use XML-related features in Microsoft SQL Server 2005 </li>
+  <li> Plan, crease and optimize indexes </li>
+  <li> Implement data integrity in Microsoft SQL Server 2005 databases by using constraints, triggers and XML schemas </li>
+  <li> Implement views </li>
+  <li> Implement stored procedures and functions </li>
+  <li> Implement managed code in the database. </li>
+  <li> Use Service Broker to build a messaging-based solution </li>
+</ul>
+<p><strong>MS 2780</strong></p>
+<p> After completing this course, students will be able to: </p>
+<ul>
+  <li> Install and configure SQL Server 2005 </li>
+  <li> Manage database files </li>
+  <li> Manage security </li>
+  <li> Perform administrative tasks </li>
+  <li> Back up databases </li>
+  <li> Restore databases </li>
+  <li> Monitor SQL Server </li>
+  <li> Troubleshoot SQL Server </li>
+  <li> Transfer data </li>
+  <li> Maintain high availability </li>
+</ul>
