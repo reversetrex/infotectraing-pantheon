@@ -47,7 +47,7 @@ namespace ecpi {
 				if(!file_exists($dir)) {
 					// create the log directory if needed
 					if( mkdir($dir, 0774, true) === false) {
-						$dir = ./../../../../default/files . '/infotechlogs';
+						$dir = './../../../../default/files' . '/infotechlogs';
   			/**
 				* $dir = dirname(__FILE__) . '/infotechlogs';
 				*/
