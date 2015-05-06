@@ -598,7 +598,27 @@ if (defined('PANTHEON_ENVIRONMENT')) {
   $conf['cache_lifetime'] = 0;
   // Cached page compression - always off.
   $conf['page_compression'] = 0;
+  // All Pantheon Environments.
 
+  // Setup Redis Caching
+  if (defined('PANTHEON_ENVIRONMENT')) {
+    // Use Redis for caching.
+    $conf['redis_client_interface'] = 'PhpRedis';
+    $conf['cache_backends'][] = 'sites/all/modules/redis/redis.autoload.inc';
+    $conf['cache_default_class'] = 'Redis_Cache';
+    $conf['cache_prefix'] = array('default' => 'pantheon-redis');
+    // Do not use Redis for cache_form (no performance difference).
+    $conf['cache_class_cache_form'] = 'DrupalDatabaseCache';
+    // Use Redis for Drupal locks (semaphore).
+    $conf['lock_inc'] = 'sites/all/modules/redis/redis.lock.inc';
+  }
+
+  // Optional Pantheon redis settings.
+  // Higher performance for larger page counts.
+  if (defined('PANTHEON_ENVIRONMENT')) {
+    // Use the database for cached HTML.
+    $conf['cache_class_cache_page'] = 'DrupalDatabaseCache';
+  }
 
   if (PANTHEON_ENVIRONMENT == 'dev') {
     // Google Analytics.
