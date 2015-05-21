@@ -1,0 +1,18 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe solutions and features related to managing Windows 8.1 in an enterprise network environment.</li>
+  <li>Determine requirements and perform the tasks for installing and deploying Windows 8.1.</li>
+  <li>Manage profiles and user state between Windows devices.</li>
+  <li>Determine the most appropriate management tools to configure Windows 8.1 settings.</li>
+  <li>Configure disks, partitions, volumes, and device drivers in a Windows 8.1 system.</li>
+  <li>Configure network connectivity.</li>
+  <li>Configure resource connectivity for both domain-joined and non-domain joined PCs and devices.</li>
+  <li>Implement Windows 8.1 technologies to secure network connections.</li>
+  <li>Configure file, folder, and printer access.</li>
+  <li>Implement tools and technologies that can help secure Windows 8.1 PCs and devices.</li>
+  <li>Configure and control desktop apps, Windows Store apps, and virtual apps.</li>
+  <li>Optimize and maintain Windows 8.1 PCs and devices.</li>
+  <li>Configure mobile computer settings and to enable remote access.</li>
+  <li>Determine how to recover Windows 8.1 from various failures.</li>
+  <li>Describe and configure Client Hyper-V.</li>
+</ul>

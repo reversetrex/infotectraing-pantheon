@@ -1,0 +1,9 @@
+<ul>
+  <li>Module 1: Basic Network and Routing Concepts</li>
+  <li>Module 2: EIGRP Implementation</li>
+  <li>Module 3: OSPF Implementation</li>
+  <li>Module 4: Configuration of Redistribution</li>
+  <li>Module 5: Path Control Implementation</li>
+  <li>Module 6: Enterprise Internet Connectivity</li>
+  <li>Module 7: Routers and Routing Protocol Hardening</li>
+</ul>

@@ -1,0 +1,78 @@
+<p><strong>Module 1: Windows 8.1 in an Enterprise Network Environment</strong></p>
+<p>This module explains how the features and related solutions in Windows 8.1 are used to support intranet, Internet, and non-domain joined Windows 8.1 clients. It also explains the changes to the Windows 8.1 user interface and how to perform customizations of the desktop and Start screen.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Windows 8.1 in an Enterprise Environment</li>
+  <li>Overview of Windows 8.1</li>
+</ul>
+<p><strong>Module 2: Installing and Upgrading to Windows 8.1</strong></p>
+<p>This module explains how to identify hardware, software, and infrastructure readiness for installing Windows 8.1. It also describes the methods to manage volume activation in Windows 8.1 and how to migrate user state and settings when upgrading to Windows 8.1.</p>
+<p>Lessons</p>
+<ul>
+  <li>Preparing to Install and Deploy Windows 8.1</li>
+  <li>Installing Windows 8.1</li>
+  <li>Volume Activation for Windows 8.1</li>
+  <li>Migrating User State and Settings</li>
+</ul>
+<p><strong>Module 3: Configuring and Managing Windows 8.1</strong></p>
+<p>This module explains the tools used for local and remote management of Windows 8.1. It also explains how to configure and manage common settings in Windows 8.1 by using Windows PowerShell, Group Policy, and Windows Intune.</p>
+<p>Lessons</p>
+<ul>
+  <li>Tools Used to Perform Local and Remote Management of Windows 8.1</li>
+  <li>Using Windows PowerShell to Configure and Manage Windows 8.1</li>
+  <li>Using Group Policy to Manage Windows 8.1</li>
+  <li>Administering Windows 8.1 by Using Windows Intune</li>
+  <li>Configuring User State Virtualization</li>
+</ul>
+<p><strong>Module 4: Implementing an Application Strategy for Windows 8.1</strong></p>
+<p>This module explains the application deployment options for Windows 8.1. It also explains how to install and manage Windows Store apps, secure Internet Explorer, and configure application restrictions.</p>
+<p>Lessons</p>
+<ul>
+  <li>Application Deployment Options in Windows 8.1</li>
+  <li>Managing Windows Store Apps</li>
+  <li>Configuring Internet Explorer Settings</li>
+  <li>Configuring Application Restrictions in an Enterprise</li>
+</ul>
+<p><strong>Module 5: Managing Devices and Resource Access</strong></p>
+<p>This module explains the options for managing non-domain member devices in a Windows 8.1 environment. It also explains how to configure Workplace Join and Work Folders for non-domain member devices.</p>
+<p>Lessons</p>
+<ul>
+  <li>Options for Managing Non-Domain Member Devices</li>
+  <li>Configuring Workplace Join</li>
+  <li>Configuring Work Folders and Remote Business Data Removal</li>
+</ul>
+<p><strong>Module 6: Securing Windows 8.1 Devices</strong></p>
+<p>This module explains the methods used for authentication and authorization in Windows 8.1. It also explains how to secure data by using BitLocker and configure User Account Control (UAC) settings. It then explains how to configure Windows SmartScreen and Windows Defender to protect against malware. It also describes how to configure and implement Windows Firewall.</p>
+<p>Lessons</p>
+<ul>
+  <li>Authentication and Authorization in Windows 8.1</li>
+  <li>Securing Data by Using BitLocker</li>
+  <li>Configuring UAC</li>
+  <li>Guarding Against Malware</li>
+  <li>Configuring Windows Firewall</li>
+</ul>
+<p><strong>Module 7: Configuring Remote Access</strong></p>
+<p>This module explains how to implement a simple DirectAccess deployment. It explains the process for implementing an advanced DirectAccess infrastructure. It also explains how to enable and configure virtual private network (VPN) access.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of DirectAccess</li>
+  <li>Advanced DirectAccess Infrastructure</li>
+  <li>Configuring VPN Access</li>
+</ul>
+<p><strong>Module 8: Monitoring and Recovering Windows 8.1</strong></p>
+<p>This module explains how to monitor and troubleshoot performance in Windows 8.1. It describes the Windows 8.1 startup process and how to troubleshoot Windows 8.1 startup. It then explains the recovery options in Windows 8.1 and how to recover Windows 8.1.</p>
+<p>Lessons</p>
+<ul>
+  <li>Monitoring and Troubleshooting Performance in Windows 8.1</li>
+  <li>Troubleshooting Windows 8.1 Startup</li>
+  <li>Recovery Options in Windows 8.1</li>
+</ul>
+<p><strong>Module 9: Implementing Client Hyper-V in Windows 8.1</strong></p>
+<p>This module explains Client Hyper-V for Windows 8.1. It also explains how to manage virtual hard disks and checkpoints.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Client Hyper-V</li>
+  <li>Creating Virtual Machines</li>
+  <li>Managing Virtual Hard Disks</li>
+  <li>Managing Checkpoints</li>
+</ul>

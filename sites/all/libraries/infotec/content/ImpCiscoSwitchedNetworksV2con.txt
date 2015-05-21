@@ -1,0 +1,9 @@
+<ul>
+  <li>Module 1: Basic Concepts and Network Design</li>
+  <li>Module 2: Campus Network Architecture</li>
+  <li>Module 3: Spanning Tree Implementation</li>
+  <li>Module 4: Configuring Inter-VLAN Routing</li>
+  <li>Module 5: Implementing High Availability Networks</li>
+  <li>Module 6: First Hop Redundancy Implementation</li>
+  <li>Module 7: Campus Network Security</li>
+</ul>

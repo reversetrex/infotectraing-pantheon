@@ -1,0 +1,17 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the processes involved in planning and using a troubleshooting methodology for Windows 8.1.</li>
+  <li>Troubleshoot startup issues and operating system services on a Windows 8.1 system.</li>
+  <li>Resolve issues related to hardware devices and device drivers.</li>
+  <li>Troubleshoot computers remotely.</li>
+  <li>troubleshoot issues related to network connectivity.</li>
+  <li>Troubleshoot client configuration failures and GPO application issues.</li>
+  <li>Troubleshoot issues related to user settings.</li>
+  <li>Troubleshoot remote connectivity issues.</li>
+  <li>Resolve issues related to accessing resources from computers that are domain-joined.</li>
+  <li>Resolve issues related to accessing resources from computers that are not domain-joined.</li>
+  <li>Troubleshoot issues related to application installation and operation.</li>
+  <li>Maintain Windows 8.1 following deployment.</li>
+  <li>Design and implement extranet connectivity for Windows 8.</li>
+  <li>Recover a computer running Windows 8.1.</li>
+</ul>

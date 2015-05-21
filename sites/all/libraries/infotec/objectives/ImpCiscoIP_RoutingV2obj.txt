@@ -1,0 +1,10 @@
+<p>Upon completing this course, the learner will be able to meet these overall objectives:</p>
+<ul>
+  <li>Describe routing protocols, different remote connectivity options and their impact on routing and implement RIPng </li>
+  <li>Configure EIGRP in IPv4 and IPv6 environment </li>
+  <li>Configure OSPF in IPv4 and IPv6 environment </li>
+  <li>Implement route redistribution using filtering mechanisms </li>
+  <li>Implement path control using policy based routing and IP SLA </li>
+  <li>Implement enterprise Internet connectivity </li>
+  <li>Secure Cisco routers according to best practices and configure authentication for routing protocols </li>
+</ul>

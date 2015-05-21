@@ -1,0 +1,10 @@
+<p>Upon completing this course, the learner will be able to meet these overall objectives:</p>
+<ul>
+  <li>Describe the hierarchical campus structure, basic switch operation, use of SDM templates, PoE, and LLDP</li>
+  <li>Implement VLANs, trunks, explain VTP, implement DHCP in IPv4 and IPv6 environment, and configure port aggregation</li>
+  <li>Implement and optimize STP mechanism that best suits your network - PVSTP+, RPVSTP+, or MSTP</li>
+  <li>Configure routing on a multilayer switch</li>
+  <li>Configure NTP, SNMP, IP SLA, port mirroring, and verify StackWise and VSS operation</li>
+  <li>Implement First Hop redundancy in IPv4 and IPv6 environments</li>
+  <li>Secure campus network according to recommended practices</li>
+</ul>

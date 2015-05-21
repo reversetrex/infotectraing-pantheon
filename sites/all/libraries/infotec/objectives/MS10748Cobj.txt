@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the System Center 2012 R2 Configuration Manager infrastructure.</li>
+  <li>Plan and deploy a stand-alone primary site.</li>
+  <li>Plan and configure role-based administration.</li>
+  <li>Plan and deploy a multiple site hierarchy.</li>
+  <li>Replicate data and manage content in Configuration Manager.</li>
+  <li>Plan resource discovery and client deployment.</li>
+  <li>Configure Internet and cloud-based client management.</li>
+  <li>Maintain and monitor System Center 2012 R2 Configuration Manager.</li>
+  <li>Migrate to System Center 2012 R2 Configuration Manager.</li>
+</ul>

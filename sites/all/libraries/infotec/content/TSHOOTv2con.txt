@@ -1,0 +1,8 @@
+<ul>
+  <li>Module 1: Tools and Methodologies of Troubleshooting</li>
+  <li>Module 2: Troubleshooting at SECHNIK Networking Ltd</li>
+  <li>Module 3: Troubleshooting at TINC Garbage Disposal Ltd.</li>
+  <li>Module 4: Troubleshooting at PILE Forensic Accounting Ltd</li>
+  <li>Module 5: Troubleshooting at Bank of POLONA Ltd</li>
+  <li>Module 6: Troubleshooting at RADULKO Transport Ltd</li>
+</ul>

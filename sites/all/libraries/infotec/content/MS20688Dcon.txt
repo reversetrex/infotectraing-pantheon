@@ -1,0 +1,105 @@
+<p><strong>Module 1: Implementing a Troubleshooting Methodology</strong></p>
+<p>This module provides an introduction to the Windows 8.1 system architecture and explains how to identify the common troubleshooting scenarios. The module also provides an overview of a typical troubleshooting process.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Windows 8.1</li>
+  <li>Overview of Troubleshooting Steps</li>
+</ul>
+<p><strong>Module 2: Troubleshooting Startup Issues</strong></p>
+<p>This module provides an overview of the Windows 8.1 startup recovery environment and explains how to troubleshoot startup settings and issues. The module also describes how to recover BitLocker-operated drives.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Windows 8.1 Startup Recovery Environment</li>
+  <li>Troubleshooting Startup Settings</li>
+  <li>Troubleshooting Operating System Services Issues</li>
+  <li>Recovering BitLocker-Protected Drives</li>
+</ul>
+<p><strong>Module 3: Troubleshooting Hardware and Device Drivers</strong></p>
+<p>This module explains how to troubleshoot hardware issues, physical failures, and device driver failures. It also describes how to monitor reliability and configure the registry.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Hardware Troubleshooting</li>
+  <li>Troubleshooting Physical Failures</li>
+  <li>Troubleshooting Device Driver Failures</li>
+  <li>Monitoring Reliability</li>
+  <li>Configuring the Registry</li>
+</ul>
+<p><strong>Module 4: Troubleshooting Remote Computers</strong></p>
+<p>This module describes how to perform remote troubleshooting by using Windows 8.1 features such as Remote Desktop, Remote Assistance, and Windows PowerShell remoting.</p>
+<p>Lessons</p>
+<ul>
+  <li>Using Remote Desktop</li>
+  <li>Using Remote Assistance</li>
+  <li>Remoting with Windows PowerShell</li>
+</ul>
+<p><strong>Module 5: Resolving Network Connectivity Issues</strong></p>
+<p>This module explains how to identify network settings and troubleshoot network connectivity issues in wired and wireless networks, IPv4 and IPv6 connectivity, and name resolution.</p>
+<p>Lessons</p>
+<ul>
+  <li>Determining Network Settings</li>
+  <li>Troubleshooting Network Connectivity Issues</li>
+</ul>
+<p><strong>Module 6: Troubleshooting Group Policy</strong></p>
+<p>This module provides an overview of the Group Policy application and describes how to resolve issues in client configuration GPO application.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Group Policy Application</li>
+  <li>Resolving Client Configuration Failures and GPO Application Issues</li>
+</ul>
+<p><strong>Module 7: Troubleshooting User Settings</strong></p>
+<p>This module describes how to troubleshoot sign-in issues and issues in the application of user settings.</p>
+<p>Lessons</p>
+<ul>
+  <li>Troubleshooting Sign-in Issues</li>
+  <li>Troubleshooting the Application of User Settings</li>
+</ul>
+<p><strong>Module 8: Configuring and Troubleshooting Remote Connectivity</strong></p>
+<p>This module describes how to troubleshoot issues in VPN connectivity, NAP, and DirectAccess.</p>
+<p>Lessons</p>
+<ul>
+  <li>Troubleshooting VPN Connectivity Issues</li>
+  <li>Troubleshooting NAP Issues</li>
+  <li>Troubleshooting DirectAccess</li>
+</ul>
+<p><strong>Module 9: Troubleshooting Resource Access within a Domain</strong></p>
+<p>This module explains how to troubleshoot issues in file access and permissions. It also describes how to resolve printer access issues.</p>
+<p>Lessons</p>
+<ul>
+  <li>Troubleshooting File Access Issues</li>
+  <li>Troubleshooting File Permissions Issues</li>
+  <li>Troubleshooting Printer Access Issues</li>
+</ul>
+<p><strong>Module 10: Configuring and Troubleshooting Resource Access for Clients That Are Not Domain Members</strong></p>
+<p>This module describes how to configure and troubleshoot Workplace Join, Work Folders, and OneDrive Access.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Workplace Join</li>
+  <li>Configuring and Troubleshooting Work Folders</li>
+  <li>Configuring and Troubleshooting OneDrive Access</li>
+</ul>
+<p><strong>Module 11: Troubleshooting Applications</strong></p>
+<p>This module explains how to troubleshoot application installation issues and problems in desktop and Windows store apps. The module also describes how to resolve issues in Internet Explorer and Client Hyper-V.</p>
+<p>Lessons</p>
+<ul>
+  <li>Troubleshooting Desktop App Installation Issues</li>
+  <li>Troubleshooting Desktop Apps</li>
+  <li>Managing Windows Store Apps</li>
+  <li>Troubleshooting Internet Explorer</li>
+  <li>Implementing Client Hyper-V</li>
+</ul>
+<p><strong>Module 12: Maintaining Windows 8.1</strong></p>
+<p>This module describe how to troubleshoot activation issues and configure performance options in Windows 8.1. It also explains how to protect a Windows 8.1 system from malware and viruses and how to apply application and Windows updates.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Windows Activation</li>
+  <li>Monitoring and Configuring Performance Options in Windows 8.1</li>
+  <li>Protecting Windows 8.1 from Malware and Viruses</li>
+  <li>Applying Application and Windows Updates</li>
+</ul>
+<p><strong>Module 13: Recovering Windows 8.1</strong></p>
+<p>This modules explains how to restore files and recover a Windows 8.1 system.</p>
+<p>Lessons</p>
+<ul>
+  <li>File Recovery in Windows 8.1</li>
+  <li>Recovery Options in Windows 8.1</li>
+</ul>

@@ -1,0 +1,73 @@
+<p><strong>Module 1: Overview of System Center 2012 R2 Configuration Manager</strong> - This module explains the System Center 2012 R2 Configuration Manager infrastructure and the typical deployment scenarios.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to System Center 2012 R2 Configuration Manager</li>
+  <li>Overview of the Configuration Manager Site System Roles</li>
+  <li>Overview of the Configuration Manager Optional Site System Roles</li>
+  <li>Overview of Configuration Manager Deployment Scenarios</li>
+  <li>Overview of the Configuration Manager Client</li>
+</ul>
+<p><strong>Module 2: Planning and Deploying a Stand-Alone Primary Site</strong> - This module explains how to plan and deploy a stand-alone primary site.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning a Configuration Manager Stand-Alone Primary Site Deployment</li>
+  <li>Preparing to Deploy a Configuration Manager Primary Site</li>
+  <li>Installing a Configuration Manager Site Server</li>
+  <li>Performing Post-Setup Configuration Tasks</li>
+  <li>Tools for Monitoring and Troubleshooting a Configuration Manager Site</li>
+</ul>
+<p><strong>Module 3: Planning and Configuring Role-Based Administration</strong> - This module explains how to plan and configure Configuration Manager administrative users and access.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Role-Based Administration</li>
+  <li>Identifying IT Roles in Your Organization</li>
+  <li>Configuring Role-Based Administration</li>
+</ul>
+<p><strong>Module 4: Planning and Deploying a Multiple-Site Hierarchy</strong> - This module explains how to plan and deploy a multiple site hierarchy including a central administration site, primary sites, and a secondary site.</p>
+<p>Lessons</p>
+<ul>
+  <li>Planning a Configuration Manager 2012 Multiple-Site Hierarchy</li>
+  <li>Deploying a Configuration Manager 2012 Site</li>
+  <li>Deploying the Central Administration Site</li>
+  <li>Deploying Primary Sites in a Hierarchy</li>
+  <li>Deploying Secondary Sites</li>
+</ul>
+<p><strong>Module 5: Replicating Data and Managing Content in Configuration Manager 2012</strong> - This module explains how to plan, configure, and monitor data types, intersite communication, replication, and content.</p>
+<p>Lessons</p>
+<ul>
+  <li>Introduction to Data Types and Replication</li>
+  <li>Managing Data Replication</li>
+  <li>Planning Content Management</li>
+</ul>
+<p><strong>Module 6: Planning Resource Discovery and Client Deployment</strong> - This module explains how to plan and use various methods to discover resources and deploy the Configuration Manager client.</p>
+<p>Lessons</p>
+<ul>
+  <li>Identifying Resources by Using Configuration Manager Discovery Methods</li>
+  <li>Client Deployment in Configuration Manager</li>
+  <li>Deploying Windows-Based Configuration Manager Clients</li>
+  <li>Managing Configuration Manager Clients</li>
+  <li>Monitoring Client Status in Configuration Manager</li>
+</ul>
+<p><strong>Module 7: Configuring Internet and Cloud-Based Client Management</strong> - This module explains how to plan and configure Internet and cloud-based client management.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Remote Clients by Using System Center 2012 R2 Configuration Manager</li>
+  <li>Managing Internet-Based Configuration Manager Clients</li>
+  <li>Configuring Cloud Services in System Center 2012 R2 Configuration Manager</li>
+</ul>
+<p><strong>Module 8: Maintaining and Monitoring System Center 2012 Configuration Manager</strong> - This module explains how to perform maintenance tasks and monitor the Configuration Manager site systems.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Configuration Manager 2012 Site Maintenance</li>
+  <li>Performing Backup and Recovery of a Configuration Manager Site</li>
+  <li>Monitoring Configuration Manager 2012 Site Systems</li>
+</ul>
+<p><strong>Module 9: Migrating to System Center 2012 R2 Configuration Manager</strong> - This module explains how to perform migration tasks from Configuration Manager 2007 and upgrade Configuration Manager 2012 to Configuration Manager 2012 SP1 and then to System Center 2012 R2 Configuration Manager.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of the Migration Process</li>
+  <li>Preparing Configuration Manager 2007 Sites for Migration</li>
+  <li>Configuring Migration Settings</li>
+  <li>Migrating Objects</li>
+  <li>Upgrading Configuration Manager 2012 to Configuration Manager 2012 with SP1 and then to System Center 2012 R2 Configuration Manager</li>
+</ul>

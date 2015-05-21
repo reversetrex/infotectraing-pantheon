@@ -1,0 +1,131 @@
+<p><strong>Module  1: Windows 8.1 in an Enterprise Environment</strong></p>
+<p>Windows client operating systems are essential to the functionality of almost every enterprise environment. Most users perform the bulk of their computing tasks in the Windows client interface, including editing documents, sending email, interacting with applications, and numerous other tasks. Managing these clients, then, is an important task for enterprise information technology (IT) administrators. You must manage Windows clients to ensure that operating systems and any applications are operating properly. Providing adequate security measures, deploying new clients when required, maintaining an inventory, and monitoring Windows clients in your environment are all essential tasks for IT administrators. This module introduces you to Windows 8.1 and provides an overview of how you can manage Windows 8.1 computers in your environment to meet common enterprise IT challenges.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Windows 8.1 in an Enterprise Environment</li>
+  <li>Overview of Windows 8.1</li>
+</ul>
+<p><strong>Module  2: Installing and Deploying Windows 8.1</strong></p>
+<p>The Windows 8.1 operating system builds on the core functionality of Windows 8 and Windows 7 to provide a stable client experience across many device form factors and processor architectures. In this module, you will learn about the features that are available in different Windows 8.1 editions. This module introduces planning considerations and hardware requirements for a Windows 8.1 installation. You also will learn about the importance of device driver compatibility and application compatibility during installation. This module describes how you can perform a clean installation of Windows 8.1. It also describes how you can upgrade or migrate to Windows 8.1 and the upgrade paths that are supported. You will learn about the tools and technologies that you can use to customize an installation. You also will learn about Windows 8.1 activation and the different activation options.</p>
+<p>Lessons</p>
+<ul>
+  <li>Preparing to Install and Deploy Windows 8.1</li>
+  <li>Installing Windows 8.1</li>
+  <li>Customizing and Preparing a Windows 8.1 Image for Deployment</li>
+  <li>Volume Activation for Windows 8.1</li>
+</ul>
+<p><strong>Module  3: Tools Used for Configuring and Managing Windows 8.1</strong></p>
+<p>The Windows 8.1 operating system provides several methods to configure operating system components while signed in locally or connected remotely. This module describes the primary management tools in Windows 8.1 and the scenarios for using them.</p>
+<p>Lessons</p>
+<ul>
+  <li>Tools Used to Perform Local and Remote Management of Windows 8.1</li>
+  <li>Using Windows PowerShell to Configure and Manage Windows 8.1</li>
+  <li>Using Group Policy to Manage Windows 8.1</li>
+</ul>
+<p><strong>Module  4: Managing Profiles and User State in Windows 8.1</strong></p>
+<p>User profiles store user settings and data. For users working on a single computer, profiles can be stored locally. However, for users who roam between multiple computers, the user profile, or at least some parts of it, should be available on the network. This module describes the different user profile types. It also describes Microsoft User Experience Virtualization (UE-V), which you can use to synchronize settings between computers without using roaming user profiles. The operating system itself provides user profiles, whereas UE-V is a separate product that is part of the Microsoft Desktop Optimization Pack. In this module, you will learn about UE-V features and how to deploy and configure it on your network. You also will learn how to migrate user state and settings to computers that run Windows 8.1 operating systems.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing User Profiles</li>
+  <li>Configuring User State Virtualization</li>
+  <li>Migrating User State and Settings</li>
+</ul>
+<p><strong>Module  5: Managing Disks and Device Drivers</strong></p>
+<p>Although most computers that run Windows 8.1 have a single physical disk that is configured as a single volume, this is not always the case. For example, there might be times when you want to have multiple operating systems on a single computer, or you might want to have virtual memory on a different volume. Therefore, it is important that you understand how to create and manage simple, spanned, and striped volumes. You also might be interested in implementing the Storage Spaces feature. In addition to traditional storage, you can use Windows 8.1 to create and access virtual hard disks from within the operating system installed on a physical computer. To help maintain and optimize file system performance, you must be familiar with file system fragmentation and the tools that you can use to defragment a volume. Additionally, a good understanding of disk quotas is helpful if you are managing available disk space on installed volumes.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing Disks, Partitions, and Volumes</li>
+  <li>Maintaining Disks, Partitions, and Volumes</li>
+  <li>Working with Virtual Hard Disks</li>
+  <li>Installing and Configuring Device Drivers</li>
+</ul>
+<p><strong>Module  6: Configuring Network Connectivity</strong></p>
+<p>Network connectivity is essential in today’s business environment. An increasing number of computer users want to connect their computers to a network. These users might be part of a business network infrastructure, a home office, or they might need to share files and access the Internet. The Windows 8.1 operating system provides enhanced networking functionality compared with earlier Windows client operating systems, and it provides support for newer technologies. By default, Windows 8.1 implements both TCP/Internet Protocol version 4 (IPv4) and TCP/Internet Protocol version 6 (IPv6). Understanding IPv4, IPv6, and the operating system’s access capabilities will help you configure and troubleshoot Windows 8.1 networking features.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring IPv4 Network Connectivity</li>
+  <li>Configuring IPv6 Network Connectivity</li>
+  <li>Implementing Automatic IP Address Allocation</li>
+  <li>Implementing Name Resolution</li>
+  <li>Implementing Wireless Network Connectivity</li>
+</ul>
+<p><strong>Module  7: Configuring File Access and Printers on Windows 8.1 Clients</strong></p>
+<p>This module provides the information and tools that you need to manage access to shared folders and printers on a computer that is running the Windows 8.1 operating system. Specifically, the module describes how to share and protect folders, configure folder compression, and how to install, configure, and manage printers. Additionally, this module introduces Microsoft OneDrive (formerly known as SkyDrive) functionality. To maintain network or local file and printer systems, it is essential to understand how to safeguard these systems and make them operate as efficiently and effectively as possible. This includes setting up File permissions (previously known as NTFS permissions), compressing and managing shared folders and files, and configuring printers.</p>
+<p>Lessons</p>
+<ul>
+  <li>Managing File Access</li>
+  <li>Managing Shared Folders</li>
+  <li>Configuring File Compression</li>
+  <li>Configuring File Access</li>
+  <li>Managing Printers</li>
+</ul>
+<p><strong>Module  8: Implementing Network Security</strong></p>
+<p>When computers are connected to a network, they are exposed to potential security threats. You need to formulate a strategy to protect your computers. User policies, antivirus software, encrypted network traffic, and other protective measures work together to help shield your Windows 8.1 computers from security threats. It also is important to identify possible threats and to optimize appropriate Windows-based network security features, such as Windows Firewall and Windows Defender.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Threats to Network Security</li>
+  <li>Configuring Windows Firewall</li>
+  <li>Securing Network Traffic by Using IPsec</li>
+  <li>Guarding Windows 8.1 Against Malware</li>
+</ul>
+<p><strong>Module  9: Configuring Resource Access for Domain-Joined Devices and Devices That Are Not Domain Members</strong></p>
+<p>Before you can start working on a computer that is running the Windows 8.1 operating system, you must sign in. Signing in to a computer is a mandatory step, and based on your computer membership, you can sign in with a local account, a domain account, or a Microsoft account. In an Active Directory Domain Services (AD DS) environment, you typically would use a domain account exclusively because it has many benefits. However, in today’s world, users are not restricted to using company-owned computers only. They commonly use their own devices for accessing company data. Windows 8.1 and Windows Server 2012 R2 have several new features such as Workplace Join, Work Folders, and Remote Business Data Removal that are useful in such Bring Your Own Device (BYOD) scenarios. In this module, you will learn about the benefits of domain accounts and Windows 8.1 features that are useful when administrators need to control resource access for devices that are not domain members. You also will learn how to configure and use Workplace Join and Work Folders.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Domain Access for Windows 8.1 Devices</li>
+  <li>Configuring Resource Access for Devices That Are Not Domain Members</li>
+  <li>Configuring Workplace Join</li>
+  <li>Configuring Work Folders</li>
+</ul>
+<p><strong>Module  10: Securing Windows 8.1 Devices</strong></p>
+<p>Users are becoming increasingly computer literate, and they expect more from the technology that they use at work. They expect to be able to work from home, from branch offices, and on the road without a decrease in their productivity or a loss of access to the programs and applications that they need most. As the needs of users have changed, the demands on information technology (IT) support professionals have increased. Today, support professionals need to provide more capabilities and to support greater flexibility while continuing to minimize security risks. In this module, you will explore features of the Windows 8.1 operating system that you can use to maintain a secure computer environment for your users, such as Encrypting File System (EFS), BitLocker Drive Encryption, and User Account Control (UAC).</p>
+<p>Lessons</p>
+<ul>
+  <li>Authentication and Authorization in Windows 8.1</li>
+  <li>Applying Security Settings by Using Group Policy</li>
+  <li>Securing Data with EFS and BitLocker</li>
+  <li>Configuring and Testing UAC</li>
+</ul>
+<p><strong>Module  11: Configuring Applications for Windows 8.1</strong></p>
+<p>Computer users require applications for every task they perform, such as editing documents, querying databases, and generating reports. As part of administering the Windows 8.1 operating system, you need a strategy for deploying and managing the applications that users in your organization will run on their new Windows 8.1 computers and devices. Based on the specific needs of your organization, you can choose from a variety of methods to deploy and manage applications—from manual deployment methods to fully automated management technologies. You also need a strategy to handle the application compatibility issues that might arise when you try to run applications that were designed for older versions of Windows operating systems.</p>
+<p>Lessons</p>
+<ul>
+  <li>Application Deployment Options in Windows 8.1</li>
+  <li>Managing Windows Store Apps</li>
+  <li>Configuring Internet Explorer Settings</li>
+  <li>Configuring Application Restrictions</li>
+</ul>
+<p><strong>Module  12: Optimizing and Maintaining Windows 8.1 Computers</strong></p>
+<p>Users have high expectations of technology. Therefore, performance is a key issue in today’s business environment, and it is important to consistently optimize and manage your systems’ performance. The Windows 8.1 operating system includes several monitoring and configuration tools that you can use to obtain information about computer performance, to maintain reliability, and to configure operating system and app updates.</p>
+<p>Lessons</p>
+<ul>
+  <li>Optimizing Performance in Windows 8.1</li>
+  <li>Managing the Reliability of Windows 8.1</li>
+  <li>Managing Software Updates in Windows 8.1</li>
+</ul>
+<p><strong>Module  13: Configuring Mobile Computing and Remote Access</strong></p>
+<p>Mobile computers are available in many types and configurations. This module includes descriptions of various available mobile devices and describes how you can synchronize them with a computer that is running the Windows 8.1 operating system. Additionally, this module describes various power options that you can configure in Windows 8.1.</p>
+<p>Windows 8.1 helps end users become more productive, regardless of their location or that of the data they need. For users who want to use virtual private networks (VPNs) to connect to enterprise resources, new features in Windows 8.1 and Windows Server 2012 R2 create a seamless experience. You can use DirectAccess, VPN, and Remote Desktop functionality to enable users to access their work environments from anywhere they are connected.</p>
+<p>Lessons</p>
+<ul>
+  <li>Configuring Mobile Computers and Device Settings</li>
+  <li>Overview of DirectAccess</li>
+  <li>Configuring VPN Access</li>
+  <li>Configuring Remote Desktop and Remote Assistance</li>
+</ul>
+<p><strong>Module  14: Recovering Windows 8.1</strong></p>
+<p>It is important to protect data on your computer from accidental loss or corruption. To recover from a problem, typically it is easier to restore system settings than to reinstall an operating system and apps. The Windows 8.1 operating system provides a number of features that you can use to protect important data files, in addition to tools that you can use to recover a computer that will not start or that starts with errors. You can use features such as File History, System Protection, and synchronization with Microsoft OneDrive (formerly known as SkyDrive) to protect your data. To support your users, it is important that you understand how to use these features and tools.</p>
+<p>Lessons</p>
+<ul>
+  <li>Backing Up and Restoring Files in Windows 8.1</li>
+  <li>Recovery Options in Windows 8.1</li>
+</ul>
+<p><strong>Module  15: Configuring Client Hyper-V</strong></p>
+<p>Hyper-V is the primary platform for infrastructure virtualization. Hyper V enables multiple operating systems to run in individual virtual machines that share the same physical platform. Virtual machines can be isolated or connected to a network. This module will introduce you to Client Hyper V in Windows 8.1 and explain the fundamentals of working with virtual machines in a Client Hyper V environment.</p>
+<p>Lessons</p>
+<ul>
+  <li>Overview of Client Hyper-V</li>
+  <li>Creating Virtual Machines</li>
+  <li>Managing Virtual Hard Disks</li>
+  <li>Managing Checkpoints</li>
+</ul>

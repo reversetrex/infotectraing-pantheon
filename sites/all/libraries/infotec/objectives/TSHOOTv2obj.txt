@@ -1,0 +1,9 @@
+<p>Upon completing this course, the learner will be able to meet these overall objectives:</p>
+<ul>
+  <li>Describe the troubleshooting tools and methodologies that are used to identify and resolve issues in complex enterprise networks</li>
+  <li>Isolate and fix the network issues that your company, SECHNIK Networking Ltd., is facing</li>
+  <li>Isolate and fix the network issues that your customer, TINC Garbage Disposal Ltd., is facing</li>
+  <li>Isolate and fix the network issues that your customer, PILE Forensic Accounting Ltd., is facing</li>
+  <li>Isolate and fix the network issues that your customer, Bank of POLONA Ltd., is facing</li>
+  <li>Isolate and fix the network issues that your customer, RADULKO Transport Ltd., is facing</li>
+</ul>

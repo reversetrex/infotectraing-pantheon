@@ -1,0 +1,12 @@
+<p>After completing this course, students will be able to:</p>
+<ul>
+  <li>Describe the solutions and features related to managing Windows 8.1 in an enterprise network environment.</li>
+  <li>Install Windows 8.1 and upgrade previous versions of Windows to Windows 8.1.</li>
+  <li>Configure and manage Windows 8.1 by using Windows PowerShell, Group Policy, and Windows Intune.</li>
+  <li>Implement an application strategy for Windows 8.1.</li>
+  <li>Manage non-domain member devices and provide resource access for these devices.</li>
+  <li>Secure Windows 8.1 devices by using appropriate tools and technologies.</li>
+  <li>Configure remote access for computers running Windows 8.1.</li>
+  <li>Monitor and recover Windows 8.1.</li>
+  <li>Implement Client Hyper-V in Windows 8.1.</li>
+</ul>
